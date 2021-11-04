@@ -1,1 +1,1 @@
-# us_paraphrases
+# req_paraphrases
