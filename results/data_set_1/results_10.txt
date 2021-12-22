@@ -1,0 +1,936 @@
+
+====================================================================================================
+use_gpu = False
+diversity_ranker = levenshtein
+do_diverse = False
+max_return_phrases = 10
+max_length = 32
+adequacy_threshold = 0.1
+fluency_threshold = 0.5
+
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a Data user, I want to have the 12-19-2017 deletions processed.
+----------------------------------------------------------------------------------------------------
+('as data user i want to have the deletions processed by the federal department of social security', 66)
+('as a data user i want the deletions processed by dni from 12-19-2017', 51)
+('as a data user i want the data deletions to be processed on 19 may 2017', 51)
+('as a data user i want to have the deletions processed from 13 to 19 november 2017', 51)
+('as a data user i want the deletions processed in december 2017', 48)
+('as a data user i want to have the deletions processed from 19 to 19 2017', 42)
+('as a data user i want to have the deletions processed on 12-19-2017', 37)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a UI designer, I want to redesign the Resources page, so that it matches the new Broker design styles.
+----------------------------------------------------------------------------------------------------
+('i want to redesign the resources page to match the new broker design styles', 41)
+('as a designer i want to redesign the resource page so it corresponds to the new broker design styles', 33)
+('i want to redesign the resources page so that it matches the new broker design styles', 30)
+('as a user interface designer i want to redesign the resources page so that it matches the new broker style', 26)
+('as a ui designer i want to redesign the resources page so that it corresponds to the new broker design styles', 26)
+('as a ui designer i want to redesign the resources page so that it can match the new broker design styles', 19)
+('as a ui designer i want to redesign the resources page so that it matches the new brokers design styles', 14)
+('as a ui designer i want to redesign the resources page so that it matches the new broker design styles', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a UI designer, I want to report to the Agencies about user testing, so that they are aware of their contributions to making Broker a better UX.
+----------------------------------------------------------------------------------------------------
+('as a ui designer i want to report to the agencies about user testing so that they know about their contributions to make broker a better ux', 27)
+('as a ui designer i want to report to the agencies about user testing so they know of their contributions to making broker a better ux', 26)
+('as a ui designer i want to report to the agencies about user testing so that they know their contribution to making broker a better ux', 25)
+('as a ui designer i want to report to the agencies about user testing so they are aware of their contribution to making broker a better ux', 19)
+('as a ui designer i want to report to the agencies about user testing so they are aware of their contributions to making broker a better ux', 18)
+('as a ux designer i want to report to the agencies about user testing so that they are aware of their contributions to making broker a better ux', 14)
+('as a ui designer i want to report to the agencies about user testing so that they are aware of their contributions to making broker a better ux', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a UI designer, I want to move on to round 2 of DABS or FABS landing page edits, so that I can get approvals from leadership.
+----------------------------------------------------------------------------------------------------
+('i want to move on to round 2 of dabs or fabs landing page edits so i can get approvals from leadership', 35)
+('as a ui designer i want to move on to round 2 of dabs or fabs page edits so i can get approvals from leadership', 26)
+('as a ui designer i want to move on to round 2 of dabs or fabs page edits so that i can get approvals from leadership', 21)
+('as a ui designer i want to move to round 2 of dabs or fabs landing page edits so i can get approvals from leadership', 21)
+('as a ui designer i want to go to round 2 of dabs or fabs landing page edits so that i can get approvals from leadership', 19)
+('as a ui designer i want to move on to round 2 of dabs or fabs landing page edits so i can get approval from leadership', 19)
+('as a ui designer i want to move on to round 2 of dabs or fabs landing page edits so i can get approvals from leadership', 18)
+('as a user interface designer i want to move on to round 2 of dabs or fabs landing page edits so that i can get approvals from leadership', 18)
+('as a ui designer i want to move on to round 2 of dabs or fabs landing page edits so that i can get approvals from leadership', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a UI designer, I want to move on to round 2 of Homepage edits, so that I can get approvals from leadership.
+----------------------------------------------------------------------------------------------------
+('as a ui designer i want to start round 2 of homepage edits to get approval from leadership', 35)
+('as a ui designer i want to move to round 2 of the homepage edits to get approvals from leadership', 32)
+('as a ui designer i want to go to round 2 of home page edits so that i can get approval from the leadership', 25)
+('as a ui designer i want to move to round 2 of homepage edits so i can get approvals from the leadership', 25)
+('as a user experience designer i want to move on to round 2 of homepage edits so i can get approvals from leadership', 24)
+('as a ux designer i want to go to round 2 of homepage edits so that i can get approval from leadership', 21)
+('as a ui designer i want to go on to round 2 of homepage edits so i can get approvals from leadership', 21)
+('as a ui designer i want to move to round 2 of homepage edits so that i can get approval from the leadership', 21)
+('as a ui designer i want to move on to round 2 of homepage edits so that i can get approvals from leadership', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a UI designer, I want to move on to round 3 of the Help page edits, so that I can get approvals from leadership.
+----------------------------------------------------------------------------------------------------
+('as a ux designer i want to move to round 3 of the help page editings so i can get approval from the leadership', 30)
+('as a ui designer i want to go to round 3 of help page edits so i can get approval from leadership', 29)
+('as a ui designer i want to move to round 3 of help page edits so i can get approvals from leadership', 25)
+('as a ui designer i want to move onto round 3 of the help page edits so i can get approval from the leadership', 24)
+('as a ui designer i want to move on to round 3 of the help page edits so that i get approval from the leadership', 22)
+('as a ui designer i want to move to round 3 of the help page edits so i can get approvals from leadership', 21)
+('as a ui designer i want to move to round 3 of the help page edits so that i can get approval from the leadership', 21)
+('as a ui designer i want to go to round 3 of the help page edits so that i can get approvals from leadership', 19)
+('as a ui designer i want to move on to round 3 of help page edits so that i can get approvals from leadership', 17)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a Developer , I want to be able to log better, so that I can troubleshoot issues with particular submissions and functions.
+----------------------------------------------------------------------------------------------------
+('as a developer i want to be able to log better so i can troubleshoot issues with specific submissions and functions', 28)
+('as a developer i want to be able to log better so i can troubleshoot issues with certain submissions and functions', 27)
+('as a developer i want to be able to log better to be able to troubleshoot issues with particular submissions and functions', 24)
+('as a developer i want to be able to log better so i can troubleshoot issues with particular submissions and functions', 19)
+('as a developer i want to be able to log better so that i can troubleshoot issues with particular submissions and functions', 14)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a Developer, I want to add the updates on a FABS submission to be modified when the publishStatus changes, so that I know when the status of the submission has changed.
+----------------------------------------------------------------------------------------------------
+('as a developer i want to add the updates on a fabs submission to be modified when the status of the publish changes so that i know when the status', 60)
+('as a developer i want to add the updates on a fabs submission to be modified when the status of the publish is changed so i know if the status of the submission has', 50)
+('as a developer i want to add updates on a fabs submission that are modified when the publishstatus changes so i know when the status of the submission has changed', 27)
+('as a developer i want to add updates on a fabs submission to be modified if the publishstatus changes so i know when the status of the submission has changed', 26)
+('as a developer i want to add updates on fabs submission to be modified when the publishstatus change so i know when the status of the submission has changed', 25)
+('as a developer i want to add updates to a fabs submission that is modified when the publishstatus changes so that i know when the status of the submission has changed', 24)
+('as a developer i want to add updates on a fabs submission to be modified when the publishstatus changes so i know when the status of the submission has changed', 22)
+('as a developer i want to add the updates on a fabs submission to be modified when the publishstatus changes so i know when the status of the submission has changed', 18)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a DevOps engineer, I want New Relic to provide useful data across all applications.
+----------------------------------------------------------------------------------------------------
+('i want new relic to provide useful data across all applications', 34)
+('as a devops engineer i want new relic to provide useful data across all apps', 21)
+('as a devops engineer i want new relic to provide useful data across all applications', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a UI designer,  I want to move on to round 2 of the Help page edits, so that I can get approvals from leadership.
+----------------------------------------------------------------------------------------------------
+('as a designer of ui i want to move to round 2 of help page edits so i can get approvals from leadership', 33)
+('as a ui designer i want to move to round 2 of the help page changes so that i can get approval from the leadership', 28)
+('as a ui designer i want to move to round 2 of help page edits so i can get approvals from leadership', 26)
+('as a ui designer i want to move to round 2 of the help page edits so i can get approvals from the leadership', 26)
+('as a ui designer i want to move on to round 2 of the help page edits so i can get approvals from the leadership', 23)
+('as a ux designer i want to go on to round 2 of the help page edits so that i can get approvals from the leadership', 22)
+('as a ui designer i want to move on to round 2 of the help page edits so i can get approvals from leadership', 19)
+('as a ui designer i want to move on to round 2 of the help page edits so that i can get approval from the leadership', 19)
+('as a ui designer i want to move to round 2 of the help page edits so that i can get approval from leadership', 18)
+('as a ui designer i want to move on to round 2 of the help page edits so that i can get approvals from leadership', 14)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a UI designer, I want to move on to round 2 of Homepage edits, so that I can get approvals from leadership.
+----------------------------------------------------------------------------------------------------
+('as a ui designer i want to move on to round 2 of homepage edits to get approvals from the leadership', 29)
+('as a ui designer i want to move to round 2 of homepage edits to get approval from leadership', 29)
+('as a ui designer i want to move on to round 2 of page creations so i can get approvals from leadership', 28)
+('as a ui designer i want to move on to round 2 of homepage updates to get approvals from leadership', 28)
+('as a ui designer i want to move on to round 2 of homepage edits to get approvals from leadership', 25)
+('as a ui designer i want to move to round 2 of the homepage edits so that i can get approvals from the leadership', 24)
+('as a ui designer i want to move onto round 2 of homepage edits so i can get approvals from the leadership', 23)
+('as a ui designer i want to go on to round 2 of homepage edits so i can get approvals from leadership', 21)
+('as a ui designer i want to move on to round 2 of homepage edits so that i can get approvals from leadership', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a Broker user, I want to Upload and Validate the error message to have accurate text.
+----------------------------------------------------------------------------------------------------
+('as a broker i want to upload and validate the error message to have accurate text', 18)
+('as a broker user i want to upload and validate the error message to have an accurate text', 16)
+('as a broker user i want to upload and validate the error message to have accurate text', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a Broker user, I want the D1 file generation to be synced with the FPDS data load, so that I don't have to regenerate a file if no data has been updated.
+----------------------------------------------------------------------------------------------------
+("as a broker user i want the d1 file generation to be synchronized with the fpds data load so i don't need to regenerate a file if the data have not", 42)
+("as a broker user i want d1 file generation to be synced with the fpds data load so that i don't have to regenerate a file if no data", 34)
+("as a broker user i want the d1 file generation to be synced with the fpds data load so that i don't have to regenerate a file if no data", 30)
+("as a broker user i want the d1 file generation to be synchronized with the fpds data load so i don't have to regenerate a file if no data has been updated", 24)
+("as a broker user i want the d1 file generation to be synced with fpds data load so i don't have to regenerate a file if no data has been updated", 22)
+("as a broker user i want the d1 file generation synced with the fpds data load so that i don't have to regenerate a file if no data has been updated", 19)
+("as a broker user i want the d1 file generation to be synced with the fpds load so that i don't have to regenerate a file if no data has been updated", 18)
+("as a broker user i want the d1 file generation to be synced with the fpds data load so i don't have to regenerate a file if no data has been updated", 18)
+("as a broker user i want the d1 file generation to be synced with the fpds data load so that i don't have to regenerate a file if no data has been updated", 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a Website user, I want to access published FABS files, so that I can see the new files as they come in.
+----------------------------------------------------------------------------------------------------
+('as a website user i want to access fabs uploaded files so i can see the new files when they come in', 34)
+('as a web browser i want to access fabs -published files so that i can see the new files as they come in', 30)
+('as a website user i want to access the fabs files so i can see the new files as they come in', 25)
+('as a user of this website i want to access published fabs files so i can see the new files as they come in', 25)
+('as a user of the website i want to access published fabs files so i can see the new files as they come in', 24)
+('as a website user i want to access published fabs files so i can see the new files as they come', 21)
+('as a web user i want to access published fabs files so that i can see the new files as they come', 20)
+('as a web-user i want to access published fabs files so that i can see the new files as they come in', 18)
+('as a website user i want to access published fabs files so i can see the new files as they come in', 18)
+('as a website user i want to access a published fabs file so that i can see the new files as they come in', 16)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As an owner, I want to be sure that USAspending only send grant records to my system.
+----------------------------------------------------------------------------------------------------
+('i want to be sure that usaspending only sends grant records to my system', 26)
+('as an owner i want to make sure that usaspending only sends grant data to my system', 24)
+('as owner i want to be sure that usaspending only sends grants to my system', 24)
+('as an owner i want to make sure usaspending only sends grant records to my system', 22)
+('as a beneficiary i want to be sure that usaspending only sends grant records to my system', 21)
+('as a grant-holder i want to be sure that usaspending only sends grant records to my system', 19)
+('as owner i want to be sure that usaspending only sends grant records to my system', 17)
+('as a grant owner i want to be sure that usaspending only sends grant records to my system', 15)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a Developer, I want to update the Broker validation rule table to account for the rule updates in DB-2213.
+----------------------------------------------------------------------------------------------------
+('as a developer i want to update the broker validation rule table to account for rule changes in db-2213', 22)
+('as a developer i want to update the broker validation rule table to account for rule updates in db-2213', 17)
+('as a developer i want to update the broker validation rule table to account for the rule updates in db-2213', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a Developer, I want to add the GTAS window data to the database, so that I can ensure the site is locked down during the GTAS submission period.
+----------------------------------------------------------------------------------------------------
+('as a developer i want to add the gtas database data to ensure that the site is secured during the submission period', 61)
+('as a developer i want to add the data for the gtas window in the database so i can ensure that the site is locked down during the submission period', 48)
+('as a developer i want to add the data from the gtas window to the database so i can ensure that the site is locked down during the gtas submission period', 42)
+('as a developer i want to add the data of the gtas window to the database so i can ensure that the site is locked down during the gtas submission period', 40)
+('as a developer i want to add the gtas window data to the database so i can ensure that the site is locked down during the gtas submission period', 23)
+('as a developer i want to add the gtas window data to the database so i can ensure the site is locked down during gtas submission period', 22)
+('as a developer i want to add the gtas window data to the database so i can ensure the site is locked down during the gtas submission period', 18)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a Developer, I want D Files generation requests to be managed and cached, so that duplicate requests do not cause performance issues.
+----------------------------------------------------------------------------------------------------
+('as a developer i want the request for d files generation to be managed and cached so that duplicate requests do not cause performance issues', 38)
+('as a developer i want requests for d files generation to be managed and cached so that duplicate requests do not cause performance issues', 35)
+('as a developer i want that generation requests to d file be managed and cached to ensure that duplicate requests do not cause performance issues', 35)
+('as a developer i want generation requests for d files to be managed and cached so that duplicate requests do not cause performance issues', 33)
+('as a developer i want generation requests of d file to be managed and cached so that duplicate requests do not cause performance issues', 31)
+('as a developer i want d files generation requests managed and cached so that duplicate requests do not cause performance problems', 25)
+("as a developer i want d file generation requests to be managed and cached so duplicate requests don't cause performance issues", 21)
+("as a developer i want d files generating request to be managed and cached so that duplicate requests don't cause performance issues", 18)
+('as a developer i want dfiles-generation-requests to be managed and cached so that duplicate requests do not cause performance issues', 16)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a user, I want to access the raw agency published files from FABS via USAspending.
+----------------------------------------------------------------------------------------------------
+('as a user i want to access raw agency data submitted to fabs via usaspending', 33)
+('as a user i want to access the raw agency files published by fabs via usaspending', 29)
+('as a user i want to access raw agency filed released files from fabs via usaspending', 28)
+('as a user i want to access the raw fabs agency published files via usaspending', 28)
+('as a user i want to access raw agency released files from fabs via usaspending', 23)
+('i want to access the raw agency published files from fabs via usaspending', 23)
+('as a user i want to access the raw agency publications files from fabs via usaspending', 20)
+('as a user i want to access raw agency-published files from fabs via usaspending', 18)
+('as a user i want to access the raw agency-published files from fabs via usaspending', 14)
+('as a user i want to access the raw agency published files from fabs via usaspending', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As an Agency user, I want to be able to include a large number of flexfields without performance impact.
+----------------------------------------------------------------------------------------------------
+('as an agency user i want to be able to use a large number of flexfields without impact on performance', 35)
+('as an agency user i want to be able to incorporate a large number of flexfields without performance impact', 20)
+('as an agency user i want to be able to add a large number of flexfields without performance impact', 19)
+('as an agency user i want to be able to include a large number of flexfields without performance impact', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a Broker user, I want  to help create content mockups, so that I can submit my data efficiently.
+----------------------------------------------------------------------------------------------------
+('as a broker user i want to help create content mockups to facilitate the submission of data', 45)
+('as a broker user i want to help create content mockups to help me submit my data efficiently', 23)
+('as a broker user i want to help create content mockups so i can submit my data efficiently', 19)
+('as a broker user i want to help create content mockups so that i can submit data efficiently', 17)
+('as a broker user i want to help create content mockups so that i can submit my data efficiently', 14)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a UI designer, I want to track the issues that come up in Tech Thursday, so that I know what to test and what want s to be fixed.
+----------------------------------------------------------------------------------------------------
+('i want to track the issues that come up in tech thursday so that i know what to test and what needs to be fixed', 35)
+('as a ui designer i want to track the issues that come up in tech thursday so i know what to test and what i want to fix', 27)
+('as a ui designer i want to track issues that come up in tech thursday so i know what to test and what i want to be fixed', 26)
+('as a ui designer i want to track issues that come up in tech thursday so i know what to test and what want to be fixed', 24)
+('as a ui designer i want to track the issues that come up in tech thursday so i know what i can test and what wants to be fixed', 24)
+('as a ui designer i want to track the issues that come up at tech thursday so i know what to test and what want to be fixed', 22)
+('as a ui designer i want to track the issues that come up on tech thursday so i know what to test and what want to be fixed', 21)
+('as a ui designer i want to track the issues that come up on tech thursday so that i know what i can test and what wants to be fixed', 20)
+('as a ui designer i want to track the issues that come up in tech thursday so i know what to test and what wants to be fixed', 19)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As an Owner, I want to create a user testing summary from the UI SME, so that I can know what UI improvements we will follow through on.
+----------------------------------------------------------------------------------------------------
+('as owner i want to create a user testing summary from the ui sme so that i can know what we will continue to do', 46)
+('as a manager i want to create a user testing summary from the ui sme so i can know what improvements we will follow', 35)
+('as an owner i want to create a user testing summary from the ui sme so i can know what ui improvements we are going to follow', 35)
+('as owner i want to create a user testing summary from the ui sme so i can know what ui improvements we will follow up on', 27)
+('as owner i want to create a user testing summary from the ui sme so that i know what improvements we will follow through on', 23)
+('as owner i want to create a user testing summary from the ui sme so that i can know what ui improvements we will follow up on', 22)
+('as a owner i want to create a user testing summary from the ui sme so i can know what improvements we will follow through on', 22)
+('as owner i want to create a user testing summary from the ui sme so i can know what ui improvements we will follow through on', 21)
+('as an owner i want to create a user testing summary from the ui sme so that i can know what ui improvements we will follow up on', 19)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a UI designer, I want to begin user testing, so that I can validate stakeholder UI improvement requests.
+----------------------------------------------------------------------------------------------------
+('as a ui designer i want to begin user testing so that i can validate stakeholder requests for improvement', 33)
+('as a ui designer i want to start user testing to validate stakeholder ui improvement requests', 30)
+('as a ui designer i want to begin user testing so i can validate stakeholder improvement requests', 21)
+('as a ui designer i want to begin user testing so i can validate stakeholder ui improvements requests', 19)
+('as a ui designer i want to begin user testing so i can validate stakeholder ui improvement requests', 18)
+('as a ui designer i want to start user testing so that i can validate stakeholder ui improvement requests', 18)
+('as a ui designer i want to begin user testing so that i can validate stakeholder ui improvements requests', 14)
+('as a ui designer i want to begin user testing so that i can validate stakeholder ui improvement requests', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a UI designer, I want to schedule user testing, so that I can give the testers advanced notice to ensure buy-in.
+----------------------------------------------------------------------------------------------------
+('as a ui designer i want to schedule user testing so that i can give early notice to ensure buy-in', 31)
+('as a ui designer i want to schedule user testing so i can give the testers advance notice to ensure buying in', 23)
+('as a ui designer i want to schedule user testing so that i can give them advance notice to ensure buy-in', 22)
+('as a ui designer i want to schedule user testing so that i can give the testers early notice to ensure buy-in', 20)
+('as a ui designer i want to schedule user testing so i can give the testers advance notice to ensure buy-in', 19)
+('as a ui designer i want to schedule user testing so i can give the testers advanced notice to ensure buy-in', 18)
+('as a ui designer i want to schedule user testing so that i can give the testers advance notice to ensure buy-in', 14)
+('as a ui designer i want to schedule user testing so that i can give the testers advanced notice to ensure buy-in', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As an Owner, I want to design a schedule from the UI SME, so that I know the potential timeline of the UI improvements wanted.
+----------------------------------------------------------------------------------------------------
+('as a owner i want to design a schedule from the ui sme so i know the potential timeline for the needed ui improvements', 35)
+('as an owner i want to design a schedule from the ui sme so that i know the potential timeline of the wanted ui improvements', 27)
+('as an owner i want to design a schedule from the ui sme so i know the potential timeline for the ui improvements desired', 25)
+('as owner i want to design a schedule of the ui sme so i know the potential timeline of the ui improvement wanted', 25)
+('as an owner i want to design a schedule from the ui sme so i know the potential timeline of the ui improvements desired', 23)
+('as an owner i want to design a schedule from the ui sme so i know the potential timeline of the ui improvements i want', 22)
+('as a owner i want to design a schedule from the ui sme so that i know the potential timeline of the ui improvements desired', 19)
+('as an owner i want to design a schedule from the ui sme so i know the potential timeline of the ui improvements wanted', 18)
+('as an owner i want to design a schedule from the ui sme so that i know the potential timeline of the ui improvement wanted', 14)
+('as an owner i want to design a schedule from the ui sme so that i know the potential timeline of the ui improvements wanted', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As an Owner, I want to design an audit from the UI SME, so that I know the potential scope of the UI improvements want ed.
+----------------------------------------------------------------------------------------------------
+('as owner i want to design an audit from the ui sme so i know the potential scope of the ui improvements i want', 26)
+('as an owner i want to design an audit from the ui sme so that i know the potential scope of the ui improvements that i want', 21)
+('as owner i want to design an audit from the ui sme so that i know the potential scope of the ui improvement i want', 21)
+('as an owner i want to design an audit from the ui - sme so that i know the potential scope of the ui improvements i want', 20)
+('as an owner i want to design an audit from the ui sme so i know the potential scope of the ui improvements wanted', 19)
+('as an owner i want to design an audit from the ui sme so that i know the potential scope of the ui improvements i want', 18)
+('as an owner i want to design an audit from the ui sme so that i know the potential scope of the improvements i want ed', 18)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a Developer, I want to prevent users from double publishing FABS submissions after refreshing, so that there are no duplicates.
+----------------------------------------------------------------------------------------------------
+('as a developer i want to prevent users from publishing fabs submissions after refreshing so that there are no duplicates', 20)
+('as a developer i want to prevent users from double publishing fabs submissions after refreshing so there are no duplicates', 18)
+('as a developer i want to prevent users from double publishing fabs submissions after refreshing so that there are no duplicates', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As an data user, I want to receive updates to FABS records.
+----------------------------------------------------------------------------------------------------
+('as a user of data i want to receive updates on fabs records', 21)
+('as data user i want to receive updates on fabs records', 18)
+('as a data user i want to receive updates on fabs records', 16)
+('as data user i want to receive updates to fabs records', 16)
+('as a data user i want to receive updates to fabs records', 14)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As an Agency user, I want to be able to include a large number of flexfields without performance impact.
+----------------------------------------------------------------------------------------------------
+('as a client i want to be able to include a large number of flexfields without performance impact', 23)
+('as an agency user i want to be able to add a large number of flexfields without performance impacts', 19)
+('as an agency user i want to be able to add a large number of flexfields without performance impact', 19)
+('as an agency user i want to be able to include a large number of flexible fields without performance impact', 18)
+('as an agency user i want to be able to include a large number of flexfields without performance impact', 13)
+('as an agency user i want to be able to include a large number of flexfields without performance impacts', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a Developer , I want to update the FABS sample file to remove FundingAgencyCode after FABS is updated to no longer require the header.
+----------------------------------------------------------------------------------------------------
+('as a developer i want to update the sample file of the fabs to remove fundingagencycode after fabs is updated to no longer require the header', 31)
+('as a developer i want to update the sample file of fabs to remove fundingagencycode after fabs is updated to no longer require the header', 27)
+('as a developer i want to update the sample fabs file to remove fundingagencycode after fabs is updated to no longer require the header', 24)
+('as a developer i want to update the fabs sample file to remove fundingagencycode when fabs is updated to no longer require the header', 18)
+('as a developer i want to update the fabs sample file to remove fundingagencycode after fabs is updated to no longer require the header', 14)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As an agency user, I want to ensure that deleted FSRS records are not included in submissions.
+----------------------------------------------------------------------------------------------------
+('i want to ensure deleted fsrs records are not included in submissions as an agency user', 53)
+('as a user i want to ensure that deleted fsrs records are not included in submissions', 21)
+('as a member of the agency i want to ensure that deleted fsrs records are not included in submissions', 20)
+('as an agency user i want to ensure that deleted fsrs records are not included in the submissions', 17)
+('as a user of an agency i want to ensure that deleted fsrs records are not included in submissions', 16)
+('as a agency user i want to ensure that deleted fsrs records are not included in submissions', 14)
+('as an agency user i want to ensure that deleted fsrs records are not included in submissions', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a website user, I want to see updated financial assistance data daily.
+----------------------------------------------------------------------------------------------------
+('as a website user i want to see daily updated financial aid data', 33)
+('as a user of this website i want to see daily updated financial assistance data', 32)
+('as a user of the website i want to see daily updated financial assistance data', 31)
+('as a website user i want to see daily updated financial assistance information', 28)
+('as a user of this website i want to see updated financial aid data daily', 28)
+('as a website user i want to see daily updated financial assistance data', 25)
+('as a user i want to see updated financial assistance data daily', 21)
+('as a user of a website i want to see updated financial assistance data daily', 16)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a user, I want the publish button in FABS to deactivate after I click it while the derivations are happening, so that I cannot click it multiple times for the same submission.
+----------------------------------------------------------------------------------------------------
+('as a user i want the publish button in fabs to deactivate after i click it while the calculations happen so i can not click it multiple times for the same submission', 32)
+('as a user i want the publish button in fabs to deactivate after i click it while derivations occur so that i can not click it multiple times for the same submission', 31)
+('as a user i want the publish button in fabs to deactivate after i click it while the deductions happen so that i cannot click it multiple times for the same submission', 24)
+("as a user i want the publish button to deactivate after i click it while the derivations are happening so that i can't click it multiple times for the same submission", 23)
+('as a user i want the publishing button in fabs to deactivate after i click it while the derivations are happening so that i can not click it multiple times for the same submission', 17)
+("as a user i want the publish button in fabs to deactivate after i click it while the derivations are happening so that i can't click it multiple times for the same submission", 15)
+('as a user i want the publish button in fabs to deactivate after i click it while the derivations are happening so that i cannot click it multiple times for the same submission', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a Developer , I want to ensure that attempts to correct or delete non-existent records don't create new published data.
+----------------------------------------------------------------------------------------------------
+("as a developer i want to ensure that attempts to delete or correct non-existent records don't create new published data", 26)
+('as a developer i want to ensure that attempts to correct or delete non-existent records do not create new published data', 16)
+("as a developer i want to ensure that attempts to correct or delete nonexistent records don't create new published data", 15)
+("as a developer i want to ensure that attempts to correct or delete non-existent records don't create new published data", 14)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As an Owner, I want to reset the environment to only take Staging MAX permissions, so that I can ensure that the FABS testers no longer have access.
+----------------------------------------------------------------------------------------------------
+('as owner i want to reset the environment to only take storage max permissions so i can ensure that fabs testers no longer have access to the database', 45)
+('i want to reset the environment to only take staging max permissions so that i can ensure that the fabs testers no longer have access to the environment', 43)
+('as a owner i want to reset the environment to only take staging max permissions so i can ensure that the fabs testers do not have access to the content', 39)
+('as owner i want to reset the environment to only take staging max permissions so i can ensure that fabs testers no longer have access to eblock', 34)
+('as an owner i want to reset the environment to take only staging max permissions so i can ensure that the fabs testers no longer have access', 26)
+('as an owner i want to reset the environment to only take the staging max permissions so i can ensure that fabs testers no longer have access', 26)
+('as owner i want to reset the environment to only take staging max permissions so i can ensure that the fabs testers no longer have access to', 23)
+('as an owner i want to reset the environment to only take staging max permissions so i can ensure that fabs testers no longer have access', 22)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a user, I want the flexfields in my submission file to appear in the warning and error files when the only error is a missing required element.
+----------------------------------------------------------------------------------------------------
+('as a user i want the flexfields in my submission file to appear in warning and error files when the only error is a missing required element', 17)
+('as a user i want the flex fields in my submission file to appear in the warning and error files when the only error is a missing required element', 14)
+('as a user i want the flexfields in my submission file to appear in the warning and error files when the only error is a missing required element', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a user, I want to have accurate and complete data related to PPoPCode and PPoPCongressionalDistrict.
+----------------------------------------------------------------------------------------------------
+('as a user i want to have accurate and complete data about ppop code and ppopcongressionaldistrict', 22)
+('as a user i want accurate and complete data related to ppopcode and ppopcongressionaldistrict', 21)
+('as a user i want to have accurate and complete data related to ppop code and ppopcongressionaldistrict', 14)
+('as a user i want to have accurate and complete data related to ppopcode and ppopcongressional district', 14)
+('as a user i want to have accurate and complete data related to ppopcode and ppopcongressionaldistrict', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As an agency user, I want the FABS validation rules to accept zero and blank for loan records.
+----------------------------------------------------------------------------------------------------
+('as an agency user i want fabs verification rules to accept blank zero and blank for loan records', 28)
+('as an agency user i want fabs validation rules to accept blank and zero for loan records', 27)
+('as an agency user i want fabs validation rules to accept zero and blank for loan records', 17)
+('as a agency user i want the fabs validation rules to accept zero and blank for loan records', 14)
+('as an agency user i want the fabs validation rules to accept zero and blank for loan records', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As an Agency user, I want FABS deployed into production, so I can submit my Financial Assistance data.
+----------------------------------------------------------------------------------------------------
+('as a agency user i want fabs deployed into production so that i can submit my data for financial assistance', 33)
+('as an agency user i want fabs deployed into production so i can submit my data to the agency', 33)
+('as an agency user i want fabs deployed into production so i can submit my financial aid data to the government', 33)
+('i want fabs deployed into production so i can submit my financial assistance data', 31)
+('as an agency user i want fabs deployed to production so i can submit my data for financial assistance', 29)
+('as an agency user i want fabs to be installed in production so i can submit my financial assistance data', 27)
+('as an agency user i want fabs to be deployed in production so i can submit my financial assistance data', 21)
+('as an agency user i want fabs deployed to production so i can submit my financial assistance data', 15)
+('as an agency user i want fabs deployed in production so i can submit my financial assistance data', 15)
+('as an agency user i want fabs deployed into production so i can submit my financial assistance data', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a Developer , I want to clarify to users what exactly is triggering the CFDA error code in each case.
+----------------------------------------------------------------------------------------------------
+('as a developer i want to clarify to the user what exactly causes the cfda error code in each case', 31)
+('as a developer i want to clarify to users what exactly causes the cfda error code in each case', 26)
+('as a developer i want to clarify to users exactly what triggers the cfda error code in each case', 26)
+('as a developer i want to explain to users what exactly triggers the cfda error code in each case', 26)
+('as a developer i want to clarify to users what exactly triggered the cfda error code in each case', 20)
+('as a developer i want to clarify to users what exactly triggers the cfda error code in each case', 20)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As an agency user, I want to be confident that the data coming from SAM is complete.
+----------------------------------------------------------------------------------------------------
+('as a agency user i want to be sure the data received from sam is complete', 34)
+("as an agency user i want to be confident that sam's data is complete", 33)
+('i want to be confident that the data coming from sam is complete', 31)
+('as a agency user i want to be sure that the data coming from sam is complete', 22)
+('as an agency user i want to be certain that the data coming from sam is complete', 20)
+('as an agency user i want to be confident that the data from sam is complete', 20)
+('as a agency user i want to be confident that the data comes from sam is complete', 17)
+('as a agency user i want to be confident that the data coming from sam is complete', 14)
+('as an agency user i want to be confident that the data coming from sam is complete', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a Developer , I want my domain models to be indexed properly, so that I can get validation results back in a reasonable amount of time.
+----------------------------------------------------------------------------------------------------
+('as a developer i want my domain models to be indexed properly so i can get validation results back in a reasonable amount of time', 19)
+('as a developer i want my domain models to be indexed properly so that i can get validation results back in a reasonable amount of time', 14)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As an agency user, I want the FABS validation rules to accept zero and blank for non-loan records.
+----------------------------------------------------------------------------------------------------
+('as a user of an agency i want fabs to accept zero and blank for non-loan records', 37)
+('as a user of fabs i want the validation rules to accept zero and blank for non-loan records', 28)
+('as a consumer agency i want the fabs validation rules to accept zero and blank for non-loan records', 21)
+('as an agency user i want the fabs verification rules to accept zero and blank for non-loan records', 18)
+('as an agency user i want fabs validation rules to accept zero and blank for non-loan records', 17)
+('as an agency user i want the fabs validation rules to accept zero and blank for non loan records', 14)
+('as an agency user i want the fabs validation rules to accept zero and blank for non-loan records', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a broker team member, I want to make some updates to the SQL codes for clarity.
+----------------------------------------------------------------------------------------------------
+('as a broker-dealer i want to update sql codes for clarity', 39)
+('as a broker-team member i want to update sql codes for clarity', 32)
+("as a broker's team member i would like to make some changes to the sql codes for clarity", 29)
+('as a broker team member i want to update the sql codes for clarity', 27)
+('as a broker-team member i want to make some changes to the sql codes for clarity', 19)
+('as a broker team member i want to make some updates to sql code for clarity', 18)
+('as a broker team member i want to make some updates to the sql code for clarity', 14)
+('as a broker team member i want to make some update to the sql codes for clarity', 14)
+('as a broker team member i want to make some updates to the sql codes for clarity', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As an agency user, I want to have all derived data elements derived properly.
+----------------------------------------------------------------------------------------------------
+('as a customer i want to have all derived data elements properly generated', 37)
+('as a user i want all the derived data elements derived correctly', 36)
+('as an agency user i want to have all derived data elements properly derived', 26)
+('as a professional employee i want to have all derived data elements derived properly', 23)
+('as an agency user i want all derived data elements derived properly', 21)
+('as a buyer of an agency i want to have all the derived data elements derived properly', 21)
+('as a agency user i want to have all derived data elements derived correctly', 20)
+('as an agency user i want to have derived data elements derived properly', 17)
+('as an agency user i want to have all the derived data elements derived properly', 17)
+('as an agency user i want to have all derived data elements derived properly', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a broker team member, I want to add the 00***** and 00FORGN PPoPCode cases to the derivation logic.
+----------------------------------------------------------------------------------------------------
+('as a broker team member i want to add the cases 00 and 00forgn to the ppopcode derivation logic', 35)
+('as a broker a team member i want to add the cases 00 and 00forgn ppopcode to the derivation logic', 27)
+('as a broker i want to add the 00 and 00forgn ppopcode cases to the derivation logic', 25)
+('as a broker - team member i want to add the 00 and 00forgn ppopcode cases to the derivation logic', 15)
+('as a broker team member i want to add the 00 and 00forgn ppop code cases to the derivation logic', 14)
+('as a broker team member i want to add the 00 and 00forgn ppopcode cases to the derivation logic', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a data user, I want to see the office names derived from office codes, so that I can have appropriate context for understanding them.
+----------------------------------------------------------------------------------------------------
+('as a data user i want to see the office names derived from office codes so that i can understand them in context', 50)
+('as a data user i want to see office names that are derived from office codes so that i can have appropriate context for understanding them', 26)
+('as a data user i want to see office names derived from office codes so that i can have a suitable context for understanding them', 26)
+('as a data user i want to see the office names derived from the office codes so i can have the appropriate context for understanding them', 26)
+('as a data user i want to see the office names derived from office codes so that i can have the correct context for understanding them', 22)
+('as a data user i want to see the office names derived from office codes so i can have the appropriate context for understanding them', 22)
+('as a data user i want to see the office names derived from office codes so i can have appropriate context for understanding them', 18)
+('as a data user i want to see the office names derived from office codes so that i have appropriate context for understanding them', 17)
+('as a data user i want to see the office names derived from office codes so that i can have the appropriate context for understanding them', 17)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a broker user, I want the historical FABS loader to derive fields, so that my agency codes are correct in the PublishedAwardFinancialAssistance table.
+----------------------------------------------------------------------------------------------------
+('as a broker user i want the historical fabs loader to derive fields so my agency codes in the publishedawardfinancialassistance table are correct', 41)
+('as a broker user i want the historical fabs loader to derive fields so my agency codes are correct in the publishedawardfinancialassistance table', 18)
+('as a broker i want the historical fabs loader to derive fields so that my agency codes are correct in the publishedawardfinancialassistance table', 18)
+('as broker user i want the historical fabs loader to derive fields so that my agency codes are correct in the publishedawardfinancialassistance table', 15)
+('as a broker user i want the historical fabs loader to derive fields so that my agency codes are correct in the publishedawardfinancialassistance table', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a broker team member, I want to ensure the Broker resources, validations, and P&P pages are updated appropriately for the launch of FABS and DAIMS v1.1.
+----------------------------------------------------------------------------------------------------
+('as a broker team member i want to ensure that brokers resources validations and pp pages are updated properly for fabs and daims v11', 38)
+('as a member of the broker team i want to ensure that the broker resources validations and pp pages are updated appropriately for the launch of fabs and daims v11', 28)
+('as a broker member i want to ensure that broker resources validations and pp pages are updated appropriately for the launch of fabs and daims v11', 21)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a Developer, I want the data loaded from historical FABS to include the FREC derivations, so that I can have consistent FREC data for USASpending.gov.
+----------------------------------------------------------------------------------------------------
+('as a developer i want the data loaded from the historical fabs to include the frec derivatives so i can have consistent frec data for usaspendinggov', 25)
+('as a developer i want the data loaded from historical fabs to include frec derivations so i can have consistent frec data for usaspendinggov', 23)
+('as a developer i want the data loaded from the historical fabs to include the frec derivations so i can have consistent frec data for usaspendinggov', 23)
+('as a developer i want the data loaded from historical fabs to include the frec derivations so that i can have uniform frec data for usaspendinggov', 22)
+('as a developer i want the data loaded from historical fabs to include the frec derivations so i can have consistent frec data for usaspendinggov', 19)
+('as a developer i want the data loaded from the historical fabs to include the frec derivations so that i can have consistent frec data for usaspendinggov', 18)
+('as a developer i want the data loaded from historical fabs to include frec derivations so that i can have consistent frec data for usaspendinggov', 18)
+('as a developer i want the data loaded from historical fabs to include the frec derivations so that i can have consistent frec data for usaspendinggov', 14)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a user, I don't want to see NASA grants displayed as contracts.
+----------------------------------------------------------------------------------------------------
+("i don't want to see nasa grants as contracts", 33)
+("as a user i don't want nasa grants as contracts", 30)
+("as a user i don't want to see nasa grants in the form of contracts", 26)
+("as a user i don't want to see nasa grants as contracts", 23)
+("as a user i don't want nasa grants displayed as contracts", 20)
+("as a user i don't want to see nasa grants presented as contracts", 20)
+("as a user i don't want to see nasa grants displayed as contracts", 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a user, I want the DUNS validations to accept records whose ActionTypes are B, C, or D and the DUNS is registered in SAM, even though it may have expired.
+----------------------------------------------------------------------------------------------------
+('as a user i want the duns validations to accept records whose actiontypes are b c or d and duns are registered in sam even if they may have expired', 28)
+('as a user i want duns validations to accept records whose actiontypes are b c or d and duns is registered in sam even if it may have expired', 27)
+('as a user i want duns validations to accept records whose action types are b c or d and duns is registered in sam even though it may have expired', 22)
+('as a user i want the duns validations to accept records whose actiontypes are b c or d and the duns is registered in sam even if it may have expired', 19)
+('as a user i want the duns validations to accept records whose actiontypes are b c or d and duns is registered in sam even though it may have expired', 17)
+('as a user i want the duns validations to accept records whose actiontypes are b c or d and the duns is registered in sam even though it may have expired', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a user, I want the DUNS validations to accept records whose ActionDates are before the current registration date in SAM, but after the initial registration date.
+----------------------------------------------------------------------------------------------------
+('as a user i want the duns validations to accept records whose actiondates are pre-registered in sam but after the initial registration date', 40)
+('as a user i want duns validations to accept records whose actiondates are in sam before the current registration date but after the initial registration date', 31)
+('as a user i want the duns validations to accept records whose action dates are pre-current registration dates in sam but after the initial registration dates', 24)
+('as a user i want duns validations to accept records whose actiondates are before the current registration date in sam but after the initial registration date', 17)
+('as a user i want the duns validations to accept records whose actiondates are before the current registration date in sam but after the initial registration date', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a broker team member, I want to derive FundingAgencyCode, so that the data quality and completeness improves.
+----------------------------------------------------------------------------------------------------
+('as a broker team member i want to derive fundingagencycode to improve the data quality and completeness', 30)
+('as a broker team member i want to derive fundingagencycode so that the quality and completeness of the data improves', 30)
+('as a broker-worker i want to derive fundingagencycode so that the data quality and completeness improves', 23)
+('as a broker team member i want to derive fundingagencycode so that data quality and completeness improve', 18)
+('as a broker member i want to derive fundingagencycode so that the data quality and completeness improves', 18)
+("as a broker's team member i want to derive fundingagencycode so that the data quality and completeness improves", 15)
+('as a broker-team member i want to derive fundingagencycode so that the data quality and completeness improve', 15)
+('as a broker team member i want to derive fundingagencycode so that the data quality and completeness improves', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As an agency user, I want the maximum length allowed for LegalEntityAddressLine3 to match Schema v1.1.
+----------------------------------------------------------------------------------------------------
+None
+----------------------------------------------------------------------------------------------------
+Input_phrase: As an agency user, I want to use the schema v1.1 headers in my FABS file.
+----------------------------------------------------------------------------------------------------
+None
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a agency user, I want to map the FederalActionObligation properly to the Atom Feed.
+----------------------------------------------------------------------------------------------------
+('as a user i want to map the federalactionobligation to the atom feed correctly', 38)
+('as a federal agent i want to map the federal action obligation to atom feed', 36)
+('as a user i want to map federalactionobligation properly to the atom feed', 24)
+('as an agency user i want to map the federalactionobligation correctly to atom feed', 23)
+('as an agency user i want to map the federal action obligation proper to atom feed', 21)
+('as a user of the agency i want to map the federal action obligation properly to the atom feed', 21)
+('as a federal agency user i want to map the federalactionobligation properly to atom feed', 18)
+('as a agency user i want to map the federalactionobligation properly to atom feed', 17)
+('as an agency user i want to map the federalactionobligation properly to atom feed', 17)
+('as a agency user i want to map the federal action obligation properly to the atom feed', 15)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a Broker user, I want to have PPoPZIP+4 work the same as the Legal Entity ZIP validations.
+----------------------------------------------------------------------------------------------------
+('as a broker user i want ppopzip4 to work the same as the legal entities zip verifications', 32)
+('as a broker user i want ppopzip4 to work the same as the legal entity zip verifications', 29)
+('as a broker user i want ppopzip4 to work the same as the legal entity zip validation', 25)
+('as a broker user i want ppopzip4 to work the same as the legal entity zip validations', 24)
+('as a broker user i want to have ppopzip4 work the same as legal entity zip verifications', 22)
+('as a broker user i want to have ppopzip4 work the same as legal entity zip validation', 18)
+('as a broker user i want to have ppopzip4 working the same as the legal entity zip validations', 16)
+('as a broker user i want to have ppopzip4 work the same as the legal entity zip validations', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a FABS user, I want to link the SAMPLE FILE on the "What you want  to submit" dialog to point to the correct file, so that I have an accurate reference for my agency submissions.
+----------------------------------------------------------------------------------------------------
+('as a fabs user i want to link the document type to the correct file in the dialog where do you want to submit the request so that i have an accurate reference for my agency submissions', 75)
+('as a fabs user i want to link the corresponding sample file to the what you want to send dialog to point to the correct file so i have an accurate reference for my agency submissions', 40)
+('as a fabs user i want to link the sample file in the what do you want to submit dialog to point to the correct file so i can have an accurate reference for my agency submissions', 24)
+('as a fabs user i want to link the sample files to the what you want to submit dialog to point to the correct file so i can have an accurate reference for my agency submissions', 23)
+('as a fabs user i want to link the sample file to the what you want to submit dialog to point to the correct file so that i have an accurate reference for my agency submissions', 16)
+('as a fabs user i want to link the sample file in the what you want to submit dialog to point to the correct file so that i have an accurate reference for my agency submissions', 15)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As an Agency user, I want FPDS data to be up-to-date daily.
+----------------------------------------------------------------------------------------------------
+('as a agency user i want the data in the fpds to be up-to-date daily', 30)
+('as a fpds user i want the data to be updated daily', 29)
+('as an agency user i want fpds data to be daily up to date', 26)
+('as an agency user i want fpds data to be updated daily', 18)
+('as an agency user i want fpds data to be up-to-date daily', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a user, I want to access the raw agency published files from FABS via USAspending.
+----------------------------------------------------------------------------------------------------
+('as a user i want access to raw agency files published by fabs via usaspending', 34)
+('as a user i want to access raw fabs agency published files via usaspending', 29)
+('as a user i want to access fabs raw agency published files via usaspending', 27)
+('as a user i want to access raw agency published files of fabs via usaspending', 20)
+('as a user i want to access raw agency published files from fabs via usaspending', 17)
+('as a user i want to access the raw agency published files of fabs via usaspending', 16)
+('as a user i want to access the raw agency published files from fabs via usaspending', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a Developer , I want to determine how agencies will generate and validate D Files from FABS and FPDS data.
+----------------------------------------------------------------------------------------------------
+('as a developer i want to determine how agencies will generate and validate d files from fabs and fpds data', 14)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a user, I want to generate and validate D Files from FABS and FPDS data.
+----------------------------------------------------------------------------------------------------
+('as a user i want to generate and validate d files using fabs and fpds data', 18)
+('as a user i want to generate and validate d-files from fabs and fpds data', 14)
+('as a user i want to generate and validate d files from fabs and fpds data', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As an Agency user, I want the header information box to show updated date AND time, so that I know when it was updated.
+----------------------------------------------------------------------------------------------------
+('as a agency user i want header information to show updated date and time so i know when it was updated', 27)
+('as an agency user i want the header information to show the updated date and the time so that i know when it was updated', 25)
+('as a user of the agency i want the header information box to show updated date and time so i know when it was updated', 24)
+('as an agency user i want the header information box to display updated date and time so i know when it was updated', 24)
+('as an agency user i want the header information box to show the update date and time so i know when it was updated', 23)
+('as an agency user i want the header information box to show the updated date and time so i know when it was updated', 22)
+('as an agency user i want the header information box to show updated date and time so i know when it was updated', 18)
+('as an agency user i want the header information box to show the updated date and time so that i know when it was updated', 17)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As an Agency user, I want to receive a more helpful file-level error when I upload a file with the wrong extension.
+----------------------------------------------------------------------------------------------------
+('as a user of a client i want to receive a more useful error when i upload a file with the wrong extension', 37)
+('as a client i want to receive a more helpful error code when i upload a file with the wrong extension', 37)
+('as a user of an agency i want to receive a more helpful error when uploading a file with the wrong extension', 32)
+('as a user of agents i want to receive a helpful file-level error when i upload a file with the wrong extension', 25)
+('as a member of the agency i want to receive a more helpful file-level error when i upload a file with the wrong extension', 20)
+('as an agency user i want to receive a more helpful file error when i upload a file with the wrong extension', 19)
+('as an agency user i want to receive a more helpful file-level error when i upload a file with the wrong extension', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a tester, I want to have access to test features in environments other than Staging, so that I can test any nonProd feature in any environment.
+----------------------------------------------------------------------------------------------------
+('as a tester i want to have access to test features in other environments than staging so i can test any non-prod feature in any environment', 31)
+('as a tester i want to have access to testing features in environments other than staging so i can test any nonprod feature in any environment', 21)
+('as a tester i want to have access to test features in environments other than staging so i can test any non-prod feature in any environment', 19)
+('as a tester i want to have access to test features in environments other than staging so i can test any nonprod feature in any environment', 18)
+('as a tester i want to have access to test features in environments other than staging so that i can test any non-prod feature in any environment', 14)
+('as a tester i want to have access to test features in environments other than staging so that i can test any nonprod feature in any environment', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a FABS user, I want to submission errors to accurately represent FABS errors, so that I know why my submission didn't work.
+----------------------------------------------------------------------------------------------------
+("i want to submit errors as a fabs user to accurately represent fabs errors so i can know why my submission didn't work", 49)
+("as a fabs user i want to submit errors accurately represent fabs errors so that i can know why my submission didn't work", 25)
+("as a fabs user i want to submit errors to accurately represent fabs errors so i know why my submission didn't work", 23)
+("as a fabs user i want submission errors to accurately represent fabs errors so i know why my submission didn't work", 21)
+('as a fabs user i want to submit errors to accurately represent fabs errors so that i know why my submission did not work', 20)
+("as a fabs user i want to submit errors to accurately represent fabs errors so that i know why my submission didn't work", 18)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a FABS user, I want the frontend URLs to more accurately reflect the page I'm accessing, so that I'm not confused.
+----------------------------------------------------------------------------------------------------
+("as a fabs user i want the urls to reflect the page i am accessing more accurately so that i'm not confused", 56)
+("as a fabs user i want the frontend urls to reflect the page i am accessing in a more accurate manner so that i'm not confused", 56)
+('as a fabs user i want the frontend urls to reflect the page i am accessing more accurately so that i am not confused', 49)
+("as a fabs user i want the frontend urls to reflect more accurately the page i'm accessing so that i'm not confused", 29)
+("as a fabs user i want the frontend urls to more accurately reflect the page i am accessing so that i don't become confused", 25)
+("as a fabs user i want the frontend urls to be more accurately reflecting the page i'm accessing so i'm not confused", 24)
+("as a fabs user i want the frontend urls to more accurately reflect the page i am accessing so i'm not confused", 20)
+('as a fabs user i want the front end urls to more accurately reflect the page i am accessing so that i am not confused', 18)
+("as a fabs user i want the frontend urls to more accurately reflect the page i'm accessing so i'm not confused", 18)
+("as a fabs user i want the frontend urls to more accurately reflect the page i'm accessing so that i'm not confused", 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As an Agency user, I want all historical Financial Assistance data loaded for FABS go-live.
+----------------------------------------------------------------------------------------------------
+('as an agency user i want to load all of the historical financial assistance data for fabs go-live', 35)
+('i want all historical financial assistance data loaded for fabs go-live', 31)
+('as a federal agent i want all the historical financial assistance data loaded for fabs go-live', 26)
+('as a user i want all historical financial assistance data loaded for fabs go-live', 21)
+('as an agency user i want all historical financial assistance data loaded for the fabs go-live', 17)
+('as a federal agency user i want all historical financial assistance data loaded for fabs go-live', 15)
+('as a agency user i want all historical financial assistance data loaded for fabs go-live', 14)
+('as an agency user i want all historical financial assistance data loaded for fabs go-live', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a Developer , I want the historical FPDS data loader to include both extracted historical data and FPDS feed data.
+----------------------------------------------------------------------------------------------------
+('as a developer i want the historical fpds data loader to include both extracted historical data and feed data for the fpds api', 32)
+('as a developer i want the historical fpds data loader to include both extracted historical data and feed data fpds', 23)
+('as a developer i want the historical fpds data loader to include both extracted historical data and feed data', 19)
+('as a developer i want the historical fpds data loader to include both extracted historical data and fpds feed data', 14)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As an Agency user, I want historical FPDS data loaded.
+----------------------------------------------------------------------------------------------------
+('i want historical fpds data loaded as an agency user', 48)
+('as a agency user i want to load historical fpds data', 29)
+('as a customer i want historical fpds data loaded', 23)
+('as a user of the agency i want historical fpds data loaded', 19)
+('as a agency user i want historical fpds data loaded', 14)
+('as an agency user i want historical fpds data loaded', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As an Agency user, I want to accurately see who created a submission, so that I'm not confused about who last updated a submission.
+----------------------------------------------------------------------------------------------------
+("as an agency user i want to see accurately who created a submission so i don't have to worry about when the last update occurred", 57)
+('as an agency user i want to see who created a submission so i can not be confused about who updated the last submission', 46)
+("as a user of agency i want to know accurately who created a submission so i'm not confused about who updated the submission last", 45)
+('as an agency user i want to accurately see who created a submission so i can not be confused about who updated it last', 39)
+("as an agency user i want to see who created a submission so i'm not confused about who updated a submission last", 38)
+("as an agency user i want to see who created a submission so that i don't feel confused on who last updated a submission", 37)
+("as an agency user i want to see who created a submission so that i'm not confused about who last updated it", 35)
+("as an agency user i want to see accurately who created a submission so that i'm not confused about who updated the last submission", 33)
+("as an agency user i want to see who created a submission so i'm not confused about who last updated a submission", 29)
+('as an agency user i want to see who created a submission so that i am not confused about who last updated a submission', 26)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As an agency user, I want to get File F in the correct format.
+----------------------------------------------------------------------------------------------------
+('i want file f in the correct format as an agency user', 54)
+('i want to get file f in the correct format as an agency user', 48)
+('as a user for a company i want file f in the correct format', 30)
+('as a consumer i want file f in the correct format', 28)
+('as a service user i want to get file f in the right format', 24)
+('as a client i want to get file f in the correct format', 23)
+('as an agency user i want to get file f in the correct format', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As an Agency user, I want to better understand my file-level errors.
+----------------------------------------------------------------------------------------------------
+('i want to understand my file errors', 44)
+('as a user of the agency i want to understand my files level error', 29)
+('as an agency user i want to understand my file errors', 26)
+('as a user for the agency i want to better understand my file errors', 26)
+('as a user of an agency i want to understand my file-level errors', 23)
+('as an agency user i want to understand my file-level errors', 20)
+('as a user of the agency i want to better understand my file level errors', 20)
+('as an agency user i want to better understand my file-level errors', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a Developer , I want to provide FABS groups that function under the FREC paradigm.
+----------------------------------------------------------------------------------------------------
+("as a developer i want to provide fabs groups that function under frec's paradigm", 20)
+('as a developer i want to provide fabs groups that function under the frec paradigm', 14)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a tester, I want to ensure that FABS is deriving fields properly through a robust test file plus a follow up check.
+----------------------------------------------------------------------------------------------------
+('as a tester i want to ensure that fabs is deriving the fields correctly through a robust test file plus a follow up check', 23)
+('as a tester i want to ensure that fabs is deriving fields correctly through a robust test file plus a follow-up check', 20)
+('as a tester i want to ensure that fabs is deriving fields correctly through a robust test file plus a follow up check', 19)
+('as a tester i want to ensure that fabs is deriving fields properly through a robust test file and a follow-up check', 18)
+('as a tester i want to ensure that fabs deriving fields properly through a robust test file plus a follow-up check', 17)
+('as a tester i want to ensure that fabs is deriving fields properly through a robust test file plus a follow-up check', 14)
+('as a tester i want to ensure that fabs is deriving fields properly through a robust test file plus a follow up check', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As an owner, I only want zero-padded fields, so that I can justify padding.
+----------------------------------------------------------------------------------------------------
+('as owner i only want zero padding fields to justify padding', 32)
+('as a homeowner i only want zero padding fields to justify padding', 31)
+('as owner i only want zero padding fields so i can justify padding', 25)
+('as a creator i only want zero padded fields so i can justify padding', 24)
+('as a owner i only want zero padding fields so i can justify padding', 23)
+('as an owner i only want zero padding fields so i can justify padding', 22)
+('as an owner i only want zero-padded fields so i can justify padding', 18)
+('as an owner i only want zero-padded fields so that i can justify padding', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a Broker user, I want to submit records for individual recipients without receiving a DUNS error.
+----------------------------------------------------------------------------------------------------
+('as a broker i want to submit records for individual recipients without receiving a duns error', 18)
+('as a broker user i want to submit records for individual recipients without receiving a duns error', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a user, I want more information about how many rows will be published prior to deciding whether to publish.
+----------------------------------------------------------------------------------------------------
+('as a user i want more information about how many rows will be published before deciding whether or not to publish', 26)
+('as a user i want more information about how many rows will be published before deciding whether to publish', 19)
+('as a user i want more information about how many rows will be published prior to deciding whether to publish', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a Developer, I want to prevent duplicate transactions from being published and deal with the time gap between validation and the publishing decision.
+----------------------------------------------------------------------------------------------------
+('as a developer i want to prevent duplicate transactions from being published and deal with the time gap between validation and the publication decision', 18)
+('as a developer i want to prevent duplicate transactions from being published and deal with the time gap between validation and publishing decision', 17)
+('as a developer i want to prevent duplicate transactions from being published and deal with the time gap between validation and the publishing decision', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a FABS user, I want to submit a citywide as a PPoPZIP and pass validations.
+----------------------------------------------------------------------------------------------------
+('As a FABS user, I want to submit a citywide as a PPoPZIP and pass validations.', 0)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a Broker user, I want to have updated error codes that accurately reflect the logic and provide enough information, so that I can fix my submission.
+----------------------------------------------------------------------------------------------------
+('as a broker user i want updated error codes that accurately reflect the logic and provide enough information to fix my submission', 33)
+('as a broker user i want to have updated error codes that accurately reflect the logic and provide enough information to fix my submission', 25)
+('as a broker user i want to have updated error codes that accurately reflect the logic and provide enough information so i can fix my submission', 18)
+('as a broker user i want to have updated error codes that accurately reflect the logic and provide enough information so that i can fix my submission', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As an agency user, I want to leave off the last 4 digits of the ZIP without an error, so that I can complete my submissions.
+----------------------------------------------------------------------------------------------------
+('as an agency user i want to leave off the last four digits of the zip without an error so i can submit documents using the template', 49)
+('as an agency user i want to leave the last 4 digits of the zip without an error so i can submit my entries', 38)
+('as an agency user i want to leave off the last 4 digits of the zip without an error so i can submit my application', 33)
+('as an agency user i want to leave off the last 4 digits of the zip without an error so i can submit my submissions', 25)
+('as an agency user i want to leave off the last four digits of the zip without an error so i can complete my submissions', 22)
+('as an agency user i want to leave the last 4 digits of the zip without an error so i can complete my submissions', 22)
+('as an agency user i want to leave off the last 4 digits of the zip without an error so i can complete my submissions', 18)
+('as an agency user i want to leave the last 4 digits of the zip without an error so that i can complete my submissions', 17)
+('as an agency user i want to leave off the last 4 digits of the zip without an error so that i can complete my submissions', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a FABS user, I want to make sure the historical data includes all necessary columns, so that the information in the database is correct.
+----------------------------------------------------------------------------------------------------
+('as a fabs user i want to make sure the historical data contains all the necessary columns so that the information in the database is correct', 24)
+('as a fabs user i want to make sure that the historical data includes all the necessary columns so that the information in the database is correct', 22)
+('as a fabs user i want to make sure the historical data contains all necessary columns so that the information in the database is correct', 20)
+('as a fabs user i want to ensure that historical data includes all necessary columns so that the information in the database is correct', 19)
+('as a fabs user i want to make sure that the historical data includes all necessary columns so that the information in the database is correct', 18)
+('as a fabs user i want to make sure the historical data includes all the necessary columns so that the information in the database is correct', 17)
+('as a fabs user i want to make sure the historical data includes all necessary columns so that the information in the database is correct', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a data user, I want to access two additional fields from the FPDS data pull.
+----------------------------------------------------------------------------------------------------
+('i want to add two additional fields to the fpds data pull', 36)
+('as a data user i want to access two additional fields from the data capture in fpds', 28)
+('as data user i want to access two additional fields in the fpds data pull', 19)
+('as a data user i want access to two additional fields from the fpds data pull', 19)
+('as data user i want to access two additional fields from the fpds data pull', 15)
+('as a data user i want to access two additional fields from the fpds data pull', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a FABS user, I want additional helpful info in the submission dashboard, so that I can better manage submissions and IG requests.
+----------------------------------------------------------------------------------------------------
+('as a fabs user i would like additional helpful info in the submission dashboard to improve submissions and ig requests', 44)
+('as a fabs user i want more useful info in the submission dashboard so i can better manage submissions and ig requests', 31)
+('as fabs user i want additional helpful information in the submission dashboard so i can better manage submissions and ig requests', 27)
+('as a fabs user i want additional helpful information in the submission dashboard so i can better manage submissions and ig requests', 25)
+('as a fabs user i want additional helpful info in the submission dashboard to be able to better manage submissions and ig requests', 23)
+('as a fabs user i want additional helpful information in the submission dashboard so that i can better manage submissions and ig requests', 20)
+('as a fabs user i want additional helpful info in the submission dashboard so i can better manage submissions and ig requests', 18)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a FABS user, I want to download the uploaded FABS file, so that I can get the uploaded file.
+----------------------------------------------------------------------------------------------------
+('as a fabs user i want to download the fabs file uploaded so i can get the downloaded file', 36)
+('as a fabs user i want to download the fabs file to get the uploaded file', 34)
+('as a fabs user i want to download the uploaded fabs file to get the uploaded file', 25)
+('as a user of fabs i want to download the uploaded fabs file so i can get the upload file', 25)
+('as fabs user i want to download the uploaded fabs file so i can get the uploaded file', 20)
+('as a fabs user i want to download the uploaded fabs file so i can get the uploaded file', 18)
+('as a fabs user i want to download the uploaded fabs file so that i can access the uploaded file', 18)
+('as a fabs user i want to download the upload fabs file so that i can get the upload file', 17)
+('as a fabs user i want to download the uploaded fabs file so that i can get the uploaded file', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a Developer I want to quickly access Broker application data, so that I can investigate issues.
+----------------------------------------------------------------------------------------------------
+('as a developer i want to quickly access broker application data so i can investigate the problems', 28)
+('as a developer i want to quickly access broker application data so i can investigate the issue', 23)
+('as a developer i want to quickly access broker application data so i can investigate issues', 18)
+('as a developer i want to quickly access broker application data so that i can investigate issues', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a Developer , I want to determine the best way to load historical FPDS data, so that I can load all FPDS data since 2007.
+----------------------------------------------------------------------------------------------------
+('as a developer i want to determine the best way to load historical fpds data so i can load all fpds data since 2007', 19)
+('as a developer i want to determine the best way to load historical fpds data so that i can load all fpds data since 2007', 14)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a FABS user, I want the language on FABS pages to be appropriate for me, so that I am not confused.
+----------------------------------------------------------------------------------------------------
+("as a fabs user i want to have the language i like on fabs pages so that i'm not confused", 52)
+('as a fabs user i want to have a language on the fabs pages that is suitable for me so that i am not confused', 37)
+('as a fabs user i want the language on fabs pages for me to be appropriate so i am not confused', 32)
+("as a fabs user i want the language on the fabs pages to be suitable for me so that i'm not confused", 29)
+("as a user of fabs i want the language on fabs pages to be appropriate for me so i'm not confused", 25)
+("as a user i want the language on the fabs pages to be appropriate for me so that i'm not confused", 24)
+("as a fabs user i want the language on the fabs pages to be appropriate for me so i'm not confused", 24)
+('as a fabs user i want the language on fabs pages to be appropriate for me so i am not confused', 18)
+('as a fabs user i want the language on fabs pages to be appropriate for me so that i am not confused', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a FABS user, I do not want  DABS banner messages and vice versa, so that I have the appropriate information for my application.
+----------------------------------------------------------------------------------------------------
+('as a fabs user i do not want dabs banner messages and vice versa so i have the correct information for my application', 27)
+("as a fabs user i don't want dabs banner messages and vice versa to have the appropriate information for my application", 24)
+("as a fabs user i don't want dabs banners messages and vice versa so i can have the appropriate information for my application", 23)
+("as a fabs user i don't want dabs banner messages and vice versa so i have the appropriate information for my application", 21)
+('as a fabs user i do not want dabs banner messages and vice versa so i have the appropriate information for my application', 19)
+("as a fabs user i don't want the dabs banner messages and vice versa so that i have the appropriate information for my application", 18)
+("as a fabs user i don't want dabs banner messages and vice versa so that i have the appropriate information for my application", 16)
+('as a fabs user i do not want dabs banner messages and vice-versa so that i have the appropriate information for my application', 15)
+('as a fabs user i do not want dabs banner messages and vice versa so that i have the appropriate information for my application', 14)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a FABS user, I want to have read-only access to DABS, so that I can view DABS pages without wanting two sets of permissions.
+----------------------------------------------------------------------------------------------------
+('as a fabs user i want read-only access to dabs to be able to view dabs pages without two sets of permissions', 39)
+('as a fabs user i want read-only access to dabs so i can view dabs pages without two sets of permissions', 34)
+('as a fabs user i want read-only access to dabs so i can view dabs pages without wanting two sets of permissions', 26)
+('as a fabs user i want to have read-only access to dabs so i can view dabs pages without two sets of permissions', 26)
+('as a fabs user i want to have read-only access to dabs so i can view dabs pages without having two sets of permissions', 21)
+('as a fabs user i want to have read-only access to dabs so that i can view dabs pages without two sets of permissions', 21)
+('as fabs user i want to have read-only access to dabs so that i can view dabs pages without needing two sets of permissions', 19)
+('as a fabs user i want to have read-only access to dabs so i can view dabs pages without wanting two sets of permissions', 18)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a FABS user, I want to have my validations run in a reasonable amount of time.
+----------------------------------------------------------------------------------------------------
+('as fabs users i want my validations to be done in a reasonable amount of time', 33)
+('as a user of fabs i want my validations to run in a reasonable amount of time', 29)
+('as a fabs user i want my validations to run in a reasonable amount of time', 24)
+('as a fabs user i want to run my validations in a reasonable amount of time', 21)
+('as a user of fabs i want to have my validations run in a reasonable amount of time', 18)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a FABS user, I want to see correct status labels on the Submission Dashboard, so that I can quickly see my submission history.
+----------------------------------------------------------------------------------------------------
+('as a fabs user i want to see the correct status labels on the submission dashboard so i can see my submission history quickly', 37)
+('i want to see the correct status labels on the submission dashboard so that i can quickly see my submission history', 32)
+('as a fabs user i want to see correct status labels on the submission dashboard to quickly see my submission history', 25)
+('as fabs user i want to see correct status labels on the submission dashboard so i can quickly see my submission history', 20)
+('as a fabs user i want to see correct status labels on the submission dashboard so i can quickly see my submission history', 18)
+('as a fabs user i want to see correct status labels on the submission dashboard so that i can quickly see my submission history', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As an agency user, I want to know when the submission periods start and end, so that I know when the submission starts and ends.
+----------------------------------------------------------------------------------------------------
+('as an agency user i want to know when the submission periods start and end so i know when the submission begins and ends', 23)
+('as an agency user i want to know when the submission period starts and ends so i know when the submission starts and ends', 21)
+('as an agency user i want to know when submission periods start and end so that i know when submission starts and ends', 21)
+('as an agency user i want to know when the submission periods start and end so i know when the submission starts and ends', 18)
+('as an agency user i want to know when submission periods start and end so that i know when the submission starts and ends', 17)
+('as an agency user i want to know when the submission periods start and end so that i know when the submission starts and ends', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As an agency user, I want a landing page to navigate to either FABS or DABS pages, so that I can access both sides of the site.
+----------------------------------------------------------------------------------------------------
+('as a user of a national agency i want a landing page that allows me to navigate between fabs or dabs pages so that i can access both sides of the site', 45)
+('i want a landing page to navigate to either fabs or dabs pages so that i can see both sides of the website', 39)
+('as an agency user i want a landing page to navigate to fabs or dabs pages so i can access both sides of the site', 25)
+('as a marketing user i want a landing page to navigate to either fabs or dabs pages so that i can access both sides of the website', 22)
+('as a agency user i want a landing page to navigate to either dabs or fabs pages so i can access both sides of the site', 21)
+('as an agency user i want a landing page to navigate to fabs or dabs pages so that i can access both sides of the site', 20)
+('as an agency user i want a landing page to navigate to either fabs or dabs pages so i can access both sides of the site', 18)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As an agency user, I want to submit my data elements surrounded by quotation marks, so that Excel won't strip off leading and trailing zeroes.
+----------------------------------------------------------------------------------------------------
+("as an agency user i want to submit my data elements in quotation marks so that excel won't strip away the leading and trailing zeros", 34)
+("as an agency user i want to submit my data elements in quotation marks so excel won't strip off leading and trailing zeroes", 30)
+("as an agency user i want to submit my data elements surrounded by quotation marks so excel won't remove leading and trailing zeroes", 25)
+("as a user for a firm i want to submit my data elements surrounded by quotation marks so that excel won't strip off leading and trailing zeroes", 23)
+("as a marketing agency user i want to submit my data elements surrounded by quotation marks so excel won't strip off leading and trailing zeroes", 21)
+("as an agency user i want to present my data elements surrounded by quotation marks so that excel won't strip off leading and trailing zeros", 20)
+("as an agency user i want to submit my data elements surrounded by quotation marks so that excel won't strip off leading and trailing zeroes", 13)

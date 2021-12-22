@@ -1,6 +1,7 @@
 
-# per importare Parrot
+
 import time
+import os
 
 tic0 = time.perf_counter()
 
@@ -22,7 +23,7 @@ random_state(1234)
 tic1 = time.perf_counter()
 
 #Init models (make sure you init ONLY once if you integrate this to your code)
-parrot = Parrot(model_tag="prithivida/parrot_paraphraser_on_T5", use_gpu=False)
+parrot = Parrot(model_tag="prithivida/parrot_paraphraser_on_T5")
 
 toc1 = time.perf_counter()
 print(f"Downloaded the model in {toc1 - tic1:0.4f} seconds")
@@ -32,39 +33,79 @@ print(f"Downloaded the model in {toc1 - tic1:0.4f} seconds")
 # ImportError: T5 Converter requires the protobuf library but it was not found in your environment. Checkout the instructions on the installation page of its repo: https://github.com/protocolbuffers/protobuf/tree/master/python#installation and follow the ones that match your environment.
 # Protocol Buffers are Google’s data interchange format
 
-# my_file = open("data_set_1.txt", "r")
-# phrases = my_file.read().splitlines()
-phrases = ["As a UI designer, I want to redesign the Resources page, so that it matches the new Broker design styles."]
+my_file = open("data_set_1.txt", "r")
+phrases = my_file.read().splitlines()
+# phrases = ["As a Public User, I want to Search for Information, so that I can obtain publicly available information concerning properties, County services, processes and other general information."]
 
 # Perform the paraphrasing using the parrot.augment() function
 # that takes in as input argument the phrase being iterated.
 # Generated paraphrases are assigned to the para_phrases variable.
 
-tic2 = time.perf_counter()
-for phrase in phrases:
-  print("-"*100)
-  print("Input_phrase: ", phrase)
-  print("-"*100)
+use_gpu_array = [False]
+diversity_ranker_array = ["levenshtein"]
+do_diverse_array = [True, False]
+max_return_phrases_array = [10]
+max_length_array = [32]
+adequacy_threshold_array = [0.1, 0.50, 0.99]
+fluency_threshold_array = [0.1, 0.50, 0.99]
 
-  tic3 = time.perf_counter()
-  para_phrases = parrot.augment(input_phrase=phrase,
-                               diversity_ranker="euclidean",
-                               do_diverse=True,
-                               max_return_phrases = 10,
-                               max_length=32,
-                               adequacy_threshold = 0.99,
-                               fluency_threshold = 0.90)
-  toc3 = time.perf_counter()
-  print(f"Time for the augment function:  {toc3 - tic3:0.4f} seconds")
+dir = "results/data_set_1"
+if not os.path.exists(dir):
+    os.mkdir(dir)
 
-  if not para_phrases:  # in realtà se non c'erano parafrasi para_phrases non è lista vuota (che vale false) (non ci sarebbero problemi a iterare su lista vuota), ma è None, ma anche None vale false !!!
-      para_phrases = ["None"]
+file_index = 1
 
-  for para_phrase in para_phrases:
-   print(para_phrase)
+for a in use_gpu_array:
+    for x in diversity_ranker_array:
+        for y in do_diverse_array:
+            for z in max_return_phrases_array:
+                for w in max_length_array:
+                    for i in adequacy_threshold_array:
+                        for j in fluency_threshold_array:
+                            tic2 = time.perf_counter()
 
-toc2 = time.perf_counter()
-print(f"Got the paraphrases in {toc2 - tic2:0.4f} seconds")
+                            # results/data_set_1/results_1.txt
+                            # results/data_set_1/results_2.txt
+                            f = open(dir + "/" + "results_" + str(file_index) + ".txt", "w")
+                            file_index = file_index + 1
+                            f.write("use_gpu = " + str(a) + "\n")
+                            f.write("diversity_ranker = " + x + "\n")
+                            f.write("do_diverse = " + str(y) + "\n")
+                            f.write("max_return_phrases = " + str(z) + "\n")
+                            f.write("max_length = " + str(w) + "\n")
+                            f.write("adequacy_threshold = " + str(i) + "\n")
+                            f.write("fluency_threshold = " + str(j) + "\n")
+                            f.write("\n")
+                            for phrase in phrases:
+                                f.write("-"*100)
+                                f.write("\n")
+                                f.write("Input_phrase: " + phrase)
+                                f.write("\n")
+                                f.write("-"*100)
+                                f.write("\n")
+
+                                tic3 = time.perf_counter()
+                                para_phrases = parrot.augment(input_phrase=phrase,
+                                                              use_gpu=a,
+                                                              diversity_ranker=x,
+                                                              do_diverse=y,
+                                                              max_return_phrases=z,
+                                                              max_length=w,
+                                                              adequacy_threshold=i,
+                                                              fluency_threshold=j)
+                                toc3 = time.perf_counter()
+                                print(f"Time for the augment function:  {toc3 - tic3:0.4f} seconds")
+
+                                if not para_phrases:  # in realtà se non c'erano parafrasi para_phrases non è lista vuota (che vale false) (non ci sarebbero problemi a iterare su lista vuota), ma è None, ma anche None vale false !!!
+                                    para_phrases = ["None"]
+
+                                for para_phrase in para_phrases:
+                                    f.write(str(para_phrase) + "\n")
+
+                                toc2 = time.perf_counter()
+                                f.write("\n")
+                                f.write(f"Got the paraphrases in {toc2 - tic2:0.4f} seconds")
+                                f.write("\n")
 
 toc0 = time.perf_counter()
 print(f"Total time: {toc0 - tic0:0.4f} seconds")
