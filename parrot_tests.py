@@ -33,7 +33,7 @@ print(f"Downloaded the model in {toc1 - tic1:0.4f} seconds")
 # ImportError: T5 Converter requires the protobuf library but it was not found in your environment. Checkout the instructions on the installation page of its repo: https://github.com/protocolbuffers/protobuf/tree/master/python#installation and follow the ones that match your environment.
 # Protocol Buffers are Google’s data interchange format
 
-my_file = open("data_set_1.txt", "r")
+my_file = open("data_sets/data_set_1.txt", "r")
 phrases = my_file.read().splitlines()
 # phrases = ["As a Public User, I want to Search for Information, so that I can obtain publicly available information concerning properties, County services, processes and other general information."]
 
@@ -64,6 +64,7 @@ for a in use_gpu_array:
                         for j in fluency_threshold_array:
                             tic2 = time.perf_counter()
 
+                            # examples
                             # results/data_set_1/results_1.txt
                             # results/data_set_1/results_2.txt
                             f = open(dir + "/" + "results_" + str(file_index) + ".txt", "w")
@@ -103,9 +104,9 @@ for a in use_gpu_array:
                                     f.write(str(para_phrase) + "\n")
 
                                 toc2 = time.perf_counter()
-                                f.write("\n")
-                                f.write(f"Got the paraphrases in {toc2 - tic2:0.4f} seconds")
-                                f.write("\n")
+                            f.write("\n")
+                            f.write(f"Got the paraphrases in {toc2 - tic2:0.4f} seconds")
+                            f.write("\n")
 
 toc0 = time.perf_counter()
 print(f"Total time: {toc0 - tic0:0.4f} seconds")
