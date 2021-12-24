@@ -1,0 +1,537 @@
+max_length_ = 64
+
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a user, I want to click on the address, so that it takes me to a new tab with Google Maps.
+----------------------------------------------------------------------------------------------------
+('as a user i want to click on the address so that i can go to a new tab with google maps', 20)
+('as a user i want to click on the address so that it takes me to a new tab on google maps', 17)
+('as a user i want to click on the address so that it takes me to a new tab in google maps', 16)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a user, I want to be able to anonymously view public information, so that I know about recycling centers near me before creating an account.
+----------------------------------------------------------------------------------------------------
+('as a user i want to be able to view public information anonymously so that i know about recycling centers near me before creating an account i', 38)
+('as a user i want to be able to view public information anonymously so that i know about recycling centers near me before creating an account', 37)
+('as a user i want to be able to anonymously view public information so that i know about recycling centers near me before creating an account', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a user, I want to be able to enter my zip code and get a list of nearby recycling facilities, so that I can determine which ones I should consider.
+----------------------------------------------------------------------------------------------------
+('i would like to be able to enter my zip code and get a list of nearby recycling facilities so i can determine which ones to consider', 38)
+('i would like to be able to enter my zip code and get a list of nearby recycling facilities so i can decide which ones i should consider', 36)
+('i would like to be able to enter my zip code and get a list of nearby recycling facilities so i can determine which ones i should consider if i', 35)
+('i would like to be able to enter my zip code and get a list of nearby recycling facilities so i could determine which ones i should consider', 35)
+('i would like to be able to enter my zip code and get a list of nearby recycling facilities so i can determine which ones i should consider if', 33)
+('i would like to be able to enter my zip code and get a list of nearby recycling facilities so i can determine which one i should consider', 32)
+('i would like to be able to enter my zip code and get a list of nearby recycling facilities so i can determine which ones i should consider ', 31)
+('i would like to be able to enter my zip code and get a list of nearby recycling facilities so i can determine which ones i should consider', 31)
+('as a user i want to be able to enter my zip code and get a list of nearby recycling facilities so i can determine which ones to consider', 25)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a user, I want to be able to get the hours of each recycling facility, so that I can arrange drop-offs on my off days or during after-work hours.
+----------------------------------------------------------------------------------------------------
+('as a user i want to be able to get hours of each recycling facility so i can arrange drop-offs on my off days or during after-work hours', 22)
+('as a user i want to be able to get the hours of each recycling facility so i can arrange drop offs on my off days or during after-work hours', 19)
+('as a user i want to be able to get the hours of each recycling facility so i can arrange drop-offs on my off days or during after-work hours', 18)
+('if i am a user i want to be able to get the hours of each recycling facility so i can arrange drop-offs on my off days or during after-work hours', 18)
+('as a user i want to be able to get hours of each recycling facility so that i can arrange drop-offs on my off days or during after-work hours', 17)
+('as a user i want to be able to get the hours of each recycling facility so that i can arrange drop-offs on my off days or during after-work days', 17)
+('as a user i want to be able to get the hours of each recycling facility so that i can arrange drop-offs on my off days or during after-work hours', 13)
+('as a user i want to be able to get the hours of each recycling facility so that i can arrange drop-offs on my off days or during after-work hours ', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a user, I want to have a flexible pick up time, so that I can more conveniently use the website.
+----------------------------------------------------------------------------------------------------
+('i would like a flexible pickup time so i could use the website more conveniently', 69)
+('i would like a flexible pick up time so i could use the website more conveniently', 68)
+('i would like a flexible pick up time so i can use the website more conveniently', 64)
+('i would like a flexible pick up time so that i can use the website more easily and efficiently', 64)
+('i would like a flexible pick up time so that i could use the website more conveniently', 63)
+('i would like a flexible pick up time so that i can use the website more easily and easily', 60)
+('i would like a flexible pick up time so that i can use the website more conveniently', 59)
+('i would like a flexible pick up time so that i can use the website more conveniently and easily', 59)
+('i would like a flexible pick up time so that i can use the website more easily', 55)
+('as a user i want a flexible pick up time so i can use the website more conveniently', 53)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a user, I want to be able to select different types of recyclable waste, so I have and get a list of facilities that accept each type and their opening hours, so that I can find an optimal route and schedule.
+----------------------------------------------------------------------------------------------------
+('as a user i want to be able to select different types of recyclable waste so i have a list of facilities that accept each type and their opening hours so i can find an optimal route and schedule', 26)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a user, I want to add donation centers as favorites on my profile, so that I can view them later.
+----------------------------------------------------------------------------------------------------
+('as a user i want to add donation centers to my profile as favorites so i can view them later', 38)
+('i want to add donation centers as favorites on my profile so i can see them later', 31)
+('i want to add donation centers as favorites on my profile so i can view them later', 28)
+('i want to add donation centers as favorites on my profile so that i can see them later', 26)
+('i want to add donation centers as favorites on my profile so that i can view them later on', 25)
+('i want to add donation centers as favorites on my profile so that i can view them later', 23)
+('as a user i want to add donation centers as favorites on my profile so i can see them later', 21)
+('as a user i want to add donation centers as favorites on my profile so i can view them later', 18)
+('as a user i want to add donation centers as favorites on my profile so that i can see them later', 16)
+('as a user i want to add donation centers as favorites on my profile so that i can view them later', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a user, I want to be able to give my email ID, so that I can receive notifications for new events as they are posted.
+----------------------------------------------------------------------------------------------------
+('as a user i want to be able to give my email id so that i can receive notifications for new events as they are posted on the website', 27)
+('as a user i want to be able to give my email id so that i can receive notifications for new events as they are posted on the site', 24)
+('as a user i want to be able to give my email id so that i can receive notifications for new events as they are posted on my site', 23)
+('as a user i want to be able to give my email address so that i can receive notifications for new events as they are posted', 19)
+('as a user i want to be able to give my email id so i can receive notifications for new events as they are posted', 18)
+("as a user i want to be able to give my email id so that i can receive notifications for new events as they are posted ''", 15)
+("as a user i want to be able to give my email id so that i can receive notifications for new events as they're posted", 15)
+('as a user i want to be able to give my email id so that i can receive notifications of new events as they are posted', 15)
+('as a user i want to be able to give my email id so that i can receive notifications for new events as they are posted', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a user, I want to be able to view a map display of the public recycling bins around my area.
+----------------------------------------------------------------------------------------------------
+('as a user i want to be able to view a map of the public recycling bins in my area', 26)
+('as a user i want to be able to view a map of public recycling bins around my area', 25)
+("as a user i want to be able to view a map of the public recycling bins around my area '", 22)
+('as a user i want to be able to view a map of the public recycling bins around my area', 21)
+('as a user i want to be able to view a map display of the public recycling bins around my region', 17)
+('as a user i want to be able to view a map display of the public recycling bins around my area ', 13)
+('as a user i want to be able to view a map display of the public recycling bins around my area', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a user, I want to be able to view a map display of the special waste drop off sites around my area.
+----------------------------------------------------------------------------------------------------
+('i want to see a map of the special waste drop off sites in my area', 49)
+('i want to see a map of special waste drop off sites around my area', 48)
+('i want to see a map of the special waste drop-off sites around my area', 45)
+('i want to see a map of the special waste drop off sites around my area', 44)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a user, I want to be able to view the safe disposal events currently being organised around my area.
+----------------------------------------------------------------------------------------------------
+('as a user i want to be able to view the safe disposal events that are currently being organised around my neighborhood', 32)
+('as a user i want to be able to view the safe disposal events that are currently being organised around my community', 30)
+('as a user i want to be able to view the safe disposal events that are currently being organised around my locality', 28)
+('as a user i want to be able to view the safe disposal events that are currently being organised around my region', 26)
+('as a user i want to be able to view the safe disposal events that are currently being organised around my area', 22)
+('as a user i want to be able to view the safe disposal events currently being organised in my area', 18)
+('as a user i want to be able to see the safe disposal events currently being organised around my area', 16)
+('as a user i want to be able to view the safe disposal events currently being organized around my area', 14)
+('as a user i want to be able to view the safe disposal events currently being organised around my area', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a user, I want to choose a flexible pick up time, so that I can more conveniently use the website.
+----------------------------------------------------------------------------------------------------
+('the user wants to choose a flexible pickup time so i can use the website more conveniently', 51)
+('the user wants to choose a flexible pick up time so i can use the website more conveniently', 50)
+('the user wants to choose a flexible pickup time so i can use the website more easily', 47)
+('as a user i want to choose a flexible pickup time so i can use the website more conveniently', 46)
+('the user wants to choose a flexible pick up time so i can use the website more easily', 46)
+('the user wants to choose a flexible pick up time so that i can use the website more efficiently', 45)
+('as a user i want to choose a flexible pick up time so i can use the website more conveniently', 45)
+('the user wants to choose a flexible pick up time so that i can use the website more conveniently', 45)
+('the user wants to choose a flexible pick up time so that i can use the website more easily', 41)
+('as a user i want to choose a flexible pickup time so that i can use the website more conveniently', 41)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a user, I want to view user documentation for the website, so that I know how to use the web app.
+----------------------------------------------------------------------------------------------------
+('as a user i want to view the user documentation for the website so that i know how to use the web application', 24)
+('as a user i want to view the user documentation for the website so i know how to use the web app', 22)
+('as a user i want to see user documentation for the website so i know how to use the web app', 21)
+('as a user i want to view the user documentation for the website so that i know how to use the webapp', 18)
+('as a user i want to view user documentation for the website so i know how to use the web app', 18)
+('as a user i want to view the user documentation for the website so that i know how to use the web app', 17)
+('if i am a user i want to view user documentation for the website so that i know how to use the web app', 13)
+('as a user i want to view user documentation for the website so that i know how to use the web app', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a user, I want to get feedback when I enter an invalid zip code.
+----------------------------------------------------------------------------------------------------
+('i want feedback when i enter an invalid zip code', 30)
+('as a user i want feedback when i enter an invalid zip code', 20)
+('as a user i want to receive feedback when i enter an invalid zip code', 19)
+('in my case i want to get feedback when i enter an invalid zip code', 18)
+('as a user i want to get feedback if i enter an invalid zip code', 17)
+('as a user i want to get feedback when i enter an invalid zipcode', 14)
+('as a user i want to get feedback when i enter an invalid zip code', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a user, I want to be able to create an acocunt, so that I can create my own profile.
+----------------------------------------------------------------------------------------------------
+('as a user i want to be able to create an account to create my own profile', 27)
+('as a user i want to be able to create an account so i can create my own account', 27)
+('as a user i want to be able to create an acocunt so i can make my own profile', 22)
+('as a user i want to be able to create an account so i can create my own profile', 20)
+('as a user i want to be able to create an acocunt so i can create my own profile', 18)
+('as a user i want to be able to create an acocunt so that i can make my own profile', 17)
+('as a user i want to be able to create an acocunt so that i could create my own profile', 17)
+('in my opinion as a user i want to be able to create an account so that i can create my own profile', 16)
+('as a user i want to be able to create an account so that i can create my own profile', 15)
+('as a user i want to be able to create an acocunt so that i can create my own profile', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As an admin, I want to be able to add or remove recycling facilities' information, so that users get the most recent information.
+----------------------------------------------------------------------------------------------------
+("as an admin i want to be able to add or remove recycling facilities' information so that users get the most recent information available", 22)
+("if i am an administrator i want to be able to add or remove recycling facilities' information so that users get the most recent information", 21)
+("as an admin i want to be able to add or remove recycling facilities' information so that users get the most recent information possible", 21)
+("as an administrator i want to be able to add or remove recycling facilities' information so that users get the most recent information", 20)
+('as an admin i want to be able to add or remove recycling facility information so that users get the most recent information', 17)
+("as admin i want to be able to add or remove recycling facilities' information so that users get the most recent information", 16)
+('if i am an admin i want to be able to add or remove recycling facilities information so that users get the most recent information', 14)
+('as an admin i want to be able to add or remove recycling facilities information so that users get the most recent information', 14)
+("as an admin i want to be able to add or remove recycling facilities' information so that users get the most recent information", 13)
+("if i am an admin i want to be able to add or remove recycling facilities' information so that users get the most recent information", 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As an admin, I want to be able to read users' feedback and complaints, so that we can add more features and keep improving the service we provide to them.
+----------------------------------------------------------------------------------------------------
+("as an admin i want to be able to read users' feedback and complaints so that we can add more features and keep improving the service we provide to these customers", 23)
+("as an admin i want to be able to read users' feedback and complaints so that we can add more features and improve the service we provide to them", 21)
+("as an admin i want to be able to read users' feedback and complaints so that we can add more features and keep improving the service we provide", 21)
+("as an admin i want to be able to read users' feedback and complaints so that we can add more features and keep improving the service we provide to these users", 20)
+("as an admin i want to be able to read users' feedback and complaints so we can add more features and keep improving the service we provide to them", 18)
+("as admin i want to be able to read users' feedback and complaints so that we can add more features and keep improving the service we provide to them", 16)
+("as an admin i want to be able to read users' feedback and complaints so that we can add more features and keep improving the service we provide to them", 13)
+("as an admin i want to be able to read users' feedback and complaints so that we can add more features and keep improving the service we provide to them ", 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a user, I want to be able to check transaction history and keep a record of it, so that I can go back when needed.
+----------------------------------------------------------------------------------------------------
+('as a user i want to be able to check transaction history and keep a record of it so i can go back when i need to go', 25)
+('as a user i want to be able to check the transaction history and keep a record of it so i can go back when needed', 22)
+('as a user i want to be able to check transaction history and keep a record of it so i can go back when i need it', 22)
+('as a user i want to be able to check transaction history and keep a record of it so i can go back when i need to', 22)
+('as a user i want to be able to check the transaction history and keep a record of it so that i can go back when needed i', 18)
+('as a user i want to be able to check transaction history and keep a record of it so i can go back when needed', 18)
+('as a user i want to be able to check the transaction history and keep a record of it so that i can go back when needed ', 17)
+('as a user i want to be able to check the transaction history and keep a record of it so that i can go back when needed', 17)
+('as a user i want to be able to check transaction history and keep a record of it so that i can go back when needed', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a user, I want to have a great UI and UX from the sites, so that I have a pleasant experience when navigating through them.
+----------------------------------------------------------------------------------------------------
+('As a user, I want to have a great UI and UX from the sites, so that I have a pleasant experience when navigating through them.', 0)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a user, I want to be able to access the site and do all the other stuffs on all of my electronic devices.
+----------------------------------------------------------------------------------------------------
+('as a user i want to be able to access the site and do all the other things on my electronic devices', 25)
+('as a user i want to be able to access the site and do all the other things on all my electronic devices', 21)
+('as a user i want to be able to access the site and do all the other things on all of my electronic devices', 18)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As an admin, I want to be able to block specific users based on IP address, so that I can prevent spamming on the websites.
+----------------------------------------------------------------------------------------------------
+('as an administrator i want to be able to block specific users based on ip address so i can prevent spamming on the websites', 25)
+('as an admin i want to be able to block specific users based on ip address so i can prevent spamming on websites', 22)
+('as admin i want to be able to block specific users based on ip address so i can prevent spamming on the websites', 21)
+('as an admin i want to be able to block specific users based on ip address so i can prevent spamming on the websites', 18)
+('as an admin i want to be able to block specific users based on ip address so that i can prevent spamming on the sites', 16)
+('as an admin i want to be able to block specific users based on ip address so that i can prevent spamming on the websites i', 14)
+('as an admin i want to be able to block specific users based on ip address so that i can prevent spamming on the website', 14)
+('as an admin i want to be able to block specific users based on ip address so that i can prevent spamming on the websites ', 13)
+('as an admin i want to be able to block specific users based on ip address so that i can prevent spamming on the websites', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As an admin, I want to view a dashboard that monitors all the sites' statuses, so that I can have a sense of what people are doing on our sites and know the service status.
+----------------------------------------------------------------------------------------------------
+('as an admin i want to view a dashboard that monitors all the statuses of the sites so i can have a sense of what people are doing on our sites and know the status of the', 42)
+('as an admin i want to view a dashboard that monitors all the statuses of the sites so i can have a sense of what people are doing on our sites and know the service status', 31)
+('as an admin i want to view a dashboard that monitors all site statuses so i can have a sense of what people are doing on our sites and know the service status', 24)
+("as an admin i want to view a dashboard that monitors all sites' statuses so i can have a sense of what people are doing on our sites and know the service status", 22)
+("as a admin i want to view a dashboard that monitors all the sites' statuses so i can have a sense of what people are doing on our sites and know the service status", 19)
+("as an admin i want to view a dashboard that monitors all the sites' statuses so i can have a sense of what people are doing on our sites and know the service status", 18)
+("as an admin i want to view a dashboard that monitors all the sites' statuses so that i can have a sense of what people are doing on our sites and know the service status", 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As an admin, I want to have all data encrypted, so that important information will not be stolen during a server breach or an attack.
+----------------------------------------------------------------------------------------------------
+('as an administrator i want to have all data encrypted so that important information will not be stolen during a server breach or an attack', 20)
+("as an admin i want to have all data encrypted so that important information won't be stolen during a server breach or an attack", 18)
+("as an admin i want to have all data encrypted so that important information won't be stolen during a server breach or an attack ", 18)
+('as admin i want to have all data encrypted so that important information will not be stolen during a server breach or an attack', 16)
+('as an admin i want to have all data encrypted so that important information will not be stolen during a server breach or attack', 16)
+('as an admin i want to have all data encrypted so that important information will not be stolen during a server breach or an attack if', 15)
+('as a admin i want to have all data encrypted so that important information will not be stolen during a server breach or an attack', 14)
+('as an admin i want to have all data encrypted so that important information will not be stolen during a server breach or an attack', 13)
+('as an admin i want to have all data encrypted so that important information will not be stolen during a server breach or an attack ', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As an executive, I want to have full access to data related to my company, so that I can have a sense of my company's performance.
+----------------------------------------------------------------------------------------------------
+('as an executive i want to have full access to data related to my company so i can have a sense of the performance of my company', 40)
+("as an executive i want to have full access to data related to my company to have a sense of my company's performance", 25)
+("as an executive i want full access to data related to my company so that i can have a sense of my company's performance", 21)
+("as an executive i want to have full access to data related to my company so i can have a sense of my company's performance", 18)
+("as an executive i want to have full access to data related to my company so that i can have a sense of my company's performance i", 14)
+("as an executive i want to have full access to data related to my company so that i can have a sense of my company's performances", 13)
+("as an executive i want to have full access to data related to my company so that i can have a sense of my company's performance ", 13)
+("as an executive i want to have full access to data related to my company so that i can have a sense of my company's performance", 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As an employee, I want to access the route planning system during work, so that I can be guided through the neighbourhood.
+----------------------------------------------------------------------------------------------------
+('my job is to access the route planning system during work so i can be guided through the neighborhood', 36)
+('my job is to access the route planning system during work so that i can be guided through the neighborhood', 31)
+('my job is to access the route planning system during work so that i can be guided through the neighbourhood', 30)
+('as an employee i want to access the route planning system during my work so that i can be guided through the community', 28)
+('as an employee i want to access the route planning system during work so i can be guided through the neighborhood', 19)
+('as an employee i want to access the route planning system during work so i can be guided through the neighbourhood', 18)
+('as an employee i want to access the route planning system during my work so that i can be guided through the neighborhood', 17)
+('as an employee i want to access the route planning system during my work so that i can be guided through the neighbourhood', 16)
+('as an employee i want to access the route planning system during work so that i can be guided through the neighborhood', 14)
+('as an employee i want to access the route planning system during work so that i can be guided through the neighbourhood', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As an employee from the HR department, I want to have access to the full information of all employees working for this business.
+----------------------------------------------------------------------------------------------------
+('i would like to have full access to all employees working for this business as an employee of the hr department', 102)
+('i would like to have full access to the information of all employees working for this business', 59)
+('i would like to have full access to the full information of all employees working for this business', 54)
+('as an employee of the hr department i want to have access to all employees working for this business', 40)
+('as an employee of the hr department i want access to the full information of all employees working for this business', 24)
+('as an employee of the hr department i want to have access to the full information of all employees working for this company', 24)
+('as an employee of the hr department i want to have access to the full information of all employees working in this business', 19)
+('as an employee in the hr department i want to have access to the full information of all employees working for this business', 17)
+('as an employee of the hr department i want to have access to the full information of all employees working for this business', 16)
+('as an employee from the hr department i want to have access to the full information of all employees working for this business', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a developer, I want to access an API from the website, so that I can integrate it and implement certain features in my own iOS application.
+----------------------------------------------------------------------------------------------------
+('as a developer i want to access an api from the website so i can integrate it and implement certain features in my own ios app', 26)
+('as a developer i want to access an api from the website so that i can integrate it and implement certain features in my own ios app', 21)
+('as a developer i want to access an api from the website so i can integrate and implement certain features in my own ios application', 21)
+("as a developer i want to access an api from the website so i can integrate it and implement certain features in my own ios application ''", 20)
+('as a developer i want to access an api from the website so i can integrate it and implement certain features in my own ios application', 18)
+('as a developer i want to access an api from the website so that i can integrate and implement certain features in my own ios application', 16)
+('as a developer i want to access an api from the website so that i can integrate it and implement certain features in my own ios application i', 14)
+('as a developer i want to access an api from the website so that i can integrate it and implement certain features in my own ios application', 13)
+('as a developer i want to access an api from the website so that i can integrate it and implement certain features in my own ios application ', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a user, I want to be able to receive tempting rewards, so that I have a reason to use the website.
+----------------------------------------------------------------------------------------------------
+('as a user i want to receive tempting rewards so i have a reason to use the website', 29)
+('as a user i want to receive tempting rewards so that i have a reason to use the website', 24)
+('as a user i want to be able to receive tempting rewards so i have a reason to use the site', 21)
+('as a user i want to be able to receive tempting rewards so i can have a reason to use the website', 19)
+('as a user i want to be able to receive tempting rewards so i have a reason to use the website', 18)
+('as a user i want to be able to receive tempting rewards so that i have a reason to use the site', 16)
+('as a user i want to be able to receive tempting rewards so that i have a reason to use the website i', 14)
+('as a user i want to be able to receive tempting rewards so that i have a reason to use the website ', 13)
+('as a user i want to be able to receive tempting rewards so that i have a reason to use the website', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a user, I want to have my personal information kept securely in the database of the website, so that I will not suffer from identity theft or telephone harassment.
+----------------------------------------------------------------------------------------------------
+("as a user i want to have my personal information stored securely in the database of the website so that i won't suffer identity theft or telephone harassment", 29)
+("as a user i want to have my personal information stored securely in the database of the website so that i won't suffer identity theft or telephone harassment ", 29)
+("as a user i want to have my personal information kept securely in the database of the website so that i won't suffer identity theft or telephone harassment if", 25)
+('as a user i want to have my personal information stored securely in the database of the website so that i will not suffer identity theft or telephone harassment', 24)
+("as a user i want to have my personal information kept securely in the database of the website so that i won't suffer identity theft or telephone harassment", 23)
+("as a user i want to have my personal information kept securely in the database of the website so that i won't suffer identity theft or telephone harassment ", 23)
+('as a user i want to have my personal information kept securely in the database of the website so that i do not suffer identity theft or telephone harassment', 22)
+('as a user i want to have my personal information kept securely in the database of the website so that i will not suffer identity theft or telephone harassment', 18)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As an admin, I want to handle all users' activities, so that I can manage more efficiently.
+----------------------------------------------------------------------------------------------------
+("as admin i want to handle all users' activities so i can manage more efficiently", 21)
+("as an admin i want to handle all users' activities so that i can manage more easily", 20)
+('as an admin i want to handle all user activities so i can manage more efficiently', 20)
+('as an admin i want to handle all users activities so i can manage more efficiently', 19)
+("as an admin i want to handle all users' activities so that i can manage more effectively", 18)
+("as an admin i want to handle all users' activities so i can manage more efficiently", 18)
+("as an admin i want to handle all users' activities so that i can manage more efficient", 15)
+("as an admin i want to handle all users' activities so that i can manage more efficiently", 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a company, I want to have a website that is easy to use, so that I can upload or delete stuff step by step.
+----------------------------------------------------------------------------------------------------
+('as a company i want a website that is easy to use so i can upload or delete things step by step', 32)
+('as an employer i want a website that is easy to use so i can upload or delete stuff step by step', 32)
+('as a company i want a website that is easy to use so i can upload or delete stuff step by step', 26)
+('ideally as a company i want to have a website that is easy to use so i can upload or delete things step by step', 22)
+('as a company i want a website that is easy to use so that i can upload or delete stuff step by step', 21)
+('as a company i want to have a website that is easy to use so i can upload or delete stuff step by step', 18)
+('ideally as a company i want to have a website that is easy to use so i can upload or delete stuff step by step', 16)
+('as a company i want to have a website that is easy to use so that i can upload or delete stuff step by step', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As an employee, I want to get quick notifications, so that I can process cases the first time.
+----------------------------------------------------------------------------------------------------
+('as an employee i want quick notifications so i can process cases the first time', 25)
+('as an employee i want to get quick notification so i can process cases the first time', 19)
+('as an employee i want to get quick notifications so i can process cases the first time', 18)
+('as an employee i want to get quick notifications so that i can process cases the first time', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a company accountant, I want to view all available activity fees online, so that I can easily create a bill statement.
+----------------------------------------------------------------------------------------------------
+('if i want to view all available activity fees online i can easily create a bill statement', 44)
+('my accountant wants to view all available activity fees online so i can easily create a bill statement', 31)
+("if i'm a company accountant i want to view all available activity fees online so i can quickly create a bill statement", 25)
+('as a company accountant i want to view all the available activity fees online so i can easily create a bill statement', 22)
+('as a company accountant i want to see all available activity fees online so i can easily create a bill statement', 21)
+("if i'm a company accountant i want to view all available activity fees online so i can easily create a bill statement", 20)
+('as a company accountant i want to view all available activity fees online so that i can easily create a bill statement online', 19)
+('as a company accountant i want to view all available activity fees online so i can easily create a bill statement', 18)
+('as a company accountant i want to view all the available activity fees online so that i can easily create a bill statement', 17)
+('as a company accountant i want to view all available activity fees online so that i can easily create a bill statement', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a developer, I want to use bootstrap in the process of developing, so that I can easily design my website.
+----------------------------------------------------------------------------------------------------
+('as a developer i want to use bootstrap in the development process so i can easily design my website', 36)
+('as a developer i want to use bootstrap in the development process so that i can easily design my website', 32)
+('as a developer i want to use bootstrap in the process of developing so i can easily design my website', 18)
+('as a developer i want to use bootstrap in the process of developing so that i can easily design my site', 16)
+('as a developer i want to use bootstrap in the process of developing so that i can easily design my website ', 13)
+('as a developer i want to use bootstrap in the process of developing so that i can easily design my website', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a developer, I want to attend some UI/UX lessons, so that I can develop an awesome and beautiful features website.
+----------------------------------------------------------------------------------------------------
+('if i want to develop an awesome and beautiful features website i want to attend some uiux lessons', 86)
+('if i want to develop an awesome and beautiful features website i want to attend uiux lessons', 86)
+('if i want to develop an awesome and beautiful feature website i want to attend some uiux lessons', 86)
+('as a developer i want to attend some uiux lessons to develop an awesome and beautiful features website', 26)
+('as a developer i want to attend uiux lessons so i can develop an awesome and beautiful features website', 24)
+('as a developer i want to attend uiux lessons so that i can develop an awesome and beautiful features website', 19)
+('as a developer i want to attend some uiux lessons so i can develop an awesome and beautiful features website', 19)
+('as a developer i want to attend some uiux lessons so that i can develop an awesome and beautiful features site', 17)
+('as a developer i want to attend some uiux lessons so that i can develop an awesome and beautiful feature website', 15)
+('as a developer i want to attend some uiux lessons so that i can develop an awesome and beautiful features website', 14)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a user, I want to view all locations of recycling centers on a map, so that I can check which routes to take to drop off waste.
+----------------------------------------------------------------------------------------------------
+('i want to see all recycling centers on a map so i can check which routes to take to drop off waste', 44)
+('i want to see all the locations of recycling centers on a map so i can see which routes to take to drop off waste', 39)
+('i want to see all the locations of recycling centers on a map so i can check which routes to take to drop off the waste', 39)
+('i want to view all the locations of recycling centers on a map so i can see which routes to take to drop off waste', 36)
+('i want to see all the locations of recycling centers on a map so i can check which routes to take to drop off waste', 35)
+('i want to view all the locations of recycling centers on a map so i can check which routes to take to drop off waste', 32)
+('as a user i want to view all locations of recycling centers on a map so i can see which routes to take to drop off waste', 22)
+('as a user i want to see all locations of recycling centers on a map so i can check which routes to take to drop off waste', 21)
+('as a user i want to view all locations of recycling centers on a map so i can check which routes to take to drop off waste', 18)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a user, I want to upload my week's schedule, so that I can get recommendations for recycling centers that best fit my availability.
+----------------------------------------------------------------------------------------------------
+('my schedule for the week i want to upload so that i can get recommendations for recycling centers that best fit my schedule', 50)
+('my schedule for the week i want to upload so i can get recommendations for recycling centers that fit my availability', 49)
+('my schedule for the week i want to upload so i can get recommendations for recycling centers that best fit my available time', 49)
+('my schedule for the week i want to upload so i can get recommendations for recycling centers that best fit my availability', 44)
+('my schedule for the week i want to upload so that i can get recommendations for recycling centers that best fit my availability', 39)
+('as a user i want to upload my week schedule so i can get recommendations for recycling centers that best fit my availability', 20)
+('as a user i want to upload my weekly schedule so i can get recommendations for recycling centers that best fit my availability', 20)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a user, I want to link my email account to my profile, so that I can get a temporary password in case I forget my own one.
+----------------------------------------------------------------------------------------------------
+('i want to link my email account to my profile so that i can get a temporary password if i forget my own', 33)
+('i want to link my email account to my profile so i can get a temporary password in case i forget my own', 32)
+('i want to link my email account to my profile so that i can get a temporary password if i forget my own one', 29)
+('i want to link my email account to my profile so i can get a temporary password in case i forget my own one', 28)
+('as a user i want to link my email account to my profile so i can get a temporary password if i forget my own one', 24)
+('i want to link my email account to my profile so that i can get a temporary password in case i forget my own one', 23)
+('as a user i want to link my email account to my profile so that i can get a temporary password if i forget my own', 23)
+('as a user i want to link my email account to my profile so i can get a temporary password in case i forget my own', 22)
+('as a user i want to link my email account to my profile so i can get a temporary password in case i forget my own one', 18)
+('as a user i want to link my email account to my profile so that i can get a temporary password in case i forget my own', 17)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a user, I want to contact the administrators, so that I can give feedback or ask for help.
+----------------------------------------------------------------------------------------------------
+('as a user i want to contact the administrators so i can give feedback or ask for assistance', 27)
+('as a user i want to contact the administrators to give feedback or ask for help', 25)
+('as a user i want to contact the administrators so that i can give feedback or ask for assistance', 22)
+('as a user i want to contact administrators so i can give feedback or ask for help', 22)
+('as a member of the user i want to contact the administrators so i can give feedback or ask for help', 20)
+("as a user i want to contact the administrators so i can give feedback or ask for help ''", 20)
+('as a user i want to contact the administrators so i can give feedback or ask for help', 18)
+('as a user i want to contact administrators so that i can give feedback or ask for help', 17)
+('as a user i want to contact the administrators so that i can give feedback or ask for help', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As an admin, I want to add recycling center information, so that I can keep the database up-to-date over time.
+----------------------------------------------------------------------------------------------------
+('as an administrator i want to add recycling center information so i can keep the database up-to-date over time', 25)
+('as an admin i want to add recycling center information so i can keep the database up-to-date over the years', 24)
+('as an admin i want to add recycling center information so that i can keep the database up-to-date over the long term', 23)
+('as an admin i want to add recycling center information so i can keep the database updated over time', 23)
+('as admin i want to add recycling center information so i can keep the database up-to-date over time', 21)
+('as an admin i want to add recycling center information so that i can keep the database up-to-date over the years', 19)
+('as an admin i want to add recycling center information so i can keep the database up-to-date over time', 18)
+('as an admin i want to add recycling center information so that i can keep the database up-to-date over the time', 17)
+('as an admin i want to add recycling center information so that i can keep the database up-to-date over time', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As an admin, I want to view user error logs, so that I can fix or review any issues that are being faced by users of the system.
+----------------------------------------------------------------------------------------------------
+('as a system administrator i want to view user error logs so that i can fix or review any issues that are being faced by users', 35)
+('as an admin i want to view user error logs so i can fix or review any issues faced by users of the system', 33)
+('as an admin i want to view user error logs so that i can fix or review any issues faced by users of the system', 28)
+('as an admin i want to view user error logs so i can fix or review any issues that are being faced by users of the system', 18)
+('as an admin i want to view the user error logs so that i can fix or review any issues that are being faced by users of the system', 17)
+('as an admin i want to view user error logs so that i can fix or review any issues that are being faced by users of the system i', 14)
+('as an admin i want to view user error logs so that i can fix or review any issues that are being faced by users of the system', 13)
+('as an admin i want to view user error logs so that i can fix or review any issues that are being faced by users of the system ', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As an admin, I want to onboard recycling centers on the platform, so that I can increase information accuracy.
+----------------------------------------------------------------------------------------------------
+('As an admin, I want to onboard recycling centers on the platform, so that I can increase information accuracy.', 0)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a superuser, I want to update the recycling center information, so that I can provide the latest information about the recycling center.
+----------------------------------------------------------------------------------------------------
+('as a superuser i want to update the information about the recycling center so i can provide the latest information about the recycling centre', 49)
+('as a superuser i want to update the information about the recycling center so i can provide the latest information about the recycling center', 48)
+('as a superuser i want to update the information about the recycling center so that i can provide the latest information about the recycle center', 47)
+('as a superuser i want to update the information about the recycling center so that i can provide the latest information about the recycling centre', 45)
+('as a superuser i want to update the information about the recycling center so that i can provide the latest information about the recycling center ', 44)
+('as a superuser i want to update the information about the recycling center so that i can provide the latest information about the recycling center', 44)
+('as a superuser i want to update the recycling center information so i can provide the latest information about the recycling center', 18)
+('as a superuser i want to update the recycling center information so that i can provide the latest information about the recycling center', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a superuser, I want to view users' stats, so that I can view in real-time how many users have visited my recycling center information and their recyclable waste.
+----------------------------------------------------------------------------------------------------
+("i want to view users' stats so i can see in real-time how many users have visited my recycling center information and their recyclable waste", 36)
+("currently as a superuser i want to view users' stats so that i can view in real-time how many users have visited my recycling center information and", 34)
+("i want to view users' stats so i can view in real-time how many users have visited my recycling center information and their recyclable waste", 33)
+("as a superuser i want to view users' stats so i can view in real-time how many users have visited my recycling center information and their recyclable waste", 18)
+("as a superuser i want to view users' stats so that i can see in real-time how many users have visited my recycling center information and their recyclable waste", 16)
+("as a superuser i want to view users' stats so that i can view in real-time how many users have visited my recycling center information and their recyclable waste", 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a superuser, I want to reply to user questions, so that I can answer any questions about my recycling center.
+----------------------------------------------------------------------------------------------------
+('i want to reply to user questions so i can answer any question about my recycling center', 34)
+('i want to reply to user questions so i can answer any questions about my recycling center', 33)
+('i want to reply to user questions so that i can answer questions about my recycling center', 32)
+('as a superuser i want to answer user questions so i can answer questions about my recycling center', 30)
+('i want to reply to user questions so that i can answer any questions about my recycling center', 28)
+('as a superuser i want to answer user questions so i can answer any questions about my recycling center', 26)
+('as a superuser i want to answer user questions so that i can answer any questions about my recycling center', 21)
+('as a superuser i want to reply to user questions so i can answer any questions about my recycling center', 18)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As an admin, I want to be able to have a dashboard that shows usage stats and locations, so that I can identify the neighbourhoods with the largest number of drop-offs and to try getting more facilities involved.
+----------------------------------------------------------------------------------------------------
+('as an admin i want to have a dashboard that shows usage stats and locations so i can identify the neighbourhoods with the largest number of drop-offs and try to get more facilities involved', 37)
+('as an admin i want to be able to have a dashboard that shows usage stats and locations so i can identify the neighbourhoods with the largest number of drop-offs and to try to get more facilities involved in', 27)
+('as an admin i want to be able to have a dashboard that shows usage stats and locations so i can identify the neighbourhoods with the largest number of drop-offs and try to get more facilities involved', 26)
+('as an admin i want to be able to have a dashboard that shows usage stats and locations so i can identify the neighbourhoods with the largest number of drop-offs and to try to get more facilities involved', 25)
+('as an admin i want to be able to have a dashboard that shows usage stats and locations so that i can identify the neighbourhoods with the largest number of drop-offs and to try to get more facilities involved in', 22)
+('as an admin i want to be able to have a dashboard that shows usage stats and locations so that i can identify the neighbourhoods with the largest number of drop-offs and try to get more facilities involved', 21)
+('as an admin i want to be able to have a dashboard that shows usage stats and locations so that i can identify the neighbourhoods with the largest number of drop-offs and to try to get more facilities involved', 20)
+('as an admin i want to be able to have a dashboard that shows usage stats and locations so that i can identify the neighbourhoods with the largest number of drop-offs and to try getting more facilities involved', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As an admin, I want to be able to communicate directly with facilities, so that I can keep them updated about features we have on our website.
+----------------------------------------------------------------------------------------------------
+('as an admin i want to be able to communicate directly with facilities so i can keep them updated about the features we have on our website', 22)
+('as an admin i want to be able to communicate directly with facilities so that i can keep them updated about the features we have on our site', 20)
+('as an admin i want to be able to communicate directly with facilities so that i can keep them updated about the features we have on our web site', 18)
+('as an admin i want to be able to communicate directly with facilities so that i can keep them updated about the features we have on our website i', 18)
+('as an admin i want to be able to communicate directly with facilities so i can keep them updated about features we have on our website', 18)
+('as an admin i want to be able to communicate directly with facilities so that i can keep them updated about the features we have on our website', 17)
+('as admin i want to be able to communicate directly with facilities so that i can keep them updated about features we have on our website', 16)
+('as an admin i want to be able to communicate directly with facilities so that i can keep them updated about features we have on our website', 13)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a user, I want to be able to browse through the list of facolities and see which ones are environment-friendly, so that I can know for sure my waste is not going to leave a negative ecological footprint.
+----------------------------------------------------------------------------------------------------
+('as a user i want to be able to browse through the list of facolities and see which ones are environmentally friendly so i can know for sure that my waste will not leave a negative ecological footprint', 40)
+('as a user i want to be able to browse through the list of facolities and see which ones are environmentally friendly so that i can know for sure that my waste is not going to leave a negative environmental footprint', 32)
+('as a user i want to be able to browse through the list of facolities and see which ones are environmentally friendly so that i can know for sure that my waste is not going to leave a negative ecological impact', 30)
+('as a user i want to be able to browse through the list of facolities and see which ones are environmentally friendly so i can know for sure that my waste is not going to leave a negative ecological footprint', 28)
+('as a user i want to be able to browse through the list of facolities and see which ones are environmentally friendly so i can know for sure my waste is not going to leave a negative ecological footprint', 23)
+('as a user i want to be able to browse through the list of facolities and see which ones are environmentally friendly so that i can know for sure that my waste is not going to leave a negative ecological footprint', 23)
+('as a user i want to be able to browse through the list of facolities and see which ones are environment-friendly so i can know for sure that my waste is not going to leave a negative ecological footprint', 23)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a recyclingfacility representative, I want to be able to update my information and the type of material I accept, so that I can avoid any miscommunication with users.
+----------------------------------------------------------------------------------------------------
+('as recyclingfacility representative i want to be able to update my information and the type of material i accept so that i can avoid misunderstandings with users', 32)
+('as recyclingfacility representative i want to be able to update my information and the type of material i accept so that i can avoid misunderstanding with users', 31)
+('as recyclingfacility representative i want to be able to update my information and the type of material i accept so that i can avoid any miscommunication', 26)
+('as recyclingfacility representative i want to be able to update my information and the type of material i accept so that i can avoid any confusion with users', 25)
+('as a recyclingfacility representative i want to be able to update my information and the type of material i accept so i can avoid miscommunication with users', 22)
+('as recyclingfacility representative i want to be able to update my information and the type of material i accept so that i can avoid any miscommunication with', 21)
+('as a recycling facility representative i want to be able to update my information and the type of material i accept so i can avoid any miscommunication with users', 19)
+('as recyclingfacility representative i want to be able to update my information and the type of material i accept so that i can avoid any miscommunication with users', 15)
+('as a recycling facility representative i want to be able to update my information and the type of material i accept so that i can avoid any miscommunication with users', 14)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a recyclingfacility representative, I want to have access to user stats and schedules, so that I can adjust my hours and/or upgrade equipment and capacity in order to be able to accomodate larger amounts of recyclable materials.
+----------------------------------------------------------------------------------------------------
+('As a recyclingfacility representative, I want to have access to user stats and schedules, so that I can adjust my hours and/or upgrade equipment and capacity in order to be able to accomodate larger amounts of recyclable materials.', 0)
+----------------------------------------------------------------------------------------------------
+Input_phrase: As a recyclingfacility, I want to be able to communicate directly with the site admin and convey any issues or concerns I have, so that they fix them.
+----------------------------------------------------------------------------------------------------
+('as recycler i want to be able to contact the site admin and convey any issues or concerns i have so that they can fix them', 49)
+('as recycler i want to be able to communicate with the site admin and convey any issues or concerns i have so that they can fix them', 39)
+('as recycler i want to be able to communicate directly with site admin and convey any issues or concerns i have so they can fix them', 36)
+('as recycler i want to be able to communicate directly with site admin and convey any issues or concerns i have so that they can fix them ', 34)
+('as recycler i want to be able to communicate directly with site admin and convey any issues or concerns i have so that they can fix them', 34)
+('as recycler i want to be able to communicate directly with site admin and convey any issues or concerns i have so that they fix them', 30)
+('as a recycling facility i want to be able to communicate directly with the site admin and convey any issues or concerns i have so they can fix them', 20)
+('as a recycling facility i want to be able to communicate directly with the site admin and convey any issues or concerns i have so that they fix them', 14)
+
+Got the paraphrases in 475.7461 seconds
