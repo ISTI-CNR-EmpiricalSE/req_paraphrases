@@ -37,7 +37,7 @@ phrases = my_file.read().splitlines()
 # Generated paraphrases are assigned to the para_phrases variable.
 max_return_phrases_array = [2, 5, 10, 15]
 
-dir = "results/invariant_parameters"
+dir = "results/invariant_parameters/max_return_phrases/second"
 if not os.path.exists(dir):
     os.mkdir(dir)
 
@@ -52,12 +52,23 @@ for current_number_of_return_phrases in max_return_phrases_array:
     # results/invariant_parameters/max_return_phrases_2
     f = open(dir + "/" + "max_return_phrases_" + str(file_index) + ".txt", "w")
     file_index = file_index + 1
-    f.write(str(data_set_number) + "\n")
+    f.write("data_set_number = " + str(data_set_number) + "\n")
+    f.write("\n")
+    f.write("use_gpu = False\n")
+    f.write("diversity_ranker = levenshtein\n")
+    f.write("do_diverse = True\n")
+    f.write("max_length = 32\n")
+    f.write("adequacy_threshold = 0.5\n")
+    f.write("fluency_threshold = 0.1\n")
+    f.write("\n")
     f.write("max_return_phrases_ = " + str(current_number_of_return_phrases) + "\n")
     f.write("\n")
+    phrase_index = 1
     for phrase in phrases:
         f.write("-"*100)
         f.write("\n")
+        f.write(str(phrase_index) + ") ")
+        phrase_index = phrase_index + 1
         f.write("Input_phrase: " + phrase)
         f.write("\n")
         f.write("-"*100)
@@ -70,8 +81,8 @@ for current_number_of_return_phrases in max_return_phrases_array:
                                       do_diverse=True,
                                       max_return_phrases=current_number_of_return_phrases,
                                       max_length=32,
-                                      adequacy_threshold=0.99,
-                                      fluency_threshold=0.90)
+                                      adequacy_threshold=0.5,
+                                      fluency_threshold=0.1)
         toc3 = time.perf_counter()
         print(f"Time for the augment function:  {toc3 - tic3:0.4f} seconds")
 

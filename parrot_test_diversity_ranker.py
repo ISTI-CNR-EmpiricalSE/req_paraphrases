@@ -37,7 +37,7 @@ phrases = my_file.read().splitlines()
 # Generated paraphrases are assigned to the para_phrases variable.
 diversity_ranker_array = ["levenshtein", "euclidean", "diff"]
 
-dir = "results/invariant_parameters"
+dir = "results/invariant_parameters/diversity_ranker/first"
 if not os.path.exists(dir):
     os.mkdir(dir)
 
@@ -55,9 +55,12 @@ for current_diversity_ranker in diversity_ranker_array:
     f.write(str(data_set_number) + "\n")
     f.write("diversity_ranker = " + current_diversity_ranker + "\n")
     f.write("\n")
+    phrase_index = 1
     for phrase in phrases:
         f.write("-"*100)
         f.write("\n")
+        f.write(str(phrase_index) + ") ")
+        phrase_index = phrase_index + 1
         f.write("Input_phrase: " + phrase)
         f.write("\n")
         f.write("-"*100)
