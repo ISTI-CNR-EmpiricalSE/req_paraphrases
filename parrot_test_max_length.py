@@ -52,6 +52,7 @@ for current_length in max_length_array:
     # results/invariant_parameters/max_length_2
     f = open(dir + "/" + "max_length_" + str(file_index) + ".txt", "w")
     file_index = file_index + 1
+    f.write(str(data_set_number) + "\n")
     f.write("max_length_ = " + str(current_length) + "\n")
     f.write("\n")
     for phrase in phrases:

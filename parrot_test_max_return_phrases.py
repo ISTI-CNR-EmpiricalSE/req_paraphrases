@@ -52,6 +52,7 @@ for current_number_of_return_phrases in max_return_phrases_array:
     # results/invariant_parameters/max_return_phrases_2
     f = open(dir + "/" + "max_return_phrases_" + str(file_index) + ".txt", "w")
     file_index = file_index + 1
+    f.write(str(data_set_number) + "\n")
     f.write("max_return_phrases_ = " + str(current_number_of_return_phrases) + "\n")
     f.write("\n")
     for phrase in phrases:

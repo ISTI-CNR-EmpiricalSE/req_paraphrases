@@ -33,7 +33,7 @@ print(f"Downloaded the model in {toc1 - tic1:0.4f} seconds")
 # ImportError: T5 Converter requires the protobuf library but it was not found in your environment. Checkout the instructions on the installation page of its repo: https://github.com/protocolbuffers/protobuf/tree/master/python#installation and follow the ones that match your environment.
 # Protocol Buffers are Google’s data interchange format
 
-my_file = open("data_sets/data_set_1.txt", "r")
+my_file = open("data_sets/data_set_2.txt", "r")
 phrases = my_file.read().splitlines()
 # phrases = ["As a Public User, I want to Search for Information, so that I can obtain publicly available information concerning properties, County services, processes and other general information."]
 
@@ -43,13 +43,13 @@ phrases = my_file.read().splitlines()
 
 use_gpu_array = [False]
 diversity_ranker_array = ["levenshtein"]
-do_diverse_array = [True, False]
+do_diverse_array = [True]
 max_return_phrases_array = [10]
 max_length_array = [32]
 adequacy_threshold_array = [0.1, 0.50, 0.99]
-fluency_threshold_array = [0.1, 0.50, 0.99]
+fluency_threshold_array = [0.1, 0.50, 0.90]
 
-dir = "results/data_set_1"
+dir = "results/data_set_2"
 if not os.path.exists(dir):
     os.mkdir(dir)
 
@@ -65,8 +65,8 @@ for a in use_gpu_array:
                             tic2 = time.perf_counter()
 
                             # examples
-                            # results/data_set_1/results_1.txt
-                            # results/data_set_1/results_2.txt
+                            # results/data_set_1_second/results_1.txt
+                            # results/data_set_1_second/results_2.txt
                             f = open(dir + "/" + "results_" + str(file_index) + ".txt", "w")
                             file_index = file_index + 1
                             f.write("use_gpu = " + str(a) + "\n")
