@@ -39,7 +39,7 @@ max_length_array = [8, 16, 32, 64]
 
 dir = "results/invariant_parameters/max_length/second"
 if not os.path.exists(dir):
-    os.mkdir(dir)
+    os.mkdirs(dir)
 
 file_index = 1
 

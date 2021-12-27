@@ -33,7 +33,7 @@ print(f"Downloaded the model in {toc1 - tic1:0.4f} seconds")
 # ImportError: T5 Converter requires the protobuf library but it was not found in your environment. Checkout the instructions on the installation page of its repo: https://github.com/protocolbuffers/protobuf/tree/master/python#installation and follow the ones that match your environment.
 # Protocol Buffers are Google’s data interchange format
 
-my_file = open("data_sets/data_set_3.txt", "r")
+my_file = open("data_sets/plain-PROMISE.txt", "r")
 phrases = my_file.read().splitlines()
 # phrases = ["As a Public User, I want to Search for Information, so that I can obtain publicly available information concerning properties, County services, processes and other general information."]
 
@@ -46,12 +46,12 @@ diversity_ranker_array = ["levenshtein"]
 do_diverse_array = [True]
 max_return_phrases_array = [15]
 max_length_array = [32]
-adequacy_threshold_array = [0.1, 0.50, 0.99]
-fluency_threshold_array = [0.1, 0.50]
+adequacy_threshold_array = [0.50]
+fluency_threshold_array = [0.1]
 
-dir = "results/data_set_3"
+dir = "results/plain-PROMISE"
 if not os.path.exists(dir):
-    os.mkdir(dir)
+    os.mkdirs(dir)
 
 file_index = 1
 

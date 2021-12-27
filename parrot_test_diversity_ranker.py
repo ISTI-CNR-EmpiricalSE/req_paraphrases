@@ -39,7 +39,7 @@ diversity_ranker_array = ["levenshtein", "euclidean", "diff"]
 
 dir = "results/invariant_parameters/diversity_ranker/first"
 if not os.path.exists(dir):
-    os.mkdir(dir)
+    os.mkdirs(dir)
 
 file_index = 1
 
@@ -52,7 +52,7 @@ for current_diversity_ranker in diversity_ranker_array:
     # results/invariant_parameters/diversity_ranker_2
     f = open(dir + "/" + "diversity_ranker_" + str(file_index) + ".txt", "w")
     file_index = file_index + 1
-    f.write(str(data_set_number) + "\n")
+    f.write("data_set_number = " + str(data_set_number) + "\n")
     f.write("diversity_ranker = " + current_diversity_ranker + "\n")
     f.write("\n")
     phrase_index = 1

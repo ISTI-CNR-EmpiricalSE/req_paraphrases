@@ -1966,6 +1966,8 @@ An expression is tested, and if the result comes up false, an exception is raise
 
 print(f"Downloaded the tutorial in {toc - tic:0.4f} seconds")
 Note: In line 11, the f before the string indicates that this is an f-string, which is a convenient way to format a text string. :0.4f is a format specifier that says the number, toc - tic, should be printed as a decimal number with four decimals.
+
+# path assoluto: "C:/example/cwd/mydir/myfile.txt"
 """
 
 
