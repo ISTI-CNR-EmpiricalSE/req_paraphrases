@@ -37,7 +37,7 @@ phrases = my_file.read().splitlines()
 # Generated paraphrases are assigned to the para_phrases variable.
 do_diverse_array = [True, False]
 
-dir = "results/invariant_parameters/do_diverse/second"
+dir = "../results/invariant_parameters/do_diverse/second"
 if not os.path.exists(dir):
     os.mkdirs(dir)
 

@@ -37,7 +37,7 @@ phrases = my_file.read().splitlines()
 # Generated paraphrases are assigned to the para_phrases variable.
 max_length_array = [8, 16, 32, 64]
 
-dir = "results/invariant_parameters/max_length/second"
+dir = "../results/invariant_parameters/max_length/second"
 if not os.path.exists(dir):
     os.mkdirs(dir)
 
