@@ -9937,3 +9937,5 @@ None
 ('the dispute application must conform to the legal requirements specified by regulation e and regulation z that govern credit card dispute processing', 18)
 
 Got the paraphrases in 7840.3244 seconds
+
+Total time = 7840.3244 seconds = 2.1778 hours

@@ -1,10 +1,4 @@
-use_gpu = False
-diversity_ranker = levenshtein
-do_diverse = True
-max_return_phrases = 10
-max_length = 32
-adequacy_threshold = 0.99
-fluency_threshold = 0.9
+max_return_phrases_ = 15
 
 ----------------------------------------------------------------------------------------------------
 Input_phrase: As a Public User, I want to Search for Information, so that I can obtain publicly available information concerning properties, County services, processes and other general information.
@@ -17,11 +11,12 @@ Input_phrase: As a ProspectiveApplicant, I want to research requirements and to 
 ----------------------------------------------------------------------------------------------------
 Input_phrase: As an Applicant, I want to Request PreApplication Assistance, so that I can receive a response to a request for a meeting or information that is a result of the preapplication assistance.
 ----------------------------------------------------------------------------------------------------
-('i want to request preapplication assistance so that i can receive a response to a request for a meeting or information that is a result of the preapplication', 40)
 ('i want to request preapplication assistance so that i can receive a response to a request for a meeting or information that is a result of the preapplication support', 38)
 ('i want to request preapplication assistance so that i can receive a response to a request for meetings or information that is a result of the preapplication assistance', 32)
 ('i want to request preapplication assistance so that i can receive a response to my request for a meeting or information that is a result of the preapplication assistance', 31)
 ('i want to request preapplication assistance so that i can receive a response to a request for a meeting or information that is a result of the preapplication assistance', 29)
+('as an applicant i want to request pre-application assistance so that i can receive a response to a request for a meeting or information that is a result of the pre-application support', 24)
+('as an applicant i want to request pre-application assistance so that i can receive a response to a request for a meeting or information that is a result of the pre-application assistance', 15)
 ('as an applicant i want to request pre application assistance so that i can receive a response to a request for a meeting or information that is a result of the pre application assistance', 15)
 ('as an applicant i want to request preapplication assistance so that i can receive a response to a request for a meeting or information that is a result of the preapplication assistance', 13)
 ----------------------------------------------------------------------------------------------------
@@ -30,11 +25,15 @@ Input_phrase: As a Customer, I want to Create a Customer Portal User Account, so
 ('i would like to create a customer portal user account so i can log into the customer portal and perform transactions that require user authentication first i', 50)
 ('i would like to create a customer portal user account so i can log into the customer portal and perform transactions that require user authentication first', 48)
 ('i would like to create a customer portal user account so that i can log on to the customer portal and perform transactions that require user authentication first i', 43)
+('i would like to create a customer portal user account so that i can log on to the customer portal and perform transactions that require user authentication i have', 42)
 ('i would like to create a customer portal user account so that i can log on to the customer portal and perform transactions that require user authentication before', 42)
+('i would like to create a customer portal user account so that i can log on to the customer portal and perform transactions that require user authentication i can', 41)
 ('i would like to create a customer portal user account so that i can log on to the customer portal and perform transactions that require user authentication first', 41)
+('i would like to create a customer portal user account so that i can log on to the customer portal and perform transactions that require user authentication i do', 40)
 ('i would like to create a customer portal user account so that i can log into the customer portal and perform transactions that require user authentication', 38)
 ('i would like to create a customer portal user account so that i can log on to the customer portal and perform transactions that require user authentication i', 37)
 ('i would like to create a customer portal user account so that i can log on to the customer portal and perform transactions that require user authentication', 36)
+('as a customer i want to create a customer portal user account so that i can log into the customer portal and perform transactions that require user authentication first', 26)
 ----------------------------------------------------------------------------------------------------
 Input_phrase: As an Applicant, I want to Submit Application, so that I can provide my information, plans and/or documents to initiate a transaction with the County.
 ----------------------------------------------------------------------------------------------------
@@ -42,6 +41,10 @@ Input_phrase: As an Applicant, I want to Submit Application, so that I can provi
 ----------------------------------------------------------------------------------------------------
 Input_phrase: As an Applicant, I want to Submit Supporting Documentation, so that I can satisfy documentation requirements for my application.
 ----------------------------------------------------------------------------------------------------
+('a candidate wants to submit supporting documentation so i can satisfy the documentation requirements for my application', 33)
+('a candidate wants to submit supporting documentation so that i can meet documentation requirements for my application', 31)
+('a candidate wants to submit supporting documentation so that i can satisfy the documentation requirements for my application', 28)
+('a candidate wants to submit supporting documentation so that i can satisfy documentation requirements for my application', 24)
 ('as an applicant i want to submit supporting documentation so that i can satisfy the documentation requirements for my application i have', 23)
 ('as an applicant i want to submit supporting documentation so i can satisfy the documentation requirements for my application', 22)
 ('as an applicant i want to submit supporting documentation so that i can satisfy the documentation requirements for my application form', 21)
@@ -52,12 +55,20 @@ Input_phrase: As an Applicant, I want to Submit Supporting Documentation, so tha
 ----------------------------------------------------------------------------------------------------
 Input_phrase: As an Applicant, I want to Pay Fee, so that I can satisfy outstanding charge associated with the service requested or received from the County.
 ----------------------------------------------------------------------------------------------------
+('please pay the fee for the service requested or received from a county so that i can pay the outstanding charge', 116)
+('please pay the fee for the service requested or received from a county so that i can satisfy the outstanding charge', 116)
+('please pay the fee for the service requested or received from a county so that i can pay the outstanding charges associated with the service', 100)
+('please pay the fee for the service requested or received from a county so that i can pay the outstanding charge associated with the service', 99)
+('please pay the fee for the service requested or received from a county so that i can satisfy the outstanding charge associated with the service', 97)
+('please pay the fee for the service requested or received from a county so that i can pay the outstanding charge associated with the service requested', 89)
+('please pay the fee for the service requested or received from a county', 89)
+('please pay the fee for the service requested or received from a county so that i can satisfy the outstanding charge associated with the service requested', 87)
+('please pay the fee for the service requested or received from a county so that i can pay the outstanding charge associated with the service requested or received', 77)
 ('as a applicant i want to pay a fee so that i can pay the outstanding charge associated with the service requested or received from the county', 22)
-('as a applicant i want to pay a fee so that i can pay the outstanding charge associated with the service requested or received from the county ', 22)
 ('as an applicant i want to pay a fee so that i can pay the outstanding charge associated with the service requested or received from the county', 21)
 ('as a applicant i want to pay a fee so that i can satisfy the outstanding charge associated with the service requested or received from the county', 20)
-('as an applicant i want to pay a fee so that i can satisfy the outstanding charge associated with the service requested or received from the county', 19)
 ('as a applicant i want to pay fees so that i can satisfy the outstanding charge associated with the service requested or received from the county', 19)
+('as an applicant i want to pay a fee so that i can satisfy the outstanding charge associated with the service requested or received from the county', 19)
 ----------------------------------------------------------------------------------------------------
 Input_phrase: As an Applicant, I want to Check the Status of a transaction, so that I can understand where the provisioning of my service is in the process, such as information related to service levels, fees, plan review, permit, or inspection results.
 ----------------------------------------------------------------------------------------------------
@@ -65,8 +76,12 @@ Input_phrase: As an Applicant, I want to Check the Status of a transaction, so t
 ----------------------------------------------------------------------------------------------------
 Input_phrase: As an Applicant, I want to Modify my Application, so that I can successfully change information on an application.
 ----------------------------------------------------------------------------------------------------
+('please modify my application as an applicant so that i can change the information on the application', 54)
+('please modify my application as an applicant so that i can change the information on my application', 53)
+('please modify my application as an applicant so that i can easily change information on an application', 44)
 ('as an applicant i want to modify my application so that i can change information on an application successfully', 38)
 ('when i apply as an applicant i want to modify my application so that i can change information on an application successfully', 37)
+('please modify my application as an applicant so that i can successfully change information on an application', 36)
 ('as a candidate i want to modify my application so that i can successfully change information on an application', 20)
 ('as an applicant i want to modify my application so i can successfully change information on an application', 18)
 ('when i apply as an applicant i want to modify my application so i can successfully change information on an application', 17)
@@ -77,21 +92,27 @@ Input_phrase: As a Staff member, I want to Perform a Completeness Review, so tha
 ----------------------------------------------------------------------------------------------------
 ('as employee i want to perform a completeness review so i can validate when an application is complete and eligible for technical review', 38)
 ('as employee i want to perform a completeness review so i can validate when an application is completed and eligible for further technical review', 31)
-('as employee i want to perform a completeness review so i can validate when an application is complete and eligible for further technical review ', 30)
-('as employee i want to perform a completeness review so i can validate when an application is complete and eligible for further technical reviews', 30)
 ('as employee i want to perform a completeness review so i can validate when an application is complete and eligible for further technical review', 30)
+('as employee i want to perform a completeness review so i can validate when an application is complete and eligible for further technical reviews', 30)
 ('as employee i want to perform a completeness review so that i can validate if an application is complete and eligible for further technical review', 29)
 ('as employee i want to perform a completeness review so that i can validate if an application is complete and eligible for further technical reviews', 29)
 ('as a staff member i want to perform a completeness review so i can validate when an application is complete and eligible for further technical review', 18)
+('as a staff member i want to perform a completeness review so that i can validate when an application is complete and eligible for further technical reviews', 13)
+('as a staff member i want to perform a completeness review so that i can validate when an application is complete and eligible for further technical review', 13)
 ----------------------------------------------------------------------------------------------------
 Input_phrase: As a Staff member, I want to Record an Internal Note, so that I can share information with other Staff collaborating on the record.
 ----------------------------------------------------------------------------------------------------
-('as a staff member i want to record an internal note so that i can share information with other staff members who are collaborating on the document', 35)
-('as a staff member i want to record an internal note so that i can share information with other staff members who are collaborating on the record', 29)
-('as a staff member i want to record an internal note so that i can share information with other staff members who are collaborating on the record ', 29)
+('my role as an employee is to record an internal note so i can share information with other staff who are also collaborating on the document', 50)
+('my role as an employee is to record an internal note so i can share information with other staff who are also collaborating on the note', 49)
+('my role as an employee is to record an internal note so i can share information with other staff who are also collaborating on the recording', 46)
+('my role as an employee is to record an internal note so i can share information with other staff who are also collaborating on this record', 46)
+('my role as an employee is to record an internal note so i can share information with other staff who are also collaborating on the record', 44)
+('my role as an employee is to record an internal note so i can share information with other staff who collaborate on the record', 38)
+('my role as an employee is to record an internal note so i can share information with other staff collaborating on the document', 37)
+('my role as an employee is to record an internal note so i can share information with other staff collaborating on the note', 36)
+('my role as an employee is to record an internal note so i can share information with other staff collaborating on the record', 31)
 ('as a staff member i want to record an internal note so that i can share information with other staff who are collaborating on the document', 27)
 ('as a staff member i want to record an internal note so that i can share information with other staff who are collaborating on the recording', 23)
-("as a staff member i want to record an internal note so that i can share information with other staff who are collaborating on the record '", 22)
 ('as a staff member i want to record an internal note so that i can share information with other staff who are collaborating on the record', 21)
 ('as a staff member i want to record an internal note so that i can share information with other staff who collaborate on the record', 20)
 ('as a staff member i want to record an internal note so i can share information with other staff collaborating on the record', 18)
@@ -99,35 +120,42 @@ Input_phrase: As a Staff member, I want to Record an Internal Note, so that I ca
 ----------------------------------------------------------------------------------------------------
 Input_phrase: As a Staff member, I want to Assign an Application for Detailed Review, so that I can review the for compliance and subsequently approved or denied.
 ----------------------------------------------------------------------------------------------------
-('As a Staff member, I want to Assign an Application for Detailed Review, so that I can review the for compliance and subsequently approved or denied.', 0)
+('my job is to assign an application for detailed review so i can review the application for compliance and subsequently approve or deny', 54)
+('my job is to assign an application for detailed review so i can review the application for compliance and subsequently approve or deny it', 54)
 ----------------------------------------------------------------------------------------------------
 Input_phrase: As a Staff member, I want to Apply a Hold, so that I can prevent progression through the workflow or other actions in the system until the issue is resolved.
 ----------------------------------------------------------------------------------------------------
+('my job is to apply a hold so i can prevent progression through the workflow or other actions in the system until the issue is resolved i want to apply', 53)
+('my job is to apply a hold so i can prevent progression through the workflow or other actions in the system until the issue has been resolved', 45)
+('my job is to apply a hold so i can prevent progression through the workflow or other actions in the system until the problem is resolved', 44)
+('my job is to apply a hold so i can prevent progression through the workflow or other actions in the system until the issue is resolved i am ', 43)
+('my job is to apply a hold so i can prevent progression through the workflow or other actions in the system until an issue is resolved', 41)
+('my job is to apply a hold so i can prevent progression through the workflow or other actions in the system until the issue is solved', 40)
+("my job is to apply a hold so i can prevent progression through the workflow or other actions in the system until the issue is resolved ''", 40)
+('my job is to apply a hold so i can prevent progression through the workflow or other actions in the system until the issue is resolved', 38)
 ('as a staff member i want to apply a hold so i can prevent progression through the workflow or other actions in the system until the issue is resolved', 18)
 ('as a staff member i want to apply a hold so that i can prevent progress through the workflow or other actions in the system until the issue is resolved', 16)
-("as a staff member i want to apply a hold so that i can prevent progression through the workflow or other actions in the system until the issue is resolved '", 14)
-('as a staff member i want to apply a hold so that i can prevent progression through the workflow or other actions in the system until the issue is resolved i', 14)
 ('as a staff member i want to apply a hold so that i can prevent progression through the workflow or other actions in the system until the issue is resolved', 13)
-('as a staff member i want to apply a hold so that i can prevent progression through the workflow or other actions in the system until the issue is resolved ', 13)
 ----------------------------------------------------------------------------------------------------
 Input_phrase: As a Staff member, I want to Remove a Hold, so that I can allow progression through the workflow or other actions in the system now that the issue has been resolved.
 ----------------------------------------------------------------------------------------------------
+('my job is to remove a hold so i can allow progression through the workflow or other actions in the system once the issue has been resolved', 45)
+('my job is to remove a hold so i can allow progression through the workflow or other actions in the system now that the issue has been resolved', 38)
 ('as a staff member i want to remove a hold so i can allow progress through the workflow or other actions in the system now that the issue has been resolved', 21)
 ('as a staff member i want to remove a hold so i can allow progression through the workflow or other actions in the system now that the issue has been resolved', 18)
-('as a staff member i want to remove a hold so that i can allow progress through the workflow or other actions in the system now that the issue has been resolved', 16)
-('as a staff member i want to remove a hold so that i can allow progression through the workflow or other actions in the system now that the issue has been resolved the', 16)
-('as a staff member i want to remove a hold so that i can allow progression through the workflow or other actions in the system now that the issue has been resolved i', 14)
-("as a staff member i want to remove a hold so that i can allow progression through the workflow or other actions in the system now that the issue has been resolved '", 14)
-('as a staff member i want to remove a hold so that i can allow progression through the workflow or other actions in the system now that the issue has been resolved', 13)
-('as a staff member i want to remove a hold so that i can allow progression through the workflow or other actions in the system now that the issue has been resolved ', 13)
 ----------------------------------------------------------------------------------------------------
 Input_phrase: As a Staff member, I want to Send a Formal Response to Applicant, so that I can satisfy communication and records responsibilities.
 ----------------------------------------------------------------------------------------------------
 ('as a staff member i want to send a formal response to the applicant so that i can fulfill my responsibilities in communication and documentation', 62)
 ('as a staff member i want to send a formal response to the applicant so that i can fulfill my responsibilities in communication and records', 60)
 ("as a staff member i want to send a formal response to the applicant so that i can fulfill my responsibilities in communication and records '", 59)
+('as a staff member i want to send a formal response to the applicant so that i can fulfill my responsibilities in communication and records -', 59)
 ('as a staff member i want to send a formal response to the applicant so that i can fulfill my responsibilities in communication and record keeping', 57)
 ('as a staff member i want to send a formal response to the applicant so that i can fulfill my responsibilities in communication and records management', 57)
+('staff i want to send a formal response to the applicant so i can fulfill my communication and records responsibilities', 42)
+('in my capacity as a staff member i want to send a formal response to the applicant so that i can fulfill my communication and records obligations', 38)
+('staff i want to send a formal response to the applicant so that i can fulfill my communication and records responsibilities', 37)
+('staff i want to send a formal response to the applicant so that i can satisfy my communication and records responsibilities', 32)
 ('as a staff member i want to send a formal response to the applicant so i can fulfill my communication and records responsibilities', 30)
 ('as a staff member i want to send a formal response to the applicant so that i can fulfill my communication and records responsibilities', 25)
 ('as a staff member i want to send a formal response to the applicant so i can satisfy my communication and records responsibilities', 25)
@@ -135,11 +163,16 @@ Input_phrase: As a Staff member, I want to Send a Formal Response to Applicant, 
 ----------------------------------------------------------------------------------------------------
 Input_phrase: As a Staff member, I want to Track  the Draft Proffers, so that I can preserve the history of draft proffer statements submitted by the Applicant.
 ----------------------------------------------------------------------------------------------------
-('in my role as a staff member i want to track draft proffers so i can preserve the history of the draft proffer statements submitted by the applicant', 24)
-('as a staff member i want to track draft proffers so i can preserve the history of draft proffer statements submitted by the applicant', 23)
+('my job is to track draft proffers so i can preserve the history of draft proffer statements submitted by the applicant i also want to', 57)
+('my job is to track draft proffers so i can preserve the history of the draft proffer statements submitted by an applicant', 50)
+('my job is to track draft proffers so i can preserve the history of the proffer statements submitted by the applicant', 48)
+("my job is to track draft proffers so i can preserve the history of draft proffer statements submitted by the applicant ''", 45)
+('my job is to track draft proffers so i can preserve the history of draft proffer statements submitted by the applicant', 43)
+('my job is to track draft proffers so that i can preserve the history of draft proffer statements submitted by an applicant', 41)
 ('as a staff member i want to track the draft proffers so i can preserve the history of the draft proffer statements submitted by the applicant', 23)
-('as a staff member i want to track the draft proffers so that i can preserve the history of the draft proffer statements submitted by the applicant', 18)
+('as a staff member i want to track draft proffers so i can preserve the history of draft proffer statements submitted by the applicant', 23)
 ('as a staff member i want to track draft proffers so that i can preserve the history of draft proffer statements submitted by the applicant', 18)
+('as a staff member i want to track the draft proffers so that i can preserve the history of the draft proffer statements submitted by the applicant', 18)
 ----------------------------------------------------------------------------------------------------
 Input_phrase: As a Staff member, I want to Manage Approved Proffers, so that I can ensure compliance with and satisfaction of the proffer in the future.
 ----------------------------------------------------------------------------------------------------
@@ -149,12 +182,14 @@ Input_phrase: As a Staff member, I want to Manage Approved Proffers, so that I c
 ('as employee i want to manage approved proffers so i can ensure compliance with and satisfaction of the proffer in the future', 30)
 ('as a staff member i want to manage approved proposals so that i can ensure compliance with and satisfaction of the proffer in the future', 18)
 ('as a staff member i want to manage approved proffers so i can ensure compliance with and satisfaction of the proffer in the future', 18)
+('as a staff member i want to manage approved proffers so that i can ensure compliance with and satisfaction of the proffer in the future', 13)
 ----------------------------------------------------------------------------------------------------
 Input_phrase: As a Staff member, I want to Manage Ordinances, so that I can maintain accurate ordinance information in the System.
 ----------------------------------------------------------------------------------------------------
+('my job is to manage ordinances so that i can maintain accurate ordinance information in the system', 33)
+('staff i want to manage ordinances so that i can keep accurate ordinance information in the system', 33)
 ('as a staff member i want to manage the ordinances so i can maintain accurate ordinance information in the system', 22)
 ('as a staff member i want to manage ordinances so i can maintain accurate ordinance information in the system', 18)
-("as a staff member i want to manage ordinances so that i can maintain accurate ordinance information in the system '", 14)
 ('as a staff member i want to manage ordinances so that i can maintain accurate ordinance information in the system i', 14)
 ('as a staff member i want to manage ordinances so that i can maintain accurate ordinance information in the system ', 13)
 ('as a staff member i want to manage ordinances so that i can maintain accurate ordinance information in the system', 13)
@@ -162,17 +197,23 @@ Input_phrase: As a Staff member, I want to Manage Ordinances, so that I can main
 Input_phrase: As a Staff member, I want to Schedule a Meeting, so that I can bring the required parties together at a specific date/time to address an issue.
 ----------------------------------------------------------------------------------------------------
 ('as a staff member i want to schedule a meeting so i can bring together the required parties at a specific datetime to address an issue', 37)
-('as a staff member i want to schedule a meeting so that i can bring together the required parties at a specific datetime to address an issue ', 32)
+("as a staff member i want to schedule a meeting so that i can bring together the required parties at a specific datetime to address an issue ''", 34)
+("as a staff member i want to schedule a meeting so that i can bring together the required parties at a specific datetime to address an issue '", 33)
 ('as a staff member i want to schedule a meeting so that i can bring together the required parties at a specific datetime to address an issue', 32)
-('as a staff member i want to schedule a meeting so i can bring the required parties together at a specific datetime to address an issue', 19)
+('as a staff member i want to schedule a meeting so that i can bring together the required parties at a specific datetime to address an issue ', 32)
+('as a staff member i want to schedule a meeting so that i can bring the required parties together at a specific datetime to address an issue if necessary', 26)
+('in my capacity as a staff member i want to schedule a meeting so i can bring the required parties together at a specific datetime to address an issue', 20)
 ('as a staff member i want to schedule a meeting so that i can bring the required parties together at a specific datetime to discuss an issue', 19)
+('as a staff member i want to schedule a meeting so i can bring the required parties together at a specific datetime to address an issue', 19)
+("as a staff member i want to schedule a meeting so that i can bring the required parties together at a specific datetime to address an issue ''", 16)
 ("as a staff member i want to schedule a meeting so that i can bring the required parties together at a specific datetime to address an issue '", 15)
 ('as a staff member i want to schedule a meeting so that i can bring the required parties together at a specific datetime to address an issue i', 15)
-('as a staff member i want to schedule a meeting so that i can bring the required parties together at a specific datetime to address an issue ', 14)
 ('as a staff member i want to schedule a meeting so that i can bring the required parties together at a specific datetime to address an issue', 14)
+('as a staff member i want to schedule a meeting so that i can bring the required parties together at a specific datetime to address an issue ', 14)
 ----------------------------------------------------------------------------------------------------
 Input_phrase: As a staff member, I want to denote an application with a Final Action status. So that I can finish it.
 ----------------------------------------------------------------------------------------------------
+('i want to mark an application with a final action status so i can finish it', 43)
 ('as a staff member i want to denote an application with a final action status so that i can finish it', 14)
 ----------------------------------------------------------------------------------------------------
 Input_phrase: As a Planning Staff member, I want to Conduct and Track Plan Amendments and Planning Studies, so that I can record work in process, outcome, and location-based information related to the Plan(s).
@@ -189,31 +230,35 @@ Input_phrase: As a Planning Staff member, I want to Evaluate Consistency with th
 ----------------------------------------------------------------------------------------------------
 Input_phrase: As a Staff member, I want to Perform a Staff Review, so that I can validate compliance of an application with the Zoning Ordinance and impact approval/denial of the application accordingly.
 ----------------------------------------------------------------------------------------------------
-('as a staff member i want to perform a staff review so that i can validate compliance of an application with the zoning ordinance and impact the approvaldenial of the application accordingly', 18)
-('as a staff member i want to perform a staff review so that i can validate compliance of an application with the zoning ordinance and impact the approvaldenial of the application accordingly ', 18)
-('as a staff member i want to perform a staff review so that i can validate compliance of an application with the zoning ordinance and impact approvaldenial of the application accordingly ', 14)
+('my job is to perform a staff review so that i can validate compliance of an application with the zoning ordinance and impact approvaldenial of the application accordingly', 34)
+('my role is to perform a staff review so that i can validate compliance of an application with the zoning ordinance and impact approvaldenial of the application accordingly', 34)
+('my job is to perform a staff review so that i can validate compliance of an application with the zoning ordinance and impact approvaldenial of the application accordingly ', 34)
 ('as a staff member i want to perform a staff review so that i can validate compliance of an application with the zoning ordinance and impact approvaldenial of the application accordingly', 14)
 ----------------------------------------------------------------------------------------------------
 Input_phrase: As a Zoning Staff member, I want to Process the Requests for Zoning Information, so that I can capture my response to the request in the system and also send a communication from the system to the Applicant.
 ----------------------------------------------------------------------------------------------------
 ('as a zoning staff member i want to process the requests for zoning information so i can capture my response to the request in the system and also send a communication from the system to the applicant', 18)
-('as a zoning staff member i want to process the requests for zoning information so that i can capture my response to the request in the system and also send a communication from the system to the applicant ', 13)
 ('as a zoning staff member i want to process the requests for zoning information so that i can capture my response to the request in the system and also send a communication from the system to the applicant', 13)
 ----------------------------------------------------------------------------------------------------
 Input_phrase: As a Zoning Staff member, I want to Issue the Zoning-Related Permits, so that I can satisfy an Applicant's request for service that has proven to be eligible and in compliance with the Zoning Ordinance.
 ----------------------------------------------------------------------------------------------------
 ("as a zoning staff member i want to issue the zoning-related permits so that i can satisfy an applicant's request for service that has proven to be eligible and in compliance with the zoning", 23)
 ("as a zoning staff member i want to issue the zoning-related permits so that i can satisfy an applicant's request for service that has proven eligible and in compliance with the zoning ordinance", 19)
+("as a zoning staff member i want to issue the zoning-related permits so that i can satisfy an applicant's request for service that has proven to be eligible and in compliance with the zoning order", 18)
 ("as a zoning staff member i want to issue the zoning-related permits so that i can satisfy an applicant's request for service that has proven to be eligible and in compliance with the zoning ordinance", 13)
 ----------------------------------------------------------------------------------------------------
 Input_phrase: As a Staff member, I want to Develop a Staff Report, so that I can publish and distribute the report according to business rules.
 ----------------------------------------------------------------------------------------------------
-('as a member of staff i want to develop a staff report so that i can publish and distribute the report according to business rules and procedures', 35)
+('my job is to develop a staff report so that i can publish and distribute the report according to business rules i want to do this', 50)
+('my role is to develop a staff report so that i can publish and distribute it according to business rules', 42)
+('my job is to develop a staff report so that i can publish and distribute it according to business rules', 42)
+("my job is to develop a staff report so that i can publish and distribute the report according to business rules ''", 35)
+('my role is to develop a staff report so that i can publish and distribute the report according to business rules', 33)
+('my job is to develop a staff report so that i can publish and distribute the report according to business rules', 33)
 ('as a staff member i want to develop a staff report so that i can publish and distribute the report according to business rules and procedures', 27)
 ('as a member of staff i want to develop a staff report so that i can publish and distribute the report according to business rules', 21)
 ('as a staff member i want to develop a staff report so that i can publish and distribute the report according to business rules i have', 19)
 ('as a staff member i want to develop a staff report so i can publish and distribute the report according to business rules', 18)
-("as a staff member i want to develop a staff report so that i can publish and distribute the report according to business rules ''", 15)
 ('as a staff member i want to develop a staff report so that i can publish and distribute the report according to business rules ', 13)
 ('as a staff member i want to develop a staff report so that i can publish and distribute the report according to business rules', 13)
 ----------------------------------------------------------------------------------------------------
@@ -225,21 +270,34 @@ Input_phrase: As a Staff member, I want to Manage Hearing Calendars, so that I c
 ('as a staff member i want to manage hearing calendars so i can track hearing related activities and due dates', 19)
 ('as a staff member i want to manage hearing calendars so i can track hearing-related activities and due dates', 18)
 ('as a staff member i want to manage hearing calendars so that i can track hearing related activities and due dates', 14)
+('as a staff member i want to manage hearing calendars so that i can track hearing-related activities and due date', 14)
+('as a staff member i want to manage hearing calendars so that i can track hearing-related activities and due dates', 13)
 ----------------------------------------------------------------------------------------------------
 Input_phrase: As a Staff member, I want to Assign a Hearing Date, so that I can present the application to the appropriate governing body within the timelines dictated by the relevant County rules and procedures.
 ----------------------------------------------------------------------------------------------------
+('staff member i want to assign a hearing date so that i can present the application to the appropriate governing body within the timelines dictated by county rules and procedures', 31)
+('staff member i want to assign a hearing date so that i can present the application to the appropriate governing body within the time limits dictated by the relevant county rules and procedures', 22)
+('staff member i want to assign a hearing date so that i can present the application to the appropriate governing body within the deadlines dictated by the relevant county rules and procedures', 22)
+('staff member i want to assign a hearing date so that i can present the application to the appropriate governing body within the timelines dictated by the relevant county rules and procedures i', 19)
+('staff member i want to assign a hearing date so that i can present the application to the appropriate governing body within the timelines dictated by the relevant county rules and procedure', 19)
+('staff member i want to assign a hearing date so that i can present the application to the appropriate governing body within the timelines dictated by the relevant county rules and procedures', 18)
+('staff member i want to assign a hearing date so that i can present the application to the appropriate governing body within the timelines dictated by the relevant county rules and procedures ', 18)
 ('as a staff member i want to assign a hearing date so i can present the application to the appropriate governing body within the timelines dictated by the relevant county rules and procedures', 18)
-('as a staff member i want to assign a hearing date so that i can present the application to the appropriate governing body within the timelines dictated by the relevant county rules and procedures ', 13)
 ('as a staff member i want to assign a hearing date so that i can present the application to the appropriate governing body within the timelines dictated by the relevant county rules and procedures', 13)
 ----------------------------------------------------------------------------------------------------
 Input_phrase: As a Staff member, I want to Manage Affidavits, so that I can ensure compliance with the requirements prior to the hearing.
 ----------------------------------------------------------------------------------------------------
+('my job is to manage my affidavits so i can ensure compliance with the requirements before a hearing', 50)
+('my job is to manage documents so that i can ensure compliance with the requirements before the hearing', 47)
+('my job is to manage my affidavits so i can ensure compliance with the requirements prior to hearings', 45)
+('my job is to manage my affidavits so i can ensure compliance with the requirements prior to hearing', 45)
 ('i want to manage affidavits to ensure compliance with the requirements prior to the hearing', 43)
+('my job is to manage my affidavits so i can ensure compliance with the requirements prior to the hearing', 41)
 ('i want to manage affidavits so that i can ensure compliance with the requirements before the hearing', 37)
 ('i want to manage affidavits so i can ensure compliance with the requirements prior to the hearing', 36)
 ('as a employee i want to manage affidavits so i can ensure compliance with the requirements before the hearing', 34)
-('as a employee i want to manage affidavits so i can ensure compliance with the requirements prior to hearing', 32)
 ('as a employee i want to manage affidavits so i can ensure compliance with the requirements prior to hearings', 32)
+('as a employee i want to manage affidavits so i can ensure compliance with the requirements prior to hearing', 32)
 ('as a employee i want to manage affidavits so i can ensure compliance with the requirements prior to hearing ', 32)
 ('i want to manage affidavits so that i can ensure compliance with the requirements prior to the hearing', 31)
 ('as a employee i want to manage affidavits so i can ensure compliance with the requirements prior to the hearing', 28)
@@ -247,6 +305,10 @@ Input_phrase: As a Staff member, I want to Manage Affidavits, so that I can ensu
 ----------------------------------------------------------------------------------------------------
 Input_phrase: As an Applicant, I want to Satisfy Hearing Requirements, so that I can ensure all pre-hearing requirements are satisfied in time for the hearing.
 ----------------------------------------------------------------------------------------------------
+('please meet the hearing requirements as an applicant so i can ensure all pre-hearing requirements are satisfied in time for the hearing to take place', 65)
+('please meet the hearing requirements as an applicant so i can ensure all pre-hearing requirements are met in time for the hearing', 60)
+('please meet the hearing requirements as an applicant so i can ensure all pre-hearing requirements are satisfied in time for the hearing', 52)
+('please satisfy the hearing requirements as an applicant so i can ensure all pre-hearing requirements are satisfied in time for the hearing', 49)
 ('as an applicant i want to satisfy the hearing requirements so that i can ensure that all pre-hearing requirements are satisfied in time for the hearing hearing', 29)
 ('as an applicant i want to satisfy hearing requirements so that i can ensure that all pre-hearing requirements are satisfied in time for the hearing hearing', 25)
 ('as an applicant i want to satisfy the hearing requirements so that i can ensure that all pre-hearing requirements are satisfied in time for the hearing', 22)
@@ -263,22 +325,33 @@ Input_phrase: As a Staff member, I want to Prepare for and Support Hearing Execu
 ----------------------------------------------------------------------------------------------------
 Input_phrase: As a Staff member, I want to Capture a Hearing Decision, so that I can enforce the system.
 ----------------------------------------------------------------------------------------------------
-('As a Staff member, I want to Capture a Hearing Decision, so that I can enforce the system.', 0)
+('my job is to record a hearing decision so i can enforce the system', 44)
+('my job is to capture hearing decisions so i can enforce the system', 41)
+('my job is to capture a hearing decision so i can enforce the system', 38)
+('my job is to capture a hearing decision so that i can enforce this system', 35)
+('my job is to capture a hearing decision so that i can enforce the system', 33)
 ----------------------------------------------------------------------------------------------------
 Input_phrase: As a Staff member, I want to Process the Appeals, so that I can track the outcome and record the impact on the relevant records.
 ----------------------------------------------------------------------------------------------------
-('i want to process the appeals so i can track the outcome and record the impact on the relevant records as a staff member', 53)
 ('i want to process the appeals so i can track the outcome and record the impact on the appropriate records', 45)
 ('i want to process the appeals so i can track the outcome and record the impact on relevant records', 40)
 ('i want to process the appeals so i can track the outcome and record the impact on the relevant records', 36)
+('staff i want to process the appeals so that i can track the outcome and record its impact on relevant records', 32)
+('staff i want to process the appeals so that i can track the outcome and record the impact on relevant records', 29)
 ('as a staff member i want to process the appeals so i can track the outcome and record the impact on the relevant records', 18)
 ----------------------------------------------------------------------------------------------------
 Input_phrase: As a Plan Review Staff member, I want to Assign Plans for Review, so that I can ensure plans have been assigned to the appropriate Plan Reviewer.
 ----------------------------------------------------------------------------------------------------
-('as a plan review staff member i want to assign plans for review so i can ensure that the plans have been assigned to the appropriate plan reviewer ', 27)
+('my job is to assign plans for review so i can ensure that the plans have been assigned to the appropriate plan reviewer i want to assign', 75)
+('my job is to assign plans for review so i can ensure that the plans have been assigned to the appropriate plan reviewer i also want to', 73)
+("my job is to assign plans for review so i can ensure that the plans have been assigned to the appropriate plan reviewer ''", 61)
+("my role is to assign plans for review so i can ensure that the plans have been assigned to the appropriate plan reviewer ''", 60)
+('my job is to assign plans for review so i can ensure that the plans have been assigned to the appropriate plan reviewer', 59)
+('my role is to assign plans for review so i can ensure that the plans have been assigned to the appropriate plan reviewer', 58)
+('my job is to assign plans for review so i can ensure the plans have been assigned to the appropriate plan reviewer', 54)
+('my role is to assign plans for review so i can ensure the plans have been assigned to the appropriate plan reviewer', 53)
 ('as a plan review staff member i want to assign plans for review so i can ensure that the plans have been assigned to the appropriate plan reviewers', 27)
 ('as a plan review staff member i want to assign plans for review so i can ensure that the plans have been assigned to the appropriate plan reviewer', 27)
-('as a plan review staff member i want to assign plans for review so that i can ensure that the plans have been assigned to the appropriate plan reviewers', 22)
 ('as a plan review staff member i want to assign plans for review so that i can ensure that the plans have been assigned to the appropriate plan reviewer', 22)
 ('as a plan review staff member i want to assign plans for review so i can ensure the plans have been assigned to the appropriate plan reviewer', 22)
 ('as a plan review staff member i want to assign plans for review so i can ensure plans have been assigned to the appropriate plan reviewer', 18)
@@ -286,29 +359,35 @@ Input_phrase: As a Plan Review Staff member, I want to Assign Plans for Review, 
 ----------------------------------------------------------------------------------------------------
 Input_phrase: As a Plan Review Staff Supervisor, I want to Manage Plan Reviewer Workload, so that I can monitor and effectively adjust workload as necessary and ensure service levels are met
 ----------------------------------------------------------------------------------------------------
-('as the supervisor of the plan review staff i want to manage plan reviewer workload so that i can monitor and effectively adjust workload as necessary and ensure service levels are met', 30)
-('as a plan review staff supervisor i want to manage plan reviewer workload so that i can monitor and effectively adjust workload as necessary and ensure service levels are met as well', 20)
+('plan review staff supervisor i want to manage plan reviewer workload so that i can monitor and effectively adjust the workload as necessary and ensure service levels are met as necessary', 34)
+('plan review staff supervisor i want to manage plan reviewer workload so that i can monitor and effectively adjust the workload as needed and ensure service levels are met', 27)
+('plan review staff supervisor i want to manage plan reviewer workload so that i can monitor and effectively adjust the workload as necessary and ensure service levels are met as', 24)
+('plan review staff supervisor i want to manage plan reviewer workload so that i can monitor and effectively adjust the workload as necessary and ensure service levels are met ', 22)
+('plan review staff supervisor i want to manage plan reviewer workload so that i can monitor and effectively adjust the workload as necessary and ensure service levels are met', 21)
+('plan review staff supervisor i want to manage plan reviewer workload so that i can monitor and effectively adjust workload as necessary to ensure service levels are met', 20)
 ('as a plan review staff supervisor i want to manage plan reviewer workload so that i can monitor and effectively adjust workload as needed and ensure service levels are met', 18)
+('plan review staff supervisor i want to manage plan reviewer workload so that i can monitor and effectively adjust workload as necessary and ensure service levels are met', 17)
 ('as a plan review staff supervisor i want to manage plan reviewer workload so i can monitor and effectively adjust workload as necessary and ensure service levels are met', 17)
 ('as a plan review staff supervisor i want to manage plan reviewer workload so that i can monitor and effectively adjust workload as necessary and ensure service levels are met as', 15)
 ('as a plan review staff supervisor i want to manage plan reviewer workload so that i can monitor and effectively adjust workload as necessary and ensure service levels are met', 12)
 ----------------------------------------------------------------------------------------------------
 Input_phrase: As an Applicant, I want to Request a Plan Review Meeting, so that I can meet with the Plan Review Staff regarding the plan review.
 ----------------------------------------------------------------------------------------------------
+('please request a plan review meeting as an applicant so that i can meet with the plan review staff', 75)
+('please request a plan review meeting to meet with the plan review staff', 72)
 ('i would like to request a plan review meeting so i can meet with the plan review staff regarding the plan review', 36)
 ('as a candidate i want to request a plan review meeting so i can meet with the plan review staff regarding the plan review', 25)
-('as a applicant i want to request a plan review meeting so that i can meet with the plan review staff regarding the plan review process', 21)
-('as a applicant i want to request a plan review meeting so that i can meet with the plan review staff regarding the plan review request', 21)
 ('as an applicant i want to request a plan review meeting so that i can meet with the plan review staff regarding the plan review process', 20)
 ('as a applicant i want to request a plan review meeting so i can meet with the plan review staff regarding the plan review', 19)
 ('as an applicant i want to request a plan review meeting so i can meet with the plan review staff regarding the plan review', 18)
 ('as a applicant i want to request a plan review meeting so that i can meet with the plan review staff regarding the plan review', 14)
-('as a applicant i want to request a plan review meeting so that i can meet with the plan review staff regarding the plan review ', 14)
 ('as an applicant i want to request a plan review meeting so that i can meet with the plan review staff regarding the plan review', 13)
 ----------------------------------------------------------------------------------------------------
 Input_phrase: As a Plan Review Staff member, I want to successfully Conduct a Plan Review Meeting with the Applicant and record the outcome, so that I can listen to it again.
 ----------------------------------------------------------------------------------------------------
 ('as the plan review staff member i want to successfully conduct a plan review meeting with the applicant and record the result so i can listen to it again', 26)
+('as a plan review staff member i want to successfully conduct a plan review meeting with the applicant and record the outcome so i can listen to it back', 22)
+('as a plan review staff member i want to successfully conduct a plan review meeting with the applicant and record the outcome so i can listen to it later', 22)
 ('as the plan review staff member i want to successfully conduct a plan review meeting with the applicant and record the outcome so i can listen to it again', 19)
 ('as a plan review staff member i want to successfully conduct a plan review meeting with the applicant and record the outcome so i can listen to it again', 18)
 ----------------------------------------------------------------------------------------------------
@@ -318,43 +397,59 @@ Input_phrase: As a Plan Review Staff member, I want to Review Plans, so that I c
 ----------------------------------------------------------------------------------------------------
 Input_phrase: As an Applicant, I want to Resubmit Plans, so that I can review revised plans.
 ----------------------------------------------------------------------------------------------------
+('please submit new plans as a applicant so i can review the revised plan', 47)
+('please submit new plans as a applicant so i can review the revised plans', 46)
+('please submit new plans as an applicant so that i can review the new plans', 43)
+('please submit new plans as an applicant so i can review revised plans', 42)
+('please submit new plans as an applicant so that i can review the revised plan', 42)
+('please submit new plans as an applicant so that i can review the revised plans', 41)
 ('as an applicant i want to submit plans again so that i can review revised plans', 21)
 ('as a applicant i want to resubmit plans so i can review revised plans', 19)
-('as an applicant i want to resubmit plans so i can review revised plans', 18)
 ('as a applicant i want to resubmit plans so that i can review the revised plans', 18)
-("as a applicant i want to resubmit plans so that i can review revised plans '", 15)
-("as an applicant i want to resubmit plans so that i can review revised plans ''", 15)
-('as a applicant i want to resubmit plans so that i can review revised plans ', 14)
+('as an applicant i want to resubmit plans so i can review revised plans', 18)
 ('as a applicant i want to resubmit plans so that i can review revised plans', 14)
+('as a applicant i want to resubmit plans so that i can review revised plans ', 14)
 ('as an applicant i want to resubmit plans so that i can review revised plans', 13)
 ----------------------------------------------------------------------------------------------------
 Input_phrase: As a Plan Review Staff Member, I want to Review the Code Modifications submitted by the Applicant, so that I can review the request and if approved, associate it with the appropriate project.
 ----------------------------------------------------------------------------------------------------
 ('as a plan review staff member i want to review the code modifications submitted by the applicant so i can review the request and if approved associate it with the relevant project', 27)
 ('as the plan review staff member i want to review the code modifications submitted by the applicant so that i can review the request and if approved affix it to the appropriate project', 24)
+('as the plan review staff member i want to review the code modifications submitted by the applicant so that i can review the request and if approved associate it with the relevant project', 23)
 ('as a plan review staff member i want to review the code modifications submitted by the applicant so that i can review the request and if approved associate it with the relevant project', 22)
 ('as a plan review staff member i want to review the code modifications submitted by the applicant so i can review the request and if approved associate it with the appropriate project', 18)
+('as the plan review staff member i want to review the code modifications submitted by the applicant so that i can review the request and if approved associate it with the appropriate project', 14)
+('as a plan review staff member i want to review the code modifications submitted by the applicant so that i can review the request and if approved associate it with the appropriate project i', 14)
+('as a plan review staff member i want to review the code modifications submitted by the applicant so that i can review the request and if approved associate it with the appropriate project ', 13)
 ('as a plan review staff member i want to review the code modifications submitted by the applicant so that i can review the request and if approved associate it with the appropriate project', 13)
 ----------------------------------------------------------------------------------------------------
 Input_phrase: As a Plan Review Staff member, I want to Track the Completion of Required Plan Reviews, so that I can ensure all plan review tasks are completed, results have been sent to the Applicant and any downstream steps are initiated such has a final review or payment for permit issuance.
 ----------------------------------------------------------------------------------------------------
-('As a Plan Review Staff member, I want to Track the Completion of Required Plan Reviews, so that I can ensure all plan review tasks are completed, results have been sent to the Applicant and any downstream steps are initiated such has a final review or payment for permit issuance.', 0)
+('as a plan review staff member i want to track the completion of required plan reviews so i can ensure all plan review tasks are completed results have been sent to the applicant and any downstream steps are initiated such as a final review or payment for permit issuance', 19)
+('as a plan review staff member i want to track the completion of required plan reviews so that i can ensure all plan review tasks are completed results have been sent to the applicant and any downstream steps are initiated such as a final review or payment for permit issuance', 14)
 ----------------------------------------------------------------------------------------------------
 Input_phrase: As a Development Staff member, I want to Issue a Development-related Permit, so that I can grant the request to the Applicant to begin work
 ----------------------------------------------------------------------------------------------------
 ('as the development staff i want to issue a development permit so that i can grant the request to the applicant to begin work on the project', 43)
 ('as the development staff i want to issue a development permit so that i can grant the request to the applicant to start work', 33)
+('as a development staff member i want to issue a development permit so that i can grant the request to the applicant to begin work immediately', 32)
 ('as the development staff i want to issue a development permit so that i can grant the request to the applicant to begin work', 28)
 ('as a development staff member i want to issue a development permit so that i can grant the request to the applicant to start work', 25)
+('as a development staff member i want to issue a development permit so that i can grant the request to the applicant to begin work on ', 24)
 ('as a development staff member i want to issue a development permit so that i can grant the request to the applicant to begin work', 20)
 ('as a development staff member i want to issue a development-related permit so that i can grant the request to the applicant to begin work', 12)
 ----------------------------------------------------------------------------------------------------
 Input_phrase: As a Staff member, I want to Manage Bonds, so that I can track and manage bonds throughout the lifecycle of the project until release.
 ----------------------------------------------------------------------------------------------------
+('my role is to manage bonds so that i can track and manage bonds throughout the lifecycle of a project until release', 36)
+('my job is to manage bonds so that i can track and manage bonds throughout the lifecycle of a project until release', 36)
+('my role is to manage bonds so that i can track and manage bonds throughout the lifecycle of the project until release', 33)
+('my job is to manage bonds so that i can track and manage bonds throughout the lifecycle of the project until release', 33)
 ('as a staff i want to manage bonds so i can track and manage bonds throughout the lifecycle of the project until release', 25)
 ('as a staff member i want to manage bonds so i can track and manage bonds throughout the life cycle of the project until release', 19)
 ('as a staff member i want to manage bonds so i can track and manage bonds throughout the lifecycle of the project until release', 18)
 ('as a staff member i want to manage bonds so that i can track and manage bonds throughout the life cycle of the project until release', 14)
+('as a staff member i want to manage bonds so that i can track and manage bonds throughout the lifecycle of the project until release i', 14)
 ('as a staff member i want to manage bonds so that i can track and manage bonds throughout the lifecycle of the project until release', 13)
 ----------------------------------------------------------------------------------------------------
 Input_phrase: As an Applicant, I want to Complete Building Development Project, so that I can receive any posted bond and/or obtain occupancy.
@@ -368,8 +463,10 @@ Input_phrase: As an Applicant, I want to Complete Building Development Project, 
 Input_phrase: As a Customer, I want to Request Inspection, so that a County inspector is assigned to perform an inspection of my project.
 ----------------------------------------------------------------------------------------------------
 ('as the customer i want to request inspection so that an inspector from the county will be assigned to my project', 53)
+('as the customer i want to request inspection so that an inspector from the county will be assigned to perform an inspection of my project', 42)
 ('as a customer i want to request inspection so that a county inspector is assigned to perform an inspection on my project', 14)
 ('as a customer i want to request inspection so that a county inspector is assigned to perform an inspection of my project', 13)
+('as a customer i want to request inspection so that a county inspector is assigned to perform an inspection of my project ', 13)
 ----------------------------------------------------------------------------------------------------
 Input_phrase: As an Inspection Staff member, I want to Create an Inspection, so that I can schedule and assign the inspection.
 ----------------------------------------------------------------------------------------------------
@@ -378,14 +475,20 @@ Input_phrase: As an Inspection Staff member, I want to Create an Inspection, so 
 ('as a inspector i want to create an inspection so i can schedule and assign the inspection', 33)
 ('as an inspector i want to create an inspection so i can schedule and assign the inspection', 32)
 ('as an inspector i want to create an inspection so that i can schedule and assign the inspection', 27)
+('as an inspection staff member i want to create an inspection so i can schedule and assign the inspections', 18)
 ('as an inspection staff member i want to create an inspection so i can schedule and assign the inspection', 18)
 ('as an inspection staff member i want to create an inspection so that i can schedule and assign inspection', 17)
+('as an inspection staff member i want to create an inspection so that i can schedule and assign the inspections', 13)
+('as an inspection staff member i want to create an inspection so that i can schedule and assign the inspection', 13)
 ----------------------------------------------------------------------------------------------------
 Input_phrase: As an Inspection Staff Supervisor, I want to Assign Inspections, so that I can make sure the appropriate Inspector receives the work.
 ----------------------------------------------------------------------------------------------------
 ('i want to assign inspections as a supervisor of inspection staff so i can make sure the appropriate inspector receives the work', 42)
+('i want to assign inspections as a supervisor of inspections so i can make sure the appropriate inspector receives the work', 39)
 ('as an inspection staff supervisor i want to assign inspections so i can make sure the appropriate inspector gets the work', 24)
 ('as an inspection staff supervisor i want to assign inspections so that i can make sure the appropriate inspector receives the work properly', 21)
+("as an inspection staff supervisor i want to assign inspections so i can make sure the appropriate inspector receives the work ''", 20)
+('as an inspection staff supervisor i want to assign inspections so that i can make sure the appropriate inspector receives the work i have', 19)
 ('as an inspection staff supervisor i want to assign inspections so i can make sure the appropriate inspector receives the work', 18)
 ('as an inspection staff supervisor i want to assign inspections so that i can make sure the appropriate inspector receives work', 17)
 ('as an inspection staff supervisor i want to assign inspections so that i can make sure the appropriate inspector receives the job', 16)
@@ -395,42 +498,58 @@ Input_phrase: As an Inspection Staff Supervisor, I want to Assign Inspections, s
 Input_phrase: As an Inspection Supervisor, I want to Manage Inspector Workload, so that I can meet service level and quality requirements.
 ----------------------------------------------------------------------------------------------------
 ('i want to manage inspector workload so that i can meet service level and quality requirements as an inspection supervisor', 68)
+('i want to manage inspector workload so that i can meet service level and quality requirements as a inspection supervisor', 67)
 ('i want to manage inspector workload so that i can meet service level and quality requirements', 41)
 ('as an inspection supervisor i want to manage the inspector workload so i can meet service level and quality requirements', 22)
 ('as an inspection supervisor i want to manage inspector workload so that i can meet service level and quality demands', 21)
 ('as an inspection supervisor i want to manage inspector workload so i can meet service level and quality requirements', 18)
+('when i am an inspection supervisor i want to manage inspector workload so i can meet service level and quality requirements', 17)
+('as an inspection supervisor i want to manage inspector workload so that i can meet service level and quality requirements i', 14)
+('as an inspection supervisor i want to manage inspector workload so that i can meet service level and quality requirements ', 13)
 ('as an inspection supervisor i want to manage inspector workload so that i can meet service level and quality requirements', 13)
 ----------------------------------------------------------------------------------------------------
 Input_phrase: As an Inspector, I want to Conduct Inspections, so that I can validate Customer compliance with code and regulations and provide results of the inspection to the Customer.
 ----------------------------------------------------------------------------------------------------
+('as an inspections inspector i want to conduct inspections so that i can validate the customer compliance with code and regulations and provide customer with results of the inspection', 49)
 ('as an inspector i want to conduct inspections so that i can validate customer compliance with code and regulations and provide customer with results of the inspection', 42)
+('as an inspections inspector i want to conduct inspections so that i can validate the customer compliance with code and regulations and provide the results of inspection to the customer', 28)
 ('as an inspector i want to conduct inspections so i can validate customer compliance with code and regulations and provide the results of the inspection to the customer', 22)
-("as an inspector i want to conduct inspections so that i can validate customer compliance with code and regulations and provide the results of the inspection to the customer's", 18)
+('as an inspections inspector i want to conduct inspections so that i can validate the customer compliance with code and regulations and provide results of the inspection to the customer', 20)
+('as an inspector i want to conduct inspections so that i can validate customer compliance with code and regulations and provide the results of the inspection to the customer i', 18)
 ('as an inspector i want to conduct inspections so i can validate customer compliance with code and regulations and provide results of the inspection to the customer', 18)
-('as an inspector i want to conduct inspections so that i can validate customer compliance with code and regulations and provide the results of the inspection to the customers', 17)
-('as an inspector i want to conduct inspections so that i can validate customer compliance with code and regulations and provide the results of the inspection to the customer', 17)
+("as an inspector i want to conduct inspections so that i can validate customer compliance with code and regulations and provide the results of the inspection to the customer's", 18)
 ('as an inspector i want to conduct inspections so that i can validate customer compliance with code and regulations and provide the results of the inspection to the customer ', 17)
+('as an inspector i want to conduct inspections so that i can validate customer compliance with code and regulations and provide the results of the inspection to the customer', 17)
+('as an inspector i want to conduct inspections so that i can validate customer compliance with code and regulations and provide the results of the inspection to the customers', 17)
 ('as an inspector i want to conduct inspections so that i can validate customer compliance with code and regulations and provide results of the inspection to the customer', 13)
 ----------------------------------------------------------------------------------------------------
 Input_phrase: As an Enforcement Staff member, I want to Issue a Notice of Violation, so that I can provide formal communication to the responsible party.
 ----------------------------------------------------------------------------------------------------
+('my job is to issue a notice of violation so i can provide formal communication to the responsible party', 50)
+('my role is to issue a notice of violation so i can provide formal communication to the responsible party', 50)
+('my job is to issue a notice of violation so that i can provide formal communication to the responsible person', 48)
+('my role is to issue a notice of violation so that i can provide formal communication to the responsible party', 45)
+('my job is to issue a notice of violation so that i can provide formal communication to the responsible party', 45)
 ('as a enforcement staff member i want to issue a notice of violation so that i can provide formal communication to the liable party', 22)
 ('as a enforcement staff member i want to issue a notice of violation so i can provide formal communication to the responsible party', 19)
 ('as an enforcement staff member i want to issue a notice of violation so i can provide formal communication to the responsible party', 18)
 ('as a enforcement staff member i want to issue a notice of violation so that i can provide formal communication to the responsible parties', 16)
-("as an enforcement staff member i want to issue a notice of violation so that i can provide formal communication to the responsible party ''", 15)
-('as a enforcement staff member i want to issue a notice of violation so that i can provide formal communication to the responsible party ', 14)
 ('as a enforcement staff member i want to issue a notice of violation so that i can provide formal communication to the responsible party', 14)
+('as a enforcement staff member i want to issue a notice of violation so that i can provide formal communication to the responsible party ', 14)
 ('as an enforcement staff member i want to issue a notice of violation so that i can provide formal communication to the responsible party', 13)
 ----------------------------------------------------------------------------------------------------
 Input_phrase: As a l Staff member, I want to search for Property information, so that I can obtain all associated current and historic owners, permits, and applications.
 ----------------------------------------------------------------------------------------------------
+('my job is to search for property information so i can obtain all associated current and historic owners permits and applications i want to search for', 60)
+('my job is to search for property information so i can obtain all associated current and historical owners permits and applications', 42)
+('my job is to search for property information so i can obtain all associated current and historic owner permits and applications', 41)
+('my job is to search for property information so i can obtain all associated current and historic owners permits and applications', 40)
+('my job is to search property information so that i can obtain all associated current and historic owners permits and applications', 39)
 ('as an employee i want to search for property information so that i can obtain all associated current and historic owners permits and applications', 25)
 ('as a staff member i want to search for property information so i can obtain all associated current and historic owners permits and applications', 20)
 ('as a l staff member i want to search for property information so i can obtain all associated current and historic owners permits and applications', 18)
 ('as a staff member i want to search for property information so that i can obtain all associated current and historic owners permits and applications', 15)
 ('as a l staff member i want to search for property information so that i can obtain all associated current and historic owners permits and applications', 13)
-('as a l staff member i want to search for property information so that i can obtain all associated current and historic owners permits and applications ', 13)
 ----------------------------------------------------------------------------------------------------
 Input_phrase: As a Staff member, I need to be notified when Geospatial attributes change, so that I can ensure that I am reviewing the permit/application to the most current data and appropriate standards.
 ----------------------------------------------------------------------------------------------------
@@ -441,13 +560,21 @@ Input_phrase: As a Staff member, I need to be notified when Geospatial attribute
 ----------------------------------------------------------------------------------------------------
 Input_phrase: As a County Staff Member, I want to create a custom query/report outside of the common querying/reporting functionality, so that I can fulfill a request.
 ----------------------------------------------------------------------------------------------------
-('as a county staff member i want to create a custom queryreport outside the common queryingreporting functionality so i can fulfill a request', 23)
+('if i am a county staff member i want to create a custom queryreport outside of the standard reporting functionality so i can fulfill a request for example', 44)
+('when i am a county staff member i want to create a custom queryreport outside of the standard reporting functionality so i can fulfill a request for example', 43)
+('if i am a county staff member i want to create a custom queryreport outside of the standard reporting functionality so i can fulfill a request i have', 39)
+('when i am a county staff member i want to create a custom queryreport outside of the standard reporting functionality so i can satisfy a request', 39)
+('if i am a county staff member i want to create a custom queryreport outside of the standard reporting functionality so i can fulfill a request for', 36)
+('if i am a county staff member i want to create a custom queryreport outside of the standard reporting functionality so i can fulfill a request the', 36)
+('when i am a county staff member i want to create a custom queryreport outside of the standard reporting functionality so i can fulfill a request for', 35)
+('if i am a county staff member i want to create a custom queryreport outside of the standard reporting functionality so i can fulfill a request i', 34)
+('if i am a county staff member i want to create a custom queryreport outside of the standard reporting functionality so i can fulfil a request', 34)
+('when i am a county staff member i want to create a custom queryreport outside of the standard reporting functionality so i can fulfill a request i', 33)
+('when i am a county staff member i want to create a custom queryreport outside of the standard reporting functionality so i can fulfil a request', 33)
+('if i am a county staff member i want to create a custom queryreport outside of the standard reporting functionality so i can fulfill a request', 33)
+('when i am a county staff member i want to create a custom queryreport outside of the standard reporting functionality so i can fulfill a request', 32)
 ('as a county staff member i want to create a custom queryreport outside of the common queryreporting functionality so i can fulfill a request', 23)
-('as a county staff member i want to create a custom queryreport outside of the common queryingreporting functionality so i can fulfill a request ', 20)
-('as a county staff member i want to create a custom queryreport outside of the common queryingreporting functionality so i can fulfill a request', 20)
-('as a county staff member i want to create a custom queryreport outside of the common queryingreporting functionality so that i can fulfill a request i', 16)
-('as a county staff member i want to create a custom queryreport outside of the common queryingreporting functionality so that i can fulfill a request', 15)
-('as a county staff member i want to create a custom queryreport outside of the common queryingreporting functionality so that i can fulfill a request ', 15)
+('as a county staff member i want to create a custom queryreport outside the common queryingreporting functionality so i can fulfill a request', 23)
 ----------------------------------------------------------------------------------------------------
 Input_phrase: As a Staff member, I want to create each condo unit, so that I can associate it to the child parcel and address after the condominiums are recorded in the system.
 ----------------------------------------------------------------------------------------------------
@@ -460,12 +587,17 @@ Input_phrase: As a Technical Staff member, I want to update the GIS Property Man
 Input_phrase: As a Staff member, I want to Send or Post Citations and Fines, so that I can successfully send the Notice Of Violation document to the property owner and log information about the action.
 ----------------------------------------------------------------------------------------------------
 ('if i want to send or post citations and fines i need to send the notice of violation document to the property owner and log information about the action', 51)
-('if i want to send or post citations and fines so that i can successfully send the notice of violation document to the property owner and log information about the action i have taken', 41)
-('if i want to send or post citations and fines so that i can successfully send the notice of violation document to the property owner and log information about the action i have', 35)
+('please send or post citations and fines so that i can successfully send the notice of violation document to the property owner and log information about it', 44)
+('please send or post citations and fines so that i can successfully send the notice of violation document to the property owner and log information about this action i have', 43)
+('please send or post citations and fines so that i can successfully send the notice of violation document to the property owner and log information about this action i', 38)
+('please send or post citations and fines so that i can successfully send the notice of violation document to the property owner and log information about this action ', 37)
+('please send or post citations and fines so that i can successfully send the notice of violation document to the property owner and log information about this action', 37)
+('please send or post citations and fines so that i can successfully send the notice of violation document to the property owner and log information about that action', 37)
+('please send or post citations and fines so that i can successfully send the notice of violation document to the property owner and log information about the action i', 36)
+('please send or post citations and fines so that i can successfully send the notice of violation document to the property owner and log information about the action', 35)
 ('if i want to send or post citations and fines so that i can successfully send the notice of violation document to the property owner and record information about the action', 34)
 ('if i want to send or post citations and fines so that i can successfully send the notice of violation document to the property owner and log information about the action', 29)
-('as a staff member i want to send or post citations and fines so i can successfully send the notice of violation document to the property owner and log information about the action', 18)
 
-Got the paraphrases in 487.7720 seconds
+Got the paraphrases in 680.0111 seconds
 
-Total time = 4344.7708 seconds = 1.2068 hours
+Total time = 1716.9969 seconds = 0.4769 hours

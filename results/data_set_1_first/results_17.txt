@@ -400,3 +400,5 @@ Input_phrase: As an agency user, I want a landing page to navigate to either FAB
 Input_phrase: As an agency user, I want to submit my data elements surrounded by quotation marks, so that Excel won't strip off leading and trailing zeroes.
 ----------------------------------------------------------------------------------------------------
 ("As an agency user, I want to submit my data elements surrounded by quotation marks, so that Excel won't strip off leading and trailing zeroes.", 0)
+
+Total time = 13401.5691 seconds = 3.7226 hours
