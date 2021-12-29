@@ -29,3 +29,5 @@ first e second si riferiscono a diversi insiemi di combinazioni
 results_n.txt : formato del file dopo parrot
 results_n_EDA.txt : formato del file che va bene per EDA
 results_n_EDA_augmented.txt : formato del file dopo EDA
+
+python code/augment.py --input=results_1_EDA_input.txt --output=results_1_EDA_output.txt --num_aug=16 --alpha_sr=0.1 --alpha_rd=0.0 --alpha_ri=0.0 --alpha_rs=0.0

@@ -1,0 +1,622 @@
+1	the user who publishes a data set wants the ability to edit the data to correct or enhance existing data
+1	the user who publishes a data set wants the ability to edit a dataset to correct or enhance existing data
+1	data publishing user i want to be able to edit a dataset i published to correct or enhance existing data
+1	data publishing user i want to be able to edit a dataset i have published so that i can correct or improve existing data
+1	data publishing user i want to be able to edit a dataset i published so that i can correct or enhance existing data
+1	data publishing user i want to be able to edit a dataset i have published so i can correct or enhance existing data
+1	as a data publishing user i want to be able to edit a dataset i published so i can correct or enhance existing data
+1	data publishing user i want to be able to edit a dataset i have published so that i can correct or enhance existing data i
+1	as a data publishing user i want to be able to edit a dataset i published so that i can correct or enhance existing data
+1	as a data publishing user i want to be able to edit a dataset i have published so i can correct or enhance existing data
+1	data publishing user i want to be able to edit a dataset i have published so that i can correct or enhance existing data 
+1	data publishing user i want to be able to edit a dataset i have published so that i can correct or enhance existing data
+1	as a data publishing user i want to be able to edit a dataset i have published so that i can correct or enhance existing data
+2	if i want to edit the model of data i have already imported i need to fix bugs or make enhancements to the api built for my data
+2	if i want to edit the model of data i have already imported i need to fix bugs or make enhancements in the api built for my data
+2	if i want to edit the model of data i have already imported i want to fix bugs or make enhancements in the api built for my data
+2	data publishing user i want to be able to edit the model data i have already imported so that i can fix bugs or make enhancements to the api built
+2	data publishing user i want to be able to edit the model data i have already imported so that i can fix bugs or make enhancements in the api built
+2	as a data publisher i want to be able to edit the model of data i already imported so i can fix bugs or make enhancements to the api built for my data
+2	as a data publisher i want to be able to edit the model of data i already imported so i can fix bugs or make enhancements in the api built for my data
+2	data publishing user i want to be able to edit the model data i have already imported so that i can fix bugs or make enhancements to the api for my data
+2	data publishing user i want to be able to edit the model data i have already imported so that i can fix bugs or make enhancements in the api built for
+2	data publishing user i want to be able to edit the model data i have already imported so that i can fix bugs or make enhancements in the api for my data
+2	data publishing user i want to be able to edit the model data i have already imported so that i can fix bugs or make enhancements in the api built for my
+2	data publishing user i want to be able to edit the model data i have already imported so that i can fix bugs or make enhancements to the api built for my data
+2	data publishing user i want to be able to edit the model data i have already imported so that i can fix bugs or make enhancements in the api built for my data
+3	data publishing user i want to delete a dataset i published so i can remove unnecessary data from openspending
+3	data publishing user i want to delete a dataset i've published so i can remove unwanted data from openspending if i want
+3	data publishing user i want to delete a dataset i published so i can remove unneeded data from openspending
+3	data publishing user i want to delete a dataset i published so i can remove unwanted data from openspending ''
+3	data publishing user i want to delete a dataset i published so i can remove unwanted data from openspendingcom
+3	data publishing user i want to delete a dataset i published so i can remove unwanted data from openspending 
+3	data publishing user i want to delete a dataset i published so i can remove unwanted data from openspending
+3	data publishing user i want to delete a dataset i've published so i can remove unwanted data from openspending
+3	as a data publishing user i want to be able to delete a dataset i published so i can remove unwanted data from openspending
+3	as a data publishing user i want to be able to delete a dataset i published so that i can remove unwanted data from openspending
+3	as a data publishing user i want to be able to delete a dataset i have published so i can remove unwanted data from openspending
+3	as a data publishing user i want to be able to delete a dataset i have published so that i can remove unwanted data from openspending
+4	platform administrator i want to be able to hide any dataset already added as public so i can maintain publichidden status for other users i have
+4	platform administrator i want to be able to hide any dataset already added as public so i can maintain publichidden status for other users i want
+4	as the platform administrator i want to be able to hide any dataset already added as public so i can maintain publichidden status for others
+4	platform administrator i want to be able to hide any dataset already added as public so that i can maintain publichidden status for other users to see
+4	platform administrator i want to be able to hide any dataset already added as public so i can maintain publichidden status for other users
+4	as the platform administrator i want to be able to hide any dataset already added as public so i can maintain publichidden status for others users
+4	as the platform administrator i want to be able to hide any dataset already added as public so i can maintain publichidden status for other users
+4	as a platform administrator i want to be able to hide any dataset already added as public so i can maintain publichidden status for other users
+4	platform administrator i want to be able to hide any dataset already added as public so that i can maintain publichidden status for other users
+5	as the platform administrator i want to have a view on all datasets published by all users so i can perform management actions on any dataset for example
+5	as the platform administrator i want a view on all datasets published by all users so i can perform management actions on any datasets
+5	as the platform administrator i want a view on all datasets published by all users so i can perform management actions on any dataset
+5	as a platform administrator i want a view on all datasets published by all users so i can perform management actions on any dataset
+5	as the platform administrator i want to have a view on all datasets published by all users so i can perform management actions on any dataset i have
+5	as the platform administrator i want to have a view on all datasets published by all users so i can perform management actions on any dataset
+5	as the platform administrator i want to have a view on all datasets published by all users so i can perform management actions on any dataset 
+5	as a platform administrator i want to have a view on all datasets published by all users so i can perform management actions on any datasets
+5	as a platform administrator i want to have a view on all datasets published by all users so i can perform management actions on any dataset
+5	as a platform administrator i want to have a view on all datasets published by all users so that i can perform management actions on any dataset
+6	as the platform administrator i want to be able to delete any dataset published so i can handle takedown requests or clean up test datasets
+6	as the platform administrator i want to be able to delete any dataset published so i can deal with takedown requests or clean up test datasets i have
+6	as the platform administrator i want to be able to delete any dataset published so i can deal with takedown requests or clean up test datasets i
+6	as the platform administrator i want to be able to delete any dataset published so i can deal with takedown requests or clean up test datasets 
+6	as the platform administrator i want to be able to delete any dataset published so i can deal with takedown requests or clean up test datasets
+6	as a platform administrator i want to be able to delete any dataset published so i can deal with takedown requests or clean up test datasets
+6	as a platform administrator i want to be able to delete any dataset published so that i can deal with takedown requests or clean up test datasets
+7	data publishing user i want to be able to edit the data source i already imported so i can fix bugs or make enhancements in the api built for my data
+7	data publishing user i want to be able to edit the data source i have already imported so that i can fix bugs or make enhancements to the api built for my data i have
+7	data publishing user i want to be able to edit the data source i have already imported so that i can fix bugs or make enhancements in the api built for my data i have
+7	data publishing user i want to be able to edit the data source i have already imported so that i can fix bugs or make enhancements to the api built for my data i
+7	data publishing user i want to be able to edit the data source i have already imported so that i can fix bugs or make enhancements in the api built for my data ''
+7	data publishing user i want to be able to edit the data source i have already imported so that i can fix bugs or make enhancements to the api built for my data
+7	data publishing user i want to be able to edit the data source i have already imported so that i can fix bugs or make enhancements in the api built for my data i
+7	data publishing user i want to be able to edit the data source i have already imported so that i can fix bugs or make enhancements in the api built for my data 
+7	data publishing user i want to be able to edit the data source i have already imported so that i can fix bugs or make enhancements in the api built for my data
+8	as data publisher i want to have packager support constants so i can model dimensions which may not exist in the source file
+8	as data publisher i want to have packager support constants so i can model dimensions that may not exist in the source file
+8	as data publisher i want to have packager support constants so that i can model dimensions that may not exist in the source code
+8	as data publisher i want to have packager support constants so that i can model dimensions that may not exist in the source files
+8	as data publisher i want to have packager support constants so that i can model dimensions that may not exist in the source file
+8	as a data publishing user i want to have packager support constants so i can model dimensions that may not exist in the source file
+8	as a data publishing user i want to have the packager support constants so i can model dimensions that may not exist in the source file i
+8	as a data publishing user i want to have packager support constants so that i can model dimensions that may not exist in the source file i
+8	as a data publishing user i want to have the packager support constants so i can model dimensions that may not exist in the source file
+8	as a data publishing user i want to have packager support constants so that i can model dimensions that may not exist in the source file
+8	as a data publishing user i want to have the packager support constants so that i can model dimensions that may not exist in the source file
+8	as a data publishing user i want to have the packager support constants so that i can model dimensions that may not exist in the source files
+9	data publishing user i want to be able to import data in excel so that i don't have to convert data formats in order to use the data packager i have
+9	data publishing user i want to be able to import data in excel so that i don't have to convert data formats in order to use data packager
+9	data publishing user i want to be able to import data in excel so that i don't have to convert data formats in order to use the data packager i
+9	data publishing user i want to be able to import data in excel so that i don't have to convert data formats in order to use the data packager -
+9	data publishing user i want to be able to import data in excel so that i don't have to convert data formats in order to use the data packager '
+9	as a data publishing user i want to be able to import data in excel so i don't have to convert data formats in order to use the data packager
+9	data publishing user i want to be able to import data in excel so that i don't have to convert data formats in order to use the data packager 
+9	data publishing user i want to be able to import data in excel so that i don't have to convert data formats in order to use the data packager
+9	as a data publishing user i want to be able to import data in excel so that i do not have to convert data formats in order to use the data packager
+10	the user who publishes the data wants to know what his data needs to be able to be visualized on a map
+10	the user who publishes the data wants to know what the data needs to be able to be visualized on a map
+10	the user of the data publishing platform i want to know what my data needs to be able to be visualized on a map
+10	the user who publishes the data wants to know what his data needs to be able to be visualized on a map so that he can
+10	the user who publishes the data wants to know what his data needs to be able to be visualized on a map so that he could see
+10	the user who publishes the data wants to know what his data needs to be able to be visualized on a map so that he could visualize
+10	when i am a data publishing user i want to know what my data needs to be able to be visualised on a map
+10	as a data publishing user i want to know what my data needs to be able to be visualised on a map so i can visualise
+10	when i am a data publishing user i want to know what my data needs to be able to be visualised on a map so i can visualise
+10	as a data publishing user i want to know what my data needs to be able to be visualised on a map so that i can visualise
+10	when i am a data publishing user i want to know what my data needs to be able to be visualised on a map so that i can visualize
+10	as a data publishing user i want to know what my data needs to be able to be visualised on a map so i can visualise it on
+10	as a data publishing user i want to know what my data needs to be able to be visualised on a map so that i can visualise it
+11	data publishing user i want to be able to import data in json so that i don't have to convert data formats to use the data packager i have
+11	data publishing user i want to be able to import data in json so that i don't have to convert data formats to use data packages
+11	data publishing user i want to be able to import data in json so that i don't have to convert data formats to use data packager i
+11	data publishing user i want to be able to import data in json so that i don't have to convert data formats to use the packager
+11	data publishing user i want to be able to import data in json so that i don't have to convert data formats to use data packager
+11	data publishing user i want to be able to import data in json so that i don't have to convert data formats to use data packagers
+11	data publishing user i want to be able to import data in json so that i don't have to convert data formats to use the data packager ''
+11	data publishing user i want to be able to import data in json so that i don't have to convert data formats to use the data packager i
+11	data publishing user i want to be able to import data in json so that i don't have to convert data formats to use the data packager 
+11	data publishing user i want to be able to import data in json so that i don't have to convert data formats to use the data packager
+11	as a data publishing user i want to be able to import data in json so that i don't have to convert data formats to use the data packager
+12	data publishing user i want to be able to import data from a google spreadsheet so that i don't have to convert data formats to use the data packager
+12	data publishing user i want to be able to import data from a google spreadsheet so that i don't have to convert data formats in order to use the data packager i have
+12	data publishing user i want to be able to import data from a google spreadsheet so i don't have to convert data formats in order to use the data packager
+12	data publishing user i want to be able to import data from a google spreadsheet so that i don't have to convert data formats in order to use the data packager i
+12	data publishing user i want to be able to import data from a google spreadsheet so that i don't have to convert data formats in order to use the data package
+12	as a data publishing user i want to be able to import data from a google spreadsheet so i don't have to convert data formats in order to use the data packager
+12	data publishing user i want to be able to import data from a google spreadsheet so that i don't have to convert data formats in order to use the data packager
+12	data publishing user i want to be able to import data from a google spreadsheet so that i don't have to convert data formats in order to use the data packager 
+12	data publishing user i want to be able to import data from a google spreadsheet so that i do not have to convert data formats in order to use the data packager
+12	as a data publishing user i want to be able to import data from a google spreadsheet so that i do not have to convert data formats in order to use the data packager
+13	the user who uses data publishing wants data from fiscal data package descriptor file so that i don't have to convert data formats to use data packager
+13	the user who uses data publishing wants data from fiscal data package descriptor file so that i don't have to convert data formats to use the data packager i
+13	the user who uses data publishing wants data from fiscal data package descriptor file so that i don't have to convert data formats to use the data packager
+13	the user who uses data publishing wants data from fiscal data package descriptor file so i don't have to convert data formats in order to use the data packager i
+13	the user who uses data publishing wants data from fiscal data package descriptor file so i don't have to convert data formats in order to use the data packager
+13	the user who uses data publishing wants data from fiscal data package descriptor file so that i do not have to convert data formats in order to use the data packager i have
+13	the user who uses data publishing wants data from fiscal data package descriptor file so that i do not have to convert data formats in order to use the data packager i want
+13	the user who uses data publishing wants data from fiscal data package descriptor file so that i do not have to convert data formats in order to use data packager i
+13	the user who uses data publishing wants data from fiscal data package descriptor file so that i do not have to convert data formats in order to use data packager
+13	the user who uses data publishing wants data from fiscal data package descriptor file so that i do not have to convert data formats in order to use the data packager the
+13	the user who uses data publishing wants data from fiscal data package descriptor file so that i do not have to convert data formats in order to use the data packager i
+13	the user who uses data publishing wants data from fiscal data package descriptor file so that i do not have to convert data formats in order to use the data packager
+13	the user who uses data publishing wants data from fiscal data package descriptor file so that i do not have to convert data formats in order to use the data packager 
+14	if i want to be able to provide the platform administrator with additional geojson sources i can improve the map-based visualisations of my data
+14	data publishing user i want to be able to provide the platform administrator with additional geojson sources so i can improve the map-based visualisations of my data
+14	data publishing user i want to be able to provide the platform administrator with additional geojson sources so that i can improve the map-based visualisations of my data '
+14	data publishing user i want to be able to provide the platform administrator with additional geojson sources so that i can improve the map-based visualisation of my data
+14	data publishing user i want to be able to provide the platform administrator with additional geojson sources so that i can improve the map-based visualisations of my data i
+14	data publishing user i want to be able to provide the platform administrator with additional geojson sources so that i can improve the map-based visualisations of my data 
+14	data publishing user i want to be able to provide the platform administrator with additional geojson sources so that i can improve the map-based visualisations of my data
+14	as a data publishing user i want to be able to provide the platform administrator with additional geojson sources so i can improve the map-based visualisations of my data
+15	data consuming user i want to be able to filter sort and aggregate data by multiple dimensions and measures to get more granular views on the data
+15	data consuming user i want to be able to filter sort and aggregate data by multiple dimensions and measures so i can get more granular views on the data i
+15	data consuming user i want to be able to filter sort and aggregate data by multiple dimensions and measures so that i can get more granular views on the data i have
+15	data consuming user i want to be able to filter sort and aggregate data by multiple dimensions and measures so i can get more granular views on the data
+15	as a data consumption user i want to be able to filter sort and aggregate data by multiple dimensions and measures so i can get more granular views on the data
+15	data consuming user i want to be able to filter sort and aggregate data by multiple dimensions and measures so that i can get more granular views on data
+15	data consuming user i want to be able to filter sort and aggregate data by multiple dimensions and measures so that i can get more granular views on the data i
+15	data consuming user i want to be able to filter sort and aggregate data by multiple dimensions and measures so that i can get more granular views of the data
+15	data consuming user i want to be able to filter sort and aggregate data by multiple dimensions and measures so that i can get more granular views on the data '
+15	as a data consuming user i want to be able to filter sort and aggregate data by multiple dimensions and measures so i can get more granular views on the data
+15	data consuming user i want to be able to filter sort and aggregate data by multiple dimensions and measures so that i can get more granular views on the data
+15	data consuming user i want to be able to filter sort and aggregate data by multiple dimensions and measures so that i can get more granular views on the data 
+15	as a data consumption user i want to be able to filter sort and aggregate data by multiple dimensions and measures so that i can get more granular views on the data
+16	data consuming user i want to be able to download a csv of the data used in any visualisation i am viewing so i can use the data in other tools if i want
+16	data consuming user i want to be able to download a csv of the data used in any visualisation i am viewing to use the data in other tools
+16	data consuming user i want to be able to download a csv of the data used in any visualisation i am viewing so i can use the data in other tools if i
+16	data consuming user i want to be able to download a csv of the data used in any visualisation i am viewing so i can use the data in other tools
+16	data consuming user i want to be able to download a csv of the data used in any visualisation i'm viewing so that i can use the data in other tools '
+16	data consuming user i want to be able to download a csv of the data used in any visualisation i'm viewing so that i can use the data in other tools
+16	data consuming user i want to be able to download a csv of the data used in any visualisation i am viewing so that i can use the data in other tools
+16	as a data consuming user i want to be able to download a csv of the data used in any visualisation i am viewing so i can use the data in other tools
+16	data consuming user i want to be able to download a csv of data that is used in any visualisation i am viewing so that i can use the data in other tools i
+16	data consuming user i want to be able to download a csv of data that is used in any visualisation i am viewing so that i can use the data in other tools
+16	data consuming user i want to be able to download a csv of data that is used in any visualisation i am viewing so that i can use the data in other tools 
+17	if i want to be able to change the display of all monetary measures across a set of currencies i can understand localised amounts in non-localised figures i also want to
+17	if i want to be able to change the display of all monetary measures across a set of currencies i can understand localised amounts in non-localised figures i have
+17	if i want to be able to change the display of all the monetary measures across a set of currencies i can understand localised amounts in non-localised figures i
+17	if i want to be able to change the display of all the monetary measures across a set of currencies i can understand localised amounts in non-localised figures
+17	if i want to be able to change the display of all monetary measures across a set of currencies i need to understand localised amounts in non-localised figures
+17	if i want to be able to change the display of all monetary measures across a set of currencies i can understand localised amounts in non-localised figures ''
+17	if i want to be able to change the display of all monetary measures across a set of currencies i want to understand localised amounts in non-localised figures
+17	if i want to be able to change the display of all monetary measures across a set of currencies i can understand localised amounts in non-localized figures
+17	if i want to be able to change the display of all monetary measures across a set of currencies i can understand localised amounts in non-localised figures i
+17	if i want to be able to change the display of all monetary measures across a set of currencies i can understand localised amounts in non-localised figures
+17	data consuming user i want to be able to change the display of all monetary measures across a set of currencies so i can understand localised amounts in non-localized figures
+17	data consuming user i want to be able to change the display of all monetary measures across a set of currencies so i can understand localised amounts in non-localised figures
+17	data consuming user i want to be able to change the display of all monetary measures across a set of currencies so that i can understand localised amounts in non-localized figures
+17	as data consumption user i want to be able to change the display of all monetary measures across a set of currencies so that i can understand localised amounts in non-localised figures
+17	data consuming user i want to be able to change the display of all monetary measures across a set of currencies so that i can understand localised amounts in non-localised figures
+18	as data consumption user i want to see textual descriptions that accompany embedded visualisations so that i can more easily understand what i'm looking at and how
+18	as data consumption user i want to see textual descriptions that accompany embedded visualisations so that i can understand what i am viewing
+18	as data consumption user i want to see textual descriptions that accompany embedded visualisations so that i can more easily understand what i'm looking at i
+18	as data consumption user i want to see textual descriptions that accompany embedded visualisations so that i can more easily understand what i'm looking for
+18	as data consumption user i want to see textual descriptions that accompany embedded visualisations so that i can more easily understand what i'm looking at 
+18	as data consumption user i want to see textual descriptions that accompany embedded visualisations so that i can more easily understand what i'm looking at
+18	as data consumption user i want to see textual descriptions that accompany embedded visualisations so that i can more easily understand what i am looking at
+18	as data consumption user i want to see textual descriptions that accompany embedded visualisations so that i can more easily understand what i'm seeing
+18	as data consumption user i want to see textual descriptions that accompany embedded visualisations so that i can more easily understand what i'm seeing 
+18	as data consumption user i want to see textual descriptions that accompany embedded visualisations so that i can more easily understand what i am seeing
+18	as data consumption user i want to see textual descriptions that accompany embedded visualisations so that i can more easily understand what i am viewing
+18	as a data-consuming user i want to see textual descriptions that accompany embedded visualisations so i can more easily understand what i am viewing
+18	as a data consuming user i want to see textual descriptions that accompany embedded visualisations so that i can more easily understand what i am viewing
+19	data consuming user i want to share a view state as a url to social networks so i can share data i found with others
+19	as the data-consuming user i want to be able to share a view state as a url to social networks to share data found with others
+19	data consuming user i want to share a view state as a url to social networks so that i can share data i found with others
+19	data consuming user i want to share a view state as a url to social networks so that i can share data i have found with other users
+19	data consuming user i want to share a view state as a url to social networks so that i can share data that i have found with other people
+19	data consuming user i want to share a view state as a url to social networks so that i can share data that i found with others
+19	data consuming user i want to share a view state as a url to social networks so that i can share data that i have found with other users 
+19	data consuming user i want to share a view state as a url to social networks so that i can share data i have found with others
+19	data consuming user i want to share a view state as a url to social networks so that i can share data that i have found with other users
+19	data consuming user i want to share a view state as a url to social networks so that i can share data that i have found with others the
+19	data consuming user i want to share a view state as a url to social networks so that i can share data that i have found with other
+19	data consuming user i want to share a view state as a url to social networks so that i can share data that i have found with others -
+19	data consuming user i want to share a view state as a url to social networks so that i can share data that i have found with others '
+19	data consuming user i want to share a view state as a url to social networks so that i can share data that i have found with others 
+19	data consuming user i want to share a view state as a url to social networks so that i can share data that i have found with others
+20	if i want to be able to download an image of a particular view state so i can use it offline as a data user
+20	if i want to be able to download an image of a particular view state i want to use it offline
+20	if i want to be able to download an image of a particular view state i can use it offline
+20	if i want to be able to download an image of a particular view state so i can use it offline
+20	if i want to be able to download an image of a particular view state so that i can use it offline
+20	data consuming user i want to be able to download an image of a specific view state so i can use it offline
+20	as the data-consuming user i want to be able to download an image of a particular view state to use offline
+20	data consuming user i want to be able to download an image of a particular view state so i can use it offline i have
+20	data consuming user i want to be able to download an image of a particular view state so i can use it offline i can
+20	as the data-consuming user i want to be able to download an image of a particular view state to use it offline
+20	data consuming user i want to be able to download an image of a particular view state so i can use it offline i
+20	data consuming user i want to be able to download an image of a particular view state so i can use it offline
+20	data consuming user i want to be able to download an image of a particular view state so that i can use it offline
+21	if i want to be able to share an image of a particular view state to the social networks that support this so that i can provide richer context in those communication channels for the data i am sharing ''
+21	if i want to be able to share an image of a particular view state to the social networks that support this so that i can provide richer context in the communication channels for the data i am sharing
+21	if i want to be able to share an image of a particular view state to the social networks that support this so that i can provide richer context in those communication channels for the data i am sharing i
+21	if i want to be able to share an image of a particular view state to the social networks that support this so that i can provide richer context in these communication channels for the data i am sharing
+21	if i want to be able to share an image of a particular view state to the social networks that support this so that i can provide richer context in those communication channels for the data i am sharing
+21	if i want to be able to share an image of a particular view state to the social networks that support this so that i can provide richer context in those communication channels for the data i am sharing 
+21	if i want to be able to share an image of a particular view state to the social networks that support this so that i can provide richer context in these communication channels for data i am sharing
+21	if i want to be able to share an image of a particular view state to the social networks that support this so that i can provide richer context in those communication channels for data i am sharing
+21	data consuming user i want to be able to share an image of a particular view state to the social networks that support this so i can provide richer context in those communication channels for the data i am sharing
+21	data consuming user i want to be able to share an image of a particular view state to the social networks that support this so that i can provide richer context in those communication channels for the data i am sharing with
+21	data consuming user i want to be able to share an image of a particular view state to the social networks that support this so i can provide richer context in those communication channels for data i am sharing
+21	data consuming user i want to be able to share an image of a particular view state to the social networks that support this so that i can provide richer context in these communication channels for the data i am sharing
+21	data consuming user i want to be able to share an image of a particular view state to the social networks that support this so that i can provide richer context in those communication channels for the data i am sharing
+21	data consuming user i want to be able to share an image of a particular view state to the social networks that support this so that i can provide richer context in those communication channels for data i am sharing
+22	if i want to be able to have stepped zoom on map visualisations i can have better control over the navigation experience in a map view
+22	data consuming user i want to have stepped zoom on map visualisations to have better control over the navigation experience in a map view
+22	data consuming user i want to have stepped zoom on map visualisations to have better control over navigation experience inside a map view
+22	if i want to be able to have stepped zoom on map visualisations i can have better control over the navigation experience inside a map view
+22	data consuming user i want to have stepped zoom on map visualisations to have better control over the navigation experience inside a map view
+22	data consuming user i want to have stepped zoom on map visualisation so i can have better control over the navigation experience in a map view
+22	data consuming user i want to have stepped zoom on map visualisation so i can have better control over the navigation experience in a map view 
+22	data consuming user i want to have stepped zoom on map visualisation so i can have better control over the navigation experience inside a map view ''
+22	data consuming user i want to have stepped zoom on map visualisation so i can have better control over the navigation experience inside a map view '
+22	if i want to be able to have stepped zoom on map visualisations so that i can have better control over the navigation experience inside a map view
+22	data consuming user i want to have stepped zoom on map visualisation so i can have better control over the navigation experience inside a map view i
+22	data consuming user i want to have stepped zoom on map visualisation so i can have better control over the navigation experience inside a map view
+22	data consuming user i want to have stepped zoom on map visualisation so i can have better control over the navigation experience inside a map view 
+23	if i want to have consistent use of colour on map visualisations i can better understand the visual logic of map view
+23	however i want to have consistent use of colour on map visualisations so that i can understand the visual logic of the map view
+23	as data consumption user i want to have consistent use of colour on map visualisations so that i can understand the visual logic of the map view more clearly
+23	as data consumption user i want to have consistent use of colour on map visualisations so that i can understand the visual logic of the map view better
+23	as data consumption user i want to have consistent use of colour on map visualisations so that i can understand the visual logic of map view
+23	as data consumption user i want to have consistent use of colour on map visualisations so i can better understand the visual logic of map view
+23	as data consumption user i want to have consistent use of colour on map visualisations so that i can understand the visual logic of the map view '
+23	as data consumption user i want to have consistent use of colour on map visualisations so that i can understand the visual logic of the map view i
+23	as data consumption user i want to have consistent use of colour on map visualisations so that i can understand the visual logic of the map view
+23	as data consumption user i want to have consistent use of colour on map visualisations so that i can understand the visual logic of the map view 
+23	as data consumption user i want to have consistent use of colour on map visualisations so i can better understand the visual logic of the map view '
+23	as data consumption user i want to have consistent use of colour on map visualisations so i can better understand the visual logic of the map view 
+23	as data consumption user i want to have consistent use of colour on map visualisations so i can better understand the visual logic of the map view
+23	as data consumption user i want to have consistent use of colour on map visualisations so that i can better understand the visual logic of map view
+23	as a data consuming user i want to have consistent use of colour on map visualisations so that i can understand the visual logic of the map view
+24	if i am a javascript developer i would like to be able to customise the brand name and icon and primary color of all frontend javascript apps
+24	i would like to be able to customize the brand name and icon of all frontend javascript apps so that i can customise the branding for my own needs
+24	i would like to be able to customize the brand name and icon and primary color of all frontend javascript apps so that i can customise the branding
+24	i would like to be able to customize the brand name and icon and primary color of all frontend javascript apps so that i can customise the branding for my own requirements
+24	i would like to be able to customize the brand name and icon and primary color of all frontend javascript apps so that i can customise the branding for myself
+24	i would like to be able to customize the brand name and icon and primary color of all frontend javascript apps so i can customise the branding for my own needs i
+24	i would like to be able to customize the brand name and icon and primary color of all frontend javascript apps so i can customise the branding for my own needs
+24	i would like to be able to customize the brand name and icon and primary color of all frontend javascript apps so that i can customise the branding for my needs
+24	i would like to be able to customize the brand name and icon and primary color of all frontend javascript apps so that i can customise the branding for my own need
+24	i would like to be able to customize the brand name and icon and primary color of all frontend javascript apps so that i can customize the branding for my own needs
+24	i would like to be able to customize the brand name and icon and primary color of all frontend javascript apps so that i can customise the branding for my own needs
+24	as a developer i want to be able to customize the brand name and icon and primary color of all frontend javascript apps so that i can customize the branding for my own needs
+25	so i can offer functionality based on dataset publisher privileges as an api user if a user is a publisher then i want to understand '
+25	so i can offer functionality based on dataset publisher privileges as an api user if a user is a publisher then i want to understand if'
+25	so i can offer functionality based on dataset publisher privileges as an api user i want to understand if a user is a publisher'
+25	so i can offer functionality based on dataset publisher privileges as an api user'
+25	so i can offer functionality based on dataset publisher privileges as api user'
+25	if i'm an api user i want to know if a user is a publisher so i can offer functionality based on dataset publisher privileges
+25	if i'm an api user i want to understand if a user is a publisher so i can offer functionality based on dataset publisher privileges
+25	as an api user i want to understand if a user is a publisher so i can offer functionality based on dataset publisher privileges
+25	as an api user i want to be able to understand if a user is a publisher so i can offer functionality based on dataset publisher rights
+25	as an api user i want to understand if a user is a publisher so that i can offer functionality based on dataset publisher privileges
+26	so i want to understand if a user is an administrator so that i can offer functionality based on platform administration privileges i want to understand
+26	so i want to understand if a user is an administrator so that i can offer functionality based on platform administration privileges to the api user
+26	so i want to understand if a user is an administrator so i can offer functionality based on platform administration privileges
+26	if i'm an api user i want to know if a user is an administrator so i can offer functionality based on platform administration privileges
+26	so i want to understand if a user is an administrator so that i can offer functionality based on platform administrator privileges
+26	so i want to understand if a user is an administrator so that i can offer functionality based on platform administration privileges ''
+26	so i want to understand if a user is an administrator so that i can offer functionality based on platform administration privileges
+26	if i'm an api user i want to understand if a user is an administrator so i can offer functionality based on platform administration privileges
+26	as an api user i want to understand if a user is an administrator so that i can offer functionality based on platform administration privileges
+27	api user i want to be able to get bordering regionscity when i query a regioncity so i can provide a wider visual context for mapping visualisations ''
+27	api user i want to be able to get bordering regionscity when i query a regioncity so i can provide a wider visual context for mapping visualisations to
+27	api user i want to be able to get bordering regionscity when i query a regioncity so i can provide a wider visual context for mapping visualisations '
+27	api user i want to be able to get bordering regionscity when i query a regioncity so i can provide a wider visual context for mapping visualizations
+27	api user i want to be able to get bordering regionscity when i query a regioncity so i can provide a wider visual context for mapping visualisations i
+27	api user i want to be able to get bordering regionscity when i query a regioncity so i can provide a wider visual context for mapping visualisations
+27	api user i want to be able to get bordering regionscity when i query a regioncity so i can provide a wider visual context for mapping visualisations 
+27	api user i want to be able to get bordering regionscities when i query a regioncity so i can provide wider visual context for mapping visualizations
+27	api user i want to be able to get bordering regionscities when i query a regioncity so i can provide wider visual context for mapping visualisations
+27	as an api user i want to be able to get bordering regionscities when i query a regioncity so i can provide a wider visual context for mapping visualisations
+27	as an api user i want to be able to get bordering regionscities when i query a regioncity so i can provide wider visual context for mapping visualisations
+27	as an api user i want to be able to get bordering regionscities when i query a regioncity so that i can provide wider visual context for mapping visualisations
+28	as user of the api i want to be able to dynamically request polygons based on the query made so that i can provide maps that match the query
+28	as an api user i want to be able to dynamically request polygons based on the query made so that i can provide maps that match the query to the
+28	as an api user i want to be able to dynamically request polygons based on the query made so i can provide maps that match the query
+28	as user of apis i want to be able to dynamically request polygons based on the query made so that i can provide maps that match the query
+28	as user of an api i want to be able to dynamically request polygons based on the query made so that i can provide maps that match the query
+28	as an api user i want to be able to dynamically request polygons based on the query made so that i can provide maps that match the query to
+28	as an api user i want to be able to dynamically request polygons based on the query made so that i can provide maps that match the query i
+28	as an api user i want to be able to dynamically request polygons based on the query made so that i can provide maps that match the query 
+28	as an api user i want to be able to dynamically request polygons based on the query made so that i can provide maps that match the query
+29	as api user i want to have a flexible api using hasc codes for countries regions and cities to visualise budget data on maps i have
+29	as api user i want to have a flexible api using hasc codes for countries regions and cities to visualise budget data on maps i can
+29	as api user i want to have a flexible api using hasc codes for countries regions and cities to visualise budget data in maps
+29	as api user i want to have a flexible api using hasc codes for countries regions and cities to visualise budget data on map
+29	as api user i want to have a flexible api using hasc codes for countries regions and cities to visualise budget data on maps i
+29	as api user i want to have a flexible api using hasc codes for countries regions and cities to visualise budget data on maps 
+29	as api user i want to have a flexible api using hasc codes for countries regions and cities to visualise budget data on maps
+29	as api user i want to have a flexible api using hasc codes for countries regions and cities so i can see budget data on maps
+29	as an api user i want a flexible api using hasc codes for countries regions and cities so i can visualise budget data on maps
+29	as api user i want to have a flexible api using hasc codes for countries regions and cities so i can visualize budget data on maps
+29	as an api user i want a flexible api using hasc codes for countries regions and cities so that i can visualise budget data on maps
+29	as an api user i want to have a flexible api using hasc codes for countries regions and cities so i can visualise budget data on maps
+29	as an api user i want to have a flexible api using hasc codes for countries regions and cities so that i can visualise budget data on maps
+30	we need a csv output of any cube-based query to be able to use tools that read csv as an api user i want to
+30	we need a csv output of any cube-based query so i can use tools that read csv i want to be able to get
+30	we need a csv output of any cube-based query so i can use tools that read csv i want to be able to
+30	we need a csv output of any cube-based query so i can use tools that read csv i want to be able
+30	we need a csv output of any cube-based query to be able to use tools that read csv output
+30	we need a csv output of any cube-based query to be able to use tools that read csv
+30	we need a csv output of any cube-based query so i can use tools that read csv
+30	we need a csv output of any cube-based query so that we can use tools that read csv
+30	we need a csv output of any cube-based query so that i can use tools that read csv
+30	we need a csv output of any cube-based query so i can work with tools that read csv
+30	if i want to be able to get a csv output of any cube-based query so i can use tools that read csv
+30	if i want to be able to get a csv output of any cube-based query so that i can use tools that read csv
+30	as an api user i want to be able to get a csv output of any cube-based query so i can use tools that read csv
+31	if i want to get a set of currency measures transferred to different currencies i can use this in scenarios that might enable comparison by normalisation
+31	if i want to get a set of monetary measures transferred to different currencies i can use this in scenarios that might enable comparison by normalization
+31	if i want to get a set of monetary measures transferred to different currencies i can use this in scenarios that might enable comparison by normalisation
+31	if i want to be able to get a set of monetary measures transferred to different currencies i can use this in scenarios that might enable comparison by normalisation i have
+31	if i want to be able to get a set of monetary measures transferred to different currencies i can use this in scenarios which might enable comparison by normalization
+31	if i want to be able to get a set of monetary measures transferred to different currencies i can use this in scenarios which might enable comparison by normalisation i
+31	if i want to be able to get a set of monetary measures transferred to different currencies i can use this in scenarios which might enable comparison by normalisation
+31	if i want to be able to get a set of monetary measures transferred to different currencies i can use this in scenarios that might enable comparison by normalising
+31	if i want to be able to get a set of monetary measures transferred to different currencies i can use this in scenarios that might enable comparison by normalization
+31	if i want to be able to get a set of monetary measures transferred to different currencies i can use this in scenarios that might enable comparison by normalisation i
+31	if i want to be able to get a set of monetary measures transferred to different currencies i can use this in scenarios that might enable comparison by normalisation 
+31	if i want to be able to get a set of monetary measures transferred to different currencies i can use this in scenarios that might enable comparison by normalisation
+32	a user of an api i would like to be able to use metadata to get results from multiple datasets so that i can build user experiences based on more
+32	a user of an api wants metadata to get results from multiple datasets so i can build user experiences based on more than one dataset more easily
+32	if i'm an api user i want to be able to use metadata to get results from multiple datasets so that i can build user experiences based on multiple datasets
+32	a user of an api wants metadata to get results from multiple datasets so that i can build user experiences based on more than one dataset more easily
+32	as an api user i want to be able to use metadata to get results from multiple datasets so that i can build user experiences based on more than one dataset more easily and efficiently
+32	a user of an api i would like to be able to use metadata to get results from multiple datasets so i can build user experiences based on more than one dataset more easily
+32	as an api user i want to be able to use metadata to get results from multiple datasets so that i can build user experiences based on more than one dataset more easily and easily
+32	as an api user i want to be able to use metadata to get results from multiple datasets so i can build user experiences based on more than one dataset more easily
+32	as an api user i want to be able to use metadata to get results from multiple datasets so that i can build user experiences based on more than one dataset more easily 
+32	as an api user i want to be able to use metadata to get results from multiple datasets so that i can build user experiences based on more than one dataset more easily
+33	as api user i want to be able to use data to get results from multiple datasets so i can build user experiences based on more than one dataset more easily and efficiently
+33	as api user i want to use data to get results from multiple datasets so i can build user experiences based on more than one dataset more easily
+33	as api user i want to use data to get results from multiple datasets so that i can build user experiences based on more than one dataset easily
+33	as api user i want to be able to use data to get results from multiple datasets so i can build user experiences based on multiple datasets more easily
+33	as api user i want to be able to use data to get results from multiple datasets so i can build user experiences based on more than one dataset easily
+33	as api user i want to be able to use data to get results from multiple datasets so i can build user experiences based on more than one dataset more easily 
+33	as api user i want to be able to use data to get results from multiple datasets so i can build user experiences based on more than one dataset more easily
+33	as an api user i want to be able to use data to get results from multiple datasets so i can build user experiences based on more than one dataset more easily
+33	as an api user i want to be able to use data to get results from multiple datasets so that i can build user experiences based on more than one dataset more easily
+34	i want to be able to normalise measures by population so that i can work with datasets in reference to their contextual constraints
+34	i want to be able to normalise measures by population so that i work with datasets in reference to their contextual constraints
+34	api user i want to be able to normalise measures by population so that i work with datasets in relation to their contextual constraints
+34	api user i want to be able to normalise measures by population so i can work with datasets in reference to their contextual constraints 
+34	api user i want to be able to normalise measures by population so i can work with datasets in reference to their contextual constraints
+34	api user i want to be able to normalise measures by population so that i work with datasets in reference to their contextual constraints i have
+34	api user i want to be able to normalise measures by population so that i work with datasets in reference to their contextual constraints -
+34	api user i want to be able to normalise measures by population so that i work with datasets in reference to their contextual constraints 
+34	as an api user i want to be able to normalise measures by population so i can work with datasets in reference to their contextual constraints
+34	api user i want to be able to normalise measures by population so that i work with datasets in reference to their contextual constraints
+34	as an api user i want to be able to normalise measures by population so that i work with datasets in reference to their contextual constraints
+35	i want to be able to normalise measures by geographical area so i can work with datasets in reference to their contextual constraints
+35	i want to be able to normalise measures by geographical area so that i can work with datasets in reference to their contextual constraints
+35	i want to be able to normalise measures by geographical area so that i work with datasets in reference to their contextual constraints
+35	api user i want to be able to normalise measures by geographical area so i can work with datasets in reference to their contextual constraints 
+35	api user i want to be able to normalise measures by geographical area so i can work with datasets in reference to their contextual constraints
+35	api user i want to be able to normalise measures by geographical area so that i can work with datasets in reference to their contextual constraints 
+35	api user i want to be able to normalise measures by geographical area so that i can work with datasets in reference to their contextual constraints
+35	as an api user i want to be able to normalise measures by geographical area so i can work with datasets in reference to their contextual constraints
+35	api user i want to be able to normalise measures by geographical area so that i work with datasets in reference to their contextual constraints 
+35	api user i want to be able to normalise measures by geographical area so that i work with datasets in reference to their contextual constraints
+35	as an api user i want to be able to normalise measures by geographical area so that i work with datasets in reference to their contextual constraints
+36	if i want to normalise gdp measures as an api user i work with datasets in reference to their context constraints
+36	if i want to normalise gdp measures as an api user i work with datasets in reference to their contextual constraints
+36	if i want to normalise measures by gdp i work with datasets in relation to their contextual constraints
+36	if i want to normalise measures by gdp i work with datasets in reference to their context constraints
+36	if i want to normalise measures by gdp i work with datasets in reference to their contextual constraints
+36	i want to be able to normalise measures by gdp so i work with datasets in relation to their contextual constraints
+36	i want to be able to normalise measures by gdp so i work with datasets in reference to their context constraints
+36	i want to be able to normalise measures of gdp so i work with datasets in reference to their contextual constraints
+36	api user i want to be able to normalise measures by gdp so i work with datasets in relation to their context constraints
+36	i want to be able to normalise measures by gdp so i work with datasets in reference to their contextual constraints
+36	api user i want to be able to normalise measures by gdp so i work with datasets in relation to their contextual constraints
+36	api user i want to be able to normalise measures by gdp so i work with datasets in reference to contextual constraints
+36	api user i want to be able to normalise measures by gdp so i work with datasets in reference to their context constraints
+36	api user i want to be able to normalise measures by gdp so i work with datasets in reference to their contextual constraints
+37	so that i can work with datasets in reference to their contextual constraints as an api user i want to be able to normalise measures by gini and related socioeconomic indexes'
+37	so that i can work with datasets in respect of their contextual constraints as an api user i want to be able to normalise measures by gini and related socioeconomic indexes'
+37	so that i can work with datasets in terms of their contextual constraints as an api user i want to be able to normalise measures by gini and related socioeconomic indexes'
+37	so that i can work with datasets in terms of contextual constraints as an api user i want to be able to normalise measures by gini and related socioeconomic'
+37	so that i can work with datasets in terms of contextual constraints as an api user i want to be able to normalise measures by gini and related socioeconomic indexes'
+37	i want to be able to normalise measures by gini and related socioeconomic indexes so i can work with datasets in reference to their contextual constraints
+37	i want to be able to normalise measures by gini and related socioeconomic indexes so that i can work with datasets in reference to their contextual constraints
+37	i want to be able to normalise measures by gini and related socioeconomic indexes so that i work with datasets in reference to their contextual constraints
+37	as an api user i want to be able to normalise measures by gini and related socioeconomic indexes so i can work with datasets in reference to their contextual constraints
+37	as an api user i want to be able to normalise measures by gini and related socioeconomic indexes so that i can work with datasets in reference to their contextual constraints
+37	as an api user i want to be able to normalise measures by gini and related socioeconomic indexes so that i work with datasets in reference to their contextual constraints
+38	if i want to get a relative percentage of a measure to total the dataset it comes from i can build alternative displays of the data i'm not sure
+38	if i want to get a relative percentage of a measure to the total dataset it comes from i can build alternative displays of the data i'm not sure
+38	if i want to get a relative percentage of a measure to the total dataset it comes from i can build alternative displays of the data i can also
+38	if i want to get a relative percentage of a measure to total the dataset it comes from i can build alternative displays of the data i have
+38	if i want to get a relative percentage of a measure to the total dataset it comes from i can build alternative displays of the data i have
+38	if i want to get a relative percentage of a measure to total the dataset it comes from i need to build alternative displays of the data
+38	if i want to get a relative percentage of a measure to the total dataset it comes from i need to build alternative displays of the data
+38	if i want to get a relative percentage of a measure to the total dataset it comes from i want to build alternative displays of the data
+38	if i want to get a relative percentage of a measure to the total dataset it comes from i can build alternative displays of the data
+38	if i want to get a relative percentage of a measure to total the dataset it comes from i can build alternative displays of the data
+38	so as an api user i want to get a relative percentage of a measure to the total dataset from which it comes from so i can build alternative displays of the
+38	so as an api user i want to get a relative percentage of a measure to the total dataset it comes from so i can build alternative displays of the
+38	so as an api user i want to get a relative percentage of a measure to the total dataset it comes from so i can build alternative display of the data
+38	so as an api user i want to get a relative percentage of a measure to the total dataset it comes from so i can build alternative displays of the data
+38	so as an api user i want to get a relative percentage of a measure to the total dataset it comes from so that i can build alternative displays of the
+39	persistently storing visualisation state in the database as an api user so that such can be shared more easily and contribute to a visualisation gallery can be
+39	persistently store visualisation state in the database as an api user so that such can be shared more easily and contribute to a visualisation
+39	persistently store visualisation state in the database so that such can be shared more easily and contribute to a visualisation gallery as an api user i want
+39	persistently storing visualisation state in the database as an api user so that such can be shared more easily and contribute to a visualisation gallery
+39	persistently store visualisation state in the database as an api user so that such can be shared more easily and contribute to visualisation gallery
+39	persistently store visualisation state in the database as an api user so that such can be shared more easily and contribute to a visualisation gallery
+39	persistently store visualisation state in the database so that such can be shared more easily and contribute to a visualisation gallery as an api user
+39	persistently store visualisation state in the database so that such can be shared easily and contribute to a visualisation gallery
+39	persistently store visualisation state in the database so that such can be shared more easily and contribute to a visualisation gallery
+39	as a api user i want to be able to persistently store state of visualisation in the database so that such can be shared more easily and contribute to a visual
+39	as a api user i want to be able to store visualisation state in the database so that such can be shared easily and contribute to a visualisation gallery
+39	as a api user i want to be able to store visualisation state in the database so that such can be shared more easily and contribute to a visualisation gallery
+40	data publishing user i want to have my dataset updated automatically as the source file changes so that openspending always shows the current data
+40	data publishing user i want to have my dataset update automatically as the source file changes so that openspending always shows the current data
+40	data publishing user i want to have my dataset updated automatically as the source file changes so that openspending always shows current data
+40	as a data publishing user i want to have my dataset updated automatically as the source file changes so that openspending always shows the current data
+40	as a data publishing user i want to have my dataset updated automatically as the source filefiles changes so that openspending always shows the current
+40	data publishing user i want to have my dataset update automatically as the source file changes so that openspending always shows current data
+40	as a data publishing user i want to have my dataset updated automatically as the source filefiles changes so that openspending always shows current information
+40	as a data publishing user i want to have my dataset updated automatically as the source filefiles changes so that openspending always shows actual data
+40	data publishing user i want to have my dataset updated automatically as the source filefile changes so that openspending always shows current data
+40	as a data publishing user i want to have my dataset updated automatically as the source file changes so that openspending always shows current data
+40	as a data publishing user i want to have my dataset updated automatically as the source filefiles changes so that openspending always shows the current data
+40	as a data publishing user i want to have my dataset update automatically as the source file changes so that openspending always shows current data
+40	as a data publishing user i want to have my dataset updated automatically as the source filefiles changes so that openspending always shows current data
+41	i would like to have a blog that highlights any and all projects in the open fiscal space so i can relate to openspendingorg as the central hub of fiscal openness
+41	i would like to have a blog that highlights any and all projects in the open fiscal space so that i can relate to openspendingorg as the central hub of fiscal openness
+41	a member of the openspending community i want a blog that highlights any and all projects in the open fiscal space so i can relate to openspendingorg as the central hub of fiscal transparency
+41	as a member of the openspending community i want to have a blog that highlights any and all projects in the open fiscal space so i can relate to openspendingorg as the central hub of fiscal transparency
+41	a member of the openspending community i want a blog that highlights any and all projects in the open fiscal space so i can relate to openspendingorg as the central hub of fiscal openness
+41	a member of the openspending community i want to have a blog that highlights any and all projects in the open fiscal space so that i can relate to openspendingorg as the central hub of fiscal
+41	as a member of the openspending community i want to have a blog that highlights any and all projects in the open fiscal space so i can relate to openspendingorg as the central hub of fiscal openness
+41	a member of the openspending community i want to have a blog that highlights any and all projects in the open fiscal space so that i can relate to openspendingorg as the central hub of fiscal open
+41	a member of the openspending community i want to have a blog that highlights any and all projects in the open fiscal space so that i can relate to openspendingorg as the central hub of fiscal openness
+41	as an openspending community member i want to have a blog that highlights any and all projects in the open fiscal space so i can relate to openspendingorg as the central hub of fiscal openness
+41	as an openspending community member i want to have a blog that highlights any and all projects in the open fiscal space so that i can relate to openspendingorg as the central hub of fiscal openness
+42	i would like to be able to set my own username so that my data can be easily found
+42	i would like to be able to set my own username so that my data would be more easily accessible
+42	i would like to be able to set my own username so that my data is easily accessible
+42	i would like to be able to set my own username so that my data would be more easily discoverable
+42	i would like to be able to set my own username so that my data is more easily accessible
+42	i would like to be able to set my own username so that my data is more easily discoverable
+42	as a user i want to be able to set my own username so that my data is more easily accessible
+42	as a user i want to be able to set my own username so that my data is more easily discoverable i have
+42	as a user i want to be able to set my own username so that my data is easily discoverable
+42	as a user i want to be able to set my own username so that my data is more easily discoverable 
+42	as a user i want to be able to set my own username so that my data is more easily discoverable
+43	if i want to add a dataset in a hidden state i can work on a dataset before having it discoverable through openspending user interfaces
+43	if i want to add a dataset in a hidden state i can work on a dataset before having it discoverable via openspending user interfaces i have
+43	if i want to add a dataset in a hidden state i can work on a dataset before it is discoverable via openspending user interfaces
+43	if i want to add a dataset in a hidden state i can work on a dataset before having it discoverable via the openspending user interface i
+43	if i want to add a dataset in a hidden state i can work on a dataset before having it discoverable via the openspending user interface
+43	if i want to add a dataset in a hidden state i can work on a dataset before having it discoverable via the openspending user interfaces
+43	if i want to add a dataset in a hidden state i can work on a dataset before having it discoverable via openspending user interface
+43	if i want to add a dataset in a hidden state i can work on a dataset before having it discoverable via openspending user interfaces i
+43	if i want to add a dataset in a hidden state i can work on a dataset before having it discoverable via openspending user interfaces 
+43	if i want to add a dataset in a hidden state i can work on a dataset before having it discoverable via openspending user interfaces
+43	i want to be able add a dataset in a hidden state so i can work on a dataset before having it discoverable via the openspending user interface
+43	i want to be able add a dataset in a hidden state so that i can work on a dataset before having it discoverable via the openspending user interface
+43	i want to be able add a dataset in a hidden state so i can work on a dataset before having it discoverable via openspending user interfaces
+43	i want to be able add a dataset in a hidden state so that i can work on a dataset before having it discoverable via openspending user interfaces
+44	if i want to hide a dataset that i already added as public i want to be able to fix my mistakes or have a dataset primarily for myself
+44	if i want to hide a dataset that i have already added as public i want to be able to fix my mistakes or have a dataset mainly for my own use
+44	if i want to hide a dataset that i already added as public i want to be able to fix my mistakes or have a dataset primarily for my own use
+44	if i want to hide a dataset that i have already added as public i want to be able to fix my mistakes or have a dataset primarily for my own usage
+44	if i want to hide a dataset that i have already added as public i want to be able to fix my mistakes or have a dataset primarily for my own use i
+44	if i want to hide a dataset that i have already added as public i want to be able to fix my mistakes or have a dataset primarily for my own use
+44	if i want to hide a dataset that i have already added as public i want to be able to fix my mistakes or have a dataset primarily for my own use 
+44	if i want to hide a dataset i have already added as public i can fix my mistakes or have a dataset primarily for my own use
+44	if i want to hide a dataset that i already added as public i can fix my mistakes or have a dataset primarily for my own use
+44	if i want to hide a dataset that i have already added as public i can fix my mistakes or have a dataset primarily for my own use
+44	data publishing user i want to be able to hide a dataset that i have already added as public so i can fix my mistakes or have a dataset primarily for my own use
+44	data publishing user i want to be able to hide a dataset that i already added as public so that i can fix my mistakes or have a dataset primarily for my own use
+45	i want a view on all the datasets i have published so that i can perform management actions on my own datasets i am a data publisher
+45	i want a view on all the datasets i have published so that i can perform management actions on my own datasets i want to have a
+45	i want a view on all the datasets i have published so that i can perform management actions on my own datasets i want to have 
+45	if i want to have a view on all datasets i have published so that i can perform management actions on my own datasets i have published
+45	i want a view on all the datasets i published so i can perform management actions on my own datasets
+45	i want a view on all datasets i have published so i can perform management actions on my own datasets
+45	i want a view on all the datasets i have published so i can perform management actions on my own datasets ''
+45	i want a view of all the datasets i have published so i can perform management actions on my own datasets
+45	i want a view on all the datasets i have published so i can perform management actions on my own datasets
+45	i want a view on all the datasets i have published so that i can perform management actions on my own datasets ''
+45	i want a view on all the datasets i have published so that i can perform management actions on my own dataset
+45	i want a view on all the datasets i have published so that i can perform management actions on my own datasets
+45	if i want to have a view on all datasets i have published so that i can perform management actions on my own datasets
+45	as a data publishing user i want a view on all the datasets i have published so i can perform management actions on my own datasets
+45	as a data publishing user i want to have a view on all the datasets i have published so i can perform management actions on my own dataset
+46	data publishing user i want to have a working python client so that i can add data to the database in bulk from the command line or my own programs i have
+46	data publishing user i want to have a working python client so i can add data to the database in bulk from the command line or my own programs
+46	data publishing user i want to have a working python client so that i can add data to the database in bulk from the command line or my own programs i
+46	data publishing user i want to have a working python client so that i can add data to the database in bulk from the command line or my own programs
+46	data publishing user i want to have a functioning python client so that i can add data to the database in bulk from the command line or my own programs i have
+46	data publishing user i want to have a functioning python client so i can add data to the database in bulk from the command line or my own programs
+46	as a data publishing user i want to have a working python client so i can add data to the datastore in bulk from the command line or my own programs
+46	data publishing user i want to have a functioning python client so that i can add data to the database in bulk from the command line or my own programs i
+46	data publishing user i want to have a functioning python client so i can add data to the datastore in bulk from the command line or my own programs
+46	data publishing user i want to have a functioning python client so that i can add data to the database in bulk from the command line or my own programs 
+46	data publishing user i want to have a functioning python client so that i can add data to the database in bulk from the command line or my own programs
+46	as a data publishing user i want to have a functioning python client so i can add data to the datastore in bulk from the command line or my own programs
+47	i would like to have an app where i can find examples of use of fiscal data visualisations so i can find guidance in creating my own with open spending
+47	i would like to have an app where i can find examples of use of fiscal data visualisations so that i can find guidance in creating my own with openspending
+47	i would like to have an app where i can find examples of use of fiscal data visualisations so that i can find guidance in creating my own with open spending
+47	a member of the openspending community i want an app where i can find examples of use of fiscal data visualisations so i can find guidance in creating my own with open
+47	a member of the openspending community i want an app where i can find examples of use of fiscal data visualisations so i can find guidance in creating my own using open spending
+47	a member of the openspending community i want an app where i can find examples of use of fiscal data visualisations so i can find guidance in creating my own with openspending
+47	a member of the openspending community i want an app where i can find examples of use of fiscal data visualisations so i can find guidance in creating my own with open spending
+47	as a member of the openspending community i want to have an app where i can find examples of use of fiscal data visualisations so that i can find guidance in creating my own with open
+47	a member of the openspending community i want to have an app where i can find examples of use of fiscal data visualisations so that i can find guidance in creating my own with open spend
+47	a member of the openspending community i want to have an app where i can find examples of use of fiscal data visualisations so that i can find guidance in creating my own with open spending
+47	as an openspending community member i want to have an app where i can find examples of use of fiscal data visualisations so i can find guidance in creating my own with open spending
+47	as an openspending community member i want to have an app where i can find examples of use of fiscal data visualisations so that i can find guidance in creating my own with open spending
+48	data publishing user i want to know if my csv file is valid so i can fix possible data issues before publishing it on open spending i have
+48	data publishing user i want to know if my csv file is valid so i can fix possible data issues before publishing it on open spending i can
+48	data publishing user i want to know if my csv file is valid so i can fix possible data issues before publishing it to open spending
+48	data publishing user i want to know if my csv file is valid so i can fix possible data issues before publishing it on open spendingcom
+48	data publishing user i want to know if my csv file is valid so i can fix possible data issues before publishing it on open spending i
+48	data publishing user i want to know if my csv file is valid so i can fix possible data issues before publishing it on open spending 
+48	data publishing user i want to know if my csv file is valid so i can fix possible data issues before publishing it on open spending
+48	data publishing user i want to know if my csv file is valid so that i can fix possible data issues before publishing it on open spending
+48	as a data publishing user i want to know if my csv file is valid so i can fix possible data issues before publishing it on open spending
+49	as the data consumer i want to be able to search any dataset published and publicly accessible by their title and metadata so i can find the datasets in which i am interested
+49	as the data consumer i want to be able to search any dataset published and publicly accessible by their title and metadata so i can find the dataset i'm interested
+49	as the data consumer i want to be able to search any dataset published and publicly accessible by their title and metadata so i can find the datasets i'm interested
+49	as the data consumer i want to be able to search any dataset published and publicly accessible by their title and metadata so i can find the datasets i'm interested in the
+49	as the data consumer i want to be able to search any dataset published and publicly accessible by their title and metadata so i can find the dataset i am interested in
+49	as the data consumer i want to be able to search any dataset published and publicly accessible by their title and metadata so i can find the datasets i'm interested in but
+49	as the data consumer i want to be able to search any dataset published and publicly accessible by their title and metadata so i can find the datasets i am interested in
+49	as the data consumer i want to be able to search any dataset published and publicly accessible by their title and metadata so i can find the datasets i'm interested in if
+49	as the data consumer i want to be able to search any dataset published and publicly accessible by their title and metadata so i can find the dataset i'm interested in
+49	as the data consumer i want to be able to search any dataset published and publicly accessible by their title and metadata so i can find the dataset i'm interested in 
+49	as the data consumer i want to be able to search any dataset published and publicly accessible by their title and metadata so i can find the datasets i'm interested in 
+49	as the data consumer i want to be able to search any dataset published and publicly accessible by their title and metadata so i can find the datasets i'm interested in
+49	as a data consumption user i want to be able to search any dataset published and publicly accessible by their title and metadata so i can find the datasets i'm interested in
+50	data consuming user i want to visualize the most recent year by default in treemap bubble tree map and pivot table when my dataset contain multiple years so i'm not confused
+50	data consuming user i want to visualize the most recent year by default in treemap bubble tree map and pivot table when my dataset contain multiple years so i don't confuse the amounts i
+50	data consuming user i want to visualize the most recent year by default in treemap bubble tree map and pivot table when my dataset contain multiple years so i don't confuse the amounts
+50	data consuming user i want to visualize the most recent year by default in treemap bubble tree map and pivot table when my dataset contain multiple years so i'm not confused with amounts
+50	data consuming user i want to visualize the most recent year by default in treemap bubble tree map and pivot table when my dataset contain multiple years so i'm not confused with the amounts
+50	by default i want to visualize in treemap bubble tree map and pivot table the most recent year when my dataset contain multiple years so i don't confuse the amounts
+50	by default i want to visualize in treemap bubble tree map and pivot table the most recent year when my dataset contain multiple years so that i don't confuse the amounts
+50	by default i want to visualize in treemap bubble tree map and pivot table the most recent year when my dataset contain multiple years so that i'm not confused with the amounts
+50	as data consuming user i want to visualize by default in treemap bubble tree map and pivot table the most recent year when my dataset contain multiple years so i don't confuse the amounts
+50	as data consuming user i want to visualize by default in treemap bubble tree map and pivot table the most recent year when my dataset contain multiple years so i don't confuse with the amounts
+50	as data consuming user i want to visualize by default in treemap bubble tree map and pivot table the most recent year when my dataset contain multiple years so i'm not confused with the amount
+50	as data consuming user i want to visualize by default in treemap bubble tree map and pivot table the most recent year when my dataset contain multiple years so i'm not confused with the amounts
+51	if i want to change the colors of embedded visualisations in my own platform i want to be able to customize them
+51	if i want to change the colors of embedded visualisations in my own platform i want to be able to customize the visualisations in my own
+51	if i want to change the colors of embedded visualisations in my own platform i need to be able to customize the visualisation
+51	if i want to change the colors of embedded visualisations in my own platform i want to be able to customize the visualisation
+51	if i want to change the colors of embedded visualisations in my own platform i need to be able to customize the visualisations
+51	if i want to change the colors of embedded visualisations in my own platform i want to be able to customize the visualizations
+51	if i want to change the colors of embedded visualisations in my own platform i want to be able to customize the visualisations
+51	if i want to change the colors of embedded visualisations in my own platform i need to customize the visualisations
+51	if i want to change the colors of embedded visualisations in my own platform i can customize the visualisations
+51	as an api user i want to be able to change the colors of embedded visualisations in my own platform so i can customize the visualisations
+51	as an api user i want to be able to change the colors of the embedded visualisations in my own platform so i can customize the visualisations
+51	as an api user i want to be able to change the colors of embedded visualisations in my own platform so that i can customize the visualisations
+51	as an api user i want to be able to change the colors of the embedded visualisations in my own platform so that i can customize the visualisation
+51	as an api user i want to be able to change the colors of the embedded visualisations in my own platform so that i can customize the visualisations
+52	if i want to change the styling of the embedded viewer in my own platform i need to be able to brand it according to my own organisation's color scheme
+52	if i'm an api user i want to be able to change some of the styling of the embedded viewer in my own platform so i can brand it according to my own organisation's color scheme
+52	if i'm an api user i want to be able to change some of the styling of the embedded viewer in my own platform so i can brand it to my own organisation's colour scheme
+52	if i'm an api user i want to be able to change some of the styling of the embedded viewer in my own platform so i can brand it to my own organisation's color scheme
+52	as an api user i want to be able to change some of the styling of the embedded viewer in my own platform so i can brand it to my own organisation's color scheme
+52	as an api user i want to be able to change some of the styling of the embedded viewer in my own platform so that i can brand it to my own organisation's color scheme ''
+52	as an api user i want to be able to change some of the styling of the embedded viewer in my own platform so that i can brand it to my own organisation's color scheme 
+52	as an api user i want to be able to change some of the styling of the embedded viewer in my own platform so that i can brand it to my own organisation's color scheme
+53	platform administrator i want to be able to translate the data types hierarchy of viewer while in embed mode so that my users can understand the interface in their native language
+53	platform administrator i want to be able to translate data types hierarchies of the viewer while in embed mode so that my users can understand the interface in their native language i
+53	platform administrator i want to be able to translate the data types hierarchy of the viewer while in embed mode so that my users can understand the interface in their native language ''
+53	platform administrator i want to be able to translate data types hierarchies of the viewer while in embed mode so that my users can understand the interface in their native language 
+53	platform administrator i want to be able to translate the data types hierarchy of the viewer while in embed mode so that my users can understand the interface in their native language i
+53	platform administrator i want to be able to translate data types hierarchies of the viewer while in embed mode so that my users can understand the interface in their native language
+53	platform administrator i want to be able to translate data types hierarchies of the viewer while in embed mode so that my users can understand the interface in their native languages
+53	platform administrator i want to be able to translate the data types hierarchy of the viewer while in embed mode so that my users can understand the interface in their native language
+53	platform administrator i want to be able to translate the data types hierarchy of the viewer while in embed mode so that my users can understand the interface in their native language 
+53	as the platform administrator i want to be able to translate the data types hierarchy of the viewer while in embed mode so that my users can understand the interface in their native language
+53	as a platform administrator i want to be able to translate the data types hierarchy of the viewer while in embed mode so that my users can understand the interface in their native language
+53	as the platform administrator i want to be able to translate the data type hierarchies of the viewer while in embed mode so that my users can understand the interface in their native language

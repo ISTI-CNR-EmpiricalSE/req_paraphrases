@@ -1,0 +1,1397 @@
+1	the archivist i want to apply a license or rights statement so i know what to do with the file
+1	the archivist i want to apply a license or rights statement so i know what i can do with a document
+1	the archivist i want to apply a license or rights statement so i know what to do with a file
+1	as a archivist i want to apply a license or rights statement so i know what i can do with a document
+1	the archivist i want to apply a license or rights statement to know what i can do with a file
+1	the archivist i want to apply a license or rights statement so i know what i can do with the file
+1	as an archivist i want to apply a license or rights statement to know what i can do with a file
+1	the archivist i want to apply a license or rights statement so i know what i can do with a file 
+1	as archivist i want to apply a license or rights statement so i know what i can do with a file
+1	the archivist i want to apply a license or rights statement so i know what i can do with a file
+1	as an archivist i want to apply a license or rights statement so that i know what i can do with a document
+1	as a archivist i want to apply a license or rights statement so i know what i can do with a file
+1	as an archivist i want to apply a license or rights statement so i know what i can do with a file
+1	as an archivist i want to apply a license or rights statement so that i know what i can do with a file
+2	my job is to mark individual files as restricted so that they are not shared by mistake
+2	my job is to mark individual files as restricted so that they don't get shared by accident
+2	my job is to mark individual files as restricted so that they can't be shared by mistake
+2	my job is to mark individual files as restricted so that they won't be shared by mistake
+2	my job is to mark individual files as restricted so that they don't be shared by mistake
+2	my job is to mark individual files as restricted so that they don't get shared by mistake ''
+2	my job is to mark individual files as restricted so that they don't get shared by mistake
+2	as a archivist i want to mark individual files as restricted so that they don't get shared by accident
+2	as a archivist i want to mark individual files as restricted so that they don't get shared by error
+2	as an archivist i want to mark individual files as restricted so they don't get shared by mistake
+2	as archivist i want to mark individual files as restricted so that they don't get shared by mistake
+2	as an archiver i want to mark individual files as restricted so that they don't get shared by mistake
+2	as a archivist i want to mark individual files as restricted so that they don't get shared by mistake
+2	as an archivist i want to mark individual files as restricted so that they don't get shared by mistake
+3	the archivist wants to mark groups of files as restricted so they don't get shared by mistake
+3	the archivist i want to mark groups of files as restricted so that they don't get shared by accident
+3	the archivist wants to mark groups of files as restricted so that they won't be shared by mistake
+3	as a archivist i want to mark groups of files as restricted so that they don't get shared by accident
+3	as a archivist i want to mark groups of files as restricted so that they don't get shared by error
+3	the archivist wants to mark groups of files as restricted so that they don't get shared by mistake ''
+3	the archivist i want to mark groups of files as restricted so they don't get shared by mistake
+3	the archivist wants to mark groups of files as restricted so that they don't get shared by mistake
+3	as an archivist i want to mark groups of files as restricted so they don't get shared by mistake
+3	the archivist i want to mark groups of files as restricted so that they don't get shared by mistake
+3	as archivist i want to mark groups of files as restricted so that they don't get shared by mistake
+3	as an archiver i want to mark groups of files as restricted so that they don't get shared by mistake
+3	as a archivist i want to mark groups of files as restricted so that they don't get shared by mistake
+3	as an archivist i want to mark groups of files as restricted so that they don't get shared by mistake
+4	my job is to restrict the view of the file
+4	my job is to restrict the view of an archive
+4	the archivist wants to restrict a file's view to a certain extent
+4	the archivist wants to restrict a file from being seen
+4	as an archivist i want to restrict the view of a file
+4	the archivist wants to restrict a file from being read
+4	the archivist wants to restrict a file from being viewed
+4	the archivist wants to restrict a file's view
+4	as a archivist i want to restrict a file from being viewed
+4	as a archivist i want to restrict a file from being seen
+4	as an archivist i want to restrict a file from being seen
+4	the archivist wants to restrict a file from view
+4	as archivist i want to restrict a file from view
+4	as a archivist i want to restrict a file from view
+4	as an archivist i want to restrict a file from view
+5	my job as an archivist is to limit the access to a group of files
+5	my job as an archivist is to limit the view on a group of files
+5	my job as an archivist is to limit the view of a group of files
+5	my job as an archivist is to restrict the view on a group of files
+5	as a archivist i want to restrict a group of files from being seen
+5	as a archivist i want to restrict a group of files from being viewed
+5	as an archivist i want to restrict a group of files from being seen
+5	as an archivist i want to restrict a group of files from being viewed
+5	when i'm an archivist i want to limit a group of files from view
+5	as archivist i want to restrict a group of files from view
+5	as an archiver i want to restrict a group of files from view
+5	if i'm an archivist i want to restrict a group of files from view
+5	as a archivist i want to restrict a group of files from view
+5	as an archivist i want to restrict a group of files from view
+5	when i'm an archivist i want to restrict a group of files from view
+6	i want to set a date on which restrictions will be removed from a file so i don't have to update this manually
+6	i want to set a date on which restrictions will be removed from a file so that i don't have to update this by hand
+6	the archivist wants to set a date on which restrictions will be removed from a file so i don't have to update it by hand
+6	the archivist wants to set a date on which restrictions will be removed from a file so that i don't have to update this manually
+6	as an archivist i want to set a date on which restrictions will be removed from a file so i don't have to update this manually
+6	the archivist wants to set a date on which restrictions will be removed from a file so i don't have to update this by hand
+6	the archivist wants to set a date on which restrictions will be removed from a file so that i don't have to update it by hand
+6	the archivist wants to set a date on which restrictions will be removed from a file so that i don't have to update this by hand i
+6	as a archivist i want to set a date on which restrictions will be removed from a file so that i don't have to update this manually
+6	as an archivist i want to set a date on which restrictions will be removed from a file so that i don't have to update this manually
+6	the archivist wants to set a date on which restrictions will be removed from a file so that i don't have to update this by hand 
+6	the archivist wants to set a date on which restrictions will be removed from a file so that i don't have to update this by hand
+6	as an archivist i want to set a date on which restrictions will be removed from a file so i don't have to update this by hand
+6	as a archivist i want to set a date on which restrictions will be removed from a file so that i don't have to update this by hand
+6	as an archivist i want to set a date on which restrictions will be removed from a file so that i don't have to update this by hand
+7	please add restriction date information to files as an archivist so that i can share files when they are opened
+7	please add restriction date information to files as an archivist so that i can share files when they are open
+7	please add restriction date information to files as an archivist so that i can share files when they become open
+7	please add restriction end date information in files so i can share files when they open
+7	please add restriction end date information in files so i can share files when they're open
+7	please add restriction end date information in files so i can share files when they are open
+7	please add restriction end date information in files so i can share files when they become open
+7	if i want to add restriction end date information to a file i can share files when they become open
+7	as an archivist i want to add restriction end date information to files so i can share files when they open
+7	as an archivist i want to add restriction end date information to files so i can share files when they are open
+7	as an archivist i want to add restriction end date information to files so that i can share files when they become available
+7	as archivist i want to add restriction end date information to files so i can share files when they become open
+7	as an archivist i want to add restriction end date information to files so i can share files when they become open
+7	as an archivist i want to add restriction end date information to files so that i can share files when they become opened
+7	as an archivist i want to add restriction end date information to files so that i can share files when they become open
+8	i want to add detailed restrictions on groups of files so i know if and how they can be shared
+8	if i want to share files as archivist i want to add detailed restrictions to groups of files so i know if and how they can be
+8	as an archivist i want to add detailed restrictions to groups of files so i know if and how they can be shared with others
+8	as an archivist i want to add detailed restrictions to groups of files so that i know if and how they can be shared with others
+8	as archivist i want to add detailed restrictions to groups of files so i know if and how they can be shared
+8	as an archiver i want to add detailed restrictions to groups of files so i know if and how they can be shared
+8	in my role as archivist i want to add detailed restrictions on groups of files so i know if and how they can be shared
+8	as an archivist i want to add detailed restrictions to groups of files so i know if and how they can be shared ''
+8	as a archivist i want to add detailed restrictions to groups of files so i know if and how they can be shared
+8	in my role as archivist i want to add detailed restrictions to groups of files so i can know if and how they can be shared
+8	in my role as archivist i want to add detailed restrictions to groups of files so i know if and how they can be shared
+8	as an archivist i want to add detailed restrictions to groups of files so i know if and how they can be shared
+8	as an archivist i want to add detailed restrictions to groups of files so that i know if and how they can be shared
+8	in my role as archivist i want to add detailed restrictions to groups of files so that i know if and how they can be shared
+9	if i want to restrict access to some files by ip address i can only give reading room access to certain digital files
+9	the archivist i want to restrict access to some files by ip address so i can only give reading room access to certain digital files
+9	the archivist i want to restrict access to some files by ip address so i can give reading room access only to some digital files
+9	the archivist wants to restrict the access to some files by ip address so i can give reading room access only to certain digital files
+9	the archivist i want to restrict access to some files by ip address so i can give reading room access only to certain digital files i have
+9	as an archivist i want to restrict access to some files by ip address so i can only give reading room access to certain digital files
+9	as archivist i want to restrict access to some files by ip address so that i can only give reading room access to certain digital files
+9	the archivist i want to restrict access to some files by ip address so i can give the reading room access only to certain digital files
+9	the archivist i want to restrict access to some files by ip address so i can give reading room access only to certain digital files ''
+9	as an archivist i want to restrict access to some files by ip address so that i can only give reading room access to certain digital files
+9	the archivist i want to restrict access to some files by ip address so i can give reading room access only to certain digital files i
+9	the archivist i want to restrict access to some files by ip address so i can give reading room access only to certain digital files
+9	the archivist i want to restrict access to some files by ip address so i can give reading room access only to certain digital files 
+9	as an archivist i want to restrict access to some files by ip address so i can give reading room access only to certain digital files
+9	as an archivist i want to restrict access to some files by ip address so that i can give reading room access only to certain digital files
+10	i want to restrict access to certain files by user so that i can allow donor representatives to see certain files i am an archivist
+10	i want to restrict access to certain files by the user so i can allow donor representatives to see certain files
+10	as an archivist i want to restrict access to certain files by the user so i can allow donors to see certain files
+10	i want to restrict access to certain files by users so i can allow donor representatives to see certain files
+10	i want to restrict access to certain files by user so i can allow donor representatives to see certain files
+10	i want to restrict access to certain files by users so that i can allow donor representatives to see certain files ''
+10	i want to restrict access to certain files by user so that i can allow donor representatives to see certain files ''
+10	i want to restrict access to certain files by users so that i can allow donor representatives to see certain files
+10	i want to restrict access to certain files by user so that i can allow donor representatives to see certain files
+10	as an archivist i want to restrict access to certain files by the user so that i can allow donor representatives to see certain documents
+10	as an archivist i want to restrict access to certain files by the user so that i can allow donor representatives to see certain records
+10	as an archivist i want to restrict access to certain files by the user so i can allow donor representatives to see certain files
+10	as an archivist i want to restrict access to certain files by user so i can allow donor representatives to see certain files
+10	as an archivist i want to restrict access to certain files by the user so that i can allow donor representatives to see certain files
+10	as an archivist i want to restrict access to certain files by user so that i can allow donor representatives to see certain files
+11	the archivist wants to know whether a photo has been scanned so i can license it to a researcher
+11	the archivist wants to know whether a photo has already been scanned so i can give it to a researcher
+11	the archivist wants to know whether a photo has already been scanned so i can license it to a researcher ''
+11	the archivist wants to know whether a photo has already been scanned so i can license it to a researcher
+11	the archivist wants to know whether a photo has already been scanned so that i can license it to a researcher
+11	as an archivist i want to know if a photograph has already been scanned so i can license it to a researcher
+11	as archivist i want to know if a photo has already been scanned so i can license it to a researcher
+11	as an archiver i want to know if a photo has already been scanned so i can license it to a researcher
+11	as an archivist i want to know if a photo has already been scanned so i can license it to a researcher
+11	as an archivist i want to know if a photo has already been scanned so that i can license it to a researcher i
+11	as an archivist i want to know if a photo has already been scanned so that i can license it to a researcher
+11	as an archivist i want to know if a photo has already been scanned so that i can license it to a researcher 
+12	i want to select existing rights statuses and statements so i can easily create uniform rights statements as an archivist -
+12	i want to select existing rights statuses and statements so i can easily create uniform rights statements as an archivist
+12	i want to select existing rights statuses and statements so i can easily create uniform rights statements
+12	i want to select existing rights statuses and statements so that i can easily create uniform rights statements ''
+12	i want to select existing rights statuses and statements so that i can easily create uniform rights statements
+12	archivist i want to select existing rights status and statements so i can easily create uniform rights statements
+12	archivist i want to select existing rights status and statements so that i can easily create uniform rights statements ''
+12	as archivist i want to select existing rights statuses and statements so i can easily create uniform rights statements
+12	archivist i want to select existing rights status and statements so that i can easily create uniform rights statements
+12	as a archivist i want to select existing rights statuses and statements so i can easily create uniform rights statements
+12	as an archivist i want to select existing rights statuses and statements so i can easily create uniform rights statements
+12	as archivist i want to select existing rights statuses and statements so that i can easily create uniform rights statements
+12	as an archivist i want to select existing rights statuses and statements so that i can easily create uniform rights statement
+12	as an archivist i want to select existing rights statuses and statements so that i can easily create uniform rights statements
+13	as an archivist for a period of time i want to redact information in digital files to provide access to non-sensitive portions of a document
+13	as an archivist for a period of time i want to redact information in digital files to provide access to non-sensitive portions of a record '
+13	as an archivist for a period of time i want to redact information in digital files to provide access to non-sensitive portions of a record
+13	as an archivist for a period of time i want to redact information in digital files to provide access to non-sensitive portions of a record 
+13	as an archivist for a time i want to redact information in digital files so i can provide access to non-sensitive portions of a document
+13	as an archivist for a time i want to redact information in digital files so i can provide access to non-sensitive parts of a record
+13	as an archivist for a time i want to redact information in digital files so i can provide access to non-sensitive portions of a record i
+13	as an archivist for a time i want to redact information in digital files so i can provide access to non-sensitive portions of a record '
+13	as an archivist for a time i want to redact information in digital files so i can provide access to non-sensitive portions of a record
+13	as an archivist for a time i want to redact information in digital files so i can provide access to non-sensitive portions of a record 
+13	as an archivist i want to redact information in digital files for a period of time so i can provide access to non-sensitive portions of a document
+13	as an archivist i want to redact information in digital files for a period of time so that i can provide access to non-sensitive portions of a
+13	as an archivist i want to redact information in digital files for a period of time so i can provide access to non-sensitive portions of a record
+13	as archivist i want to redact information in digital files for a period of time so that i can provide access to non-sensitive portions of a record
+14	if i want to have an online form for licensing archival material the process will be more transparent and some of the back and forth will be eliminated
+14	i want an online form for licensing archival material so that the process is more transparent and some back and forth can be eliminated
+14	if i want to have an online form for licensing archival material so that the process is transparent and some of the back and forth can be eliminated i'm going to
+14	if i want to have an online form for licensing archival material so that the process is transparent and some of the back and forth can be eliminated i'll have to
+14	if i want to have an online form for licensing archival material so that the process is transparent and some of the back and forth can be eliminated i'd like to
+14	if i want to have an online form for licensing archival material so that the process is transparent and some of the back and forth can be eliminated i'll have
+14	if i want to have an online form for licensing archival material so that the process is transparent and some of the back and forth can be eliminated i have to
+14	if i want to have an online form for licensing archival material the process will be more transparent and some of the back and forth can be eliminated
+14	i want an online form for licensing archival material so that the process is more transparent and some of the back and forth can be eliminated
+14	if i want to have an online form for licensing archival material so that the process is transparent and some of the back and forth can be eliminated
+14	as an archivist i want an online form for licensing archival material so that the process is more transparent and some of the back and forth can be eliminated
+14	as an archivist i want to have an online form for licensing archival material so that the process is more transparent and some back and forth can be eliminated
+14	as an archivist i want to have an online form for licensing archival material so the process is more transparent and some of the back and forth can be eliminated
+14	as an archivist i want to have an online form for licensing archival material so that the process is transparent and some of the back and forth can be eliminated
+15	my job is to batch edit metadata about files as an archivist
+15	my job is to edit metadata about a file
+15	my job is to edit metadata about files
+15	my job is to batch edit metadata about a file
+15	my job is to batch edit metadata about files
+15	as an archivist i want to edit metadata about files batch
+15	as a archivist i want to batch edit metadata about a document
+15	the archivist wants to batch edit metadata about files
+15	as an archivist i want to edit metadata about files
+15	as a archivist i want to batch edit metadata about the files
+15	as a archivist i want to batch edit metadata about a file
+15	as archivist i want to batch edit metadata about files
+15	as an archivist i want to batch edit metadata about files ''
+15	as a archivist i want to batch edit metadata about files
+15	as an archivist i want to batch edit metadata about files
+16	my job is to upload one file as an archivist
+16	my job is to upload one file as an archiver
+16	my job is to upload one file
+16	my role is to upload one file
+16	the archivist wants to upload a single document
+16	as a archivist i want to upload a single document
+16	as an archivist i want to upload a single document
+16	as an archivist i want to upload one file
+16	the archivist wants to upload a single file
+16	as a archivist i want to upload a single
+16	as an archiver i want to upload a single file
+16	as archivist i want to upload a single file
+16	the archivist i want to upload a single file
+16	as a archivist i want to upload a single file
+16	as an archivist i want to upload a single file
+17	the archivist wants to upload groups of files so i can save time and reduce costs
+17	the archivist wants to upload groups of files so i can save time and money
+17	the archivist i want to upload files so i can save time
+17	the archivist wants to upload groups of files so i can save time ''
+17	the archivist wants to upload groups of files so i can save time -
+17	as an archivist i want to upload groups of files to save time
+17	the archivist wants to upload groups of files so i can save time
+17	the archivist wants to upload groups of files so that i save time
+17	the archivist i want to upload groups of files so i can save time
+17	as an archivist i want to upload groups of files so i can save my time
+17	as archivist i want to upload groups of files so i can save time
+17	as an archiver i want to upload groups of files so i can save time
+17	the archivist wants to upload groups of files so that i can save time
+17	as an archivist i want to upload groups of files so i can save time
+17	as an archivist i want to upload groups of files so that i can save time
+18	as an archivist i want to create access copies of files automatically so that i don't have to do this manually
+18	the archivist wants to automatically create access copies of files so i don't have to manually do this
+18	the archivist i want to create automatic access copies of files so i don't have to do this manually
+18	as an archivist i want to automatically create access copies of files so i don't have to manually do this
+18	as an archivist i want to automatically create access copies of files so that i don't have to manually do this
+18	the archivist wants to automatically create access copies of files so that i don't have to manually
+18	the archivist wants to automatically create access copies of files so i don't have to do this manually ''
+18	the archivist wants to automatically create access copies of files so i don't have to do this manually
+18	the archivist wants to automatically create access copies of files so that i don't have to do this manually
+18	as an archivist i want to automatically create access copies of files so that i don't have to do this manually i have
+18	as an archivist i want to automatically create access copies of files so i don't have to do this manually
+18	as an archivist i want to automatically create access copies of files so that i don't have to do this manually i
+18	as an archivist i want to automatically create access copies of files so that i don't have to do this manually
+18	as an archivist i want to automatically create access copies of files so that i don't have to do this manually 
+19	i want to generate technical metadata automatically so i know the file size
+19	i want to automatically generate technical metadata so i know the size of the data
+19	i want to automatically generate technical metadata so i know the size of the files
+19	i want to automatically generate technical metadata so i know the size of the file
+19	i want to automatically generate technical metadata so that i know the size of a file
+19	i want to automatically generate technical metadata so i know the file size
+19	as an archivist i want to automatically generate technical metadata so i know the size of the files
+19	as an archivist i want to automatically generate technical metadata so i know the size of the file
+19	i want to automatically generate technical metadata so that i know the file size
+19	as archivist i want to automatically generate technical metadata so i know the file size
+19	as a archivist i want to automatically generate technical metadata so i know the file size
+19	if i am an archivist i want to automatically generate technical metadata so i know the file size
+19	as an archivist i want to automatically generate technical metadata so i know the file size
+19	when i am an archivist i want to automatically generate technical metadata so i know the file size
+19	as an archivist i want to automatically generate technical metadata so that i know the file size
+20	my job is to upload and tag staff generated working papers so that staff and researchers can easily access them i want to do this
+20	my job is to upload and tag staff generated working papers so that staff and researchers can easily access them i want to do
+20	my job is to upload and tag staff generated working papers so that researchers can easily access them
+20	my job is to upload and tag staff generated working papers so that staff and researchers can easily access these documents
+20	my job is to upload and tag staff generated working papers so that researchers and staff can easily access them
+20	my role is to upload and tag staff generated working papers so that researchers and staff can easily access them
+20	my job is to upload and tag staff generated working papers so that staff and researchers can easily access them ''
+20	my job is to upload and tag staff generated working papers so that staff and researchers can easily access them
+20	my role is to upload and tag staff generated working papers so that staff and researchers can easily access them
+20	as an assistant archivist i want to upload and tag staff generated working papers so staff and researchers can easily access them
+20	as an assistant archivist i want to upload and tag staff generated work papers so that staff and researchers can easily access them
+20	as assistant archivist i want to upload and tag staff generated working papers so that staff and researchers can easily access them
+20	as an assistant archivist i want to upload and tag staff generated working papers so that staff and researchers can easily access them
+20	as an assistant archivist i want to upload and tag staff generated working papers so that staff and researchers are able to easily access them
+21	as an archivist i want to distinguish between digital objects digitized to preservation standards and those created for access purposes only so that i know if i should apply preservation actions to the documents
+21	as an archivist i want to distinguish between digital objects digitized to preservation standards and those created for access purposes only so that i know if i should apply preservation actions to the objects
+21	as an archivist i want to distinguish between digital objects digitized to preservation standards and those created for access purposes only so that i know if i should apply preservation actions to them or not
+21	when i am an archivist i want to distinguish between digital objects digitized to preservation standards and those created for access purposes only so i know if i should apply preservation actions or not
+21	as an archivist i want to distinguish between digital objects digitized to preservation standards and those created only for access purposes so i know whether i should apply preservation actions
+21	as an archivist i want to distinguish between digital objects digitized to preservation standards and those created for access purposes only so that i know if i should apply preservation actions to them
+21	as an archivist i want to distinguish between digital objects digitized to preservation standards and those created for access purposes only so that i know if i should apply preservation actions or not
+21	when i am an archivist i want to distinguish between digital objects digitized to preservation standards and those created for access purposes only so i can know whether i should apply preservation actions or not
+21	as an archivist i want to distinguish between digital objects digitized to preservation standards and those created only for access purposes so that i know whether i should apply preservation actions
+21	as an archivist i want to distinguish between digital objects digitized to preservation standards and those created for access purposes only so that i know whether i should apply preservation actions to them
+21	as an archivist i want to distinguish between digital objects digitized to preservation standards and those created for access purposes only so that i know if i should apply preservation actions
+21	as an archivist i want to distinguish between digital objects digitized to preservation standards and those created for access purposes only so that i know whether i should apply preservation actions or not
+21	as an archivist i want to distinguish between digital objects digitized to preservation standards and those created for access purposes only so i know whether i should apply preservation actions
+21	as an archivist i want to distinguish between digital objects digitized to preservation standards and those created for access purposes only so that i know whether i should apply preservation actions
+22	the archivist i want to link electronic versions of researchers' publications to citations so i can share them with others
+22	the archivist i want to link electronic versions of research publications to citations so i can share them with other researchers
+22	the archivist wants to link electronic versions of researchers' publications to citations so i can share them with other researchers
+22	the archivist i want to link electronic versions of researchers' publications to citations so i can share them with other researchers ''
+22	as an archivist i want to link electronic versions of research publications to citations so i can share them with other researchers
+22	as an archivist i want to link electronic versions of researchers' publications to citations so that i can share them with other scientists
+22	the archivist i want to link electronic versions of researchers' publications to citations so i can share them with other researchers
+22	as archivist i want to link electronic versions of researchers' publications to citations so i can share them with other researchers
+22	the archivist wants to link electronic versions of researchers' publications to citations so that i can share them with other researchers
+22	as an archivist i want to link electronic versions of researchers' publications to citations so i can share them with other researchers
+22	as archivist i want to link electronic versions of researchers' publications to citations so that i can share them with other researchers
+22	as an archivist i want to link electronic versions of researchers' publications to citations so that i can share them with other researchers
+22	as an archivist i want to link electronic versions of researchers' publications to citations so that i can share them with other researchers 
+23	please upload scans of images created while answering research requests so that they can be used again for other research requests i want to upload
+23	please upload scans of images created while answering research requests so that they can be used again for other research requests as an archivist
+23	please upload scans of images created while answering research requests so that they can be used again for other research requests as archivists
+23	please upload scans of images created while answering research requests so that they can be used again for other research requests as archivist
+23	please upload scans of images created when answering research requests so that they can be used again for other research requests
+23	please upload scans of images created while answering research requests so that they can be used again for other research request
+23	please upload scans of images created while answering research requests so that they can be used again for other research requests
+23	i want to upload scans of images created while answering research requests so they can be used again for other research requests
+23	i want to upload scans of images created while answering research requests so that they can be used again for other research requests
+23	as archivist i want to upload scans of images created while answering research requests so they can be used again for other research requests
+23	as an archivist i want to upload scans of images created while answering research requests so they can be used again for other research requests
+23	as an archiver i want to upload scans of images created while answering research requests so that they can be used again for other research requests
+23	as archivist i want to upload scans of images created while answering research requests so that they can be used again for other research requests
+23	as an archivist i want to upload scans of images created while answering research requests so that they can be used again for other research requests
+24	as an archivist i want to create quality scans of images and documents so that they can be reused for future reference
+24	as an archivist i want to create quality scans of images and documents so that they can be reused for future use
+24	as an archivist i want to create quality scans of images and documents so that they can be reused and re-used
+24	as an archivist i want to create quality scans of images and documents so that they can be reused and re-use
+24	as an archivist i want to create quality scans of images and documents so that they can be reused and reused
+24	as an archivist i want to create quality scans of images and documents that can be reused
+24	as an archivist i want to create quality scans of images and documents so they can be reused
+24	as archivist i want to create quality scans of images and documents so that they can be reused
+24	in my role as an archivist i want to create quality scans of images and documents so they can be reused
+24	as an archivist i want to create quality scans of images and documents so that they can be reused ''
+24	as a archivist i want to create quality scans of images and documents so that they can be reused
+24	in my role as archivist i want to create quality scans of images and documents so that they can be reused
+24	as an archivist i want to create quality scans of images and documents so that they can be reused
+24	in my role as a archivist i want to create quality scans of images and documents so that they can be reused
+25	i want to create access derivatives of digital objects automatically so that i don't have to manually do this ''
+25	i want to create access derivatives of digital objects automatically so that i don't have to manually do this
+25	i want to create access derivatives of digital objects automatically so i don't have to manually do this
+25	i want to create access derivatives of digital objects automatically so that i don't have to do this manually ''
+25	i want to create access derivatives of digital objects automatically so that i don't have to do this manually i
+25	i want to create access derivatives of digital objects automatically so that i don't have to do this manually
+25	i want to create access derivatives of digital objects automatically so i don't have to do this manually
+25	i want to automatically create access derivatives of digital objects so that i don't have to manually do this
+25	as an archivist i want to create access derivatives of digital objects automatically so that i don't have to do this manually
+25	as an archivist i want to automatically create access derivatives of digital objects so i don't have to manually do this
+25	as an archivist i want to automatically create access derivatives of digital objects so that i don't have to manually do this
+25	as an archivist i want to automatically create access derivatives of digital objects so i don't have to do this manually
+25	as an archivist i want to automatically create access derivatives of digital objects so that i don't have to do this manually i
+25	as an archivist i want to automatically create access derivatives of digital objects so that i don't have to do this manually
+25	as an archivist i want to automatically create access derivatives of digital objects so that i don't have to do this manually 
+26	my job is to automatically assign unique identifiers to the material i scan in order to avoid potential errors ''
+26	my job is to automatically assign unique identifiers to the material i scan in order to avoid potential errors
+26	my job is to automatically assign unique identifiers to the material i scan so as to avoid potential errors ''
+26	my job is to automatically assign unique identifiers to the material i scan so that i avoid possible errors
+26	my job is to automatically assign unique identifiers to the material i scan so as to avoid potential errors
+26	i want to automatically assign unique identifiers to the material i scan so i can avoid potential errors
+26	i want to automatically assign unique identifiers to the material i scan so i avoid potential errors
+26	my job is to automatically assign unique identifiers to the material i scan so that i avoid potential errors ''
+26	my job is to automatically assign unique identifiers to the material i scan so that i avoid potential errors
+26	my role is to automatically assign unique identifiers to the material i scan so that i avoid potential errors
+26	i want to automatically assign unique identifiers to material i scan so i avoid potential errors
+26	i want to automatically assign unique identifiers to material i scan so that i avoid potential errors
+26	as an archivist i want to automatically assign unique identifiers to the material i scan so i avoid potential errors
+26	as an archivist i want to automatically assign unique identifiers to material i scan so i avoid potential errors
+26	as an archivist i want to automatically assign unique identifiers to material i scan so that i avoid potential errors
+27	i want to automatically embed metadata in file headers so i avoid repetitive and easily-forgotten tasks
+27	my job is to automatically embed metadata in file headers so that i avoid repetitive and easily-forgot tasks
+27	my job is to automatically embed metadata into file headers so that i avoid repetitive and easily-forgotten tasks
+27	my job is to automatically embed metadata in file headers so that i avoid repetitive and easily-forgotten tasks
+27	i want to automatically embed metadata in file headers so that i avoid repetitive and easily forgotten tasks
+27	my role is to automatically embed metadata in file headers so that i avoid repetitive and easily-forgotten tasks
+27	i want to automatically embed metadata in file headers so that i avoid repetitive and easily-forgotten tasks
+27	as an archivist i want to automatically embed metadata in file headers so i avoid repetitive and easily forgotten tasks
+27	as an archivist i want to automatically embed metadata in file headers so i avoid repetitive and easily-forgotten tasks
+27	as an archivist i want to automatically embed metadata in file headers so that i avoid repetitive and easily-forgotten jobs
+27	as archivist i want to automatically embed metadata in file headers so that i avoid repetitive and easily-forgotten tasks
+27	as an archivist i want to automatically embed metadata in file headers so that i avoid repetitive and easily-forgot tasks
+27	as an archivist i want to automatically embed metadata in file headers so that i avoid repetitive and easily forgotten tasks
+27	as an archivist i want to automatically embed metadata in file headers so that i avoid repetitive and easily-forgotten tasks
+28	my job is to rotate the images so i can orient them correctly
+28	my job is to rotate my images so i can orient them correctly
+28	my job is to rotate images so that i can orient them properly
+28	my job is to rotate the images so that i can orient them correctly
+28	my job is to rotate images so that i can orient them correctly
+28	as archivist i want to rotate images so i can orient them correctly
+28	as an archiver i want to rotate images so i can orient them correctly
+28	as a archivist i want to rotate images so i can orient them correctly
+28	as an archivist i want to rotate images so that i can orient them properly
+28	as an archivist i want to rotate images so i can orient them correctly
+28	when i am an archivist i want to rotate images so i can orient them correctly
+28	as an archivist i want to rotate images so that i can orient them correct
+28	as an archivist i want to rotate images so that i can orient them correctly 
+28	as an archivist i want to rotate images so that i can orient them correctly
+29	i want to apply automatic contrast and level operations to a scanned file so i can eliminate unnecessary work as an archivist
+29	i want to apply automatic contrast and level operations to a scanned file to eliminate unnecessary work
+29	i want to apply automatic contrast and level operations to a scanned file so that i can eliminate unnecessary work as archivist
+29	i want to apply automatic contrast and level operations to scanned files so i can eliminate unnecessary work
+29	i want to apply automatic contrast and level operations to a scanned file so that i can eliminate unneeded work
+29	i want to apply automatic contrast and level operations to a scanned file so i can eliminate unnecessary work
+29	i want to apply automatic contrast and level operations to scanned files so that i can eliminate unnecessary work
+29	i want to apply automatic contrast and level operations to a scanned file so that i can eliminate unnecessary work
+29	as an archivist i want to apply automatic contrast and level operations to a scanned file to eliminate unnecessary work
+29	as archivist i want to apply automatic contrast and level operations to a scanned file so i can eliminate unnecessary work
+29	as a archivist i want to apply automatic contrast and level operations to a scanned file so i can eliminate unnecessary work
+29	as an archivist i want to apply automatic contrast and level operations to a scanned file so i can eliminate unnecessary work
+29	as an archivist i want to apply automatic contrast and level operations to a scanned file so that i can eliminate unnecessary labor
+29	as an archivist i want to apply automatic contrast and level operations to a scanned file so that i can eliminate unnecessary work
+30	i want to perform contrast level and other manipulations manually so that i can improve on results from automated instruments
+30	i want to perform contrast level and other manipulations manually so i can improve results from automated tools
+30	i want to perform contrast level and other manipulations manually so that i can improve on the results of automated tools
+30	i want to perform contrast level and other manipulations manually so i can improve on results from automated tools
+30	i want to perform contrast level and other manipulations manually so that i can improve results from automated tools
+30	i want to perform contrast level and other manipulations manually so that i can improve on results from automated tools ''
+30	i want to perform contrast level and other manipulations manually so that i can improve on results from automated tools
+30	as an archivist i want to perform contrast level and other manipulations manually so that i can improve on results from automated instruments
+30	as an archivist i want to perform contrast level and other manipulations manually so i can improve results from automated tools
+30	as an archivist i want to perform contrast level and other manipulations manually so i can improve on results from automated tools
+30	as an archivist i want to perform contrast level and other manipulations manually so that i can improve results from automated tools
+30	as archivist i want to perform contrast level and other manipulations manually so that i can improve on results from automated tools
+30	as an archivist i want to perform contrast level and other manipulations manually so that i can improve on results from automated tools
+30	as an archivist i want to perform contrast level and other manipulations manually so that i can improve on results from automated tools 
+31	as donors i want to provide incremental accruals to new and existing collections so that material can be transferred on a continuous basis
+31	as donors i want to provide incremental accruals to new and existing collections so that material can be transferred on an ongoing basis
+31	as donors i want to supply incremental accruals to new and existing collections so that material can be transferred on an ongoing basis
+31	as a donor representative i want to provide incremental accruals to new and existing collections so that the material can be transferred on an ongoing basis '
+31	as a donor representative i want to provide incremental accruals to new and existing collections so that the material can be transferred on an ongoing basis
+31	as a donor representative i want to provide incremental accruals to new and existing collections so that the material can be transferred on an ongoing basis 
+31	as a donor representative i want to provide incremental accruals to new and existing collections so that material can be transferred on an ongoing basis ''
+31	as a donor representative i want to provide incremental accruals for new and existing collections so that material can be transferred on an ongoing basis
+31	as a donor representative i want to provide incremental accruals to new and existing collections so that material can be transferred on an ongoing basis 
+31	as a donor representative i want to provide incremental accruals to new and existing collections so that material can be transferred on an ongoing basis
+31	as a donor representative i want to supply incremental accruals to new and existing collections so that the material can be transferred on an ongoing basis
+31	as a donor representative i want to supply incremental accruals to new and existing collections so that material can be transferred on an ongoing basis ''
+31	as a donor representative i want to supply incremental accruals to new and existing collections so that material can be transferred on an ongoing basis
+32	my job is to manage scans of archival material created for educational visits so that i can find and refer to them for another visit if i need
+32	my job is to manage scans of archival material created for educational visits so that i can find and refer to them for another visit if i have
+32	my job is to manage scans of archival material created for educational visits so that i can find them and refer them for another visit
+32	my job is to manage scans of archival material created for educational visits so that i can find and refer to them again for another visit
+32	my job is to manage scans of archival material created for educational visits so that i can find and refer them for another visit
+32	my job is to manage scans of archival material created for educational visits so that i can find and refer to them for another visit ''
+32	my job is to manage scans of archival material created for educational visits so that i can find and refer to them for another visit
+32	as an archivist i want to manage scans of archival material created for educational visits so that i can find them and refer to them for a
+32	my job is to manage scans of archival material created for educational visits so i can find and refer to them for another visit
+32	as an archivist i want to manage scans of archival material created for educational visits so that i can find them and refer to them for another visit
+32	as archivist i want to manage scans of archival material created for educational visits so that i can find and refer to them for another visit
+32	as an archivist i want to manage scans of archival material created for educational visits so that i can find and refer them for another visit
+32	as an archivist i want to manage scans of archive material created for educational visits so that i can find and refer to them for another visit
+32	as an archivist i want to manage scans of archival material created for educational visits so that i can find and refer to them for another visit
+33	as archiver i want to manage loan documentation including preservation photos forms and correspondence so i can easily find it later ''
+33	as archiver i want to manage loan documentation including preservation photos forms and correspondence so i can easily find them later
+33	as archiver i want to manage loan documentation including preservation photos forms and correspondence so i can easily find it later
+33	as archiver i want to manage loan documentation including preservation photos forms and correspondence so i can find it quickly
+33	as an archivist i want to manage loan documentation including preservation photos forms and correspondence so i can easily find them later
+33	as an archivist i want to manage loan documentation including preservation photos forms and correspondence so i can easily find it later
+33	as an archivist i want to manage loan documentation including preservation photos forms and correspondence so that i can easily find it later on
+33	as archiver i want to manage loan documentation including preservation photos forms and correspondence so i can find it easier later
+33	as archiver i want to manage loan documentation including preservation photos forms and correspondence so i can find it easily later on
+33	as an archivist i want to manage loan documentation including preservation photos forms and correspondence so that i can easily find it later
+33	as archiver i want to manage loan documentation including preservation photos forms and correspondence so i can find it easily later ''
+33	as archiver i want to manage loan documentation including preservation photos forms and correspondence so i can find it easily later
+33	as an archivist i want to manage loan documentation including preservation photos forms and correspondence so i can find it easily later
+33	as an archivist i want to manage loan documentation including preservation photos forms and correspondence so that i can find it easily later on
+33	as an archivist i want to manage loan documentation including preservation photos forms and correspondence so that i can find it easily later
+34	as a researcher i want to generate structured citation data so i can cite a file in a published publication
+34	as a researcher i want to generate structured data so i can cite a file in a publication
+34	as a researcher i want to generate structured citation data so i can cite a file in a book
+34	as a researcher i want to generate structured citation data to cite a file in a publication
+34	as a researcher i want to generate structured citation data so that i can cite a file in a published publication
+34	as a researcher i want to generate structured citation data so that i can cite a file in a published document
+34	as a researcher i want to generate structured citation data so that i can cite a file in a published article
+34	as researcher i want to generate structured citation data so i can cite a file in a publication
+34	as a researcher i want to generate structured citation data so that i can cite a file in a publication i have
+34	when i'm a researcher i want to generate structured citation data so i can cite a file in a publication
+34	as a researcher i want to generate structured citation data so i can cite a file in a publication
+34	as a researcher i want to generate structured citation data so that i can cite a file in a publication '
+34	as a researcher i want to generate structured citation data so that i can cite a file in a publication
+34	as a researcher i want to generate structured citation data so that i can cite a file in a publication 
+34	when i am a researcher i want to generate structured citation data so that i can cite a file in a publication
+35	my job is to share a link on social media so i can show other people something interesting i found
+35	my job is to share a link on social media so i can show other people an interesting thing i've found out about
+35	my job is to share a link on social media so i can show other people an interesting thing i've discovered
+35	my job is to share a link on social media so i can show other people an interesting thing i found out about
+35	my job is to share a link on social media so i can show other people an interesting thing i discovered
+35	my job is to share a link on social media so i can show other people an interesting thing i've found out
+35	my job is to share a link on social media so i can show other people an interesting thing i have found
+35	my job is to share a link on social media so i can show other people an interesting thing i've found ''
+35	my job is to share a link on social media so i can show other people an interesting thing i found out
+35	my job is to share a link on social media so i can show other people an interesting thing i've found
+35	my job is to share a link on social media so i can show other people an interesting thing i found
+35	as a researcher i want to share a link to a file on social media so i can show other people something interesting i found
+35	as a researcher i want to share a link to a file on social media so i can show other people an interesting thing i discovered
+35	as a researcher i want to share a link to a file on social media so i can show others an interesting thing i found
+35	as a researcher i want to share a link to a file on social media so i can show other people an interesting thing i found
+36	as a researcher i want to know the copyright status of the image so i know if i can use it
+36	if i am a researcher i want to know the copyright status of the image so i know if i can use it
+36	as a researcher i want to know the copyright status of the image so that i know if i can use it
+36	if i am a researcher i want to know the copyright status of the image so that i know if i can use it
+36	if i'm a researcher i want to understand the copyright status of the image so i know if i can use it
+36	as a researcher i want to understand the copyright status of the image so i know if i can use it ''
+36	as a researcher i want to understand the copyright status of the image so i can know if i can use it
+36	as a researcher i want to understand the copyright status of the image so that i know if i can use it or not
+36	if i am a researcher i want to understand the copyright status of the image so i know if i can use it 
+36	if i am a researcher i want to understand the copyright status of the image so i know if i can use it
+36	as a researcher i want to understand the copyright status of the image so i know if i can use it
+36	as a researcher i want to understand the copyright status of the image so that i know if i can use it '
+36	if i am a researcher i want to understand the copyright status of the image so that i know if i can use it
+36	as a researcher i want to understand the copyright status of the image so that i know if i can use it
+36	as a researcher i want to understand the copyright status of the image so that i know if i can use it 
+37	researchers want clear information on each document so i can cite accurately in a publication i want clear information about each document
+37	researchers want clear information on each document so i can cite accurately in a publication i want clear information on each document
+37	researchers want clear information on each document so i can cite accurately in a published document
+37	researchers want clear information about citations on each document so i can cite accurately in the publication
+37	researchers want clear information on each document so i can cite accurately in a published article
+37	researchers want clear information about citations on each document so i can cite accurately in a publication
+37	researcher wants clear information on each document so i can cite accurately in a publication
+37	researchers want clear information on each document so i can cite accurately in a publication
+37	as a researcher i want clear citation information on each document so i can accurately cite in a publication
+37	as a researcher i want clear citation information on each document so that i can accurately cite in a publication
+37	as a researcher i want clear citation information on every document so i can cite accurately in a publication
+37	as a researcher i want clear citation information on each document so i can cite accurately in a publication
+37	as a researcher i want clear citation information on each document so that i can cite accurately in a publication 
+37	as a researcher i want clear citation information on each document so that i can cite accurately in a publication
+38	my job is to share my research so that staff and researchers can access the reports i have written
+38	my job is to share my research so that staff and researchers can access the reports i wrote
+38	my job is to share my research so that staff and researchers can see what i have written
+38	my job is to share my research so that staff and researchers can see what i have written about
+38	my job is to share my research so that it can be shared with staff and researchers
+38	my job is to share my research so that it is available to staff and researchers
+38	my role is to share my research so that it is available to staff and researchers
+38	as a researcher i want to share reports i wrote so that they are available to staff and researchers
+38	as a researcher i want to share the reports i've written so that it's available to the staff and researchers
+38	as a researcher i want to share the reports i've written so that it's available to staff and to researchers
+38	as a researcher i want to share reports i wrote so that it is available to staff and researchers
+38	as a researcher i want to share the reports i've written so that it's available to staff and researchers
+38	as a researcher i want to share reports i've written so that it's available to staff and to researchers
+38	as a researcher i want to share reports i've written so that it's available to staff and researchers
+38	as a researcher i want to share reports i've written so that it is available to staff and researchers
+39	in my research i want to download a file so i can use it for research without going to the library
+39	in my research i want to download a file so i can use it for research without going to the lecture room
+39	in my research i want to download a file so i can use it for research without having to go into the lecture hall
+39	in my research i want to download a file so i can use it for research without going to the reading room
+39	in my research i want to download a file so i can use it for research without having to go into the lecture room
+39	as a researcher i want to download a file so i can use it for research without having to go to the library
+39	in my research i want to download a file so i can use it for research without having to go into the reading room
+39	so as researcher i want to download a file so i can use it for research without having to go into the reading room
+39	as a researcher i want to download a file so i can use it for research without having to go to the reading room
+39	as a researcher i want to download a file so i can use it for research without having to come to the reading room
+39	as a researcher i want to download a file so that i can use it for research without having to go to the reading room i
+39	as a researcher i want to download a file so that i can use it for research without having to go to the reading rooms
+39	as a researcher i want to download a file so that i can use it for research without having to go to the reading room
+39	as a researcher i want to download a file so that i can use it for research without having to come to the reading room i
+39	as a researcher i want to download a file so that i can use it for research without having to come to the reading room
+40	if i want to download a report as a researcher i can use it in a talk or article for immediate and future use
+40	if i want to download a report as a researcher i can use it in talks and articles
+40	as a researcher i want to download reports so i can use them in the immediate and future in talks and articles
+40	as a researcher i want to download reports so i can use them in immediate and future talks and articles
+40	as a researcher i want to download reports so that i can use them in the immediate and future in talks and in articles
+40	in my role as a researcher i want to download reports so i can use them in the immediate and future in talks and articles
+40	as a researcher i want to download reports so i can use them in immediate and future in talks and articles
+40	in my role as a researcher i want to download reports so i can use them in immediate and future in talks and in articles
+40	as a researcher i want to download reports so that i can use them in the immediate and future in talks and articles
+40	in my job as a researcher i want to download reports so i can use them in immediate and future in talks and articles
+40	as a researcher i want to download reports so that i can use them in immediate and future in talks and in articles
+40	in my role as a researcher i want to download reports so i can use them in immediate and future in talks and articles
+40	as a researcher i want to download reports so that i can use them in immediate and future in talks and articles ''
+40	as a researcher i want to download reports so that i can use them in immediate and future in talks and articles
+41	my job is to find photographs and documents i can share on social media
+41	my job is to find photos and documents that i can share on social media
+41	my job is to find photographs and documents that i can share on social media
+41	my job is to locate photos and documents that i can share on social media
+41	my job is to locate photographs and documents that i can share on social media
+41	as a researcher i want to find photos and documents that i can share on social media
+41	as a researcher i want to find photographs and documents that i can share on social media
+41	as a researcher i want to locate photos and documents that i can share on social media
+41	when i am a researcher i want to find photographs and documents that i can share on social media
+41	as a researcher i want to locate photographs and documents i can share on social media
+41	as a researcher i want to locate photographs and documents that i can share on social media '
+41	as a researcher i want to locate photographs and documents that i can share on social media 
+41	as a researcher i want to locate photographs and documents that i can share on social media
+41	when i am a researcher i want to locate photographs and documents that i can share on social media
+42	as an researcher i want to request analog versions of digital objects so i can view them in the library
+42	as an researcher i want to request analog versions of digital objects to view them in the reading room
+42	as an researcher i want to request analog versions of digital objects so i can see them in the reading room
+42	as a researcher i want to request analog versions of digital objects so i can see them in the reading room
+42	as an researcher i want to request analog versions of digital objects so i can view them in the reading room i
+42	as an researcher i want to request analog versions of digital objects so i can view them in the reading room '
+42	as an researcher i want to request analog versions of digital objects so i can view them in the reading room
+42	as a researcher i want to request analog versions of digital objects so i can view them in the reading room
+42	as a researcher i want to request analog versions of digital objects so that i can see them in the reading room
+42	as a researcher i want to request analog versions of digital objects so that i can view them in the reading room i
+42	as a researcher i want to request analog versions of digital objects so that i can view them in the reading room
+43	as a researcher i want to order copies of photos so i can use them in a book
+43	when i am a researcher i want to order copies of photos so i can use them in a book
+43	as a researcher i want to order copies of photos to use them in a publication
+43	so as researcher i want to order copies of photos to use them in a publication
+43	as a researcher i want to order copies of photographs so i can use them in a publication
+43	so as researcher i want to order copies of photographs so i can use them in a publication
+43	so as researcher i want to order copies of photos so i can use them for a publication
+43	when i am a researcher i want to order copies of photos so i can use them for a publication
+43	as a researcher i want to order copies of photos so i can use them in a publication
+43	as a researcher i want to order copies of photographs so that i can use them in a publication
+43	so as researcher i want to order copies of photos so i can use them in a publication
+43	when i am a researcher i want to order copies of photos so i can use them in a publication
+43	as a researcher i want to order copies of photos so that i can use them in a publication
+44	my request in the reading room or for duplication is already digitized so i don't have to submit it
+44	my request in the reading room or for duplication is already digitized so i don't have to put it in
+44	when i request something in the reading room or for duplication it's already digitized so i don't have to send it in
+44	when i request something in the reading room or for duplication it's already digitized so i don't have to send it
+44	my request in the reading room or for duplication is already digitized so i don't have to put in the request again
+44	my request in the reading room or for duplication is already digitized so i don't have to submit the request
+44	my request in the reading room or for duplication is already digitized so i don't have to submit this request
+44	when i request something in the reading room or for duplication it is already digitized so i don't have to put it in
+44	when i request something in the reading room or for duplication it's already digitized so i don't have to put it in again
+44	when i request something in the reading room or for duplication it's already digitized so i don't have to put it in
+44	my request in the reading room or for duplication is already digitized so i don't have to put in the request
+44	when i request something in the reading room or for duplication it's already digitized so i don't have to put in the request anymore
+44	when i request something in the reading room or for duplication it's already digitized so i don't have to put in the request again
+44	when i request something in the reading room or for duplication it's already digitized so i don't have to put it in the request
+44	when i request something in the reading room or for duplication it's already digitized so i don't have to put in the request
+45	the archivist i want to make information about rights available to researchers and donors so they know what images can do
+45	the archivist wants to make information about the rights available to researchers and donors so they know what to do with images
+45	the archivist i want to make information about rights available to researchers and donors so they know what to do with the images
+45	the archivist i want to make information about rights available to researchers and donors so they know what to do with images ''
+45	the archivist i want to make information about rights available to researchers and donors so they know what to do with images i
+45	the archivist i want to make information about rights available to researchers and donors so they know what to do with images
+45	as an archivist i want to make information about rights available to researchers and donors so they know what to do with images
+45	the archivist i want to make information about rights available to researchers and donors so they know what they can do with images ''
+45	the archivist i want to make information about rights available to researchers and donors so they know what they can do with images i
+45	the archivist i want to make information about rights available to researchers and donors so they know what they can do with images
+45	as archivist i want to make information about rights available to researchers and donors so they know what they can do with images
+45	as a archivist i want to make information about rights available to researchers and donors so they know what they can do with images
+45	as an archivist i want to make information about rights available to researchers and donors so they know what they can do with images
+45	as an archivist i want to make information about rights available to researchers and donors so that they know what they can do with pictures
+45	as an archivist i want to make information about rights available to researchers and donors so that they know what they can do with images
+46	i want to ensure that emails sent about specific objects contain accurate citation information so i can confirm which object is referred to
+46	i want to ensure that emails sent about specific objects contain accurate citation information so that i can confirm which object is referred to
+46	i want to ensure that emails sent about specific objects contain accurate citation information so i can confirm which object is being referred to
+46	i want to ensure that emails sent about specific objects contain accurate citation information so that i can confirm which object is being referred
+46	i want to ensure that emails sent about specific objects contain accurate citation information so that i can confirm which object is being referred to
+46	the archivist i want to ensure that emails sent about specific objects contain accurate citation information so i can confirm which object is being referred
+46	as an archivist i want to ensure that emails sent about specific objects contain accurate citation information so i can confirm which object is referred to
+46	as an archivist i want to ensure that emails about specific objects contain accurate citation information so i can confirm which object is being referred to
+46	the archivist i want to ensure that emails sent about specific objects contain accurate citation information so i can confirm which object is being referred to
+46	as an archivist i want to ensure that emails sent about specific objects contain accurate citation information so that i can confirm which object is referred to
+46	as an archivist i want to ensure that emails sent about specific objects contain accurate citation information so i can confirm which object is being referred to
+46	as an archivist i want to ensure that emails sent about specific objects contain accurate citation information so that i can confirm which object is being referred
+46	as an archivist i want to ensure that emails sent about specific objects contain accurate citation information so that i can confirm which object is being referred to
+47	i want to stream audio and video files in my web browser
+47	as a researcher i want to stream audio and video files in my web browser i have
+47	as a researcher i want to stream audio and video files in my browser
+47	when i'm a researcher i want to stream audio and video files in my browser
+47	as researcher i want to stream audio and video files in my web browser
+47	as a researcher i want to stream audio and video files in my web browser ''
+47	when i'm a researcher i want to stream audio and video files to my web browser
+47	as a researcher i want to stream audio and video files on my web browser
+47	as a researcher i want to stream audio and video files in my web browser
+47	as a researcher i want to stream audio and video files in my web browsers
+47	when i'm a researcher i want to stream audio and video files in my web browser
+47	when i am a researcher i want to stream audio and video files in my web browser
+48	my job is to export descriptive data in common format so i can use it in text mining tools for my research projects
+48	my job is to export descriptive data in common format so i can use it for text mining
+48	my job is to export descriptive data in common format so i can use it for text mining purposes
+48	my job is to export descriptive data in common format so i can use it in text mining tools for research
+48	my job is to export descriptive data in common format so i can use it in text mining
+48	my job is to export descriptive data in common format so i can use it for text mining tools
+48	my job is to export descriptive data in common format so i can use it in text mining tools
+48	my job is to export descriptive data in common format so i can use it in text mining tools ''
+48	my job is to export descriptive data in common format so i can use text mining tools
+48	i want to export descriptive data in a common format so i can use text mining tools on it
+48	as a researcher i want to export descriptive data in a common format to use text mining tools on it
+48	as a researcher i want to export descriptive data in a common format so i can use text mining tools
+48	as researcher i want to export descriptive data in a common format so i can use text mining tools on it
+48	as a researcher i want to export descriptive data in a common format so that i can use text mining tools
+49	my job as an archiver is to know how many times i've sent a photo to someone
+49	my job as an archiver is to know how many times i've sent a photo to someone else
+49	my job as an archiver is to know how many times i've sent a photo to the researcher
+49	my job as an archiver is to know how many times i've sent a photo to someone else before
+49	my job as an archiver is to know how many times i've sent a photo to someone before
+49	my job as an archiver is to know how many times i've sent a photo to a researcher
+49	my job as an archiver is to know how many times i've sent a photo to a researcher or not
+49	my job as an archiver is to know how many times i've sent a photo to a researcher before
+49	as an archivist i want to track the use of a photo so i know if i've sent it to a researcher
+49	as an archivist i want to track the use of a photo so i know if i sent it to a researcher before
+49	as an archivist i want to track the use of a photo so that i know if i've sent it to a researcher
+49	as an archivist i want to track the use of a photo so i know if i've sent it to a researcher before
+49	as an archivist i want to track use of a photo so i know if i've sent it to a researcher before
+49	as an archivist i want to track the use of a photo so that i know if i've sent it to a researcher before
+49	as an archivist i want to track use of a photo so that i know if i've sent it to a researcher before
+50	i want to see what a particular user downloaded so i can track the use of the assets
+50	i want to see what a particular user has downloaded so i can track the use of the asset
+50	i want to see what a particular user has downloaded so i can track the use of the assets
+50	i want to see what a particular user has downloaded so i can track the use of assets
+50	i want to see what a particular user downloaded so i can track use of assets
+50	i want to see what a particular user has downloaded so i can track use of assets
+50	i want to see what a particular user has downloaded so that i can track the use of assets
+50	as an archivist i want to see what a particular user has downloaded so i can track the use of the resources
+50	as an archivist i want to see what a particular user has downloaded so i can track the use of the asset
+50	as an archivist i want to see what a particular user has downloaded so i can track the use of the assets
+50	as an archivist i want to see what a particular user downloaded so i can track the use of assets
+50	as an archivist i want to see what a particular user has downloaded so i can track the use of assets
+50	as an archivist i want to see what a particular user downloaded so i can track use of assets
+50	as an archivist i want to see what a particular user has downloaded so i can track use of assets
+50	as an archivist i want to see what a particular user has downloaded so that i can track use of assets
+51	if i want access to digital copies of unprocessed material i want donors to access things they have given us
+51	my job as an archivist is to give donors access to digital copies of unprocessed material so that they can access the things they have given us
+51	my job as an archivist is to give donors access to digital copies of unprocessed material so that they can access things they have given us
+51	my role as an archivist is to give donors access to digital copies of unprocessed material so that they can access things they have given us
+51	as an archivist i want to provide access to digital copies of unprocessed material so that donors can access things that they have given to us
+51	as an archivist i want to provide access to digital copies of unprocessed material so that donors can access things they gave us
+51	as an archivist i want to provide access to digital copies of unprocessed material so that donors can access things that they have given us 
+51	as an archivist i want to provide access to digital copies of unprocessed material so donors can access things they have given us
+51	as an archivist i want to provide access to digital copies of unprocessed material so that donors can access things that they have given us
+51	as archivist i want to provide access to digital copies of unprocessed material so that donors can access things they have given us
+51	as an archivist i want to provide access to digital copies of unprocessed material so that donors can access things they have given us '
+51	as an archivist i want to provide access to digital copies of unprocessed material so that donors can access things they have given us 
+51	as an archivist i want to provide access to digital copies of unprocessed material so that donors can access things they have given us
+52	the archivist wants to make as much archival material available for use so that i can fulfill the mission of rac
+52	the archivist i want to make as much archive material as possible available for use so that i can fulfill the mission of rac i have been
+52	the archivist i want to make as much archive material as possible available for use so that i can fulfill the mission of rac i have also
+52	the archivist i want to make as much archive material as possible available for use so that i can fulfill the mission of rac i have not
+52	as archivist i want to make as much archival material as possible available for use so i can fulfill the mission of the rac
+52	the archivist wants to make as much archival material as possible available for use so i can fulfill the mission of rac
+52	the archivist i want to make as much archive material as possible available for use so that i can fulfill the mission of rac i have
+52	the archivist i want to make as much archive material as possible available for use so i can fulfill the mission of rac
+52	the archivist i want to make as much archive material as possible available for use so that i can fulfill the mission of rac's
+52	the archivist i want to make as much archive material as possible available for use so that i can fulfill the mission of rac i
+52	the archivist i want to make as much archive material as possible available for use so that i can fulfill the mission of rac 
+52	as an archivist i want to make as much archival material as possible available for use so i can fulfill the mission of rac
+52	the archivist i want to make as much archive material as possible available for use so that i can fulfill the mission of rac
+52	the archivist i want to make as much archive material as possible available for use so that i can fulfill the rac's mission
+53	i want to use archival content on the rac website to integrate our collections into our web presence
+53	i want to use archival content on the rac website so i can integrate our collections into our web presence
+53	i want to use archival content on the rac website so that i can integrate our collections into our website presence
+53	i want to use archival content on the rac website so that i can integrate our collections into our web presence ''
+53	i want to use archival content on the rac website so that i can integrate our collections into our web presence
+53	as archiver i want to use archive content on the rac website so that i can integrate our collections into our web presence
+53	as an archivist i want to use archive content on the rac website so i can integrate our collections into our web presence
+53	as an archivist i want to use archival content on the rac website so that i can integrate our collections into our web site
+53	as an archivist i want to use archival content on the rac website so i can integrate our collections into our web presence
+53	as an archivist i want to use archived content on the rac website so that i can integrate our collections into our web presence
+53	as an archivist i want to use archive content on the rac website so that i can integrate our collections into our web presence
+53	as an archivist i want to use archival content on the rac website so that i can integrate our collections into our web presence
+54	i want access to descriptive information about the images scanned for my institution's needs as a donor representative
+54	i want access to descriptive information about the images scanned for my institutions needs as a donor representative
+54	i want access to descriptive information about the images scanned for my institution's needs
+54	as a donor representative i want to access the descriptive information about the scanned images for my institutions needs
+54	as a donor representative i want to access the descriptive information about the images scanned for my institution's requirements
+54	as a donor representative i want access to the descriptive information about the images scanned for my institutions needs
+54	as a donor representative i want to access descriptive information about the images scanned for my institutions needs
+54	as a donor representative i want to access the descriptive information about the images scanned for my institution's need
+54	as a donor representative i want to access the descriptive information about the images scanned for my institution needs
+54	as a donor representative i want to access the descriptive information about the images scanned for my institution's needs
+54	as a donor representative i want to access the descriptive information about the images scanned for my institutions needs
+55	please look at images that have been scanned from my collection so i can use them in my exhibits reports etc
+55	please look at images that have been scanned from my collection so i can use them in my institutions exhibits reports etc
+55	as a donor representative i want to look at images scanned from my collection so that i can use them in my institutions exhibits reports etc
+55	as a donor representative i want to look at the images that have been scanned from my collection so i can use them in my institutions exhibits reports etc
+55	as a donor representative i want to look at the images that have been scanned from my collection so that i can use them in my institutions exhibit reports etc
+55	as a donor representative i want to look at images that have been scanned from my collection so i can use them in my institutions exhibits reports etc
+55	as a donor representative i want to look at the images that have been scanned from my collection so that i can use them in my institutions exhibits reports etc
+55	as a donor representative i want to look at images that have been scanned from my collection so that i can use them in my institutions exhibitions reports etc
+55	as donor representative i want to look at images that have been scanned from my collection so that i can use them in my institutions exhibits reports etc
+55	as a donor representative i want to look at images that have been scanned from my collection so that i can use them in my institutions exhibits report etc
+55	as a donor representative i want to look at images that have been scanned from my collection so that i can use them in my institutions exhibits reports etc i
+55	as a donor representative i want to look at images that have been scanned from my collection so that i can use them in my institutions exhibits reports etc
+55	as a donor representative i want to look at images that have been scanned from my collection so that i can use them in my institutions exhibits reports etc 
+56	my job is as researcher to search for files by keyword ''
+56	as a researcher i want to search all files by a specific keyword
+56	my job is as researcher to search for files by keywords
+56	my job is as researcher to search the files by keyword
+56	my job is as researcher to search for files by keyword
+56	as a researcher i want to search all files by a single keyword
+56	as a researcher i want to search all files by a single word
+56	my job is as researcher to search all files by keywords
+56	my job is as researcher to search all files by keyword
+56	as a researcher i want to search for all files by keywords
+56	as a researcher i want to search for all files by keyword
+56	as researcher i want to search all files by keyword
+56	as a researcher i want to search all files by a keyword
+56	as a researcher i want to search all files by keyword
+56	as a researcher i want to search all files by keywords
+57	my job is to search for keywords so i can learn what already exists digitally and avoid further duplication requests
+57	my job is to search for keywords so i can learn what already exists digitally and avoid additional duplication requests
+57	my job is to search for keywords so i can learn what exists digitally and avoid placing additional duplication requests
+57	my job is to search for keywords so i can learn what already exists digitally and avoid placing additional duplicate requests
+57	my job is to search for keywords so i can learn what already exists digitally and avoid placing additional duplication requests ''
+57	my job is to search for keywords so i can learn what already exists digitally and avoid placing additional duplication requests i
+57	my job is to search for keywords so i can learn what already exists digitally and avoid placing additional duplication requests
+57	as a researcher i want to search by keyword so i can learn what already exists digitally and avoid placing additional duplicate requests
+57	as a researcher i want to search by keywords so i can learn what already exists digitally and avoid placing additional duplication requests
+57	as a researcher i want to search by keyword so i can learn what already exists digitally and avoid placing additional duplication requests
+57	as a researcher i want to search by keyword so that i can learn what already exists digitally and avoid placing additional duplicate requests
+57	as a researcher i want to search by keyword so that i can learn what already exists digitally and avoid placing additional duplication request
+57	as a researcher i want to search by keyword so that i can learn what already exists digitally and avoid placing additional duplication requests
+58	i want to see common material across collections so i can prepare a thorough analysis
+58	i want to see common material across collections so i can prepare a detailed analysis
+58	i want to see common material across collections so i can prepare a complete analysis
+58	i want to see common material across collections so that i can prepare a comprehensive analysis of them
+58	i want to see common material across collections so i can prepare a comprehensive analysis
+58	i want to see common material across collections so that i can prepare a comprehensive analysis ''
+58	as a researcher i want to see common material across collections so i can prepare a detailed analysis
+58	i want to see common material across collections so that i can prepare a comprehensive analysis
+58	as a researcher i want to see common material across collections to prepare a comprehensive analysis
+58	as a researcher i want to see common material across collections so that i can prepare a detailed analysis
+58	as a researcher i want to see common materials across collections so i can prepare a comprehensive analysis
+58	as a researcher i want to see common material across collections so i can prepare a comprehensive analysis
+58	when i am a researcher i want to see common material across collections so i can prepare a comprehensive analysis
+58	as a researcher i want to see common material across collections so that i can prepare a comprehensive analysis
+58	when i am a researcher i want to see common material across collections so that i can prepare a comprehensive analysis
+59	my job is to browse a collection of documents
+59	my job is to browse a collection of files
+59	my job is to browse through files in a collection of research papers
+59	my job is to browse through files in a collection as a researcher
+59	my job is to browse through files in a collection of documents
+59	my job is to browse through the collection
+59	my job is to browse the files in a collection
+59	my job is to browse through files in a collection
+59	as a researcher i want to browse through a collection of documents
+59	as a researcher i want to browse through a collection of files
+59	as a researcher i want to browse files in a collection
+59	as a researcher i want to browse through the files in a collection
+59	as researcher i want to browse through files in a collection
+59	as a researcher i want to browse through files in a collection
+60	as archiver i want to browse through a collection of documents
+60	as archiver i want to browse through a collection of records
+60	as archiver i want to browse through a collection of files
+60	as archiver i want to browse through a collection of files in a collection
+60	as an archivist i want to browse through a collection of documents
+60	as an archivist i want to browse through a collection of files
+60	as archiver i want to browse through files in an archive
+60	as archiver i want to browse through a collection
+60	as archiver i want to browse files in a collection
+60	as an archivist i want to browse through files in a collection of documents
+60	as an archivist i want to browse through a collection
+60	as an archivist i want to browse through the files in a collection
+60	as archivist i want to browse through files in a collection
+60	as an archivist i want to browse through files in a collection
+61	the archivist i want to search all files by a search term
+61	the archivist i want to search all files by a specific keyword
+61	the archivist i want to search by keyword
+61	the archivist i want to search by keywords
+61	the archivist i want to search all files by a single keyword
+61	the archivist i want to search all files by a key word
+61	the archivist i want to search all files by a keyword
+61	as an archivist i want to search for all files by keyword
+61	as an archivist i want to search for all files by keywords
+61	as archivist i want to search all files by keyword
+61	as an archiver i want to search all files by keyword
+61	the archivist i want to search all files by keyword
+61	the archivist i want to search all files by keywords
+61	as an archivist i want to search all files by keywords
+61	as an archivist i want to search all files by keyword
+62	we need inventories so that our donor representatives can request their material more quickly i want to upload inventories
+62	we need inventories so that our donor representatives can request their material more quickly as archivists do
+62	we need inventories so that our donors can request their material easier
+62	we need inventories so that our donors can request their material faster
+62	we need inventories so that our donor representatives can request their material more quickly and efficiently
+62	we need inventories so that our donor representatives can request their material more quickly as archivists
+62	we need inventories so that our donor representatives can request their material more quickly as archivist
+62	we need inventories so that our donor representatives can request their material more quickly and easily
+62	we need inventories so that our donor representatives can request their material more efficiently
+62	we need inventories so that our donor representatives can request their material more quickly
+62	we need inventories so that our donor representatives can request their material more easily
+62	we need inventories so that our donor representatives can request their material easier
+62	we need inventories so that our donor representatives can request their material faster
+62	as an archivist i want to upload inventories so that our donors have an easier time requesting their material
+62	as an archivist i want to upload inventories so that our donor representatives have an easier time requesting their material
+63	as an archivist i want to search by tag so that it makes it easier to find particular images
+63	as an archivist i want to search by tag so that it makes it easier to find particular pictures
+63	as an archivist i want to search by tag so that it makes it easier to find particular photos
+63	as an archivist i want to search by tag so that it makes it easier to find particular photography
+63	as an archivist i want to search by tag so that it makes it easier to find particular photographs
+63	the archivist i want to search by tag so that it makes finding specific photos easier
+63	the archivist i want to search by tag so that finding particular photographs is easier
+63	the archivist i want to search by tag so that it makes finding specific photographs easier
+63	the archivist wants to search by tag so that it makes finding particular photos easier
+63	as an archivist i want to search by tag so that it makes finding specific photographs easier
+63	the archivist wants to search by tag so that it makes finding particular photographs easier ''
+63	the archivist wants to search by tag so that it makes finding particular photographs easier
+63	as an archivist i want to search by tag so that it makes finding particular photos easier
+63	as an archivist i want to search by tags so that it makes finding particular photographs easier
+63	as an archivist i want to search by tag so that it makes finding particular photographs easier
+64	if i want to access the digital files on my x-drive i need to use them ''
+64	if i want to access the digital files on my x-drive i have to use it
+64	if i want to access the digital files on my x-drive i have to use them ''
+64	if i want to access the digital files on my x-drive i need to use them
+64	if i want to access the digital files on the x-drive i need to use them ''
+64	if i want to access the digital files on my x-drive i have to use them
+64	if i want to access the digital files on the x-drive i need to use them
+64	if i want to access the digital files on the x-drive i have to use them
+64	as an archivist i want to access digital files on the x-drive so i can use them
+64	as archivist i want to access the digital files on the x-drive so i can use them
+64	as an archivist i want to access the digital files on the x-drive so i can use them
+64	as an archivist i want to access the digital files on the x-drive so that i can use it
+64	as an archivist i want to access the digital files on the x-drive so that i can use them
+65	as a assistant archivist i want to easily access interdepartmental forms and documents
+65	as an assistant archivist i want to access interdepartmental forms easily
+65	as an assistant archivist i want to easily access interdepartmental forms and documents
+65	my job as an assistant archivist is to have easy access to interdepartmental forms
+65	assistant archivist i want to quickly access interdepartmental forms
+65	as an assistant archivist i want to easily access interdepartmental forms and forms
+65	assistant archivist i want to easily access interdepartmental forms
+65	as an assistant archivist i want to quickly access interdepartmental forms
+65	when i'm an assistant archivist i want to easily access intra- departmental forms
+65	as assistant archivist i want to easily access interdepartmental forms
+65	as a assistant archivist i want to easily access interdepartmental forms -
+65	as an assistant archivist i want to easily access interdepartmental forms ''
+65	as a assistant archivist i want to easily access interdepartmental forms
+65	as an assistant archivist i want to easily access interdepartmental forms
+65	when i'm an assistant archivist i want to easily access interdepartmental forms
+66	if i want to have electronic versions of the collection files available for staff use so that i increase accessibility and i don't lose the original files i would have
+66	if i want to have electronic versions of the collection files available for staff use so that i increase accessibility and i don't lose the original files i'll have
+66	if i want to have electronic versions of the collection files available for staff use so that i increase accessibility and i don't lose the original files i'm not
+66	if i want to have electronic versions of the collection files available for staff use so that i increase accessibility and i don't lose the original files i'm 
+66	if i want to have electronic versions of the collection files available for staff use so that i increase accessibility and i do not lose the original files i have
+66	if i want to have electronic versions of the collection files available for staff use so that i increase accessibility and i don't lose the original files
+66	if i want to have electronic versions of the collection files available for staff use so that i increase accessibility and i do not lose the original files
+66	as an archivist i want to have electronic versions of the collection files available for staff use so that i increase accessibility and i don't lose the original documents
+66	as an archivist i want to have electronic versions of the collection files available for staff use so i can increase accessibility and i don't lose the original files
+66	in my role as archivist i want to have electronic versions of the collection files available for staff use so i increase accessibility and i don't lose the original files
+66	as an archivist i want to have electronic versions of the collection files available for staff use so i increase accessibility and i don't lose the original files 
+66	as an archivist i want to have electronic versions of the collection files available for staff use so i increase accessibility and i don't lose the original files
+66	as an archivist i want to have electronic versions of the collection files available for staff use so i increase accessibility and i do not lose the original files
+66	as an archivist i want to have electronic versions of the collection files available for staff use so that i increase accessibility and i don't lose the original files
+66	as an archivist i want to have electronic versions of the collection files available for staff use so that i increase accessibility and i do not lose the original files
+67	researcher i want to be able to search through photo collection images so i can prepare presentations
+67	researcher i want to be able to search across photo collection images so i can make presentations
+67	researcher i want to be able to search across photo collection images so i can prepare presentations ''
+67	researcher i want to be able to search across photo collections images so i can prepare presentations
+67	researcher i want to be able to search across photo collection images so i can prepare presentation
+67	as a researcher i want to be able to search through photo collection images so i can prepare presentations
+67	researcher i want to be able to search across photo collection images so i can prepare presentations
+67	as a researcher i want to be able to search across photo collections images so i can prepare presentations
+67	if i am a researcher i want to be able to search across photo collections images so i can prepare presentations
+67	if i am a researcher i want to be able to search across photo collection images so i can prepare presentations
+67	as a researcher i want to be able to search across photo collection images so i can prepare presentations
+67	as a researcher i want to be able to search across photo collections images so that i can prepare presentations
+67	as a researcher i want to be able to search across photo collections images so that i can prepare presentations 
+67	as a researcher i want to be able to search across photo collection images so that i can prepare presentations
+67	as a researcher i want to be able to search across photo collection images so that i can prepare presentations 
+68	researchers want to search using structured data so i can find everything relevant to my research across collections
+68	researchers want to search using structured data so they can find everything relevant to their inquiry across collections
+68	researcher wants to search using structured data so i can find everything relevant to my inquiry across collections ''
+68	researchers want to search using structured data so i can find everything relevant to my inquiry across collections ''
+68	researchers want to search using structured data so i can find everything relevant for my inquiry across collections
+68	researcher wants to search using structured data so i can find everything relevant to my inquiry across collections
+68	researchers want to search using structured data so i can find everything relevant to my inquiry across collections
+68	as a researcher i want to search using structured data to find everything relevant to my inquiry across collections
+68	as a researcher i want to search using structured data so i can find everything relevant to my question across collections
+68	as a researcher i want to search using structured data so that i can find everything relevant to my question across collections
+68	as a researcher i want to search using structured data so i can find everything relevant to my inquiry across collections
+68	as a researcher i want to search using structured data so that i can find everything relevant to my inquiry across collection
+68	as a researcher i want to search using structured data so that i can find everything relevant to my inquiry across collections
+68	as a researcher i want to search using structured data so that i can find everything relevant to my inquiry across collections 
+69	my job is to access tagged working papers so that my research process is informed
+69	my job is to access tagged working papers so that my research process can be informed
+69	my job is to access tagged working papers so my research process is better informed
+69	my job is to access tagged working papers so that my research process is more informed
+69	my job is to access tagged working papers so that my research process is better informed ''
+69	my job is to access tagged working papers so that my research process is better informed
+69	as a researcher i want to access tagged working papers so that my research process is more informed
+69	as a researcher i want to access tagged working papers so my research process is better informed
+69	as a researcher i want to access tagged work papers so that my research process is better informed
+69	as researcher i want to access tagged working papers so that my research process is better informed
+69	as a researcher i want to access tagged working papers so that my research process is better  informed
+69	as a researcher i want to access tagged working papers so that my research process is better informed
+69	as a researcher i want to access tagged working papers so that my research process is better informed 
+70	if i want to make connections with institutions i want to access educational outreach materials
+70	as a researcher i want to access educational outreach materials to make connections with institutions
+70	as a researcher i want to access educational outreach materials so i can make contacts with institutions
+70	as a researcher i want to access educational outreach materials so i can make connections to institutions
+70	for me as a researcher i want to access educational outreach materials so i can make contacts with institutions
+70	as a researcher i want to access educational outreach materials so i can make connections with institutions ''
+70	for me as a researcher i want to access educational outreach materials so i can make connections to institutions
+70	as a researcher i want to access educational outreach materials so i can make connections with institutions
+70	as a researcher i want to access educational outreach materials so that i can make connections to institutions
+70	for me as a researcher i want to access educational outreach material so i can make connections with institutions
+70	for me as a researcher i want to access educational outreach materials so i can make connections with institutions
+70	as a researcher i want to access educational outreach materials so that i can make connections with institutions 
+70	as a researcher i want to access educational outreach materials so that i can make connections with institutions
+70	for me as a researcher i want to access educational outreach materials so that i can make connections with institutions
+71	a researcher wants to have accurate cross-collection citation information so i can find the material
+71	a researcher wants accurate cross-collection citation information so i can find materials again
+71	a researcher wants to have accurate cross-collection citation information to find materials again
+71	a researcher wants to have accurate cross-collection citation information so i can find materials
+71	a researcher wants to have accurate cross-collection citation information so i can find material again ''
+71	as a researcher i want accurate cross-collection citation information so i can find materials again
+71	a researcher wants to have accurate cross-collection citation information so i can find materials again ''
+71	a researcher wants to have accurate cross-collection citation information so i can find material again
+71	a researcher wants to have accurate cross-collection citation information so i can find materials again 
+71	a researcher wants to have accurate cross-collection citation information so i can find materials again
+71	as a researcher i want accurate cross-collection citation information so that i can find materials again
+71	as a researcher i want to have accurate cross-collection citation information so that i can find materials
+71	as a researcher i want to have accurate cross-collection citation information so i can find materials again
+72	my job is as researcher to access digitized archives without mediation
+72	my job is as researcher to access digitized archives without mediation so i can decide what to look at and how
+72	my job is as researcher to access digitized archives without mediation so i can decide what to see
+72	my job is as researcher to access digitized archives without mediation so i can decide what to look at and why
+72	my job is as researcher to access digitized archives without mediation so i can choose what to look at
+72	my job is as researcher to access digitized archives without mediation so i can decide what to look for
+72	my job is as researcher to access digitized archives without mediation so i can decide what i want to look at and how
+72	my job is as researcher to access digitized archives without mediation so i can decide what to look at
+72	my job is as researcher to access digitized archives without mediation so i can decide what i want to look at and why
+72	my job is as researcher to access digitized archives without mediation so i can decide what i want to look
+72	my job is as researcher to access digitized archives without mediation so i can decide what i want to look for
+72	my job is as researcher to access digitized archives without mediation so i can decide what i want to look at
+72	as a researcher i want to access digitized archives without mediation so i can decide what i want to look at
+72	as a researcher i want to access digitized archival materials without mediation so i can decide what i want to see
+72	as a researcher i want to access digitized archive materials without mediation so i can decide what i want to look at
+73	if i want to distinguish between images scanned in color or black and white i need to know if these images meet publication requirements
+73	if i want to distinguish between images scanned in color or black and white i need to know whether these images meet the publication requirements
+73	if i want to distinguish between images scanned in color or black and white i need to know whether these images meet publication requirements
+73	if i want to distinguish between images scanned in color or black and white i need to know whether or not these images meet publication requirements i have
+73	if i want to distinguish between images scanned in color or black and white i have to know whether these images meet publication requirements
+73	if i want to distinguish between images scanned in color or black and white i need to know whether or not these images meet publication requirements ''
+73	if i want to distinguish between images scanned in color or black and white i need to know whether or not these images meet publication requirements i
+73	if i want to distinguish between images scanned in color or black and white i need to know whether or not these images meet publication requirements
+73	if i want to distinguish between images scanned in color or black and white i need to know whether or not these images meet publication requirements 
+73	as an archivist i want to distinguish between images scanned in color or black and white so i know whether these images meet publication requirements
+73	as an archivist i want to distinguish between images scanned in color or black and white so i know whether or not these images meet the publication requirements
+73	as an archivist i want to distinguish between images scanned in color or black and white so that i know whether these images meet publication requirements
+73	as an archivist i want to distinguish between images scanned in color or black and white so i know whether or not these images meet publication requirements
+73	as an archivist i want to distinguish between images scanned in color or black and white so that i know whether or not these images meet publication requirements
+74	ask me a question about a specific file so i can find out more information about the file
+74	ask me a question about a specific file so i can find out more
+74	ask me a question about a specific file so i can find out more information about it
+74	ask me a question about a specific file so that i can find out more
+74	ask me a question about a specific file so i can get more information
+74	ask me a question about a specific file so that i can find out more about it
+74	ask me a question about a specific file so i can find more information
+74	ask me a question about a specific file so that i can find out more information about it
+74	ask me a question about a specific file so i can find out more information
+74	ask me a question about a specific file so that i can find out more information
+74	as an investigator i want to ask a question about a particular file so i can find out more information
+74	as a researcher i want to ask a question about a specific file so i can find out more
+74	as a researcher i want to ask a question about a specific file to find out more information
+74	as an investigator i want to ask a question about a specific file so i can find out more information
+74	as an academic i want to ask a question about a specific file so i can find out more information
+75	when searching ocred text in all available digitized textual documents i want to locate digitized documents relevant to my research
+75	when searching ocred text in all available digitized textual documents i want to more efficiently locate digitized documents relevant to my work
+75	when searching ocred text in all available digitalized textual documents i want to more efficiently locate digitized documents relevant to my research i
+75	when searching ocred text in all available digitized textual documents i want to more efficiently locate digitized documents relevant to my research for
+75	when searching ocred text in all available digitized textual documents i want to more efficiently locate digitized documents relevant to my research the
+75	when searching ocred text in all available digitalized textual documents i want to more efficiently locate digitized documents relevant to my research
+75	when searching ocred text in all available digitized textsual documents i want to more efficiently locate digitized documents relevant to my research i
+75	when searching ocred text in all available digitized textual documents i want to more efficiently locate digitized documents relevant to my research i
+75	when searching ocred text in all available digitized textsual documents i want to more efficiently locate digitized documents relevant to my research
+75	when searching ocred text in all available digitized textual documents i want to more efficiently locate digitized documents relevant to my research
+75	if i want to find ocred text in all available digitized textual documents i can more efficiently locate digitized documents relevant to my research
+75	if i want to search ocred text in all available digitized textual documents i can more efficiently locate digitized documents relevant to my research
+76	the date on which something was digitized as a researcher i want to know whether it's been digitized since i last looked at it
+76	the date on which something was digitized i want to know so i know if it's been digitized since i last looked at the document
+76	the date on which something was digitized i want to know so i know if it's been digitized since i last looked at the database
+76	the date on which something was digitized as a researcher i want to know whether it's been digitized since i last looked at
+76	the date on which something was digitized i want to know so i know if it's been digitized since i last looked at the data
+76	the date on which something was digitized as a researcher i want to know whether it's been digitized since i last looked
+76	the date on which something was digitized i want to know so i know if it's been digitized since i looked last
+76	the date on which something was digitized i want to know so i know if it's been digitized since i last looked at it
+76	the date on which something was digitized i want to know so i know if it's been digitized since i last looked at
+76	the date on which something was digitized i want to know so i know if it's been digitized since i last looked
+76	as a researcher i want to know the date on which something was digitized so i know if it was digitized since i last looked
+76	as a researcher i want to know the date on which something was digitized so i know if it has been digitized since i last looked
+76	as a researcher i want to know the date on which something was digitized so i know if it's been digitized since i last looked
+77	in my research i want to keyword search across all rf program officer's scanned diary segments rather than having to search each scanned diary segment separately so i can more efficiently locate diary entries relevant to my research 
+77	in my research i want to keyword search across all rf program officer's scanned diary segments rather than having to search each scanned diary segment separately so i can more efficiently locate diary entries relevant to my research
+77	in my research i want to keyword search across all rf program officer's scanned diaries rather than having to search each scanned diary segment separately so i can more efficiently locate diary entries relevant to my study
+77	in my research i want to keyword search across all rf program officer's scanned diaries rather than having to search each scanned diary segment separately so i can more effectively locate diary entries relevant to my research
+77	in my research i want to keyword search across all rf program officers scanned diaries rather than having to search each scanned diary segment separately so i can more efficiently locate diary entries relevant to my research
+77	in my research i want to keyword search across all rf program officer's scanned diaries rather than having to search each scanned diary segment separately so i can more efficiently locate diary entries relevant to my research
+77	in my research i want to keyword search across all rf program officer's scanned diaries rather than having to search each scanned diary segment separately so i can more efficiently locate diary entries relevant to my research 
+77	in my research i want to keyword search across all rf program officers scanned diaries rather than having to search each scanned diary segment separately so that i can more efficiently locate diary entries relevant to my research
+77	as a researcher i want to keyword search across all rf program officer's scanned diaries rather than having to search each scanned diary segment separately so i can more efficiently locate diary entries relevant to my research
+78	as archiver i want to access inventories for unprocessed collections to provide reference services to donors ''
+78	as archiver i want to access inventory for unprocessed collections so i can provide reference services to donors i have
+78	as archiver i want to access inventories for unprocessed collections to provide reference services for donors
+78	as archiver i want to access inventories for unprocessed collections so i can provide references to donors
+78	as archiver i want to access inventories for unprocessed collections to provide reference services to donors
+78	as archiver i want to access inventory for unprocessed collections so i can provide reference services to donors ''
+78	as archiver i want to access inventory for unprocessed collections so i can provide reference services for donors
+78	as archiver i want to access inventory for unprocessed collections so i can provide reference services to donors i
+78	as archiver i want to access inventory for unprocessed collections so i can provide reference services to donors 
+78	as archiver i want to access inventory for unprocessed collections so i can provide reference services to donors
+78	as an archivist i want to access inventories for unprocessed collections so i can provide references to donors
+78	as an archivist i want to access inventories for unprocessed collections to provide reference services to donors
+78	as archivist i want to access inventories for unprocessed collections so i can provide reference services to donors
+78	as an archivist i want to access inventories for unprocessed collections so i can provide reference services to donors
+79	as a researcher i want to view thumbnails of photos so i can choose which one i want to license
+79	when i am a researcher i want to view thumbnails of photos so i can make a selection of what i want to licence
+79	when i am a researcher i want to view thumbnails of photos so i can make a selection of what i want to license
+79	as a researcher i want to see thumbnails of photos so i can make a selection of which one i want to license
+79	as a researcher i want to view thumbnails of photos so i can make a selection of which one i want license
+79	as a researcher i want to view thumbnails of photos so i can make a selection which one i want to license
+79	in my job as a researcher i want to view thumbnails of photos so i can make a selection which one i want to license
+79	in my role as a researcher i want to view thumbnails of photos so i can make a selection which one i want to license
+79	as a researcher i want to view thumbnails of photos so i can make a selection of which one i want to license
+79	as a researcher i want to view thumbnails of photos so that i can make a selection of which one i want to licence
+79	as a researcher i want to view thumbnails of photos so that i can make a selection of which one i want to license 
+79	as a researcher i want to view thumbnails of photos so that i can make a selection of which one i want to license
+80	as a researcher i want to know when only part of a folder has been digitized so i know if i'm seeing everything or only a portion of the
+80	if i'm a researcher i want to know when only part of a folder has been digitized so i know if i'm seeing everything or just a portion
+80	if i'm a researcher i want to know when only part of a folder has been digitized so i know if i see everything or only a portion
+80	as a researcher i want to know when only part of a folder has been digitized so i know if i'm seeing everything or only a portion of it
+80	as a researcher i want to know when only part of a folder has been digitized so i know if i see everything or only a portion
+80	if i'm a researcher i want to know when only part of a folder has been digitized so i know if i'm seeing everything or only a portion
+80	as a researcher i want to know when only part of a folder has been digitized so i know if i'm seeing everything or only a portion
+80	as a researcher i want to know when only part of a folder has been digitized so that i know if i see everything or only a portion
+80	as a researcher i want to know when only part of a folder has been digitized so that i know if i am seeing everything or only a portion of the
+80	as a researcher i want to know when only part of a folder has been digitized so i know if i am seeing everything or only a portion
+80	as a researcher i want to know when only part of a folder has been digitized so that i know if i am seeing everything or only a portion of it
+80	as a researcher i want to know when only part of a folder has been digitized so that i know if i am seeing everything or only a part
+80	as a researcher i want to know when only part of a folder has been digitized so that i know if i am seeing everything or only a portion of
+80	as a researcher i want to know when only part of a folder has been digitized so that i know if i am seeing everything or only a portion
+81	please see thumbnails of the images so that i can choose which one i want to see as a donor representative
+81	please see thumbnails of the images so that i can choose which one i want as a donor representative
+81	please see thumbnails of the images so that i can select which one i want as a donor representative
+81	please see thumbnails of the images so that i can choose which one i want as a representative
+81	please see thumbnails of the images so that i can choose which one i want as a donor
+81	please see thumbnails of the images so that i can choose which one i want to see
+81	please see thumbnails of the images so i can choose which one i want
+81	please see thumbnails of the images so that i can choose which one i want
+81	please see thumbnails of the images so that i can select which one i want
+81	as a donor representative i want to see thumbnails of images so i can choose which one i want to
+81	as donor representative i want to see thumbnails of images so i can choose which one i want
+81	as a donor representative i want to see thumbnails of images so i can choose which one i want
+81	as a donor representative i want to see thumbnails of images so that i can choose which one i want
+81	as a donor representative i want to see thumbnails of images so i can select which one i want
+81	as a donor representative i want to see thumbnails of images so that i can select which one i want
+82	my job is to view movie clips so i can see excerpts from films
+82	my job is to view movie clips so i can see excerpts of films
+82	my job is to view films so that i can see excerpts from films
+82	my job is to view films so that i can see excerpts of films
+82	my job is to view film clips so i can see excerpts of films
+82	as a researcher i want to view film clips to see excerpts of films
+82	as a researcher i want to view movie clips so i can see excerpts of films ''
+82	as a researcher i want to view film clips so i can see excerpts of movies
+82	as a researcher i want to view movie clips so i can see excerpts of films
+82	as a researcher i want to view film clips so i can see excerpts from films
+82	as a researcher i want to view film clips so i can see excerpts of films ''
+82	as a researcher i want to view film clips so i can see excerpts of films
+82	when i am a researcher i want to view film clips so i can see excerpts of films
+82	as a researcher i want to view film clips so that i can see excerpts of films
+83	my job is to search for images by photographer
+83	my job is to search images by photographer
+83	my job is to search images by photographers
+83	the archivist i want to search images by the photographers
+83	the archivist i want to search images by the photographer
+83	the archivist wants to search images by photographer
+83	the archivist i want to search images by photographer ''
+83	as an archivist i want to search for images by photographer
+83	as an archivist i want to search for images by photographers
+83	the archivist i want to search images by photographers
+83	as archivist i want to search images by photographer
+83	the archivist i want to search images by photographer
+83	as a archivist i want to search images by photographer
+83	as an archivist i want to search images by photographer
+83	as an archivist i want to search images by photographers
+84	my job is to search images by the people represented in them
+84	my job is to search images of people represented in them
+84	as an archivist i want to search images by the people who are represented in those images
+84	as an archivist i want to search images by the people who are represented in these images
+84	my job is to search images by people represented in them
+84	as an archivist i want to search images by the people who are represented there
+84	as an archivist i want to search images by the people who are represented in these
+84	as an archivist i want to search images by the people who are represented in them
+84	my job as an archivist is to search for images of people represented in them
+84	as an archivist i want to search images by the people represented in them ''
+84	as an archivist i want to search for images by people represented in them
+84	as an archivist i want to search images by the people represented in them
+84	as a archivist i want to search images by people represented in them
+84	as an archivist i want to search images by people represented in them
+85	as an archivist i want to search for images by the place where the photo took place
+85	as an archivist i want to search for images by the place where the photo was shot
+85	as an archivist i want to search images by the place where the photo was taken i have
+85	as an archivist i want to search for images by the place where the photo was taken
+85	as an archivist i want to search images by the place where the photo was taken ''
+85	as an archivist i want to search images by the place where the photo was taken '
+85	as an archivist i want to search images by the place where the photo was taken
+85	in my capacity as an archivist i want to search images by place where the photo was taken
+85	in my role as an archivist i want to search images by the place where the photo was taken
+85	as an archivist i want to search images by place where the photo was taken
+85	in my job as an archivist i want to search images by place where the photo was taken
+85	as an archivist i want to search images by the place the photo was taken
+85	in my role as a archivist i want to search images by place where the photo was taken
+85	in my role as an archivist i want to search images by place where the photo was taken
+85	as an archivist i want to search images by place the photo was taken
+86	i want to search images by rights
+86	in my role as an archivist i want to search images according to rights
+86	as an archivist i want to search by rights
+86	as a archivist i want to search images by their rights
+86	as archivist i want to search images by rights
+86	as an archiver i want to search images by rights
+86	as a archivist i want to search images by rights ''
+86	as a archivist i want to search images by right
+86	as an archivist i want to search images by rights ''
+86	as a archivist i want to search images by rights
+86	in my capacity as an archivist i want to search images by rights
+86	as an archivist i want to search images by rights
+86	in my role as a archivist i want to search images by rights
+86	in my role as an archivist i want to search images by rights
+87	i want to search for index cards and other non-public finding aids so i can provide better research help
+87	i want to search for index cards and other non-public finding aids so i can provide better research support
+87	i want to search for index cards and other non-public finding aids so that i can provide better research assistance to the public
+87	i want to search for index cards and other non-public finding aids to provide better research assistance
+87	i want to search for index cards and other non-public finding aids so that i can provide better research help
+87	i want to search for index cards and other nonpublic finding aids so i can provide better research assistance
+87	i want to search for index cards and other non-public finding aids so i can provide better research assistance
+87	i want to search for index cards and other non-public finding aids so that i can provide better research assistance
+87	as an archivist i want to search index cards and other non-public finding aids so i can provide better research help
+87	as an archivist i want to search index cards and other non-public finding aids to provide better research assistance
+87	as an archivist i want to search index cards and other non-public finding aids so that i can provide better research help
+87	as archivist i want to search index cards and other non-public finding aids so i can provide better research assistance
+87	as a archivist i want to search index cards and other non-public finding aids so i can provide better research assistance
+87	as an archivist i want to search index cards and other non-public finding aids so i can provide better research assistance
+87	as an archivist i want to search index cards and other non-public finding aids so that i can provide better research assistance
+88	archivist i want to view collection files to gain background information to process a collection
+88	archivist i want to view collection files to gain background information about processing a collection
+88	archivist i want to view collection files to gain background information for processing a collection
+88	as an archivist i want to view collection files so i can gain background information for processing a collection of documents
+88	as an archivist i want to view collection files so that i can gain background information for processing a collection of documents
+88	as an archivist i want to view collection files to gain background information for processing a collection
+88	as an archivist i want to view collection files so i can gain background information to process a collection
+88	as archivist i want to view collection files so i can gain background information for processing a collection
+88	when i'm an archivist i want to view collection files so i can gain background information for processing the collection
+88	as an archivist i want to view collection files so i can gain background information for processing a collection ''
+88	as an archivist i want to view collection files so i can gain background information for processing a collection
+88	as an archivist i want to view collection files so that i can gain background information for processing a collection -
+88	as an archivist i want to view collection files so that i can gain background information for processing a collection
+89	i want to see the physical location of non-archival material so i can provide research services to donors
+89	i want to see the physical locations of non-archival material so i can provide research services to donors
+89	i want to see the physical locations for non-archival material so i can provide research services to donors
+89	i want to see the physical locations for non-archival material so that i can provide research services to donors ''
+89	i want to see the physical locations of non-archival material so that i can provide research services to donors
+89	i want to see the physical locations for non-archival material so that i can provide research services to donors
+89	as an archivist i want to view physical locations for non-archival material to provide research services to donors
+89	as an archivist i want to see physical locations for non-archival material so i can provide research services to donors
+89	as a archivist i want to view physical locations for non-archival material so i can provide research services to donors
+89	as an archivist i want to view physical locations for non-archival material so i can provide research services to donors
+89	as an archivist i want to view physical locations for non-archival material so that i can provide research services for donors
+89	as an archivist i want to view physical locations for non-archival material so that i can provide research services to donors i
+89	as an archivist i want to view physical locations for non-archival material so that i can provide research services to donors
+89	as an archivist i want to view physical locations for non-archival material so that i can provide research services to donors 
+90	if i want to find files that can't be made public i want to have easy access to everything digitized
+90	if i want to find files that can't be made public i want to easily access everything that's been digitized i want to find
+90	if i want to find files that can't be made public i want to easily access everything digitized
+90	if i want to find files that can't be made public i want to easily access everything that's been digitized in the past
+90	if i want to find files that can't be made public i want to easily access everything that's been digitized i don't
+90	if i want to find files that can't be made public i want to easily access everything that's been digitalized
+90	if i want to find files that can't be made public i want to easily access everything that's been digitised
+90	the archivist wants to find files that can't be made public so i can easily access everything digitized
+90	if i want to find files that can't be made public i want to easily access everything that's been digitized
+90	if i want to find files that can't be made public i want to easily access everything that's been digitized 
+90	the archivist i want to find files that cannot be made publicly available so i can easily access everything digitized
+90	as an archivist i want to find files that can't be made public so i can easily access everything that's been digitized
+90	as an archivist i want to find files that can't be made publicly available so i can easily access everything that has been digitized
+91	i want to access the metadata and visual representations of index cards so i can use this information to assist researchers in their research
+91	i want to access the metadata and visual representations of index cards so that i can use this information to assist researchers in their research
+91	i want to access the metadata and visual representations of index cards to use this information to assist researchers
+91	i want to access the metadata and visual representations of index cards so i can use this information to help researchers
+91	i want to access the metadata and visual representations of index cards so i can use this information to assist researchers
+91	i want to access the metadata and visual representations of index cards so i can use the information to assist researchers
+91	i want to access the metadata and visual representations of index cards so that i can use this information to assist researchers
+91	as archivist i want to access metadata and visual representations of index cards so i can use this information to assist researchers
+91	if i am an archivist i want to access metadata and visual representations of index cards so i can use this information to assist researchers
+91	as an archivist i want to access metadata and visual representations of index cards so i can use this information to assist researchers
+91	when i am an archivist i want to access metadata and visual representations of index cards so i can use this information to assist researchers
+91	as an archivist i want to access metadata and visual representations of index cards so i can use that information to assist researchers
+91	when i am an archivist i want to access metadata and visual representations of index cards so i can use that information to assist researchers
+91	as an archivist i want to access metadata and visual representations of index cards so that i can use this information to assist researchers
+91	as an archivist i want to access metadata and visual representations of index cards so that i can use that information to assist researchers
+92	i'm an archivist and i want to search for individual material type
+92	i'm an archivist and i want to search for individual material types
+92	as an archivist i want to search for individual material types ''
+92	i'm an archivist and i want to search individual material types
+92	i'm an archivist i want to search for individual material types
+92	as an archivist i want to search for individual material types
+92	as archivist i want to search individual material types
+92	i'm an archivist i want to search individual materials types
+92	as a archivist i want to search individual material types ''
+92	i'm an archivist i want to search individual material types
+92	as an archivist i want to search individual material types ''
+92	as an archivist i want to search individual materials types
+92	as a archivist i want to search individual material types
+92	as an archivist i want to search individual material types
+93	my job is to search for images by uploading an image so i can find images without metadata
+93	my job is to search for images by uploading an image so i can find images when i don't have metadata about them
+93	my job is to search for images by uploading the image so i can find images when i don't have metadata
+93	my job is to search for images by uploading an image so i can find images when i don't have metadata
+93	my job is to search for images by uploading an image so i can find images when i don't have any metadata
+93	i want to search images by uploading an image so i can find images when i don't have metadata
+93	when i'm an archivist i want to search images by uploading an image so i can find images without metadata
+93	i want to search images by uploading an image so i can find images when i don't have any metadata
+93	archivist i want to search images by uploading an image so i can find images when i don't have metadata
+93	archivist i want to search images by uploading an image so i can find images when i don't have any metadata
+93	as an archivist i want to search images by uploading an image so i can find images when i don't have metadata
+93	as an archiver i want to search images by uploading an image so i can find images when i don't have any metadata
+93	as an archivist i want to search images by uploading an image so i can find images when i don't have any metadata
+93	as an archivist i want to search images by uploading an image so that i can find images when i don't have metadata
+93	as an archivist i want to search images by uploading an image so that i can find images when i don't have any metadata
+94	my role is to create user groups so i can control permissions for users
+94	my role is to create user groups so i can control permissions of users
+94	my role is to create user groups so i can control access
+94	my role is to create user groups so i can control access rights
+94	my role is to create user groups so i can control permissions
+94	as an administrator i want to create user groups to control user permissions
+94	if i'm administrator i want to create user groups so i can control user permissions
+94	as an administrator i want to create user groups so that i can control user rights
+94	as administrator i want to create user groups so i can control user permissions
+94	if i am an administrator i want to create user groups so i can control user permissions
+94	as an administrator i want to create user groups so i can control user permissions
+94	as administrator i want to create user groups so that i can control user permissions
+94	as an administrator i want to create user groups so that i can control user permission
+94	as an administrator i want to create user groups so that i can control user permissions
+95	my role is to create user roles so i can group users by role
+95	as administrator i want to create user roles so i can group users by role
+95	as an administrator i want to create user roles so i can group users by role ''
+95	as an administrator i want to create user roles so that i can group users by role i have
+95	when i'm an administrator i want to create user roles so i can group users by role
+95	when i'm an administrator i want to create user roles so i can group users by roles
+95	as an administrator i want to create user roles so i can group users by roles
+95	as an administrator i want to create user roles so i can group users by role
+95	when i am an administrator i want to create user roles so i can group users by role
+95	as administrator i want to create user roles so that i can group users by role
+95	as an administrator i want to create user roles so that i can group users by role
+95	as an administrator i want to create user roles so that i can group users by roles
+95	when i am an administrator i want to create user roles so that i can group users by role
+95	when i am an administrator i want to create user roles so that i can group users by roles
+96	how can rac staff be assigned to different users?
+96	how can rac staff be assigned to different user groups?
+96	how can rac staff be assigned to different user groups as administrator?
+96	how can rac staff be assigned to different user groups as an administrator?
+96	how can rac staff be assigned to different user groups so that i can control readwrite access to documents?
+96	how can rac staff be assigned to different users so that i can control readwrite access
+96	how can rac staff be assigned to different users so that i can control readwrite access?
+96	how can rac staff be assigned to different user groups so i can control readwrite access?
+96	how can rac staff be assigned to different user groups so i can control readwrite access
+96	how can rac staff be assigned to different user groups so that i can control readwrite access?
+96	how can rac staff be assigned to different user groups so that i can control readwrite access
+96	as administrator i want to assign rac staff to different user groups so i can control readwrite access
+96	as an administrator i want to assign rac staff to different user groups so i can control readwrite access
+96	as administrator i want to assign rac staff to different user groups so that i can control readwrite access
+97	a user group or role is assigned as administrator so i can control what a user can and cannot do
+97	a user group or role is assigned as an administrator so that i can control what users can and cannot do
+97	a user group or role can be assigned as administrator so that i can control what users can and cannot do
+97	as administrator i want to assign rights to user groups or roles so i can control what users can and can't do
+97	if i am an administrator i want to assign rights to user groups or roles so i can control what users can and cannot do
+97	as an administrator i want to assign rights to user groups or roles so i can control what users can and can't do ''
+97	as an administrator i want to assign rights to user groups or roles so i can control what users can and cannot do
+97	as an administrator i want to assign rights to user groups or roles so i can control what users can and can't do
+97	as an administrator i want to assign rights to user groups or roles so that i can control what users can and can't do i can
+97	if i am an administrator i want to assign rights to user groups or roles so i can control what users can and can't do
+97	as an administrator i want to assign rights to user groups or roles so that i can control what users can and cannot do
+97	as an administrator i want to assign rights to user groups or roles so that i can control what users can and can't do
+98	admins can log in using active directory credentials so i don't need to manage another set of usernames and passwords
+98	admins can log in using active directory credentials so i don't have to manage another set of usernames and passwords
+98	as administrator i want to allow users to log in using active directory credentials so i don't have to manage another set of usernames and passwords
+98	as an administrator i want to allow users to log in using active directory credentials so i don't have to manage another set of usernames and passwords
+98	as an administrator i want to allow users to log in using the active directory credentials so that i don't have to manage another set of usernames and passwords
+98	as administrator i want to allow users to log in using active directory credentials so that i don't have to manage another set of usernames and passwords
+98	as an administrator i want to allow users to log in using active directory credentials so that i don't have to manage another set of usernames and passwords 
+98	as an administrator i want to allow users to log in using active directory credentials so that i don't have to manage another set of usernames and passwords
+99	as administrator i want to have researchers reset their own passwords so i don't have to send them in cleartext
+99	administrator i want to have researchers reset their own passwords so that i don't have to send them in cleartext
+99	as an administrator i want to have researchers reset their own passwords so i don't have to send them in cleartext
+99	administrator i want to have researchers reset their own passwords so i don't have to send passwords in cleartext
+99	as administrator i want to have researchers reset their own passwords so i don't have to send passwords in cleartext
+99	as an administrator i want to have researchers reset their own passwords so that i don't have to send passwords in cleartext to them
+99	as an administrator i want to have researchers reset their own passwords so that i don't have to send passwords in cleartext i have
+99	as an administrator i want to have researchers reset their own passwords so that i don't have to send passwords in plain text
+99	as an administrator i want to have researchers reset their own passwords so i don't have to send passwords in cleartext
+99	as an administrator i want to have researchers reset their own passwords so that i don't have to send passwords in plaintext
+99	as an administrator i want to have researchers reset their own passwords so that i don't have to send passwords in cleartext i
+99	as an administrator i want to have researchers reset their own passwords so that i don't have to send passwords in clear text
+99	as an administrator i want to have researchers reset their own passwords so that i don't have to send passwords in cleartext 
+99	as an administrator i want to have researchers reset their own passwords so that i don't have to send passwords in cleartext
+100	how do you restrict the view of certain metadata fields?'
+100	how do you restrict who sees certain metadata fields?'
+100	how do you restrict the view of certain metadata fields so that you can hide things based on user groups?
+100	how do you restrict the view of certain metadata fields so that you can hide things from display based on user groups?
+100	how do you restrict the view of certain metadata fields so that you can hide things from display based on user groups
+100	how do you restrict who sees certain metadata fields so that you can hide things from display based on user group?
+100	how do you restrict who sees certain metadata fields so that you can hide things from display based on user groups?
+100	how do you restrict who sees certain metadata fields so that you can hide things from display based on user groups
+100	if i want to limit who can see certain metadata fields i can show or hide things from display based on user groups
+100	as an administrator i want to restrict who can see certain metadata fields so i can show or hide things from display based on user groups
+100	as administrator i want to limit who can see certain metadata fields so i can show or hide things from display based on user groups
+100	as an administrator i want to limit who can see certain metadata fields so i can show or hide things from display based on user groups
+100	as administrator i want to limit who can see certain metadata fields so that i can show or hide things from display based on user groups
+100	as an administrator i want to limit who can see certain metadata fields so that i can show or hide things from display based on user group
+100	as an administrator i want to limit who can see certain metadata fields so that i can show or hide things from display based on user groups
