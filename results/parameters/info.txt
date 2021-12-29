@@ -20,3 +20,6 @@ example: frase 46 results/parameters/fluency/first/fluency_1 results/parameters/
 do_diverse considera il second !
 
 total time alla fine del file è quello per tutti i file relativi a stessa esecuzione (quindi anche per file con numeri minori) !
+
+in results_number il number si riferisce a una stessa combinazione di parametri, se quel data set lo hai testato solo con una combinazione ovviamente avremo solo results_1, combinazione è scritta in cima
+first e second si riferiscono a diversi insiemi di combinazioni
