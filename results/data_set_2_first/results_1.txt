@@ -3,7 +3,7 @@ diversity_ranker = levenshtein
 do_diverse = True
 max_return_phrases = 10
 max_length = 32
-adequacy_threshold = 0.5
+adequacy_threshold = 0.1
 fluency_threshold = 0.1
 
 ----------------------------------------------------------------------------------------------------
@@ -336,12 +336,23 @@ Input_phrase: As an Applicant, I want to Satisfy Hearing Requirements, so that I
 ----------------------------------------------------------------------------------------------------
 Input_phrase: As a Staff member, I want to Prepare for and Support Hearing Execution, so that I can ensure all pre-hearing requirements are satisfied and staff and Applicant are ready for the hearing.
 ----------------------------------------------------------------------------------------------------
+('as a person i want to prepare and support hearing execution so i can ensure all pre-hearing requirements are satisfied and staff and the applicant are ready for the hearing ', 37)
+('as a person i want to prepare and support hearing execution so i can ensure all pre-hearing requirements are satisfied and staff and the applicant are ready for the hearing', 37)
+('as a person i want to prepare and support hearing execution so that i can ensure all pre-hearing requirements are met and staff and applicant are ready for the hearing', 36)
+('as a person i want to prepare and support hearing execution so that i can ensure all pre-hearing requirements are satisfied and staff and applicant ready for the hearing', 32)
+('as a person i want to prepare and support hearing execution so that i can ensure all pre-hearing requirements are satisfied and staff and applicant are ready for hearing', 32)
+('as a person i want to prepare and support hearing execution so that i can ensure all pre-hearing requirements are satisfied and staff and applicant are ready for the hearing i', 29)
+('as a person i want to prepare and support hearing execution so that i can ensure all pre-hearing requirements are satisfied and staff and applicant are ready for the hearing', 28)
+('as a person i want to prepare and support hearing execution so that i can ensure all pre-hearing requirements are satisfied and staff and applicant are ready for the hearing ', 28)
 ('as a staff member i want to prepare for and support hearing execution so i can ensure all pre-hearing requirements are satisfied and staff and applicant are ready for the hearing', 18)
 ('as a staff member i want to prepare for and support hearing execution so that i can ensure all pre-hearing requirements are satisfied and staff and applicant are ready for the hearing', 13)
 ----------------------------------------------------------------------------------------------------
 Input_phrase: As a Staff member, I want to Capture a Hearing Decision, so that I can enforce the system.
 ----------------------------------------------------------------------------------------------------
 ('as a supervisor i want to capture a hearing decision so i can implement the system', 36)
+('as a supervisor i want to capture a hearing decision so i could enforce the system', 32)
+('as a supervisor i want to capture a hearing decision so i can enforce the system', 28)
+('as a supervisor i want to capture a hearing decision so i can enforce the system ', 28)
 ('as a staff member i want to capture a hearing decision to enforce the system', 25)
 ('as a staff member i want to capture a hearing decision so i can enforce the system', 18)
 ('as a staff member i want to capture a hearing decision so that i can enforce the system', 13)
@@ -351,7 +362,10 @@ Input_phrase: As a Staff member, I want to Process the Appeals, so that I can tr
 ('i want to process the appeals so i can track the outcome and record the impact on the relevant records as a staff member', 53)
 ('i want to process the appeals so i can track the outcome and record the impact on the appropriate records', 45)
 ('i want to process the appeals so i can track the outcome and record the impact on relevant records', 40)
+('as a person i want to process appeals so i can track the outcome and record the impact on relevant records', 37)
 ('i want to process the appeals so i can track the outcome and record the impact on the relevant records', 36)
+('as a person i want to process appeals so that i can track the outcome and record the impact on relevant records', 32)
+('as a person i want to process appeals so that i can track the outcome and record the impact on the relevant records', 28)
 ('as a staff member i want to process the appeals so i can track the outcome and record the impact on the relevant records', 18)
 ----------------------------------------------------------------------------------------------------
 Input_phrase: As a Plan Review Staff member, I want to Assign Plans for Review, so that I can ensure plans have been assigned to the appropriate Plan Reviewer.
@@ -602,4 +616,4 @@ Input_phrase: As a Staff member, I want to Send or Post Citations and Fines, so 
 ('if i want to send or post citations and fines so that i can successfully send the notice of violation document to the property owner and log information about the action', 29)
 ('as a staff member i want to send or post citations and fines so i can successfully send the notice of violation document to the property owner and log information about the action', 18)
 
-Got the paraphrases in 479.9858 seconds
+Got the paraphrases in 479.7774 seconds

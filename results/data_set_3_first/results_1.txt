@@ -3,7 +3,7 @@ diversity_ranker = levenshtein
 do_diverse = True
 max_return_phrases = 10
 max_length = 32
-adequacy_threshold = 0.5
+adequacy_threshold = 0.1
 fluency_threshold = 0.1
 
 ----------------------------------------------------------------------------------------------------
@@ -618,4 +618,4 @@ fluency_threshold = 0.1
 ('as a recycling facility i want to be able to communicate directly with the site admin and convey any issues or concerns i have so they can fix them', 20)
 ('as a recycling facility i want to be able to communicate directly with the site admin and convey any issues or concerns i have so that they fix them', 14)
 
-Got the paraphrases in 507.8590 seconds
+Got the paraphrases in 457.0525 seconds

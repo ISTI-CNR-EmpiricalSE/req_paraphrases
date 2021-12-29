@@ -23,15 +23,6 @@ fluency_threshold = 0.1
 ('data publishing user i want to be able to edit a dataset i have published so that i can correct or enhance existing data', 18)
 ('as a data publishing user i want to be able to edit a dataset i have published so that i can correct or enhance existing data', 13)
 ----------------------------------------------------------------------------------------------------
-2) Input_phrase: 
-----------------------------------------------------------------------------------------------------
-('', 12)
-('-', 12)
-('?', 12)
-("''", 12)
-('he said', 10)
-('he says', 10)
-----------------------------------------------------------------------------------------------------
 3) Input_phrase: As a Data Publishing User, I want to be able to edit the model of data I have already imported, So that I can fix bugs or make enhancements in the API built for my data.
 ----------------------------------------------------------------------------------------------------
 ('if i want to edit the model of data i have already imported i need to fix bugs or make enhancements to the api built for my data', 61)
@@ -48,14 +39,7 @@ fluency_threshold = 0.1
 ('data publishing user i want to be able to edit the model data i have already imported so that i can fix bugs or make enhancements to the api built for my data', 23)
 ('data publishing user i want to be able to edit the model data i have already imported so that i can fix bugs or make enhancements in the api built for my data', 21)
 ----------------------------------------------------------------------------------------------------
-4) Input_phrase: 
-----------------------------------------------------------------------------------------------------
-('', 12)
-('-', 12)
-('?', 12)
-("''", 12)
-('he said', 10)
-('he says', 10)
+4 
 ----------------------------------------------------------------------------------------------------
 5) Input_phrase: As a Data Publishing User, I want to be able to delete a dataset I have published, So that I can remove unwanted data from OpenSpending.
 ----------------------------------------------------------------------------------------------------
@@ -72,14 +56,7 @@ fluency_threshold = 0.1
 ('as a data publishing user i want to be able to delete a dataset i have published so i can remove unwanted data from openspending', 18)
 ('as a data publishing user i want to be able to delete a dataset i have published so that i can remove unwanted data from openspending', 13)
 ----------------------------------------------------------------------------------------------------
-6) Input_phrase: 
-----------------------------------------------------------------------------------------------------
-('', 12)
-('-', 12)
-('?', 12)
-("''", 12)
-('he said', 10)
-('he says', 10)
+6 
 ----------------------------------------------------------------------------------------------------
 7) Input_phrase: As a Platform Administrator, I want to be able to Hide any dataset already added as Public, So that I can maintain Public/Hidden status for other users.
 ----------------------------------------------------------------------------------------------------
@@ -93,14 +70,7 @@ fluency_threshold = 0.1
 ('as a platform administrator i want to be able to hide any dataset already added as public so i can maintain publichidden status for other users', 19)
 ('platform administrator i want to be able to hide any dataset already added as public so that i can maintain publichidden status for other users', 19)
 ----------------------------------------------------------------------------------------------------
-8) Input_phrase: 
-----------------------------------------------------------------------------------------------------
-('', 12)
-('-', 12)
-('?', 12)
-("''", 12)
-('he said', 10)
-('he says', 10)
+8 
 ----------------------------------------------------------------------------------------------------
 9) Input_phrase: As a Platform Administrator, I want to have a view on all datasets published by all users, So that I can perform management actions on any dataset.
 ----------------------------------------------------------------------------------------------------
@@ -115,14 +85,7 @@ fluency_threshold = 0.1
 ('as a platform administrator i want to have a view on all datasets published by all users so i can perform management actions on any dataset', 18)
 ('as a platform administrator i want to have a view on all datasets published by all users so that i can perform management actions on any dataset', 13)
 ----------------------------------------------------------------------------------------------------
-10) Input_phrase: 
-----------------------------------------------------------------------------------------------------
-('', 12)
-('-', 12)
-('?', 12)
-("''", 12)
-('he said', 10)
-('he says', 10)
+10 
 ----------------------------------------------------------------------------------------------------
 11) Input_phrase: As a Platform Administrator, I want to be able to delete any dataset published, So that I can deal with takedown requests, or clean up test datasets.
 ----------------------------------------------------------------------------------------------------
@@ -134,14 +97,7 @@ fluency_threshold = 0.1
 ('as a platform administrator i want to be able to delete any dataset published so i can deal with takedown requests or clean up test datasets', 18)
 ('as a platform administrator i want to be able to delete any dataset published so that i can deal with takedown requests or clean up test datasets', 13)
 ----------------------------------------------------------------------------------------------------
-12) Input_phrase: 
-----------------------------------------------------------------------------------------------------
-('', 12)
-('-', 12)
-('?', 12)
-("''", 12)
-('he said', 10)
-('he says', 10)
+12 
 ----------------------------------------------------------------------------------------------------
 13) Input_phrase: As a Data Publishing User, I want to be able to edit the data source of data I have already imported, So that I can fix bugs or make enhancements in the API built for my data.
 ----------------------------------------------------------------------------------------------------
@@ -155,14 +111,7 @@ fluency_threshold = 0.1
 ('data publishing user i want to be able to edit the data source i have already imported so that i can fix bugs or make enhancements in the api built for my data ', 26)
 ('data publishing user i want to be able to edit the data source i have already imported so that i can fix bugs or make enhancements in the api built for my data', 26)
 ----------------------------------------------------------------------------------------------------
-14) Input_phrase: 
-----------------------------------------------------------------------------------------------------
-('', 12)
-('-', 12)
-('?', 12)
-("''", 12)
-('he said', 10)
-('he says', 10)
+14 
 ----------------------------------------------------------------------------------------------------
 15) Input_phrase: As a Data Publishing User, I want to have the Packager support Constants, So that I can model dimensions that may not exist in the source file.
 ----------------------------------------------------------------------------------------------------
@@ -179,14 +128,7 @@ fluency_threshold = 0.1
 ('as a data publishing user i want to have the packager support constants so that i can model dimensions that may not exist in the source file', 13)
 ('as a data publishing user i want to have the packager support constants so that i can model dimensions that may not exist in the source files', 13)
 ----------------------------------------------------------------------------------------------------
-16) Input_phrase: 
-----------------------------------------------------------------------------------------------------
-('', 12)
-('-', 12)
-('?', 12)
-("''", 12)
-('he said', 10)
-('he says', 10)
+16 
 ----------------------------------------------------------------------------------------------------
 17) Input_phrase: As a Data Publishing User, I want to be able to import data in Excel, So that I do not have to convert data formats in order to use the data packager.
 ----------------------------------------------------------------------------------------------------
@@ -200,14 +142,7 @@ fluency_threshold = 0.1
 ("data publishing user i want to be able to import data in excel so that i don't have to convert data formats in order to use the data packager", 20)
 ('as a data publishing user i want to be able to import data in excel so that i do not have to convert data formats in order to use the data packager', 13)
 ----------------------------------------------------------------------------------------------------
-18) Input_phrase: 
-----------------------------------------------------------------------------------------------------
-('', 12)
-('-', 12)
-('?', 12)
-("''", 12)
-('he said', 10)
-('he says', 10)
+18 
 ----------------------------------------------------------------------------------------------------
 19) Input_phrase: As a Data Publishing User, I want to know what my data needs to be able to be visualised on a map, So that I can visualise it on a map.
 ----------------------------------------------------------------------------------------------------
@@ -225,14 +160,7 @@ fluency_threshold = 0.1
 ('as a data publishing user i want to know what my data needs to be able to be visualised on a map so i can visualise it on', 24)
 ('as a data publishing user i want to know what my data needs to be able to be visualised on a map so that i can visualise it', 22)
 ----------------------------------------------------------------------------------------------------
-20) Input_phrase: 
-----------------------------------------------------------------------------------------------------
-('', 12)
-('-', 12)
-('?', 12)
-("''", 12)
-('he said', 10)
-('he says', 10)
+20 
 ----------------------------------------------------------------------------------------------------
 21) Input_phrase: As a Data Publishing User, I want to be able to import data in JSON, So that I do not have to convert data formats in order to use the data packager.
 ----------------------------------------------------------------------------------------------------
@@ -248,14 +176,7 @@ fluency_threshold = 0.1
 ("data publishing user i want to be able to import data in json so that i don't have to convert data formats to use the data packager", 29)
 ("as a data publishing user i want to be able to import data in json so that i don't have to convert data formats to use the data packager", 24)
 ----------------------------------------------------------------------------------------------------
-22) Input_phrase: 
-----------------------------------------------------------------------------------------------------
-('', 12)
-('-', 12)
-('?', 12)
-("''", 12)
-('he said', 10)
-('he says', 10)
+22 
 ----------------------------------------------------------------------------------------------------
 23) Input_phrase: As a Data Publishing User, I want to be able to import data from a Google Spreadsheet, So that I do not have to convert data formats in order to use the data packager.
 ----------------------------------------------------------------------------------------------------
@@ -270,14 +191,7 @@ fluency_threshold = 0.1
 ('data publishing user i want to be able to import data from a google spreadsheet so that i do not have to convert data formats in order to use the data packager', 18)
 ('as a data publishing user i want to be able to import data from a google spreadsheet so that i do not have to convert data formats in order to use the data packager', 13)
 ----------------------------------------------------------------------------------------------------
-24) Input_phrase: 
-----------------------------------------------------------------------------------------------------
-('', 12)
-('-', 12)
-('?', 12)
-("''", 12)
-('he said', 10)
-('he says', 10)
+24 
 ----------------------------------------------------------------------------------------------------
 25) Input_phrase: As a Data Publishing User, I want to be able to import data from Fiscal Data Package descriptor file, So that I do not have to convert data formats in order to use the data packager.
 ----------------------------------------------------------------------------------------------------
@@ -295,14 +209,7 @@ fluency_threshold = 0.1
 ('the user who uses data publishing wants data from fiscal data package descriptor file so that i do not have to convert data formats in order to use the data packager', 43)
 ('the user who uses data publishing wants data from fiscal data package descriptor file so that i do not have to convert data formats in order to use the data packager ', 43)
 ----------------------------------------------------------------------------------------------------
-26) Input_phrase: 
-----------------------------------------------------------------------------------------------------
-('', 12)
-('-', 12)
-('?', 12)
-("''", 12)
-('he said', 10)
-('he says', 10)
+26 
 ----------------------------------------------------------------------------------------------------
 27) Input_phrase: As a Data Publishing User, I want to be able to provide the Platform Administrator with additional GeoJSON sources, So that I can improve the map-based visualisations of my data.
 ----------------------------------------------------------------------------------------------------
@@ -315,14 +222,7 @@ fluency_threshold = 0.1
 ('data publishing user i want to be able to provide the platform administrator with additional geojson sources so that i can improve the map-based visualisations of my data', 18)
 ('as a data publishing user i want to be able to provide the platform administrator with additional geojson sources so i can improve the map-based visualisations of my data', 18)
 ----------------------------------------------------------------------------------------------------
-28) Input_phrase: 
-----------------------------------------------------------------------------------------------------
-('', 12)
-('-', 12)
-('?', 12)
-("''", 12)
-('he said', 10)
-('he says', 10)
+28 
 ----------------------------------------------------------------------------------------------------
 29) Input_phrase: As a Data Consuming User, I want to be able to filter, sort and aggregate data by multiple dimensions and measures, So that I can get more granular views on the data.
 ----------------------------------------------------------------------------------------------------
@@ -340,14 +240,7 @@ fluency_threshold = 0.1
 ('data consuming user i want to be able to filter sort and aggregate data by multiple dimensions and measures so that i can get more granular views on the data ', 18)
 ('as a data consumption user i want to be able to filter sort and aggregate data by multiple dimensions and measures so that i can get more granular views on the data', 17)
 ----------------------------------------------------------------------------------------------------
-30) Input_phrase: 
-----------------------------------------------------------------------------------------------------
-('', 12)
-('-', 12)
-('?', 12)
-("''", 12)
-('he said', 10)
-('he says', 10)
+30 
 ----------------------------------------------------------------------------------------------------
 31) Input_phrase: As a Data Consuming User, I want to be able to download a CSV of the data that is used in any visualisation I am viewing, So that I can use the data in other tools.
 ----------------------------------------------------------------------------------------------------
@@ -363,14 +256,7 @@ fluency_threshold = 0.1
 ('data consuming user i want to be able to download a csv of data that is used in any visualisation i am viewing so that i can use the data in other tools', 22)
 ('data consuming user i want to be able to download a csv of data that is used in any visualisation i am viewing so that i can use the data in other tools ', 22)
 ----------------------------------------------------------------------------------------------------
-32) Input_phrase: 
-----------------------------------------------------------------------------------------------------
-('', 12)
-('-', 12)
-('?', 12)
-("''", 12)
-('he said', 10)
-('he says', 10)
+32 
 ----------------------------------------------------------------------------------------------------
 33) Input_phrase: As a Data Consuming User, I want to be able to change the display of all monetary measures across a set of currencies, So that I can understand localised amounts in non-localised figures.
 ----------------------------------------------------------------------------------------------------
@@ -390,14 +276,7 @@ fluency_threshold = 0.1
 ('as data consumption user i want to be able to change the display of all monetary measures across a set of currencies so that i can understand localised amounts in non-localised figures', 19)
 ('data consuming user i want to be able to change the display of all monetary measures across a set of currencies so that i can understand localised amounts in non-localised figures', 18)
 ----------------------------------------------------------------------------------------------------
-34) Input_phrase: 
-----------------------------------------------------------------------------------------------------
-('', 12)
-('-', 12)
-('?', 12)
-("''", 12)
-('he said', 10)
-('he says', 10)
+34 
 ----------------------------------------------------------------------------------------------------
 35) Input_phrase: As a Data Consuming User, I want to see textual descriptions that accompany embedded visualisations, So that I can more easily understand what I am viewing.
 ----------------------------------------------------------------------------------------------------
@@ -415,14 +294,7 @@ fluency_threshold = 0.1
 ('as a data-consuming user i want to see textual descriptions that accompany embedded visualisations so i can more easily understand what i am viewing', 19)
 ('as a data consuming user i want to see textual descriptions that accompany embedded visualisations so that i can more easily understand what i am viewing', 13)
 ----------------------------------------------------------------------------------------------------
-36) Input_phrase: 
-----------------------------------------------------------------------------------------------------
-('', 12)
-('-', 12)
-('?', 12)
-("''", 12)
-('he said', 10)
-('he says', 10)
+36 
 ----------------------------------------------------------------------------------------------------
 37) Input_phrase: As a Data Consuming User, I want to be able to share a view state as a URL to social networks, So that I can share data that I have found with others.
 ----------------------------------------------------------------------------------------------------
@@ -442,14 +314,7 @@ fluency_threshold = 0.1
 ('data consuming user i want to share a view state as a url to social networks so that i can share data that i have found with others ', 29)
 ('data consuming user i want to share a view state as a url to social networks so that i can share data that i have found with others', 29)
 ----------------------------------------------------------------------------------------------------
-38) Input_phrase: 
-----------------------------------------------------------------------------------------------------
-('', 12)
-('-', 12)
-('?', 12)
-("''", 12)
-('he said', 10)
-('he says', 10)
+38 
 ----------------------------------------------------------------------------------------------------
 39) Input_phrase: As a Data Consuming User, I want to be able to download an image ofa particular view state, So that I can use it offline.
 ----------------------------------------------------------------------------------------------------
@@ -467,14 +332,7 @@ fluency_threshold = 0.1
 ('data consuming user i want to be able to download an image of a particular view state so i can use it offline', 24)
 ('data consuming user i want to be able to download an image of a particular view state so that i can use it offline', 19)
 ----------------------------------------------------------------------------------------------------
-40) Input_phrase: 
-----------------------------------------------------------------------------------------------------
-('', 12)
-('-', 12)
-('?', 12)
-("''", 12)
-('he said', 10)
-('he says', 10)
+40 
 ----------------------------------------------------------------------------------------------------
 41) Input_phrase: As a Data Consuming User, I want to be able to share an image of a particular view state to the social networks that support this, So that I can provide richer context in those communication channels for data I am sharing.
 ----------------------------------------------------------------------------------------------------
@@ -493,14 +351,7 @@ fluency_threshold = 0.1
 ('data consuming user i want to be able to share an image of a particular view state to the social networks that support this so that i can provide richer context in those communication channels for the data i am sharing', 22)
 ('data consuming user i want to be able to share an image of a particular view state to the social networks that support this so that i can provide richer context in those communication channels for data i am sharing', 18)
 ----------------------------------------------------------------------------------------------------
-42) Input_phrase: 
-----------------------------------------------------------------------------------------------------
-('', 12)
-('-', 12)
-('?', 12)
-("''", 12)
-('he said', 10)
-('he says', 10)
+42 
 ----------------------------------------------------------------------------------------------------
 43) Input_phrase: As a Data Consuming User, I want to be able to have stepped zoom on map visualisations, So that I can have better control over the navigation experience inside a map view.
 ----------------------------------------------------------------------------------------------------
@@ -518,14 +369,7 @@ fluency_threshold = 0.1
 ('data consuming user i want to have stepped zoom on map visualisation so i can have better control over the navigation experience inside a map view', 35)
 ('data consuming user i want to have stepped zoom on map visualisation so i can have better control over the navigation experience inside a map view ', 35)
 ----------------------------------------------------------------------------------------------------
-44) Input_phrase: 
-----------------------------------------------------------------------------------------------------
-('', 12)
-('-', 12)
-('?', 12)
-("''", 12)
-('he said', 10)
-('he says', 10)
+44 
 ----------------------------------------------------------------------------------------------------
 45) Input_phrase: As a Data Consuming User, I want to have consistent use of colour on map visualisations, So that I can better understand the visual logic of the map view.
 ----------------------------------------------------------------------------------------------------
@@ -545,14 +389,7 @@ fluency_threshold = 0.1
 ('as data consumption user i want to have consistent use of colour on map visualisations so that i can better understand the visual logic of map view', 23)
 ('as a data consuming user i want to have consistent use of colour on map visualisations so that i can understand the visual logic of the map view', 20)
 ----------------------------------------------------------------------------------------------------
-46) Input_phrase: 
-----------------------------------------------------------------------------------------------------
-('', 12)
-('-', 12)
-('?', 12)
-("''", 12)
-('he said', 10)
-('he says', 10)
+46 
 ----------------------------------------------------------------------------------------------------
 47) Input_phrase: As a Developer, I want to be able to customise the Brand Name and Icon, and Primary Color of all frontend Javascript apps, So that I can customise the branding for my own needs.
 ----------------------------------------------------------------------------------------------------
@@ -569,14 +406,7 @@ fluency_threshold = 0.1
 ('i would like to be able to customize the brand name and icon and primary color of all frontend javascript apps so that i can customise the branding for my own needs', 31)
 ('as a developer i want to be able to customize the brand name and icon and primary color of all frontend javascript apps so that i can customize the branding for my own needs', 15)
 ----------------------------------------------------------------------------------------------------
-48) Input_phrase: 
-----------------------------------------------------------------------------------------------------
-('', 12)
-('-', 12)
-('?', 12)
-("''", 12)
-('he said', 10)
-('he says', 10)
+48 
 ----------------------------------------------------------------------------------------------------
 49) Input_phrase: As an API User, I want to be able to understand if a user is a Publisher, So that I can offer functionality based on Dataset Publisher privileges.
 ----------------------------------------------------------------------------------------------------
@@ -591,14 +421,7 @@ fluency_threshold = 0.1
 ('as an api user i want to be able to understand if a user is a publisher so i can offer functionality based on dataset publisher rights', 25)
 ('as an api user i want to understand if a user is a publisher so that i can offer functionality based on dataset publisher privileges', 24)
 ----------------------------------------------------------------------------------------------------
-50) Input_phrase: 
-----------------------------------------------------------------------------------------------------
-('', 12)
-('-', 12)
-('?', 12)
-("''", 12)
-('he said', 10)
-('he says', 10)
+50 
 ----------------------------------------------------------------------------------------------------
 51) Input_phrase: As an API User, I want to be able to understand if a user is an Administrator, So that I can offer functionality based on Platform Administration privileges.
 ----------------------------------------------------------------------------------------------------
@@ -612,14 +435,7 @@ fluency_threshold = 0.1
 ("if i'm an api user i want to understand if a user is an administrator so i can offer functionality based on platform administration privileges", 31)
 ('as an api user i want to understand if a user is an administrator so that i can offer functionality based on platform administration privileges', 24)
 ----------------------------------------------------------------------------------------------------
-52) Input_phrase: 
-----------------------------------------------------------------------------------------------------
-('', 12)
-('-', 12)
-('?', 12)
-("''", 12)
-('he said', 10)
-('he says', 10)
+52 
 ----------------------------------------------------------------------------------------------------
 53) Input_phrase: As an API User, I want to be able to get bordering regions|cities when I query a region|city, So that I can provider wider visual context for mapping visualisations.
 ----------------------------------------------------------------------------------------------------
@@ -636,14 +452,7 @@ fluency_threshold = 0.1
 ('as an api user i want to be able to get bordering regionscities when i query a regioncity so i can provide wider visual context for mapping visualisations', 19)
 ('as an api user i want to be able to get bordering regionscities when i query a regioncity so that i can provide wider visual context for mapping visualisations', 14)
 ----------------------------------------------------------------------------------------------------
-54) Input_phrase: 
-----------------------------------------------------------------------------------------------------
-('', 12)
-('-', 12)
-('?', 12)
-("''", 12)
-('he said', 10)
-('he says', 10)
+54 
 ----------------------------------------------------------------------------------------------------
 55) Input_phrase: As an API User, I want to be able to dynamically request polygons based on the query made, So that I can provide maps that match the query.
 ----------------------------------------------------------------------------------------------------
@@ -657,14 +466,7 @@ fluency_threshold = 0.1
 ('as an api user i want to be able to dynamically request polygons based on the query made so that i can provide maps that match the query ', 13)
 ('as an api user i want to be able to dynamically request polygons based on the query made so that i can provide maps that match the query', 13)
 ----------------------------------------------------------------------------------------------------
-56) Input_phrase: 
-----------------------------------------------------------------------------------------------------
-('', 12)
-('-', 12)
-('?', 12)
-("''", 12)
-('he said', 10)
-('he says', 10)
+56 
 ----------------------------------------------------------------------------------------------------
 57) Input_phrase: As an API User, I want to have a flexible API using HASC codes for countries, regions and cities, So that I can visualise budget data on maps.
 ----------------------------------------------------------------------------------------------------
@@ -682,14 +484,7 @@ fluency_threshold = 0.1
 ('as an api user i want to have a flexible api using hasc codes for countries regions and cities so i can visualise budget data on maps', 18)
 ('as an api user i want to have a flexible api using hasc codes for countries regions and cities so that i can visualise budget data on maps', 13)
 ----------------------------------------------------------------------------------------------------
-58) Input_phrase: 
-----------------------------------------------------------------------------------------------------
-('', 12)
-('-', 12)
-('?', 12)
-("''", 12)
-('he said', 10)
-('he says', 10)
+58 
 ----------------------------------------------------------------------------------------------------
 59) Input_phrase: As an API User, I want to be able to get a CSV output of any cube-based query, So that I can use work with tools that read CSV.
 ----------------------------------------------------------------------------------------------------
@@ -707,14 +502,7 @@ fluency_threshold = 0.1
 ('if i want to be able to get a csv output of any cube-based query so that i can use tools that read csv', 36)
 ('as an api user i want to be able to get a csv output of any cube-based query so i can use tools that read csv', 28)
 ----------------------------------------------------------------------------------------------------
-60) Input_phrase: 
-----------------------------------------------------------------------------------------------------
-('', 12)
-('-', 12)
-('?', 12)
-("''", 12)
-('he said', 10)
-('he says', 10)
+60 
 ----------------------------------------------------------------------------------------------------
 61) Input_phrase: As an API User, I want to be able to get a set of monetary measures transferred to different currencies, So that I can use this in scenarios that might enable comparison by normalisation.
 ----------------------------------------------------------------------------------------------------
@@ -731,14 +519,7 @@ fluency_threshold = 0.1
 ('if i want to be able to get a set of monetary measures transferred to different currencies i can use this in scenarios that might enable comparison by normalisation ', 34)
 ('if i want to be able to get a set of monetary measures transferred to different currencies i can use this in scenarios that might enable comparison by normalisation', 34)
 ----------------------------------------------------------------------------------------------------
-62) Input_phrase: 
-----------------------------------------------------------------------------------------------------
-('', 12)
-('-', 12)
-('?', 12)
-("''", 12)
-('he said', 10)
-('he says', 10)
+62 
 ----------------------------------------------------------------------------------------------------
 63) Input_phrase: As an API User, I want to be able to use metadata to get results from multiple datasets, So that I can build user experiences based on more than one dataset more easily.
 ----------------------------------------------------------------------------------------------------
@@ -753,14 +534,7 @@ fluency_threshold = 0.1
 ('as an api user i want to be able to use metadata to get results from multiple datasets so that i can build user experiences based on more than one dataset more easily ', 13)
 ('as an api user i want to be able to use metadata to get results from multiple datasets so that i can build user experiences based on more than one dataset more easily', 13)
 ----------------------------------------------------------------------------------------------------
-64) Input_phrase: 
-----------------------------------------------------------------------------------------------------
-('', 12)
-('-', 12)
-('?', 12)
-("''", 12)
-('he said', 10)
-('he says', 10)
+64 
 ----------------------------------------------------------------------------------------------------
 65) Input_phrase: As an API User, I want to be able to use data to get results from multiple datasets, So that I can build user experiences based on more than one dataset more easily.
 ----------------------------------------------------------------------------------------------------
@@ -774,14 +548,7 @@ fluency_threshold = 0.1
 ('as an api user i want to be able to use data to get results from multiple datasets so i can build user experiences based on more than one dataset more easily', 18)
 ('as an api user i want to be able to use data to get results from multiple datasets so that i can build user experiences based on more than one dataset more easily', 13)
 ----------------------------------------------------------------------------------------------------
-66) Input_phrase: 
-----------------------------------------------------------------------------------------------------
-('', 12)
-('-', 12)
-('?', 12)
-("''", 12)
-('he said', 10)
-('he says', 10)
+66 
 ----------------------------------------------------------------------------------------------------
 67) Input_phrase: As an API User, I want to be able to normalise measures by population, So that I work with datasets in reference to their contextual constraints.
 ----------------------------------------------------------------------------------------------------
@@ -797,14 +564,7 @@ fluency_threshold = 0.1
 ('api user i want to be able to normalise measures by population so that i work with datasets in reference to their contextual constraints', 19)
 ('as an api user i want to be able to normalise measures by population so that i work with datasets in reference to their contextual constraints', 13)
 ----------------------------------------------------------------------------------------------------
-68) Input_phrase: 
-----------------------------------------------------------------------------------------------------
-('', 12)
-('-', 12)
-('?', 12)
-("''", 12)
-('he said', 10)
-('he says', 10)
+68 
 ----------------------------------------------------------------------------------------------------
 69) Input_phrase: As an API User, I want to be able to normalise measures by geographical area, So that I work with datasets in reference to their contextual constraints.
 ----------------------------------------------------------------------------------------------------
@@ -820,14 +580,7 @@ fluency_threshold = 0.1
 ('api user i want to be able to normalise measures by geographical area so that i work with datasets in reference to their contextual constraints', 19)
 ('as an api user i want to be able to normalise measures by geographical area so that i work with datasets in reference to their contextual constraints', 13)
 ----------------------------------------------------------------------------------------------------
-70) Input_phrase: 
-----------------------------------------------------------------------------------------------------
-('', 12)
-('-', 12)
-('?', 12)
-("''", 12)
-('he said', 10)
-('he says', 10)
+70 
 ----------------------------------------------------------------------------------------------------
 71) Input_phrase: As an API User, I want to be able to normalise measures by GDP, so I work with datasets in reference to their contextual constraints.
 ----------------------------------------------------------------------------------------------------
@@ -846,14 +599,7 @@ fluency_threshold = 0.1
 ('api user i want to be able to normalise measures by gdp so i work with datasets in reference to their context constraints', 22)
 ('api user i want to be able to normalise measures by gdp so i work with datasets in reference to their contextual constraints', 19)
 ----------------------------------------------------------------------------------------------------
-72) Input_phrase: 
-----------------------------------------------------------------------------------------------------
-('', 12)
-('-', 12)
-('?', 12)
-("''", 12)
-('he said', 10)
-('he says', 10)
+72 
 ----------------------------------------------------------------------------------------------------
 73) Input_phrase: As an API User, I want to be able to normalise measures by GINI and related socioeconomic indexes, So that I work with datasets in reference to their contextual constraints.
 ----------------------------------------------------------------------------------------------------
@@ -869,14 +615,7 @@ fluency_threshold = 0.1
 ('as an api user i want to be able to normalise measures by gini and related socioeconomic indexes so that i can work with datasets in reference to their contextual constraints', 17)
 ('as an api user i want to be able to normalise measures by gini and related socioeconomic indexes so that i work with datasets in reference to their contextual constraints', 13)
 ----------------------------------------------------------------------------------------------------
-74) Input_phrase: 
-----------------------------------------------------------------------------------------------------
-('', 12)
-('-', 12)
-('?', 12)
-("''", 12)
-('he said', 10)
-('he says', 10)
+74 
 ----------------------------------------------------------------------------------------------------
 75) Input_phrase: As an API User, I want to be able to get a relative percentage of a measure to the total of the dataset it comes from, So that I can build alternative displays of the data.
 ----------------------------------------------------------------------------------------------------
@@ -896,14 +635,7 @@ fluency_threshold = 0.1
 ('so as an api user i want to get a relative percentage of a measure to the total dataset it comes from so i can build alternative displays of the data', 34)
 ('so as an api user i want to get a relative percentage of a measure to the total dataset it comes from so that i can build alternative displays of the', 34)
 ----------------------------------------------------------------------------------------------------
-76) Input_phrase: 
-----------------------------------------------------------------------------------------------------
-('', 12)
-('-', 12)
-('?', 12)
-("''", 12)
-('he said', 10)
-('he says', 10)
+76 
 ----------------------------------------------------------------------------------------------------
 77) Input_phrase: As an API User, I want to be able to persistently store visualisation state in the database, So that such can be shared more easily and contribute to a visualisation gallery.
 ----------------------------------------------------------------------------------------------------
@@ -920,14 +652,7 @@ fluency_threshold = 0.1
 ('as a api user i want to be able to store visualisation state in the database so that such can be shared easily and contribute to a visualisation gallery', 32)
 ('as a api user i want to be able to store visualisation state in the database so that such can be shared more easily and contribute to a visualisation gallery', 27)
 ----------------------------------------------------------------------------------------------------
-78) Input_phrase: 
-----------------------------------------------------------------------------------------------------
-('', 12)
-('-', 12)
-('?', 12)
-("''", 12)
-('he said', 10)
-('he says', 10)
+78 
 ----------------------------------------------------------------------------------------------------
 79) Input_phrase: As a Data Publishing User, I want to have my dataset update automatically as the source file/files changes, So that OpenSpending always shows current data.
 ----------------------------------------------------------------------------------------------------
@@ -945,14 +670,7 @@ fluency_threshold = 0.1
 ('as a data publishing user i want to have my dataset update automatically as the source file changes so that openspending always shows current data', 19)
 ('as a data publishing user i want to have my dataset updated automatically as the source filefiles changes so that openspending always shows current data', 15)
 ----------------------------------------------------------------------------------------------------
-80) Input_phrase: 
-----------------------------------------------------------------------------------------------------
-('', 12)
-('-', 12)
-('?', 12)
-("''", 12)
-('he said', 10)
-('he says', 10)
+80 
 ----------------------------------------------------------------------------------------------------
 81) Input_phrase: As an OpenSpending Community Member, I want to have a blog that highlights any and all projects in the open fiscal space, So that I can relate to openspending.org as the central hub of fiscal openness.
 ----------------------------------------------------------------------------------------------------
@@ -968,14 +686,7 @@ fluency_threshold = 0.1
 ('as an openspending community member i want to have a blog that highlights any and all projects in the open fiscal space so i can relate to openspendingorg as the central hub of fiscal openness', 19)
 ('as an openspending community member i want to have a blog that highlights any and all projects in the open fiscal space so that i can relate to openspendingorg as the central hub of fiscal openness', 14)
 ----------------------------------------------------------------------------------------------------
-82) Input_phrase: 
-----------------------------------------------------------------------------------------------------
-('', 12)
-('-', 12)
-('?', 12)
-("''", 12)
-('he said', 10)
-('he says', 10)
+82 
 ----------------------------------------------------------------------------------------------------
 83) Input_phrase: As a User, I want to be able to set my own username, So that my data is more easily discoverable.
 ----------------------------------------------------------------------------------------------------
@@ -991,14 +702,7 @@ fluency_threshold = 0.1
 ('as a user i want to be able to set my own username so that my data is more easily discoverable ', 13)
 ('as a user i want to be able to set my own username so that my data is more easily discoverable', 13)
 ----------------------------------------------------------------------------------------------------
-84) Input_phrase: 
-----------------------------------------------------------------------------------------------------
-('', 12)
-('-', 12)
-('?', 12)
-("''", 12)
-('he said', 10)
-('he says', 10)
+84 
 ----------------------------------------------------------------------------------------------------
 85) Input_phrase: As a Data Publishing User, I want to be able to add a dataset in a Hidden state, So that I can work on a dataset before having it discoverable via OpenSpending user interfaces.
 ----------------------------------------------------------------------------------------------------
@@ -1017,14 +721,7 @@ fluency_threshold = 0.1
 ('i want to be able add a dataset in a hidden state so i can work on a dataset before having it discoverable via openspending user interfaces', 47)
 ('i want to be able add a dataset in a hidden state so that i can work on a dataset before having it discoverable via openspending user interfaces', 42)
 ----------------------------------------------------------------------------------------------------
-86) Input_phrase: 
-----------------------------------------------------------------------------------------------------
-('', 12)
-('-', 12)
-('?', 12)
-("''", 12)
-('he said', 10)
-('he says', 10)
+86 
 ----------------------------------------------------------------------------------------------------
 87) Input_phrase: As a Data Publishing User, I want to be able to Hide a dataset that I have already added as Public, So that I can fix my mistakes or have a dataset primarily for my own use.
 ----------------------------------------------------------------------------------------------------
@@ -1041,14 +738,7 @@ fluency_threshold = 0.1
 ('data publishing user i want to be able to hide a dataset that i have already added as public so i can fix my mistakes or have a dataset primarily for my own use', 23)
 ('data publishing user i want to be able to hide a dataset that i already added as public so that i can fix my mistakes or have a dataset primarily for my own use', 23)
 ----------------------------------------------------------------------------------------------------
-88) Input_phrase: 
-----------------------------------------------------------------------------------------------------
-('', 12)
-('-', 12)
-('?', 12)
-("''", 12)
-('he said', 10)
-('he says', 10)
+88 
 ----------------------------------------------------------------------------------------------------
 89) Input_phrase: As a Data Publishing User, I want to have a view on all the datasets I have published, So that I can perform management actions on my own datasets.
 ----------------------------------------------------------------------------------------------------
@@ -1068,14 +758,7 @@ fluency_threshold = 0.1
 ('as a data publishing user i want a view on all the datasets i have published so i can perform management actions on my own datasets', 26)
 ('as a data publishing user i want to have a view on all the datasets i have published so i can perform management actions on my own dataset', 19)
 ----------------------------------------------------------------------------------------------------
-90) Input_phrase: 
-----------------------------------------------------------------------------------------------------
-('', 12)
-('-', 12)
-('?', 12)
-("''", 12)
-('he said', 10)
-('he says', 10)
+90 
 ----------------------------------------------------------------------------------------------------
 91) Input_phrase: As a Data Publishing User, I want to have a functioning Python Client, So that I can add data to the datastore in bulk from the command line or my own programs.
 ----------------------------------------------------------------------------------------------------
@@ -1092,14 +775,7 @@ fluency_threshold = 0.1
 ('data publishing user i want to have a functioning python client so that i can add data to the database in bulk from the command line or my own programs', 22)
 ('as a data publishing user i want to have a functioning python client so i can add data to the datastore in bulk from the command line or my own programs', 18)
 ----------------------------------------------------------------------------------------------------
-92) Input_phrase: 
-----------------------------------------------------------------------------------------------------
-('', 12)
-('-', 12)
-('?', 12)
-("''", 12)
-('he said', 10)
-('he says', 10)
+92 
 ----------------------------------------------------------------------------------------------------
 93) Input_phrase: As an OpenSpending Community Member, I want to have an app where I can find examples of use of fiscal data visualisations, So that I can find guidance in creating my own with Open Spending.
 ----------------------------------------------------------------------------------------------------
@@ -1116,14 +792,7 @@ fluency_threshold = 0.1
 ('as an openspending community member i want to have an app where i can find examples of use of fiscal data visualisations so i can find guidance in creating my own with open spending', 18)
 ('as an openspending community member i want to have an app where i can find examples of use of fiscal data visualisations so that i can find guidance in creating my own with open spending', 13)
 ----------------------------------------------------------------------------------------------------
-94) Input_phrase: 
-----------------------------------------------------------------------------------------------------
-('', 12)
-('-', 12)
-('?', 12)
-("''", 12)
-('he said', 10)
-('he says', 10)
+94 
 ----------------------------------------------------------------------------------------------------
 95) Input_phrase: As a Data Publishing User, I want to know if my CSV file is valid, So that I can fix possible data issues before publishing it on Open Spending.
 ----------------------------------------------------------------------------------------------------
@@ -1137,14 +806,7 @@ fluency_threshold = 0.1
 ('data publishing user i want to know if my csv file is valid so that i can fix possible data issues before publishing it on open spending', 18)
 ('as a data publishing user i want to know if my csv file is valid so i can fix possible data issues before publishing it on open spending', 18)
 ----------------------------------------------------------------------------------------------------
-96) Input_phrase: 
-----------------------------------------------------------------------------------------------------
-('', 12)
-('-', 12)
-('?', 12)
-("''", 12)
-('he said', 10)
-('he says', 10)
+96 
 ----------------------------------------------------------------------------------------------------
 97) Input_phrase: As a Data Consuming User, I want to be able to search any dataset published and publicly accessible by their title and metadata, So that I can find the datasets I'm interested in.
 ----------------------------------------------------------------------------------------------------
@@ -1162,14 +824,7 @@ fluency_threshold = 0.1
 ("as the data consumer i want to be able to search any dataset published and publicly accessible by their title and metadata so i can find the datasets i'm interested in", 25)
 ("as a data consumption user i want to be able to search any dataset published and publicly accessible by their title and metadata so i can find the datasets i'm interested in", 22)
 ----------------------------------------------------------------------------------------------------
-98) Input_phrase: 
-----------------------------------------------------------------------------------------------------
-('', 12)
-('-', 12)
-('?', 12)
-("''", 12)
-('he said', 10)
-('he says', 10)
+98 
 ----------------------------------------------------------------------------------------------------
 99) Input_phrase: As a Data Consuming User, I want to visualize by default in treemap, bubble tree, map and pivot table the most recent year when my dataset contain multiple years, So that I'm not confused with the amounts.
 ----------------------------------------------------------------------------------------------------
@@ -1186,14 +841,7 @@ fluency_threshold = 0.1
 ("as data consuming user i want to visualize by default in treemap bubble tree map and pivot table the most recent year when my dataset contain multiple years so i'm not confused with the amount", 21)
 ("as data consuming user i want to visualize by default in treemap bubble tree map and pivot table the most recent year when my dataset contain multiple years so i'm not confused with the amounts", 20)
 ----------------------------------------------------------------------------------------------------
-100) Input_phrase: 
-----------------------------------------------------------------------------------------------------
-('', 12)
-('-', 12)
-('?', 12)
-("''", 12)
-('he said', 10)
-('he says', 10)
+100 
 ----------------------------------------------------------------------------------------------------
 101) Input_phrase: As an API user, I want to be able to change the colors of the embedded visualisations in my own platform, So that I can customize the visualisations.
 ----------------------------------------------------------------------------------------------------
@@ -1212,14 +860,7 @@ fluency_threshold = 0.1
 ('as an api user i want to be able to change the colors of the embedded visualisations in my own platform so that i can customize the visualisation', 14)
 ('as an api user i want to be able to change the colors of the embedded visualisations in my own platform so that i can customize the visualisations', 13)
 ----------------------------------------------------------------------------------------------------
-102) Input_phrase: 
-----------------------------------------------------------------------------------------------------
-('', 12)
-('-', 12)
-('?', 12)
-("''", 12)
-('he said', 10)
-('he says', 10)
+102 
 ----------------------------------------------------------------------------------------------------
 103) Input_phrase: As an API user, I want to be able to change some of the styling of the embedded Viewer in my own platform, So that I can brand it to my own organisation's color scheme.
 ----------------------------------------------------------------------------------------------------
@@ -1232,14 +873,7 @@ fluency_threshold = 0.1
 ("as an api user i want to be able to change some of the styling of the embedded viewer in my own platform so that i can brand it to my own organisation's color scheme ", 13)
 ("as an api user i want to be able to change some of the styling of the embedded viewer in my own platform so that i can brand it to my own organisation's color scheme", 13)
 ----------------------------------------------------------------------------------------------------
-104) Input_phrase: 
-----------------------------------------------------------------------------------------------------
-('', 12)
-('-', 12)
-('?', 12)
-("''", 12)
-('he said', 10)
-('he says', 10)
+104 
 ----------------------------------------------------------------------------------------------------
 105) Input_phrase: As a Platform administrator, I want to be able to translate the data types hierarchies of the Viewer while in embed mode, So that my users can understand the interface in their native language.
 ----------------------------------------------------------------------------------------------------

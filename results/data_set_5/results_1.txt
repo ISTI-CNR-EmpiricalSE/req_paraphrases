@@ -1007,15 +1007,6 @@ fluency_threshold = 0.1
 ('as a researcherpublisher i want to add a doi to a dataset so i can cite it in papers stored with the data', 20)
 ('as a researcherpublisher i want to add a doi to a dataset so i can cite it in papers stored with the data ', 19)
 ('as a researcherpublisher i want to add a doi to a dataset so that i can cite it in papers stored with the data', 15)
-----------------------------------------------------------------------------------------------------
-67) Input_phrase: 
-----------------------------------------------------------------------------------------------------
-('', 12)
-('-', 12)
-('?', 12)
-("''", 12)
-('he said', 10)
-('he says', 10)
 
 Got the paraphrases in 880.8901 seconds
 
