@@ -1,12 +1,46 @@
-echo $(pwd)   # /home/isabella/PycharmProjects/req_paraphrases/helper
+#!/bin/zsh
+# bash non supporta decimali, usa zsh
+
+# echo $(pwd)   # /home/isabella/PycharmProjects/req_paraphrases/helper
 
 cd ../eda_nlp-master/data
 
-for (( i=1; i<23; i++ ))
+# i = file_index
+# formato file : ../../results/data_set_${i}/results_${i}_EDA_output_${na}_${sr}_${rd}_${ri}_${rs}.txt
+
+# mi da warning che almeno un parametro deve essere maggiore di 0
+
+start_time=$SECONDS
+
+for i in {1..22}
 do
-   python code/augment.py --input=../../results/data_set_${i}/results_${i}_EDA_input.txt --output=../../results/data_set_${i}/results_${i}_EDA_output.txt --num_aug=16 --alpha_sr=0.1 --alpha_rd=0.0 --alpha_ri=0.0 --alpha_rs=0.0
+  for na in {5..15..5}
+  do
+    for sr in {0..0.1..0.1}
+    do
+      for rd in {0..0.1..0.1}
+      do
+        for ri in {0..0.1..0.1}
+        do
+          for rs in {0..0.1..0.1}
+          do
+            python code/augment.py --input=../../results/data_set_${i}/results_${i}_EDA_input.txt --output=../../results/data_set_${i}/EDA_outputs/results_${i}_EDA_output_${na}_${sr}_${rd}_${ri}_${rs}.txt --num_aug=${na} --alpha_sr=${sr} --alpha_rd=${rd} --alpha_ri=${ri} --alpha_rs=${rs}
+          done
+        done
+      done
+    done
+  done
 done
 
+elapsed=$(( SECONDS - start_time ))
+echo "data_sets from 1 to 22" > ../EDAtime.txt
+echo "na : 5 10 15" > ../EDAtime.txt
+echo "sr : 0 0.1" > ../EDAtime.txt
+echo "rd : 0 0.1" > ../EDAtime.txt
+echo "ri : 0 0.1" > ../EDAtime.txt
+echo "rs : 0 0.1" > ../EDAtime.txt
+echo $elapsed > ../EDAtime.txt
+eval "echo Elapsed time: $(date -ud "@$elapsed" +'$((%s/3600/24)) days %H hr %M min %S sec')" > ../EDAtime.txt
 # python code/augment.py --input=results_1_EDA_input.txt --output=../../results/data_set_1/results_1_EDA_output.txt --num_aug=16 --alpha_sr=0.1 --alpha_rd=0.0 --alpha_ri=0.0 --alpha_rs=0.0
 # python code/augment.py --input=results_2_EDA_input.txt --output=results_2_EDA_output.txt --num_aug=16 --alpha_sr=0.1 --alpha_rd=0.0 --alpha_ri=0.0 --alpha_rs=0.0
 # python code/augment.py --input=results_3_EDA_input.txt --output=results_3_EDA_output.txt --num_aug=16 --alpha_sr=0.1 --alpha_rd=0.0 --alpha_ri=0.0 --alpha_rs=0.0

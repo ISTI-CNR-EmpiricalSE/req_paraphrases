@@ -26,8 +26,8 @@ total time alla fine del file è quello per tutti i file relativi a stessa esecu
 in results_number il number si riferisce a una stessa combinazione di parametri, se quel data set lo hai testato solo con una combinazione ovviamente avremo solo results_1, combinazione è scritta in cima
 first e second si riferiscono a diversi insiemi di combinazioni
 
-results_n.txt : formato del file dopo parrot
-results_n_EDA.txt : formato del file che va bene per EDA
-results_n_EDA_augmented.txt : formato del file dopo EDA
+results_1.txt : formato del file dopo parrot (si trova in directory giusta)
+results_n_EDA_input.txt : formato del file relativo a data_set_n che va bene per EDA
+results_n_EDA_output.txt : formato del file dopo EDA
 
 python code/augment.py --input=results_1_EDA_input.txt --output=results_1_EDA_output.txt --num_aug=16 --alpha_sr=0.1 --alpha_rd=0.0 --alpha_ri=0.0 --alpha_rs=0.0
