@@ -61,8 +61,8 @@ def gen_eda(train_orig, output_file, alpha_sr, alpha_ri, alpha_rs, alpha_rd, num
     writer.write("num aug = " + str(num_aug) + "\n")
     writer.write("alpha_sr = " + str(alpha_sr) + "\n")
     writer.write("alpha_rd = " + str(alpha_rd) + "\n")
-    writer.write("alpha_ri = " + str(alpha_rd) + "\n")
-    writer.write("alpha_rs = " + str(alpha_rd) + "\n")
+    writer.write("alpha_ri = " + str(alpha_ri) + "\n")
+    writer.write("alpha_rs = " + str(alpha_rs) + "\n")
 
     tic = time.perf_counter()
     for i, line in enumerate(lines):
