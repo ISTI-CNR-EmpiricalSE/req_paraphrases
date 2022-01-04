@@ -48,6 +48,7 @@ for token in doc:
 
         if syns_clean:
             # replace the word with the first of the list because it's usually better
+            # TODO: replace token, not string, so that you don't lose structure
             phrase = phrase.replace(token.text, syns_clean[0])
 
 print(phrase)
