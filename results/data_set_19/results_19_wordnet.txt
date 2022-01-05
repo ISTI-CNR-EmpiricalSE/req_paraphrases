@@ -1,0 +1,703 @@
+data_set_number:19
+
+Input phrase:As a repository manager, I want to know all the collections and objects in the DAMS for which I have custodial responsibility. 
+As a repository director, I desire to acknowledge all the collection and object in the dam for which I have custodial duty. 
+As a repository coach, I want to sleep_together all the solicitation and aim in the decameter for which I have custodial province. 
+As a repository manager, I want to know all the collections and objects in the DAMS for which I have custodial responsibility. 
+As a repository manager, I want to know all the collections and objects in the DAMS for which I have custodial responsibility. 
+As a repository manager, I want to know all the collections and objects in the DAMS for which I have custodial responsibility. 
+
+Input phrase:As a repository manager, I want to be able to update repository information in one place and be assured updates will be propagated to all relevant places. 
+As a repository director, I desire to be able to update repository data in matchless topographic_point and be guarantee update will be propagate to all relevant topographic_points. 
+As a repository coach, I want to be able to update repository information in one stead and be assure updates will be spread to all relevant steads. 
+As a repository manager, I want to be able to update repository information in one home and be see updates will be circulate to all relevant homes. 
+As a repository manager, I want to be able to update repository information in one position and be reassure updates will be propagated to all relevant positions. 
+As a repository manager, I want to be able to update repository information in one seat and be promise updates will be propagated to all relevant seats. 
+
+Input phrase:As a repository manager, I want to constrain curatorial access to my units assets to staff members of my unit and to DAMS managers having universal access. 
+As a repository director, I desire to restrain curatorial entree to my unit_of_measurement_of_measurement asset to staff member of my unit_of_measurement and to dam directors having cosmopolitan entree. 
+As a repository coach, I want to stiffen curatorial access to my whole assets to staff extremity of my whole and to decameter coachs having universal access. 
+As a repository manager, I want to constrain curatorial access to my whole assets to staff penis of my unit and to DAMS managers having universal access. 
+As a repository manager, I want to constrain curatorial access to my units assets to staff members of my unit and to DAMS managers having universal access. 
+As a repository manager, I want to constrain curatorial access to my units assets to staff members of my unit and to DAMS managers having universal access. 
+
+Input phrase:As a user, I want to list all the collections and objects in the DAMS that belong to a library unit. 
+As a exploiter, I desire to number all the collection and object in the dam that belong_to to a library unit_of_measurement. 
+As a drug_user, I want to list all the solicitation and aim in the decameter that belong to a library whole. 
+As a user, I want to list all the collections and objects in the DAMS that belong to a library unit. 
+As a user, I want to list all the collections and objects in the DAMS that belong to a library unit. 
+As a user, I want to list all the collections and objects in the DAMS that belong to a library unit. 
+
+Input phrase:As a user, I want to be able to contact repositories. 
+As a exploiter, I desire to be able to reach depository. 
+As a drug_user, I want to be able to touch repository. 
+As a user, I want to be able to contact repositories. 
+As a user, I want to be able to contact repositories. 
+As a user, I want to be able to contact repositories. 
+
+Input phrase:As the DAMS manager, I want to be able to list for browsing all formal collections represented in the DAMS along with the appropriate relationships. 
+As the dam director, I desire to be able to number for shop all conventional collection represent in the dam along with the appropriate relationship. 
+As the decameter coach, I want to be able to list for crop all courtly solicitation typify in the decameter along with the appropriate kinship. 
+As the DAMS manager, I want to be able to list for browse all formal collections exemplify in the DAMS along with the appropriate relationships. 
+As the DAMS manager, I want to be able to list for browsing all formal collections constitute in the DAMS along with the appropriate relationships. 
+As the DAMS manager, I want to be able to list for browsing all formal collections defend in the DAMS along with the appropriate relationships. 
+
+Input phrase:As a repository manager, I want to know all the collections for which I have curatorial responsibility.
+As a repository director, I desire to acknowledge all the collection for which I have curatorial duty.
+As a repository coach, I want to sleep_together all the solicitation for which I have curatorial province.
+As a repository manager, I want to know all the collections for which I have curatorial responsibility.
+As a repository manager, I want to know all the collections for which I have curatorial responsibility.
+As a repository manager, I want to know all the collections for which I have curatorial responsibility.
+
+Input phrase:As a repository manager, I want to compose collections, limiting the collection to the items sharing the same provenance, limiting the collection to represent a part of a collection have a singular provenance, or assembly a collection from other collections and objects.
+As a repository director, I desire to write solicitation, restrict the solicitation to the item share the same birthplace, restrict the solicitation to typify a region of a solicitation have a remarkable birthplace, or assembly a solicitation from other solicitation and object.
+As a repository coach, I want to frame solicitation, limit the collection to the detail functionake the same provenance, limit the collection to exemplify a function of a collection have a curious provenance, or assembly a collection from other solicitation and aim.
+As a repository manager, I want to compose collections, specify the collection to the token sharing the same provenance, specify the collection to constitute a character of a collection have a singular provenance, or assembly a collection from other collections and objects.
+As a repository manager, I want to compose collections, limiting the collection to the items sharing the same provenance, limiting the collection to defend a share of a collection have a singular provenance, or assembly a collection from other collections and objects.
+As a repository manager, I want to compose collections, limiting the collection to the items sharing the same provenance, limiting the collection to act a contribution of a collection have a singular provenance, or assembly a collection from other collections and objects.
+
+Input phrase:As a repository manager, I want to say one collection is related to another collection.  
+As a repository director, I desire to state matchless solicitation is associate to another solicitation.  
+As a repository coach, I want to allege one collection is refer to another collection.  
+As a repository manager, I want to suppose one collection is relate to another collection.  
+As a repository manager, I want to read one collection is related to another collection.  
+As a repository manager, I want to order one collection is related to another collection.  
+
+Input phrase:As a repository manager, I want to describe a collection, including its title, it's inclusive / bulk dates, its language(s), and many other aspects.
+As a repository director, I desire to report a solicitation, include its championship, it's inclusive / bulk date, its language(s), and many other aspect.
+As a repository coach, I want to trace a collection, admit its deed, it's inclusive / bulk dates, its language(s), and many other view.
+As a repository manager, I want to identify a collection, including its claim, it's inclusive / bulk dates, its language(s), and many other expression.
+As a repository manager, I want to describe a collection, including its title, it's inclusive / bulk dates, its language(s), and many other aspects.
+As a repository manager, I want to describe a collection, including its title, it's inclusive / bulk dates, its language(s), and many other aspects.
+
+Input phrase:As a repository manager, I want to indicate names related to the collection either as creator, source, or subject. 
+As a repository director, I desire to bespeak name_calling associate to the solicitation either as godhead, beginning, or capable. 
+As a repository coach, I want to argue name refer to the collection either as creator, informant, or subject. 
+As a repository manager, I want to indicate names relate to the collection either as creator, generator, or subject. 
+As a repository manager, I want to indicate names related to the collection either as creator, reservoir, or subject. 
+As a repository manager, I want to indicate names related to the collection either as creator, reference, or subject. 
+
+Input phrase:As a repository manager, I want to indicate subjects related to the collection. 
+As a repository director, I desire to bespeak subject associate to the solicitation. 
+As a repository coach, I want to argue discipline refer to the collection. 
+As a repository manager, I want to indicate topic relate to the collection. 
+As a repository manager, I want to indicate national related to the collection. 
+As a repository manager, I want to indicate subjects related to the collection. 
+
+Input phrase:As a repository manager, I want to indicate other descriptions of the collection that are outside the DAMS and of probable importance to users. 
+As a repository director, I desire to bespeak other description of the solicitation that are external the dam and of probable importance to user. 
+As a repository coach, I want to argue other descriptions of the collection that are outdoor the decameter and of probable importance to exploiter. 
+As a repository manager, I want to indicate other descriptions of the collection that are away the DAMS and of probable importance to drug_user. 
+As a repository manager, I want to indicate other descriptions of the collection that are outside the DAMS and of probable importance to users. 
+As a repository manager, I want to indicate other descriptions of the collection that are outside the DAMS and of probable importance to users. 
+
+Input phrase:As a repository manager, I want to know all events occurring to a collection. 
+As a repository director, I desire to acknowledge all event happen to a solicitation. 
+As a repository coach, I want to sleep_together all consequence occur to a collection. 
+As a repository manager, I want to know all events occurring to a collection. 
+As a repository manager, I want to know all events occurring to a collection. 
+As a repository manager, I want to know all events occurring to a collection. 
+
+Input phrase:As a user, I want to be able to browse by collections in the DAMS. 
+As a exploiter, I desire to be able to shop by collection in the dam. 
+As a drug_user, I want to be able to crop by solicitation in the decameter. 
+As a user, I want to be able to browse by collections in the DAMS. 
+As a user, I want to be able to browse by collections in the DAMS. 
+As a user, I want to be able to browse by collections in the DAMS. 
+
+Input phrase:As a user, I want to be able to limit my search to specified collection(s). 
+As a exploiter, I desire to be able to restrict my search to specified collection(s). 
+As a drug_user, I want to be able to specify my search to specified collection(s). 
+As a user, I want to be able to limit my search to specified collection(s). 
+As a user, I want to be able to limit my search to specified collection(s). 
+As a user, I want to be able to limit my search to specified collection(s). 
+
+Input phrase:As a repository manager, I want know all the components belonging to an object. 
+As a repository director, I desire acknowledge all the component belong to an aim. 
+As a repository coach, I want sleep_together all the part belong_to to an object. 
+As a repository manager, I want know all the components belonging to an object. 
+As a repository manager, I want know all the components belonging to an object. 
+As a repository manager, I want know all the components belonging to an object. 
+
+Input phrase:As repository manager, I want to know all the files belonging to an object. 
+As depository director, I desire to acknowledge all the file belong to an aim. 
+As repository coach, I want to sleep_together all the files belong_to to an object. 
+As repository manager, I want to know all the files belonging to an object. 
+As repository manager, I want to know all the files belonging to an object. 
+As repository manager, I want to know all the files belonging to an object. 
+
+Input phrase:As a repository manager, I want to describe an object, including its title, date(s), language(s), and other aspects. 
+As a repository director, I desire to report an aim, include its championship, date(s), language(s), and other aspect. 
+As a repository coach, I want to trace an object, admit its deed, date(s), language(s), and other view. 
+As a repository manager, I want to identify an object, including its claim, date(s), language(s), and other expression. 
+As a repository manager, I want to describe an object, including its title, date(s), language(s), and other aspects. 
+As a repository manager, I want to describe an object, including its title, date(s), language(s), and other aspects. 
+
+Input phrase:As a repository manager, I want to indicate names related to an object. 
+As a repository director, I desire to bespeak name_calling associate to an aim. 
+As a repository coach, I want to argue name refer to an object. 
+As a repository manager, I want to indicate names relate to an object. 
+As a repository manager, I want to indicate names related to an object. 
+As a repository manager, I want to indicate names related to an object. 
+
+Input phrase:As a repository manager, I want to indicate subjects that are related to an object. 
+As a repository director, I desire to bespeak subject that are associate to an aim. 
+As a repository coach, I want to argue discipline that are refer to an object. 
+As a repository manager, I want to indicate topic that are relate to an object. 
+As a repository manager, I want to indicate national that are related to an object. 
+As a repository manager, I want to indicate subjects that are related to an object. 
+
+Input phrase:As a repository manager, I want to indicate the copyright status of an object. 
+As a repository director, I desire to bespeak the copyright condition of an aim. 
+As a repository coach, I want to argue the copyright status of an object. 
+As a repository manager, I want to indicate the copyright status of an object. 
+As a repository manager, I want to indicate the copyright status of an object. 
+As a repository manager, I want to indicate the copyright status of an object. 
+
+Input phrase:As a repository manager, I want to indicate any statutes pertinent to an object. 
+As a repository director, I desire to bespeak any legislative_act apposite to an aim. 
+As a repository coach, I want to argue any statutes pertinent to an object. 
+As a repository manager, I want to indicate any statutes pertinent to an object. 
+As a repository manager, I want to indicate any statutes pertinent to an object. 
+As a repository manager, I want to indicate any statutes pertinent to an object. 
+
+Input phrase:As a repository manager, I want to indicate any license pertinent to an object. 
+As a repository director, I desire to bespeak any license pertinent to an aim. 
+As a repository coach, I want to argue any license pertinent to an object. 
+As a repository manager, I want to indicate any license pertinent to an object. 
+As a repository manager, I want to indicate any license pertinent to an object. 
+As a repository manager, I want to indicate any license pertinent to an object. 
+
+Input phrase:As a repository manager, I want to indicate any other rights pertinent to an object. 
+As a repository director, I desire to bespeak any other right pertinent to an aim. 
+As a repository coach, I want to argue any other right_field pertinent to an object. 
+As a repository manager, I want to indicate any other rights pertinent to an object. 
+As a repository manager, I want to indicate any other rights pertinent to an object. 
+As a repository manager, I want to indicate any other rights pertinent to an object. 
+
+Input phrase:As a repository manager, I want to indicate any external versions or descriptions of an object that may be of probable importance to an user. 
+As a repository director, I desire to bespeak any external version or description of an aim that may be of probable importance to an exploiter. 
+As a repository coach, I want to argue any external adaptation or descriptions of an object that may be of probable importance to an drug_user. 
+As a repository manager, I want to indicate any external translation or descriptions of an object that may be of probable importance to an user. 
+As a repository manager, I want to indicate any external interpretation or descriptions of an object that may be of probable importance to an user. 
+As a repository manager, I want to indicate any external versions or descriptions of an object that may be of probable importance to an user. 
+
+Input phrase:As a repository manager, I want to know all events done to an object over the object's life cycle. 
+As a repository director, I desire to acknowledge all event make to an aim over the aim's animation hertz. 
+As a repository coach, I want to sleep_together all consequence perform to an object over the object's liveliness bicycle. 
+As a repository manager, I want to know all events do to an object over the object's biography cycle. 
+As a repository manager, I want to know all events cause to an object over the object's life_sentence cycle. 
+As a repository manager, I want to know all events practice to an object over the object's life cycle. 
+
+Input phrase:As a DAMS manager, I want to know what repository an object belongs to. 
+As a dam director, I desire to acknowledge what depository an aim belong to. 
+As a decameter coach, I want to sleep_together what repository an object belong_to to. 
+As a DAMS manager, I want to know what repository an object belongs to. 
+As a DAMS manager, I want to know what repository an object belongs to. 
+As a DAMS manager, I want to know what repository an object belongs to. 
+
+Input phrase:As a DAMS manager I want to know what collection(s) an object belongs to. 
+As a dam director I desire to acknowledge what collection(s) an aim belong to. 
+As a decameter coach I want to sleep_together what collection(s) an object belong_to to. 
+As a DAMS manager I want to know what collection(s) an object belongs to. 
+As a DAMS manager I want to know what collection(s) an object belongs to. 
+As a DAMS manager I want to know what collection(s) an object belongs to. 
+
+Input phrase:As a user, I want to know what repository an object belongs to. 
+As a exploiter, I desire to acknowledge what depository an aim belong to. 
+As a drug_user, I want to sleep_together what repository an object belong_to to. 
+As a user, I want to know what repository an object belongs to. 
+As a user, I want to know what repository an object belongs to. 
+As a user, I want to know what repository an object belongs to. 
+
+Input phrase:As a user, I want to know what collection(s) an object belongs to. 
+As a exploiter, I desire to acknowledge what collection(s) an aim belong to. 
+As a drug_user, I want to sleep_together what collection(s) an object belong_to to. 
+As a user, I want to know what collection(s) an object belongs to. 
+As a user, I want to know what collection(s) an object belongs to. 
+As a user, I want to know what collection(s) an object belongs to. 
+
+Input phrase:As a user, I want to see all the component parts of an object. 
+As a exploiter, I desire to understand all the part part of an aim. 
+As a drug_user, I want to witness all the component region of an object. 
+As a user, I want to visualize all the component function of an object. 
+As a user, I want to learn all the component character of an object. 
+As a user, I want to watch all the component share of an object. 
+
+Input phrase:As a user, I want to have access to the content files for an object. 
+As a exploiter, I desire to have entree to the contented file for an aim. 
+As a drug_user, I want to have access to the content files for an object. 
+As a user, I want to have access to the content files for an object. 
+As a user, I want to have access to the content files for an object. 
+As a user, I want to have access to the content files for an object. 
+
+Input phrase:As a user, I want to know the rights status of an object. 
+As a exploiter, I desire to acknowledge the right condition of an aim. 
+As a drug_user, I want to sleep_together the right_field status of an object. 
+As a user, I want to know the rights status of an object. 
+As a user, I want to know the rights status of an object. 
+As a user, I want to know the rights status of an object. 
+
+Input phrase:As a user, I want to know about other versions of the object or its metadata that might be of use to me. 
+As a exploiter, I desire to acknowledge about other version of the aim or its metadata that might be of function to me. 
+As a drug_consumptionr, I want to sleep_together about other adaptation of the object or its metadata that might be of consumption to me. 
+As a habitr, I want to know about other translation of the object or its metadata that might be of habit to me. 
+As a manipulationr, I want to know about other interpretation of the object or its metadata that might be of manipulation to me. 
+As a user, I want to know about other versions of the object or its metadata that might be of use to me. 
+
+Input phrase:As a repository manager, I want to represent the physical and/or logical structure of an object. 
+As a repository director, I desire to typify the forcible and/or legitimate social_organization of an aim. 
+As a repository coach, I want to exemplify the physical and/or coherent structure of an object. 
+As a repository manager, I want to constitute the physical and/or logical structure of an object. 
+As a repository manager, I want to defend the physical and/or logical structure of an object. 
+As a repository manager, I want to act the physical and/or logical structure of an object. 
+
+Input phrase:As a repository manager, I want to list all the components, in their appropriate order, for an object. 
+As a repository director, I desire to number all the component, in their appropriate ordering, for an aim. 
+As a repository coach, I want to list all the part, in their appropriate orderliness, for an object. 
+As a repository manager, I want to list all the components, in their appropriate decree, for an object. 
+As a repository manager, I want to list all the components, in their appropriate club, for an object. 
+As a repository manager, I want to list all the components, in their appropriate holy_order, for an object. 
+
+Input phrase:As a repository manager, I want to link, when appropriate, a component to another component or to a file. 
+As a repository director, I desire to associate, when appropriate, a part to another part or to a file. 
+As a repository coach, I want to connect, when appropriate, a component to another component or to a file. 
+As a repository manager, I want to yoke, when appropriate, a component to another component or to a file. 
+As a repository manager, I want to link, when appropriate, a component to another component or to a file. 
+As a repository manager, I want to link, when appropriate, a component to another component or to a file. 
+
+Input phrase:As a repository manager, I want to describe each component as necessary, including title, date(s), language(s), and other facets. 
+As a repository director, I desire to report each part as necessary, include championship, date(s), language(s), and other aspect. 
+As a repository coach, I want to trace each component as necessary, admit deed, date(s), language(s), and other facet. 
+As a repository manager, I want to identify each component as necessary, including claim, date(s), language(s), and other facets. 
+As a repository manager, I want to describe each component as necessary, including title, date(s), language(s), and other facets. 
+As a repository manager, I want to describe each component as necessary, including title, date(s), language(s), and other facets. 
+
+Input phrase:As a repository manager, I want to indicate any name that is pertinent to the component. 
+As a repository director, I desire to bespeak any name that is apposite to the part. 
+As a repository coach, I want to argue any name that is pertinent to the component. 
+As a repository manager, I want to indicate any name that is pertinent to the component. 
+As a repository manager, I want to indicate any name that is pertinent to the component. 
+As a repository manager, I want to indicate any name that is pertinent to the component. 
+
+Input phrase:As a repository manager, I want to indicate any subject that is pertinent to the component. 
+As a repository director, I desire to bespeak any discipline that is apposite to the part. 
+As a repository coach, I want to argue any topic that is pertinent to the component. 
+As a repository manager, I want to indicate any national that is pertinent to the component. 
+As a repository manager, I want to indicate any subject that is pertinent to the component. 
+As a repository manager, I want to indicate any subject that is pertinent to the component. 
+
+Input phrase:As a repository manager, I want to indicate if the component has a copyright status different than that of of the object as a whole. 
+As a repository director, I desire to bespeak if the part has a copyright condition unlike than that of of the aim as a whole. 
+As a repository coach, I want to argue if the component has a copyright status different than that of of the object as a whole. 
+As a repository manager, I want to indicate if the component has a copyright status different than that of of the object as a whole. 
+As a repository manager, I want to indicate if the component has a copyright status different than that of of the object as a whole. 
+As a repository manager, I want to indicate if the component has a copyright status different than that of of the object as a whole. 
+
+Input phrase:As a repository manager, I want to indicate if a statute pertains to the component, apart from the object as a whole. 
+As a repository director, I desire to bespeak if a legislative_act refer to the part, aside from the aim as a whole. 
+As a repository coach, I want to argue if a statute pertain to the component, apart from the object as a whole. 
+As a repository manager, I want to indicate if a statute pertains to the component, apart from the object as a whole. 
+As a repository manager, I want to indicate if a statute pertains to the component, apart from the object as a whole. 
+As a repository manager, I want to indicate if a statute pertains to the component, apart from the object as a whole. 
+
+Input phrase:As a repository manager, I want to indicate if a license pertains to the component, apart from the object as a whole. 
+As a repository director, I desire to bespeak if a license refer to the part, aside from the aim as a whole. 
+As a repository coach, I want to argue if a license pertain to the component, apart from the object as a whole. 
+As a repository manager, I want to indicate if a license pertains to the component, apart from the object as a whole. 
+As a repository manager, I want to indicate if a license pertains to the component, apart from the object as a whole. 
+As a repository manager, I want to indicate if a license pertains to the component, apart from the object as a whole. 
+
+Input phrase:As a repository manager, I want to indicate if other rights pertain to the component, apart from the object as a whole. 
+As a repository director, I desire to bespeak if other right pertain to the part, aside from the aim as a whole. 
+As a repository coach, I want to argue if other right_field pertain to the component, apart from the object as a whole. 
+As a repository manager, I want to indicate if other rights pertain to the component, apart from the object as a whole. 
+As a repository manager, I want to indicate if other rights pertain to the component, apart from the object as a whole. 
+As a repository manager, I want to indicate if other rights pertain to the component, apart from the object as a whole. 
+
+Input phrase:As a repository manager, I want to know all events occurring to a component over its life cycle. 
+As a repository director, I desire to acknowledge all event happen to a part over its animation hertz. 
+As a repository coach, I want to sleep_together all consequence occur to a component over its liveliness bicycle. 
+As a repository manager, I want to know all events occurring to a component over its biography cycle. 
+As a repository manager, I want to know all events occurring to a component over its life_sentence cycle. 
+As a repository manager, I want to know all events occurring to a component over its life cycle. 
+
+Input phrase:As a DAMS manager, I want to present in their assigned order all components comprising an object. 
+As a dam director, I desire to show in their assigned ordering all component consist an aim. 
+As a decameter coach, I want to stage in their assigned orderliness all part incorporate an object. 
+As a DAMS manager, I want to award in their assigned decree all components constitute an object. 
+As a DAMS manager, I want to give in their assigned club all components comprising an object. 
+As a DAMS manager, I want to deliver in their assigned holy_order all components comprising an object. 
+
+Input phrase:As a user, I want to be able to see and navigate the component hierarchy of an object. 
+As a exploiter, I desire to be able to understand and voyage the part hierarchy of an aim. 
+As a drug_user, I want to be able to witness and navigate the component hierarchy of an object. 
+As a user, I want to be able to visualize and navigate the component hierarchy of an object. 
+As a user, I want to be able to learn and navigate the component hierarchy of an object. 
+As a user, I want to be able to watch and navigate the component hierarchy of an object. 
+
+Input phrase:As a repository manager, I want to know all the content files in the DAMS for my repository's objects. 
+As a depository director, I desire to acknowledge all the contented file in the dam for my depository's object. 
+As a repository coach, I want to sleep_together all the content files in the decameter for my repository's aim. 
+As a repository manager, I want to know all the content files in the DAMS for my repository's objects. 
+As a repository manager, I want to know all the content files in the DAMS for my repository's objects. 
+As a repository manager, I want to know all the content files in the DAMS for my repository's objects. 
+
+Input phrase:As a repository manager, I want to associate a content file with either an object or an object component. 
+As a repository director, I desire to consort a message file with either an aim or an aim part. 
+As a repository coach, I want to consociate a capacity file with either an object or an object component. 
+As a repository manager, I want to associate a contentedness file with either an object or an object component. 
+As a repository manager, I want to associate a subject file with either an object or an object component. 
+As a repository manager, I want to associate a content file with either an object or an object component. 
+
+Input phrase:As a repository manager, I want to know any event that occurred to a content file for any of my repository's objects. 
+As a depository director, I desire to acknowledge any consequence that happen to a message file for any of my depository's object. 
+As a repository coach, I want to sleep_together any event that occur to a capacity file for any of my repository's aim. 
+As a repository manager, I want to know any event that occurred to a contentedness file for any of my repository's objects. 
+As a repository manager, I want to know any event that occurred to a subject file for any of my repository's objects. 
+As a repository manager, I want to know any event that occurred to a content file for any of my repository's objects. 
+
+Input phrase:As a DAMS manager, I want to indicate to preservation managers aspects of a master file useful for monitoring its integrity, and impending obsolescence, including file size, creation date, file format and format version. 
+As a dam director, I desire to bespeak to conservation directors aspect of a maestro file utilitarian for monitor its integrity, and impend obsolescence, include file size, initiation date, file format and format adaptation. 
+As a decameter coach, I want to argue to preservation coachs view of a overlord file useful for monitoring its integrity, and impending obsolescence, admit file size, universe date, file format and format translation. 
+As a DAMS manager, I want to indicate to preservation managers expression of a victor file useful for monitoring its integrity, and impending obsolescence, including file size, creation date, file format and format interpretation. 
+As a DAMS manager, I want to indicate to preservation managers aspects of a headmaster file useful for monitoring its integrity, and impending obsolescence, including file size, creation date, file format and format version. 
+As a DAMS manager, I want to indicate to preservation managers aspects of a passkey file useful for monitoring its integrity, and impending obsolescence, including file size, creation date, file format and format version. 
+
+Input phrase:As a DAMS manager, I want to indicate to preservation managers the checksum and checksum method for each master file for a given object. 
+As a dam director, I desire to bespeak to conservation directors the checksum and checksum method_acting for each maestro file for a give aim. 
+As a decameter coach, I want to argue to preservation coachs the checksum and checksum method for each overlord file for a yield object. 
+As a DAMS manager, I want to indicate to preservation managers the checksum and checksum method for each victor file for a hold object. 
+As a DAMS manager, I want to indicate to preservation managers the checksum and checksum method for each headmaster file for a render object. 
+As a DAMS manager, I want to indicate to preservation managers the checksum and checksum method for each passkey file for a impart object. 
+
+Input phrase:As a DAMS manager, I want to indicate the source-capture information for a file where it is useful to do so. 
+As a dam director, I desire to bespeak the beginning-capture data for a file where it is utilitarian to do so. 
+As a decameter coach, I want to argue the informant-capture information for a file where it is useful to do so. 
+As a DAMS manager, I want to indicate the generator-capture information for a file where it is useful to do so. 
+As a DAMS manager, I want to indicate the reservoir-capture information for a file where it is useful to do so. 
+As a DAMS manager, I want to indicate the reference-capture information for a file where it is useful to do so. 
+
+Input phrase:As a DAMS manager, I want to know, via preservation managers, of any object for which integrity or authenticity is in question or that has been updated to a more current file format. 
+As a dam director, I desire to acknowledge, via conservation directors, of any aim for which integrity or authenticity is in doubt or that has been update to a more current file format. 
+As a decameter coach, I want to sleep_together, via preservation coachs, of any object for which integrity or authenticity is in motion or that has been updated to a more current file format. 
+As a DAMS manager, I want to know, via preservation managers, of any object for which integrity or authenticity is in question or that has been updated to a more current file format. 
+As a DAMS manager, I want to know, via preservation managers, of any object for which integrity or authenticity is in question or that has been updated to a more current file format. 
+As a DAMS manager, I want to know, via preservation managers, of any object for which integrity or authenticity is in question or that has been updated to a more current file format. 
+
+Input phrase:As a user, I want access to content files that comprise an object, so that I can decide whether a file is too large to download.
+As a exploiter, I desire entree to contented file that consist an aim, so that I can decide whether a file is too bombastic to download.
+As a drug_user, I want access to content files that incorporate an object, so that I can decide whether a file is too big to download.
+As a user, I want access to content files that constitute an object, so that I can decide whether a file is too large to download.
+As a user, I want access to content files that comprise an object, so that I can decide whether a file is too large to download.
+As a user, I want access to content files that comprise an object, so that I can decide whether a file is too large to download.
+
+Input phrase:As a repository manager, I want to provide a title, in all useful forms, for my repository's collections, objects, and object components. 
+As a depository director, I desire to supply a championship, in all utilitarian form, for my depository's collection, object, and object component. 
+As a repository coach, I want to put_up a deed, in all useful kind, for my repository's solicitation, aim, and object part. 
+As a repository manager, I want to leave a claim, in all useful shape, for my repository's collections, objects, and object components. 
+As a repository manager, I want to provide a title, in all useful human_body, for my repository's collections, objects, and object components. 
+As a repository manager, I want to provide a title, in all useful phase, for my repository's collections, objects, and object components. 
+
+Input phrase:As a repository manager, I want to know any changes occurring to titles for repository's collections, objects, and object components. 
+As a depository director, I desire to acknowledge any change happen to title for depository's collection, object, and object component. 
+As a repository coach, I want to sleep_together any variety occur to championship for repository's solicitation, aim, and object part. 
+As a repository manager, I want to know any changes occurring to deed for repository's collections, objects, and object components. 
+As a repository manager, I want to know any changes occurring to claim for repository's collections, objects, and object components. 
+As a repository manager, I want to know any changes occurring to titles for repository's collections, objects, and object components. 
+
+Input phrase:As a DAMS manager, I want to present collections, objects, and object components by title. 
+As a dam director, I desire to show collection, object, and object component by championship. 
+As a decameter coach, I want to stage solicitation, aim, and object part by deed. 
+As a DAMS manager, I want to award collections, objects, and object components by claim. 
+As a DAMS manager, I want to give collections, objects, and object components by title. 
+As a DAMS manager, I want to deliver collections, objects, and object components by title. 
+
+Input phrase:As a user, I want to search collections, objects, and object components by title. 
+As a exploiter, I desire to research collection, object, and object component by championship. 
+As a drug_user, I want to search solicitation, aim, and object part by deed. 
+As a user, I want to search collections, objects, and object components by claim. 
+As a user, I want to search collections, objects, and object components by title. 
+As a user, I want to search collections, objects, and object components by title. 
+
+Input phrase:As a repository manager, I want to indicate for an object or object component the place of publication, the publisher, edition, etc., when pertinent. 
+As a repository director, I desire to bespeak for an aim or aim component the topographic_point of issue, the publisher, version, etc., when apposite. 
+As a repository coach, I want to argue for an object or object component the stead of publication, the publisher, edition, etc., when pertinent. 
+As a repository manager, I want to indicate for an object or object component the home of publication, the publisher, edition, etc., when pertinent. 
+As a repository manager, I want to indicate for an object or object component the position of publication, the publisher, edition, etc., when pertinent. 
+As a repository manager, I want to indicate for an object or object component the seat of publication, the publisher, edition, etc., when pertinent. 
+
+Input phrase:As a repository manager, I want to know of any changes made to the origin Info for an object, including its component parts. 
+As a repository director, I desire to acknowledge of any change make to the beginning information for an aim, include its part part. 
+As a repository coach, I want to sleep_together of any variety induce to the lineage Info for an object, admit its component region. 
+As a repository manager, I want to know of any changes cause to the origin Info for an object, including its component function. 
+As a repository manager, I want to know of any changes produce to the origin Info for an object, including its component character. 
+As a repository manager, I want to know of any changes draw to the origin Info for an object, including its component share. 
+
+Input phrase:As a user, I want to know for an object or its component parts the place of publication, the publisher, etc.
+As a exploiter, I desire to acknowledge for an aim or its part separate the topographic_point of issue, the publisher, etc.
+As a drug_user, I want to sleep_together for an object or its component depart the stead of publication, the publisher, etc.
+As a user, I want to know for an object or its component parts the home of publication, the publisher, etc.
+As a user, I want to know for an object or its component parts the position of publication, the publisher, etc.
+As a user, I want to know for an object or its component parts the seat of publication, the publisher, etc.
+
+Input phrase:As a repository manager, I want to describe various facets of a collection, object, or object component that are not addressable via title, date, name, and subject entities. 
+As a repository director, I desire to report assorted aspect of a solicitation, aim, or aim part that are not addressable via championship, date, name, and capable entity. 
+As a repository coach, I want to trace respective facet of a collection, object, or object component that are not addressable via deed, date, name, and subject entities. 
+As a repository manager, I want to identify diverse facets of a collection, object, or object component that are not addressable via claim, date, name, and subject entities. 
+As a repository manager, I want to describe versatile facets of a collection, object, or object component that are not addressable via title, date, name, and subject entities. 
+As a repository manager, I want to describe various facets of a collection, object, or object component that are not addressable via title, date, name, and subject entities. 
+
+Input phrase:As a repository manager, I want to know of all modifications made to notes for my repository's collections, objects, or object components. 
+As a depository director, I desire to acknowledge of all alteration make to note for my depository's collection, object, or object component. 
+As a repository coach, I want to sleep_together of all modification induce to bill for my repository's solicitation, aim, or object part. 
+As a repository manager, I want to know of all change cause to eminence for my repository's collections, objects, or object components. 
+As a repository manager, I want to know of all modifications produce to notes for my repository's collections, objects, or object components. 
+As a repository manager, I want to know of all modifications draw to notes for my repository's collections, objects, or object components. 
+
+Input phrase:As a user, I want to know about various facets of a collection, object, or object component, such as scope and content, various identifiers, conditions governing use/access, etc.  
+As a exploiter, I desire to acknowledge about assorted aspect of a solicitation, aim, or aim part, such as setting and message, assorted identifier, weather regulate function/entree, etc.  
+As a drug_consumptionr, I want to sleep_together about respective facet of a collection, object, or object component, such as telescope and capacity, respective identifiers, condition govern consumption/access, etc.  
+As a habitr, I want to know about diverse facets of a collection, object, or object component, such as oscilloscope and contentedness, diverse identifiers, circumstance governing habit/access, etc.  
+As a manipulationr, I want to know about versatile facets of a collection, object, or object component, such as scope and subject, versatile identifiers, conditions governing manipulation/access, etc.  
+As a user, I want to know about various facets of a collection, object, or object component, such as scope and content, various identifiers, conditions governing use/access, etc.  
+
+Input phrase:As a repository manager, I want to indicate the language(s) for present in a collection, object, or object component. 
+As a repository director, I desire to bespeak the language(s) for present in a solicitation, aim, or aim part. 
+As a repository coach, I want to argue the language(s) for present in a collection, object, or object component. 
+As a repository manager, I want to indicate the language(s) for present in a collection, object, or object component. 
+As a repository manager, I want to indicate the language(s) for present in a collection, object, or object component. 
+As a repository manager, I want to indicate the language(s) for present in a collection, object, or object component. 
+
+Input phrase:As a repository manager, I want to know of any changes made to language(s) indicated for a collection, object, or object component. 
+As a repository director, I desire to acknowledge of any change make to language(s) bespeak for a solicitation, aim, or aim part. 
+As a repository coach, I want to sleep_together of any variety induce to language(s) indicate for a collection, object, or object component. 
+As a repository manager, I want to know of any changes cause to language(s) argue for a collection, object, or object component. 
+As a repository manager, I want to know of any changes produce to language(s) indicated for a collection, object, or object component. 
+As a repository manager, I want to know of any changes draw to language(s) indicated for a collection, object, or object component. 
+
+Input phrase:As a user, I want to scope my searches for collections, objects, or object components to a specific language. 
+As a exploiter, I desire to scope my search for collection, object, or object component to a specific speech. 
+As a drug_user, I want to scope my searches for solicitation, aim, or object part to a specific lyric. 
+As a user, I want to scope my searches for collections, objects, or object components to a specific linguistic_process. 
+As a user, I want to scope my searches for collections, objects, or object components to a specific terminology. 
+As a user, I want to scope my searches for collections, objects, or object components to a specific language. 
+
+Input phrase:As a repository manager, I want to register a name record for each unique identity associated with my repository's collections and objects. 
+As a depository director, I desire to file a name phonograph_record for each alone identity associate with my depository's collection and object. 
+As a repository coach, I want to criminal_record a name criminal_record for each singular identity consort with my repository's solicitation and aim. 
+As a repository manager, I want to read a name record for each unique identity consociate with my repository's collections and objects. 
+As a repository manager, I want to cross-file a name record for each unique identity associated with my repository's collections and objects. 
+As a repository manager, I want to register a name record for each unique identity associated with my repository's collections and objects. 
+
+Input phrase:As a user, I want to search by for collections and objects by name. 
+As a exploiter, I desire to research by for collection and object by name. 
+As a drug_user, I want to search by for solicitation and aim by name. 
+As a user, I want to search by for collections and objects by name. 
+As a user, I want to search by for collections and objects by name. 
+As a user, I want to search by for collections and objects by name. 
+
+Input phrase:As a repository manager, I want to indicate that a name pertinent to a collection, object, or object component has a specific role, such as illustrator, photographer, etc. 
+As a repository director, I desire to bespeak that a name pertinent to a solicitation, aim, or aim part has a specific function, such as illustrator, photographer, etc. 
+As a repository coach, I want to argue that a name pertinent to a collection, object, or object component has a specific character, such as illustrator, photographer, etc. 
+As a repository manager, I want to indicate that a name pertinent to a collection, object, or object component has a specific role, such as illustrator, photographer, etc. 
+As a repository manager, I want to indicate that a name pertinent to a collection, object, or object component has a specific role, such as illustrator, photographer, etc. 
+As a repository manager, I want to indicate that a name pertinent to a collection, object, or object component has a specific role, such as illustrator, photographer, etc. 
+
+Input phrase:As a user, I want to scope by searches by name to a specific role such as illustrator, photographer, etc. 
+As a exploiter, I desire to scope by search by name to a specific function such as illustrator, photographer, etc. 
+As a drug_user, I want to scope by searches by name to a specific character such as illustrator, photographer, etc. 
+As a user, I want to scope by searches by name to a specific role such as illustrator, photographer, etc. 
+As a user, I want to scope by searches by name to a specific role such as illustrator, photographer, etc. 
+As a user, I want to scope by searches by name to a specific role such as illustrator, photographer, etc. 
+
+Input phrase:As a repository manager, I want to indicate all subjects that are pertinent to a collection, object, or object component. 
+As a repository director, I desire to bespeak all subject that are apposite to a solicitation, aim, or aim part. 
+As a repository coach, I want to argue all discipline that are pertinent to a collection, object, or object component. 
+As a repository manager, I want to indicate all topic that are pertinent to a collection, object, or object component. 
+As a repository manager, I want to indicate all national that are pertinent to a collection, object, or object component. 
+As a repository manager, I want to indicate all subjects that are pertinent to a collection, object, or object component. 
+
+Input phrase:As a user, I want to search for collections, objects, and object components by pertinent such headings, including title, topic, genre/form, geographical name, function, occupation, name, cartographics, etc. 
+As a exploiter, I desire to research for collection, object, and object component by apposite such heading, include championship, subject, writing_style/kind, geographic name, affair, occupation, name, cartographics, etc. 
+As a drug_user, I want to search for solicitation, aim, and object part by pertinent such bearing, admit deed, topic, music_genre/shape, geographical name, routine, occupation, name, cartographics, etc. 
+As a user, I want to search for collections, objects, and object components by pertinent such drift, including claim, topic, genre/human_body, geographical name, function, occupation, name, cartographics, etc. 
+As a user, I want to search for collections, objects, and object components by pertinent such headings, including title, topic, genre/phase, geographical name, function, occupation, name, cartographics, etc. 
+As a user, I want to search for collections, objects, and object components by pertinent such headings, including title, topic, genre/class, geographical name, function, occupation, name, cartographics, etc. 
+
+Input phrase:As a repository manager, I want to indicate the geo-coordinates for any resource that believe useful to an end user. 
+As a repository director, I desire to bespeak the geo-coordinate for any resource that think utilitarian to an goal exploiter. 
+As a repository coach, I want to argue the geo-coordinates for any resource that believe useful to an conclusion drug_user. 
+As a repository manager, I want to indicate the geo-coordinates for any resource that believe useful to an end user. 
+As a repository manager, I want to indicate the geo-coordinates for any resource that believe useful to an end user. 
+As a repository manager, I want to indicate the geo-coordinates for any resource that believe useful to an end user. 
+
+Input phrase:As a user, I want to see the geographical context of a collection, object, or object component, where pertinent. 
+As a exploiter, I desire to understand the geographic context of a solicitation, aim, or aim part, where apposite. 
+As a drug_user, I want to witness the geographical context of a collection, object, or object component, where pertinent. 
+As a user, I want to visualize the geographical context of a collection, object, or object component, where pertinent. 
+As a user, I want to learn the geographical context of a collection, object, or object component, where pertinent. 
+As a user, I want to watch the geographical context of a collection, object, or object component, where pertinent. 
+
+Input phrase:As a repository manager, I want to indicate all other pertinent versions or descriptions of a resource that are external to the DAMS. 
+As a repository director, I desire to bespeak all other apposite version or description of a resource that are external to the dam. 
+As a repository coach, I want to argue all other pertinent adaptation or descriptions of a resource that are external to the decameter. 
+As a repository manager, I want to indicate all other pertinent translation or descriptions of a resource that are external to the DAMS. 
+As a repository manager, I want to indicate all other pertinent interpretation or descriptions of a resource that are external to the DAMS. 
+As a repository manager, I want to indicate all other pertinent versions or descriptions of a resource that are external to the DAMS. 
+
+Input phrase:As a user, I want to know of all other pertinent versions or descriptions of the resource. 
+As a exploiter, I desire to acknowledge of all other apposite version or description of the resource. 
+As a drug_user, I want to sleep_together of all other pertinent adaptation or descriptions of the resource. 
+As a user, I want to know of all other pertinent translation or descriptions of the resource. 
+As a user, I want to know of all other pertinent interpretation or descriptions of the resource. 
+As a user, I want to know of all other pertinent versions or descriptions of the resource. 
+
+Input phrase:As a repository manager, I want to know if the checksum for any of my repository's content files that have changed.
+As a depository director, I desire to acknowledge if the checksum for any of my depository's message file that have change.
+As a repository coach, I want to sleep_together if the checksum for any of my repository's capacity files that have switch.
+As a repository manager, I want to know if the checksum for any of my repository's contentedness files that have exchange.
+As a repository manager, I want to know if the checksum for any of my repository's subject files that have transfer.
+As a repository manager, I want to know if the checksum for any of my repository's content files that have deepen.
+
+Input phrase:As a DAMS manager, I want to know, via the preservation manager, of all files for which the checksum has changed since last registered.
+As a dam director, I desire to acknowledge, via the conservation director, of all file for which the checksum has change since last register.
+As a decameter coach, I want to sleep_together, via the preservation coach, of all files for which the checksum has switch since last file.
+As a DAMS manager, I want to know, via the preservation manager, of all files for which the checksum has exchange since last record.
+As a DAMS manager, I want to know, via the preservation manager, of all files for which the checksum has transfer since last read.
+As a DAMS manager, I want to know, via the preservation manager, of all files for which the checksum has deepen since last cross-file.
+
+Input phrase:As a repository manager, I want to know, where pertinent, the hardware and software used to generate a content file. 
+As a repository director, I desire to acknowledge, where apposite, the hardware and software use to render a message file. 
+As a repository coach, I want to sleep_together, where pertinent, the hardware and software practice to beget a capacity file. 
+As a repository manager, I want to know, where pertinent, the hardware and software used to generate a contentedness file. 
+As a repository manager, I want to know, where pertinent, the hardware and software used to generate a subject file. 
+As a repository manager, I want to know, where pertinent, the hardware and software used to generate a content file. 
+
+Input phrase:As a DAMS manager, I want to know what objects or object components are still under copyright and cannot be displayed without either a license or incurring risk. 
+As a dam director, I desire to acknowledge what aim or aim component are however under copyright and cannot be expose without either a license or incur hazard. 
+As a decameter coach, I want to sleep_together what aim or object part are even under copyright and cannot be display without either a license or receive risk. 
+As a DAMS manager, I want to know what objects or object components are still under copyright and cannot be displayed without either a license or incurring risk. 
+As a DAMS manager, I want to know what objects or object components are still under copyright and cannot be displayed without either a license or incurring risk. 
+As a DAMS manager, I want to know what objects or object components are still under copyright and cannot be displayed without either a license or incurring risk. 
+
+Input phrase:As a DAMS manager, I want to know when copyright for an object or object component is likely to expire per jurisdictional copyright statute. 
+As a dam director, I desire to acknowledge when copyright for an aim or aim part is probable to run_out per jurisdictional copyright legislative_act. 
+As a decameter coach, I want to sleep_together when copyright for an object or object component is likely to die per jurisdictional copyright statute. 
+As a DAMS manager, I want to know when copyright for an object or object component is likely to exhale per jurisdictional copyright statute. 
+As a DAMS manager, I want to know when copyright for an object or object component is likely to expire per jurisdictional copyright statute. 
+As a DAMS manager, I want to know when copyright for an object or object component is likely to expire per jurisdictional copyright statute. 
+
+Input phrase:As a DAMS manager, I want to know when the copyright status for an object or object component is modified, either manually or automatically. 
+As a dam director, I desire to acknowledge when the copyright condition for an aim or aim part is modify, either manually or mechanically. 
+As a decameter coach, I want to sleep_together when the copyright status for an object or object component is change, either manually or automatically. 
+As a DAMS manager, I want to know when the copyright status for an object or object component is modified, either manually or automatically. 
+As a DAMS manager, I want to know when the copyright status for an object or object component is modified, either manually or automatically. 
+As a DAMS manager, I want to know when the copyright status for an object or object component is modified, either manually or automatically. 
+
+Input phrase:As a user, I want to know if an object or object component is under copyright and, where possible, who the rights holder is. 
+As a exploiter, I desire to acknowledge if an aim or aim part is under copyright and, where potential, who the right holder is. 
+As a drug_user, I want to sleep_together if an object or object component is under copyright and, where possible, who the right_field holder is. 
+As a user, I want to know if an object or object component is under copyright and, where possible, who the rights holder is. 
+As a user, I want to know if an object or object component is under copyright and, where possible, who the rights holder is. 
+As a user, I want to know if an object or object component is under copyright and, where possible, who the rights holder is. 
+
+Input phrase:As a DAMS manager, I want to know all the statutes pertinent to an object or object component. 
+As a dam director, I desire to acknowledge all the legislative_act pertinent to an aim or aim part. 
+As a decameter coach, I want to sleep_together all the statutes pertinent to an object or object component. 
+As a DAMS manager, I want to know all the statutes pertinent to an object or object component. 
+As a DAMS manager, I want to know all the statutes pertinent to an object or object component. 
+As a DAMS manager, I want to know all the statutes pertinent to an object or object component. 
+
+Input phrase:As a DAMS manager, I want to know when the pertinence of a statute to a object or object component is scheduled to expire. 
+As a dam director, I desire to acknowledge when the applicability of a legislative_act to a aim or aim part is schedule to run_out. 
+As a decameter coach, I want to sleep_together when the pertinence of a statute to a object or object component is scheduled to die. 
+As a DAMS manager, I want to know when the pertinence of a statute to a object or object component is scheduled to exhale. 
+As a DAMS manager, I want to know when the pertinence of a statute to a object or object component is scheduled to expire. 
+As a DAMS manager, I want to know when the pertinence of a statute to a object or object component is scheduled to expire. 
+
+Input phrase:As a DAMS manager, I want to know when the application of a statute to an object or object component has been modified, either manually or automatically. 
+As a dam director, I desire to acknowledge when the lotion of a legislative_act to an aim or aim part has been modify, either manually or mechanically. 
+As a decameter coach, I want to sleep_together when the application of a statute to an object or object component has been change, either manually or automatically. 
+As a DAMS manager, I want to know when the application of a statute to an object or object component has been modified, either manually or automatically. 
+As a DAMS manager, I want to know when the application of a statute to an object or object component has been modified, either manually or automatically. 
+As a DAMS manager, I want to know when the application of a statute to an object or object component has been modified, either manually or automatically. 
+
+Input phrase:As a DAMS manager, I want to know if copyrighted content has an applicable license. 
+As a dam director, I desire to acknowledge if copyright message has an applicable license. 
+As a decameter coach, I want to sleep_together if copyrighted capacity has an applicable license. 
+As a DAMS manager, I want to know if copyrighted contentedness has an applicable license. 
+As a DAMS manager, I want to know if copyrighted subject has an applicable license. 
+As a DAMS manager, I want to know if copyrighted content has an applicable license. 
+
+Input phrase:As a DAMS manager, I want to know if an object or object component is subject to a library policy that restricts access in any way. 
+As a dam director, I desire to acknowledge if an aim or aim part is capable to a library policy that restrict entree in any manner. 
+As a decameter coach, I want to sleep_together if an object or object component is subject to a library policy that qualify access in any means. 
+As a DAMS manager, I want to know if an object or object component is subject to a library policy that restricts access in any direction. 
+As a DAMS manager, I want to know if an object or object component is subject to a library policy that restricts access in any room. 
+As a DAMS manager, I want to know if an object or object component is subject to a library policy that restricts access in any way. 
+
+Input phrase:As a DAMS manager, I want to know when application of a library policy to an object or object component is scheduled to expire. 
+As a dam director, I desire to acknowledge when lotion of a library policy to an aim or aim part is schedule to run_out. 
+As a decameter coach, I want to sleep_together when application of a library policy to an object or object component is scheduled to die. 
+As a DAMS manager, I want to know when application of a library policy to an object or object component is scheduled to exhale. 
+As a DAMS manager, I want to know when application of a library policy to an object or object component is scheduled to expire. 
+As a DAMS manager, I want to know when application of a library policy to an object or object component is scheduled to expire. 
+
+Input phrase:As a DAMS manager, I want to know if application of a library policy to an object or object component has been modified, either manually or automatically.
+As a dam director, I desire to acknowledge if lotion of a library policy to an aim or aim part has been modify, either manually or mechanically.
+As a decameter coach, I want to sleep_together if application of a library policy to an object or object component has been change, either manually or automatically.
+As a DAMS manager, I want to know if application of a library policy to an object or object component has been modified, either manually or automatically.
+As a DAMS manager, I want to know if application of a library policy to an object or object component has been modified, either manually or automatically.
+As a DAMS manager, I want to know if application of a library policy to an object or object component has been modified, either manually or automatically.
+
+Input phrase:As a DAMS manager, I want to know all the uses for an object or object component that are permitted or restricted per the rights status of the object or object component.
+As a dam director, I desire to acknowledge all the use for an aim or aim part that are permit or restrict per the right condition of the aim or aim part.
+As a decameter coach, I want to sleep_together all the function for an object or object component that are let or qualify per the right_field status of the object or object component.
+As a DAMS manager, I want to know all the consumption for an object or object component that are allow or restricted per the rights status of the object or object component.
+As a DAMS manager, I want to know all the habit for an object or object component that are permitted or restricted per the rights status of the object or object component.
+As a DAMS manager, I want to know all the manipulation for an object or object component that are permitted or restricted per the rights status of the object or object component.
+
+Input phrase:As a DAMS manager, I want know the dates for when a permission or restriction is active. 
+As a dam director, I desire acknowledge the date for when a license or limitation is active. 
+As a decameter coach, I want sleep_together the dates for when a permission or restriction is active. 
+As a DAMS manager, I want know the dates for when a permission or restriction is active. 
+As a DAMS manager, I want know the dates for when a permission or restriction is active. 
+As a DAMS manager, I want know the dates for when a permission or restriction is active. 
+
+Input phrase:As a DAMS manager, I want to know when permitted and restricted acts and/or their active dates are modified. 
+As a dam director, I desire to acknowledge when permit and restricted acts_of_the_apostles and/or their active date are modify. 
+As a decameter coach, I want to sleep_together when let and restricted act and/or their active dates are change. 
+As a DAMS manager, I want to know when allow and restricted acts and/or their active dates are modified. 
+As a DAMS manager, I want to know when permitted and restricted acts and/or their active dates are modified. 
+As a DAMS manager, I want to know when permitted and restricted acts and/or their active dates are modified. 
+
+Input phrase:As a DAMS manager, I want to track all events scheduled for recording in the DAMS. 
+As a dam director, I desire to chase all event schedule for recording in the dam. 
+As a decameter coach, I want to traverse all consequence scheduled for recording in the decameter. 
+As a DAMS manager, I want to track all events scheduled for recording in the DAMS. 
+As a DAMS manager, I want to track all events scheduled for recording in the DAMS. 
+As a DAMS manager, I want to track all events scheduled for recording in the DAMS. 
+
+Input phrase:As a DAMS manager, I want to know the agent(s) responsible for carrying out an event. 
+As a dam director, I desire to acknowledge the agent(s) creditworthy for transport out an consequence. 
+As a decameter coach, I want to sleep_together the agent(s) responsible for carry out an event. 
+As a DAMS manager, I want to know the agent(s) responsible for impart out an event. 
+As a DAMS manager, I want to know the agent(s) responsible for hold out an event. 
+As a DAMS manager, I want to know the agent(s) responsible for behave out an event. 
+
+Input phrase:As a DAMS manager, I want to know when the event occurred. 
+As a dam director, I desire to acknowledge when the consequence happen. 
+As a decameter coach, I want to sleep_together when the event occur. 
+As a DAMS manager, I want to know when the event occurred. 
+As a DAMS manager, I want to know when the event occurred. 
+As a DAMS manager, I want to know when the event occurred. 
+
+Input phrase:As a DAMS manager, I want to know the outcome of the event, e.g., object NN was deleted. 
+As a dam director, I desire to acknowledge the result of the consequence, for_example, aim NN was delete. 
+As a decameter coach, I want to sleep_together the consequence of the event, e.g., object NN was erase. 
+As a DAMS manager, I want to know the outcome of the event, e.g., object NN was edit. 
+As a DAMS manager, I want to know the outcome of the event, e.g., object NN was deleted. 
+As a DAMS manager, I want to know the outcome of the event, e.g., object NN was deleted. 
+
+Time for the single dataset = 1.1500 seconds = 0.0003 hours

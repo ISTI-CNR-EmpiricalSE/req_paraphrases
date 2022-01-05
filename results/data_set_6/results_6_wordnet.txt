@@ -1,0 +1,682 @@
+data_set_number:6
+
+Input phrase:As a site member, I want to describe myself on my own page in a semi-structured way, so that others can learn about me.
+As a web_site extremity, I desire to report myself on my own page in a semi-integrated manner, so that others can memorize about me.
+As a site penis, I want to trace myself on my own page in a semi-structured means, so that others can teach about me.
+As a site member, I want to identify myself on my own page in a semi-structured direction, so that others can determine about me.
+As a site member, I want to describe myself on my own page in a semi-structured room, so that others can learn about me.
+As a site member, I want to describe myself on my own page in a semi-structured way, so that others can learn about me.
+
+Input phrase:As a site member, I want to fill out an application to become a Certified Scrum Practitioner, so that I can earn that designation.
+As a web_site extremity, I desire to occupy out an lotion to become a attest Scrum Practitioner, so that I can gain that appellation.
+As a site penis, I want to meet out an application to become a certify Scrum Practitioner, so that I can earn that appointment.
+As a site member, I want to fill_up out an application to become a license Scrum Practitioner, so that I can earn that designation.
+As a site member, I want to satiate out an application to become a certifiable Scrum Practitioner, so that I can earn that designation.
+As a site member, I want to fill out an application to become a Certified Scrum Practitioner, so that I can earn that designation.
+
+Input phrase:As a Practitioner, I want to include additional details about me in my profile page, so that I can showcase my experience.
+As a Practitioner, I desire to admit extra detail about me in my visibility page, so that I can showcase my experience.
+As a Practitioner, I want to include additional contingent about me in my profile page, so that I can showcase my experience.
+As a Practitioner, I want to include additional details about me in my profile page, so that I can showcase my experience.
+As a Practitioner, I want to include additional details about me in my profile page, so that I can showcase my experience.
+As a Practitioner, I want to include additional details about me in my profile page, so that I can showcase my experience.
+
+Input phrase:As a site member, I want to fill out an application to become a Certified Scrum Trainer, so that I can teach CSM and CSPO courses and certify others.
+As a web_site extremity, I desire to occupy out an lotion to become a attest Scrum flight_simulator, so that I can teach CSM and CSPO course and attest others.
+As a site penis, I want to meet out an application to become a license Scrum Trainer, so that I can teach CSM and CSPO path and license others.
+As a site member, I want to fill_up out an application to become a license Scrum Trainer, so that I can teach CSM and CSPO class and certify others.
+As a site member, I want to satiate out an application to become a certifiable Scrum Trainer, so that I can teach CSM and CSPO courses and certify others.
+As a site member, I want to fill out an application to become a Certified Scrum Trainer, so that I can teach CSM and CSPO courses and certify others.
+
+Input phrase:As a Trainer, I want to include additional details in my profile page about me, so that others can learn about me and decide if I am the right trainer for them.
+As a flight_simulator, I desire to admit extra detail in my visibility page about me, so that others can memorize about me and decide if I am the correct flight_simulator for them.
+As a Trainer, I want to include additional contingent in my profile page about me, so that others can teach about me and decide if I am the proper trainer for them.
+As a Trainer, I want to include additional details in my profile page about me, so that others can determine about me and decide if I am the good trainer for them.
+As a Trainer, I want to include additional details in my profile page about me, so that others can learn about me and decide if I am the veracious trainer for them.
+As a Trainer, I want to include additional details in my profile page about me, so that others can learn about me and decide if I am the right trainer for them.
+
+Input phrase:As a Practitioner, I want to write an article for the site with a small graphic shown with the article showing my CSP or CST status, so that others know my certifications when reading.
+As a Practitioner, I desire to publish an article for the web_site with a minor graphic show with the article show my CSP or central_time condition, so that others acknowledge my certification when read.
+As a Practitioner, I want to compose an article for the site with a little graphic prove with the article prove my CSP or CST status, so that others sleep_together my documentation when take.
+As a Practitioner, I want to spell an article for the site with a humble graphic testify with the article testify my CSP or CST status, so that others know my certificate when learn.
+As a Practitioner, I want to write an article for the site with a modest graphic picture with the article picture my CSP or CST status, so that others know my authentication when understand.
+As a Practitioner, I want to write an article for the site with a belittled graphic express with the article express my CSP or CST status, so that others know my certifications when reading.
+
+Input phrase:As a trainer, I want to list my upcoming classes in my profile and include a link to a detailed page about each, so that prospective attendees can find my courses.
+As a flight_simulator, I desire to number my approaching class in my visibility and admit a connection to a detailed page about each, so that prospective attendant can detect my course.
+As a trainer, I want to list my upcoming course in my profile and include a liaison to a detailed page about each, so that prospective attendees can determine my path.
+As a trainer, I want to list my upcoming classes in my profile and include a radio_link to a detailed page about each, so that prospective attendees can witness my class.
+As a trainer, I want to list my upcoming classes in my profile and include a link to a detailed page about each, so that prospective attendees can line_up my courses.
+As a trainer, I want to list my upcoming classes in my profile and include a link to a detailed page about each, so that prospective attendees can discover my courses.
+
+Input phrase:As a site member, I want to view the profiles of other members, so that I can find others I might want to connect with.
+As a web_site extremity, I desire to see the profile of other extremitys, so that I can detect others I might desire to associate with.
+As a site penis, I want to watch the visibility of other peniss, so that I can determine others I might want to get_in_touch with.
+As a site member, I want to view the profiles of other penis, so that I can witness others I might want to plug_in with.
+As a site member, I want to view the profiles of other members, so that I can line_up others I might want to connect with.
+As a site member, I want to view the profiles of other members, so that I can discover others I might want to connect with.
+
+Input phrase:As a site member, I want to search for profiles based on a few fields, so that I can find others I might want to connect with.
+As a web_site extremity, I desire to research for profile establish on a few field, so that I can detect others I might desire to associate with.
+As a site penis, I want to search for visibility base on a few battlefield, so that I can determine others I might want to get_in_touch with.
+As a site member, I want to search for profiles free-base on a few discipline, so that I can witness others I might want to plug_in with.
+As a site member, I want to search for profiles based on a few sphere, so that I can line_up others I might want to connect with.
+As a site member, I want to search for profiles based on a few playing_field, so that I can discover others I might want to connect with.
+
+Input phrase:As a site member, I want to mark my profile as private in which case only my name will appear, so that no one can learn things about me I don't want shared.
+As a web_site extremity, I desire to tag my visibility as individual in which event only my name will look, so that no one can memorize thing about me I don't desire share.
+As a site penis, I want to distinguish my profile as secret in which lawsuit only my name will appear, so that no one can teach matter about me I don't want partake.
+As a site member, I want to commemorate my profile as private in which subject only my name will appear, so that no one can determine things about me I don't want shared.
+As a site member, I want to stigmatize my profile as private in which character only my name will appear, so that no one can learn things about me I don't want shared.
+As a site member, I want to notice my profile as private in which font only my name will appear, so that no one can learn things about me I don't want shared.
+
+Input phrase:As a site member, I want to mark my email address as private even if the rest of my profile is not, so that no one can contact me.
+As a web_site extremity, I desire to tag my electronic_mail savoir-faire as individual even if the remainder of my visibility is not, so that no one can reach me.
+As a site penis, I want to distinguish my email address as secret even if the respite of my profile is not, so that no one can touch me.
+As a site member, I want to commemorate my email address as private even if the rest of my profile is not, so that no one can contact me.
+As a site member, I want to stigmatize my email address as private even if the rest of my profile is not, so that no one can contact me.
+As a site member, I want to notice my email address as private even if the rest of my profile is not, so that no one can contact me.
+
+Input phrase:As a site member, I want to send an email to any member via a form, so that we can connect.
+As a web_site extremity, I desire to mail an electronic_mail to any extremity via a kind, so that we can associate.
+As a site penis, I want to transport an email to any penis via a shape, so that we can get_in_touch.
+As a site member, I want to station an email to any member via a human_body, so that we can plug_in.
+As a site member, I want to commit an email to any member via a phase, so that we can connect.
+As a site member, I want to air an email to any member via a class, so that we can connect.
+
+Input phrase:As a site administrator, I want to read practicing and training applications and approve or reject them, so that only applicants who qualify can become CSPs or CSTs.
+As a web_site administrator, I desire to take practice and education application and approve or refuse them, so that only applicant who stipulate can become CSPs or central_time.
+As a site administrator, I want to learn drill and training lotion and approve or disapprove them, so that only applicants who modify can become CSPs or CSTs.
+As a site administrator, I want to understand rehearse and training applications and approve or resist them, so that only applicants who qualify can become CSPs or CSTs.
+As a site administrator, I want to read commit and training applications and approve or rule_out them, so that only applicants who qualify can become CSPs or CSTs.
+As a site administrator, I want to read practicing and training applications and approve or reject them, so that only applicants who qualify can become CSPs or CSTs.
+
+Input phrase:As a site administrator, I want to edit any site member profile, so that I can correct problems for members.
+As a web_web_site administrator, I desire to edit any web_web_site extremity visibility, so that I can right problem for extremitys.
+As a site administrator, I want to edit any site penis profile, so that I can chastise trouble for peniss.
+As a site administrator, I want to edit any site member profile, so that I can compensate problems for penis.
+As a site administrator, I want to edit any site member profile, so that I can discipline problems for members.
+As a site administrator, I want to edit any site member profile, so that I can decline problems for members.
+
+Input phrase:As a site visitor, I want to read current news on the home page, so that I stay current on agile news.
+As a web_site visitor, I desire to take current news_program_program on the dwelling page, so that I bide current on agile news_program_program.
+As a site visitor, I want to learn current newsworthinessworthiness on the home_plate page, so that I persist current on agile newsworthinessworthiness.
+As a site visitor, I want to understand current news on the base page, so that I last_out current on agile news.
+As a site visitor, I want to read current news on the family page, so that I quell current on agile news.
+As a site visitor, I want to read current news on the home page, so that I stay current on agile news.
+
+Input phrase:As a site visitor, I want to access old news that is no longer on the home page, so that I can access things I remember from the past or that others mention to me.
+As a web_site visitor, I desire to access erstwhile news_program that is no longer on the dwelling page, so that I can access thing I commend from the past or that others note to me.
+As a site visitor, I want to access honest-to-god newsworthiness that is no longer on the home_plate page, so that I can access matter I commemorate from the past or that others mention to me.
+As a site visitor, I want to access previous news that is no longer on the base page, so that I can access things I remember from the past or that others mention to me.
+As a site visitor, I want to access old news that is no longer on the family page, so that I can access things I remember from the past or that others mention to me.
+As a site visitor, I want to access old news that is no longer on the home page, so that I can access things I remember from the past or that others mention to me.
+
+Input phrase:As a site visitor, I want to email news items to the editor, so that they can be considered for publication.
+As a web_site visitor, I desire to e-mail news_program item to the editor_program, so that they can be see for issue.
+As a site visitor, I want to email newsworthiness detail to the editor, so that they can be study for publication.
+As a site visitor, I want to email news token to the editor, so that they can be consider for publication.
+As a site visitor, I want to email news items to the editor, so that they can be think for publication.
+As a site visitor, I want to email news items to the editor, so that they can be regard for publication.
+
+Input phrase:As a site editor, I want to set the following dates on a news item: Start Publishing Date, Old News Date, Stop Publishing Date, so that articles are published on and through appropriate dates.
+As a web_site editor_program, I desire to put the follow date on a news_program detail: get_down publication go_steady, erstwhile news_program go_steady, discontinue publication go_steady, so that article are print on and through appropriate date.
+As a site editor, I want to determine the postdate dates on a newsworthiness token: begin print Date, honest-to-god newsworthiness Date, break print Date, so that articles are publish on and through appropriate dates.
+As a site editor, I want to specify the comply dates on a news item: depart publish Date, previous News Date, check publish Date, so that articles are published on and through appropriate dates.
+As a site editor, I want to fix the adopt dates on a news item: originate Publishing Date, Old News Date, intercept Publishing Date, so that articles are published on and through appropriate dates.
+As a site editor, I want to arrange the take_after dates on a news item: startle Publishing Date, Old News Date, end Publishing Date, so that articles are published on and through appropriate dates.
+
+Input phrase:As a site member, I want to subscribe to an RSS feed of news, so that I remain sufficiently and easily informed.
+As a web_site extremity, I desire to sign to an roentgen feed of news_program, so that I stay sufficiently and well inform.
+As a site penis, I want to pledge to an gas_constant feed of newsworthiness, so that I persist sufficiently and easily informed.
+As a site member, I want to subscribe to an r feed of news, so that I remain sufficiently and easily informed.
+As a site member, I want to subscribe to an radius feed of news, so that I remain sufficiently and easily informed.
+As a site member, I want to subscribe to an RSS feed of news, so that I remain sufficiently and easily informed.
+
+Input phrase:As a site editor, I want to assign priority numbers to news items, so that I can indicate which articles I want featured most prominently on the site.
+As a web_web_site editor_program, I desire to delegate precedence numbers_pool to news_program item, so that I can bespeak which article I desire have most prominently on the web_web_site.
+As a site editor, I want to impute priority number to newsworthiness detail, so that I can argue which articles I want sport most prominently on the site.
+As a site editor, I want to put priority act to news token, so that I can indicate which articles I want featured most prominently on the site.
+As a site editor, I want to arrogate priority phone_number to news items, so that I can indicate which articles I want featured most prominently on the site.
+As a site editor, I want to assign priority numeral to news items, so that I can indicate which articles I want featured most prominently on the site.
+
+Input phrase:As a site visitor, I want to see a list of all upcoming Certification Courses and can page through them if there are a lot, so that I can choose the best course for me.
+As a web_site visitor, I desire to understand a tilt of all approaching documentation path and can foliate through them if there are a batch, so that I can choose the better path for me.
+As a site visitor, I want to witness a list of all upcoming certificate path and can page through them if there are a set, so that I can choose the good class for me.
+As a site visitor, I want to visualize a list of all upcoming authentication class and can page through them if there are a fortune, so that I can choose the full course for me.
+As a site visitor, I want to learn a list of all upcoming Certification run and can page through them if there are a draw, so that I can choose the estimable course for me.
+As a site visitor, I want to watch a list of all upcoming Certification Courses and can page through them if there are a bunch, so that I can choose the beneficial course for me.
+
+Input phrase:As a site visitor, I want to see a list of all upcoming Other Courses and can page through them if necessary, so that I can choose the best course for me.
+As a web_site visitor, I desire to understand a tilt of all approaching Other path and can foliate through them if necessary, so that I can choose the better path for me.
+As a site visitor, I want to witness a list of all upcoming Other path and can page through them if necessary, so that I can choose the good class for me.
+As a site visitor, I want to visualize a list of all upcoming Other class and can page through them if necessary, so that I can choose the full course for me.
+As a site visitor, I want to learn a list of all upcoming Other run and can page through them if necessary, so that I can choose the estimable course for me.
+As a site visitor, I want to watch a list of all upcoming Other Courses and can page through them if necessary, so that I can choose the beneficial course for me.
+
+Input phrase:As a site visitor, I want to see a list of all upcoming Events, so that I can decide if I want to attend any.
+As a web_site visitor, I desire to understand a tilt of all approaching event, so that I can decide if I desire to serve any.
+As a site visitor, I want to witness a list of all upcoming consequence, so that I can decide if I want to attend any.
+As a site visitor, I want to visualize a list of all upcoming Events, so that I can decide if I want to attend any.
+As a site visitor, I want to learn a list of all upcoming Events, so that I can decide if I want to attend any.
+As a site visitor, I want to watch a list of all upcoming Events, so that I can decide if I want to attend any.
+
+Input phrase:As a trainer, I want to create a new course or event, so that site visitors can see it.
+As a flight_simulator, I desire to make a fresh path or consequence, so that web_site visitor can understand it.
+As a trainer, I want to produce a raw class or event, so that site visitors can witness it.
+As a trainer, I want to create a newfangled course or event, so that site visitors can visualize it.
+As a trainer, I want to create a modern course or event, so that site visitors can learn it.
+As a trainer, I want to create a new course or event, so that site visitors can watch it.
+
+Input phrase:As a trainer, I want to create an Other Course or Event I am charged a listing fee for that activity, so that I don't list events I don't really intend to hold.
+As a flight_simulator, I desire to make an Other path or consequence I am charge a number fee for that action, so that I don't number event I don't truly mean to keep.
+As a trainer, I want to produce an Other class or Event I am tear a listing fee for that bodily_process, so that I don't list consequence I don't actually intend to have.
+As a trainer, I want to create an Other Course or Event I am appoint a listing fee for that natural_process, so that I don't list events I don't in_truth intend to deem.
+As a trainer, I want to create an Other Course or Event I am commit a listing fee for that activeness, so that I don't list events I don't very intend to harbor.
+As a trainer, I want to create an Other Course or Event I am consign a listing fee for that activity, so that I don't list events I don't really intend to restrain.
+
+Input phrase:As a site administrator, I want to create an Other Course or Event that is not charged a listing fee, so that the Scrum Alliance doesn't charge itself for Scrum Gatherings that it puts on.
+As a web_site administrator, I desire to make an Other path or consequence that is not tear a list fee, so that the Scrum confederation doesn't tear itself for Scrum gathering that it put on.
+As a site administrator, I want to produce an Other class or Event that is not tear a listing fee, so that the Scrum Alliance doesn't appoint itself for Scrum assembly that it frame on.
+As a site administrator, I want to create an Other Course or Event that is not appoint a listing fee, so that the Scrum Alliance doesn't commit itself for Scrum gather that it invest on.
+As a site administrator, I want to create an Other Course or Event that is not commit a listing fee, so that the Scrum Alliance doesn't consign itself for Scrum meet that it place on.
+As a site administrator, I want to create an Other Course or Event that is not consign a listing fee, so that the Scrum Alliance doesn't agitate itself for Scrum accumulate that it arrange on.
+
+Input phrase:As a site administrator, I want to set the listing fee per Other Course or Event, so that we have flexibility on what to charge in the future.
+As a web_site administrator, I desire to put the list fee per Other path or consequence, so that we have tractability on what to tear in the future.
+As a site administrator, I want to determine the listing fee per Other class or Event, so that we have flexibility on what to appoint in the future.
+As a site administrator, I want to specify the listing fee per Other Course or Event, so that we have flexibility on what to commit in the future.
+As a site administrator, I want to fix the listing fee per Other Course or Event, so that we have flexibility on what to consign in the future.
+As a site administrator, I want to arrange the listing fee per Other Course or Event, so that we have flexibility on what to agitate in the future.
+
+Input phrase:As a trainer, I want to update one of my existing courses or events, so that it reflects accurate information.
+As a flight_simulator, I desire to update matchless of my exist course or event, so that it reflect accurate data.
+As a trainer, I want to update one of my existing path or consequence, so that it chew_over accurate information.
+As a trainer, I want to update one of my existing class or events, so that it reflects accurate information.
+As a trainer, I want to update one of my existing courses or events, so that it reflects accurate information.
+As a trainer, I want to update one of my existing courses or events, so that it reflects accurate information.
+
+Input phrase:As a trainer, I want to delete one of my courses or events, so that it's no longer listed if I cancel for some reason.
+As a flight_simulator, I desire to erase matchless of my course or event, so that it's no longer list if I delete for some rationality.
+As a trainer, I want to edit one of my path or consequence, so that it's no longer number if I cancel for some cause.
+As a trainer, I want to delete one of my class or events, so that it's no longer listed if I cancel for some reason.
+As a trainer, I want to delete one of my courses or events, so that it's no longer listed if I cancel for some reason.
+As a trainer, I want to delete one of my courses or events, so that it's no longer listed if I cancel for some reason.
+
+Input phrase:As a trainer, I want to copy one of my courses or events, so that I can create a new one.
+As a flight_simulator, I desire to imitate matchless of my course or event, so that I can make a fresh matchless.
+As a trainer, I want to replicate one of my path or consequence, so that I can produce a raw one.
+As a trainer, I want to copy one of my class or events, so that I can create a newfangled one.
+As a trainer, I want to copy one of my courses or events, so that I can create a modern one.
+As a trainer, I want to copy one of my courses or events, so that I can create a new one.
+
+Input phrase:As a site admin, I want to delete any course or event, so that I can remove things that will no longer occur.
+As a web_site admin, I desire to erase any path or consequence, so that I can get_rid_of thing that will no longer happen.
+As a site admin, I want to edit any class or event, so that I can take_out matter that will no longer occur.
+As a site admin, I want to delete any course or event, so that I can absent things that will no longer occur.
+As a site admin, I want to delete any course or event, so that I can murder things that will no longer occur.
+As a site admin, I want to delete any course or event, so that I can remove things that will no longer occur.
+
+Input phrase:As a site editor, I want to update any course or event, so that I can fix things the original author hasn't.
+As a web_site editor_program, I desire to update any path or consequence, so that I can repair thing the original writer hasn't.
+As a site editor, I want to update any class or event, so that I can fasten matter the original generator hasn't.
+As a site editor, I want to update any course or event, so that I can specify things the original author hasn't.
+As a site editor, I want to update any course or event, so that I can cook things the original author hasn't.
+As a site editor, I want to update any course or event, so that I can pay_back things the original author hasn't.
+
+Input phrase:As a trainer, I want to turn a course into an event or an event into a course, so that I can correctly classify anything that was entered incorrectly.
+As a flight_simulator, I desire to change_state a path into an consequence or an consequence into a path, so that I can correctly relegate anything that was enter falsely.
+As a trainer, I want to become a class into an event or an event into a class, so that I can correctly classify anything that was enroll incorrectly.
+As a trainer, I want to change_by_reversal a course into an event or an event into a course, so that I can correctly classify anything that was figure incorrectly.
+As a trainer, I want to plow a course into an event or an event into a course, so that I can correctly classify anything that was record incorrectly.
+As a trainer, I want to twist a course into an event or an event into a course, so that I can correctly classify anything that was accede incorrectly.
+
+Input phrase:As a site visitor, I want to have an advanced search option that lets me fill in a form of search criteria, so that I can quickly find what I am looking for.
+As a web_site visitor, I desire to have an advance search choice that let me occupy in a kind of search standard, so that I can promptly detect what I am look for.
+As a site visitor, I want to have an advanced search option that permit me meet in a shape of search criterion, so that I can cursorily determine what I am search for.
+As a site visitor, I want to have an advanced search option that get me fill_up in a human_body of search criteria, so that I can quickly witness what I am front for.
+As a site visitor, I want to have an advanced search option that lease me satiate in a phase of search criteria, so that I can quickly line_up what I am attend for.
+As a site visitor, I want to have an advanced search option that lets me fill in a class of search criteria, so that I can quickly discover what I am expect for.
+
+Input phrase:As a site visitor, I want to view a course I can click on the trainer's name and be taken to the trainer's profile, so that I can read more about a trainer before registering for a course.
+As a web_site visitor, I desire to see a path I can snap on the flight_simulator's name and be take to the flight_simulator's visibility, so that I can take more about a flight_simulator before register for a path.
+As a site visitor, I want to watch a class I can chatter on the trainer's name and be lead to the trainer's profile, so that I can learn more about a trainer before file for a class.
+As a site visitor, I want to view a course I can cluck on the trainer's name and be assume to the trainer's profile, so that I can understand more about a trainer before record for a course.
+As a site visitor, I want to view a course I can click on the trainer's name and be bring to the trainer's profile, so that I can read more about a trainer before read for a course.
+As a site visitor, I want to view a course I can click on the trainer's name and be choose to the trainer's profile, so that I can read more about a trainer before cross-file for a course.
+
+Input phrase:As a site visitor, I want to subscribe to an RSS feed of upcoming courses and events, so that I am up to day without having to visit the site.
+As a web_web_site travel_toor, I desire to sign to an roentgen feed of upcoming course and event, so that I am up to sidereal_day without having to travel_to the web_web_site.
+As a site inflictor, I want to pledge to an gas_constant feed of upcoming path and consequence, so that I am up to day without having to inflict the site.
+As a site chew_the_fator, I want to subscribe to an r feed of upcoming class and events, so that I am up to day without having to chew_the_fat the site.
+As a site visitor, I want to subscribe to an radius feed of upcoming courses and events, so that I am up to day without having to visit the site.
+As a site visitor, I want to subscribe to an RSS feed of upcoming courses and events, so that I am up to day without having to visit the site.
+
+Input phrase:As a site visitor, I want to read FAQs, so that I can get quick answers.
+As a web_site visitor, I desire to take faq, so that I can become flying answer.
+As a site visitor, I want to learn FAQs, so that I can receive agile solution.
+As a site visitor, I want to understand FAQs, so that I can arrive immediate answers.
+As a site visitor, I want to read FAQs, so that I can bring quick answers.
+As a site visitor, I want to read FAQs, so that I can experience quick answers.
+
+Input phrase:As a site editor, I want to maintain a FAQ section, so that support gets fewer easily answered questions.
+As a web_site editor_program, I desire to keep a FAQ part, so that documentation get few well answer question.
+As a site editor, I want to conserve a FAQ department, so that accompaniment become fewer easily suffice doubt.
+As a site editor, I want to sustain a FAQ incision, so that support receive fewer easily answered motion.
+As a site editor, I want to assert a FAQ section, so that support arrive fewer easily answered questions.
+As a site editor, I want to wield a FAQ section, so that support bring fewer easily answered questions.
+
+Input phrase:As a site visitor, I want to do a full-text search of the FAQs, so that I can find an answer quickly.
+As a web_site visitor, I desire to do a entire-textbook search of the faq, so that I can detect an solution promptly.
+As a site visitor, I want to do a broad-text search of the FAQs, so that I can determine an answer cursorily.
+As a site visitor, I want to do a wide-text search of the FAQs, so that I can witness an answer quickly.
+As a site visitor, I want to do a full-text search of the FAQs, so that I can line_up an answer quickly.
+As a site visitor, I want to do a full-text search of the FAQs, so that I can discover an answer quickly.
+
+Input phrase:As a site member, I want to download the latest training material and methodology PDFs, so that I have them.
+As a web_site extremity, I desire to download the up-to-the-minute education fabric and methodology PDFs, so that I have them.
+As a site penis, I want to download the late training material and methodology PDFs, so that I have them.
+As a site member, I want to download the belated training material and methodology PDFs, so that I have them.
+As a site member, I want to download the former training material and methodology PDFs, so that I have them.
+As a site member, I want to download the latest training material and methodology PDFs, so that I have them.
+
+Input phrase:As a visitor, I want to download presentations, PDFs, etc. on Scrum, so that I can learn from them or use them.
+As a visitor, I desire to download presentation, PDFs, etc. on Scrum, so that I can memorize from them or practice them.
+As a visitor, I want to download display, PDFs, etc. on Scrum, so that I can teach from them or use them.
+As a visitor, I want to download presentations, PDFs, etc. on Scrum, so that I can determine from them or use them.
+As a visitor, I want to download presentations, PDFs, etc. on Scrum, so that I can learn from them or use them.
+As a visitor, I want to download presentations, PDFs, etc. on Scrum, so that I can learn from them or use them.
+
+Input phrase:As a site member, I want to scroll through a listing of jobs, so that I can see if there any I am interested in.
+As a web_site extremity, I desire to scroll through a list of occupation, so that I can understand if there any I am concerned in.
+As a site penis, I want to scroll through a listing of job, so that I can witness if there any I am interested in.
+As a site member, I want to scroll through a listing of problem, so that I can visualize if there any I am interested in.
+As a site member, I want to scroll through a listing of caper, so that I can learn if there any I am interested in.
+As a site member, I want to scroll through a listing of jobs, so that I can watch if there any I am interested in.
+
+Input phrase:As a recruiter, I want to post a help wanted ad, so that I can attract candidates.
+As a recruiter, I desire to station a aid desireed ad, so that I can attract campaigner.
+As a recruiter, I want to stake a assistant want ad, so that I can attract candidate.
+As a recruiter, I want to mail a avail wanted ad, so that I can attract candidates.
+As a recruiter, I want to post a help wanted ad, so that I can attract candidates.
+As a recruiter, I want to post a help wanted ad, so that I can attract candidates.
+
+Input phrase:As a site admin, I want to approve each help wanted ad before it gets to the site, so that we're sure of the quality of jobs being listed.
+As a web_web_site admin, I desire to approve each aid desireed ad before it get to the web_web_site, so that we're certain of the timbre of occupation being list.
+As a site admin, I want to approve each assistant want ad before it become to the site, so that we're indisputable of the quality of job being number.
+As a site admin, I want to approve each avail wanted ad before it receive to the site, so that we're sure of the quality of problem being listed.
+As a site admin, I want to approve each help wanted ad before it arrive to the site, so that we're sure of the quality of caper being listed.
+As a site admin, I want to approve each help wanted ad before it bring to the site, so that we're sure of the quality of jobs being listed.
+
+Input phrase:As a site admin, I want to be emailed whenever a job is submitted, so that I am aware of it and can decide if I want to post it.
+As a web_site admin, I desire to be e-mail whenever a occupation is submit, so that I am mindful of it and can decide if I desire to station it.
+As a site admin, I want to be emailed whenever a problem is present, so that I am aware of it and can decide if I want to stake it.
+As a site admin, I want to be emailed whenever a caper is relegate, so that I am aware of it and can decide if I want to mail it.
+As a site admin, I want to be emailed whenever a job is take, so that I am aware of it and can decide if I want to post it.
+As a site admin, I want to be emailed whenever a job is put_in, so that I am aware of it and can decide if I want to post it.
+
+Input phrase:As a site member, I want to subscribe to an RSS feed of jobs available, so that I can read them without visiting the site.
+As a web_web_site extremity, I desire to sign to an roentgen feed of occupation available, so that I can take them without visit the web_web_site.
+As a site penis, I want to pledge to an gas_constant feed of job available, so that I can learn them without travel_to the site.
+As a site member, I want to subscribe to an r feed of problem available, so that I can understand them without inflict the site.
+As a site member, I want to subscribe to an radius feed of caper available, so that I can read them without chew_the_fat the site.
+As a site member, I want to subscribe to an RSS feed of jobs available, so that I can read them without visiting the site.
+
+Input phrase:As a site admin, I want to edit and delete help wanted ads, so that I can correct small problems or make sure each ad complies with site guidelines.
+As a web_web_site admin, I desire to edit and erase aid desireed ad, so that I can right minor problem or induce certain each ad complies with web_web_site guideline.
+As a site admin, I want to edit and edit assistant want ads, so that I can chastise little trouble or cause indisputable each ad complies with site road_map.
+As a site admin, I want to edit and delete avail wanted ads, so that I can compensate humble problems or produce sure each ad complies with site guidepost.
+As a site admin, I want to edit and delete help wanted ads, so that I can discipline modest problems or draw sure each ad complies with site guidelines.
+As a site admin, I want to edit and delete help wanted ads, so that I can decline belittled problems or create sure each ad complies with site guidelines.
+
+Input phrase:As a site admin, I want to stop publishing jobs on the site 30 days after being posted, so that jobs that may have been filled aren't still listed when the hiring party forgets to come back and delete the ad.
+As a web_web_site admin, I desire to discontinue print occupation on the web_web_site thirty day after being post, so that occupation that may have been fill aren't however list when the hire party forget to arrive back and erase the ad.
+As a site admin, I want to break publish job on the site 30 sidereal_day after being station, so that job that may have been occupy aren't even number when the rent party forgets to issue_forth back and edit the ad.
+As a site admin, I want to check publishing problem on the site 30 days after being stake, so that problem that may have been meet aren't still listed when the lease party forgets to hail back and delete the ad.
+As a site admin, I want to intercept publishing caper on the site 30 days after being mail, so that caper that may have been fill_up aren't still listed when the hiring party forgets to fall back and delete the ad.
+As a site admin, I want to end publishing jobs on the site 30 days after being posted, so that jobs that may have been satiate aren't still listed when the hiring party forgets to total back and delete the ad.
+
+Input phrase:As a recruiter, I want to be able to extend an ad for another 30 days by visiting the site and updating the posting, so that my ad remains active.
+As a recruiter, I desire to be able to widen an ad for another thirty day by visit the web_site and update the poster, so that my ad stay active.
+As a recruiter, I want to be able to run an ad for another 30 sidereal_day by travel_to the site and updating the mailing, so that my ad remain active.
+As a recruiter, I want to be able to cover an ad for another 30 days by inflict the site and updating the posting, so that my ad persist active.
+As a recruiter, I want to be able to exsert an ad for another 30 days by chew_the_fat the site and updating the posting, so that my ad remains active.
+As a recruiter, I want to be able to offer an ad for another 30 days by visiting the site and updating the posting, so that my ad remains active.
+
+Input phrase:As an advertiser, I want to be emailed a reminder seven day before an ad is about to expire, so that I can go extend the ad.
+As an advertiser, I desire to be e-mail a admonisher seven-spot sidereal_day before an ad is about to run_out, so that I can travel widen the ad.
+As an advertiser, I want to be emailed a reminder seven day before an ad is about to die, so that I can become run the ad.
+As an advertiser, I want to be emailed a reminder seven day before an ad is about to exhale, so that I can run cover the ad.
+As an advertiser, I want to be emailed a reminder seven day before an ad is about to expire, so that I can proceed exsert the ad.
+As an advertiser, I want to be emailed a reminder seven day before an ad is about to expire, so that I can sound offer the ad.
+
+Input phrase:As a site visitor, I want to read a new article on the front page about once a week, so that I am up on all the latest happenings.
+As a web_site visitor, I desire to take a fresh article on the front page about once a workweek, so that I am up on all the up-to-the-minute happening.
+As a site visitor, I want to learn a raw article on the front page about once a week, so that I am up on all the late happenings.
+As a site visitor, I want to understand a newfangled article on the front page about once a week, so that I am up on all the belated happenings.
+As a site visitor, I want to read a modern article on the front page about once a week, so that I am up on all the former happenings.
+As a site visitor, I want to read a new article on the front page about once a week, so that I am up on all the latest happenings.
+
+Input phrase:As the site editor, I want to include a teaser with each article, so that site visitors can decide if they want to read the rest.
+As the web_web_site editor_program, I desire to admit a tease with each article, so that web_web_site visitor can decide if they desire to take the remainder.
+As the site editor, I want to include a puzzle with each article, so that site visitors can decide if they want to learn the respite.
+As the site editor, I want to include a tormenter with each article, so that site visitors can decide if they want to understand the rest.
+As the site editor, I want to include a teaser with each article, so that site visitors can decide if they want to read the rest.
+As the site editor, I want to include a teaser with each article, so that site visitors can decide if they want to read the rest.
+
+Input phrase:As a site member who has read a teaser on the front page, I want to read the entire article so that I can finish articles that appeal to me.
+As a web_site extremity who has take a tease on the front page, I desire to take the integral article so that I can complete article that attract to me.
+As a site penis who has learn a puzzle on the front page, I want to learn the entire article so that I can finish_up articles that invoke to me.
+As a site member who has understand a tormenter on the front page, I want to understand the entire article so that I can end articles that appeal to me.
+As a site member who has read a teaser on the front page, I want to read the entire article so that I can eat_up articles that appeal to me.
+As a site member who has read a teaser on the front page, I want to read the entire article so that I can finish articles that appeal to me.
+
+Input phrase:As the site editor, I want to add an article to the site, so that the site has plenty of content.
+As the web_web_web_site editor_program, I desire to lend an article to the web_web_web_site, so that the web_web_web_site has batch of message.
+As the site editor, I want to total an article to the site, so that the site has plenty of capacity.
+As the site editor, I want to add an article to the site, so that the site has plenty of contentedness.
+As the site editor, I want to add an article to the site, so that the site has plenty of subject.
+As the site editor, I want to add an article to the site, so that the site has plenty of content.
+
+Input phrase:As a site editor, I want to set start publishing dates, old article date, and stop publishing dates for articles, so that articles appear only during appropriate periods.
+As a web_site editor_program, I desire to put beginning publication date, erstwhile article date, and discontinue publication date for article, so that article look only during appropriate time_period.
+As a site editor, I want to determine startle publishing dates, honest-to-god article date, and break publishing dates for articles, so that articles appear only during appropriate period.
+As a site editor, I want to specify starting_signal publishing dates, previous article date, and check publishing dates for articles, so that articles appear only during appropriate menstruation.
+As a site editor, I want to fix start publishing dates, old article date, and intercept publishing dates for articles, so that articles appear only during appropriate periods.
+As a site editor, I want to arrange start publishing dates, old article date, and end publishing dates for articles, so that articles appear only during appropriate periods.
+
+Input phrase:As a site editor, I want to be able to designate whether or not an ever makes the home page, so that the best content is featured most prominently.
+As a web_site editor_program, I desire to be able to delegate whether or not an always make the dwelling page, so that the better message is have most prominently.
+As a site editor, I want to be able to indicate whether or not an ever induce the home_plate page, so that the good capacity is sport most prominently.
+As a site editor, I want to be able to destine whether or not an ever cause the base page, so that the full contentedness is featured most prominently.
+As a site editor, I want to be able to intend whether or not an ever produce the family page, so that the estimable subject is featured most prominently.
+As a site editor, I want to be able to designate whether or not an ever draw the home page, so that the beneficial content is featured most prominently.
+
+Input phrase:As the site editor, I want to have pretty good control over how the article, so that articles are visually appealing.
+As the web_site editor_program, I desire to have reasonably full control_condition over how the article, so that article are visually sympathetic.
+As the site editor, I want to have pretty estimable dominance over how the article, so that articles are visually appealing.
+As the site editor, I want to have pretty beneficial restraint over how the article, so that articles are visually appealing.
+As the site editor, I want to have pretty adept command over how the article, so that articles are visually appealing.
+As the site editor, I want to have pretty dear control over how the article, so that articles are visually appealing.
+
+Input phrase:As a site visitor, I want to click the link from the article teaser to take me directly to the body of the article. not to another teaser setup, so that I can easily finish the article.
+As a web_site visitor, I desire to snap the connection from the article tease to lead me immediately to the torso of the article. not to another tease apparatus, so that I can well complete the article.
+As a site visitor, I want to chatter the liaison from the article puzzle to assume me directly to the consistency of the article. not to another puzzle frame-up, so that I can easily finish_up the article.
+As a site visitor, I want to cluck the radio_link from the article tormenter to bring me directly to the soundbox of the article. not to another tormenter setup, so that I can easily end the article.
+As a site visitor, I want to click the link from the article teaser to choose me directly to the body of the article. not to another teaser setup, so that I can easily eat_up the article.
+As a site visitor, I want to click the link from the article teaser to accept me directly to the body of the article. not to another teaser setup, so that I can easily finish the article.
+
+Input phrase:As a site editor, I want to be able to indicate whether an article is publicly available or for members only, so that visitors are incentivized to become members.
+As a web_site editor_program, I desire to be able to bespeak whether an article is publicly available or for member only, so that visitor are incentivized to become member.
+As a site editor, I want to be able to argue whether an article is publicly available or for extremity only, so that visitors are incentivized to become extremity.
+As a site editor, I want to be able to indicate whether an article is publicly available or for penis only, so that visitors are incentivized to become penis.
+As a site editor, I want to be able to indicate whether an article is publicly available or for members only, so that visitors are incentivized to become members.
+As a site editor, I want to be able to indicate whether an article is publicly available or for members only, so that visitors are incentivized to become members.
+
+Input phrase:As a site visitor, I want to be able to read some of your articles, so that I can learn without first joining the site.
+As a web_web_site visitor, I desire to be able to take some of your article, so that I can memorize without foremost join the web_web_site.
+As a site visitor, I want to be able to teach some of your articles, so that I can teach without first connect the site.
+As a site visitor, I want to be able to understand some of your articles, so that I can determine without first joining the site.
+As a site visitor, I want to be able to read some of your articles, so that I can learn without first joining the site.
+As a site visitor, I want to be able to read some of your articles, so that I can learn without first joining the site.
+
+Input phrase:As a site member, I want to have full access to all articles, so that there is a benefit to being a member.
+As a web_site extremity, I desire to have entire entree to all article, so that there is a benefit to being a extremity.
+As a site penis, I want to have broad access to all articles, so that there is a benefit to being a penis.
+As a site member, I want to have wide access to all articles, so that there is a benefit to being a member.
+As a site member, I want to have full access to all articles, so that there is a benefit to being a member.
+As a site member, I want to have full access to all articles, so that there is a benefit to being a member.
+
+Input phrase:As a site visitor, I want to do a full-text search of article body, title, and author name, so that I can find what I want.
+As a web_site visitor, I desire to do a entire-textbook search of article torso, championship, and writer name, so that I can detect what I desire.
+As a site visitor, I want to do a broad-text search of article consistency, deed, and generator name, so that I can determine what I want.
+As a site visitor, I want to do a wide-text search of article soundbox, claim, and author name, so that I can witness what I want.
+As a site visitor, I want to do a full-text search of article body, title, and author name, so that I can line_up what I want.
+As a site visitor, I want to do a full-text search of article body, title, and author name, so that I can discover what I want.
+
+Input phrase:As a site visitor, I want to subscribe to an RSS feed of articles, so that I can read them without visiting the site.
+As a web_web_site visitor, I desire to sign to an roentgen feed of article, so that I can take them without visit the web_web_site.
+As a site visitor, I want to pledge to an gas_constant feed of articles, so that I can learn them without travel_to the site.
+As a site visitor, I want to subscribe to an r feed of articles, so that I can understand them without inflict the site.
+As a site visitor, I want to subscribe to an radius feed of articles, so that I can read them without chew_the_fat the site.
+As a site visitor, I want to subscribe to an RSS feed of articles, so that I can read them without visiting the site.
+
+Input phrase:As a site visitor, I want to post comments about articles, so that others can read them.
+As a web_site visitor, I desire to station remark about article, so that others can take them.
+As a site visitor, I want to stake comment about articles, so that others can learn them.
+As a site visitor, I want to mail gossip about articles, so that others can understand them.
+As a site visitor, I want to post comments about articles, so that others can read them.
+As a site visitor, I want to post comments about articles, so that others can read them.
+
+Input phrase:As a site editor, I want to have a prominent area on the home page where I can put special announcements not necessarily news or articles, so that I can give them additional exposure.
+As a web_site editor_program, I desire to have a outstanding sphere on the dwelling page where I can frame particular announcement not inevitably news_program or article, so that I can yield them extra vulnerability.
+As a site editor, I want to have a big area on the home_plate page where I can invest especial announcements not necessarily newsworthiness or articles, so that I can hold them additional photograph.
+As a site editor, I want to have a prominent area on the base page where I can place limited announcements not necessarily news or articles, so that I can render them additional exposure.
+As a site editor, I want to have a prominent area on the family page where I can arrange extra announcements not necessarily news or articles, so that I can impart them additional exposure.
+As a site editor, I want to have a prominent area on the home page where I can put special announcements not necessarily news or articles, so that I can establish them additional exposure.
+
+Input phrase:As a site editor, I want to have some flexibility as to where things appear, so that I can accommodate different types of content.
+As a web_site editor_program, I desire to have some tractability as to where thing look, so that I can suit unlike type of message.
+As a site editor, I want to have some flexibility as to where matter appear, so that I can adapt different character of capacity.
+As a site editor, I want to have some flexibility as to where things appear, so that I can lodge different types of contentedness.
+As a site editor, I want to have some flexibility as to where things appear, so that I can oblige different types of subject.
+As a site editor, I want to have some flexibility as to where things appear, so that I can accommodate different types of content.
+
+Input phrase:As a trainer, I want to see the upcoming courses are what I want visitors to notice, so that they register and there's a benefit to my membership.
+As a flight_simulator, I desire to understand the approaching course are what I desire visitor to detect, so that they file and there's a benefit to my membership.
+As a trainer, I want to witness the upcoming path are what I want visitors to comment, so that they record and there's a benefit to my membership.
+As a trainer, I want to visualize the upcoming class are what I want visitors to notice, so that they read and there's a benefit to my membership.
+As a trainer, I want to learn the upcoming courses are what I want visitors to notice, so that they cross-file and there's a benefit to my membership.
+As a trainer, I want to watch the upcoming courses are what I want visitors to notice, so that they register and there's a benefit to my membership.
+
+Input phrase:As a site visitor, I want to see new content when I come to the site, so that I come back more often.
+As a web_web_site visitor, I desire to understand fresh message when I arrive to the web_web_site, so that I arrive back more frequently.
+As a site visitor, I want to witness raw capacity when I issue_forth to the site, so that I issue_forth back more much.
+As a site visitor, I want to visualize newfangled contentedness when I hail to the site, so that I hail back more often.
+As a site visitor, I want to learn modern subject when I fall to the site, so that I fall back more often.
+As a site visitor, I want to watch new content when I total to the site, so that I total back more often.
+
+Input phrase:As a site visitor, I want to have articles that interest me and are easy to get to, so that I come to the site for my agile news and learning.
+As a web_web_site visitor, I desire to have article that concern me and are comfortable to bearrive to, so that I arrive to the web_web_site for my agile news_program and eruditeness.
+As a site visitor, I want to have articles that matter_to me and are easy to receive to, so that I issue_forth to the site for my agile newsworthiness and learning.
+As a site visitor, I want to have articles that interest me and are easy to arrive to, so that I hail to the site for my agile news and learning.
+As a site visitor, I want to have articles that interest me and are easy to bring to, so that I fall to the site for my agile news and learning.
+As a site visitor, I want to have articles that interest me and are easy to experience to, so that I total to the site for my agile news and learning.
+
+Input phrase:As a site visitor, I want to know as soon as I visit what on earth Scrum is and why it needs an alliance, so that I don't bounce immediately oﬀ the page.
+As a web_site travel_toor, I desire to acknowledge as soon as I travel_to what on land Scrum is and why it necessitate an confederation, so that I don't bounce immediately oﬀ the page.
+As a site inflictor, I want to sleep_together as soon as I inflict what on worldly_concern Scrum is and why it want an alliance, so that I don't bounce immediately oﬀ the page.
+As a site chew_the_fator, I want to know as soon as I chew_the_fat what on ground Scrum is and why it need an alliance, so that I don't bounce immediately oﬀ the page.
+As a site visitor, I want to know as soon as I visit what on earth Scrum is and why it needs an alliance, so that I don't bounce immediately oﬀ the page.
+As a site visitor, I want to know as soon as I visit what on earth Scrum is and why it needs an alliance, so that I don't bounce immediately oﬀ the page.
+
+Input phrase:As a site visitor, I want to know as I glance around the home page what on earth a CSM is and why I'd want to be one, so that I read more.
+As a web_site visitor, I desire to acknowledge as I glance about the dwelling page what on land a CSM is and why I'd desire to be matchless, so that I take more.
+As a site visitor, I want to sleep_together as I glance approximately the home_plate page what on worldly_concern a CSM is and why I'd want to be one, so that I learn more.
+As a site visitor, I want to know as I glance round the base page what on ground a CSM is and why I'd want to be one, so that I understand more.
+As a site visitor, I want to know as I glance around the family page what on earth a CSM is and why I'd want to be one, so that I read more.
+As a site visitor, I want to know as I glance around the home page what on earth a CSM is and why I'd want to be one, so that I read more.
+
+Input phrase:As a site visitor, I want to be able to get back to the home page quickly and easily, so that I don't get lost navigating.
+As a web_site visitor, I desire to be able to become back to the dwelling page promptly and well, so that I don't become lose navigating.
+As a site visitor, I want to be able to receive back to the home_plate page cursorily and easily, so that I don't receive misplace navigating.
+As a site visitor, I want to be able to arrive back to the base page quickly and easily, so that I don't arrive fall_back navigating.
+As a site visitor, I want to be able to bring back to the family page quickly and easily, so that I don't bring miss navigating.
+As a site visitor, I want to be able to experience back to the home page quickly and easily, so that I don't experience suffer navigating.
+
+Input phrase:As a site visitor, I want to see a list of the most popular items on the site, so that I am most likely to read the most important or best content.
+As a web_web_site visitor, I desire to understand a tilt of the most democratic item on the web_web_site, so that I am most probable to take the most significant or better message.
+As a site visitor, I want to witness a list of the most popular detail on the site, so that I am most likely to learn the most crucial or good capacity.
+As a site visitor, I want to visualize a list of the most popular token on the site, so that I am most likely to understand the most authoritative or full contentedness.
+As a site visitor, I want to learn a list of the most popular items on the site, so that I am most likely to read the most important or estimable subject.
+As a site visitor, I want to watch a list of the most popular items on the site, so that I am most likely to read the most important or beneficial content.
+
+Input phrase:As a trainer, I want to be assured that no one can submit the same answers multiple time and skew my results, so that my ratings are accurate.
+As a flight_simulator, I desire to be guarantee that no one can present the same answer multiple clock_time and skew my consequence, so that my evaluation are accurate.
+As a trainer, I want to be assure that no one can relegate the same solution multiple fourth_dimension and skew my solution, so that my rating are accurate.
+As a trainer, I want to be see that no one can take the same answers multiple meter and skew my result, so that my military_rank are accurate.
+As a trainer, I want to be reassure that no one can put_in the same answers multiple prison_term and skew my resultant_role, so that my ratings are accurate.
+As a trainer, I want to be promise that no one can render the same answers multiple time and skew my results, so that my ratings are accurate.
+
+Input phrase:As a trainer, I want to be notified about the results of surveys about my classes, so that I can read them.
+As a flight_simulator, I desire to be advise about the consequence of survey about my class, so that I can take them.
+As a trainer, I want to be notified about the solution of sketch about my course, so that I can learn them.
+As a trainer, I want to be notified about the result of view about my classes, so that I can understand them.
+As a trainer, I want to be notified about the resultant_role of surveys about my classes, so that I can read them.
+As a trainer, I want to be notified about the results of surveys about my classes, so that I can read them.
+
+Input phrase:As a site admin, I want to see the results for each trainer and averages for the class, so that I can identify any outliers or possible problems.
+As a web_site admin, I desire to understand the consequence for each flight_simulator and average for the course, so that I can name any outlier or potential problem.
+As a site admin, I want to witness the solution for each trainer and averages for the class, so that I can identify any outliers or possible trouble.
+As a site admin, I want to visualize the result for each trainer and averages for the class, so that I can identify any outliers or possible problems.
+As a site admin, I want to learn the resultant_role for each trainer and averages for the class, so that I can identify any outliers or possible problems.
+As a site admin, I want to watch the results for each trainer and averages for the class, so that I can identify any outliers or possible problems.
+
+Input phrase:As a site visitor, I want to see a trainer's rating, so that I choose a course from an appropriate trainer.
+As a web_site visitor, I desire to understand a flight_simulator's evaluation, so that I choose a path from an appropriate flight_simulator.
+As a site visitor, I want to witness a trainer's military_rank, so that I choose a class from an appropriate trainer.
+As a site visitor, I want to visualize a trainer's rating, so that I choose a course from an appropriate trainer.
+As a site visitor, I want to learn a trainer's rating, so that I choose a course from an appropriate trainer.
+As a site visitor, I want to watch a trainer's rating, so that I choose a course from an appropriate trainer.
+
+Input phrase:As a trainer, I want to show my rating up on my profile page, so that site visitors can choose wisely.
+As a flight_simulator, I desire to prove my evaluation up on my visibility page, so that web_site visitor can choose wisely.
+As a trainer, I want to testify my military_rank up on my profile page, so that site visitors can choose wisely.
+As a trainer, I want to picture my rating up on my profile page, so that site visitors can choose wisely.
+As a trainer, I want to express my rating up on my profile page, so that site visitors can choose wisely.
+As a trainer, I want to indicate my rating up on my profile page, so that site visitors can choose wisely.
+
+Input phrase:As a site visitor, I want to view a section of the website that teaches me the basics of what Scrum is, so that I can learn that quickly.
+As a web_site visitor, I desire to see a part of the webweb_site that teach me the fundamentals of what Scrum is, so that I can memorize that promptly.
+As a site visitor, I want to watch a department of the website that teaches me the basic of what Scrum is, so that I can teach that cursorily.
+As a site visitor, I want to view a incision of the website that teaches me the basics of what Scrum is, so that I can determine that quickly.
+As a site visitor, I want to view a section of the website that teaches me the basics of what Scrum is, so that I can learn that quickly.
+As a site visitor, I want to view a section of the website that teaches me the basics of what Scrum is, so that I can learn that quickly.
+
+Input phrase:As a site editor, I want to create the content of the What Is Scrum section, so that it's there for visitors.
+As a web_site editor_program, I desire to make the message of the What Is Scrum part, so that it's there for visitor.
+As a site editor, I want to produce the capacity of the What Is Scrum department, so that it's there for visitors.
+As a site editor, I want to create the contentedness of the What Is Scrum incision, so that it's there for visitors.
+As a site editor, I want to create the subject of the What Is Scrum section, so that it's there for visitors.
+As a site editor, I want to create the content of the What Is Scrum section, so that it's there for visitors.
+
+Input phrase:As a site visitor, I want to view lists on the site of all Certified Scrum Masters, Practitioners, Trainers, and Certified Scrum Product Owners.
+As a web_web_site visitor, I desire to see list on the web_web_site of all attest Scrum maestro, practitioner, trainer, and attest Scrum merchandise owner.
+As a site visitor, I want to watch tilt on the site of all certify Scrum overlord, Practitioners, flight_simulator, and certify Scrum intersection Owners.
+As a site visitor, I want to view lists on the site of all license Scrum victor, Practitioners, Trainers, and license Scrum Product Owners.
+As a site visitor, I want to view lists on the site of all certifiable Scrum master, Practitioners, Trainers, and certifiable Scrum Product Owners.
+As a site visitor, I want to view lists on the site of all Certified Scrum headmaster, Practitioners, Trainers, and Certified Scrum Product Owners.
+
+Input phrase:As a CSM, I want to have my name listed in the registry without becoming a member of the site, so that employers or others can verify my certification.
+As a CSM, I desire to have my name list in the register without become a extremity of the web_site, so that employer or others can control my documentation.
+As a CSM, I want to have my name number in the registry without becoming a penis of the site, so that employers or others can affirm my certificate.
+As a CSM, I want to have my name listed in the registry without becoming a member of the site, so that employers or others can verify my authentication.
+As a CSM, I want to have my name listed in the registry without becoming a member of the site, so that employers or others can verify my certification.
+As a CSM, I want to have my name listed in the registry without becoming a member of the site, so that employers or others can verify my certification.
+
+Input phrase:As a trainer, I want to load an Excel file into the site, so that the course participants are added to the Scrum Alliance records.
+As a flight_simulator, I desire to load an Excel file into the web_site, so that the path participant are add to the Scrum confederation record.
+As a trainer, I want to load an Excel file into the site, so that the class player are lend to the Scrum Alliance phonograph_record.
+As a trainer, I want to load an Excel file into the site, so that the course participants are total to the Scrum Alliance criminal_record.
+As a trainer, I want to load an Excel file into the site, so that the course participants are added to the Scrum Alliance records.
+As a trainer, I want to load an Excel file into the site, so that the course participants are added to the Scrum Alliance records.
+
+Input phrase:As a site admin, I want to view all classes in a pending state, so that I can approve any that need to be approved.
+As a web_site admin, I desire to see all class in a pending state_of_matter, so that I can approve any that motivation to be approve.
+As a site admin, I want to watch all course in a pending country, so that I can approve any that indigence to be approved.
+As a site admin, I want to view all classes in a pending department_of_state, so that I can approve any that need to be approved.
+As a site admin, I want to view all classes in a pending state, so that I can approve any that need to be approved.
+As a site admin, I want to view all classes in a pending state, so that I can approve any that need to be approved.
+
+Input phrase:As a site admin, I want to move people in a trainer's class from a pending state to the registry once I have received proof of payment from the trainer.
+As a web_site admin, I desire to travel citizenry in a flight_simulator's course from a pending state_of_matter to the register once I have receive validation of requital from the flight_simulator.
+As a site admin, I want to go multitude in a trainer's class from a pending country to the registry once I have pick_up proof of payment from the trainer.
+As a site admin, I want to be_active people in a trainer's class from a pending department_of_state to the registry once I have experience proof of payment from the trainer.
+As a site admin, I want to act people in a trainer's class from a pending state to the registry once I have welcome proof of payment from the trainer.
+As a site admin, I want to affect people in a trainer's class from a pending state to the registry once I have meet proof of payment from the trainer.
+
+Input phrase:As a CSM, I want to be sent an email welcoming me to the Scrum Alliance and with instructions to register or activate my membership once my name has been loaded to the registry.
+As a CSM, I desire to be send an electronic_mail welcome me to the Scrum confederation and with instruction_manual to file or trip my membership once my name has been load to the register.
+As a CSM, I want to be mail an email welcoming me to the Scrum Alliance and with direction to record or activate my membership once my name has been loaded to the registry.
+As a CSM, I want to be transport an email welcoming me to the Scrum Alliance and with education to read or activate my membership once my name has been loaded to the registry.
+As a CSM, I want to be station an email welcoming me to the Scrum Alliance and with teaching to cross-file or activate my membership once my name has been loaded to the registry.
+As a CSM, I want to be commit an email welcoming me to the Scrum Alliance and with instruction to register or activate my membership once my name has been loaded to the registry.
+
+Input phrase:As a site editor, I want to edit the content of the email automatically sent to new Certified Scrum Masters and Product Owners, so that I don't need to involve a programmer on simple email edits.
+As a web_site editor_program, I desire to edit the message of the electronic_mail mechanically send to fresh attest Scrum maestro and merchandise owner, so that I don't necessitate to imply a programmer on elementary electronic_mail edits.
+As a site editor, I want to edit the capacity of the email automatically mail to raw certify Scrum overlord and intersection Owners, so that I don't want to necessitate a programmer on bare email edits.
+As a site editor, I want to edit the contentedness of the email automatically transport to newfangled license Scrum victor and Product Owners, so that I don't need to involve a programmer on childlike email edits.
+As a site editor, I want to edit the subject of the email automatically station to modern certifiable Scrum master and Product Owners, so that I don't need to involve a programmer on dim-witted email edits.
+As a site editor, I want to edit the content of the email automatically commit to new Certified Scrum headmaster and Product Owners, so that I don't need to involve a programmer on simple email edits.
+
+Input phrase:As a company, I want to join the Scrum Alliance by paying a corporate membership fee, so that I can show the company's support of Scrum.
+As a caller, I desire to connect the Scrum confederation by pay a bodied membership fee, so that I can prove the caller's documentation of Scrum.
+As a party, I want to join the Scrum Alliance by give a corporate membership fee, so that I can testify the party's accompaniment of Scrum.
+As a ship's_ship's_company, I want to join the Scrum Alliance by pay_up a corporate membership fee, so that I can picture the ship's_ship's_company's support of Scrum.
+As a company, I want to join the Scrum Alliance by yield a corporate membership fee, so that I can express the company's support of Scrum.
+As a company, I want to join the Scrum Alliance by paying a corporate membership fee, so that I can indicate the company's support of Scrum.
+
+Input phrase:As a corporatesponsor, I want to display my logo on a corporate sponsors page, so that others see the company's support of Scrum.
+As a bodiedsponsor, I desire to expose my logo on a bodied patron page, so that others understand the caller's documentation of Scrum.
+As a corporatesponsor, I want to display my logo on a corporate presenter page, so that others witness the party's accompaniment of Scrum.
+As a corporatesponsor, I want to display my logo on a corporate sponsors page, so that others visualize the ship's_company's support of Scrum.
+As a corporatesponsor, I want to display my logo on a corporate sponsors page, so that others learn the company's support of Scrum.
+As a corporatesponsor, I want to display my logo on a corporate sponsors page, so that others watch the company's support of Scrum.
+
+Input phrase:As a corporatesponsor, I want to make my logo randomly appear on the home page, so that others see the company's support of Scrum.
+As a corporatesponsor, I desire to induce my logo randomly look on the dwelling page, so that others understand the caller's documentation of Scrum.
+As a corporatesponsor, I want to cause my logo randomly appear on the home_plate page, so that others witness the party's accompaniment of Scrum.
+As a corporatesponsor, I want to produce my logo randomly appear on the base page, so that others visualize the ship's_company's support of Scrum.
+As a corporatesponsor, I want to draw my logo randomly appear on the family page, so that others learn the company's support of Scrum.
+As a corporatesponsor, I want to create my logo randomly appear on the home page, so that others watch the company's support of Scrum.
+
+Input phrase:As a CSM, I want to be charged a fee once I am approved for Practitioner status, so that my certification status can be activated.
+As a CSM, I desire to be charge a fee once I am approve for Practitioner condition, so that my documentation condition can be trip.
+As a CSM, I want to be tear a fee once I am approved for Practitioner status, so that my certificate status can be activate.
+As a CSM, I want to be appoint a fee once I am approved for Practitioner status, so that my authentication status can be activated.
+As a CSM, I want to be commit a fee once I am approved for Practitioner status, so that my certification status can be activated.
+As a CSM, I want to be consign a fee once I am approved for Practitioner status, so that my certification status can be activated.
+
+Input phrase:As a CST, I want to pay an annual fee, so that my CST status is active.
+As a central_time, I desire to give an annual fee, so that my central_time condition is active.
+As a CST, I want to pay_up an annual fee, so that my CST status is active.
+As a CST, I want to yield an annual fee, so that my CST status is active.
+As a CST, I want to pay an annual fee, so that my CST status is active.
+As a CST, I want to pay an annual fee, so that my CST status is active.
+
+Input phrase:As a site administrator, I want to set the annual fees for members, Practitioners and Trainers, so that fees can be set without involving a programmer.
+As a web_site administrator, I desire to put the annual fee for member, practitioner and trainer, so that fee can be put without involve a programmer.
+As a site administrator, I want to determine the annual fees for extremity, Practitioners and flight_simulator, so that fees can be determine without imply a programmer.
+As a site administrator, I want to specify the annual fees for penis, Practitioners and Trainers, so that fees can be specify without necessitate a programmer.
+As a site administrator, I want to fix the annual fees for members, Practitioners and Trainers, so that fees can be fix without involving a programmer.
+As a site administrator, I want to arrange the annual fees for members, Practitioners and Trainers, so that fees can be arrange without involving a programmer.
+
+Input phrase:As a member, I want to receive a reminder and a link, so that I can renew my membership.
+As a extremity, I desire to pick_up a admonisher and a connection, so that I can regenerate my extremityship.
+As a penis, I want to experience a reminder and a liaison, so that I can reincarnate my penisship.
+As a member, I want to welcome a reminder and a radio_link, so that I can renew my membership.
+As a member, I want to meet a reminder and a link, so that I can renew my membership.
+As a member, I want to get a reminder and a link, so that I can renew my membership.
+
+Input phrase:As a member, I want to have the system email me a new password or a password reminder since i have short-term memory problems.
+As a extremity, I desire to have the arrangement e-mail me a fresh password or a password admonisher since i have inadequate-condition memory problem.
+As a penis, I want to have the organization email me a raw password or a password reminder since i have unretentive-terminus memory trouble.
+As a member, I want to have the system email me a newfangled password or a password reminder since i have light-term memory problems.
+As a member, I want to have the system email me a modern password or a password reminder since i have brusque-term memory problems.
+As a member, I want to have the system email me a new password or a password reminder since i have short-term memory problems.
+
+Input phrase:As a trainer, I want to read information of relevance only to trainers, so that the Scrum Alliance can share information with me easily.
+As a flight_simulator, I desire to take data of relevance only to flight_simulators, so that the Scrum confederation can partake data with me well.
+As a trainer, I want to learn information of relevance only to flight_simulator, so that the Scrum Alliance can share information with me easily.
+As a trainer, I want to understand information of relevance only to trainers, so that the Scrum Alliance can share information with me easily.
+As a trainer, I want to read information of relevance only to trainers, so that the Scrum Alliance can share information with me easily.
+As a trainer, I want to read information of relevance only to trainers, so that the Scrum Alliance can share information with me easily.
+
+Input phrase:As a site editor, I want to post information in a trainers-only section, so that only trainers see it.
+As a web_site editor_program, I desire to station data in a trainer-only part, so that only trainer understand it.
+As a site editor, I want to stake information in a flight_simulator-only department, so that only flight_simulator witness it.
+As a site editor, I want to mail information in a trainers-only incision, so that only trainers visualize it.
+As a site editor, I want to post information in a trainers-only section, so that only trainers learn it.
+As a site editor, I want to post information in a trainers-only section, so that only trainers watch it.
+
+Time for the single dataset = 1.5949 seconds = 0.0004 hours

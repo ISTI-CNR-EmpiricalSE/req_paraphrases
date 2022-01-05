@@ -1,0 +1,969 @@
+data_set_number:14
+
+Input phrase:As an OlderPerson, I want to know exactly what ALFRED does with my personal data, and share it only on my specific permission. 
+As an OlderPerson, I desire to acknowledge precisely what ALFRED does with my personal datum, and partake it only on my specific license. 
+As an OlderPerson, I want to sleep_together exactly what ALFRED does with my personal data, and share it only on my specific permission. 
+As an OlderPerson, I want to know exactly what ALFRED does with my personal data, and share it only on my specific permission. 
+As an OlderPerson, I want to know exactly what ALFRED does with my personal data, and share it only on my specific permission. 
+As an OlderPerson, I want to know exactly what ALFRED does with my personal data, and share it only on my specific permission. 
+
+Input phrase:As an OlderPerson, I want to receive information from ALFRED by speech technology. 
+As an OlderPerson, I desire to pick_up data from ALFRED by address engineering. 
+As an OlderPerson, I want to experience information from ALFRED by manner_of_speaking technology. 
+As an OlderPerson, I want to welcome information from ALFRED by lecture technology. 
+As an OlderPerson, I want to meet information from ALFRED by actor's_line technology. 
+As an OlderPerson, I want to get information from ALFRED by language technology. 
+
+Input phrase:As an OlderPerson, I want to use only well-visible buttons.
+As an OlderPerson, I desire to practice only well-visible button.
+As an OlderPerson, I want to use only well-visible push_button.
+As an OlderPerson, I want to use only well-visible clitoris.
+As an OlderPerson, I want to use only well-visible release.
+As an OlderPerson, I want to use only well-visible buttons.
+
+Input phrase:As an OlderPerson, I want to use ALFRED as much as possible with speech interaction.
+As an OlderPerson, I desire to practice ALFRED as a_lot as potential with address interaction.
+As an OlderPerson, I want to use ALFRED as much as possible with manner_of_speaking interaction.
+As an OlderPerson, I want to use ALFRED as much as possible with lecture interaction.
+As an OlderPerson, I want to use ALFRED as much as possible with actor's_line interaction.
+As an OlderPerson, I want to use ALFRED as much as possible with language interaction.
+
+Input phrase:As an OlderPerson, I want to always keep control on the activities of ALFRED. 
+As an OlderPerson, I desire to constantly continue control_condition on the activity of ALFRED. 
+As an OlderPerson, I want to always prevent dominance on the action of ALFRED. 
+As an OlderPerson, I want to always observe restraint on the bodily_process of ALFRED. 
+As an OlderPerson, I want to always retain command on the natural_process of ALFRED. 
+As an OlderPerson, I want to always sustain control on the activeness of ALFRED. 
+
+Input phrase:As an OlderPerson, I want to be able to manage my privacy and data settings. 
+As an OlderPerson, I desire to be able to pull_off my privacy and datum setting. 
+As an OlderPerson, I want to be able to cope my privacy and data mise_en_scene. 
+As an OlderPerson, I want to be able to oversee my privacy and data context. 
+As an OlderPerson, I want to be able to wangle my privacy and data place_setting. 
+As an OlderPerson, I want to be able to do my privacy and data mount. 
+
+Input phrase:As an OlderPerson, I want to have everything preinstalled, so that I do not have to set up ALFRED by myself.
+As an OlderPerson, I desire to have everything preinstalled, so that I do not have to put up ALFRED by myself.
+As an OlderPerson, I want to have everything preinstalled, so that I do not have to determine up ALFRED by myself.
+As an OlderPerson, I want to have everything preinstalled, so that I do not have to specify up ALFRED by myself.
+As an OlderPerson, I want to have everything preinstalled, so that I do not have to fix up ALFRED by myself.
+As an OlderPerson, I want to have everything preinstalled, so that I do not have to arrange up ALFRED by myself.
+
+Input phrase:As an OlderPerson, I want to have a small ALFRED device that is wearable and easy to carry with me.
+As an OlderPerson, I desire to have a minor ALFRED device that is wearable and comfortable to transport with me.
+As an OlderPerson, I want to have a little ALFRED device that is wearable and easy to impart with me.
+As an OlderPerson, I want to have a humble ALFRED device that is wearable and easy to hold with me.
+As an OlderPerson, I want to have a modest ALFRED device that is wearable and easy to behave with me.
+As an OlderPerson, I want to have a belittled ALFRED device that is wearable and easy to stock with me.
+
+Input phrase:As an OlderPerson, I want to have ALFRED on all my computers, tablets and phone.
+As an OlderPerson, I desire to have ALFRED on all my computer, tablet and telephone.
+As an OlderPerson, I want to have ALFRED on all my calculator, pad and earphone.
+As an OlderPerson, I want to have ALFRED on all my computers, pill and phone.
+As an OlderPerson, I want to have ALFRED on all my computers, tablets and phone.
+As an OlderPerson, I want to have ALFRED on all my computers, tablets and phone.
+
+Input phrase:As an OlderPerson, I want to have ALFRED on a bracelet or a necklace, so that I can always wear him with me. 
+As an OlderPerson, I desire to have ALFRED on a watchband or a necklace, so that I can constantly break him with me. 
+As an OlderPerson, I want to have ALFRED on a bracelet or a necklace, so that I can always tire him with me. 
+As an OlderPerson, I want to have ALFRED on a bracelet or a necklace, so that I can always wear him with me. 
+As an OlderPerson, I want to have ALFRED on a bracelet or a necklace, so that I can always wear him with me. 
+As an OlderPerson, I want to have ALFRED on a bracelet or a necklace, so that I can always wear him with me. 
+
+Input phrase:As an OlderPerson, I want to have clear instructions and service after sales that guide me if I have trouble in using ALFRED.
+As an OlderPerson, I desire to have clean instruction_manual and military_service after gross_sales that steer me if I have fuss in use ALFRED.
+As an OlderPerson, I want to have well-defined direction and avail after sale that lead me if I have worry in practice ALFRED.
+As an OlderPerson, I want to have absolved education and servicing after sales that guide me if I have trouble in using ALFRED.
+As an OlderPerson, I want to have clear teaching and serve after sales that guide me if I have trouble in using ALFRED.
+As an OlderPerson, I want to have clear instruction and overhaul after sales that guide me if I have trouble in using ALFRED.
+
+Input phrase:As an OlderPerson, I want to have an ALFRED device that speaks very slowly and clearly.
+As an OlderPerson, I desire to have an ALFRED device that talk very lento and intelligibly.
+As an OlderPerson, I want to have an ALFRED device that speak very slowly and distinctly.
+As an OlderPerson, I want to have an ALFRED device that address very slowly and clearly.
+As an OlderPerson, I want to have an ALFRED device that speaks very slowly and clearly.
+As an OlderPerson, I want to have an ALFRED device that speaks very slowly and clearly.
+
+Input phrase:As an OlderPerson, I want to have an ALFRED device that only reacts to me.
+As an OlderPerson, I desire to have an ALFRED device that only react to me.
+As an OlderPerson, I want to have an ALFRED device that only reacts to me.
+As an OlderPerson, I want to have an ALFRED device that only reacts to me.
+As an OlderPerson, I want to have an ALFRED device that only reacts to me.
+As an OlderPerson, I want to have an ALFRED device that only reacts to me.
+
+Input phrase:As an OlderPerson, I want to have an ALFRED device that only listens to me when I ask it to. 
+As an OlderPerson, I desire to have an ALFRED device that only listen to me when I necessitate it to. 
+As an OlderPerson, I want to have an ALFRED device that only heed to me when I ask it to. 
+As an OlderPerson, I want to have an ALFRED device that only listens to me when I ask it to. 
+As an OlderPerson, I want to have an ALFRED device that only listens to me when I ask it to. 
+As an OlderPerson, I want to have an ALFRED device that only listens to me when I ask it to. 
+
+Input phrase:As an OlderPerson, I want to have an introduction conversation with ALFRED, so that I can learn everything about him and he about me. 
+As an OlderPerson, I desire to have an presentation conversation with ALFRED, so that I can memorize everything about him and he about me. 
+As an OlderPerson, I want to have an insertion conversation with ALFRED, so that I can teach everything about him and he about me. 
+As an OlderPerson, I want to have an initiation conversation with ALFRED, so that I can determine everything about him and he about me. 
+As an OlderPerson, I want to have an introduction conversation with ALFRED, so that I can learn everything about him and he about me. 
+As an OlderPerson, I want to have an introduction conversation with ALFRED, so that I can learn everything about him and he about me. 
+
+Input phrase:As an OlderPerson, I want to buy ALFRED in a senior shop with special client support. 
+As an OlderPerson, I desire to bribe ALFRED in a aged workshop with particular customer documentation. 
+As an OlderPerson, I want to buy ALFRED in a senior shop_class with especial node accompaniment. 
+As an OlderPerson, I want to buy ALFRED in a senior shop with limited client support. 
+As an OlderPerson, I want to buy ALFRED in a senior shop with extra client support. 
+As an OlderPerson, I want to buy ALFRED in a senior shop with special client support. 
+
+Input phrase:As an OlderPerson, I want to buy ALFRED for a low price. 
+As an OlderPerson, I desire to bribe ALFRED for a abject monetary_value. 
+As an OlderPerson, I want to buy ALFRED for a humble price. 
+As an OlderPerson, I want to buy ALFRED for a depleted price. 
+As an OlderPerson, I want to buy ALFRED for a broken price. 
+As an OlderPerson, I want to buy ALFRED for a gloomy price. 
+
+Input phrase:As an OlderPerson, I want to receive visual support, especially when looking at a list, map or agenda.
+As an OlderPerson, I desire to pick_up ocular documentation, particularly when look at a tilt, map or agenda.
+As an OlderPerson, I want to experience visual accompaniment, specially when search at a list, map or agenda.
+As an OlderPerson, I want to welcome visual support, especially when front at a list, map or agenda.
+As an OlderPerson, I want to meet visual support, especially when attend at a list, map or agenda.
+As an OlderPerson, I want to get visual support, especially when expect at a list, map or agenda.
+
+Input phrase:As an OlderPerson, I want to use ALFRED to pay for small amounts.
+As an OlderPerson, I desire to practice ALFRED to give for minor sum.
+As an OlderPerson, I want to use ALFRED to pay_up for little amount.
+As an OlderPerson, I want to use ALFRED to yield for humble measure.
+As an OlderPerson, I want to use ALFRED to pay for modest amounts.
+As an OlderPerson, I want to use ALFRED to pay for belittled amounts.
+
+Input phrase:As an OlderPerson, I want to have a very good battery for ALFRED so I can keep him on the whole day.
+As an OlderPerson, I desire to have a very full barrage for ALFRED so I can continue him on the unharmed sidereal_day.
+As an OlderPerson, I want to have a very estimable battery for ALFRED so I can prevent him on the hale day.
+As an OlderPerson, I want to have a very beneficial battery for ALFRED so I can observe him on the solid day.
+As an OlderPerson, I want to have a very adept battery for ALFRED so I can retain him on the whole day.
+As an OlderPerson, I want to have a very dear battery for ALFRED so I can sustain him on the whole day.
+
+Input phrase:As an OlderPerson, I want to have an ALFRED device that informs me about a low battery when leaving the house. 
+As an OlderPerson, I desire to have an ALFRED device that inform me about a abject barrage when leave the firm. 
+As an OlderPerson, I want to have an ALFRED device that informs me about a humble battery when exit the sign_of_the_zodiac. 
+As an OlderPerson, I want to have an ALFRED device that informs me about a depleted battery when entrust the family. 
+As an OlderPerson, I want to have an ALFRED device that informs me about a broken battery when bequeath the theater. 
+As an OlderPerson, I want to have an ALFRED device that informs me about a gloomy battery when impart the house. 
+
+Input phrase:As an OlderPerson, I want to have an ALFRED device that can be easily adapted for user that have visual or hearing troubles.
+As an OlderPerson, I desire to have an ALFRED device that can be well adapt for exploiter that have ocular or earshot trouble.
+As an OlderPerson, I want to have an ALFRED device that can be easily adjust for drug_user that have visual or listening fuss.
+As an OlderPerson, I want to have an ALFRED device that can be easily adapted for user that have visual or hearing worry.
+As an OlderPerson, I want to have an ALFRED device that can be easily adapted for user that have visual or hearing troubles.
+As an OlderPerson, I want to have an ALFRED device that can be easily adapted for user that have visual or hearing troubles.
+
+Input phrase:As an OlderPerson, I want to have an ALFRED device that can be easily adapted for user that have visual troubles. 
+As an OlderPerson, I desire to have an ALFRED device that can be well adapt for exploiter that have ocular trouble. 
+As an OlderPerson, I want to have an ALFRED device that can be easily adjust for drug_user that have visual fuss. 
+As an OlderPerson, I want to have an ALFRED device that can be easily adapted for user that have visual worry. 
+As an OlderPerson, I want to have an ALFRED device that can be easily adapted for user that have visual troubles. 
+As an OlderPerson, I want to have an ALFRED device that can be easily adapted for user that have visual troubles. 
+
+Input phrase:As an OlderPerson, I want to have an ALFRED device that can be easily adapted for user that have hearing trouble. 
+As an OlderPerson, I desire to have an ALFRED device that can be well adapt for exploiter that have hear fuss. 
+As an OlderPerson, I want to have an ALFRED device that can be easily adjust for drug_user that have learn worry. 
+As an OlderPerson, I want to have an ALFRED device that can be easily adapted for user that have listen trouble. 
+As an OlderPerson, I want to have an ALFRED device that can be easily adapted for user that have hearing trouble. 
+As an OlderPerson, I want to have an ALFRED device that can be easily adapted for user that have hearing trouble. 
+
+Input phrase:As an OlderPerson, I want to have an ALFRED device that repeats the last phrase. 
+As an OlderPerson, I desire to have an ALFRED device that repeat the concluding idiom. 
+As an OlderPerson, I want to have an ALFRED device that duplicate the final phrase. 
+As an OlderPerson, I want to have an ALFRED device that recur the last phrase. 
+As an OlderPerson, I want to have an ALFRED device that reprise the last phrase. 
+As an OlderPerson, I want to have an ALFRED device that repeats the last phrase. 
+
+Input phrase:As an OlderPerson, I want to be able to zoom into visual content. 
+As an OlderPerson, I desire to be able to soar into ocular message. 
+As an OlderPerson, I want to be able to zoom into visual capacity. 
+As an OlderPerson, I want to be able to zoom into visual contentedness. 
+As an OlderPerson, I want to be able to zoom into visual subject. 
+As an OlderPerson, I want to be able to zoom into visual content. 
+
+Input phrase:As an OlderPerson, I want to have an ALFRED device that responds to the changing demand of the users by offering new Apps in the ALFREDO platform.
+As an OlderPerson, I desire to have an ALFRED device that react to the change requirement of the user by offer fresh Apps in the ALFREDO chopine.
+As an OlderPerson, I want to have an ALFRED device that answer to the switch need of the exploiter by volunteer raw Apps in the ALFREDO platform.
+As an OlderPerson, I want to have an ALFRED device that respond to the exchange demand of the drug_user by put_up newfangled Apps in the ALFREDO platform.
+As an OlderPerson, I want to have an ALFRED device that responds to the transfer demand of the users by extend modern Apps in the ALFREDO platform.
+As an OlderPerson, I want to have an ALFRED device that responds to the deepen demand of the users by propose new Apps in the ALFREDO platform.
+
+Input phrase:As an OlderPerson, I want to have an ALFRED device that helps me to communicate with my friends and family. 
+As an OlderPerson, I desire to have an ALFRED device that help me to convey with my friend and class. 
+As an OlderPerson, I want to have an ALFRED device that help_oneself me to commune with my ally and kin. 
+As an OlderPerson, I want to have an ALFRED device that serve me to communicate with my acquaintance and syndicate. 
+As an OlderPerson, I want to have an ALFRED device that avail me to communicate with my supporter and family. 
+As an OlderPerson, I want to have an ALFRED device that helps me to communicate with my friends and family. 
+
+Input phrase:As an OlderPerson, I want to have video conversation with others. 
+As an OlderPerson, I desire to have video_recording conversation with others. 
+As an OlderPerson, I want to have television conversation with others. 
+As an OlderPerson, I want to have video conversation with others. 
+As an OlderPerson, I want to have video conversation with others. 
+As an OlderPerson, I want to have video conversation with others. 
+
+Input phrase:As a MedicalCaregiver, I want to have videophone. 
+As a MedicalCaregiver, I desire to have videophone. 
+As a MedicalCaregiver, I want to have videophone. 
+As a MedicalCaregiver, I want to have videophone. 
+As a MedicalCaregiver, I want to have videophone. 
+As a MedicalCaregiver, I want to have videophone. 
+
+Input phrase:As an OlderPerson, I want to have an AFLRED device that encourages its users for real interaction between humans and not only with ICT tools. 
+As an OlderPerson, I desire to have an AFLRED device that promote its user for actual interaction between world and not only with ICT tool. 
+As an OlderPerson, I want to have an AFLRED device that encourage its exploiter for substantial interaction between homo and not only with ICT instrument. 
+As an OlderPerson, I want to have an AFLRED device that encourages its drug_user for veridical interaction between humans and not only with ICT creature. 
+As an OlderPerson, I want to have an AFLRED device that encourages its users for real interaction between humans and not only with ICT cock. 
+As an OlderPerson, I want to have an AFLRED device that encourages its users for real interaction between humans and not only with ICT tools. 
+
+Input phrase:As an OlderPerson, I want to have an ALFRED device that provides me with information about existing apps that corresponds to my interests. 
+As an OlderPerson, I desire to have an ALFRED device that supply me with data about exist apps that match to my interest. 
+As an OlderPerson, I want to have an ALFRED device that provide me with information about existing apps that equate to my sake. 
+As an OlderPerson, I want to have an ALFRED device that put_up me with information about existing apps that correspond to my pastime. 
+As an OlderPerson, I want to have an ALFRED device that leave me with information about existing apps that represent to my interests. 
+As an OlderPerson, I want to have an ALFRED device that provides me with information about existing apps that corresponds to my interests. 
+
+Input phrase:As an OlderPerson, I want to be able to customize my preferences in the different functionalities of the solution.
+As an OlderPerson, I desire to be able to custom-make my preference in the unlike functionality of the solution.
+As an OlderPerson, I want to be able to customize my predilection in the different functionalities of the solution.
+As an OlderPerson, I want to be able to customize my preferences in the different functionalities of the solution.
+As an OlderPerson, I want to be able to customize my preferences in the different functionalities of the solution.
+As an OlderPerson, I want to be able to customize my preferences in the different functionalities of the solution.
+
+Input phrase:As a MedicalCaregiver, I want to have a simple ALFRED unit that is expandable in is functions. 
+As a MedicalCaregiver, I desire to have a elementary ALFRED unit_of_measurement that is expandable in is function. 
+As a MedicalCaregiver, I want to have a bare ALFRED whole that is expandable in is affair. 
+As a MedicalCaregiver, I want to have a childlike ALFRED unit that is expandable in is routine. 
+As a MedicalCaregiver, I want to have a dim-witted ALFRED unit that is expandable in is functions. 
+As a MedicalCaregiver, I want to have a simple ALFRED unit that is expandable in is functions. 
+
+Input phrase:As an OlderPerson, I want to have my data stored directly on the phone.
+As an OlderPerson, I desire to have my datum store immediately on the telephone.
+As an OlderPerson, I want to have my data stored directly on the earphone.
+As an OlderPerson, I want to have my data stored directly on the phone.
+As an OlderPerson, I want to have my data stored directly on the phone.
+As an OlderPerson, I want to have my data stored directly on the phone.
+
+Input phrase:As an OlderPerson, I want to receive a wake up call from ALFRED in the morning checking on me if I am ok.
+As an OlderPerson, I desire to pick_up a aftermath up cry from ALFRED in the good_morning check on me if I am all_right.
+As an OlderPerson, I want to experience a wake_island up birdcall from ALFRED in the dawn see on me if I am ok.
+As an OlderPerson, I want to welcome a wake up margin_call from ALFRED in the morning control on me if I am ok.
+As an OlderPerson, I want to meet a wake up call_option from ALFRED in the morning match on me if I am ok.
+As an OlderPerson, I want to get a wake up call from ALFRED in the morning discipline on me if I am ok.
+
+Input phrase:As an OlderPerson, I want to receive day and night rythm support with agenda reminders. 
+As an OlderPerson, I desire to pick_up sidereal_day and nox rythm documentation with agenda reminder. 
+As an OlderPerson, I want to experience day and night rythm accompaniment with agenda admonisher. 
+As an OlderPerson, I want to welcome day and night rythm support with agenda reminders. 
+As an OlderPerson, I want to meet day and night rythm support with agenda reminders. 
+As an OlderPerson, I want to get day and night rythm support with agenda reminders. 
+
+Input phrase:As an OlderPerson, I want to receive support to use the public transport. 
+As an OlderPerson, I desire to pick_up documentation to practice the public conveyance. 
+As an OlderPerson, I want to experience accompaniment to use the public transportation. 
+As an OlderPerson, I want to welcome support to use the public ecstasy. 
+As an OlderPerson, I want to meet support to use the public tape_drive. 
+As an OlderPerson, I want to get support to use the public transport. 
+
+Input phrase:As an OlderPerson, I want to use ALFRED for navigation. 
+As an OlderPerson, I desire to practice ALFRED for seafaring. 
+As an OlderPerson, I want to use ALFRED for navigation. 
+As an OlderPerson, I want to use ALFRED for navigation. 
+As an OlderPerson, I want to use ALFRED for navigation. 
+As an OlderPerson, I want to use ALFRED for navigation. 
+
+Input phrase:As an OlderPerson, I want to use ALFRED for touristic walks and indications with explanations on historical and cultural sights. 
+As an OlderPerson, I desire to practice ALFRED for touristic walk and indication with explanation on historic and cultural sight. 
+As an OlderPerson, I want to use ALFRED for touristic base_on_balls and reading with explanations on diachronic and cultural view. 
+As an OlderPerson, I want to use ALFRED for touristic walk_of_life and indications with explanations on historical and cultural batch. 
+As an OlderPerson, I want to use ALFRED for touristic walks and indications with explanations on historical and cultural sights. 
+As an OlderPerson, I want to use ALFRED for touristic walks and indications with explanations on historical and cultural sights. 
+
+Input phrase:As an OlderPerson, I want to receive support to have a taxi on time. 
+As an OlderPerson, I desire to pick_up documentation to have a cab on clock_time. 
+As an OlderPerson, I want to experience accompaniment to have a taxi on fourth_dimension. 
+As an OlderPerson, I want to welcome support to have a taxi on meter. 
+As an OlderPerson, I want to meet support to have a taxi on prison_term. 
+As an OlderPerson, I want to get support to have a taxi on time. 
+
+Input phrase:As an OlderPerson, I want to use ALFRED to see who is standing at my door and open the door. 
+As an OlderPerson, I desire to practice ALFRED to understand who is stand at my doorwayway and unfold the doorwayway. 
+As an OlderPerson, I want to use ALFRED to witness who is digest at my door and afford the door. 
+As an OlderPerson, I want to use ALFRED to visualize who is resist at my door and open the door. 
+As an OlderPerson, I want to use ALFRED to learn who is standing at my door and open the door. 
+As an OlderPerson, I want to use ALFRED to watch who is standing at my door and open the door. 
+
+Input phrase:As an OlderPerson, I want to use ALFRED to pick the phone sooner up when I am at home. 
+As an OlderPerson, I desire to practice ALFRED to blame the telephone preferably up when I am at dwelling. 
+As an OlderPerson, I want to use ALFRED to clean the earphone sooner up when I am at home_plate. 
+As an OlderPerson, I want to use ALFRED to foot the phone sooner up when I am at base. 
+As an OlderPerson, I want to use ALFRED to pluck the phone sooner up when I am at family. 
+As an OlderPerson, I want to use ALFRED to peck the phone sooner up when I am at home. 
+
+Input phrase:As an OlderPerson, I want to use ALFRED to turn on/off the lights. 
+As an OlderPerson, I desire to practice ALFRED to change_state on/off the light. 
+As an OlderPerson, I want to use ALFRED to become on/off the luminosity. 
+As an OlderPerson, I want to use ALFRED to change_by_reversal on/off the sparkle. 
+As an OlderPerson, I want to use ALFRED to plow on/off the inner_light. 
+As an OlderPerson, I want to use ALFRED to twist on/off the lighter. 
+
+Input phrase:As an OlderPerson, I want to use ALFRED to control the heating. 
+As an OlderPerson, I desire to practice ALFRED to operate the heating_system. 
+As an OlderPerson, I want to use ALFRED to manipulate the heating. 
+As an OlderPerson, I want to use ALFRED to see the heating. 
+As an OlderPerson, I want to use ALFRED to master the heating. 
+As an OlderPerson, I want to use ALFRED to control the heating. 
+
+Input phrase:As an OlderPerson, I want to use ALFRED to control the TV and radio. 
+As an OlderPerson, I desire to practice ALFRED to operate the television and radio_receiver. 
+As an OlderPerson, I want to use ALFRED to manipulate the television_receiver and radio. 
+As an OlderPerson, I want to use ALFRED to see the TV and radio. 
+As an OlderPerson, I want to use ALFRED to master the TV and radio. 
+As an OlderPerson, I want to use ALFRED to control the TV and radio. 
+
+Input phrase:As an OlderPerson, I want to use ALFRED to watch movies. 
+As an OlderPerson, I desire to practice ALFRED to determine movie. 
+As an OlderPerson, I want to use ALFRED to watch movies. 
+As an OlderPerson, I want to use ALFRED to watch movies. 
+As an OlderPerson, I want to use ALFRED to watch movies. 
+As an OlderPerson, I want to use ALFRED to watch movies. 
+
+Input phrase:As an OlderPerson, I want to use ALFRED to hear about the news. 
+As an OlderPerson, I desire to practice ALFRED to learn about the news_program. 
+As an OlderPerson, I want to use ALFRED to listen about the newsworthiness. 
+As an OlderPerson, I want to use ALFRED to hear about the news. 
+As an OlderPerson, I want to use ALFRED to hear about the news. 
+As an OlderPerson, I want to use ALFRED to hear about the news. 
+
+Input phrase:As an OlderPerson, I want to use ALFRED to contact help in case of an emergency. 
+As an OlderPerson, I desire to practice ALFRED to reach aid in event of an hand_brake. 
+As an OlderPerson, I want to use ALFRED to touch assistant in lawsuit of an emergency. 
+As an OlderPerson, I want to use ALFRED to contact avail in subject of an emergency. 
+As an OlderPerson, I want to use ALFRED to contact help in character of an emergency. 
+As an OlderPerson, I want to use ALFRED to contact help in font of an emergency. 
+
+Input phrase:As a MedicalCaregiver, I want to use video calls in case of emergency. 
+As a MedicalCaregiver, I desire to practice video_recording call in event of hand_brake. 
+As a MedicalCaregiver, I want to use television cry in lawsuit of emergency. 
+As a MedicalCaregiver, I want to use video birdcall in subject of emergency. 
+As a MedicalCaregiver, I want to use video margin_call in character of emergency. 
+As a MedicalCaregiver, I want to use video call_option in font of emergency. 
+
+Input phrase:As an OlderPerson, I want to have ALFRED contact the nearest caregiver when I ask ALFRED for urgent help. 
+As an OlderPerson, I desire to have ALFRED reach the near health_professional when I necessitate ALFRED for pressing aid. 
+As an OlderPerson, I want to have ALFRED touch the cheeseparing caregiver when I ask ALFRED for urgent assistant. 
+As an OlderPerson, I want to have ALFRED contact the dear caregiver when I ask ALFRED for urgent avail. 
+As an OlderPerson, I want to have ALFRED contact the approximate caregiver when I ask ALFRED for urgent help. 
+As an OlderPerson, I want to have ALFRED contact the nearest caregiver when I ask ALFRED for urgent help. 
+
+Input phrase:As an OlderPerson, I want to receive a message when my home care nurse is on her way. 
+As an OlderPerson, I desire to pick_up a message when my dwelling caution nanny is on her manner. 
+As an OlderPerson, I want to experience a message when my home_plate concern nurse is on her means. 
+As an OlderPerson, I want to welcome a message when my base care nurse is on her direction. 
+As an OlderPerson, I want to meet a message when my family care nurse is on her room. 
+As an OlderPerson, I want to get a message when my home care nurse is on her way. 
+
+Input phrase:As an OlderPerson, I want to receive a medicine reminder from ALFRED. 
+As an OlderPerson, I desire to pick_up a music admonisher from ALFRED. 
+As an OlderPerson, I want to experience a medicine reminder from ALFRED. 
+As an OlderPerson, I want to welcome a medicine reminder from ALFRED. 
+As an OlderPerson, I want to meet a medicine reminder from ALFRED. 
+As an OlderPerson, I want to get a medicine reminder from ALFRED. 
+
+Input phrase:As an OlderPerson, I want to be able to see whether I already have taken my pills, so that I can avoid an overdose. 
+As an OlderPerson, I desire to be able to understand whether I already have take my pill, so that I can debar an overdose. 
+As an OlderPerson, I want to be able to witness whether I already have lead my pills, so that I can keep_off an overdose. 
+As an OlderPerson, I want to be able to visualize whether I already have assume my pills, so that I can invalidate an overdose. 
+As an OlderPerson, I want to be able to learn whether I already have bring my pills, so that I can avoid an overdose. 
+As an OlderPerson, I want to be able to watch whether I already have choose my pills, so that I can avoid an overdose. 
+
+Input phrase:As a MedicalCaregiver, I want to be able to see if the patient has taken her medicine. 
+As a MedicalCaregiver, I desire to be able to understand if the affected_role has take her music. 
+As a MedicalCaregiver, I want to be able to witness if the patient has lead her medicine. 
+As a MedicalCaregiver, I want to be able to visualize if the patient has assume her medicine. 
+As a MedicalCaregiver, I want to be able to learn if the patient has bring her medicine. 
+As a MedicalCaregiver, I want to be able to watch if the patient has choose her medicine. 
+
+Input phrase:As an OlderPerson, I want to use ALFRED to do my grocery shopping. 
+As an OlderPerson, I desire to practice ALFRED to do my grocery_store shopping. 
+As an OlderPerson, I want to use ALFRED to do my grocery shopping. 
+As an OlderPerson, I want to use ALFRED to do my grocery shopping. 
+As an OlderPerson, I want to use ALFRED to do my grocery shopping. 
+As an OlderPerson, I want to use ALFRED to do my grocery shopping. 
+
+Input phrase:As an OlderPerson, I want to use ALFRED to send messages. 
+As an OlderPerson, I desire to practice ALFRED to mail message. 
+As an OlderPerson, I want to use ALFRED to transport messages. 
+As an OlderPerson, I want to use ALFRED to station messages. 
+As an OlderPerson, I want to use ALFRED to commit messages. 
+As an OlderPerson, I want to use ALFRED to air messages. 
+
+Input phrase:As an OlderPerson, I want to have ALFRED to detect falls and send an emergency to a specific contact. 
+As an OlderPerson, I desire to have ALFRED to detect waterfall and mail an hand_brake to a specific liaison. 
+As an OlderPerson, I want to have ALFRED to detect fall and transport an emergency to a specific contact. 
+As an OlderPerson, I want to have ALFRED to detect spill and station an emergency to a specific contact. 
+As an OlderPerson, I want to have ALFRED to detect descent and commit an emergency to a specific contact. 
+As an OlderPerson, I want to have ALFRED to detect capitulation and air an emergency to a specific contact. 
+
+Input phrase:As an OlderPerson, I want to have ALFRED to suggest healthy recipes. 
+As an OlderPerson, I desire to have ALFRED to propose goodly recipe. 
+As an OlderPerson, I want to have ALFRED to hint healthy recipes. 
+As an OlderPerson, I want to have ALFRED to indicate healthy recipes. 
+As an OlderPerson, I want to have ALFRED to suggest healthy recipes. 
+As an OlderPerson, I want to have ALFRED to suggest healthy recipes. 
+
+Input phrase:As an OlderPerson, I want to have ALFRED ask spontaneous questions but it would be better to programme it during certain times of the day. 
+As an OlderPerson, I desire to have ALFRED necessitate ad-lib question but it would be good to program it during sealed multiplication of the sidereal_day. 
+As an OlderPerson, I want to have ALFRED ask spontaneous doubt but it would be full to programme it during certain time of the day. 
+As an OlderPerson, I want to have ALFRED ask spontaneous motion but it would be estimable to programme it during certain clock_time of the day. 
+As an OlderPerson, I want to have ALFRED ask spontaneous questions but it would be beneficial to programme it during certain fourth_dimension of the day. 
+As an OlderPerson, I want to have ALFRED ask spontaneous questions but it would be adept to programme it during certain meter of the day. 
+
+Input phrase:As an OlderPerson, I want to have ALFRED to initiate questions, but it should be in the domains of my interest such as cinema, exhibitions, cooking. 
+As an OlderPerson, I desire to have ALFRED to originate question, but it should be in the sphere of my sake such as film, exhibition, cooking. 
+As an OlderPerson, I want to have ALFRED to broach doubt, but it should be in the domain of my pastime such as cinema, exhibitions, cooking. 
+As an OlderPerson, I want to have ALFRED to lead_up motion, but it should be in the world of my interest such as cinema, exhibitions, cooking. 
+As an OlderPerson, I want to have ALFRED to initiate questions, but it should be in the knowledge_domain of my interest such as cinema, exhibitions, cooking. 
+As an OlderPerson, I want to have ALFRED to initiate questions, but it should be in the domains of my interest such as cinema, exhibitions, cooking. 
+
+Input phrase:As an OlderPerson, I want to be able to call someone with ALFRED. 
+As an OlderPerson, I desire to be able to name person with ALFRED. 
+As an OlderPerson, I want to be able to shout someone with ALFRED. 
+As an OlderPerson, I want to be able to visit someone with ALFRED. 
+As an OlderPerson, I want to be able to address someone with ALFRED. 
+As an OlderPerson, I want to be able to bid someone with ALFRED. 
+
+Input phrase:As an OlderPerson, I want to activate the vocal interaction mode of ALFRED by pushing a specific button. 
+As an OlderPerson, I desire to trip the outspoken interaction manner of ALFRED by push a specific push_button. 
+As an OlderPerson, I want to activate the vocal interaction modality of ALFRED by advertise a specific clitoris. 
+As an OlderPerson, I want to activate the vocal interaction mood of ALFRED by tug a specific release. 
+As an OlderPerson, I want to activate the vocal interaction mode of ALFRED by crusade a specific button. 
+As an OlderPerson, I want to activate the vocal interaction mode of ALFRED by press a specific button. 
+
+Input phrase:As an OlderPerson, I want to use ALFRED to maintain my contact list in my phone. 
+As an OlderPerson, I desire to practice ALFRED to keep my liaison tilt in my telephone. 
+As an OlderPerson, I want to use ALFRED to conserve my contact list in my earphone. 
+As an OlderPerson, I want to use ALFRED to sustain my contact list in my phone. 
+As an OlderPerson, I want to use ALFRED to assert my contact list in my phone. 
+As an OlderPerson, I want to use ALFRED to wield my contact list in my phone. 
+
+Input phrase:As an OlderPerson, I want to use ALFRED to manage my agenda. 
+As an OlderPerson, I desire to practice ALFRED to pull_off my agenda. 
+As an OlderPerson, I want to use ALFRED to cope my agenda. 
+As an OlderPerson, I want to use ALFRED to oversee my agenda. 
+As an OlderPerson, I want to use ALFRED to wangle my agenda. 
+As an OlderPerson, I want to use ALFRED to do my agenda. 
+
+Input phrase:As an OlderPerson, I want to insert my meetings into ALFRED using speech. 
+As an OlderPerson, I desire to tuck my meeting into ALFRED use address. 
+As an OlderPerson, I want to slip_in my merging into ALFRED practice manner_of_speaking. 
+As an OlderPerson, I want to insert my confluence into ALFRED using lecture. 
+As an OlderPerson, I want to insert my meetings into ALFRED using actor's_line. 
+As an OlderPerson, I want to insert my meetings into ALFRED using language. 
+
+Input phrase:As an OlderPerson, I want to receive reminders on my appointments. 
+As an OlderPerson, I desire to pick_up reminder on my appointment. 
+As an OlderPerson, I want to experience admonisher on my date. 
+As an OlderPerson, I want to welcome reminders on my appointee. 
+As an OlderPerson, I want to meet reminders on my appointments. 
+As an OlderPerson, I want to get reminders on my appointments. 
+
+Input phrase:As an OlderPerson, I want to receive a reminder from ALFRED on all the things I need to bring with me when I leave the house. 
+As an OlderPerson, I desire to pick_up a admonisher from ALFRED on all the thing I necessitate to institute with me when I exit the firm. 
+As an OlderPerson, I want to experience a reminder from ALFRED on all the matter I want to lend with me when I entrust the sign_of_the_zodiac. 
+As an OlderPerson, I want to welcome a reminder from ALFRED on all the things I need to fetch with me when I bequeath the family. 
+As an OlderPerson, I want to meet a reminder from ALFRED on all the things I need to bring with me when I impart the theater. 
+As an OlderPerson, I want to get a reminder from ALFRED on all the things I need to bring with me when I forget the house. 
+
+Input phrase:As a SocialCaregiver, I want ALFRED to remind me of the things I need to bring to the person I care for. 
+As a SocialCaregiver, I desire ALFRED to prompt me of the thing I necessitate to institute to the person I wish for. 
+As a SocialCaregiver, I want ALFRED to remind me of the matter I want to lend to the person I manage for. 
+As a SocialCaregiver, I want ALFRED to remind me of the things I need to fetch to the person I worry for. 
+As a SocialCaregiver, I want ALFRED to remind me of the things I need to bring to the person I care for. 
+As a SocialCaregiver, I want ALFRED to remind me of the things I need to bring to the person I care for. 
+
+Input phrase:As an OlderPerson, I want to use ALFRED to set up social groups of people with similar diseases. 
+As an OlderPerson, I desire to practice ALFRED to put up social group of citizenry with alike disease. 
+As an OlderPerson, I want to use ALFRED to determine up social groups of multitude with like diseases. 
+As an OlderPerson, I want to use ALFRED to specify up social groups of people with exchangeable diseases. 
+As an OlderPerson, I want to use ALFRED to fix up social groups of people with similar diseases. 
+As an OlderPerson, I want to use ALFRED to arrange up social groups of people with similar diseases. 
+
+Input phrase:As an OlderPerson, I want to use ALFRED to contact people from my own circle. 
+As an OlderPerson, I desire to practice ALFRED to reach citizenry from my own set. 
+As an OlderPerson, I want to use ALFRED to touch multitude from my own lap. 
+As an OlderPerson, I want to use ALFRED to contact people from my own traffic_circle. 
+As an OlderPerson, I want to use ALFRED to contact people from my own r-2. 
+As an OlderPerson, I want to use ALFRED to contact people from my own circle. 
+
+Input phrase:As an OlderPerson, I want to use ALFRED to learn about art expositions or a museum. 
+As an OlderPerson, I desire to practice ALFRED to memorize about artwork exposition or a mpracticeum. 
+As an OlderPerson, I want to use ALFRED to teach about art exhibition or a museum. 
+As an OlderPerson, I want to use ALFRED to determine about art expositions or a museum. 
+As an OlderPerson, I want to use ALFRED to learn about art expositions or a museum. 
+As an OlderPerson, I want to use ALFRED to learn about art expositions or a museum. 
+
+Input phrase:As an OlderPerson, I want to use ALFRED to learn about all the social activities that are organized in my neighborhood. 
+As an OlderPerson, I desire to practice ALFRED to memorize about all the social activity that are form in my vicinity. 
+As an OlderPerson, I want to use ALFRED to teach about all the social action that are organize in my region. 
+As an OlderPerson, I want to use ALFRED to determine about all the social bodily_process that are mastermind in my neighborhood. 
+As an OlderPerson, I want to use ALFRED to learn about all the social natural_process that are unionize in my neighborhood. 
+As an OlderPerson, I want to use ALFRED to learn about all the social activeness that are organized in my neighborhood. 
+
+Input phrase:As an OlderPerson, I want to use ALFRED to get a personalized invitation to a social event, so that it motivates more to go. 
+As an OlderPerson, I desire to practice ALFRED to become a personalize invitation to a social consequence, so that it motivate more to travel. 
+As an OlderPerson, I want to use ALFRED to receive a personalized invitation to a social event, so that it motivates more to become. 
+As an OlderPerson, I want to use ALFRED to arrive a personalized invitation to a social event, so that it motivates more to run. 
+As an OlderPerson, I want to use ALFRED to bring a personalized invitation to a social event, so that it motivates more to proceed. 
+As an OlderPerson, I want to use ALFRED to experience a personalized invitation to a social event, so that it motivates more to sound. 
+
+Input phrase:As an OlderPerson, I want to use ALFRED to navigate to an event or concert and help me when I am lost. 
+As an OlderPerson, I desire to practice ALFRED to voyage to an consequence or concert and help_oneself me when I am lose. 
+As an OlderPerson, I want to use ALFRED to navigate to an event or concert and serve me when I am misplace. 
+As an OlderPerson, I want to use ALFRED to navigate to an event or concert and avail me when I am fall_back. 
+As an OlderPerson, I want to use ALFRED to navigate to an event or concert and help me when I am miss. 
+As an OlderPerson, I want to use ALFRED to navigate to an event or concert and help me when I am suffer. 
+
+Input phrase:As an OlderPerson, I want to use ALFRED to help me navigate despite my mild cognitive impairments. 
+As an OlderPerson, I desire to practice ALFRED to help_oneself me voyage contempt my meek cognitive damage. 
+As an OlderPerson, I want to use ALFRED to serve me navigate despite my balmy cognitive deterioration. 
+As an OlderPerson, I want to use ALFRED to avail me navigate despite my mild cognitive disability. 
+As an OlderPerson, I want to use ALFRED to help me navigate despite my mild cognitive impairment. 
+As an OlderPerson, I want to use ALFRED to help me navigate despite my mild cognitive stultification. 
+
+Input phrase:As an OlderPerson, I want to be able to pay for small amounts. 
+As an OlderPerson, I desire to be able to give for minor sum. 
+As an OlderPerson, I want to be able to pay_up for little amount. 
+As an OlderPerson, I want to be able to yield for humble measure. 
+As an OlderPerson, I want to be able to pay for modest amounts. 
+As an OlderPerson, I want to be able to pay for belittled amounts. 
+
+Input phrase:As an OlderPerson, I want to use ALFRED to organize a meeting with a group of friends at a certain place. 
+As an OlderPerson, I desire to practice ALFRED to form a merging with a group of friend at a sealed topographic_point. 
+As an OlderPerson, I want to use ALFRED to mastermind a confluence with a group of ally at a certain stead. 
+As an OlderPerson, I want to use ALFRED to unionize a meeting with a group of acquaintance at a certain home. 
+As an OlderPerson, I want to use ALFRED to organize a meeting with a group of supporter at a certain position. 
+As an OlderPerson, I want to use ALFRED to organize a meeting with a group of friends at a certain seat. 
+
+Input phrase:As an OlderPerson, I want to play online games together with other users. 
+As an OlderPerson, I desire to act on-line game in_concert with other user. 
+As an OlderPerson, I want to toy online plot together with other exploiter. 
+As an OlderPerson, I want to dally online games together with other drug_user. 
+As an OlderPerson, I want to bring online games together with other users. 
+As an OlderPerson, I want to bet online games together with other users. 
+
+Input phrase:As an OlderPerson, I want to get suggestions for sports classes in my neighbourhood. 
+As an OlderPerson, I desire to become suggestion for sport class in my vicinity. 
+As an OlderPerson, I want to receive trace for mutant course in my neighborhood. 
+As an OlderPerson, I want to arrive hypnotism for fun classes in my neighbourhood. 
+As an OlderPerson, I want to bring suggestions for sports classes in my neighbourhood. 
+As an OlderPerson, I want to experience suggestions for sports classes in my neighbourhood. 
+
+Input phrase:As an OlderPerson, I want to have ALFRED to enable me to have face to face contacts as well, so that I do not just have virtual contacts over ALFRED. 
+As an OlderPerson, I desire to have ALFRED to enable me to have expression to expression contact as well, so that I do not just have virtual contact over ALFRED. 
+As an OlderPerson, I want to have ALFRED to enable me to have side to side liaison as well, so that I do not just have virtual liaison over ALFRED. 
+As an OlderPerson, I want to have ALFRED to enable me to have grimace to grimace contacts as well, so that I do not just have virtual contacts over ALFRED. 
+As an OlderPerson, I want to have ALFRED to enable me to have font to font contacts as well, so that I do not just have virtual contacts over ALFRED. 
+As an OlderPerson, I want to have ALFRED to enable me to have boldness to boldness contacts as well, so that I do not just have virtual contacts over ALFRED. 
+
+Input phrase:As an OlderPerson, I want to help me to control my body weight. 
+As an OlderPerson, I desire to help_oneself me to operate my torso system_of_weights. 
+As an OlderPerson, I want to serve me to manipulate my consistency weight_unit. 
+As an OlderPerson, I want to avail me to see my soundbox weight. 
+As an OlderPerson, I want to help me to master my body weight. 
+As an OlderPerson, I want to help me to control my body weight. 
+
+Input phrase:As an OlderPerson, I want to just press one button to call my caregiver. 
+As an OlderPerson, I desire to just urge matchless push_button to name my health_professional. 
+As an OlderPerson, I want to just weigh one clitoris to shout my caregiver. 
+As an OlderPerson, I want to just compress one release to visit my caregiver. 
+As an OlderPerson, I want to just crusade one button to address my caregiver. 
+As an OlderPerson, I want to just iron one button to bid my caregiver. 
+
+Input phrase:As an OlderPerson, I want to decide who has access to my vital data. 
+As an OlderPerson, I desire to decide who has entree to my critical datum. 
+As an OlderPerson, I want to decide who has access to my full_of_life data. 
+As an OlderPerson, I want to decide who has access to my vital data. 
+As an OlderPerson, I want to decide who has access to my vital data. 
+As an OlderPerson, I want to decide who has access to my vital data. 
+
+Input phrase:As a MedicalCaregiver, I want to be sure that the user can decide who has access to her data. 
+As a MedicalCaregiver, I desire to be certain that the exploiter can decide who has entree to her datum. 
+As a MedicalCaregiver, I want to be indisputable that the drug_user can decide who has access to her data. 
+As a MedicalCaregiver, I want to be sure that the user can decide who has access to her data. 
+As a MedicalCaregiver, I want to be sure that the user can decide who has access to her data. 
+As a MedicalCaregiver, I want to be sure that the user can decide who has access to her data. 
+
+Input phrase:As an OlderPerson, I want to have the wearables with integrated sensors to look good and not to be stigmatizing. 
+As an OlderPerson, I desire to have the clothing with integrate detector to search full and not to be stigmatize. 
+As an OlderPerson, I want to have the wearables with desegregate sensors to front estimable and not to be stigmatizing. 
+As an OlderPerson, I want to have the wearables with integrated sensors to attend beneficial and not to be stigmatizing. 
+As an OlderPerson, I want to have the wearables with integrated sensors to expect adept and not to be stigmatizing. 
+As an OlderPerson, I want to have the wearables with integrated sensors to count dear and not to be stigmatizing. 
+
+Input phrase:As an OlderPerson, I want to see my vital parameters myself on the phone. 
+As an OlderPerson, I desire to understand my critical parameter myself on the telephone. 
+As an OlderPerson, I want to witness my full_of_life argument myself on the earphone. 
+As an OlderPerson, I want to visualize my vital parameters myself on the phone. 
+As an OlderPerson, I want to learn my vital parameters myself on the phone. 
+As an OlderPerson, I want to watch my vital parameters myself on the phone. 
+
+Input phrase:As an OlderPerson, I want to have the ALFRED shirt to look good. 
+As an OlderPerson, I desire to have the ALFRED shirt to search full. 
+As an OlderPerson, I want to have the ALFRED shirt to front estimable. 
+As an OlderPerson, I want to have the ALFRED shirt to attend beneficial. 
+As an OlderPerson, I want to have the ALFRED shirt to expect adept. 
+As an OlderPerson, I want to have the ALFRED shirt to count dear. 
+
+Input phrase:As an OlderPerson, I want to have the ALFRED shirt has to be non stigmatizing. 
+As an OlderPerson, I desire to have the ALFRED shirt has to be non stigmatize. 
+As an OlderPerson, I want to have the ALFRED shirt has to be non stigmatizing. 
+As an OlderPerson, I want to have the ALFRED shirt has to be non stigmatizing. 
+As an OlderPerson, I want to have the ALFRED shirt has to be non stigmatizing. 
+As an OlderPerson, I want to have the ALFRED shirt has to be non stigmatizing. 
+
+Input phrase:As a MedicalCaregiver, I want to have ALFRED to be able to determine the user's blood pressure. 
+As a MedicalCaregiver, I desire to have ALFRED to be able to specify the exploiter's rake press. 
+As a MedicalCaregiver, I want to have ALFRED to be able to decide the drug_user's lineage imperativeness. 
+As a MedicalCaregiver, I want to have ALFRED to be able to settle the user's blood atmospheric_pressure. 
+As a MedicalCaregiver, I want to have ALFRED to be able to determine the user's blood pressure. 
+As a MedicalCaregiver, I want to have ALFRED to be able to determine the user's blood pressure. 
+
+Input phrase:As a MedicalCaregiver, I want to have ALFRED to be able to determine the user's body temperature. 
+As a MedicalCaregiver, I desire to have ALFRED to be able to specify the exploiter's torso temperature. 
+As a MedicalCaregiver, I want to have ALFRED to be able to decide the drug_user's consistency temperature. 
+As a MedicalCaregiver, I want to have ALFRED to be able to settle the user's soundbox temperature. 
+As a MedicalCaregiver, I want to have ALFRED to be able to determine the user's body temperature. 
+As a MedicalCaregiver, I want to have ALFRED to be able to determine the user's body temperature. 
+
+Input phrase:As a MedicalCaregiver, I want to have ALFRED to be able to determine the user's heart rate. 
+As a MedicalCaregiver, I desire to have ALFRED to be able to specify the exploiter's center pace. 
+As a MedicalCaregiver, I want to have ALFRED to be able to decide the drug_user's kernel rate. 
+As a MedicalCaregiver, I want to have ALFRED to be able to settle the user's affection rate. 
+As a MedicalCaregiver, I want to have ALFRED to be able to determine the user's heart rate. 
+As a MedicalCaregiver, I want to have ALFRED to be able to determine the user's heart rate. 
+
+Input phrase:As a MedicalCaregiver, I want to have ALFRED to be able to determine the user's breathing frequency. 
+As a MedicalCaregiver, I desire to have ALFRED to be able to specify the exploiter's breathing frequency. 
+As a MedicalCaregiver, I want to have ALFRED to be able to decide the drug_user's breathing frequency. 
+As a MedicalCaregiver, I want to have ALFRED to be able to settle the user's breathing frequency. 
+As a MedicalCaregiver, I want to have ALFRED to be able to determine the user's breathing frequency. 
+As a MedicalCaregiver, I want to have ALFRED to be able to determine the user's breathing frequency. 
+
+Input phrase:As a MedicalCaregiver, I want to have feedback on the activity level of the user. 
+As a MedicalCaregiver, I desire to have feedback on the action degree of the exploiter. 
+As a MedicalCaregiver, I want to have feedback on the bodily_process grade of the drug_user. 
+As a MedicalCaregiver, I want to have feedback on the natural_process horizontal_surface of the user. 
+As a MedicalCaregiver, I want to have feedback on the activeness floor of the user. 
+As a MedicalCaregiver, I want to have feedback on the activity level of the user. 
+
+Input phrase:As a MedicalCaregiver, I want to locate the ALFRED user. 
+As a MedicalCaregiver, I desire to situate the ALFRED exploiter. 
+As a MedicalCaregiver, I want to settle the ALFRED drug_user. 
+As a MedicalCaregiver, I want to locate the ALFRED user. 
+As a MedicalCaregiver, I want to locate the ALFRED user. 
+As a MedicalCaregiver, I want to locate the ALFRED user. 
+
+Input phrase:As a SocialCaregiver, I want to have ALFRED to be able to recognize pain and or stress by using skin conduction sensors. 
+As a SocialCaregiver, I desire to have ALFRED to be able to acknowledge annoyance and or tension by use hide conduction detector. 
+As a SocialCaregiver, I want to have ALFRED to be able to spot pain and or stress by practice peel conduction sensors. 
+As a SocialCaregiver, I want to have ALFRED to be able to accredit pain and or stress by using skin conduction sensors. 
+As a SocialCaregiver, I want to have ALFRED to be able to greet pain and or stress by using skin conduction sensors. 
+As a SocialCaregiver, I want to have ALFRED to be able to recognize pain and or stress by using skin conduction sensors. 
+
+Input phrase:As a SocialCaregiver, I want to have a step counter included into ALFRED. 
+As a SocialCaregiver, I desire to have a measure buffet include into ALFRED. 
+As a SocialCaregiver, I want to have a footstep rejoinder admit into ALFRED. 
+As a SocialCaregiver, I want to have a gradation counterpunch included into ALFRED. 
+As a SocialCaregiver, I want to have a footfall counter included into ALFRED. 
+As a SocialCaregiver, I want to have a tone counter included into ALFRED. 
+
+Input phrase:As an OlderPerson, I want to have ALFRED to give me goals and missions that encourage me to do new activities and exercises and to go out. 
+As an OlderPerson, I desire to have ALFRED to yield me travelal and mission that promote me to do fresh activity and exercise and to travel out. 
+As an OlderPerson, I want to have ALFRED to hold me finish and deputation that encourage me to do raw action and use and to become out. 
+As an OlderPerson, I want to have ALFRED to render me runals and missions that encourage me to do newfangled bodily_process and exercises and to run out. 
+As an OlderPerson, I want to have ALFRED to impart me proceedals and missions that encourage me to do modern natural_process and exercises and to proceed out. 
+As an OlderPerson, I want to have ALFRED to establish me soundals and missions that encourage me to do new activeness and exercises and to sound out. 
+
+Input phrase:As an OlderPerson, I want to have ALFRED to set limits in the games duration as I get bored easily. 
+As an OlderPerson, I desire to have ALFRED to put limit in the game duration as I become bore well. 
+As an OlderPerson, I want to have ALFRED to determine terminus_ad_quem in the plot duration as I receive bored easily. 
+As an OlderPerson, I want to have ALFRED to specify limits in the games duration as I arrive bored easily. 
+As an OlderPerson, I want to have ALFRED to fix limits in the games duration as I bring bored easily. 
+As an OlderPerson, I want to have ALFRED to arrange limits in the games duration as I experience bored easily. 
+
+Input phrase:As an OlderPerson, I want to play games where I can use my Imagination. 
+As an OlderPerson, I desire to act game where I can practice my resource. 
+As an OlderPerson, I want to toy plot where I can use my Imagination. 
+As an OlderPerson, I want to dally games where I can use my Imagination. 
+As an OlderPerson, I want to bring games where I can use my Imagination. 
+As an OlderPerson, I want to bet games where I can use my Imagination. 
+
+Input phrase:As an OlderPerson, I want to do guided exercises with ALFRED and ALFRED should also use sensors to capture health data while I am doing exercises. 
+As an OlderPerson, I desire to do steer exercise with ALFRED and ALFRED should besides practice detector to get health datum while I am doing exercise. 
+As an OlderPerson, I want to do lead use with ALFRED and ALFRED should also use sensors to appropriate health data while I am doing use. 
+As an OlderPerson, I want to do guide exercises with ALFRED and ALFRED should also use sensors to capture health data while I am doing exercises. 
+As an OlderPerson, I want to do guided exercises with ALFRED and ALFRED should also use sensors to capture health data while I am doing exercises. 
+As an OlderPerson, I want to do guided exercises with ALFRED and ALFRED should also use sensors to capture health data while I am doing exercises. 
+
+Input phrase:As an OlderPerson, I want to have games that include my favourite sports. 
+As an OlderPerson, I desire to have game that admit my favorite sport. 
+As an OlderPerson, I want to have plot that include my favored mutant. 
+As an OlderPerson, I want to have games that include my favourite fun. 
+As an OlderPerson, I want to have games that include my favourite sports. 
+As an OlderPerson, I want to have games that include my favourite sports. 
+
+Input phrase:As an OlderPerson, I want to receive suggestions about local sport Classes. 
+As an OlderPerson, I desire to pick_up suggestion about local mutant class. 
+As an OlderPerson, I want to experience trace about local fun course. 
+As an OlderPerson, I want to welcome hypnotism about local sport Classes. 
+As an OlderPerson, I want to meet suggestions about local sport Classes. 
+As an OlderPerson, I want to get suggestions about local sport Classes. 
+
+Input phrase:As an OlderPerson, I want to have ALFRED to remind me to keep a good body posture. 
+As an OlderPerson, I desire to have ALFRED to prompt me to continue a full torso position. 
+As an OlderPerson, I want to have ALFRED to remind me to prevent a estimable consistency carriage. 
+As an OlderPerson, I want to have ALFRED to remind me to observe a beneficial soundbox military_capability. 
+As an OlderPerson, I want to have ALFRED to remind me to retain a adept body posture. 
+As an OlderPerson, I want to have ALFRED to remind me to sustain a dear body posture. 
+
+Input phrase:As a MedicalCaregiver, I want to have ALFRED to remind people to exercise regularly. 
+As a MedicalCaregiver, I desire to have ALFRED to prompt citizenry to exert regularly. 
+As a MedicalCaregiver, I want to have ALFRED to remind multitude to practice regularly. 
+As a MedicalCaregiver, I want to have ALFRED to remind people to drill regularly. 
+As a MedicalCaregiver, I want to have ALFRED to remind people to exercise regularly. 
+As a MedicalCaregiver, I want to have ALFRED to remind people to exercise regularly. 
+
+Input phrase:As an OlderPerson, I want to receive specific tips how to reduce my health impairments without medication. 
+As an OlderPerson, I desire to pick_up specific tip how to shrink my health damage without medicine. 
+As an OlderPerson, I want to experience specific gratuity how to deoxidize my health deterioration without medication. 
+As an OlderPerson, I want to welcome specific point how to repress my health disability without medication. 
+As an OlderPerson, I want to meet specific peak how to abridge my health impairment without medication. 
+As an OlderPerson, I want to get specific tips how to boil_down my health stultification without medication. 
+
+Input phrase:As an OlderPerson, I want to have some games that show me how good my memory and physical health is. 
+As an OlderPerson, I desire to have some game that prove me how full my memory and forcible health is. 
+As an OlderPerson, I want to have some plot that testify me how estimable my memory and physical health is. 
+As an OlderPerson, I want to have some games that picture me how beneficial my memory and physical health is. 
+As an OlderPerson, I want to have some games that express me how adept my memory and physical health is. 
+As an OlderPerson, I want to have some games that indicate me how dear my memory and physical health is. 
+
+Input phrase:As an OlderPerson, I want to have training for specific muscle Groups. 
+As an OlderPerson, I desire to have education for specific muscleman group. 
+As an OlderPerson, I want to have training for specific brawn Groups. 
+As an OlderPerson, I want to have training for specific muscle Groups. 
+As an OlderPerson, I want to have training for specific muscle Groups. 
+As an OlderPerson, I want to have training for specific muscle Groups. 
+
+Input phrase:As a MedicalCaregiver, I want to have ALFRED to offer training for specific muscle groups. 
+As a MedicalCaregiver, I desire to have ALFRED to volunteer education for specific muscleman group. 
+As a MedicalCaregiver, I want to have ALFRED to put_up training for specific brawn groups. 
+As a MedicalCaregiver, I want to have ALFRED to extend training for specific muscle groups. 
+As a MedicalCaregiver, I want to have ALFRED to propose training for specific muscle groups. 
+As a MedicalCaregiver, I want to have ALFRED to offer training for specific muscle groups. 
+
+Input phrase:As an OlderPerson, I want to be able to see my training Performance. 
+As an OlderPerson, I desire to be able to understand my education operation. 
+As an OlderPerson, I want to be able to witness my training Performance. 
+As an OlderPerson, I want to be able to visualize my training Performance. 
+As an OlderPerson, I want to be able to learn my training Performance. 
+As an OlderPerson, I want to be able to watch my training Performance. 
+
+Input phrase:As an OlderPerson, I want to have ALFRED to help to motivate me during the week to do exercise that should change daily, as the constant change motivates me. 
+As an OlderPerson, I desire to have ALFRED to help_oneself to motivate me during the workweek to do exert that should switch day_by_day, as the varietyless switch motivate me. 
+As an OlderPerson, I want to have ALFRED to serve to motivate me during the week to do practice that should exchange daily, as the ceaseless exchange motivates me. 
+As an OlderPerson, I want to have ALFRED to avail to motivate me during the week to do drill that should transfer daily, as the constant transfer motivates me. 
+As an OlderPerson, I want to have ALFRED to help to motivate me during the week to do exercise that should deepen daily, as the constant deepen motivates me. 
+As an OlderPerson, I want to have ALFRED to help to motivate me during the week to do exercise that should change daily, as the constant change motivates me. 
+
+Input phrase:As a MedicalCaregiver, I want to have ALFRED to propose me games that require the combination of mental and physical exercise, such as opposing motion exercises of the arms and legs. 
+As a MedicalCaregiver, I desire to have ALFRED to project me game that necessitate the combination of genial and forcible use, such as oppose gesture uses of the weaponry and leg. 
+As a MedicalCaregiver, I want to have ALFRED to aim me plot that ask the combination of mental and physical exercise, such as fight movement use of the coat_of_arms and branch. 
+As a MedicalCaregiver, I want to have ALFRED to nominate me games that command the combination of mental and physical exercise, such as pit apparent_motion exercises of the arm and peg. 
+As a MedicalCaregiver, I want to have ALFRED to propose me games that want the combination of mental and physical exercise, such as react motion exercises of the weapon and stage. 
+As a MedicalCaregiver, I want to have ALFRED to propose me games that require the combination of mental and physical exercise, such as opposing motion exercises of the branch and legs. 
+
+Input phrase:As an OlderPerson, I want to games that require the combination of mental and physical exercise, such as opposing motion exercises of the arms and legs. 
+As an OlderPerson, I desire to game that necessitate the combination of genial and forcible use, such as oppose gesture uses of the weaponry and leg. 
+As an OlderPerson, I want to plot that ask the combination of mental and physical exercise, such as fight movement use of the coat_of_arms and branch. 
+As an OlderPerson, I want to games that command the combination of mental and physical exercise, such as pit apparent_motion exercises of the arm and peg. 
+As an OlderPerson, I want to games that want the combination of mental and physical exercise, such as react motion exercises of the weapon and stage. 
+As an OlderPerson, I want to games that require the combination of mental and physical exercise, such as opposing motion exercises of the branch and legs. 
+
+Input phrase:As a MedicalCaregiver, I want to control if the user does the exercise correct. 
+As a MedicalCaregiver, I desire to operate if the exploiter does the use right. 
+As a MedicalCaregiver, I want to manipulate if the drug_user does the exercise correct. 
+As a MedicalCaregiver, I want to see if the user does the exercise correct. 
+As a MedicalCaregiver, I want to master if the user does the exercise correct. 
+As a MedicalCaregiver, I want to control if the user does the exercise correct. 
+
+Input phrase:As a MedicalCaregiver, I want to have a regular summary on how much exercise is performed by the user. 
+As a MedicalCaregiver, I desire to have a even summary on how much use is perform by the exploiter. 
+As a MedicalCaregiver, I want to have a unconstipated summary on how much exercise is do by the drug_user. 
+As a MedicalCaregiver, I want to have a regular summary on how much exercise is performed by the user. 
+As a MedicalCaregiver, I want to have a regular summary on how much exercise is performed by the user. 
+As a MedicalCaregiver, I want to have a regular summary on how much exercise is performed by the user. 
+
+Input phrase:As an InformalCaregiver, I want to have a game that the carer could play together with the user, so that it would enable to monitor the users’ state of health but also have some fun time. 
+As an InformalCaregiver, I desire to have a plot that the carer could act in_concert with the exploiter, so that it would enable to monitor the exploiters’ state_of_matter of health but besides have some fun clock_time. 
+As an InformalCaregiver, I want to have a game that the carer could toy together with the drug_user, so that it would enable to monitor the drug_exploiter’ country of health but also have some fun fourth_dimension. 
+As an InformalCaregiver, I want to have a game that the carer could dally together with the user, so that it would enable to monitor the drug_user’ department_of_state of health but also have some fun meter. 
+As an InformalCaregiver, I want to have a game that the carer could bring together with the user, so that it would enable to monitor the users’ state of health but also have some fun prison_term. 
+As an InformalCaregiver, I want to have a game that the carer could bet together with the user, so that it would enable to monitor the users’ state of health but also have some fun time. 
+
+Input phrase:As a MedicalCaregiver, I want to have ALFRED to propose training that promotes complex thinking. 
+As a MedicalCaregiver, I desire to have ALFRED to project education that promote complex thinking. 
+As a MedicalCaregiver, I want to have ALFRED to aim training that advertise complex thinking. 
+As a MedicalCaregiver, I want to have ALFRED to nominate training that promotes complex thinking. 
+As a MedicalCaregiver, I want to have ALFRED to propose training that promotes complex thinking. 
+As a MedicalCaregiver, I want to have ALFRED to propose training that promotes complex thinking. 
+
+Input phrase:As a MedicalCaregiver, I want to give corrective feedback if exercises are performed wrong, too much or in any other way harmful to the user. 
+As a MedicalCareyieldr, I desire to yield corrective feedback if exercise are perform incorrect, too much or in any other manner harmful to the exploiter. 
+As a MedicalCareholdr, I want to hold corrective feedback if use are do improper, too much or in any other means harmful to the drug_user. 
+As a MedicalCarerenderr, I want to render corrective feedback if exercises are performed amiss, too much or in any other direction harmful to the user. 
+As a MedicalCareimpartr, I want to impart corrective feedback if exercises are performed ill-timed, too much or in any other room harmful to the user. 
+As a MedicalCareestablishr, I want to establish corrective feedback if exercises are performed faulty, too much or in any other way harmful to the user. 
+
+Input phrase:As a developer, I want to present my app to as many people as Possible. 
+As a developer, I desire to show my app to as many citizenry as potential. 
+As a developer, I want to stage my app to as many multitude as Possible. 
+As a developer, I want to award my app to as many people as Possible. 
+As a developer, I want to give my app to as many people as Possible. 
+As a developer, I want to deliver my app to as many people as Possible. 
+
+Input phrase:As a developer, I want to have the accounting to be as simple and clear as Possible. 
+As a developer, I desire to have the accountancy to be as elementary and clean as potential. 
+As a developer, I want to have the account to be as bare and well-defined as Possible. 
+As a developer, I want to have the accounting to be as childlike and absolved as Possible. 
+As a developer, I want to have the accounting to be as dim-witted and clear as Possible. 
+As a developer, I want to have the accounting to be as simple and clear as Possible. 
+
+Input phrase:As a developer, I want to easily create and to maintain my apps within the market place. 
+As a developer, I desire to well make and to keep my apps inside the grocery_store topographic_point. 
+As a developer, I want to easily produce and to conserve my apps within the marketstead stead. 
+As a developer, I want to easily create and to sustain my apps within the market home. 
+As a developer, I want to easily create and to assert my apps within the market position. 
+As a developer, I want to easily create and to wield my apps within the market seat. 
+
+Input phrase:As a developer, I want to enable customers to provide feedback about my App and need an easy way to watch this feedback. 
+As a developer, I desire to enable customer to supply feedback about my App and necessitate an comfortable manner to determine this feedback. 
+As a developer, I want to enable customers to put_up feedback about my App and want an easy means to watch this feedback. 
+As a developer, I want to enable customers to leave feedback about my App and need an easy direction to watch this feedback. 
+As a developer, I want to enable customers to provide feedback about my App and need an easy room to watch this feedback. 
+As a developer, I want to enable customers to provide feedback about my App and need an easy way to watch this feedback. 
+
+Input phrase:As a developer, I want to have an easy way to manage the pricing modality of my Apps. 
+As a developer, I desire to have an comfortable manner to pull_off the pricing mood of my Apps. 
+As a developer, I want to have an easy means to cope the pricing modality of my Apps. 
+As a developer, I want to have an easy direction to oversee the pricing modality of my Apps. 
+As a developer, I want to have an easy room to wangle the pricing modality of my Apps. 
+As a developer, I want to have an easy way to do the pricing modality of my Apps. 
+
+Input phrase:As a developer, I want to have the API to be well defined and well documented. 
+As a developer, I desire to have the API to be well specify and well document. 
+As a developer, I want to have the API to be well define and well documented. 
+As a developer, I want to have the API to be well defined and well documented. 
+As a developer, I want to have the API to be well defined and well documented. 
+As a developer, I want to have the API to be well defined and well documented. 
+
+Input phrase:As a developer, I want to obtain Apps development support. 
+As a developer, I desire to receive Apps growth documentation. 
+As a developer, I want to prevail Apps exploitation accompaniment. 
+As a developer, I want to obtain Apps development support. 
+As a developer, I want to obtain Apps development support. 
+As a developer, I want to obtain Apps development support. 
+
+Input phrase:As a developer, I want to know the fees the provider of the market place charges for using the platform. 
+As a developer, I desire to acknowledge the fee the supplier of the grocery_store topographic_point charge for use the chopine. 
+As a developer, I want to sleep_together the fees the provider of the marketstead stead care for practice the platform. 
+As a developer, I want to know the fees the provider of the market home mission for using the platform. 
+As a developer, I want to know the fees the provider of the market position cathexis for using the platform. 
+As a developer, I want to know the fees the provider of the market seat bang for using the platform. 
+
+Input phrase:As a developer, I want to be notified as soon as possible when the state of any of my Apps changes. 
+As a developer, I desire to be advise as soon as potential when the state_of_matter of any of my Apps change. 
+As a developer, I want to be notified as soon as possible when the country of any of my Apps variety. 
+As a developer, I want to be notified as soon as possible when the department_of_state of any of my Apps changes. 
+As a developer, I want to be notified as soon as possible when the state of any of my Apps changes. 
+As a developer, I want to be notified as soon as possible when the state of any of my Apps changes. 
+
+Input phrase:As a developer, I want to have detailed information of what happened when my App crashes on the user’s device. 
+As a developer, I desire to have detailed data of what happen when my App crash on the exploiter’s device. 
+As a developer, I want to have detailed information of what find when my App barge_in on the drug_user’s device. 
+As a developer, I want to have detailed information of what happened when my App doss on the user’s device. 
+As a developer, I want to have detailed information of what happened when my App crashes on the user’s device. 
+As a developer, I want to have detailed information of what happened when my App crashes on the user’s device. 
+
+Input phrase:As a developer, I want to present my App in several ways. 
+As a developer, I desire to show my App in respective manner. 
+As a developer, I want to stage my App in several means. 
+As a developer, I want to award my App in several direction. 
+As a developer, I want to give my App in several way. 
+As a developer, I want to deliver my App in several room. 
+
+Input phrase:As a developer, I want to be able to design my App on my own - though there will be a few rules I have to stand to. 
+As a developer, I desire to be able to plan my App on my own - though there will be a few rule I have to digest to. 
+As a developer, I want to be able to design my App on my own - though there will be a few convention I have to resist to. 
+As a developer, I want to be able to design my App on my own - though there will be a few principle I have to stand to. 
+As a developer, I want to be able to design my App on my own - though there will be a few dominion I have to stand to. 
+As a developer, I want to be able to design my App on my own - though there will be a few rules I have to stand to. 
+
+Input phrase:As a developer, I want to have an easy way to define questions the user can ask and perform. 
+As a developer, I desire to have an comfortable manner to specify question the exploiter can necessitate and do. 
+As a developer, I want to have an easy means to define doubt the drug_user can ask and perform. 
+As a developer, I want to have an easy direction to define motion the user can ask and perform. 
+As a developer, I want to have an easy room to define questions the user can ask and perform. 
+As a developer, I want to have an easy way to define questions the user can ask and perform. 
+
+Input phrase:As a developer, I want to have my App to be granted access to several operating system features. 
+As a developer, I desire to have my App to be allow entree to respective operating arrangement feature. 
+As a developer, I want to have my App to be award access to several operating organization feature_of_speech. 
+As a developer, I want to have my App to be concede access to several operating system features. 
+As a developer, I want to have my App to be accord access to several operating system features. 
+As a developer, I want to have my App to be grant access to several operating system features. 
+
+Input phrase:As a developer, I want to have the API components to be on a high level so that I don’t have to deal with their details. 
+As a developer, I desire to have the API component to be on a eminent degree so that I don’t have to cover with their detail. 
+As a developer, I want to have the API part to be on a gamey grade so that I don’t have to consider with their contingent. 
+As a developer, I want to have the API components to be on a high horizontal_surface so that I don’t have to cope with their details. 
+As a developer, I want to have the API components to be on a high floor so that I don’t have to distribute with their details. 
+As a developer, I want to have the API components to be on a high level so that I don’t have to manage with their details. 
+
+Input phrase:As a developer, I want to have an easy way to read data from health sensors the user is wearing. 
+As a developer, I desire to have an comfortable manner to take datum from health detector the exploiter is wear. 
+As a developer, I want to have an easy means to learn data from health sensors the drug_user is break. 
+As a developer, I want to have an easy direction to understand data from health sensors the user is tire. 
+As a developer, I want to have an easy room to read data from health sensors the user is wearing. 
+As a developer, I want to have an easy way to read data from health sensors the user is wearing. 
+
+Input phrase:As a serious games developer, I want to be able to take control over some functions to provide the desired user experience. 
+As a dangerous game developer, I desire to be able to lead control_condition over some function to supply the desire exploiter experience. 
+As a good plot developer, I want to be able to assume dominance over some affair to put_up the hope drug_user experience. 
+As a unplayful games developer, I want to be able to bring restraint over some routine to leave the desired user experience. 
+As a serious games developer, I want to be able to choose command over some functions to provide the desired user experience. 
+As a serious games developer, I want to be able to accept control over some functions to provide the desired user experience. 
+
+Input phrase:As a developer, I want to provide an easy way to manage the user Settings. 
+As a developer, I desire to supply an comfortable manner to pull_off the exploiter setting. 
+As a developer, I want to put_up an easy means to cope the drug_user mise_en_scene. 
+As a developer, I want to leave an easy direction to oversee the user context. 
+As a developer, I want to provide an easy room to wangle the user place_setting. 
+As a developer, I want to provide an easy way to do the user mount. 
+
+Input phrase:As a developer, I want to have the ALFRED API to reduce the work to achieve my goals. 
+As a developer, I desire to have the ALFRED API to shrink the employment to achieve my goal. 
+As a developer, I want to have the ALFRED API to deoxidize the study to achieve my finish. 
+As a developer, I want to have the ALFRED API to repress the workplace to achieve my goals. 
+As a developer, I want to have the ALFRED API to abridge the oeuvre to achieve my goals. 
+As a developer, I want to have the ALFRED API to boil_down the work to achieve my goals. 
+
+Input phrase:As a developer, I want to have the ALFRED API to reduce the work to achieve my goals.
+As a developer, I desire to have the ALFRED API to shrink the employment to achieve my goal.
+As a developer, I want to have the ALFRED API to deoxidize the study to achieve my finish.
+As a developer, I want to have the ALFRED API to repress the workplace to achieve my goals.
+As a developer, I want to have the ALFRED API to abridge the oeuvre to achieve my goals.
+As a developer, I want to have the ALFRED API to boil_down the work to achieve my goals.
+
+Time for the single dataset = 1.7392 seconds = 0.0005 hours

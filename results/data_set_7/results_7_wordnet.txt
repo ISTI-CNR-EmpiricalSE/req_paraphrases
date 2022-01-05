@@ -1,0 +1,514 @@
+data_set_number:7
+
+Input phrase:As a team member, I want to see the first iteration of beta up on cloud.gov.
+As a team extremity, I desire to understand the inaugural iteration of beta up on cloud.gov.
+As a team penis, I want to witness the beginning iteration of beta up on cloud.gov.
+As a team member, I want to visualize the first iteration of beta up on cloud.gov.
+As a team member, I want to learn the first iteration of beta up on cloud.gov.
+As a team member, I want to watch the first iteration of beta up on cloud.gov.
+
+Input phrase:As a developer, I want to have the subdomain beta.nsf.gov be set up, so that I can deploy a beta site to it.
+As a developer, I desire to have the subdomain beta.nsf.gov be put up, so that I can deploy a beta web_site to it.
+As a developer, I want to have the subdomain beta.nsf.gov be determine up, so that I can deploy a beta site to it.
+As a developer, I want to have the subdomain beta.nsf.gov be specify up, so that I can deploy a beta site to it.
+As a developer, I want to have the subdomain beta.nsf.gov be fix up, so that I can deploy a beta site to it.
+As a developer, I want to have the subdomain beta.nsf.gov be arrange up, so that I can deploy a beta site to it.
+
+Input phrase:As a stakeholder, I want to have a decision on whether or not the blog aggregator may work for beta, and if not what will.
+As a stakeholder, I desire to have a decisiveness on whether or not the web_log collector may function for beta, and if not what will.
+As a stakeholder, I want to have a decision on whether or not the blog aggregator may exercise for beta, and if not what will.
+As a stakeholder, I want to have a decision on whether or not the blog aggregator may make for beta, and if not what will.
+As a stakeholder, I want to have a decision on whether or not the blog aggregator may bring for beta, and if not what will.
+As a stakeholder, I want to have a decision on whether or not the blog aggregator may cultivate for beta, and if not what will.
+
+Input phrase:As an NSF employee, I want to understand the process of switching the cloud.gov hosting plan over from prototype to FISMA low.
+As an national_science_foundation employee, I desire to sympathize the procedure of switch_over the cloud.gov host design over from prototype to FISMA first_gear.
+As an NSF employee, I want to understand the summons of trade the cloud.gov hosting plan over from prototype to FISMA low.
+As an NSF employee, I want to understand the process of switch the cloud.gov hosting plan over from prototype to FISMA low.
+As an NSF employee, I want to understand the process of throw the cloud.gov hosting plan over from prototype to FISMA low.
+As an NSF employee, I want to understand the process of interchange the cloud.gov hosting plan over from prototype to FISMA low.
+
+Input phrase:As a stakeholder, I want to see the results of user research, so that I can determine if the CMS is right for me.
+As a stakeholder, I desire to understand the consequence of exploiter inquiry, so that I can specify if the centimeter is correct for me.
+As a stakeholder, I want to witness the solution of drug_user research, so that I can decide if the curium is proper for me.
+As a stakeholder, I want to visualize the result of user research, so that I can settle if the CMS is good for me.
+As a stakeholder, I want to learn the resultant_role of user research, so that I can determine if the CMS is veracious for me.
+As a stakeholder, I want to watch the results of user research, so that I can determine if the CMS is right for me.
+
+Input phrase:As a designer, I want to have a new social media wireframe, so that I can begin implementing design.
+As a interior_blueprinter, I desire to have a fresh social medium wireframe, so that I can get_down implement blueprint.
+As a architect, I want to have a raw social culture_medium wireframe, so that I can begin enforce purpose.
+As a graphic_inventioner, I want to have a newfangled social metier wireframe, so that I can begin follow_through invention.
+As a couturier, I want to have a modern social media wireframe, so that I can begin implementing design.
+As a designer, I want to have a new social media wireframe, so that I can begin implementing design.
+
+Input phrase:As a team member, I want to have a prioritized list of features and elements of a future social element page, so that I can work with the engineers to determine feasibility.
+As a team extremity, I desire to have a prioritize tilt of feature and component of a future social component page, so that I can function with the engineer to specify feasibility.
+As a team penis, I want to have a prioritized list of feature_of_speech and chemical_chemical_element of a future social chemical_element page, so that I can exercise with the engineers to decide feasibility.
+As a team member, I want to have a prioritized list of features and element of a future social element page, so that I can make with the engineers to settle feasibility.
+As a team member, I want to have a prioritized list of features and elements of a future social element page, so that I can bring with the engineers to determine feasibility.
+As a team member, I want to have a prioritized list of features and elements of a future social element page, so that I can cultivate with the engineers to determine feasibility.
+
+Input phrase:As a team member, I want to determine a design direction for the beta social page, so that we can implement a beta site quickly without established brand guidelines.
+As a team extremity, I desire to specify a blueprint guidance for the beta social page, so that we can enforce a beta web_site promptly without accomplished trade_name guideline.
+As a team penis, I want to decide a purpose management for the beta social page, so that we can follow_through a beta site cursorily without conventional mark road_map.
+As a team member, I want to settle a invention steering for the beta social page, so that we can implement a beta site quickly without established sword guidepost.
+As a team member, I want to determine a design commission for the beta social page, so that we can implement a beta site quickly without established brand guidelines.
+As a team member, I want to determine a design focus for the beta social page, so that we can implement a beta site quickly without established brand guidelines.
+
+Input phrase:As a user researcher, I want to test the user research plan, so that I make sure the in-person interviews are effective and capturing the right information.
+As a exploiter inquiry_worker, I desire to screen the exploiter inquiry design, so that I induce certain the in-person interview are effective and capture the correct data.
+As a drug_drug_user researcher, I want to quiz the drug_drug_user research plan, so that I cause indisputable the in-person consultation are effective and get the proper information.
+As a user researcher, I want to test the user research plan, so that I produce sure the in-person interviews are effective and appropriate the good information.
+As a user researcher, I want to test the user research plan, so that I draw sure the in-person interviews are effective and capturing the veracious information.
+As a user researcher, I want to test the user research plan, so that I create sure the in-person interviews are effective and capturing the right information.
+
+Input phrase:As a user researcher, I want to have the finalized OLPA task script, so that I can begin testing with internal users.
+As a exploiter research_worker, I desire to have the finalized OLPA undertaking handwriting, so that I can get_down test with home exploiters.
+As a drug_user researcher, I want to have the finalized OLPA job script, so that I can begin screen with inner drug_exploiter.
+As a user researcher, I want to have the finalized OLPA task script, so that I can begin quiz with internal drug_user.
+As a user researcher, I want to have the finalized OLPA task script, so that I can begin testing with internal users.
+As a user researcher, I want to have the finalized OLPA task script, so that I can begin testing with internal users.
+
+Input phrase:As a content editor, I want to be able to easily find content, so that I can edit it.
+As a message editor_program, I desire to be able to well detect message, so that I can edit it.
+As a capacity editor, I want to be able to easily determine capacity, so that I can edit it.
+As a contentednessedness editor, I want to be able to easily witness contentednessedness, so that I can edit it.
+As a subject editor, I want to be able to easily line_up subject, so that I can edit it.
+As a content editor, I want to be able to easily discover content, so that I can edit it.
+
+Input phrase:As a research participant, I want to make sure that the appearance of the prototype does not distract from the workflow, so that I can complete the user interview.
+As a inquiry player, I desire to induce certain that the appearance of the prototype does not perturb from the work_flow, so that I can dispatch the exploiter consultation.
+As a research participant, I want to cause indisputable that the appearance of the prototype does not distract from the workflow, so that I can complete the drug_user interview.
+As a research participant, I want to produce sure that the appearance of the prototype does not distract from the workflow, so that I can complete the user interview.
+As a research participant, I want to draw sure that the appearance of the prototype does not distract from the workflow, so that I can complete the user interview.
+As a research participant, I want to create sure that the appearance of the prototype does not distract from the workflow, so that I can complete the user interview.
+
+Input phrase:As a user researcher, I want to have the WIG prototype, so that I can finalize the second task script.
+As a exploiter research_worker, I desire to have the WIG prototype, so that I can finalize the second undertaking handwriting.
+As a drug_user researcher, I want to have the WIG prototype, so that I can finalize the second job script.
+As a user researcher, I want to have the WIG prototype, so that I can finalize the second task script.
+As a user researcher, I want to have the WIG prototype, so that I can finalize the second task script.
+As a user researcher, I want to have the WIG prototype, so that I can finalize the second task script.
+
+Input phrase:As a user, I want to add a video to my article.
+As a exploiter, I desire to lend a video_recording to my article.
+As a drug_user, I want to total a television to my article.
+As a user, I want to add a video to my article.
+As a user, I want to add a video to my article.
+As a user, I want to add a video to my article.
+
+Input phrase:As a team member, I want to meet with DIS / cloud.gov, so that I can determine the requirements for the beta.nsf.gov ATO.
+As a team extremity, I desire to converge with DIS / cloud.gov, so that I can specify the requirement for the beta.nsf.gov ATO.
+As a team penis, I want to suffer with DIS / cloud.gov, so that I can decide the necessity for the beta.nsf.gov ATO.
+As a team member, I want to touch with DIS / cloud.gov, so that I can settle the prerequisite for the beta.nsf.gov ATO.
+As a team member, I want to meet with DIS / cloud.gov, so that I can determine the requirements for the beta.nsf.gov ATO.
+As a team member, I want to meet with DIS / cloud.gov, so that I can determine the requirements for the beta.nsf.gov ATO.
+
+Input phrase:As a user researcher, I want to have a list of priority workflow candidates that we might test, so that I can make sure we're capturing the priority areas.
+As a exploiter research_worker, I desire to have a tilt of precedence work_flow campaigner that we might screen, so that I can induce certain we're capture the precedence area.
+As a drug_user researcher, I want to have a list of priority workflow candidate that we might quiz, so that I can cause indisputable we're get the priority sphere.
+As a user researcher, I want to have a list of priority workflow candidates that we might test, so that I can produce sure we're appropriate the priority areas.
+As a user researcher, I want to have a list of priority workflow candidates that we might test, so that I can draw sure we're capturing the priority areas.
+As a user researcher, I want to have a list of priority workflow candidates that we might test, so that I can create sure we're capturing the priority areas.
+
+Input phrase:As a team member, I want to understand what the MVP should look like, so that I can begin understanding workflow needs as they pertain to any CMS decision.
+As a team extremity, I desire to sympathize what the most_valuable_player should search wish, so that I can get_down sympathizeing work_flow need as they refer to any centimeter decisiveness.
+As a team penis, I want to understand what the MVP should front alike, so that I can begin sympathize workflow motivation as they pertain to any curium decision.
+As a team member, I want to understand what the MVP should attend comparable, so that I can begin understanding workflow indigence as they pertain to any CMS decision.
+As a team member, I want to understand what the MVP should expect like, so that I can begin understanding workflow needs as they pertain to any CMS decision.
+As a team member, I want to understand what the MVP should count like, so that I can begin understanding workflow needs as they pertain to any CMS decision.
+
+Input phrase:As an NSF administrator, I want to shadow the CMS implementation, so that I can learn as the prototype is developed further.
+As an national_science_foundation administrator, I desire to shadow the centimeter execution, so that I can memorize as the prototype is develop further.
+As an NSF administrator, I want to shadow the curium implementation, so that I can teach as the prototype is evolve further.
+As an NSF administrator, I want to shadow the CMS implementation, so that I can determine as the prototype is grow further.
+As an NSF administrator, I want to shadow the CMS implementation, so that I can learn as the prototype is originate further.
+As an NSF administrator, I want to shadow the CMS implementation, so that I can learn as the prototype is build_up further.
+
+Input phrase:As a team member, I want to have an updated acquisitions roadmap, so that I can plan accordingly.
+As a team extremity, I desire to have an update acquisition roadmap, so that I can design consequently.
+As a team penis, I want to have an updated learning roadmap, so that I can plan accordingly.
+As a team member, I want to have an updated skill roadmap, so that I can plan accordingly.
+As a team member, I want to have an updated acquisitions roadmap, so that I can plan accordingly.
+As a team member, I want to have an updated acquisitions roadmap, so that I can plan accordingly.
+
+Input phrase:As an NSF employee, I want to have an updated roadmap document, so that I can see prioritized areas to focus on for the next few months and beyond.
+As an national_science_foundation employee, I desire to have an update roadmap text_file, so that I can understand prioritize area to concentrate on for the following few calendar_month and beyond.
+As an NSF employee, I want to have an updated roadmap document, so that I can witness prioritized sphere to concenter on for the adjacent few month and beyond.
+As an NSF employee, I want to have an updated roadmap document, so that I can visualize prioritized areas to focus on for the future few months and beyond.
+As an NSF employee, I want to have an updated roadmap document, so that I can learn prioritized areas to focus on for the next few months and beyond.
+As an NSF employee, I want to have an updated roadmap document, so that I can watch prioritized areas to focus on for the next few months and beyond.
+
+Input phrase:As a team member, I want to understand how time off overlaps with plans around the user research.
+As a team extremity, I desire to sympathize how clock_time off overlap with plan about the exploiter inquiry.
+As a team penis, I want to understand how fourth_dimension off lap with design approximately the drug_user research.
+As a team member, I want to understand how meter off overlaps with plans round the user research.
+As a team member, I want to understand how prison_term off overlaps with plans around the user research.
+As a team member, I want to understand how time off overlaps with plans around the user research.
+
+Input phrase:As a researcher, I want to develop the user research protocol for internal workflows, so that we can begin testing against a CMS prototype.
+As a inquiry_worker, I desire to evolve the exploiter inquiry protocol for home work_flow, so that we can get_down test against a centimeter prototype.
+As a researcher, I want to grow the drug_user research protocol for inner workflows, so that we can begin screen against a curium prototype.
+As a researcher, I want to originate the user research protocol for internal workflows, so that we can begin quiz against a CMS prototype.
+As a researcher, I want to build_up the user research protocol for internal workflows, so that we can begin testing against a CMS prototype.
+As a researcher, I want to explicate the user research protocol for internal workflows, so that we can begin testing against a CMS prototype.
+
+Input phrase:As a CMS administrator, I want to have roles, so that I can assign them to my users.
+As a centimeter administrator, I desire to have function, so that I can delegate them to my user.
+As a curium administrator, I want to have character, so that I can impute them to my exploiter.
+As a CMS administrator, I want to have role, so that I can put them to my drug_user.
+As a CMS administrator, I want to have roles, so that I can arrogate them to my users.
+As a CMS administrator, I want to have roles, so that I can assign them to my users.
+
+Input phrase:As an NSF employee, I want to narrow down the universe of CMS options and identify/prioritize key considerations for getting to the next step.
+As an national_science_foundation employee, I desire to pin_down down the population of centimeter option and name/prioritize cardinal consideration for get to the following measure.
+As an NSF employee, I want to specialize down the universe of curium choice and identify/prioritize key circumstance for become to the adjacent footstep.
+As an NSF employee, I want to constrict down the universe of CMS options and identify/prioritize key retainer for receive to the future gradation.
+As an NSF employee, I want to narrow down the universe of CMS options and identify/prioritize key considerations for arrive to the next footfall.
+As an NSF employee, I want to narrow down the universe of CMS options and identify/prioritize key considerations for bring to the next tone.
+
+Input phrase:As an NSF employee, I want to have a final workshop to identify key lessons and features for the content management system decision.
+As an national_science_foundation employee, I desire to have a concluding workshop to name cardinal lesson and feature for the message management arrangement decisiveness.
+As an NSF employee, I want to have a final workshop to identify key example and feature_of_speech for the capacity management organization decision.
+As an NSF employee, I want to have a final workshop to identify key moral and features for the contentedness management system decision.
+As an NSF employee, I want to have a final workshop to identify key lessons and features for the subject management system decision.
+As an NSF employee, I want to have a final workshop to identify key lessons and features for the content management system decision.
+
+Input phrase:As a CMS SME, I want to see the webmaster workflow report, so that I can understand how this might impact current direction.
+As a centimeter SME, I desire to sympathize the webmaster work_flow report_card, so that I can sympathize how this might affect current guidance.
+As a curium SME, I want to witness the webmaster workflow composition, so that I can understand how this might impact current management.
+As a CMS SME, I want to visualize the webmaster workflow reputation, so that I can understand how this might impact current steering.
+As a CMS SME, I want to learn the webmaster workflow report, so that I can understand how this might impact current commission.
+As a CMS SME, I want to watch the webmaster workflow report, so that I can understand how this might impact current focus.
+
+Input phrase:As an NSF employee, I want to understand work performed, so that I can understand when and what I can use later.
+As an national_science_foundation employee, I desire to sympathize employment perform, so that I can sympathize when and what I can practice subsequently.
+As an NSF employee, I want to understand study do, so that I can understand when and what I can use by_and_by.
+As an NSF employee, I want to understand workplace performed, so that I can understand when and what I can use later.
+As an NSF employee, I want to understand oeuvre performed, so that I can understand when and what I can use later.
+As an NSF employee, I want to understand work performed, so that I can understand when and what I can use later.
+
+Input phrase:As a researcher, I want to recruit for the last round of user research, so that we can summarize our findings and synthesize results.
+As a inquiry_worker, I desire to enroll for the concluding cycle of exploiter inquiry, so that we can sum_up our determination and synthesize consequence.
+As a researcher, I want to recruit for the final beat of drug_user research, so that we can summarize our finding and synthesize solution.
+As a researcher, I want to recruit for the last round_of_golf of user research, so that we can summarize our findings and synthesize result.
+As a researcher, I want to recruit for the last turn of user research, so that we can summarize our findings and synthesize resultant_role.
+As a researcher, I want to recruit for the last rung of user research, so that we can summarize our findings and synthesize results.
+
+Input phrase:As a user researcher, I want to continue scheduling interviews for hypothesis #1, so that I can be prepared to test our first prototype.
+As a exploiter research_worker, I desire to proceed schedule interview for guess #one, so that I can be fix to screen our inaugural prototype.
+As a drug_user researcher, I want to retain scheduling consultation for hypothesis #1, so that I can be cook to quiz our beginning prototype.
+As a user researcher, I want to stay scheduling interviews for hypothesis #1, so that I can be prepare to test our first prototype.
+As a user researcher, I want to cover scheduling interviews for hypothesis #1, so that I can be organize to test our first prototype.
+As a user researcher, I want to continue scheduling interviews for hypothesis #1, so that I can be train to test our first prototype.
+
+Input phrase:As an NSF employee, I want to have high-level strategy recommendations to implement in conjunction with the new CMS.
+As an national_science_foundation employee, I desire to have eminent-degree scheme recommendation to enforce in concurrence with the fresh centimeter.
+As an NSF employee, I want to have gamey-grade strategy recommendations to follow_through in junction with the raw curium.
+As an NSF employee, I want to have high-horizontal_surface strategy recommendations to implement in conjunction with the newfangled CMS.
+As an NSF employee, I want to have high-floor strategy recommendations to implement in conjunction with the modern CMS.
+As an NSF employee, I want to have high-level strategy recommendations to implement in conjunction with the new CMS.
+
+Input phrase:As an NSF employee, I want to have editorial-planning recommendations, so that I can understand how they might impact an eventual CMS / future web presence.
+As an national_science_foundation employee, I desire to have column-plan recommendation, so that I can sympathize how they might affect an eventual centimeter / future vane bearing.
+As an NSF employee, I want to have editorial-design recommendations, so that I can understand how they might impact an eventual curium / future network presence.
+As an NSF employee, I want to have editorial-planning recommendations, so that I can understand how they might impact an eventual CMS / future world_wide_web presence.
+As an NSF employee, I want to have editorial-planning recommendations, so that I can understand how they might impact an eventual CMS / future web presence.
+As an NSF employee, I want to have editorial-planning recommendations, so that I can understand how they might impact an eventual CMS / future web presence.
+
+Input phrase:As an NSF employee, I want to know how brand guidelines are developed and maintained, so that I can incorporate them throughout the project.
+As an national_science_foundation employee, I desire to acknowledge how trade_name guideline are develop and keep, so that I can integrate them passim the undertaking.
+As an NSF employee, I want to sleep_together how mark road_map are evolve and conserve, so that I can incorporate them throughout the project.
+As an NSF employee, I want to know how sword guidepost are grow and sustain, so that I can incorporate them throughout the project.
+As an NSF employee, I want to know how brand guidelines are originate and assert, so that I can incorporate them throughout the project.
+As an NSF employee, I want to know how brand guidelines are build_up and wield, so that I can incorporate them throughout the project.
+
+Input phrase:As a web recruiter manager, I want to confirm the recruiter is set up and working properly on Science360.gov.
+As a vane recruiter director, I desire to confirm the recruiter is put up and work by_rights on Science360.gov.
+As a network recruiter coach, I want to confirm the recruiter is determine up and function properly on Science360.gov.
+As a world_wide_web recruiter manager, I want to confirm the recruiter is specify up and exercise properly on Science360.gov.
+As a web recruiter manager, I want to confirm the recruiter is fix up and make properly on Science360.gov.
+As a web recruiter manager, I want to confirm the recruiter is arrange up and bring properly on Science360.gov.
+
+Input phrase:As an NSF employee, I want to know how visual design directions were developed, so that I can make better design decisions in the future.
+As an national_science_foundation employee, I desire to acknowledge how ocular blueprint direction were develop, so that I can induce good blueprint decision in the future.
+As an NSF employee, I want to sleep_together how visual purpose guidance were evolve, so that I can cause full purpose decisiveness in the future.
+As an NSF employee, I want to know how visual invention management were grow, so that I can produce estimable invention decisions in the future.
+As an NSF employee, I want to know how visual design steering were originate, so that I can draw beneficial design decisions in the future.
+As an NSF employee, I want to know how visual design commission were build_up, so that I can create adept design decisions in the future.
+
+Input phrase:As a team member, I want to know what the first hypothesis is, so that I can start developing a prototype to test.
+As a team extremity, I desire to acknowledge what the inaugural guess is, so that I can get_down develop a prototype to screen.
+As a team penis, I want to sleep_together what the beginning hypothesis is, so that I can begin evolve a prototype to quiz.
+As a team member, I want to know what the first hypothesis is, so that I can depart grow a prototype to test.
+As a team member, I want to know what the first hypothesis is, so that I can originate originate a prototype to test.
+As a team member, I want to know what the first hypothesis is, so that I can startle build_up a prototype to test.
+
+Input phrase:As a content designer, I want to develop a better understanding of NSF's content types and editorial plan, so that I can make more informed recommendations going forward.
+As a message interior_designer, I desire to evolve a good agreement of national_science_foundation's message type and column design, so that I can induce more informed recommendation travel forth.
+As a capacity architect, I want to grow a full sympathy of NSF's capacity character and editorial plan, so that I can cause more informed recommendations go ahead.
+As a contentednessedness graphic_designer, I want to originate a estimable reason of NSF's contentednessedness types and editorial plan, so that I can produce more informed recommendations become fore.
+As a subject couturier, I want to build_up a beneficial understanding of NSF's subject types and editorial plan, so that I can draw more informed recommendations run forward.
+As a content designer, I want to explicate a adept understanding of NSF's content types and editorial plan, so that I can create more informed recommendations proceed forward.
+
+Input phrase:As a team member, I want to have a prototype strategy, so that I understand how we will gain understandings from tests that will drive recommendations.
+As a team extremity, I desire to have a prototype scheme, so that I sympathize how we will derive sympathizeings from trial that will force recommendation.
+As a team penis, I want to have a prototype strategy, so that I understand how we will acquire agreement from test that will repel recommendations.
+As a team member, I want to have a prototype strategy, so that I understand how we will profit sympathy from examination that will tug recommendations.
+As a team member, I want to have a prototype strategy, so that I understand how we will reach reason from tests that will drive recommendations.
+As a team member, I want to have a prototype strategy, so that I understand how we will advance understandings from tests that will drive recommendations.
+
+Input phrase:As a content designer, I want to demonstrate the value of user-centered content design to ensure it's an integral part of our recommendations.
+As a message interior_blueprinter, I desire to show the value of exploiter-focus_on message blueprint to guarantee it's an built-in region of our recommendation.
+As a capacity architect, I want to prove the value of drug_user-concentrate capacity purpose to see it's an integral function of our recommendations.
+As a contentednessedness graphic_inventioner, I want to attest the value of user-center contentednessedness invention to ensure it's an integral character of our recommendations.
+As a subject couturier, I want to demonstrate the value of user-centered subject design to ensure it's an integral share of our recommendations.
+As a content designer, I want to demonstrate the value of user-centered content design to ensure it's an integral contribution of our recommendations.
+
+Input phrase:As a user researcher, I want to know when outreach to lists is successful, so that I can plan on a new release to the next listserv on the priority list.
+As a exploiter research_worker, I desire to acknowledge when outreach to tilt is successful, so that I can design on a fresh liberation to the following tilterv on the precedence tilt.
+As a drug_user researcher, I want to sleep_together when outreach to tilt is successful, so that I can plan on a raw handout to the adjacent tilterv on the priority list.
+As a user researcher, I want to know when outreach to lists is successful, so that I can plan on a newfangled dismissal to the future listserv on the priority list.
+As a user researcher, I want to know when outreach to lists is successful, so that I can plan on a modern passing to the next listserv on the priority list.
+As a user researcher, I want to know when outreach to lists is successful, so that I can plan on a new acquittance to the next listserv on the priority list.
+
+Input phrase:As an NSF employee, I want to schedule regular in-person check-ins, so that we can continue to communicate the goals of the project with our stakeholders.
+As an national_science_foundation employee, I desire to schedule even in-person assay-immigration_and_naturalization_service, so that we can proceed to convey the goal of the undertaking with our stakeholder.
+As an NSF employee, I want to schedule unconstipated in-person arrest-inch, so that we can retain to commune the finish of the project with our stakeholders.
+As an NSF employee, I want to schedule regular in-person confirmation-indium, so that we can stay to communicate the goals of the project with our stakeholders.
+As an NSF employee, I want to schedule regular in-person check_mark-indiana, so that we can cover to communicate the goals of the project with our stakeholders.
+As an NSF employee, I want to schedule regular in-person hindrance-ins, so that we can continue to communicate the goals of the project with our stakeholders.
+
+Input phrase:As a developer, I want to know what the three initial hypotheses are, so that I can plan work around development of prototypes.
+As a developer, I desire to acknowledge what the trey initial hypothesis are, so that I can design function about growth of prototype.
+As a developer, I want to sleep_together what the three initial guess are, so that I can plan exercise approximately exploitation of prototypes.
+As a developer, I want to know what the three initial hypotheses are, so that I can plan make round development of prototypes.
+As a developer, I want to know what the three initial hypotheses are, so that I can plan bring around development of prototypes.
+As a developer, I want to know what the three initial hypotheses are, so that I can plan cultivate around development of prototypes.
+
+Input phrase:As a workshop attendee, I want to have a summary of what we learned, so that I can understand our next steps and how they apply to me.
+As a workshop attendant, I desire to have a summary of what we learn, so that I can sympathize our following stairs and how they use to me.
+As a workshop attendee, I want to have a summary of what we memorize, so that I can understand our adjacent measure and how they put_on to me.
+As a workshop attendee, I want to have a summary of what we teach, so that I can understand our future footstep and how they lend_oneself to me.
+As a workshop attendee, I want to have a summary of what we determine, so that I can understand our next step and how they give to me.
+As a workshop attendee, I want to have a summary of what we learned, so that I can understand our next gradation and how they practice to me.
+
+Input phrase:As a designer, I want to know what early indications of hypotheses might be, so that I can start planning for the first prototype.
+As a interior_designer, I desire to acknowledge what early indication of hypothesis might be, so that I can get_down plan for the inaugural prototype.
+As a architect, I want to sleep_together what early reading of guess might be, so that I can begin design for the beginning prototype.
+As a graphic_designer, I want to know what early indications of hypotheses might be, so that I can depart planning for the first prototype.
+As a couturier, I want to know what early indications of hypotheses might be, so that I can originate planning for the first prototype.
+As a designer, I want to know what early indications of hypotheses might be, so that I can startle planning for the first prototype.
+
+Input phrase:As a team member, I want to have a schedule of more coworking slots, so that I can work in tandem with the rest of the team on a more regular basis.
+As a team extremity, I desire to have a agenda of more cofunctioning slot, so that I can function in bicycle-built-for-two with the remainder of the team on a more even footing.
+As a team penis, I want to have a schedule of more coexerciseing time_slot, so that I can exercise in tandem with the respite of the team on a more unconstipated basis.
+As a team member, I want to have a schedule of more comakeing slots, so that I can make in tandem with the rest of the team on a more regular basis.
+As a team member, I want to have a schedule of more cobringing slots, so that I can bring in tandem with the rest of the team on a more regular basis.
+As a team member, I want to have a schedule of more cocultivateing slots, so that I can cultivate in tandem with the rest of the team on a more regular basis.
+
+Input phrase:As an NSF person interested in attending user interviews, I want to know when they are scheduled and the type of user that will be interviewed.
+As an national_science_foundation person concerned in attend exploiter interview, I desire to acknowledge when they are schedule and the character of exploiter that will be interview.
+As an NSF person interested in serve drug_drug_user consultation, I want to sleep_together when they are scheduled and the type of drug_drug_user that will be interviewed.
+As an NSF person interested in attending user interviews, I want to know when they are scheduled and the type of user that will be interviewed.
+As an NSF person interested in attending user interviews, I want to know when they are scheduled and the type of user that will be interviewed.
+As an NSF person interested in attending user interviews, I want to know when they are scheduled and the type of user that will be interviewed.
+
+Input phrase:As an NSF member of the team, I want to have a place where I can access all the related reports and documentation, so that I can refer to it easily now and in the future.
+As an national_science_foundation extremity of the team, I desire to have a topographic_point where I can access all the related report and software_documentation, so that I can mention to it well now and in the future.
+As an NSF penis of the team, I want to have a stead where I can access all the related report_card and documentation, so that I can consult to it easily now and in the future.
+As an NSF member of the team, I want to have a home where I can access all the related composition and documentation, so that I can denote to it easily now and in the future.
+As an NSF member of the team, I want to have a position where I can access all the related reputation and documentation, so that I can refer to it easily now and in the future.
+As an NSF member of the team, I want to have a seat where I can access all the related reports and documentation, so that I can refer to it easily now and in the future.
+
+Input phrase:As a team member, I want to know when the mid-point checkin is and what will be covered, so that I can plan accordingly.
+As a team extremity, I desire to acknowledge when the mid-detail checkin is and what will be cover, so that I can design consequently.
+As a team penis, I want to sleep_together when the mid-degree checkin is and what will be embrace, so that I can plan accordingly.
+As a team member, I want to know when the mid-item checkin is and what will be traverse, so that I can plan accordingly.
+As a team member, I want to know when the mid-compass_point checkin is and what will be report, so that I can plan accordingly.
+As a team member, I want to know when the mid-period checkin is and what will be shroud, so that I can plan accordingly.
+
+Input phrase:As an NSF employee, I want to join Github, so that I can participate in the issues as assigned.
+As an national_science_foundation employee, I desire to connect Github, so that I can enter in the issue as delegate.
+As an NSF employee, I want to join Github, so that I can participate in the topic as assign.
+As an NSF employee, I want to join Github, so that I can participate in the return as impute.
+As an NSF employee, I want to join Github, so that I can participate in the consequence as put.
+As an NSF employee, I want to join Github, so that I can participate in the offspring as arrogate.
+
+Input phrase:As an NSF employee, I want to learn about how Github is used, so that I can participate in the issues as assigned.
+As an national_science_foundation employee, I desire to memorize about how Github is use, so that I can enter in the issue as delegate.
+As an NSF employee, I want to teach about how Github is practice, so that I can participate in the topic as assign.
+As an NSF employee, I want to determine about how Github is used, so that I can participate in the return as impute.
+As an NSF employee, I want to learn about how Github is used, so that I can participate in the consequence as put.
+As an NSF employee, I want to learn about how Github is used, so that I can participate in the offspring as arrogate.
+
+Input phrase:As a user researcher, I want to begin identifying interview participants, so that I can understand what educators and science influencers need from a future nsf.gov website.
+As a exploiter research_worker, I desire to get_down identify consultation participant, so that I can sympathize what educator and skill influencers necessitate from a future nsf.gov web_site.
+As a drug_user researcher, I want to begin name interview player, so that I can understand what educators and science influencers want from a future nsf.gov website.
+As a user researcher, I want to begin identifying interview participants, so that I can understand what educators and science influencers need from a future nsf.gov website.
+As a user researcher, I want to begin identifying interview participants, so that I can understand what educators and science influencers need from a future nsf.gov website.
+As a user researcher, I want to begin identifying interview participants, so that I can understand what educators and science influencers need from a future nsf.gov website.
+
+Input phrase:As a VisualDesigner, I want to concept different styles for the nsf.gov website, so that we can discuss different design concepts with stakeholders.
+As a VisualDesigner, I desire to concept unlike manner for the nsf.gov web_site, so that we can discourse unlike blueprint concept with stakeholder.
+As a VisualDesigner, I want to concept different expressive_style for the nsf.gov website, so that we can hash_out different purpose concepts with stakeholders.
+As a VisualDesigner, I want to concept different style for the nsf.gov website, so that we can discuss different invention concepts with stakeholders.
+As a VisualDesigner, I want to concept different vogue for the nsf.gov website, so that we can discuss different design concepts with stakeholders.
+As a VisualDesigner, I want to concept different dash for the nsf.gov website, so that we can discuss different design concepts with stakeholders.
+
+Input phrase:As a user researcher, I want to set up a website recruitment test, so that I can see if we can recruit users in real time from the website.
+As a exploiter research_worker, I desire to put up a web_site enrollment trial, so that I can understand if we can enroll exploiters in actual clock_time from the web_site.
+As a drug_user researcher, I want to determine up a website recruitment examination, so that I can witness if we can recruit drug_exploiter in substantial fourth_dimension from the website.
+As a user researcher, I want to specify up a website recruitment test, so that I can visualize if we can recruit drug_user in veridical meter from the website.
+As a user researcher, I want to fix up a website recruitment test, so that I can learn if we can recruit users in real prison_term from the website.
+As a user researcher, I want to arrange up a website recruitment test, so that I can watch if we can recruit users in real time from the website.
+
+Input phrase:As a web recruiter manager, I want to confirm the recruiter is set up and working properly, so that I can deploy it on more pages.
+As a vane recruiter director, I desire to confirm the recruiter is put up and work by_rights, so that I can deploy it on more page.
+As a network recruiter coach, I want to confirm the recruiter is determine up and function properly, so that I can deploy it on more pages.
+As a world_wide_web recruiter manager, I want to confirm the recruiter is specify up and exercise properly, so that I can deploy it on more pages.
+As a web recruiter manager, I want to confirm the recruiter is fix up and make properly, so that I can deploy it on more pages.
+As a web recruiter manager, I want to confirm the recruiter is arrange up and bring properly, so that I can deploy it on more pages.
+
+Input phrase:As a VisualDesigner, I want to create a moodboard to aid with visual design concepts for the nsf.gov website, so that we can discuss different design concepts with stakeholders.
+As a VisualDesigner, I desire to make a moodboard to help with ocular blueprint concept for the nsf.gov web_site, so that we can discourse unlike blueprint concept with stakeholder.
+As a VisualDesigner, I want to produce a moodboard to aid with visual purpose concepts for the nsf.gov website, so that we can hash_out different purpose concepts with stakeholders.
+As a VisualDesigner, I want to create a moodboard to aid with visual invention concepts for the nsf.gov website, so that we can discuss different invention concepts with stakeholders.
+As a VisualDesigner, I want to create a moodboard to aid with visual design concepts for the nsf.gov website, so that we can discuss different design concepts with stakeholders.
+As a VisualDesigner, I want to create a moodboard to aid with visual design concepts for the nsf.gov website, so that we can discuss different design concepts with stakeholders.
+
+Input phrase:As a workshop attendee, I want to see a summary on major findings from the event.
+As a workshop attendant, I desire to understand a summary on major determination from the consequence.
+As a workshop attendee, I want to witness a summary on major finding from the event.
+As a workshop attendee, I want to visualize a summary on major findings from the event.
+As a workshop attendee, I want to learn a summary on major findings from the event.
+As a workshop attendee, I want to watch a summary on major findings from the event.
+
+Input phrase:As a user researcher, I want to make sure the correct NSF people are invited to user interviews, so that they can observe the interviews and make recommendations accordingly.
+As a exploiter research_worker, I desire to induce certain the right national_science_foundation citizenry are invite to exploiter interview, so that they can detect the interview and induce recommendation consequently.
+As a drug_user researcher, I want to cause indisputable the correct NSF multitude are tempt to drug_user consultation, so that they can note the consultation and cause recommendations accordingly.
+As a user researcher, I want to produce sure the correct NSF people are receive to user interviews, so that they can respect the interviews and produce recommendations accordingly.
+As a user researcher, I want to draw sure the correct NSF people are invited to user interviews, so that they can watch the interviews and draw recommendations accordingly.
+As a user researcher, I want to create sure the correct NSF people are invited to user interviews, so that they can observe the interviews and create recommendations accordingly.
+
+Input phrase:As a user researcher, I want to begin drafting a research plan, so that I can begin recruiting participants.
+As a exploiter inquiry_worker, I desire to get_down draft a inquiry design, so that I can get_down enroll participant.
+As a drug_user researcher, I want to begin enlist a research plan, so that I can begin recruit player.
+As a user researcher, I want to begin blueprint a research plan, so that I can begin recruiting participants.
+As a user researcher, I want to begin drafting a research plan, so that I can begin recruiting participants.
+As a user researcher, I want to begin drafting a research plan, so that I can begin recruiting participants.
+
+Input phrase:As a content editor, I want to be able to add videos from Brightcove.
+As a message editor_program, I desire to be able to lend video from Brightcove.
+As a capacity editor, I want to be able to total video_recording from Brightcove.
+As a contentedness editor, I want to be able to add television from Brightcove.
+As a subject editor, I want to be able to add videos from Brightcove.
+As a content editor, I want to be able to add videos from Brightcove.
+
+Input phrase:As an author, I want to be able to indent / outdent content.
+As an writer, I desire to be able to indenture / outdent message.
+As an generator, I want to be able to indent / outdent capacity.
+As an author, I want to be able to indent / outdent contentedness.
+As an author, I want to be able to indent / outdent subject.
+As an author, I want to be able to indent / outdent content.
+
+Input phrase:As a VisualDesigner, I want to demonstrate the value of visual design to the NSF project team, so that visual design is an integral part of a redesign.
+As a VisualDesigner, I desire to show the value of ocular blueprint to the national_science_foundation undertaking team, so that ocular blueprint is an built-in region of a reblueprint.
+As a VisualDesigner, I want to prove the value of visual purpose to the NSF project team, so that visual purpose is an integral function of a repurpose.
+As a VisualDesigner, I want to attest the value of visual invention to the NSF project team, so that visual invention is an integral character of a reinvention.
+As a VisualDesigner, I want to demonstrate the value of visual design to the NSF project team, so that visual design is an integral share of a redesign.
+As a VisualDesigner, I want to demonstrate the value of visual design to the NSF project team, so that visual design is an integral contribution of a redesign.
+
+Input phrase:As a team member, I want to know what visual design related tasks we might need to plan for this sprint, so that I can assign tasks as necessary.
+As a team extremity, I desire to acknowledge what ocular blueprint associate undertaking we might necessitate to design for this dash, so that I can delegate undertaking as necessary.
+As a team penis, I want to sleep_together what visual purpose refer job we might want to plan for this sprint, so that I can impute job as necessary.
+As a team member, I want to know what visual invention relate tasks we might need to plan for this sprint, so that I can put tasks as necessary.
+As a team member, I want to know what visual design related tasks we might need to plan for this sprint, so that I can arrogate tasks as necessary.
+As a team member, I want to know what visual design related tasks we might need to plan for this sprint, so that I can assign tasks as necessary.
+
+Input phrase:As a team member, I want to have recruiting-email templates ready to go, so that I can start recruiting interviewees ASAP!.
+As a team extremity, I desire to have enroll-electronic_mail template quick to travel, so that I can get_down enroll interviewees ASAP!.
+As a team penis, I want to have recruit-email templates ready to become, so that I can begin recruit interviewees ASAP!.
+As a team member, I want to have recruiting-email templates ready to run, so that I can depart recruiting interviewees ASAP!.
+As a team member, I want to have recruiting-email templates ready to proceed, so that I can originate recruiting interviewees ASAP!.
+As a team member, I want to have recruiting-email templates ready to sound, so that I can startle recruiting interviewees ASAP!.
+
+Input phrase:As an NSF employee, I want to see how the user recruitment form looks and behaves on a sample page, so that I can understand the impact the recruitment will have on the NSF page.
+As an national_science_foundation employee, I desire to sympathize how the exploiter recruitment kind look and behaves on a sample_distribution page, so that I can sympathize the impingement the recruitment will have on the national_science_foundation page.
+As an NSF employee, I want to witness how the drug_user recruitment shape search and behaves on a sample page, so that I can understand the shock the recruitment will have on the NSF page.
+As an NSF employee, I want to visualize how the user recruitment human_body front and behaves on a sample page, so that I can understand the impact the recruitment will have on the NSF page.
+As an NSF employee, I want to learn how the user recruitment phase attend and behaves on a sample page, so that I can understand the impact the recruitment will have on the NSF page.
+As an NSF employee, I want to watch how the user recruitment class expect and behaves on a sample page, so that I can understand the impact the recruitment will have on the NSF page.
+
+Input phrase:As a potential research participant, I want to learn about the research and leave my contact information.
+As a likely inquiry player, I desire to memorize about the inquiry and exit my liaison data.
+As a potential research participant, I want to teach about the research and entrust my contact information.
+As a potential research participant, I want to determine about the research and bequeath my contact information.
+As a potential research participant, I want to learn about the research and impart my contact information.
+As a potential research participant, I want to learn about the research and forget my contact information.
+
+Input phrase:As a team member, I want to have a high-level sense of the project timeline, so that I can plan my work.
+As a team extremity, I desire to have a eminent-degree common_sense of the undertaking timeline, so that I can design my employment.
+As a team penis, I want to have a gamey-grade sense of the project timeline, so that I can plan my study.
+As a team member, I want to have a high-horizontal_surface sense of the project timeline, so that I can plan my workplace.
+As a team member, I want to have a high-floor sense of the project timeline, so that I can plan my oeuvre.
+As a team member, I want to have a high-level sense of the project timeline, so that I can plan my work.
+
+Input phrase:As a site administrator, I want to understand how other similar organizations are handling visual design, so that I can make informed decisions about what appears to work well and what doesn't.
+As a web_site administrator, I desire to sympathize how other alike organization are manage ocular blueprint, so that I can induce informed decision about what look to function well and what doesn't.
+As a site administrator, I want to understand how other like arrangement are treat visual purpose, so that I can cause informed decisiveness about what appear to exercise well and what doesn't.
+As a site administrator, I want to understand how other exchangeable administration are cover visual invention, so that I can produce informed decisions about what appears to make well and what doesn't.
+As a site administrator, I want to understand how other similar constitution are handle visual design, so that I can draw informed decisions about what appears to bring well and what doesn't.
+As a site administrator, I want to understand how other similar organizations are wield visual design, so that I can create informed decisions about what appears to cultivate well and what doesn't.
+
+Input phrase:As a team member, I want to have a platform that allows me to rapidly prototype HTML ideas.
+As a team extremity, I desire to have a chopine that let me to quickly prototype hypertext_markup_language idea.
+As a team penis, I want to have a platform that permit me to rapidly prototype HTML mind.
+As a team member, I want to have a platform that allow me to rapidly prototype HTML estimate.
+As a team member, I want to have a platform that leave me to rapidly prototype HTML theme.
+As a team member, I want to have a platform that admit me to rapidly prototype HTML ideas.
+
+Input phrase:As a site administrator, I want to understand how other similar organizations are handling content, so that I can make informed decisions about what appears to work well and what doesn't.
+As a web_site administrator, I desire to sympathize how other alike organization are manage message, so that I can induce informed decision about what look to function well and what doesn't.
+As a site administrator, I want to understand how other like arrangement are treat capacity, so that I can cause informed decisiveness about what appear to exercise well and what doesn't.
+As a site administrator, I want to understand how other exchangeable administration are cover contentedness, so that I can produce informed decisions about what appears to make well and what doesn't.
+As a site administrator, I want to understand how other similar constitution are handle subject, so that I can draw informed decisions about what appears to bring well and what doesn't.
+As a site administrator, I want to understand how other similar organizations are wield content, so that I can create informed decisions about what appears to cultivate well and what doesn't.
+
+Input phrase:As a user researcher, I want to conduct a user definition workshop with NSF, so that I can better prepare them and the team for future research work.
+As a exploiter inquiry_employmenter, I desire to behave a exploiter definition employmentshop with national_science_foundation, so that I can well fix them and the team for future inquiry employment.
+As a drug_drug_user researcher, I want to lead a drug_drug_user definition studyshop with NSF, so that I can better cook them and the team for future research study.
+As a user researcher, I want to impart a user definition workplaceshop with NSF, so that I can better organize them and the team for future research workplace.
+As a user researcher, I want to conduct a user definition oeuvreshop with NSF, so that I can better train them and the team for future research oeuvre.
+As a user researcher, I want to conduct a user definition workshop with NSF, so that I can better prepare them and the team for future research work.
+
+Input phrase:As an NSF employee, I want to know where the initial in-person meeting will be, so that I can plan on attending.
+As an national_science_foundation employee, I desire to acknowledge where the initial in-person merging will be, so that I can design on attend.
+As an NSF employee, I want to sleep_together where the initial in-person confluence will be, so that I can plan on serve.
+As an NSF employee, I want to know where the initial in-person meeting will be, so that I can plan on attending.
+As an NSF employee, I want to know where the initial in-person meeting will be, so that I can plan on attending.
+As an NSF employee, I want to know where the initial in-person meeting will be, so that I can plan on attending.
+
+Input phrase:As a designer, I want to have a style guide / design guide / content guide, so that we have a uniform way of delivering product.
+As a interior_blueprinter, I desire to have a manner usher / blueprint usher / message usher, so that we have a consistent manner of deliver merchandise.
+As a architect, I want to have a expressive_style guidebookbookbook / purpose guidebookbookbook / capacity guidebookbookbook, so that we have a undifferentiated means of hand_over intersection.
+As a graphic_inventioner, I want to have a vogue template / invention template / contentedness template, so that we have a uniform direction of rescue product.
+As a couturier, I want to have a dash scout / design scout / subject scout, so that we have a uniform room of extradite product.
+As a designer, I want to have a stylus guide / design guide / content guide, so that we have a uniform way of render product.
+
+Input phrase:As a team member, I want to know when meetings are, so that I can plan accordingly.
+As a team extremity, I desire to acknowledge when meeting are, so that I can design consequently.
+As a team penis, I want to sleep_together when merging are, so that I can plan accordingly.
+As a team member, I want to know when confluence are, so that I can plan accordingly.
+As a team member, I want to know when meetings are, so that I can plan accordingly.
+As a team member, I want to know when meetings are, so that I can plan accordingly.
+
+Input phrase:As a team member, I want to understand how work moves between UX/content > visual design > front end dev for a sprint cycle.
+As a team extremity, I desire to sympathize how employment move between UX/message > ocular blueprint > front goal dev for a dash hertz.
+As a team penis, I want to understand how study motion between UX/capacity > visual purpose > front conclusion dev for a sprint bicycle.
+As a team member, I want to understand how workplace moves between UX/contentedness > visual invention > front end dev for a sprint cycle.
+As a team member, I want to understand how oeuvre moves between UX/subject > visual design > front end dev for a sprint cycle.
+As a team member, I want to understand how work moves between UX/content > visual design > front end dev for a sprint cycle.
+
+Time for the single dataset = 1.2224 seconds = 0.0003 hours

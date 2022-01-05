@@ -1,0 +1,388 @@
+data_set_number:8
+
+Input phrase:﻿As a camp administrator, I want to be able to add campers, so that I can keep track of each individual camper.
+﻿As a clique administrator, I desire to be able to lend cliqueers, so that I can continue path of each individual cliqueer.
+﻿As a camp administrator, I want to be able to total campers, so that I can prevent lead of each individual camper.
+﻿As a camp administrator, I want to be able to add campers, so that I can observe racetrack of each individual camper.
+﻿As a camp administrator, I want to be able to add campers, so that I can retain cut of each individual camper.
+﻿As a camp administrator, I want to be able to add campers, so that I can sustain track of each individual camper.
+
+Input phrase:As a camp administrator, I want to be able to remove campers if they don't attend the camp anymore, so that I can keep the records organized.
+As a clique administrator, I desire to be able to get_rid_of cliqueers if they don't serve the clique anymore, so that I can continue the record form.
+As a camp administrator, I want to be able to take_out campers if they don't attend the camp anymore, so that I can prevent the phonograph_record organize.
+As a camp administrator, I want to be able to absent campers if they don't attend the camp anymore, so that I can observe the criminal_record mastermind.
+As a camp administrator, I want to be able to murder campers if they don't attend the camp anymore, so that I can retain the records unionize.
+As a camp administrator, I want to be able to remove campers if they don't attend the camp anymore, so that I can sustain the records organized.
+
+Input phrase:As a camp administrator, I want to be able to keep camper records from previous years, so that the amount of work I need to do is lowered. 
+As a clique administrator, I desire to be able to continue cliqueer record from former old_age, so that the sum of employment I necessitate to do is lower. 
+As a camp administrator, I want to be able to prevent camper phonograph_record from previous long_time, so that the measure of study I want to do is turn_down. 
+As a camp administrator, I want to be able to observe camper criminal_record from previous days, so that the amount of workplace I need to do is frown. 
+As a camp administrator, I want to be able to retain camper records from previous year, so that the amount of oeuvre I need to do is lowered. 
+As a camp administrator, I want to be able to sustain camper records from previous class, so that the amount of work I need to do is lowered. 
+
+Input phrase:As a camp administrator, I want to be able to upload consent forms, so that campers or their parents can easily access the forms.
+As a clique administrator, I desire to be able to upload consent form, so that cliqueers or their parent can well access the form.
+As a camp administrator, I want to be able to upload consent kind, so that campers or their parents can easily access the kind.
+As a camp administrator, I want to be able to upload consent shape, so that campers or their parents can easily access the shape.
+As a camp administrator, I want to be able to upload consent human_body, so that campers or their parents can easily access the human_body.
+As a camp administrator, I want to be able to upload consent phase, so that campers or their parents can easily access the phase.
+
+Input phrase:As a camp administrator, I want to be able to keep track of which camper submitted which forms, so that legal issues are avoided.
+As a clique administrator, I desire to be able to continue path of which cliqueer submit which form, so that legal issue are avoid.
+As a camp administrator, I want to be able to prevent lead of which camper present which kind, so that legal topic are debar.
+As a camp administrator, I want to be able to observe racetrack of which camper relegate which shape, so that legal return are keep_off.
+As a camp administrator, I want to be able to retain cut of which camper take which human_body, so that legal consequence are invalidate.
+As a camp administrator, I want to be able to sustain track of which camper put_in which phase, so that legal offspring are avoided.
+
+Input phrase:As a camp administrator, I want to be able to schedule activities for campers, so that camp workers can easily keep track of who is where at all times.
+As a clique administrator, I desire to be able to schedule activity for cliqueers, so that clique worker can well continue path of who is where at all multiplication.
+As a camp administrator, I want to be able to schedule action for campers, so that camp proletarian can easily prevent lead of who is where at all time.
+As a camp administrator, I want to be able to schedule bodily_process for campers, so that camp actor can easily observe racetrack of who is where at all clock_time.
+As a camp administrator, I want to be able to schedule natural_process for campers, so that camp workers can easily retain cut of who is where at all fourth_dimension.
+As a camp administrator, I want to be able to schedule activeness for campers, so that camp workers can easily sustain track of who is where at all meter.
+
+Input phrase:As a camp administrator, I want to be able to automatically create nametags for campers, so that I can lower the amount of work I need to do.
+As a clique administrator, I desire to be able to mechanically make nametags for cliqueers, so that I can turn_down the sum of employment I necessitate to do.
+As a camp administrator, I want to be able to automatically produce nametags for campers, so that I can frown the measure of study I want to do.
+As a camp administrator, I want to be able to automatically create nametags for campers, so that I can lower the amount of workplace I need to do.
+As a camp administrator, I want to be able to automatically create nametags for campers, so that I can lower the amount of oeuvre I need to do.
+As a camp administrator, I want to be able to automatically create nametags for campers, so that I can lower the amount of work I need to do.
+
+Input phrase:As a camp administrator, I want to be able to suspend a camper who had behavioral problems.
+As a clique administrator, I desire to be able to freeze a cliqueer who had behavioral problem.
+As a camp administrator, I want to be able to suspend a camper who had behavioral trouble.
+As a camp administrator, I want to be able to suspend a camper who had behavioral problems.
+As a camp administrator, I want to be able to suspend a camper who had behavioral problems.
+As a camp administrator, I want to be able to suspend a camper who had behavioral problems.
+
+Input phrase:As a camp administrator, I want to be able to set a reminders related to specific tasks that has to be done.
+As a clique administrator, I desire to be able to put a reminder associate to specific undertaking that has to be make.
+As a camp administrator, I want to be able to determine a admonisher refer to specific job that has to be perform.
+As a camp administrator, I want to be able to specify a reminders relate to specific tasks that has to be do.
+As a camp administrator, I want to be able to fix a reminders related to specific tasks that has to be cause.
+As a camp administrator, I want to be able to arrange a reminders related to specific tasks that has to be practice.
+
+Input phrase:As a camp administrator, I want to be able to assign different positions to the staff members, so that it is possible to organize activities in terms of responsibilities.
+As a clique administrator, I desire to be able to delegate unlike position to the staff member, so that it is potential to form activity in footing of duty.
+As a camp administrator, I want to be able to impute different military_position to the staff extremity, so that it is possible to mastermind action in price of province.
+As a camp administrator, I want to be able to put different status to the staff penis, so that it is possible to unionize bodily_process in term of responsibility.
+As a camp administrator, I want to be able to arrogate different placement to the staff members, so that it is possible to organize natural_process in condition of responsibilities.
+As a camp administrator, I want to be able to assign different situation to the staff members, so that it is possible to organize activeness in terminus of responsibilities.
+
+Input phrase:As a camp administrator, I want to be able to warn a camp worker who I think did his/her job inappropriate.
+As a clique administrator, I desire to be able to warn a clique proletarian who I remember did his/her occupation inappropriate.
+As a camp administrator, I want to be able to warn a camp actor who I intend did his/her problem inappropriate.
+As a camp administrator, I want to be able to warn a camp worker who I think did his/her caper inappropriate.
+As a camp administrator, I want to be able to warn a camp worker who I think did his/her job inappropriate.
+As a camp administrator, I want to be able to warn a camp worker who I think did his/her job inappropriate.
+
+Input phrase:As a camp administrator, I want to be able to create, modify rules that campers and camp workers has to follow.
+As a clique administrator, I desire to be able to make, change rule that cliqueers and clique worker has to postdate.
+As a camp administrator, I want to be able to produce, modify convention that campers and camp proletarian has to comply.
+As a camp administrator, I want to be able to create, modify principle that campers and camp actor has to adopt.
+As a camp administrator, I want to be able to create, modify dominion that campers and camp workers has to take_after.
+As a camp administrator, I want to be able to create, modify rules that campers and camp workers has to trace.
+
+Input phrase:As a camp administrator, I want to keep track of the usage of internal camp facilities, so that I don't create conflicting schedules for the different camp groups.
+As a clique administrator, I desire to continue path of the use of home clique facility, so that I don't make conflict agenda for the unlike clique group.
+As a camp administrator, I want to prevent lead of the custom of inner camp adeptness, so that I don't produce conflicting schedule for the different camp groups.
+As a camp administrator, I want to observe racetrack of the usage of internal camp facilities, so that I don't create conflicting schedules for the different camp groups.
+As a camp administrator, I want to retain cut of the usage of internal camp facilities, so that I don't create conflicting schedules for the different camp groups.
+As a camp administrator, I want to sustain track of the usage of internal camp facilities, so that I don't create conflicting schedules for the different camp groups.
+
+Input phrase:As a camp administrator, I want to create an avenue so parents can submit feedback and general concerns, so that I can keep improving the services I provide.
+As a clique administrator, I desire to make an avenue so parent can present feedback and cosmopolitan concern, so that I can continue better the service I supply.
+As a camp administrator, I want to produce an avenue so parents can relegate feedback and general business, so that I can prevent improving the military_service I put_up.
+As a camp administrator, I want to create an avenue so parents can take feedback and general concerns, so that I can observe improving the avail I leave.
+As a camp administrator, I want to create an avenue so parents can put_in feedback and general concerns, so that I can retain improving the servicing I provide.
+As a camp administrator, I want to create an avenue so parents can render feedback and general concerns, so that I can sustain improving the serve I provide.
+
+Input phrase:As a camp administrator, I want to store campers' emergency information in a database, so that I can easily notify the necessary parties in case of an emergency.
+As a clique administrator, I desire to store cliqueers' hand_brake data in a database, so that I can well advise the necessary party in event of an hand_brake.
+As a camp administrator, I want to store campers' emergency information in a database, so that I can easily notify the necessary parties in lawsuit of an emergency.
+As a camp administrator, I want to store campers' emergency information in a database, so that I can easily notify the necessary parties in subject of an emergency.
+As a camp administrator, I want to store campers' emergency information in a database, so that I can easily notify the necessary parties in character of an emergency.
+As a camp administrator, I want to store campers' emergency information in a database, so that I can easily notify the necessary parties in font of an emergency.
+
+Input phrase:As a camp administrator, I want to store camper's immediate parent/guardian's information, so that I can easily call to notify them in case a grossly unacceptable behavior.
+As a clique administrator, I desire to store cliqueer's contiguous parent/defender's data, so that I can well name to advise them in event a grossly impossible demeanor.
+As a camp administrator, I want to store camper's immediate parent/guardian's information, so that I can easily shout to notify them in lawsuit a grossly unacceptable behavior.
+As a camp administrator, I want to store camper's immediate parent/guardian's information, so that I can easily visit to notify them in subject a grossly unacceptable behavior.
+As a camp administrator, I want to store camper's immediate parent/guardian's information, so that I can easily address to notify them in character a grossly unacceptable behavior.
+As a camp administrator, I want to store camper's immediate parent/guardian's information, so that I can easily bid to notify them in font a grossly unacceptable behavior.
+
+Input phrase:As a camp administrator, I want to provide bi-weekly feedback to camper's parents, so that they can be aware of their child's behavior and performance at camp.
+As a clique administrator, I desire to supply bi-weekly feedback to cliqueer's parent, so that they can be mindful of their child's demeanor and operation at clique.
+As a camp administrator, I want to put_up bi-weekly feedback to camper's parents, so that they can be aware of their child's behavior and performance at camp.
+As a camp administrator, I want to leave bi-weekly feedback to camper's parents, so that they can be aware of their child's behavior and performance at camp.
+As a camp administrator, I want to provide bi-weekly feedback to camper's parents, so that they can be aware of their child's behavior and performance at camp.
+As a camp administrator, I want to provide bi-weekly feedback to camper's parents, so that they can be aware of their child's behavior and performance at camp.
+
+Input phrase:As a camp administrator, I want to be able to make nametags faster, so that I don't have to spend two hours making 200+ nametags
+As a clique administrator, I desire to be able to induce nametags quicker, so that I don't have to spend deuce hour make two_hundred+ nametags
+As a camp administrator, I want to be able to cause nametags faster, so that I don't have to spend two hours induce 200+ nametags
+As a camp administrator, I want to be able to produce nametags faster, so that I don't have to spend two hours cause 200+ nametags
+As a camp administrator, I want to be able to draw nametags faster, so that I don't have to spend two hours produce 200+ nametags
+As a camp administrator, I want to be able to create nametags faster, so that I don't have to spend two hours draw 200+ nametags
+
+Input phrase:As a camp administrator, I want to be able to create a registration form for both staff and kids, so that I can keep organized.
+As a clique administrator, I desire to be able to make a adjustment kind for both staff and child, so that I can continue form.
+As a camp administrator, I want to be able to produce a registration shape for both staff and kid, so that I can prevent organize.
+As a camp administrator, I want to be able to create a registration human_body for both staff and kyd, so that I can observe mastermind.
+As a camp administrator, I want to be able to create a registration phase for both staff and kids, so that I can retain unionize.
+As a camp administrator, I want to be able to create a registration class for both staff and kids, so that I can sustain organized.
+
+Input phrase:As a camp administrator, I want to be able to keep my information in one place, so that the admins next year can improve on the previous years.
+As a clique administrator, I desire to be able to continue my data in matchless topographic_point, so that the admins following class can better on the former classs.
+As a camp administrator, I want to be able to prevent my information in one stead, so that the admins adjacent year can improve on the previous long_time.
+As a camp administrator, I want to be able to observe my information in one home, so that the admins future year can improve on the previous days.
+As a camp administrator, I want to be able to retain my information in one position, so that the admins next year can improve on the previous year.
+As a camp administrator, I want to be able to sustain my information in one seat, so that the admins next year can improve on the previous class.
+
+Input phrase:As a camp administrator, I want to be able to see medical forms, so that we can be prepared for an allergy attack
+As a clique administrator, I desire to be able to understand aesculapian form, so that we can be fix for an allergy fire
+As a camp administrator, I want to be able to witness medical kind, so that we can be cook for an allergy approach
+As a camp administrator, I want to be able to visualize medical shape, so that we can be prepare for an allergy attack
+As a camp administrator, I want to be able to learn medical human_body, so that we can be organize for an allergy attack
+As a camp administrator, I want to be able to watch medical phase, so that we can be train for an allergy attack
+
+Input phrase:As a camp administrator, I want to be able to notify parents all at once, so that they can be notified of any upcoming events.
+As a clique administrator, I desire to be able to advise parent all at once, so that they can be advise of any approaching event.
+As a camp administrator, I want to be able to notify parents all at once, so that they can be notified of any upcoming consequence.
+As a camp administrator, I want to be able to notify parents all at once, so that they can be notified of any upcoming events.
+As a camp administrator, I want to be able to notify parents all at once, so that they can be notified of any upcoming events.
+As a camp administrator, I want to be able to notify parents all at once, so that they can be notified of any upcoming events.
+
+Input phrase:As a camp administrator, I want to be quickly log attendance everyday, so that I can track which kids are coming in.
+As a clique administrator, I desire to be promptly log attendance everyday, so that I can chase which child are come in.
+As a camp administrator, I want to be cursorily log attendance everyday, so that I can traverse which kid are arrive in.
+As a camp administrator, I want to be quickly log attendance everyday, so that I can track which kyd are issue_forth in.
+As a camp administrator, I want to be quickly log attendance everyday, so that I can track which kids are hail in.
+As a camp administrator, I want to be quickly log attendance everyday, so that I can track which kids are fall in.
+
+Input phrase:As a camp administrator, I want to be able to add parents, so that they can enroll their kids at camp.
+As a clique administrator, I desire to be able to lend parent, so that they can enroll their child at clique.
+As a camp administrator, I want to be able to total parents, so that they can enroll their kid at camp.
+As a camp administrator, I want to be able to add parents, so that they can enroll their kyd at camp.
+As a camp administrator, I want to be able to add parents, so that they can enroll their kids at camp.
+As a camp administrator, I want to be able to add parents, so that they can enroll their kids at camp.
+
+Input phrase:As a camp administrator, I want to be able to create groups and add campers to the groups, so that I can easily organize the campers.
+As a clique administrator, I desire to be able to make group and lend cliqueers to the group, so that I can well form the cliqueers.
+As a camp administrator, I want to be able to produce groups and total campers to the groups, so that I can easily mastermind the campers.
+As a camp administrator, I want to be able to create groups and add campers to the groups, so that I can easily unionize the campers.
+As a camp administrator, I want to be able to create groups and add campers to the groups, so that I can easily organize the campers.
+As a camp administrator, I want to be able to create groups and add campers to the groups, so that I can easily organize the campers.
+
+Input phrase:As a camp administrator, I want to be able to see all my camp groups and the events scheduled for each camp group, so that I can notify counselor of what their group will be doing for the day.
+As a clique administrator, I desire to be able to understand all my clique group and the event schedule for each clique group, so that I can advise advocate of what their group will be doing for the sidereal_day.
+As a camp administrator, I want to be able to witness all my camp groups and the consequence scheduled for each camp group, so that I can notify counselor of what their group will be doing for the day.
+As a camp administrator, I want to be able to visualize all my camp groups and the events scheduled for each camp group, so that I can notify counselor of what their group will be doing for the day.
+As a camp administrator, I want to be able to learn all my camp groups and the events scheduled for each camp group, so that I can notify counselor of what their group will be doing for the day.
+As a camp administrator, I want to be able to watch all my camp groups and the events scheduled for each camp group, so that I can notify counselor of what their group will be doing for the day.
+
+Input phrase:As a camp administrator, I want to be able to schedule tasks/activities for a specific camp group, so that I can track each groups daily/weekly and monthly activities.
+As a clique administrator, I desire to be able to schedule undertaking/activity for a specific clique group, so that I can chase each group day_by_day/weekly and monthly activity.
+As a camp administrator, I want to be able to schedule job/action for a specific camp group, so that I can traverse each groups daily/weekly and monthly action.
+As a camp administrator, I want to be able to schedule tasks/bodily_process for a specific camp group, so that I can track each groups daily/weekly and monthly bodily_process.
+As a camp administrator, I want to be able to schedule tasks/natural_process for a specific camp group, so that I can track each groups daily/weekly and monthly natural_process.
+As a camp administrator, I want to be able to schedule tasks/activeness for a specific camp group, so that I can track each groups daily/weekly and monthly activeness.
+
+Input phrase:As a camp administrator, I want to be able to delete tasks/activities I scheduled, so that I can keep the schedule clean of unneeded activities.
+As a clique administrator, I desire to be able to erase undertaking/activity I agenda, so that I can continue the agenda uninfected of unnecessary activity.
+As a camp administrator, I want to be able to edit job/action I scheduled, so that I can prevent the schedule blank of unneeded action.
+As a camp administrator, I want to be able to delete tasks/bodily_process I scheduled, so that I can observe the schedule clean of unneeded bodily_process.
+As a camp administrator, I want to be able to delete tasks/natural_process I scheduled, so that I can retain the schedule clean of unneeded natural_process.
+As a camp administrator, I want to be able to delete tasks/activeness I scheduled, so that I can sustain the schedule clean of unneeded activeness.
+
+Input phrase:As a camp administrator, I want to be able to modify tasks/events I scheduled in case there is a change, so that I can always keep the schedule up to date.
+As a clique administrator, I desire to be able to variety undertaking/event I agenda in event there is a variety, so that I can constantly continue the agenda up to date.
+As a camp administrator, I want to be able to modify job/consequence I scheduled in lawsuit there is a change, so that I can always prevent the schedule up to date.
+As a camp administrator, I want to be able to modify tasks/events I scheduled in subject there is a change, so that I can always observe the schedule up to date.
+As a camp administrator, I want to be able to modify tasks/events I scheduled in character there is a change, so that I can always retain the schedule up to date.
+As a camp administrator, I want to be able to modify tasks/events I scheduled in font there is a change, so that I can always sustain the schedule up to date.
+
+Input phrase:As a camp administrator, I want to be able to modify the information of enrolled campers, so that I can keep the campers information up to date.
+As a clique administrator, I desire to be able to change the data of enrolled cliqueers, so that I can continue the cliqueers data up to date.
+As a camp administrator, I want to be able to modify the information of enrolled campers, so that I can prevent the campers information up to date.
+As a camp administrator, I want to be able to modify the information of enrolled campers, so that I can observe the campers information up to date.
+As a camp administrator, I want to be able to modify the information of enrolled campers, so that I can retain the campers information up to date.
+As a camp administrator, I want to be able to modify the information of enrolled campers, so that I can sustain the campers information up to date.
+
+Input phrase:As a camp administrator, I want to be able to delete campers from the database, so that I can keep my pages free of clutter.
+As a clique administrator, I desire to be able to erase cliqueers from the database, so that I can continue my page complimentary of clutter.
+As a camp administrator, I want to be able to edit campers from the database, so that I can prevent my pages detached of clutter.
+As a camp administrator, I want to be able to delete campers from the database, so that I can observe my pages spare of clutter.
+As a camp administrator, I want to be able to delete campers from the database, so that I can retain my pages barren of clutter.
+As a camp administrator, I want to be able to delete campers from the database, so that I can sustain my pages free of clutter.
+
+Input phrase:As a camp administrator, I want to be able to modify the information of added parents, so that I can keep parent's information up to date.
+As a clique administrator, I desire to be able to change the data of add parent, so that I can continue parent's data up to date.
+As a camp administrator, I want to be able to modify the information of lend parents, so that I can prevent parent's information up to date.
+As a camp administrator, I want to be able to modify the information of total parents, so that I can observe parent's information up to date.
+As a camp administrator, I want to be able to modify the information of added parents, so that I can retain parent's information up to date.
+As a camp administrator, I want to be able to modify the information of added parents, so that I can sustain parent's information up to date.
+
+Input phrase:As a camp administrator, I want to be able to delete parents from the database, so that I can keep my pages free of unneeded clutter.
+As a clique administrator, I desire to be able to erase parent from the database, so that I can continue my page complimentary of unnecessary clutter.
+As a camp administrator, I want to be able to edit parents from the database, so that I can prevent my pages detached of unneeded clutter.
+As a camp administrator, I want to be able to delete parents from the database, so that I can observe my pages spare of unneeded clutter.
+As a camp administrator, I want to be able to delete parents from the database, so that I can retain my pages barren of unneeded clutter.
+As a camp administrator, I want to be able to delete parents from the database, so that I can sustain my pages free of unneeded clutter.
+
+Input phrase:As a camp administrator, I want to be able to modify a group's information, so that I can keep the groups up to date.
+As a clique administrator, I desire to be able to change a group's data, so that I can continue the group up to date.
+As a camp administrator, I want to be able to modify a group's information, so that I can prevent the groups up to date.
+As a camp administrator, I want to be able to modify a group's information, so that I can observe the groups up to date.
+As a camp administrator, I want to be able to modify a group's information, so that I can retain the groups up to date.
+As a camp administrator, I want to be able to modify a group's information, so that I can sustain the groups up to date.
+
+Input phrase:As a camp administrator, I want to be able to see only events for a specific group/groups on the event calendar, so that I can easily read the data on the calendar without too much clutter.
+As a clique administrator, I desire to be able to understand only consequence for a specific group/group on the consequence calendar, so that I can well take the datum on the calendar without too much clutter.
+As a camp administrator, I want to be able to witness only consequence for a specific group/groups on the event calendar, so that I can easily learn the data on the calendar without too much clutter.
+As a camp administrator, I want to be able to visualize only events for a specific group/groups on the event calendar, so that I can easily understand the data on the calendar without too much clutter.
+As a camp administrator, I want to be able to learn only events for a specific group/groups on the event calendar, so that I can easily read the data on the calendar without too much clutter.
+As a camp administrator, I want to be able to watch only events for a specific group/groups on the event calendar, so that I can easily read the data on the calendar without too much clutter.
+
+Input phrase:As a parent, I want to be able to see which consent forms I have submitted, so that I can know what I still need to do.
+As a parent, I desire to be able to understand which consent form I have submit, so that I can acknowledge what I however necessitate to do.
+As a parent, I want to be able to witness which consent kind I have present, so that I can sleep_together what I even want to do.
+As a parent, I want to be able to visualize which consent shape I have relegate, so that I can know what I still need to do.
+As a parent, I want to be able to learn which consent human_body I have take, so that I can know what I still need to do.
+As a parent, I want to be able to watch which consent phase I have put_in, so that I can know what I still need to do.
+
+Input phrase:As a parent, I want to be able to track my child's activity and schedule at camp, so that I can have peace of mind.
+As a parent, I desire to be able to chase my child's action and agenda at clique, so that I can have peace of judgment.
+As a parent, I want to be able to traverse my child's bodily_process and schedule at camp, so that I can have peace of thinker.
+As a parent, I want to be able to track my child's natural_process and schedule at camp, so that I can have peace of mind.
+As a parent, I want to be able to track my child's activeness and schedule at camp, so that I can have peace of mind.
+As a parent, I want to be able to track my child's activity and schedule at camp, so that I can have peace of mind.
+
+Input phrase:As a parent, I want to be able to submit various type of forms to the camp management.
+As a parent, I desire to be able to present assorted character of form to the clique management.
+As a parent, I want to be able to relegate respective type of kind to the camp management.
+As a parent, I want to be able to take diverse type of shape to the camp management.
+As a parent, I want to be able to put_in versatile type of human_body to the camp management.
+As a parent, I want to be able to render various type of phase to the camp management.
+
+Input phrase:As a parent, I want to be able to create an account, so that I can sign up my kids for camp online.
+As a parent, I desire to be able to make an history, so that I can bless up my child for clique online.
+As a parent, I want to be able to produce an report, so that I can sign up my kid for camp online.
+As a parent, I want to be able to create an explanation, so that I can sign up my kyd for camp online.
+As a parent, I want to be able to create an score, so that I can sign up my kids for camp online.
+As a parent, I want to be able to create an bill, so that I can sign up my kids for camp online.
+
+Input phrase:As a parent, I want to see which counselors are assigned to my kids, so that I can have peace of mind.
+As a parent, I desire to understand which counselor are delegate to my child, so that I can have peace of judgment.
+As a parent, I want to witness which advocate are assign to my kid, so that I can have peace of thinker.
+As a parent, I want to visualize which counselors are impute to my kyd, so that I can have peace of mind.
+As a parent, I want to learn which counselors are put to my kids, so that I can have peace of mind.
+As a parent, I want to watch which counselors are arrogate to my kids, so that I can have peace of mind.
+
+Input phrase:As a parent, I want to be able to message my child's counselors, so that I can voice my concerns or check on my child's progress.
+As a parent, I desire to be able to message my child's counselor, so that I can voice my concern or see on my child's advancement.
+As a parent, I want to be able to message my child's advocate, so that I can voice my business or control on my child's progress.
+As a parent, I want to be able to message my child's counselors, so that I can voice my concerns or match on my child's progress.
+As a parent, I want to be able to message my child's counselors, so that I can voice my concerns or discipline on my child's progress.
+As a parent, I want to be able to message my child's counselors, so that I can voice my concerns or determine on my child's progress.
+
+Input phrase:As a parent, I want to be able to sign and submit consent forms online, so that I don't have to deal with my child losing a consent form.
+As a parent, I desire to be able to bless and present consent kind online, so that I don't have to cover with my child lose a consent kind.
+As a parent, I want to be able to sign and relegate consent kind online, so that I don't have to consider with my child misplace a consent shape.
+As a parent, I want to be able to sign and take consent shape online, so that I don't have to cope with my child fall_back a consent human_body.
+As a parent, I want to be able to sign and put_in consent human_body online, so that I don't have to distribute with my child miss a consent phase.
+As a parent, I want to be able to sign and render consent phase online, so that I don't have to manage with my child suffer a consent class.
+
+Input phrase:As a parent, I want to be able to see if I made all the necessary payments.
+As a parent, I desire to be able to understand if I make all the necessary payment.
+As a parent, I want to be able to witness if I induce all the necessary requital.
+As a parent, I want to be able to visualize if I cause all the necessary payments.
+As a parent, I want to be able to learn if I produce all the necessary payments.
+As a parent, I want to be able to watch if I draw all the necessary payments.
+
+Input phrase:As a parent, I want to be able to share any photos the camp has taken of my child.
+As a parent, I desire to be able to partake any photograph the clique has take of my child.
+As a parent, I want to be able to share any photos the camp has lead of my child.
+As a parent, I want to be able to share any photos the camp has assume of my child.
+As a parent, I want to be able to share any photos the camp has bring of my child.
+As a parent, I want to be able to share any photos the camp has choose of my child.
+
+Input phrase:As a parent, I want to be able to connect with the staff in case of an emergency.
+As a parent, I desire to be able to associate with the staff in event of an hand_brake.
+As a parent, I want to be able to get_in_touch with the staff in lawsuit of an emergency.
+As a parent, I want to be able to plug_in with the staff in subject of an emergency.
+As a parent, I want to be able to connect with the staff in character of an emergency.
+As a parent, I want to be able to connect with the staff in font of an emergency.
+
+Input phrase:As a parent, I want to be able to enroll my children, so that they can be admitted to camp.
+As a parent, I desire to be able to enroll my child, so that they can be admit to clique.
+As a parent, I want to be able to enroll my children, so that they can be accept to camp.
+As a parent, I want to be able to enroll my children, so that they can be accommodate to camp.
+As a parent, I want to be able to enroll my children, so that they can be admitted to camp.
+As a parent, I want to be able to enroll my children, so that they can be admitted to camp.
+
+Input phrase:As a parent, I want to be able to see and edit my enrolled children to the camp year, so that I can know who I already enrolled to camp, who is still pending admission etc.
+As a parent, I desire to be able to understand and edit my enroll child to the clique class, so that I can acknowledge who I already enroll to clique, who is however pending entrance_fee etc.
+As a parent, I want to be able to witness and edit my enrolled children to the camp year, so that I can sleep_together who I already enrolled to camp, who is even pending entree etc.
+As a parent, I want to be able to visualize and edit my enrolled children to the camp year, so that I can know who I already enrolled to camp, who is still pending admission etc.
+As a parent, I want to be able to learn and edit my enrolled children to the camp year, so that I can know who I already enrolled to camp, who is still pending admission etc.
+As a parent, I want to be able to watch and edit my enrolled children to the camp year, so that I can know who I already enrolled to camp, who is still pending admission etc.
+
+Input phrase:As a parent, I want to be able to see a schedule of the activities my children are involved in at camp, so that I can be more informed as to what they are doing at camp.
+As a parent, I desire to be able to understand a agenda of the activity my child are involve in at clique, so that I can be more informed as to what they are doing at clique.
+As a parent, I want to be able to witness a schedule of the action my children are imply in at camp, so that I can be more informed as to what they are doing at camp.
+As a parent, I want to be able to visualize a schedule of the bodily_process my children are necessitate in at camp, so that I can be more informed as to what they are doing at camp.
+As a parent, I want to be able to learn a schedule of the natural_process my children are involved in at camp, so that I can be more informed as to what they are doing at camp.
+As a parent, I want to be able to watch a schedule of the activeness my children are involved in at camp, so that I can be more informed as to what they are doing at camp.
+
+Input phrase:As a camp worker, I want to be able to see which campers I am in charge of and where, so that I can make sure I am doing my job properly.
+As a clique proletarian, I desire to be able to understand which cliqueers I am in care of and where, so that I can induce certain I am doing my occupation by_rights.
+As a camp actor, I want to be able to witness which campers I am in mission of and where, so that I can cause indisputable I am doing my problem properly.
+As a camp worker, I want to be able to visualize which campers I am in cathexis of and where, so that I can produce sure I am doing my caper properly.
+As a camp worker, I want to be able to learn which campers I am in bang of and where, so that I can draw sure I am doing my job properly.
+As a camp worker, I want to be able to watch which campers I am in commission of and where, so that I can create sure I am doing my job properly.
+
+Input phrase:As a camp worker, I would be able to submit a completion report for the tasks which was assigned to me.
+As a clique proletarian, I would be able to present a completion report_card for the undertaking which was delegate to me.
+As a camp actor, I would be able to relegate a completion composition for the job which was assign to me.
+As a camp worker, I would be able to take a completion reputation for the tasks which was impute to me.
+As a camp worker, I would be able to put_in a completion report for the tasks which was put to me.
+As a camp worker, I would be able to render a completion report for the tasks which was arrogate to me.
+
+Input phrase:As a camp worker, I'm able to report a camper to the manager with an inappropriate behavior.
+As a clique proletarian, I'm able to report a cliqueer to the director with an inappropriate demeanor.
+As a camp actor, I'm able to report a camper to the coach with an inappropriate behavior.
+As a camp worker, I'm able to report a camper to the manager with an inappropriate behavior.
+As a camp worker, I'm able to report a camper to the manager with an inappropriate behavior.
+As a camp worker, I'm able to report a camper to the manager with an inappropriate behavior.
+
+Input phrase:As a camp worker, I'm able to report a list of supplies to the manager that the camp is short of.
+As a clique proletarian, I'm able to report a tilt of supply to the director that the clique is inadequate of.
+As a camp actor, I'm able to report a list of provision to the coach that the camp is unretentive of.
+As a camp worker, I'm able to report a list of supplies to the manager that the camp is light of.
+As a camp worker, I'm able to report a list of supplies to the manager that the camp is brusque of.
+As a camp worker, I'm able to report a list of supplies to the manager that the camp is short of.
+
+Input phrase:As a camp worker, I'm able to report necessary repairs to the manager that the camp is needed of.
+As a clique proletarian, I'm able to report necessary repair to the director that the clique is necessitate of.
+As a camp actor, I'm able to report necessary haunt to the coach that the camp is want of.
+As a camp worker, I'm able to report necessary repairs to the manager that the camp is need of.
+As a camp worker, I'm able to report necessary repairs to the manager that the camp is needed of.
+As a camp worker, I'm able to report necessary repairs to the manager that the camp is needed of.
+
+Input phrase:As a camp worker, I want to be able to see which campers I am in charge of and where, so that I can make sure I am doing my job properly.
+As a clique proletarian, I desire to be able to understand which cliqueers I am in care of and where, so that I can induce certain I am doing my occupation by_rights.
+As a camp actor, I want to be able to witness which campers I am in mission of and where, so that I can cause indisputable I am doing my problem properly.
+As a camp worker, I want to be able to visualize which campers I am in cathexis of and where, so that I can produce sure I am doing my caper properly.
+As a camp worker, I want to be able to learn which campers I am in bang of and where, so that I can draw sure I am doing my job properly.
+As a camp worker, I want to be able to watch which campers I am in commission of and where, so that I can create sure I am doing my job properly.
+
+Input phrase:As a camp counselor, I want to be able to take attendance of my assigned kids, so that I can make ensure everybody is accounted for.
+As a clique advocate, I desire to be able to lead attendance of my assigned child, so that I can induce guarantee everybody is account for.
+As a camp counselor, I want to be able to assume attendance of my assigned kid, so that I can cause see everybody is report for.
+As a camp counselor, I want to be able to bring attendance of my assigned kyd, so that I can produce ensure everybody is accounted for.
+As a camp counselor, I want to be able to choose attendance of my assigned kids, so that I can draw ensure everybody is accounted for.
+As a camp counselor, I want to be able to accept attendance of my assigned kids, so that I can create ensure everybody is accounted for.
+
+Time for the single dataset = 0.7196 seconds = 0.0002 hours

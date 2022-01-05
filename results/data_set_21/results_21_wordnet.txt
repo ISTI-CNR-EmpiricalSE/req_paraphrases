@@ -1,0 +1,808 @@
+data_set_number:21
+
+Input phrase:As a faculty member, I want to access a collection within the repository, so that I can obtain research materials.
+As a staff extremity, I desire to access a solicitation inside the depository, so that I can receive inquiry material.
+As a faculty penis, I want to access a collection within the repository, so that I can prevail research fabric.
+As a faculty member, I want to access a collection within the repository, so that I can obtain research materials.
+As a faculty member, I want to access a collection within the repository, so that I can obtain research materials.
+As a faculty member, I want to access a collection within the repository, so that I can obtain research materials.
+
+Input phrase:As a faculty member, I want to direct students to an item within the repository, so that I can facilitate my teaching (i.e. desires ability to link to content).
+As a staff extremity, I desire to target student to an detail inside the depository, so that I can help my education (i desire ability to associate to message).
+As a faculty penis, I want to lead scholar to an token within the repository, so that I can facilitate my teaching (i.e. desires ability to connect to capacity).
+As a faculty member, I want to send students to an item within the repository, so that I can facilitate my teaching (i.e. desires ability to yoke to contentedness).
+As a faculty member, I want to aim students to an item within the repository, so that I can facilitate my teaching (i.e. desires ability to link to subject).
+As a faculty member, I want to conduct students to an item within the repository, so that I can facilitate my teaching (i.e. desires ability to link to content).
+
+Input phrase:As a Cornell faculty member, I want to upload data to the repository and associate it with a publication, so that I receive attribution for my data as well as my publications.
+As a Cornell staff extremity, I desire to upload datum to the depository and consort it with a issue, so that I pick_up attribution for my datum as well as my issues.
+As a Cornell faculty penis, I want to upload data to the repository and consociate it with a publication, so that I experience attribution for my data as well as my issue.
+As a Cornell faculty member, I want to upload data to the repository and associate it with a publication, so that I welcome attribution for my data as well as my publications.
+As a Cornell faculty member, I want to upload data to the repository and associate it with a publication, so that I meet attribution for my data as well as my publications.
+As a Cornell faculty member, I want to upload data to the repository and associate it with a publication, so that I get attribution for my data as well as my publications.
+
+Input phrase:As a patron, I want to know which reports/datasets are coming out when, so that I can access latest report/dataset.
+As a patron, I desire to acknowledge which report_card/datasets are come out when, so that I can access up-to-the-minute report_card/dataset.
+As a patron, I want to sleep_together which compositions/datasets are arrive out when, so that I can access late composition/dataset.
+As a patron, I want to know which reputations/datasets are issue_forth out when, so that I can access belated reputation/dataset.
+As a patron, I want to know which reports/datasets are hail out when, so that I can access former report/dataset.
+As a patron, I want to know which reports/datasets are fall out when, so that I can access latest report/dataset.
+
+Input phrase:As a patron, I want to select/deselect reports/datasets to be emailed, possibly many at one time, when new versions are available.
+As a patron, I desire to choose/dechoose report/datasets to be e-mail, possibly many at matchless clock_time, when fresh version are available.
+As a patron, I want to select/deselect report_card/datasets to be emailed, possibly many at one fourth_dimension, when raw adaptation are available.
+As a patron, I want to select/deselect composition/datasets to be emailed, possibly many at one meter, when newfangled translation are available.
+As a patron, I want to select/deselect reputation/datasets to be emailed, possibly many at one prison_term, when modern interpretation are available.
+As a patron, I want to select/deselect reports/datasets to be emailed, possibly many at one time, when new versions are available.
+
+Input phrase:As a DB/IR administrator, I want to mark report/dataset not to be emailed/viewable due to error being discovered.
+As a dubnium/iridium administrator, I desire to tag report_card/dataset not to be e-mail/viewable ascribable to mistake being detect.
+As a decibel/inland_revenue administrator, I want to distinguish composition/dataset not to be emailed/viewable due to erroneousness being learn.
+As a DB/IR administrator, I want to commemorate reputation/dataset not to be emailed/viewable due to error being discover.
+As a DB/IR administrator, I want to stigmatize report/dataset not to be emailed/viewable due to error being fall_upon.
+As a DB/IR administrator, I want to notice report/dataset not to be emailed/viewable due to error being unwrap.
+
+Input phrase:As a DB/IR administrator, I want to manage report/dataset name changes so patrons are able to find historic reports that have a different name from current report.
+As a dubnium/iridium administrator, I desire to pull_off report_card_card/dataset name change so patron are able to detect historic report_card_cards that have a unlike name from current report_card_card.
+As a decibel/inland_revenue administrator, I want to cope composition/dataset name variety so patrons are able to determine historic compositions that have a different name from current composition.
+As a DB/IR administrator, I want to oversee reputation/dataset name changes so patrons are able to witness historic reputations that have a different name from current reputation.
+As a DB/IR administrator, I want to wangle report/dataset name changes so patrons are able to line_up historic reputation that have a different name from current report.
+As a DB/IR administrator, I want to do report/dataset name changes so patrons are able to discover historic reports that have a different name from current report.
+
+Input phrase:As a Cornell faculty member, I want to see clearly what reuse rights I have to files discovered in the repository, so that I know how I can reuse them.
+As a Cornell staff extremity, I desire to understand intelligibly what recycle right I have to file detect in the depository, so that I acknowledge how I can recycle them.
+As a Cornell faculty penis, I want to witness distinctly what reuse right_field I have to files learn in the repository, so that I sleep_together how I can reuse them.
+As a Cornell faculty member, I want to visualize clearly what reuse rights I have to files discover in the repository, so that I know how I can reuse them.
+As a Cornell faculty member, I want to learn clearly what reuse rights I have to files fall_upon in the repository, so that I know how I can reuse them.
+As a Cornell faculty member, I want to watch clearly what reuse rights I have to files unwrap in the repository, so that I know how I can reuse them.
+
+Input phrase:As a library staff member, I want to apply or remove an access embargo to an item when asked to do this by an item author.
+As a library staff extremity, I desire to use or get_rid_of an entree embargo to an detail when ask to do this by an detail writer.
+As a library staff penis, I want to put_on or take_out an access embargo to an token when necessitate to do this by an token generator.
+As a library staff member, I want to lend_oneself or absent an access embargo to an item when asked to do this by an item author.
+As a library staff member, I want to give or murder an access embargo to an item when asked to do this by an item author.
+As a library staff member, I want to practice or remove an access embargo to an item when asked to do this by an item author.
+
+Input phrase:As a researcher, I want to stay up to date on research related to a given topic at Cornell, including those in other departments/schools, so that my own research remains relevant and innovative.
+As a inquiry_worker, I desire to bide up to date on inquiry associate to a give subject at Cornell, include those in other department/school, so that my own inquiry stay relevant and advanced.
+As a researcher, I want to persist up to date on research refer to a yield topic at Cornell, admit those in other departments/schools, so that my own research remain relevant and innovative.
+As a researcher, I want to last_out up to date on research relate to a hold topic at Cornell, including those in other departments/schools, so that my own research persist relevant and innovative.
+As a researcher, I want to quell up to date on research related to a render topic at Cornell, including those in other departments/schools, so that my own research remains relevant and innovative.
+As a researcher, I want to stay up to date on research related to a impart topic at Cornell, including those in other departments/schools, so that my own research remains relevant and innovative.
+
+Input phrase:As a faculty member, I want to easily collect my publications -- both those within the repository and without -- into a single online access point, so that I can raise the profile of my work.
+As a staff extremity, I desire to well roll_up my publication -- both those inside the depository and without -- into a individual on-line entree detail, so that I can grow the visibility of my employment.
+As a faculty penis, I want to easily gather my issue -- both those within the repository and without -- into a unmarried online access degree, so that I can rear the profile of my study.
+As a faculty member, I want to easily collect my publications -- both those within the repository and without -- into a single online access item, so that I can lift the profile of my workplace.
+As a faculty member, I want to easily collect my publications -- both those within the repository and without -- into a single online access compass_point, so that I can arouse the profile of my oeuvre.
+As a faculty member, I want to easily collect my publications -- both those within the repository and without -- into a single online access period, so that I can enhance the profile of my work.
+
+Input phrase:As a crossdeptprojteammember, I want to have a better place to collect and share project materials, with a range of organization/tagging and access options, including private (internal group use only), University and public.
+As a crossdeptprojteammember, I desire to have a good topographic_point to roll_up and partake undertaking material, with a scope of arrangement/tagging and entree option, include individual (home group function only), University and populace.
+As a crossdeptprojteammember, I want to have a full stead to gather and share project fabric, with a image of administration/tagging and access choice, admit secret (inner group consumption only), University and public.
+As a crossdeptprojteammember, I want to have a estimable home to collect and share project materials, with a compass of constitution/tagging and access options, including private (internal group habit only), University and public.
+As a crossdeptprojteammember, I want to have a beneficial position to collect and share project materials, with a stove of organization/tagging and access options, including private (internal group manipulation only), University and public.
+As a crossdeptprojteammember, I want to have a adept seat to collect and share project materials, with a range of organization/tagging and access options, including private (internal group use only), University and public.
+
+Input phrase:As a Cornell faculty member, I want to upload data and provide a cut and paste formatted citation for people who use it, so that I receive proper attribution for my work.
+As a Cornell staff extremity, I desire to upload datum and supply a stinger and glue format quotation for citizenry who practice it, so that I pick_up proper attribution for my employment.
+As a Cornell faculty penis, I want to upload data and put_up a deletion and paste formatted citation for multitude who use it, so that I experience proper attribution for my study.
+As a Cornell faculty member, I want to upload data and leave a snub and paste formatted citation for people who use it, so that I welcome proper attribution for my workplace.
+As a Cornell faculty member, I want to upload data and provide a baseball_swing and paste formatted citation for people who use it, so that I meet proper attribution for my oeuvre.
+As a Cornell faculty member, I want to upload data and provide a cut and paste formatted citation for people who use it, so that I get proper attribution for my work.
+
+Input phrase:As a patron, I want to view/upload content in multiple formats, including old formats such as Lotus Works.
+As a patron, I desire to see/upload message in multiple format, include erstwhile format such as Lotus plant.
+As a patron, I want to watch/upload capacity in multiple formats, admit honest-to-god formats such as Lotus whole_shebang.
+As a patron, I want to view/upload contentedness in multiple formats, including previous formats such as Lotus work.
+As a patron, I want to view/upload subject in multiple formats, including old formats such as Lotus employment.
+As a patron, I want to view/upload content in multiple formats, including old formats such as Lotus study.
+
+Input phrase:As a Cornell faculty member, I want to search the repository and browse through its contents on my phone, so that I can check things on the go.
+As a Cornell staff extremity, I desire to research the depository and browse through its content on my telephone, so that I can see thing on the adam.
+As a Cornell faculty penis, I want to search the repository and browse through its message on my earphone, so that I can control matter on the crack.
+As a Cornell faculty member, I want to search the repository and browse through its capacity on my phone, so that I can match things on the go.
+As a Cornell faculty member, I want to search the repository and browse through its contentedness on my phone, so that I can discipline things on the go.
+As a Cornell faculty member, I want to search the repository and browse through its subject on my phone, so that I can determine things on the go.
+
+Input phrase:As a Cornell faculty member, I want to login remotely to the repository using Shibboleth, so that I can get remote access to Cornell campus-only content.
+As a Cornell staff extremity, I desire to login distantly to the depository use motto, so that I can become distant entree to Cornell campus-only message.
+As a Cornell faculty penis, I want to login outsidely to the repository practice Shibboleth, so that I can receive outside access to Cornell campus-only capacity.
+As a Cornell faculty member, I want to login outbackly to the repository using Shibboleth, so that I can arrive outback access to Cornell campus-only contentedness.
+As a Cornell faculty member, I want to login remotely to the repository using Shibboleth, so that I can bring remote access to Cornell campus-only subject.
+As a Cornell faculty member, I want to login remotely to the repository using Shibboleth, so that I can experience remote access to Cornell campus-only content.
+
+Input phrase:As a Cornell faculty member, I want to have some control over how items within my collection sort in collection contents lists, so that I can control how my work is presented.
+As a Cornell staff extremity, I desire to have some operate_condition over how item inside my solicitation kind in solicitation content list, so that I can operate_condition how my employment is show.
+As a Cornell faculty penis, I want to have some dominance over how detail within my collection sort in collection message tilt, so that I can dominance how my study is present.
+As a Cornell faculty member, I want to have some restraint over how token within my collection sort in collection capacity lists, so that I can restraint how my workplace is stage.
+As a Cornell faculty member, I want to have some command over how items within my collection sort in collection contentedness lists, so that I can command how my oeuvre is award.
+As a Cornell faculty member, I want to have some control over how items within my collection sort in collection subject lists, so that I can control how my work is give.
+
+Input phrase:As an administrator, I want to be able to use systems such as Symplectic Elements and Activity Insight to properly track faculty scholarly output in the repositories, so that I can facilitate personnel decisions.
+As an administrator, I desire to be able to practice system such as Symplectic component and action penetration to by_rights chase staff scholarly end_product in the depository, so that I can help force decision.
+As an administrator, I want to be able to use arrangement such as Symplectic chemical_element and bodily_process Insight to properly traverse faculty scholarly output_signal in the repository, so that I can facilitate personnel_department decisiveness.
+As an administrator, I want to be able to use organization such as Symplectic element and natural_process Insight to properly track faculty scholarly output in the repositories, so that I can facilitate personnel decisions.
+As an administrator, I want to be able to use systems such as Symplectic Elements and activeness Insight to properly track faculty scholarly output in the repositories, so that I can facilitate personnel decisions.
+As an administrator, I want to be able to use systems such as Symplectic Elements and Activity Insight to properly track faculty scholarly output in the repositories, so that I can facilitate personnel decisions.
+
+Input phrase:As a library staff member, I want to access useful and comprehensive usage statistics and analytics, including altmetrics, at the repository, collection, author, and item level, so that I can assess the results of this service.
+As a library staff extremity, I desire to access utilitarian and comprehensive use statistic and analytics, include altmetrics, at the depository, solicitation, writer, and detail degree, so that I can measure the consequence of this military_service.
+As a library staff penis, I want to access useful and comprehensive custom statistics and analytics, admit altmetrics, at the repository, collection, generator, and token grade, so that I can tax the solution of this avail.
+As a library staff member, I want to access useful and comprehensive usage statistics and analytics, including altmetrics, at the repository, collection, author, and item horizontal_surface, so that I can assess the result of this servicing.
+As a library staff member, I want to access useful and comprehensive usage statistics and analytics, including altmetrics, at the repository, collection, author, and item floor, so that I can assess the resultant_role of this serve.
+As a library staff member, I want to access useful and comprehensive usage statistics and analytics, including altmetrics, at the repository, collection, author, and item level, so that I can assess the results of this overhaul.
+
+Input phrase:As an administrator, I want to see comprehensive tracking statistics that can be presented to faculty in a digestible way, so that I can increase buy-in for contributing their work.
+As an administrator, I desire to understand comprehensive trailing statistic that can be show to faculty in a digestible manner, so that I can increase bargain-in for lend their employment.
+As an administrator, I want to witness comprehensive tracking statistics that can be present to faculty in a digestible means, so that I can increase buy-in for contribute their study.
+As an administrator, I want to visualize comprehensive tracking statistics that can be stage to faculty in a digestible direction, so that I can increase buy-in for put_up their workplace.
+As an administrator, I want to learn comprehensive tracking statistics that can be award to faculty in a digestible room, so that I can increase buy-in for contributing their oeuvre.
+As an administrator, I want to watch comprehensive tracking statistics that can be give to faculty in a digestible way, so that I can increase buy-in for contributing their work.
+
+Input phrase:As a Cornell faculty member, I want to be notified if someone downloads any of my items or files, so that I can follow usage and see what others are most interested in reading.
+As a Cornell staff extremity, I desire to be advise if person download any of my item or file, so that I can postdate use and understand what others are most concerned in read.
+As a Cornell faculty penis, I want to be notified if someone downloads any of my detail or files, so that I can comply custom and witness what others are most interested in take.
+As a Cornell faculty member, I want to be notified if someone downloads any of my token or files, so that I can adopt usage and visualize what others are most interested in learn.
+As a Cornell faculty member, I want to be notified if someone downloads any of my items or files, so that I can take_after usage and learn what others are most interested in understand.
+As a Cornell faculty member, I want to be notified if someone downloads any of my items or files, so that I can trace usage and watch what others are most interested in reading.
+
+Input phrase:As a DB/IR administrator, I want to see list of subscribers for specified report in order research missing report complaints.
+As a dubnium/iridium administrator, I desire to understand tilt of subscriber for specified report_card_card in ordering inquiry miss report_card_card ailment.
+As a decibel/inland_revenue administrator, I want to witness list of subscribers for specified composition in orderliness research neglect composition complaint.
+As a DB/IR administrator, I want to visualize list of subscribers for specified reputation in decree research missing reputation charge.
+As a DB/IR administrator, I want to learn list of subscribers for specified report in club research missing report complaints.
+As a DB/IR administrator, I want to watch list of subscribers for specified report in holy_order research missing report complaints.
+
+Input phrase:As an administrator, I want to disseminate the aforementioned works in a digital space that is strongly branded, so that I can make sure my school is credited for the work.
+As an administrator, I desire to circulate the aforesaid plant in a digital outer_space that is powerfully brand, so that I can induce certain my school is credit for the employment.
+As an administrator, I want to disseminate the aforementioned whole_shebang in a digital distance that is strongly stigmatize, so that I can cause indisputable my school is accredit for the study.
+As an administrator, I want to disseminate the aforementioned workplace in a digital quad that is strongly post, so that I can produce sure my school is credited for the workplace.
+As an administrator, I want to disseminate the aforementioned employment in a digital space that is strongly branded, so that I can draw sure my school is credited for the oeuvre.
+As an administrator, I want to disseminate the aforementioned study in a digital space that is strongly branded, so that I can create sure my school is credited for the work.
+
+Input phrase:As a faculty member, I want to upload my scholarly work to the repository, so that I can have a persistent URL that can be used for my personal web page and CV.
+As a staff extremity, I desire to upload my scholarly employment to the depository, so that I can have a haunting URL that can be use for my personal vane page and curriculum_vitae.
+As a faculty penis, I want to upload my scholarly study to the repository, so that I can have a dogged URL that can be practice for my personal network page and CV.
+As a faculty member, I want to upload my scholarly workplace to the repository, so that I can have a persistent URL that can be used for my personal world_wide_web page and CV.
+As a faculty member, I want to upload my scholarly oeuvre to the repository, so that I can have a persistent URL that can be used for my personal web page and CV.
+As a faculty member, I want to upload my scholarly work to the repository, so that I can have a persistent URL that can be used for my personal web page and CV.
+
+Input phrase:As a library staff member, I want to create collections which highlight rare, archival, or endangered material, so that I can preserve and provide access to this material.
+As a library staff extremity, I desire to make collection which foreground rare, archival, or endanger fabric, so that I can continue and supply entree to this fabric.
+As a library staff penis, I want to produce solicitation which highlight rare, archival, or queer material, so that I can conserve and put_up access to this material.
+As a library staff member, I want to create collections which highlight rare, archival, or endangered material, so that I can save and leave access to this material.
+As a library staff member, I want to create collections which highlight rare, archival, or endangered material, so that I can keep and provide access to this material.
+As a library staff member, I want to create collections which highlight rare, archival, or endangered material, so that I can preserve and provide access to this material.
+
+Input phrase:As an Extension Administrator, I want to have easy, well documented and supported workflows that can be easily passed on to others when she/others retire, so that continuity can be maintained.
+As an propagation Administrator, I desire to have comfortable, well document and support work_flow that can be well pass on to others when she/others withdraw, so that continuity can be keep.
+As an reference Administrator, I want to have easy, well documented and back workflows that can be easily travel_by on to others when she/others adjourn, so that continuity can be conserve.
+As an elongation Administrator, I want to have easy, well documented and hold workflows that can be easily legislate on to others when she/others put_out, so that continuity can be sustain.
+As an annex Administrator, I want to have easy, well documented and confirm workflows that can be easily elapse on to others when she/others go_to_bed, so that continuity can be assert.
+As an Extension Administrator, I want to have easy, well documented and subscribe workflows that can be easily run on to others when she/others retire, so that continuity can be wield.
+
+Input phrase:As a faculty member, I want to maintain versioning of Extension brochures, FAQs, etc., so that only the most current are used/adapted by other CCE Educators in their work.
+As a staff extremity, I desire to keep versioning of propagation booklet, faq, etc., so that only the most current are use/adapt by other CCE educator in their employment.
+As a faculty penis, I want to conserve versioning of reference brochures, FAQs, etc., so that only the most current are practice/adjust by other CCE Educators in their study.
+As a faculty member, I want to sustain versioning of elongation brochures, FAQs, etc., so that only the most current are used/adapted by other CCE Educators in their workplace.
+As a faculty member, I want to assert versioning of annex brochures, FAQs, etc., so that only the most current are used/adapted by other CCE Educators in their oeuvre.
+As a faculty member, I want to wield versioning of Extension brochures, FAQs, etc., so that only the most current are used/adapted by other CCE Educators in their work.
+
+Input phrase:As a Cornell faculty member, I want to upload a data file and put a CC-By or CC0 license on it, so that my licensing desires are clearly stated.
+As a Cornell staff extremity, I desire to upload a datum file and frame a milliliter-By or milliliter0 license on it, so that my licensing desire are intelligibly state.
+As a Cornell faculty penis, I want to upload a data file and invest a CC-By or CC0 license on it, so that my licensing desires are distinctly submit.
+As a Cornell faculty member, I want to upload a data file and place a CC-By or CC0 license on it, so that my licensing desires are clearly express.
+As a Cornell faculty member, I want to upload a data file and arrange a CC-By or CC0 license on it, so that my licensing desires are clearly stated.
+As a Cornell faculty member, I want to upload a data file and put a CC-By or CC0 license on it, so that my licensing desires are clearly stated.
+
+Input phrase:As a library staff member, I want to be able to tell the researchers I'm helping with DMPs that Cornell has a repository system I can use for archiving and sharing results of their research, so that I can easily meet the needs of funder DMP requirements.
+As a library staff extremity, I desire to be able to state the inquiry_worker I'm help with DMPs that Cornell has a repository arrangement I can practice for archive and share consequence of their inquiry, so that I can well converge the need of funder DMP requirement.
+As a library staff penis, I want to be able to order the researchers I'm help_oneself with DMPs that Cornell has a repository organization I can use for archiving and partake solution of their research, so that I can easily suffer the motivation of funder DMP necessity.
+As a library staff member, I want to be able to assure the researchers I'm serve with DMPs that Cornell has a repository system I can use for archiving and sharing result of their research, so that I can easily touch the indigence of funder DMP prerequisite.
+As a library staff member, I want to be able to distinguish the researchers I'm avail with DMPs that Cornell has a repository system I can use for archiving and sharing resultant_role of their research, so that I can easily meet the needs of funder DMP requirements.
+As a library staff member, I want to be able to tell the researchers I'm helping with DMPs that Cornell has a repository system I can use for archiving and sharing results of their research, so that I can easily meet the needs of funder DMP requirements.
+
+Input phrase:As a Cornell faculty member, I want to create a collection for my documents, or my organization's documents, and apply some distinctive branding to that collection, so that I can promote my work, or that of my organization.
+As a Cornell staff extremity, I desire to make a solicitation for my document, or my arrangement's document, and use some classifiable stigmatization to that solicitation, so that I can advertise my employment, or that of my arrangement.
+As a Cornell faculty penis, I want to produce a collection for my text_file, or my administration's text_file, and put_on some distinctive branding to that collection, so that I can promote my study, or that of my administration.
+As a Cornell faculty member, I want to create a collection for my documents, or my constitution's documents, and lend_oneself some distinctive branding to that collection, so that I can promote my workplace, or that of my constitution.
+As a Cornell faculty member, I want to create a collection for my documents, or my organization's documents, and give some distinctive branding to that collection, so that I can promote my oeuvre, or that of my organization.
+As a Cornell faculty member, I want to create a collection for my documents, or my organization's documents, and practice some distinctive branding to that collection, so that I can promote my work, or that of my organization.
+
+Input phrase:As a Cornell faculty member, I want to easily find all the items in the repository that I have authored, by searching on my name (author name authority and/or identification issue), because I keeps my publications in the repository up-to-date and points people tithe repository.
+As a Cornell staff extremity, I desire to well detect all the item in the depository that I have writer, by search on my name (writer name writerity and/or designation topic), because I keep my publication in the depository up-to-date and indicate citizenry tithe depository.
+As a Cornell faculty penis, I want to easily determine all the detail in the repository that I have generatored, by research on my name (generator name generatority and/or recognition return), because I continue my issue in the repository up-to-date and orient multitude tithe repository.
+As a Cornell faculty member, I want to easily witness all the token in the repository that I have authored, by searching on my name (author name authority and/or identification consequence), because I prevent my publications in the repository up-to-date and charge people tithe repository.
+As a Cornell faculty member, I want to easily line_up all the items in the repository that I have authored, by searching on my name (author name authority and/or identification offspring), because I observe my publications in the repository up-to-date and steer people tithe repository.
+As a Cornell faculty member, I want to easily discover all the items in the repository that I have authored, by searching on my name (author name authority and/or identification emergence), because I retain my publications in the repository up-to-date and bespeak people tithe repository.
+
+Input phrase:As a Cornell faculty member, I want to see items I have deposited in the repository appear high up in Google search results, because that's my ticket to stardom.
+As a Cornell staff extremity, I desire to understand item I have lodge in the depository look eminent up in Google search consequence, because that's my tag to stardom.
+As a Cornell faculty penis, I want to witness detail I have deposit in the repository appear gamey up in Google search solution, because that's my slate to stardom.
+As a Cornell faculty member, I want to visualize token I have situate in the repository appear high up in Google search result, because that's my ticket to stardom.
+As a Cornell faculty member, I want to learn items I have deposited in the repository appear high up in Google search resultant_role, because that's my ticket to stardom.
+As a Cornell faculty member, I want to watch items I have deposited in the repository appear high up in Google search results, because that's my ticket to stardom.
+
+Input phrase:As a repository support team member, I want to alias (or map) an item from one collection to another (so the item will appear to belong to both collections), because the collection owner has asked them to.
+As a repository documentation team extremity, I desire to alias (or map) an detail from matchless solicitation to another (so the detail will look to belong_to to both solicitations), because the solicitation owner has ask them to.
+As a repository accompaniment team penis, I want to alias (or map) an token from one collection to another (so the token will appear to belong to both solicitation), because the collection owner has necessitate them to.
+As a repository support team member, I want to alias (or map) an item from one collection to another (so the item will appear to belong to both collections), because the collection owner has asked them to.
+As a repository support team member, I want to alias (or map) an item from one collection to another (so the item will appear to belong to both collections), because the collection owner has asked them to.
+As a repository support team member, I want to alias (or map) an item from one collection to another (so the item will appear to belong to both collections), because the collection owner has asked them to.
+
+Input phrase:As a researcher, I want to discover items in the repository through the library's discovery system and Google, so that I can facilitate my easy use of the content.
+As a research_worker, I desire to detect item in the depository through the library's detecty arrangement and Google, so that I can help my comfortable function of the message.
+As a researcher, I want to learn detail in the repository through the library's learny organization and Google, so that I can facilitate my easy consumption of the capacity.
+As a researcher, I want to fall_upon token in the repository through the library's fall_upony system and Google, so that I can facilitate my easy habit of the contentedness.
+As a researcher, I want to unwrap items in the repository through the library's unwrapy system and Google, so that I can facilitate my easy manipulation of the subject.
+As a researcher, I want to identify items in the repository through the library's identifyy system and Google, so that I can facilitate my easy use of the content.
+
+Input phrase:As a researcher, I want to see descriptive metadata for the item whether I come to the item through the repository or directly to the PDF, so that I can correctly identify the source of the content.
+As a research_worker, I desire to understand descriptive metadata for the detail whether I arrive to the detail through the depository or immediately to the PDF, so that I can correctly name the beginning of the message.
+As a researcher, I want to witness descriptive metadata for the token whether I issue_forth to the token through the repository or directly to the PDF, so that I can correctly identify the informant of the capacity.
+As a researcher, I want to visualize descriptive metadata for the item whether I hail to the item through the repository or directly to the PDF, so that I can correctly identify the generator of the contentedness.
+As a researcher, I want to learn descriptive metadata for the item whether I fall to the item through the repository or directly to the PDF, so that I can correctly identify the reservoir of the subject.
+As a researcher, I want to watch descriptive metadata for the item whether I total to the item through the repository or directly to the PDF, so that I can correctly identify the reference of the content.
+
+Input phrase:As a researcher, I want to contact the author of a work that interests me, so that I can learn more about my research.
+As a inquiry_employmenter, I desire to reach the writer of a employment that interest me, so that I can memorize more about my inquiry.
+As a researcher, I want to touch the generator of a study that concern me, so that I can teach more about my research.
+As a researcher, I want to contact the author of a workplace that matter_to me, so that I can determine more about my research.
+As a researcher, I want to contact the author of a oeuvre that interests me, so that I can learn more about my research.
+As a researcher, I want to contact the author of a work that interests me, so that I can learn more about my research.
+
+Input phrase:As a researcher, I want to receive updates when new works are published in a given collection or by a given author, so that I can discover more of their work.
+As a research_employmenter, I desire to pick_up update when fresh plant are print in a give solicitation or by a give writer, so that I can detect more of their employment.
+As a researcher, I want to experience updates when raw whole_shebang are publish in a yield collection or by a yield generator, so that I can learn more of their study.
+As a researcher, I want to welcome updates when newfangled workplace are published in a hold collection or by a hold author, so that I can fall_upon more of their workplace.
+As a researcher, I want to meet updates when modern employment are published in a render collection or by a render author, so that I can unwrap more of their oeuvre.
+As a researcher, I want to get updates when new study are published in a impart collection or by a impart author, so that I can identify more of their work.
+
+Input phrase:As a researcher, I want to search within a repository or collection in an effective manner, including searching within subsets of a given collection, so that I can facilitate my use of the collection.
+As a reresearch_worker, I desire to research inside a depository or solicitation in an effective manner, include research inside subset of a give solicitation, so that I can help my function of the solicitation.
+As a researcher, I want to search within a repository or collection in an effective manner, admit research within subsets of a yield collection, so that I can facilitate my consumption of the collection.
+As a researcher, I want to search within a repository or collection in an effective manner, including searching within subsets of a hold collection, so that I can facilitate my habit of the collection.
+As a researcher, I want to search within a repository or collection in an effective manner, including searching within subsets of a render collection, so that I can facilitate my manipulation of the collection.
+As a researcher, I want to search within a repository or collection in an effective manner, including searching within subsets of a impart collection, so that I can facilitate my use of the collection.
+
+Input phrase:As an academicresearcher, I want to find the works of a particular author in one easily sortable spot, so that I can see the evolution of their scholarship over time.
+As an academicresearcher, I desire to detect the plant of a especial writer in matchless well sortable topographic_point, so that I can understand the development of their eruditeness over clock_time.
+As an academicresearcher, I want to determine the whole_shebang of a finical generator in one easily sortable point, so that I can witness the evolution of their scholarship over fourth_dimension.
+As an academicresearcher, I want to witness the work of a particular author in one easily sortable smudge, so that I can visualize the evolution of their scholarship over meter.
+As an academicresearcher, I want to line_up the employment of a particular author in one easily sortable position, so that I can learn the evolution of their scholarship over prison_term.
+As an academicresearcher, I want to discover the study of a particular author in one easily sortable touch, so that I can watch the evolution of their scholarship over time.
+
+Input phrase:As an academicresearcher, I want to the thesis paper of an influential judge or legal thinker to gain insight into how their initial scholarship got started.
+As an academicresearcher, I desire to the dissertation composition of an influential evaluator or legal thinker to derive penetration into how their initial eruditeness get get_down.
+As an academicresearcher, I want to the thesis newspaper of an influential judge or legal thinker to acquire insight into how their initial scholarship become begin.
+As an academicresearcher, I want to the thesis paper of an influential judge or legal thinker to profit insight into how their initial scholarship receive depart.
+As an academicresearcher, I want to the thesis paper of an influential judge or legal thinker to reach insight into how their initial scholarship arrive originate.
+As an academicresearcher, I want to the thesis paper of an influential judge or legal thinker to advance insight into how their initial scholarship bring start.
+
+Input phrase:As a patron, I want to search for report/dataset with keywords or a partial or complete title to locate needed report/dataset.
+As a patron, I desire to research for report_card_card/dataset with keywords or a fond or accomplished championship to situate necessitate report_card_card/dataset.
+As a patron, I want to search for composition/dataset with keywords or a partial or arrant deed to settle want composition/dataset.
+As a patron, I want to search for reputation/dataset with keywords or a partial or complete claim to locate need reputation/dataset.
+As a patron, I want to search for report/dataset with keywords or a partial or complete title to locate needed report/dataset.
+As a patron, I want to search for report/dataset with keywords or a partial or complete title to locate needed report/dataset.
+
+Input phrase:As a patron, I want to browse content by author or subject area to locate needed resources.
+As a patron, I desire to shop message by writer or capable sphere to situate necessitate resource.
+As a patron, I want to crop capacity by generator or subject area to settle want resources.
+As a patron, I want to browse contentedness by author or subject area to locate need resources.
+As a patron, I want to browse subject by author or subject area to locate needed resources.
+As a patron, I want to browse content by author or subject area to locate needed resources.
+
+Input phrase:As a DB/IR administrator, I want to manage subject classifications for ease of patron browsing and searching.
+As a dubnium/iridium administrator, I desire to pull_off capable categorization for relief of patron browse and search.
+As a decibel/inland_revenue administrator, I want to cope subject classification for rest of patron browsing and research.
+As a DB/IR administrator, I want to oversee subject classifications for ease of patron browsing and searching.
+As a DB/IR administrator, I want to wangle subject classifications for ease of patron browsing and searching.
+As a DB/IR administrator, I want to do subject classifications for ease of patron browsing and searching.
+
+Input phrase:As a DB/IR administrator, I want to manage customizable relationship groups in support of patron see also option.
+As a dubnium/iridium administrator, I desire to pull_off customizable kinship group in documentation of patron understand besides choice.
+As a decibel/inland_revenue administrator, I want to cope customizable relationship groups in accompaniment of patron witness also option.
+As a DB/IR administrator, I want to overvisualize customizable relationship groups in support of patron visualize also option.
+As a DB/IR administrator, I want to wangle customizable relationship groups in support of patron learn also option.
+As a DB/IR administrator, I want to do customizable relationship groups in support of patron watch also option.
+
+Input phrase:As a Cornell faculty member, I want to search for the dissertations in the repository for which I have been a thesis committee member, to quickly find work by a former student.
+As a Cornell staff extremity, I desire to research for the dissertation in the depository for which I have been a dissertation committee extremity, to promptly detect employment by a erstwhile scholar.
+As a Cornell faculty penis, I want to search for the dissertations in the repository for which I have been a thesis committee penis, to cursorily determine study by a early student.
+As a Cornell faculty member, I want to search for the dissertations in the repository for which I have been a thesis committee member, to quickly witness workplace by a former student.
+As a Cornell faculty member, I want to search for the dissertations in the repository for which I have been a thesis committee member, to quickly line_up oeuvre by a former student.
+As a Cornell faculty member, I want to search for the dissertations in the repository for which I have been a thesis committee member, to quickly discover work by a former student.
+
+Input phrase:As a library staff member, I want to make digital items held in trusted external system searchable within our system, so that I can provide seamless access to disparate collections.
+As a library staff extremity, I desire to induce digital item keep in trust external arrangement searchable inside our arrangement, so that I can supply seamless entree to disparate collection.
+As a library staff penis, I want to cause digital detail hold in believe external organization searchable within our organization, so that I can put_up seamless access to disparate solicitation.
+As a library staff member, I want to produce digital token have in hope external system searchable within our system, so that I can leave seamless access to disparate collections.
+As a library staff member, I want to draw digital items deem in entrust external system searchable within our system, so that I can provide seamless access to disparate collections.
+As a library staff member, I want to create digital items harbor in trusted external system searchable within our system, so that I can provide seamless access to disparate collections.
+
+Input phrase:As a researcher, I want to have information that will help me identify other faculty I might partner/collaborate with.
+As a research_worker, I desire to have data that will help_oneself me name other staff I might partner/collaborate with.
+As a researcher, I want to have information that will serve me identify other faculty I might partner/collaborate with.
+As a researcher, I want to have information that will avail me identify other faculty I might partner/collaborate with.
+As a researcher, I want to have information that will help me identify other faculty I might partner/collaborate with.
+As a researcher, I want to have information that will help me identify other faculty I might partner/collaborate with.
+
+Input phrase:As an externaluser, I want to easily find and access research and educational materials from Cornell faculty related to a particular topic, which I can use to develop stronger research/evidence based programming, grant proposals, community policy, or business practices.
+As an externalpracticer, I desire to well detect and access inquiry and educational material from Cornell staff associate to a especial subject, which I can practice to evolve strong inquiry/evidence establish scheduling, concession proposal, residential_district policy, or commercial_enterprise practice.
+As an externaluser, I want to easily determine and access research and educational fabric from Cornell faculty refer to a finical topic, which I can use to grow potent research/evidence base programming, grant marriage_proposal, community policy, or occupation exercise.
+As an externaluser, I want to easily witness and access research and educational materials from Cornell faculty relate to a particular topic, which I can use to originate impregnable research/evidence free-base programming, grant proposals, community policy, or clientele practices.
+As an externaluser, I want to easily line_up and access research and educational materials from Cornell faculty related to a particular topic, which I can use to build_up solid research/evidence based programming, grant proposals, community policy, or business practices.
+As an externaluser, I want to easily discover and access research and educational materials from Cornell faculty related to a particular topic, which I can use to explicate hard research/evidence based programming, grant proposals, community policy, or business practices.
+
+Input phrase:As a student, I want to learn who at Cornell has or is engaged in research related to a particular topic, so that I can decide if I would like to pursue studies/research at Cornell.
+As a scholar, I desire to memorize who at Cornell has or is prosecute in inquiry associate to a especial subject, so that I can decide if I would wish to prosecute survey/inquiry at Cornell.
+As a student, I want to teach who at Cornell has or is absorb in research refer to a finical topic, so that I can decide if I would like to quest_for study/research at Cornell.
+As a student, I want to determine who at Cornell has or is hire in research relate to a particular topic, so that I can decide if I would like to pursue report/research at Cornell.
+As a student, I want to learn who at Cornell has or is engage in research related to a particular topic, so that I can decide if I would like to pursue discipline/research at Cornell.
+As a student, I want to learn who at Cornell has or is betroth in research related to a particular topic, so that I can decide if I would like to pursue sketch/research at Cornell.
+
+Input phrase:As a student, I want to learn who at Cornell has or is engaged in research related to a particular topic, so that I can find an appropriate advisor, choose which courses to enroll in, and identify work/internship opportunities.
+As a scholar, I desire to memorize who at Cornell has or is prosecute in inquiry associate to a especial subject, so that I can detect an appropriate adviser, choose which course to enroll in, and name employment/internship opportunity.
+As a student, I want to teach who at Cornell has or is absorb in research refer to a finical topic, so that I can determine an appropriate advisor, choose which path to enroll in, and identify study/internship opportunities.
+As a student, I want to determine who at Cornell has or is hire in research relate to a particular topic, so that I can witness an appropriate advisor, choose which class to enroll in, and identify workplace/internship opportunities.
+As a student, I want to learn who at Cornell has or is engage in research related to a particular topic, so that I can line_up an appropriate advisor, choose which courses to enroll in, and identify oeuvre/internship opportunities.
+As a student, I want to learn who at Cornell has or is betroth in research related to a particular topic, so that I can discover an appropriate advisor, choose which courses to enroll in, and identify work/internship opportunities.
+
+Input phrase:As a teachingfacultymember, I want to identify timely and relevant research suitable for use in my curriculum, and be notified of new research/content.
+As a teachingfacultymember, I desire to name timely and relevant inquiry desirable for function in my course_of_study, and be advise of fresh inquiry/message.
+As a teachingfacultymember, I want to identify timely and relevant research suitable for consumption in my curriculum, and be notified of raw research/capacity.
+As a teachingfacultymember, I want to identify timely and relevant research suitable for habit in my curriculum, and be notified of newfangled research/contentedness.
+As a teachingfacultymember, I want to identify timely and relevant research suitable for manipulation in my curriculum, and be notified of modern research/subject.
+As a teachingfacultymember, I want to identify timely and relevant research suitable for use in my curriculum, and be notified of new research/content.
+
+Input phrase:As a patron, I want to view multiple versions of a report/dataset to get both timely and historical information.
+As a patron, I desire to see multiple version of a report_card/dataset to become both timely and historic data.
+As a patron, I want to watch multiple adaptation of a composition/dataset to receive both timely and diachronic information.
+As a patron, I want to view multiple translation of a reputation/dataset to arrive both timely and historical information.
+As a patron, I want to view multiple interpretation of a report/dataset to bring both timely and historical information.
+As a patron, I want to view multiple versions of a report/dataset to experience both timely and historical information.
+
+Input phrase:As a faculty member, I want to upload my scholarly work to the repository, so that I can reach a non-academic audience, expand my influence within my academic community, and use it for teaching.
+As a staff extremity, I desire to upload my scholarly employment to the depository, so that I can achieve a non-academic hearing, boom my influence inside my academic residential_district, and practice it for teach.
+As a faculty penis, I want to upload my scholarly study to the repository, so that I can pass a non-academic consultation, inflate my influence within my academic community, and use it for teaching.
+As a faculty member, I want to upload my scholarly workplace to the repository, so that I can strive a non-academic audience, elaborate my influence within my academic community, and use it for teaching.
+As a faculty member, I want to upload my scholarly oeuvre to the repository, so that I can reach a non-academic audience, extend my influence within my academic community, and use it for teaching.
+As a faculty member, I want to upload my scholarly work to the repository, so that I can reach a non-academic audience, expand my influence within my academic community, and use it for teaching.
+
+Input phrase:As a library staff member, I want to upload material to the repository on the author's behalf, so that I can fulfill a service obligation.
+As a library staff extremity, I desire to upload fabric to the depository on the writer's behalf, so that I can carry_through a military_service duty.
+As a library staff penis, I want to upload material to the repository on the generator's behalf, so that I can satisfy a avail debt_instrument.
+As a library staff member, I want to upload material to the repository on the author's behalf, so that I can meet a servicing obligation.
+As a library staff member, I want to upload material to the repository on the author's behalf, so that I can fulfill a serve obligation.
+As a library staff member, I want to upload material to the repository on the author's behalf, so that I can fulfill a overhaul obligation.
+
+Input phrase:As a library staff member, I want to create metadata for items within the repository that includes document title, description, author, document type, status, file locations, subscribable flag, subject area, release frequency, and keywords for searching.
+As a library staff extremity, I desire to make metadata for item inside the depository that include text_file championship, description, writer, text_file character, condition, file location, subscribable masthead, capable sphere, liberation frequency, and keywords for search.
+As a library staff penis, I want to produce metadata for detail within the repository that admit document deed, description, generator, document type, status, file placement, subscribable iris, subject area, handout frequency, and keywords for research.
+As a library staff member, I want to create metadata for token within the repository that includes document claim, description, author, document type, status, file localization, subscribable pin, subject area, dismissal frequency, and keywords for searching.
+As a library staff member, I want to create metadata for items within the repository that includes document title, description, author, document type, status, file locations, subscribable flag, subject area, passing frequency, and keywords for searching.
+As a library staff member, I want to create metadata for items within the repository that includes document title, description, author, document type, status, file locations, subscribable flag, subject area, acquittance frequency, and keywords for searching.
+
+Input phrase:As a library staff member, I want to upload large batches of items simultaneously, including descriptive metadata, so that I can offer service to authors efficiently.
+As a library staff extremity, I desire to upload bombastic batch of item simultaneously, include descriptive metadata, so that I can volunteer military_service to writer efficiently.
+As a library staff penis, I want to upload big batches of detail simultaneously, admit descriptive metadata, so that I can put_up avail to generator efficiently.
+As a library staff member, I want to upload large batches of token simultaneously, including descriptive metadata, so that I can extend servicing to authors efficiently.
+As a library staff member, I want to upload large batches of items simultaneously, including descriptive metadata, so that I can propose serve to authors efficiently.
+As a library staff member, I want to upload large batches of items simultaneously, including descriptive metadata, so that I can offer overhaul to authors efficiently.
+
+Input phrase:As a library staff member, I want to upload an item to the repository that will only become visible after a specific embargo period has expired, so that I can comply with author or publisher requirements.
+As a library staff extremity, I desire to upload an detail to the depository that will only become visible after a specific embargo time_period has run_out, so that I can comply with writer or publisher requirement.
+As a library staff penis, I want to upload an token to the repository that will only become visible after a specific embargo menstruation has die, so that I can comply with generator or publisher necessity.
+As a library staff member, I want to upload an item to the repository that will only become visible after a specific embargo period has exhale, so that I can comply with author or publisher prerequisite.
+As a library staff member, I want to upload an item to the repository that will only become visible after a specific embargo period has expired, so that I can comply with author or publisher requirements.
+As a library staff member, I want to upload an item to the repository that will only become visible after a specific embargo period has expired, so that I can comply with author or publisher requirements.
+
+Input phrase:As a library staff member, I want to include supplementary files such as datasets, slideshows, etc. – with DOIs for each, as needed – when uploading a given work, so that I can provide a robust image of the work in question.
+As a library staff extremity, I desire to admit auxiliary file such as datasets, slideshows, etc. – with department_of_the_interior for each, as necessitate – when upload a give employment, so that I can supply a full-bodied persona of the employment in doubt.
+As a library staff penis, I want to include supplementary files such as datasets, slideshows, etc. – with DOIs for each, as want – when uploading a yield study, so that I can put_up a robust picture of the study in motion.
+As a library staff member, I want to include supplementary files such as datasets, slideshows, etc. – with DOIs for each, as need – when uploading a hold workplaceplace, so that I can leave a robust prototype of the workplaceplace in question.
+As a library staff member, I want to include supplementary files such as datasets, slideshows, etc. – with DOIs for each, as needed – when uploading a render oeuvre, so that I can provide a robust trope of the oeuvre in question.
+As a library staff member, I want to include supplementary files such as datasets, slideshows, etc. – with DOIs for each, as needed – when uploading a impart work, so that I can provide a robust double of the work in question.
+
+Input phrase:As a library staff member, I want to deliver streaming media from within the repository, so that I can deliver such content in the manner expected and ensure continued access to said content.
+As a library staff extremity, I desire to hand_over stream medium from inside the depository, so that I can hand_over such message in the manner expect and guarantee continued entree to state message.
+As a library staff penis, I want to rescue pour culture_medium from within the repository, so that I can rescue such capacity in the manner ask and see continued access to allege capacity.
+As a library staff member, I want to extradite streaming metier from within the repository, so that I can extradite such contentednessedness in the manner have_a_bun_in_the_oven and ensure continued access to suppose contentednessedness.
+As a library staff member, I want to render streaming media from within the repository, so that I can render such subject in the manner expected and ensure continued access to read subject.
+As a library staff member, I want to surrender streaming media from within the repository, so that I can surrender such content in the manner expected and ensure continued access to order content.
+
+Input phrase:As an administrator, I want to have a platform that can support a variety of media file and text-based formats, so that the intellectual output of the school can be showcased and preserved in a more comprehensive way.
+As an administrator, I desire to have a chopine that can back a assortment of medium file and textbook-establish format, so that the cerebral end_product of the school can be showcased and continue in a more comprehensive manner.
+As an administrator, I want to have a platform that can hold a diverseness of culture_medium file and text-base formats, so that the intellectual output_signal of the school can be showcased and conserve in a more comprehensive means.
+As an administrator, I want to have a platform that can confirm a variety_show of metier file and text-free-base formats, so that the intellectual output of the school can be showcased and save in a more comprehensive direction.
+As an administrator, I want to have a platform that can subscribe a kind of media file and text-based formats, so that the intellectual output of the school can be showcased and preserve in a more comprehensive room.
+As an administrator, I want to have a platform that can corroborate a variety of media file and text-based formats, so that the intellectual output of the school can be showcased and keep in a more comprehensive way.
+
+Input phrase:As a library staff member, I want to be able to assign an item to more than one collection.
+As a library staff extremity, I desire to be able to delegate an detail to more than matchless solicitation.
+As a library staff penis, I want to be able to impute an token to more than one collection.
+As a library staff member, I want to be able to put an item to more than one collection.
+As a library staff member, I want to be able to arrogate an item to more than one collection.
+As a library staff member, I want to be able to assign an item to more than one collection.
+
+Input phrase:As a library staff member, I want to be able to add custom metadata fields for deposits I make on behalf of researchers to allow for better search capabilities.
+As a library staff extremity, I desire to be able to lend customs metadata field for deposit I induce on behalf of research_worker to let for good search capability.
+As a library staff penis, I want to be able to total custom metadata battlefield for sediment I cause on behalf of researchers to permit for full search capabilities.
+As a library staff member, I want to be able to add custom metadata discipline for deposition I produce on behalf of researchers to leave for estimable search capabilities.
+As a library staff member, I want to be able to add custom metadata sphere for down_payment I draw on behalf of researchers to admit for beneficial search capabilities.
+As a library staff member, I want to be able to add custom metadata playing_field for depository I create on behalf of researchers to give_up for adept search capabilities.
+
+Input phrase:As a DB/IR administrator, I want to upload revised report/dataset due to error in report/document.
+As a dubnium/iridium administrator, I desire to upload revised report_card_card/dataset ascribable to mistake in report_card_card/text_file.
+As a decibel/inland_revenue administrator, I want to upload revised composition/dataset due to erroneousness in composition/document.
+As a DB/IR administrator, I want to upload revised reputation/dataset due to error in reputation/document.
+As a DB/IR administrator, I want to upload revised report/dataset due to error in report/document.
+As a DB/IR administrator, I want to upload revised report/dataset due to error in report/document.
+
+Input phrase:As a DB/IR administrator, I want to upload new version of report/dataset while retaining previous versions for patron use.
+As a dubnium/iridium administrator, I desire to upload fresh adaptation of report_card/dataset while retain former adaptations for patron function.
+As a decibel/inland_revenue administrator, I want to upload raw translation of composition/dataset while retaining previous translations for patron consumption.
+As a DB/IR administrator, I want to upload newfangled interpretation of reputation/dataset while retaining previous interpretations for patron habit.
+As a DB/IR administrator, I want to upload modern version of report/dataset while retaining previous interpretation for patron manipulation.
+As a DB/IR administrator, I want to upload new version of report/dataset while retaining previous versions for patron use.
+
+Input phrase:As a DB/IR administrator, I want to have the system recognize/categorize document type (e.g. historical report still published, expired historical report, single topic dataset, broad topic dataset, report with subtopic, computer file), so that report/dataset is processed and displayed properly.
+As a dubnium/iridium administrator, I desire to have the arrangement acknowledge/categorize text_file character (for_example historic report_card_card_card however print, run_out historic report_card_card_card, individual subject dataset, wide subject dataset, report_card_card_card with subsubject, calculator file), so that report_card_card_card/dataset is process and expose by_rights.
+As a decibel/inland_revenue administrator, I want to have the organization spot/categorize document type (e.g. diachronic composition even publish, die diachronic composition, unmarried topic dataset, across-the-board topic dataset, composition with subtopic, computer file), so that composition/dataset is action and display properly.
+As a DB/IR administrator, I want to have the system accredit/categorize document type (e.g. historical reputation still published, exhale historical reputation, single topic dataset, broad topic dataset, reputation with subtopic, computer file), so that reputation/dataset is march and displayed properly.
+As a DB/IR administrator, I want to have the system greet/categorize document type (e.g. historical report still published, expired historical report, single topic dataset, broad topic dataset, report with subtopic, computer file), so that report/dataset is work and displayed properly.
+As a DB/IR administrator, I want to have the system recognize/categorize document type (e.g. historical report still published, expired historical report, single topic dataset, broad topic dataset, report with subtopic, computer file), so that report/dataset is serve and displayed properly.
+
+Input phrase:As a Cornell faculty member, I want to easily assign a CC license to the files I are depositing, so that users know how the materials can be used.
+As a Cornell staff extremity, I desire to well delegate a milliliter license to the file I are lodge, so that user acknowledge how the material can be use.
+As a Cornell faculty penis, I want to easily impute a CC license to the files I are deposit, so that exploiter sleep_together how the fabric can be practice.
+As a Cornell faculty member, I want to easily put a CC license to the files I are situate, so that drug_user know how the materials can be used.
+As a Cornell faculty member, I want to easily arrogate a CC license to the files I are depositing, so that users know how the materials can be used.
+As a Cornell faculty member, I want to easily assign a CC license to the files I are depositing, so that users know how the materials can be used.
+
+Input phrase:As a repository support team member, I want to export a set of records and associated files, manipulate this data set, and reload into the system, because I am aware of a uniform error in a collection.
+As a repository documentation team extremity, I desire to export a stage_stage_set of record and associated file, fudge this datum stage_stage_set, and recharge into the arrangement, because I am mindful of a consistent mistake in a solicitation.
+As a repository accompaniment team penis, I want to export a bent of phonograph_record and associated files, rig this data bent, and reload into the organization, because I am aware of a undifferentiated erroneousness in a collection.
+As a repository support team member, I want to export a hardening of criminal_record and associated files, manipulate this data hardening, and reload into the system, because I am aware of a uniform error in a collection.
+As a repository support team member, I want to export a set of records and associated files, manipulate this data set, and reload into the system, because I am aware of a uniform error in a collection.
+As a repository support team member, I want to export a set of records and associated files, manipulate this data set, and reload into the system, because I am aware of a uniform error in a collection.
+
+Input phrase:As a Cornell faculty member, I want to associate a researcherID or ORCID with a submission, so that there is no ambiguity between my work and someone else with the same name.
+As a Cornell staff extremity, I desire to consort a researcherID or ORCID with a meekness, so that there is no ambiguity between my employment and person else with the same name.
+As a Cornell faculty penis, I want to consociate a researcherID or ORCID with a submission, so that there is no ambiguity between my study and someone else with the same name.
+As a Cornell faculty member, I want to associate a researcherID or ORCID with a submission, so that there is no ambiguity between my workplace and someone else with the same name.
+As a Cornell faculty member, I want to associate a researcherID or ORCID with a submission, so that there is no ambiguity between my oeuvre and someone else with the same name.
+As a Cornell faculty member, I want to associate a researcherID or ORCID with a submission, so that there is no ambiguity between my work and someone else with the same name.
+
+Input phrase:As a student, I want to upload to the repository the data that is associated with my embargoed dissertation to meet requirements of a DMP I submitted with my NSF DDIG.
+As a scholar, I desire to upload to the depository the datum that is associate with my embargoed dissertation to converge requirement of a DMP I submit with my national_science_foundation DDIG.
+As a student, I want to upload to the repository the data that is consort with my embargoed dissertation to suffer necessity of a DMP I present with my NSF DDIG.
+As a student, I want to upload to the repository the data that is consociate with my embargoed dissertation to touch prerequisite of a DMP I relegate with my NSF DDIG.
+As a student, I want to upload to the repository the data that is associated with my embargoed dissertation to meet requirements of a DMP I take with my NSF DDIG.
+As a student, I want to upload to the repository the data that is associated with my embargoed dissertation to meet requirements of a DMP I put_in with my NSF DDIG.
+
+Input phrase:As a library staff member, I want to have customizable metadata fields, so that each project is described in the most accurate way possible.
+As a library staff extremity, I desire to have customizable metadata field, so that each undertaking is describe in the most accurate manner potential.
+As a library staff penis, I want to have customizable metadata battlefield, so that each project is report in the most accurate means possible.
+As a library staff member, I want to have customizable metadata discipline, so that each project is trace in the most accurate direction possible.
+As a library staff member, I want to have customizable metadata sphere, so that each project is identify in the most accurate room possible.
+As a library staff member, I want to have customizable metadata playing_field, so that each project is described in the most accurate way possible.
+
+Input phrase:As a faculty member, I want to associate files with my scholarly works such that someone accessing the latter also receives access to the former, so that I can deliver the fullest picture of my research.
+As a staff extremity, I desire to consort file with my scholarly plant such that person entree the latter besides receive entree to the erstwhile, so that I can hand_over the full painting of my inquiry.
+As a faculty penis, I want to consociate files with my scholarly whole_shebang such that someone accessing the latter also pick_up access to the early, so that I can rescue the entire mental_picture of my research.
+As a faculty member, I want to associate files with my scholarly work such that someone accessing the latter also experience access to the former, so that I can extradite the broad movie of my research.
+As a faculty member, I want to associate files with my scholarly employment such that someone accessing the latter also welcome access to the former, so that I can render the wide video of my research.
+As a faculty member, I want to associate files with my scholarly study such that someone accessing the latter also meet access to the former, so that I can surrender the fullest word_picture of my research.
+
+Input phrase:As a library staff member, I want to use content and metadata from the repository in other systems and/or web pages easily, so that I can deliver such content in the manner best fit to the audience or occasion.
+As a library staff extremity, I desire to practice message and metadata from the depository in other system and/or vane page well, so that I can hand_over such message in the manner better fit to the hearing or juncture.
+As a library staff penis, I want to use capacity and metadata from the repository in other arrangement and/or network pages easily, so that I can rescue such capacity in the manner well fit to the consultation or affair.
+As a library staff member, I want to use contentednessedness and metadata from the repository in other organization and/or world_wide_web pages easily, so that I can extradite such contentednessedness in the manner best fit to the audience or occasion.
+As a library staff member, I want to use subject and metadata from the repository in other systems and/or web pages easily, so that I can render such subject in the manner best fit to the audience or occasion.
+As a library staff member, I want to use content and metadata from the repository in other systems and/or web pages easily, so that I can surrender such content in the manner best fit to the audience or occasion.
+
+Input phrase:As an Extension Administrator, I want to make resources that were developed for specific projects and geographic areas available to other faculty and educators across NYS.
+As an propagation Administrator, I desire to induce resource that were develop for specific undertaking and geographic area available to other staff and educator across new_york.
+As an reference Administrator, I want to cause resources that were evolve for specific project and geographic sphere available to other faculty and educators across NYS.
+As an elongation Administrator, I want to produce resources that were grow for specific projects and geographic areas available to other faculty and educators across NYS.
+As an annex Administrator, I want to draw resources that were originate for specific projects and geographic areas available to other faculty and educators across NYS.
+As an Extension Administrator, I want to create resources that were build_up for specific projects and geographic areas available to other faculty and educators across NYS.
+
+Input phrase:As an Extension Administrator or Staff Content Manager, I want to get periodic IR reminders, including when something needs attention (including next ingestion/approval steps), or something that might need to move from a current knowledge collection to Historical.
+As an propagation Administrator or Staff message director, I desire to become periodic iridium reminder, include when something necessitate care (include following consumption/blessing stairs), or something that might necessitate to travel from a current cognition solicitation to historic.
+As an reference Administrator or Staff capacity coach, I want to receive periodic inland_revenue admonisher, admit when something want attention (admit adjacent ingestion/approval measure), or something that might want to go from a current knowledge collection to diachronic.
+As an elongation Administrator or Staff contentedness Manager, I want to arrive periodic IR reminders, including when something need attention (including future ingestion/approval footstep), or something that might need to be_active from a current knowledge collection to Historical.
+As an annex Administrator or Staff subject Manager, I want to bring periodic IR reminders, including when something needs attention (including next ingestion/approval step), or something that might need to act from a current knowledge collection to Historical.
+As an Extension Administrator or Staff contented Manager, I want to experience periodic IR reminders, including when something needs attention (including next ingestion/approval gradation), or something that might need to affect from a current knowledge collection to Historical.
+
+Input phrase:As a researcher, I want to promote/share my work through interactive maps, so that I can display the range and extent of my work graphically.
+As a research_employmenter, I desire to advertise/partake my employment through synergistic map, so that I can expose the scope and extent of my employment diagrammatically.
+As a researcher, I want to promote/share my study through interactional function, so that I can display the image and extent of my study graphically.
+As a researcher, I want to promote/share my workplaceplace through interactive maps, so that I can display the compass and extent of my workplaceplace graphically.
+As a researcher, I want to promote/share my oeuvre through interactive maps, so that I can display the stove and extent of my oeuvre graphically.
+As a researcher, I want to promote/share my work through interactive maps, so that I can display the range and extent of my work graphically.
+
+Input phrase:As an Extension Educator, I want to have a place to store a variety of documents, presentations and data sets I've created, that doesn't require an extra step in making available on my own County/Region/Project site (i.e. a list or directory of materials there is automatically updated when placed in a central archive/repository).
+As an propagation Educator, I desire to have a topographic_point to store a assortment of document, presentation and datum set I've make, that doesn't necessitate an excess measure in make available on my own County/area/undertaking web_site (i a tilt or directory of material there is mechanically update when topographic_pointd in a cardinal archive/depository).
+As an reference Educator, I want to have a stead to store a diverseness of text_file, display and data stage_set I've create, that doesn't ask an extra footstep in induce available on my own County/Region/stick_out site (i.e. a list or directory of fabric there is automatically updated when steadd in a central archive/repository).
+As an elongation Educator, I want to have a home to store a variety_show of documents, presentations and data bent I've produce, that doesn't command an extra gradation in cause available on my own County/Region/plan site (i.e. a list or directory of materials there is automatically updated when homed in a central archive/repository).
+As an annex Educator, I want to have a position to store a kind of documents, presentations and data hardening I've created, that doesn't want an extra footfall in produce available on my own County/Region/visualize site (i.e. a list or directory of materials there is automatically updated when positiond in a central archive/repository).
+As an Extension Educator, I want to have a seat to store a variety of documents, presentations and data sets I've created, that doesn't require an extra tone in draw available on my own County/Region/Project site (i.e. a list or directory of materials there is automatically updated when seatd in a central archive/repository).
+
+Input phrase:As a patron, I want to know other reports/datasets that are related (e.g. see also) to report/dataset being viewed for the purpose finding other related information.
+As a patron, I desire to acknowledge other report/datasets that are associate (for_example understand besides) to report/dataset being see for the function find other associate data.
+As a patron, I want to sleep_together other report_card/datasets that are refer (e.g. witness also) to report/dataset being view for the determination detect other refer information.
+As a patron, I want to know other composition/datasets that are relate (e.g. visualize also) to report/dataset being watch for the purpose determine other relate information.
+As a patron, I want to know other reputation/datasets that are related (e.g. learn also) to report/dataset being viewed for the purpose witness other related information.
+As a patron, I want to know other reports/datasets that are related (e.g. watch also) to report/dataset being viewed for the purpose line_up other related information.
+
+Input phrase:As a patron, I want to know previous name(s) and publication date range (first version-last version) of reports/datasets, so that I can know what historical versions are available and how current more recent version is.
+As a patron, I desire to acacknowledgeledge former name(s) and issue date scope (inaugural adaptation-concluding adaptation) of report/datasets, so that I can acacknowledgeledge what historic adaptations are available and how current more late adaptation is.
+As a patron, I want to sleep_together previous name(s) and publication date image (beginning translation-final translation) of report_card/datasets, so that I can sleep_together what diachronic translations are available and how current more recent translation is.
+As a patron, I want to know previous name(s) and publication date compass (first interpretation-last interpretation) of composition/datasets, so that I can know what historical interpretations are available and how current more recent interpretation is.
+As a patron, I want to know previous name(s) and publication date stove (first version-last version) of reputation/datasets, so that I can know what historical interpretation are available and how current more recent version is.
+As a patron, I want to know previous name(s) and publication date range (first version-last version) of reports/datasets, so that I can know what historical versions are available and how current more recent version is.
+
+Input phrase:As a patron, I want to create a personal account to request email notification when new version of report/dataset is available.
+As a patron, I desire to make a personal history to request electronic_mail presentment when fresh adaptation of report_card/dataset is available.
+As a patron, I want to produce a personal composition to request email telling when raw translation of composition/dataset is available.
+As a patron, I want to create a personal explanation to request email notification when newfangled interpretation of reputation/dataset is available.
+As a patron, I want to create a personal score to request email notification when modern version of report/dataset is available.
+As a patron, I want to create a personal bill to request email notification when new version of report/dataset is available.
+
+Input phrase:As a patron, I want to download report/dataset release calendar to load into own calendar.
+As a patron, I desire to download report_card/dataset liberation calendar to load into own calendar.
+As a patron, I want to download composition/dataset handout calendar to load into own calendar.
+As a patron, I want to download reputation/dataset dismissal calendar to load into own calendar.
+As a patron, I want to download report/dataset passing calendar to load into own calendar.
+As a patron, I want to download report/dataset acquittance calendar to load into own calendar.
+
+Input phrase:As a librarydiscoveryoperator, I want to harvest useful metadata from the repository via OAI, and continue to do so incrementally, so that I can make Cornell publications discoverable in my repository.
+As a librarydiscoveryoperator, I desire to reap utilitarian metadata from the depository via OAI, and proceed to do so incrementally, so that I can induce Cornell publication ascertainable in my depository.
+As a librarydiscoveryoperator, I want to harvest useful metadata from the repository via OAI, and retain to do so incrementally, so that I can cause Cornell issue discoverable in my repository.
+As a librarydiscoveryoperator, I want to harvest useful metadata from the repository via OAI, and stay to do so incrementally, so that I can produce Cornell publications discoverable in my repository.
+As a librarydiscoveryoperator, I want to harvest useful metadata from the repository via OAI, and cover to do so incrementally, so that I can draw Cornell publications discoverable in my repository.
+As a librarydiscoveryoperator, I want to harvest useful metadata from the repository via OAI, and continue to do so incrementally, so that I can create Cornell publications discoverable in my repository.
+
+Input phrase:As a library staff member, I want to quickly correct errors in uploaded metadata, and even uploaded documents, while leaving a record of my revisions (and possibly the reasons behind them), so that I can present correct versions of content and to locate points of error.
+As a library staff extremity, I desire to promptly right mistake in uploaded metadata, and even uploaded document, while leave a phonograph_record of my revision (and possibly the reason buttocks them), so that I can show right version of message and to situate point of mistake.
+As a library staff penis, I want to cursorily chastise erroneousness in uploaded metadata, and even uploaded text_file, while exit a criminal_record of my rewrite (and possibly the rationality behind them), so that I can stage chastise adaptation of capacity and to settle detail of erroneousness.
+As a library staff member, I want to quickly compensate error in uploaded metadata, and even uploaded documents, while entrust a record of my revisions (and possibly the cause behind them), so that I can award compensate translation of contentedness and to locate degree of error.
+As a library staff member, I want to quickly discipline errors in uploaded metadata, and even uploaded documents, while bequeath a record of my revisions (and possibly the reasons behind them), so that I can give discipline interpretation of subject and to locate item of error.
+As a library staff member, I want to quickly decline errors in uploaded metadata, and even uploaded documents, while impart a record of my revisions (and possibly the reasons behind them), so that I can deliver decline versions of content and to locate compass_point of error.
+
+Input phrase:As a library staff member, I want to receive a quick response and a reasonable resolution to tech support issues, so that service can proceed with minimal interruption.
+As a library staff extremity, I desire to pick_up a flying reaction and a fair resolving_power to technical_school documentation issue, so that military_service can continue with minimal break.
+As a library staff penis, I want to experience a agile answer and a reasonable resoluteness to tech accompaniment topic, so that avail can go with minimal pause.
+As a library staff member, I want to welcome a immediate reception and a reasonable settlement to tech support return, so that servicing can proceed with minimal interruption.
+As a library staff member, I want to meet a quick reply and a reasonable solution to tech support consequence, so that serve can proceed with minimal interruption.
+As a library staff member, I want to get a quick response and a reasonable resolution to tech support offspring, so that overhaul can proceed with minimal interruption.
+
+Input phrase:As a Cornell faculty member, I want to share on the repository files that are larger than 1GB in a way that still allows users to download them if I want to use them, so that I can meet funder requirements.
+As a Cornell staff extremity, I desire to partake on the repository file that are bigger than onesarin in a manner that however let practicer to download them if I desire to practice them, so that I can converge funder requirement.
+As a Cornell faculty penis, I want to share on the repository files that are large than 1gilbert in a means that even permit exploiter to download them if I want to use them, so that I can suffer funder necessity.
+As a Cornell faculty member, I want to share on the repository files that are bombastic than 1gigabit in a direction that still allow drug_user to download them if I want to use them, so that I can touch funder prerequisite.
+As a Cornell faculty member, I want to share on the repository files that are big than 1gigabyte in a room that still leave users to download them if I want to use them, so that I can meet funder requirements.
+As a Cornell faculty member, I want to share on the repository files that are larger than 1great_britain in a way that still admit users to download them if I want to use them, so that I can meet funder requirements.
+
+Input phrase:As a DB/IR administrator, I want to login to personal account with access to authorized functions.
+As a dubnium/iridium administrator, I desire to login to personal history with entree to authoritative function.
+As a decibel/inland_revenue administrator, I want to login to personal report with access to authorized affair.
+As a DB/IR administrator, I want to login to personal explanation with access to authorized routine.
+As a DB/IR administrator, I want to login to personal score with access to authorized functions.
+As a DB/IR administrator, I want to login to personal bill with access to authorized functions.
+
+Input phrase:As a DB/IR administrator, I want to have a personal account with the ability to change passwords to make them more secure or to retrieve forgotten ones.
+As a dubnium/iridium administrator, I desire to have a personal history with the ability to switch password to induce them more impregnable or to recover forget one.
+As a decibel/inland_revenue administrator, I want to have a personal report with the ability to exchange passwords to cause them more dependable or to remember forgotten ones.
+As a DB/IR administrator, I want to have a personal explanation with the ability to transfer passwords to produce them more secure or to retrieve forgotten ones.
+As a DB/IR administrator, I want to have a personal score with the ability to deepen passwords to draw them more secure or to retrieve forgotten ones.
+As a DB/IR administrator, I want to have a personal bill with the ability to change passwords to create them more secure or to retrieve forgotten ones.
+
+Input phrase:As a DB/IR administrator, I want to set up or delete accounts for other administrators with various levels of permission.
+As a dubnium/iridium administrator, I desire to put up or erase history for other administrator with assorted degree of license.
+As a decibel/inland_revenue administrator, I want to determine up or edit report for other administrators with respective grade of permission.
+As a DB/IR administrator, I want to specify up or delete account for other administrators with diverse level of permission.
+As a DB/IR administrator, I want to fix up or delete explanation for other administrators with versatile horizontal_surface of permission.
+As a DB/IR administrator, I want to arrange up or delete score for other administrators with various floor of permission.
+
+Input phrase:As a DB/IR administrator, I want to see a list of all administrators for ease of administering accounts.
+As a dubnium/iridium administrator, I desire to understand a tilt of all administrator for relief of administer history.
+As a decibel/inland_revenue administrator, I want to witness a list of all administrators for rest of distribute report.
+As a DB/IR administrator, I want to visualize a list of all administrators for ease of administering account.
+As a DB/IR administrator, I want to learn a list of all administrators for ease of administering explanation.
+As a DB/IR administrator, I want to watch a list of all administrators for ease of administering score.
+
+Input phrase:As a DB/IR administrator, I want to have robust searching and tracking features for existing and newly created patron accounts.
+As a dubnium/iridium administrator, I desire to have full-bodied searching and trailing feature for exist and newly make patron history.
+As a decibel/inland_revenue administrator, I want to have robust searching and tracking feature_of_speech for existing and newly create patron report.
+As a DB/IR administrator, I want to have robust searching and tracking features for existing and newly produce patron account.
+As a DB/IR administrator, I want to have robust searching and tracking features for existing and newly created patron explanation.
+As a DB/IR administrator, I want to have robust searching and tracking features for existing and newly created patron score.
+
+Input phrase:As a DB/IR administrator, I want to unpublish a report/dataset if requested to do so by USDA agency.
+As a dubnium/iridium administrator, I desire to unpublish a report_card/dataset if request to do so by department_of_agriculture representation.
+As a decibel/inland_revenue administrator, I want to unpublish a composition/dataset if requested to do so by USDA means.
+As a DB/IR administrator, I want to unpublish a reputation/dataset if requested to do so by USDA agency.
+As a DB/IR administrator, I want to unpublish a report/dataset if requested to do so by USDA agency.
+As a DB/IR administrator, I want to unpublish a report/dataset if requested to do so by USDA agency.
+
+Input phrase:As a DB/IR administrator, I want to add future release dates of reports/datasets to calendar for patron FYI.
+As a dubnium/iridium administrator, I desire to lend future liberation date of report/datasets to calendar for patron FYI.
+As a decibel/inland_revenue administrator, I want to total future handout dates of report_card/datasets to calendar for patron FYI.
+As a DB/IR administrator, I want to add future dismissal dates of composition/datasets to calendar for patron FYI.
+As a DB/IR administrator, I want to add future passing dates of reputation/datasets to calendar for patron FYI.
+As a DB/IR administrator, I want to add future acquittance dates of reports/datasets to calendar for patron FYI.
+
+Input phrase:As a faculty member, I want to recommend a digital collection be built in the repository, so that I can assist in my research.
+As a staff extremity, I desire to commend a digital solicitation be construct in the depository, so that I can help in my inquiry.
+As a faculty penis, I want to recommend a digital collection be build_up in the repository, so that I can serve in my research.
+As a faculty member, I want to recommend a digital collection be build in the repository, so that I can assist in my research.
+As a faculty member, I want to recommend a digital collection be built in the repository, so that I can assist in my research.
+As a faculty member, I want to recommend a digital collection be built in the repository, so that I can assist in my research.
+
+Input phrase:As a DB/IR administrator, I want to search for administrator accounts using full/partial email or name.
+As a dubnium/iridium administrator, I desire to research for administrator history use entire/fond electronic_mail or name.
+As a decibel/inland_revenue administrator, I want to search for administrator report practice broad/partial email or name.
+As a DB/IR administrator, I want to search for administrator account using wide/partial email or name.
+As a DB/IR administrator, I want to search for administrator explanation using full/partial email or name.
+As a DB/IR administrator, I want to search for administrator score using full/partial email or name.
+
+Input phrase:As a DB/IR administrator, I want to administrate patron accounts for purpose of closing accounts, viewing subscriptions, changing subscriptions, resetting passwords, changing email address, etc.
+As a dubnium/iridium administrator, I desire to administer patron history for function of shutting history, see subscription, change subscription, reset password, change electronic_mail savoir-faire, etc.
+As a decibel/inland_revenue administrator, I want to administrate patron report for determination of conclusion report, view subscriptions, switch subscriptions, readjust passwords, switch email address, etc.
+As a DB/IR administrator, I want to administrate patron account for purpose of closure account, watch subscriptions, exchange subscriptions, resetting passwords, exchange email address, etc.
+As a DB/IR administrator, I want to administrate patron explanation for purpose of completion explanation, viewing subscriptions, transfer subscriptions, resetting passwords, transfer email address, etc.
+As a DB/IR administrator, I want to administrate patron score for purpose of closing score, viewing subscriptions, deepen subscriptions, resetting passwords, deepen email address, etc.
+
+Input phrase:As a library staff member, I want to create custom metadata fields for certain collections, and allow searching of those fields, so that I can best reflect and deliver diverse content.
+As a library staff extremity, I desire to make customs metadata field for sealed collection, and let search of those field, so that I can better chew_over and hand_over divers message.
+As a library staff penis, I want to produce custom metadata battlefield for certain solicitation, and permit research of those battlefield, so that I can well reflect and rescue diverse capacity.
+As a library staff member, I want to create custom metadata discipline for certain collections, and leave searching of those discipline, so that I can best reflect and extradite diverse contentedness.
+As a library staff member, I want to create custom metadata sphere for certain collections, and admit searching of those sphere, so that I can best reflect and render diverse subject.
+As a library staff member, I want to create custom metadata playing_field for certain collections, and give_up searching of those playing_field, so that I can best reflect and surrender diverse content.
+
+Input phrase:As a repository support team member, I want to move a collection, so that I can fulfill the collection owner's request.
+As a repository documentation team extremity, I desire to travel a solicitation, so that I can carry_through the solicitation owner's request.
+As a repository accompaniment team penis, I want to go a collection, so that I can satisfy the collection owner's request.
+As a repository support team member, I want to be_active a collection, so that I can meet the collection owner's request.
+As a repository support team member, I want to act a collection, so that I can fulfill the collection owner's request.
+As a repository support team member, I want to affect a collection, so that I can fulfill the collection owner's request.
+
+Input phrase:As a repository support team member, I want to rename a collection, so that I can fulfill the collection owner's request.
+As a repository documentation team extremity, I desire to rename a solicitation, so that I can carry_through the solicitation owner's request.
+As a repository accompaniment team penis, I want to rename a collection, so that I can satisfy the collection owner's request.
+As a repository support team member, I want to rename a collection, so that I can meet the collection owner's request.
+As a repository support team member, I want to rename a collection, so that I can fulfill the collection owner's request.
+As a repository support team member, I want to rename a collection, so that I can fulfill the collection owner's request.
+
+Input phrase:As an asset manager, I want to be assured that the digital copy I deposit is stored redundantly, so that when one copy suffers destruction or unwanted changes, I still have other good copies to restore from.
+As an asset director, I desire to be guarantee that the digital transcript I lodge is store redundantly, so that when matchless transcript suffer end or undesireed change, I however have other full transcript to regenerate from.
+As an asset coach, I want to be assure that the digital copy I situate is stored redundantly, so that when one copy digest destruction or unwanted variety, I even have other estimable copy to repair from.
+As an asset manager, I want to be see that the digital copy I deposit is stored redundantly, so that when one copy hurt destruction or unwanted changes, I still have other beneficial copies to restore from.
+As an asset manager, I want to be reassure that the digital copy I deposit is stored redundantly, so that when one copy suffers destruction or unwanted changes, I still have other adept copies to restore from.
+As an asset manager, I want to be promise that the digital copy I deposit is stored redundantly, so that when one copy suffers destruction or unwanted changes, I still have other dear copies to restore from.
+
+Input phrase:As an asset manager, I want to be assured that threats to copies in one repository are not automatically incurred by the redundant copies.
+As an asset director, I desire to be guarantee that menace to transcript in matchless depository are not mechanically incur by the excess transcript.
+As an asset coach, I want to be assure that threat to copy in one repository are not automatically receive by the pleonastic copy.
+As an asset manager, I want to be see that terror to copies in one repository are not automatically incurred by the redundant copies.
+As an asset manager, I want to be reassure that threats to copies in one repository are not automatically incurred by the redundant copies.
+As an asset manager, I want to be promise that threats to copies in one repository are not automatically incurred by the redundant copies.
+
+Input phrase:As an asset manager, I want to be assured that the redundant copies are continuously monitored for unwanted changes, and that if/when changes do occur, there is a mechanism by which I can determine the original object and restore it to all copies.
+As an asset director, I desire to be guarantee that the excess transcript are endlessly monitor for undesireed change, and that if/when change do happen, there is a mechanism by which I can specify the original aim and regenerate it to all transcript.
+As an asset coach, I want to be assure that the pleonastic copy are continuously monitored for unwanted variety, and that if/when variety do occur, there is a mechanism by which I can decide the original object and repair it to all copy.
+As an asset manager, I want to be see that the redundant copies are continuously monitored for unwanted changes, and that if/when changes do occur, there is a mechanism by which I can settle the original object and restore it to all copies.
+As an asset manager, I want to be reassure that the redundant copies are continuously monitored for unwanted changes, and that if/when changes do occur, there is a mechanism by which I can determine the original object and restore it to all copies.
+As an asset manager, I want to be promise that the redundant copies are continuously monitored for unwanted changes, and that if/when changes do occur, there is a mechanism by which I can determine the original object and restore it to all copies.
+
+Input phrase:As an asset manager, I want to be assured that the assets can be taken out of the repository, and that the assets taken out are the same as those that are put in.
+As an asset director, I desire to be guarantee that the asset can be take out of the depository, and that the asset take out are the same as those that are frame in.
+As an asset coach, I want to be assure that the assets can be lead out of the repository, and that the assets lead out are the same as those that are invest in.
+As an asset manager, I want to be see that the assets can be assume out of the repository, and that the assets assume out are the same as those that are place in.
+As an asset manager, I want to be reassure that the assets can be bring out of the repository, and that the assets bring out are the same as those that are arrange in.
+As an asset manager, I want to be promise that the assets can be choose out of the repository, and that the assets choose out are the same as those that are put in.
+
+Input phrase:As an asset manager, I want to know what the intellectual value of the asset is to the institution at the time of deposit, so that I obtain guidance in the evaluation of it for current value for the institution.
+As an asset director, I desire to acknowledge what the cerebral value of the asset is to the initiation at the clock_time of sediment, so that I receive steering in the evaluation of it for current value for the initiation.
+As an asset coach, I want to sleep_together what the intellectual value of the asset is to the mental_hospital at the fourth_dimension of deposition, so that I prevail guidance in the evaluation of it for current value for the mental_hospital.
+As an asset manager, I want to know what the intellectual value of the asset is to the institution at the meter of down_payment, so that I obtain guidance in the evaluation of it for current value for the institution.
+As an asset manager, I want to know what the intellectual value of the asset is to the institution at the prison_term of depository, so that I obtain guidance in the evaluation of it for current value for the institution.
+As an asset manager, I want to know what the intellectual value of the asset is to the institution at the time of deposit, so that I obtain guidance in the evaluation of it for current value for the institution.
+
+Input phrase:As an asset manager, I want to have a mechanism to obtain a listing or understanding of all the assets that have been deposited, and their current status.
+As an asset director, I desire to have a mechanism to receive a list or agreement of all the asset that have been lodge, and their current condition.
+As an asset coach, I want to have a mechanism to prevail a listing or sympathy of all the assets that have been deposit, and their current status.
+As an asset manager, I want to have a mechanism to obtain a listing or reason of all the assets that have been situate, and their current status.
+As an asset manager, I want to have a mechanism to obtain a listing or understanding of all the assets that have been deposited, and their current status.
+As an asset manager, I want to have a mechanism to obtain a listing or understanding of all the assets that have been deposited, and their current status.
+
+Input phrase:As an asset manager, I want to be assured that funding and staffing of the IR have a commitment to longevity of the repository through published plans and/or explicit contract clauses.
+As an asset director, I desire to be guarantee that support and staffing of the iridium have a committedness to longevity of the depository through print plan and/or denotative contract clause.
+As an asset coach, I want to be assure that financing and staffing of the inland_revenue have a commitment to longevity of the repository through publish design and/or explicit contract article.
+As an asset manager, I want to be see that funding and staffing of the IR have a commitment to longevity of the repository through published plans and/or explicit contract clauses.
+As an asset manager, I want to be reassure that funding and staffing of the IR have a commitment to longevity of the repository through published plans and/or explicit contract clauses.
+As an asset manager, I want to be promise that funding and staffing of the IR have a commitment to longevity of the repository through published plans and/or explicit contract clauses.
+
+Input phrase:As a stakeholder, I want to have files adequately described, so that I can successfully render them in my contemporary operating environment.
+As a stakeholder, I desire to have file adequately describe, so that I can successfully supply them in my contemporaneous operating environment.
+As a stakeholder, I want to have files adequately report, so that I can successfully interpret them in my contemporary operating environment.
+As a stakeholder, I want to have files adequately trace, so that I can successfully hand_over them in my contemporary operating environment.
+As a stakeholder, I want to have files adequately identify, so that I can successfully picture them in my contemporary operating environment.
+As a stakeholder, I want to have files adequately described, so that I can successfully give them in my contemporary operating environment.
+
+Input phrase:As a library staff member, I want to preserve both the content and the metadata within the repository in a robust manner, so that I can provide stable, long-term access to this material.
+As a library staff extremity, I desire to continue both the message and the metadata inside the depository in a full-bodied manner, so that I can supply static, retentive-condition entree to this fabric.
+As a library staff penis, I want to conserve both the capacity and the metadata within the repository in a robust manner, so that I can put_up stable, farseeing-terminus access to this material.
+As a library staff member, I want to save both the contentedness and the metadata within the repository in a robust manner, so that I can leave stable, long-term access to this material.
+As a library staff member, I want to keep both the subject and the metadata within the repository in a robust manner, so that I can provide stable, long-term access to this material.
+As a library staff member, I want to preserve both the content and the metadata within the repository in a robust manner, so that I can provide stable, long-term access to this material.
+
+Input phrase:As a data curator, I want to upload a new version of an item that has changed, while still allowing old versions to be accessed.
+As a datum curator, I desire to upload a fresh adaptation of an detail that has change, while however let erstwhile adaptations to be access.
+As a data curator, I want to upload a raw translation of an token that has switch, while even permit honest-to-god translations to be accessed.
+As a data curator, I want to upload a newfangled interpretation of an item that has exchange, while still allow previous interpretations to be accessed.
+As a data curator, I want to upload a modern version of an item that has transfer, while still leave old interpretation to be accessed.
+As a data curator, I want to upload a new version of an item that has deepen, while still admit old versions to be accessed.
+
+Input phrase:As a library staff member, I want to preserve the scholarship of the law school by using sustainable links that will not succumb to link rot, so that I can create a permanent digital archive for the scholarship of my institution.
+As a library staff extremity, I desire to continue the eruditeness of the jurisprudence school by use sustainable associate that will not yield to associate decompose, so that I can make a permanent digital archive for the eruditeness of my initiation.
+As a library staff penis, I want to conserve the scholarship of the police school by practice sustainable connection that will not succumb to connect waste, so that I can produce a permanent digital archive for the scholarship of my mental_hospital.
+As a library staff member, I want to save the scholarship of the law school by using sustainable liaison that will not succumb to yoke rot, so that I can create a permanent digital archive for the scholarship of my institution.
+As a library staff member, I want to keep the scholarship of the law school by using sustainable radio_link that will not succumb to link rot, so that I can create a permanent digital archive for the scholarship of my institution.
+As a library staff member, I want to preserve the scholarship of the law school by using sustainable links that will not succumb to link rot, so that I can create a permanent digital archive for the scholarship of my institution.
+
+Input phrase:As a library staff member, I want to create a collection, sometimes with custom metadata fields, so that I can house digital material for wider distribution.
+As a library staff extremity, I desire to make a solicitation, sometimes with customs metadata field, so that I can house digital fabric for wide distribution.
+As a library staff penis, I want to produce a collection, sometimes with custom metadata battlefield, so that I can house digital material for across-the-board distribution.
+As a library staff member, I want to create a collection, sometimes with custom metadata discipline, so that I can house digital material for wide-eyed distribution.
+As a library staff member, I want to create a collection, sometimes with custom metadata sphere, so that I can house digital material for broad distribution.
+As a library staff member, I want to create a collection, sometimes with custom metadata playing_field, so that I can house digital material for wider distribution.
+
+Input phrase:As a library staff member, I want to trace the list of revisors to determine who uploaded an item to the repository, so that I can confirm that proper procedures were followed.
+As a library staff extremity, I desire to hound the tilt of revisors to specify who upload an detail to the depository, so that I can confirm that proper procedure were follow.
+As a library staff penis, I want to decipher the list of revisors to decide who uploaded an token to the repository, so that I can confirm that proper operation were postdate.
+As a library staff member, I want to trace the list of revisors to settle who uploaded an item to the repository, so that I can confirm that proper routine were comply.
+As a library staff member, I want to trace the list of revisors to determine who uploaded an item to the repository, so that I can confirm that proper procedures were adopt.
+As a library staff member, I want to trace the list of revisors to determine who uploaded an item to the repository, so that I can confirm that proper procedures were take_after.
+
+Input phrase:As an asset manager, I want to be assured that there is a formal plan for the disposition of assets if the IR should cease.
+As an asset director, I desire to be guarantee that there is a conventional design for the disposal of asset if the iridium should discontinue.
+As an asset coach, I want to be assure that there is a courtly plan for the inclination of assets if the inland_revenue should end.
+As an asset manager, I want to be see that there is a formal plan for the disposition of assets if the IR should cease.
+As an asset manager, I want to be reassure that there is a formal plan for the disposition of assets if the IR should cease.
+As an asset manager, I want to be promise that there is a formal plan for the disposition of assets if the IR should cease.
+
+Input phrase:As an asset manager, I want to have mechanism to pass ownership/management of the assets to a successor.
+As an asset director, I desire to have mechanism to travel_by possession/management of the asset to a successor.
+As an asset coach, I want to have mechanism to legislate ownership/management of the assets to a successor.
+As an asset manager, I want to have mechanism to elapse ownership/management of the assets to a successor.
+As an asset manager, I want to have mechanism to run ownership/management of the assets to a successor.
+As an asset manager, I want to have mechanism to happen ownership/management of the assets to a successor.
+
+Input phrase:As a patron, I want to email system provider to report issues and ask questions.
+As a patron, I desire to e-mail arrangement supplier to report issue and necessitate question.
+As a patron, I want to email organization provider to report topic and ask doubt.
+As a patron, I want to email system provider to report return and ask motion.
+As a patron, I want to email system provider to report consequence and ask questions.
+As a patron, I want to email system provider to report offspring and ask questions.
+
+Input phrase:As a data curator, I want to have a mechanism to allow for records scheduling for items that do not need to be stored indefinitely.
+As a datum curator, I desire to have a mechanism to let for record schedule for item that do not necessitate to be store indefinitely.
+As a data curator, I want to have a mechanism to permit for phonograph_record scheduling for detail that do not want to be stored indefinitely.
+As a data curator, I want to have a mechanism to leave for criminal_record scheduling for token that do not need to be stored indefinitely.
+As a data curator, I want to have a mechanism to admit for records scheduling for items that do not need to be stored indefinitely.
+As a data curator, I want to have a mechanism to give_up for records scheduling for items that do not need to be stored indefinitely.
+
+Input phrase:As a data curator, I want to upload a new version of an item that has changed, while still allowing old versions to be accessed.
+As a datum curator, I desire to upload a fresh adaptation of an detail that has change, while however let erstwhile adaptations to be access.
+As a data curator, I want to upload a raw translation of an token that has switch, while even permit honest-to-god translations to be accessed.
+As a data curator, I want to upload a newfangled interpretation of an item that has exchange, while still allow previous interpretations to be accessed.
+As a data curator, I want to upload a modern version of an item that has transfer, while still leave old interpretation to be accessed.
+As a data curator, I want to upload a new version of an item that has deepen, while still admit old versions to be accessed.
+
+Time for the single dataset = 1.8662 seconds = 0.0005 hours

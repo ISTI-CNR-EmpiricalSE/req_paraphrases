@@ -1,0 +1,425 @@
+data_set_number:22
+
+Input phrase:As a user, I want to search and discover music using content identification or fingerprinting.	
+As a exploiter, I desire to research and detect music use message designation or fingerprinting.	
+As a drug_user, I want to search and learn music practice capacity recognition or fingerprinting.	
+As a user, I want to search and fall_upon music using contentedness identification or fingerprinting.	
+As a user, I want to search and unwrap music using subject identification or fingerprinting.	
+As a user, I want to search and identify music using content identification or fingerprinting.	
+
+Input phrase:As a user, I want to search and discover music based on my profile.	
+As a exploiter, I desire to research and detect music establish on my visibility.	
+As a drug_user, I want to search and learn music base on my profile.	
+As a user, I want to search and fall_upon music free-base on my profile.	
+As a user, I want to search and unwrap music based on my profile.	
+As a user, I want to search and identify music based on my profile.	
+
+Input phrase:As a user, I want to search and discover music based on other users similar to myself.	
+As a exploiter, I desire to research and detect music establish on other exploiters alike to myself.	
+As a drug_user, I want to search and learn music base on other drug_exploiter like to myself.	
+As a user, I want to search and fall_upon music free-base on other drug_user exchangeable to myself.	
+As a user, I want to search and unwrap music based on other users similar to myself.	
+As a user, I want to search and identify music based on other users similar to myself.	
+
+Input phrase:As a user, I want to search and discover music or ringback tones similar to a given music video based on content similarity.	
+As a exploiter, I desire to research and detect music or ringback tone alike to a give music video_recording establish on message alikeity.	
+As a drug_user, I want to search and learn music or ringback timbre like to a yield music television base on capacity likeity.	
+As a user, I want to search and fall_upon music or ringback spirit exchangeable to a hold music video free-base on contentedness exchangeableity.	
+As a user, I want to search and unwrap music or ringback shade similar to a render music video based on subject similarity.	
+As a user, I want to search and identify music or ringback note similar to a impart music video based on content similarity.	
+
+Input phrase:As a user, I want to search and discover music by exploiting enriched metadata and image tags, so that I find related artists, new genre, or other relevant listening path.
+As a exploiter, I desire to research and detect music by exploit enriched metadata and persona tag, so that I detect related artist, fresh writing_style, or other relevant listening way.
+As a drug_user, I want to search and learn music by overwork enriched metadata and picture rag, so that I determine related artists, raw music_genre, or other relevant listening path.
+As a user, I want to search and fall_upon music by exploiting enriched metadata and prototype tags, so that I witness related artists, newfangled genre, or other relevant listening path.
+As a user, I want to search and unwrap music by exploiting enriched metadata and trope tags, so that I line_up related artists, modern genre, or other relevant listening path.
+As a user, I want to search and identify music by exploiting enriched metadata and double tags, so that I discover related artists, new genre, or other relevant listening path.
+
+Input phrase:As a user, I want to upload tagged videos and have tags available for all further processing steps.	
+As a exploiter, I desire to upload tag video and have tag available for all further processing stairs.	
+As a drug_user, I want to upload chase video_recording and have rag available for all further processing measure.	
+As a user, I want to upload tagged television and have tags available for all further processing footstep.	
+As a user, I want to upload tagged videos and have tags available for all further processing step.	
+As a user, I want to upload tagged videos and have tags available for all further processing gradation.	
+
+Input phrase:As a user, I want to view thumbnail sequences of video segments.	
+As a exploiter, I desire to see thumbnail sequence of video_recording section.	
+As a drug_user, I want to watch thumbnail succession of television segment.	
+As a user, I want to view thumbnail sequences of video segments.	
+As a user, I want to view thumbnail sequences of video segments.	
+As a user, I want to view thumbnail sequences of video segments.	
+
+Input phrase:As a user, I want to get info about similar video items and segments.	
+As a exploiter, I desire to become information about alike video_recording item and section.	
+As a drug_user, I want to receive info about like television detail and segment.	
+As a user, I want to arrive info about exchangeable video token and segments.	
+As a user, I want to bring info about similar video items and segments.	
+As a user, I want to experience info about similar video items and segments.	
+
+Input phrase:As a user, I want to get info about perceptually similar video items and segments.	
+As a exploiter, I desire to become information about perceptually alike video_recording item and section.	
+As a drug_user, I want to receive info about perceptually like television detail and segment.	
+As a user, I want to arrive info about perceptually exchangeable video token and segments.	
+As a user, I want to bring info about perceptually similar video items and segments.	
+As a user, I want to experience info about perceptually similar video items and segments.	
+
+Input phrase:As a user, I want to receive content recommendations from similar profiles.
+As a exploiter, I desire to pick_up message recommendation from alike profile.
+As a drug_user, I want to experience capacity recommendations from like visibility.
+As a user, I want to welcome contentedness recommendations from exchangeable profiles.
+As a user, I want to meet subject recommendations from similar profiles.
+As a user, I want to get content recommendations from similar profiles.
+
+Input phrase:As a user, I want to receive content recommendations based on most relevant news events in my area.	
+As a exploiter, I desire to pick_up message recommendation establish on most relevant news_program event in my sphere.	
+As a drug_user, I want to experience capacity recommendations base on most relevant newsworthiness consequence in my area.	
+As a user, I want to welcome contentedness recommendations free-base on most relevant news events in my area.	
+As a user, I want to meet subject recommendations based on most relevant news events in my area.	
+As a user, I want to get content recommendations based on most relevant news events in my area.	
+
+Input phrase:As a user, I want to identify persons in videos, and receive related information about them.	
+As a exploiter, I desire to name person in video, and pick_up related data about them.	
+As a drug_user, I want to identify persons in video_recording, and experience related information about them.	
+As a user, I want to identify persons in television, and welcome related information about them.	
+As a user, I want to identify persons in videos, and meet related information about them.	
+As a user, I want to identify persons in videos, and get related information about them.	
+
+Input phrase:As a user, I want to identify products in videos, and receive related information about them.	
+As a exploiter, I desire to name merchandise in video, and pick_up related data about them.	
+As a drug_user, I want to identify product in video_recording, and experience related information about them.	
+As a user, I want to identify intersection in television, and welcome related information about them.	
+As a user, I want to identify products in videos, and meet related information about them.	
+As a user, I want to identify products in videos, and get related information about them.	
+
+Input phrase:As a user, I want to identify broadcaster logos in videos, and receive related information about them.	
+As a exploiter, I desire to name broadcaster son in video, and pick_up related data about them.	
+As a drug_user, I want to identify broadcaster logo in video_recording, and experience related information about them.	
+As a user, I want to identify broadcaster logos in television, and welcome related information about them.	
+As a user, I want to identify broadcaster logos in videos, and meet related information about them.	
+As a user, I want to identify broadcaster logos in videos, and get related information about them.	
+
+Input phrase:As a user, I want to identify brands in videos, and receive related information about them.	
+As a exploiter, I desire to name trade_name in video, and pick_up related data about them.	
+As a drug_user, I want to identify brand in video_recording, and experience related information about them.	
+As a user, I want to identify mark in television, and welcome related information about them.	
+As a user, I want to identify sword in videos, and meet related information about them.	
+As a user, I want to identify brands in videos, and get related information about them.	
+
+Input phrase:As a user, I want to take a picture or upload an image, so that I am recommended with videos related to that picture or image.	
+As a exploiter, I desire to lead a painting or upload an persona, so that I am recommend with video associate to that painting or persona.	
+As a drug_user, I want to assume a mental_mental_picture or upload an mental_picture, so that I am commend with video_recording refer to that mental_mental_picture or mental_picture.	
+As a user, I want to bring a movie or upload an prototype, so that I am recommended with television relate to that movie or prototype.	
+As a user, I want to choose a video or upload an trope, so that I am recommended with videos related to that video or trope.	
+As a user, I want to accept a word_word_picture or upload an double, so that I am recommended with videos related to that word_word_picture or double.	
+
+Input phrase:As a user, I want to walk around, access content using a geographical map and be informed if there are videos covering the area, monuments or any other relevant point of interest.	
+As a exploiter, I desire to walk about, entree message use a geographic function and be inform if there are video cover the sphere, memorial or any other relevant detail of sake.	
+As a drug_user, I want to walk approximately, access capacity practice a geographical map and be informed if there are video_recording embrace the area, monument or any other relevant degree of pastime.	
+As a user, I want to walk round, access contentedness using a geographical map and be informed if there are television traverse the area, repository or any other relevant item of interest.	
+As a user, I want to walk around, access subject using a geographical map and be informed if there are videos report the area, monuments or any other relevant compass_point of interest.	
+As a user, I want to walk around, access content using a geographical map and be informed if there are videos shroud the area, monuments or any other relevant period of interest.	
+
+Input phrase:As a user, I want to search content items using automatic speech recognition.	
+As a exploiter, I desire to research message item use automatic address realization.	
+As a drug_user, I want to search capacity detail practice automatic manner_of_speaking recognition.	
+As a user, I want to search contentedness token using automatic lecture recognition.	
+As a user, I want to search subject items using automatic actor's_line recognition.	
+As a user, I want to search content items using automatic language recognition.	
+
+Input phrase:As an admin, I want to see, validate and edit segmentation of videos.	
+As an admin, I desire to understand, validate and edit cleavage of video.	
+As an admin, I want to witness, validate and edit division of video_recording.	
+As an admin, I want to visualize, validate and edit segmentation of television.	
+As an admin, I want to learn, validate and edit segmentation of videos.	
+As an admin, I want to watch, validate and edit segmentation of videos.	
+
+Input phrase:As an admin, I want to annotate news video segments and extract a topic for each segment.	
+As an admin, I desire to gloss news_program video_recording section and educe a subject for each section.	
+As an admin, I want to annotate newsworthiness television segment and distill a topic for each segment.	
+As an admin, I want to annotate news video segments and press_out a topic for each segment.	
+As an admin, I want to annotate news video segments and excerpt a topic for each segment.	
+As an admin, I want to annotate news video segments and extract a topic for each segment.	
+
+Input phrase:As an admin, I want to filter and rank videos based on A/V quality aspects.	
+As an admin, I desire to percolate and rate video establish on A/volt timbre aspect.	
+As an admin, I want to trickle and rank video_recording base on A/vanadium quality view.	
+As an admin, I want to filter and rank television free-base on A/five quality expression.	
+As an admin, I want to filter and rank videos based on A/V quality aspects.	
+As an admin, I want to filter and rank videos based on A/V quality aspects.	
+
+Input phrase:As an admin, I want to get a quick assessment of whether audio material has been edited before the upload.	
+As an admin, I desire to become a flying appraisal of whether audio fabric has been edit before the upload.	
+As an admin, I want to receive a agile judgment of whether audio material has been edited before the upload.	
+As an admin, I want to arrive a immediate assessment of whether audio material has been edited before the upload.	
+As an admin, I want to bring a quick assessment of whether audio material has been edited before the upload.	
+As an admin, I want to experience a quick assessment of whether audio material has been edited before the upload.	
+
+Input phrase:As an admin, I want to prefilter nudity content.	
+As an admin, I desire to prefilter nakedness message.	
+As an admin, I want to prefilter nudity capacity.	
+As an admin, I want to prefilter nudity contentedness.	
+As an admin, I want to prefilter nudity subject.	
+As an admin, I want to prefilter nudity content.	
+
+Input phrase:As an admin, I want to prefilter content using search based on low level asset information.
+As an admin, I desire to prefilter message use search establish on abject degree asset data.
+As an admin, I want to prefilter capacity practice search base on humble grade asset information.
+As an admin, I want to prefilter contentedness using search free-base on depleted horizontal_surface asset information.
+As an admin, I want to prefilter subject using search based on broken floor asset information.
+As an admin, I want to prefilter content using search based on gloomy level asset information.
+
+Input phrase:As an admin, I want to automatically validated the ingested contents for copyright infringement.	
+As an admin, I desire to mechanically validate the consume content for copyright violation.	
+As an admin, I want to automatically validated the absorb message for copyright misdemeanor.	
+As an admin, I want to automatically validated the ingested capacity for copyright infringement.	
+As an admin, I want to automatically validated the ingested contentedness for copyright infringement.	
+As an admin, I want to automatically validated the ingested subject for copyright infringement.	
+
+Input phrase:As an admin, I want to prefilter the content using search on high level asset information such as metadata and tags either recognized by the system of provided by the user.
+As an admin, I desire to prefilter the message use search on eminent degree asset data such as metadata and tag either acknowledge by the arrangement of supply by the exploiter.
+As an admin, I want to prefilter the capacity practice search on gamey grade asset information such as metadata and rag either recognize by the organization of provide by the drug_user.
+As an admin, I want to prefilter the contentedness using search on high horizontal_surface asset information such as metadata and tags either spot by the system of put_up by the user.
+As an admin, I want to prefilter the subject using search on high floor asset information such as metadata and tags either accredit by the system of leave by the user.
+As an admin, I want to prefilter the content using search on high level asset information such as metadata and tags either greet by the system of provided by the user.
+
+Input phrase:As a Zooniverse admin, I want to assess how interesting or appealing or complex a picture is based on automated analysis, citizen annotations, and comments on Talk.	
+As a Zooniverse admin, I desire to measure how interesting or sympathetic or complex a painting is establish on automatize psychoanalysis, citizen note, and remark on lecture.	
+As a Zooniverse admin, I want to tax how interesting or appealing or complex a mental_picture is base on automated analysis, citizen annotation, and comment on speak.	
+As a Zooniverse admin, I want to assess how interesting or appealing or complex a movie is free-base on automated analysis, citizen annotations, and gossip on spill.	
+As a Zooniverse admin, I want to assess how interesting or appealing or complex a video is based on automated analysis, citizen annotations, and comments on spill_the_beans.	
+As a Zooniverse admin, I want to assess how interesting or appealing or complex a word_picture is based on automated analysis, citizen annotations, and comments on Talk.	
+
+Input phrase:As a Zooniverse admin, I want to detect when a scientist should be prompted to look at a subject, based on annotations and information from Talk comments.	
+As a Zooniverse admin, I desire to detect when a scientist should be motivate to search at a discipline, establish on note and data from lecture remark.	
+As a Zooniverse admin, I want to detect when a scientist should be prompt to front at a topic, base on annotation and information from Talk comment.	
+As a Zooniverse admin, I want to detect when a scientist should be prompted to attend at a national, free-base on annotations and information from Talk gossip.	
+As a Zooniverse admin, I want to detect when a scientist should be prompted to expect at a subject, based on annotations and information from Talk comments.	
+As a Zooniverse admin, I want to detect when a scientist should be prompted to count at a subject, based on annotations and information from Talk comments.	
+
+Input phrase:As a Zooniverse admin, I want to identify volunteer types.
+As a Zooniverse admin, I desire to name tennessean type.
+As a Zooniverse admin, I want to identify volunteer character.
+As a Zooniverse admin, I want to identify volunteer types.
+As a Zooniverse admin, I want to identify volunteer types.
+As a Zooniverse admin, I want to identify volunteer types.
+
+Input phrase:As a Zooniverse admin, I want to preclassify the Galaxy Zoo images using simple low level image features.
+As a menagerieniverse admin, I desire to preclassify the galax menagerie persona use elementary abject degree persona feature.
+As a Zooniverse admin, I want to preclassify the Galaxy Zoo persona practice bare humble grade picture feature_of_speech.
+As a Zooniverse admin, I want to preclassify the Galaxy Zoo picture using childlike depleted horizontal_surface prototype features.
+As a Zooniverse admin, I want to preclassify the Galaxy Zoo prototype using dim-witted broken floor trope features.
+As a Zooniverse admin, I want to preclassify the Galaxy Zoo trope using simple gloomy level double features.
+
+Input phrase:As a Zooniverse admin, I want to automatically detect Snapshot Serengeti images with no classifiable animals in them.
+As a Zooniverse admin, I desire to mechanically detect Snapshot Serengeti image with no classifiable animal in them.
+As a Zooniverse admin, I want to automatically detect Snapshot Serengeti persona with no classifiable animals in them.
+As a Zooniverse admin, I want to automatically detect Snapshot Serengeti picture with no classifiable animals in them.
+As a Zooniverse admin, I want to automatically detect Snapshot Serengeti prototype with no classifiable animals in them.
+As a Zooniverse admin, I want to automatically detect Snapshot Serengeti trope with no classifiable animals in them.
+
+Input phrase:As a Zooniverse admin, I want to perform automatic image series detection for the case of timestamping malfunction in Snapshot Serengeti images.	
+As a Zooniverse admin, I desire to do automatic persona serial signal_detection for the event of timestamping malfunction in Snapshot Serengeti personas.	
+As a Zooniverse admin, I want to perform automatic picture series detection for the lawsuit of timestamping malfunction in Snapshot Serengeti pictures.	
+As a Zooniverse admin, I want to perform automatic prototype series detection for the subject of timestamping malfunction in Snapshot Serengeti prototypes.	
+As a Zooniverse admin, I want to perform automatic trope series detection for the character of timestamping malfunction in Snapshot Serengeti tropes.	
+As a Zooniverse admin, I want to perform automatic double series detection for the font of timestamping malfunction in Snapshot Serengeti doubles.	
+
+Input phrase:As a Zooniverse admin, I want to perform automatic animal species preclassification in Snapshot Serengeti.	
+As a Zooniverse admin, I desire to do automatic animal coinage preclassification in Snapshot Serengeti.	
+As a Zooniverse admin, I want to perform automatic animal species preclassification in Snapshot Serengeti.	
+As a Zooniverse admin, I want to perform automatic animal species preclassification in Snapshot Serengeti.	
+As a Zooniverse admin, I want to perform automatic animal species preclassification in Snapshot Serengeti.	
+As a Zooniverse admin, I want to perform automatic animal species preclassification in Snapshot Serengeti.	
+
+Input phrase:As a Zooniverse admin, I want to perform automatic animal attribute preclassification in Snapshot Serengeti.	
+As a Zooniverse admin, I desire to do automatic animal property preclassification in Snapshot Serengeti.	
+As a Zooniverse admin, I want to perform automatic animal attribute preclassification in Snapshot Serengeti.	
+As a Zooniverse admin, I want to perform automatic animal attribute preclassification in Snapshot Serengeti.	
+As a Zooniverse admin, I want to perform automatic animal attribute preclassification in Snapshot Serengeti.	
+As a Zooniverse admin, I want to perform automatic animal attribute preclassification in Snapshot Serengeti.	
+
+Input phrase:As a Zooniverse admin, I want to perform automatic animal number detection in Snapshot Serengeti.	
+As a Zooniverse admin, I desire to do automatic animal act signal_detection in Snapshot Serengeti.	
+As a Zooniverse admin, I want to perform automatic animal phone_number detection in Snapshot Serengeti.	
+As a Zooniverse admin, I want to perform automatic animal numeral detection in Snapshot Serengeti.	
+As a Zooniverse admin, I want to perform automatic animal issue detection in Snapshot Serengeti.	
+As a Zooniverse admin, I want to perform automatic animal number detection in Snapshot Serengeti.	
+
+Input phrase:As a Zooniverse admin, I want to perform automatic segmentation or localization of plankton in Plankton Portal.	
+As a Zooniverse admin, I desire to do automatic cleavage or localization_of_function of plankton in Plankton portal_site.	
+As a Zooniverse admin, I want to perform automatic division or localization of plankton in Plankton portal_vein.	
+As a Zooniverse admin, I want to perform automatic segmentation or localization of plankton in Plankton Portal.	
+As a Zooniverse admin, I want to perform automatic segmentation or localization of plankton in Plankton Portal.	
+As a Zooniverse admin, I want to perform automatic segmentation or localization of plankton in Plankton Portal.	
+
+Input phrase:As a Zooniverse admin, I want to automatically detect Plankton Portal images with no classifiable plankton in them.	
+As a Zooniverse admin, I desire to mechanically detect Plankton portal_site image with no classifiable plankton in them.	
+As a Zooniverse admin, I want to automatically detect Plankton portal_vein persona with no classifiable plankton in them.	
+As a Zooniverse admin, I want to automatically detect Plankton Portal picture with no classifiable plankton in them.	
+As a Zooniverse admin, I want to automatically detect Plankton Portal prototype with no classifiable plankton in them.	
+As a Zooniverse admin, I want to automatically detect Plankton Portal trope with no classifiable plankton in them.	
+
+Input phrase:As a Zooniverse admin, I want to perform automatic detection of plankton size or orientation in Plankton Portal images.	
+As a Zooniverse admin, I desire to do automatic signal_detection of plankton size or predilection in Plankton portal_site image.	
+As a Zooniverse admin, I want to perform automatic detection of plankton size or orientation_course in Plankton portal_vein persona.	
+As a Zooniverse admin, I want to perform automatic detection of plankton size or orientation in Plankton Portal picture.	
+As a Zooniverse admin, I want to perform automatic detection of plankton size or orientation in Plankton Portal prototype.	
+As a Zooniverse admin, I want to perform automatic detection of plankton size or orientation in Plankton Portal trope.	
+
+Input phrase:As a Zooniverse admin, I want to perform automatic preclassification of plankton species in Plankton Portal images.	
+As a Zooniverse admin, I desire to do automatic preclassification of plankton coinage in Plankton portal_site image.	
+As a Zooniverse admin, I want to perform automatic preclassification of plankton species in Plankton portal_vein persona.	
+As a Zooniverse admin, I want to perform automatic preclassification of plankton species in Plankton Portal picture.	
+As a Zooniverse admin, I want to perform automatic preclassification of plankton species in Plankton Portal prototype.	
+As a Zooniverse admin, I want to perform automatic preclassification of plankton species in Plankton Portal trope.	
+
+Input phrase:As a Zooniverse admin, I want to perform automatic worm motion analysis to reduce video duration in Worm Watch Lab.	
+As a Zooniverse admin, I desire to do automatic worm gesture psychoanalysis to shrink video_recording duration in writhe lookout Lab.	
+As a Zooniverse admin, I want to perform automatic worm movement analysis to deoxidize television duration in Worm vigil Lab.	
+As a Zooniverse admin, I want to perform automatic worm apparent_motion analysis to repress video duration in Worm determine Lab.	
+As a Zooniverse admin, I want to perform automatic worm motion analysis to abridge video duration in Worm Watch Lab.	
+As a Zooniverse admin, I want to perform automatic worm motion analysis to boil_down video duration in Worm Watch Lab.	
+
+Input phrase:As a Zooniverse admin, I want to automatically detect the time in a Worm Watch Lab video where the worm lays an egg.	
+As a Zooniverse admin, I desire to mechanically detect the clock_time in a writhe lookout Lab video_recording where the worm put an testis.	
+As a Zooniverse admin, I want to automatically detect the fourth_dimension in a Worm vigil Lab television where the worm lay an egg.	
+As a Zooniverse admin, I want to automatically detect the meter in a Worm determine Lab video where the worm lays an egg.	
+As a Zooniverse admin, I want to automatically detect the prison_term in a Worm Watch Lab video where the worm lays an egg.	
+As a Zooniverse admin, I want to automatically detect the time in a Worm Watch Lab video where the worm lays an egg.	
+
+Input phrase:As a Zooniverse admin, I want to detect important features such as areas of flooding, damage, temporary shelters, blocked roads etc in the satellite images.	
+As a Zooniverse admin, I desire to detect significant feature such as area of implosion_therapy, price, impermanent shelter, barricade road etc in the satellite image.	
+As a Zooniverse admin, I want to detect crucial feature_of_speech such as sphere of flooding, wrong, irregular protection, obstruct roads etc in the satellite persona.	
+As a Zooniverse admin, I want to detect authoritative features such as areas of flooding, damage, temporary tax_shelter, stop roads etc in the satellite picture.	
+As a Zooniverse admin, I want to detect important features such as areas of flooding, damage, temporary shelters, jam roads etc in the satellite prototype.	
+As a Zooniverse admin, I want to detect important features such as areas of flooding, damage, temporary shelters, block roads etc in the satellite trope.	
+
+Input phrase:As a Zooniverse admin, I want to assess the probability/weight of a volunteers classification based on their experience.
+As a Zooniverse admin, I desire to measure the probability/system_of_weights of a volunteer categorization establish on their experience.
+As a Zooniverse admin, I want to tax the probability/weight_unit of a tennessean classification base on their experience.
+As a Zooniverse admin, I want to assess the probability/weight of a volunteers classification free-base on their experience.
+As a Zooniverse admin, I want to assess the probability/weight of a volunteers classification based on their experience.
+As a Zooniverse admin, I want to assess the probability/weight of a volunteers classification based on their experience.
+
+Input phrase:As a Zooniverse admin, I want to perform prefiltering of the images to remove artefacts such as bright stars and camera read errors.	
+As a Zooniverse admin, I desire to do prefiltering of the image to get_rid_of artifact such as undimmed star and television_camera take mistake.	
+As a Zooniverse admin, I want to perform prefiltering of the persona to take_out artefacts such as bright ace and camera learn erroneousness.	
+As a Zooniverse admin, I want to perform prefiltering of the picture to absent artefacts such as bright headliner and camera understand error.	
+As a Zooniverse admin, I want to perform prefiltering of the prototype to murder artefacts such as bright asterisk and camera read errors.	
+As a Zooniverse admin, I want to perform prefiltering of the trope to remove artefacts such as bright star_topology and camera read errors.	
+
+Input phrase:As a Zooniverse admin, I want to detect moving and transient objects in the images.	
+As a Zooniverse admin, I desire to detect moving and transeunt object in the image.	
+As a Zooniverse admin, I want to detect moving and ephemeral aim in the persona.	
+As a Zooniverse admin, I want to detect moving and transient objects in the picture.	
+As a Zooniverse admin, I want to detect moving and transient objects in the prototype.	
+As a Zooniverse admin, I want to detect moving and transient objects in the trope.	
+
+Input phrase:As a Zooniverse admin, I want to remove background noise and distracting sounds from the audio files.	
+As a Zooniverse admin, I desire to get_rid_of setting randomness and distract sound from the audio file.	
+As a Zooniverse admin, I want to take_out backdrop noise and perturb audio from the audio files.	
+As a Zooniverse admin, I want to absent background noise and distracting phone from the audio files.	
+As a Zooniverse admin, I want to murder background noise and distracting strait from the audio files.	
+As a Zooniverse admin, I want to remove background noise and distracting sounds from the audio files.	
+
+Input phrase:As a Zooniverse admin, I want to group whale calls that are similar.	
+As a Zooniverse admin, I desire to group whale call that are alike.	
+As a Zooniverse admin, I want to group whale cry that are like.	
+As a Zooniverse admin, I want to group whale birdcall that are exchangeable.	
+As a Zooniverse admin, I want to group whale margin_call that are similar.	
+As a Zooniverse admin, I want to group whale call_option that are similar.	
+
+Input phrase:As a Zooniverse admin, I want to identify the number of whales heard in a single audio file.	
+As a Zooniverse admin, I desire to name the act of giant hear in a individual audio file.	
+As a Zooniverse admin, I want to identify the phone_number of whale learn in a unmarried audio file.	
+As a Zooniverse admin, I want to identify the numeral of whales listen in a single audio file.	
+As a Zooniverse admin, I want to identify the issue of whales heard in a single audio file.	
+As a Zooniverse admin, I want to identify the number of whales heard in a single audio file.	
+
+Input phrase:As a Zooniverse admin, I want to know when I should interrupt a volunteer.	
+As a Zooniverse admin, I desire to acknowledge when I should interrupt a tennessean.	
+As a Zooniverse admin, I want to sleep_together when I should interrupt a volunteer.	
+As a Zooniverse admin, I want to know when I should interrupt a volunteer.	
+As a Zooniverse admin, I want to know when I should interrupt a volunteer.	
+As a Zooniverse admin, I want to know when I should interrupt a volunteer.	
+
+Input phrase:As a Zooniverse admin, I want to know whether I should interrupt a volunteer with text, an image, or a video.	
+As a Zooniverse admin, I desire to acknowledge whether I should interrupt a tennessean with textbook, an persona, or a video_recording.	
+As a Zooniverse admin, I want to sleep_together whether I should interrupt a volunteer with text, an picture, or a television.	
+As a Zooniverse admin, I want to know whether I should interrupt a volunteer with text, an prototype, or a video.	
+As a Zooniverse admin, I want to know whether I should interrupt a volunteer with text, an trope, or a video.	
+As a Zooniverse admin, I want to know whether I should interrupt a volunteer with text, an double, or a video.	
+
+Input phrase:As a Zooniverse admin, I want to know when I should educate a volunteer.	
+As a Zooniverse admin, I desire to acknowledge when I should train a tennessean.	
+As a Zooniverse admin, I want to sleep_together when I should educate a volunteer.	
+As a Zooniverse admin, I want to know when I should educate a volunteer.	
+As a Zooniverse admin, I want to know when I should educate a volunteer.	
+As a Zooniverse admin, I want to know when I should educate a volunteer.	
+
+Input phrase:As a Zooniverse admin, I want to know whether I should educate a volunteer with text, an image, or a video.	
+As a Zooniverse admin, I desire to acknowledge whether I should train a tennessean with textbook, an persona, or a video_recording.	
+As a Zooniverse admin, I want to sleep_together whether I should educate a volunteer with text, an picture, or a television.	
+As a Zooniverse admin, I want to know whether I should educate a volunteer with text, an prototype, or a video.	
+As a Zooniverse admin, I want to know whether I should educate a volunteer with text, an trope, or a video.	
+As a Zooniverse admin, I want to know whether I should educate a volunteer with text, an double, or a video.	
+
+Input phrase:As a Zooniverse admin,I want to know which piece of education I should give to a volunteer.	
+As a Zooniverse admin,I desire to acknowledge which part of department_of_education I should yield to a tennessean.	
+As a Zooniverse admin,I want to sleep_together which musical_composition of education I should hold to a volunteer.	
+As a Zooniverse admin,I want to know which firearm of education I should render to a volunteer.	
+As a Zooniverse admin,I want to know which objet_d'art of education I should impart to a volunteer.	
+As a Zooniverse admin,I want to know which while of education I should establish to a volunteer.	
+
+Input phrase:As a Zooniverse admin, I want to know when a volunteer has made an interesting comment on a subject.	
+As a Zooniverse admin, I desire to acknowledge when a tennessean has make an interesting remark on a discipline.	
+As a Zooniverse admin, I want to sleep_together when a volunteer has induce an interesting gossip on a topic.	
+As a Zooniverse admin, I want to know when a volunteer has cause an interesting comment on a national.	
+As a Zooniverse admin, I want to know when a volunteer has produce an interesting comment on a subject.	
+As a Zooniverse admin, I want to know when a volunteer has draw an interesting comment on a subject.	
+
+Input phrase:As a Zooniverse admin, I want to know when Zoonibot should comment on a subject.
+As a Zooniverse admin, I desire to acknowledge when Zoonibot should gloss on a discipline.
+As a Zooniverse admin, I want to sleep_together when Zoonibot should comment on a topic.
+As a Zooniverse admin, I want to know when Zoonibot should comment on a national.
+As a Zooniverse admin, I want to know when Zoonibot should comment on a subject.
+As a Zooniverse admin, I want to know when Zoonibot should comment on a subject.
+
+Input phrase:As a Zooniverse admin, I want to know when Zoonibot should give an explanation.	
+As a Zooniverse admin, I desire to acknowledge when Zoonibot should yield an explanation.	
+As a Zooniverse admin, I want to sleep_together when Zoonibot should hold an explanation.	
+As a Zooniverse admin, I want to know when Zoonibot should render an explanation.	
+As a Zooniverse admin, I want to know when Zoonibot should impart an explanation.	
+As a Zooniverse admin, I want to know when Zoonibot should establish an explanation.	
+
+Input phrase:As a Zooniverse admin, I want to know what Zoonibot should say to a volunteer.	
+As a Zooniverse admin, I desire to acknowledge what Zoonibot should state to a tennessean.	
+As a Zooniverse admin, I want to sleep_together what Zoonibot should allege to a volunteer.	
+As a Zooniverse admin, I want to know what Zoonibot should suppose to a volunteer.	
+As a Zooniverse admin, I want to know what Zoonibot should read to a volunteer.	
+As a Zooniverse admin, I want to know what Zoonibot should order to a volunteer.	
+
+Input phrase:As a Zooniverse admin, I want to group subjects by similarity.	
+As a Zooniverse admin, I desire to group subject by similarity.	
+As a Zooniverse admin, I want to group discipline by similarity.	
+As a Zooniverse admin, I want to group topic by similarity.	
+As a Zooniverse admin, I want to group national by similarity.	
+As a Zooniverse admin, I want to group subjects by similarity.	
+
+Input phrase:As a Zooniverse admin, I want to recommend different projects to volunteers based on their previous experiences.	
+As a Zooniverse admin, I desire to commend unlike undertaking to volunteer establish on their former experience.	
+As a Zooniverse admin, I want to recommend different project to tennessean base on their previous experiences.	
+As a Zooniverse admin, I want to recommend different projects to volunteers free-base on their previous experiences.	
+As a Zooniverse admin, I want to recommend different projects to volunteers based on their previous experiences.	
+As a Zooniverse admin, I want to recommend different projects to volunteers based on their previous experiences.	
+
+Input phrase:As an admin, I want to see a summary of articles, so that I reuse them.	
+As an admin, I desire to understand a summary of article, so that I recycle them.	
+As an admin, I want to witness a summary of articles, so that I reuse them.	
+As an admin, I want to visualize a summary of articles, so that I reuse them.	
+As an admin, I want to learn a summary of articles, so that I reuse them.	
+As an admin, I want to watch a summary of articles, so that I reuse them.	
+
+Time for the single dataset = 0.9527 seconds = 0.0003 hours
+
+Time for all datasets = 26.5793 seconds = 0.0074 hours

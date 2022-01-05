@@ -1,0 +1,374 @@
+data_set_number:9
+
+Input phrase:As a moderator, I want to create a new game by entering a name and an optional description, so that I can start inviting estimators.
+As a moderator, I desire to make a fresh plot by enter a name and an optional description, so that I can get_down invite calculator.
+As a moderator, I want to produce a raw game by enroll a name and an optional description, so that I can begin tempt estimators.
+As a moderator, I want to create a newfangled game by figure a name and an optional description, so that I can depart receive estimators.
+As a moderator, I want to create a modern game by record a name and an optional description, so that I can originate inviting estimators.
+As a moderator, I want to create a new game by accede a name and an optional description, so that I can startle inviting estimators.
+
+Input phrase:As a moderator, I want to invite estimators by giving them a URL where they can access the game, so that we can start the game.
+As a moderator, I desire to tempt calculator by give them a URL where they can access the plot, so that we can get_down the plot.
+As a moderator, I want to receive estimators by yield them a URL where they can access the game, so that we can begin the game.
+As a moderator, I want to invite estimators by hold them a URL where they can access the game, so that we can depart the game.
+As a moderator, I want to invite estimators by render them a URL where they can access the game, so that we can originate the game.
+As a moderator, I want to invite estimators by impart them a URL where they can access the game, so that we can startle the game.
+
+Input phrase:As a moderator, I want to start a round by entering an item in a single multi-line text field, so that we can estimate it.
+As a moderator, I desire to get_down a cycle by enter an detail in a individual multi-line textbook battlefield, so that we can calculate it.
+As a moderator, I want to begin a beat by enroll an token in a unmarried multi-line text discipline, so that we can estimate it.
+As a moderator, I want to depart a round_of_golf by figure an item in a single multi-line text sphere, so that we can estimate it.
+As a moderator, I want to originate a turn by record an item in a single multi-line text playing_field, so that we can estimate it.
+As a moderator, I want to startle a rung by accede an item in a single multi-line text plain, so that we can estimate it.
+
+Input phrase:As a moderator, I want to see all items we try to estimate this session, so that I can answer questions about the current story such as "does this include ___".
+As a moderator, I desire to understand all item we test to calculate this school_term, so that I can suffice question about the current narrative such as "does this admit ___".
+As a moderator, I want to witness all detail we judge to estimate this seance, so that I can answer doubt about the current floor such as "does this include ___".
+As a moderator, I want to visualize all token we sample to estimate this session, so that I can answer motion about the current history such as "does this include ___".
+As a moderator, I want to learn all items we hear to estimate this session, so that I can answer questions about the current report such as "does this include ___".
+As a moderator, I want to watch all items we try_on to estimate this session, so that I can answer questions about the current fib such as "does this include ___".
+
+Input phrase:As a moderator, I want to select an item to be estimated or re-estimated, so that the team sees that item and can estimate it.
+As a moderator, I desire to choose an detail to be calculate or re-calculate, so that the team see that detail and can calculate it.
+As a moderator, I want to select an token to be calculate or re-calculate, so that the team understand that token and can estimate it.
+As a moderator, I want to select an item to be estimated or re-estimated, so that the team witness that item and can estimate it.
+As a moderator, I want to select an item to be estimated or re-estimated, so that the team visualize that item and can estimate it.
+As a moderator, I want to select an item to be estimated or re-estimated, so that the team learn that item and can estimate it.
+
+Input phrase:As a moderator, I want to add an item to the list of items to be estimated, so that we can be flexible and accommodate situations where we think of a new story while playing.
+As a moderator, I desire to lend an detail to the tilt of details to be estimate, so that we can be elastic and suit situation where we remember of a fresh narrative while play.
+As a moderator, I want to total an token to the list of tokens to be calculate, so that we can be compromising and adapt site where we intend of a raw floor while act.
+As a moderator, I want to add an item to the list of token to be estimated, so that we can be flexible and lodge position where we think of a newfangled history while toy.
+As a moderator, I want to add an item to the list of items to be estimated, so that we can be flexible and oblige situations where we think of a modern report while dally.
+As a moderator, I want to add an item to the list of items to be estimated, so that we can be flexible and accommodate situations where we think of a new fib while bring.
+
+Input phrase:As a moderator, I want to edit an item in the list of items to be estimated, so that I can make it better reflect the team's understanding of the item.
+As a moderator, I desire to edit an detail in the tilt of details to be estimate, so that I can induce it well chew_over the team's agreement of the detail.
+As a moderator, I want to edit an token in the list of tokens to be calculate, so that I can cause it better reflect the team's sympathy of the token.
+As a moderator, I want to edit an item in the list of token to be estimated, so that I can produce it better reflect the team's reason of the item.
+As a moderator, I want to edit an item in the list of items to be estimated, so that I can draw it better reflect the team's understanding of the item.
+As a moderator, I want to edit an item in the list of items to be estimated, so that I can create it better reflect the team's understanding of the item.
+
+Input phrase:As a moderator, I want to delete an item from the list of items to be estimated, so that we can remove it and not estimate it.
+As a moderator, I desire to erase an detail from the tilt of details to be calculate, so that we can get_rid_of it and not calculate it.
+As a moderator, I want to edit an token from the list of tokens to be calculate, so that we can take_out it and not estimate it.
+As a moderator, I want to delete an item from the list of token to be estimated, so that we can absent it and not estimate it.
+As a moderator, I want to delete an item from the list of items to be estimated, so that we can murder it and not estimate it.
+As a moderator, I want to delete an item from the list of items to be estimated, so that we can remove it and not estimate it.
+
+Input phrase:As a moderator, I want to show all estimates immediately, so that I can decide to show the estimates that have been given even though not all estimators have given their estimate.
+As a moderator, I desire to prove all appraisal immediately, so that I can decide to prove the appraisal that have been give even though not all calculator have give their appraisal.
+As a moderator, I want to testify all appraisal immediately, so that I can decide to testify the appraisal that have been yield even though not all estimators have yield their estimate.
+As a moderator, I want to picture all estimates immediately, so that I can decide to picture the estimates that have been hold even though not all estimators have hold their estimate.
+As a moderator, I want to express all estimates immediately, so that I can decide to express the estimates that have been render even though not all estimators have render their estimate.
+As a moderator, I want to indicate all estimates immediately, so that I can decide to indicate the estimates that have been impart even though not all estimators have impart their estimate.
+
+Input phrase:As a moderator, I want to accept the average of all estimates, so that we can move on to the next item when we agree.
+As a moderator, I desire to bear the average of all estimate, so that we can travel on to the following detail when we match.
+As a moderator, I want to take the average of all appraisal, so that we can go on to the adjacent token when we harmonize.
+As a moderator, I want to accept the average of all estimates, so that we can be_active on to the future item when we agree.
+As a moderator, I want to accept the average of all estimates, so that we can act on to the next item when we agree.
+As a moderator, I want to accept the average of all estimates, so that we can affect on to the next item when we agree.
+
+Input phrase:As a moderator, I want to have the "estimate" field filled in automatically if all estimators show the same card, so that I can accept it more quickly.
+As a moderator, I desire to have the "appraisal" battlefield fill in mechanically if all calculator prove the same wag, so that I can bear it more promptly.
+As a moderator, I want to have the "estimate" discipline occupy in automatically if all estimators testify the same poster, so that I can take it more cursorily.
+As a moderator, I want to have the "estimate" sphere meet in automatically if all estimators picture the same calling_card, so that I can accept it more quickly.
+As a moderator, I want to have the "estimate" playing_field fill_up in automatically if all estimators express the same menu, so that I can accept it more quickly.
+As a moderator, I want to have the "estimate" plain satiate in automatically if all estimators indicate the same batting_order, so that I can accept it more quickly.
+
+Input phrase:As a moderator, I want to enter the agreed-upon estimate, so that we can move on to the next item when we agree.
+As a moderator, I desire to enroll the match-upon appraisal, so that we can travel on to the following detail when we match.
+As a moderator, I want to figure the match-upon estimate, so that we can go on to the adjacent token when we harmonize.
+As a moderator, I want to record the harmonize-upon estimate, so that we can be_active on to the future item when we agree.
+As a moderator, I want to accede the agreed-upon estimate, so that we can act on to the next item when we agree.
+As a moderator, I want to insert the agreed-upon estimate, so that we can affect on to the next item when we agree.
+
+Input phrase:As a moderator, I want to estimate a story we estimated earlier in the session again, so that we can give a new estimate if we feel different about the story after estimating other related stories.
+As a moderator, I desire to calculate a narrative we calculated sooner in the school_term again, so that we can yield a fresh calculate if we find unlike about the narrative after estimate other related narrative.
+As a moderator, I want to estimate a floor we calculate in_the_first_place in the seance again, so that we can hold a raw estimate if we palpate different about the floor after calculate other related story.
+As a moderator, I want to estimate a hihistory we estimated earlier in the session again, so that we can render a newfangled estimate if we feel different about the hihistory after estimating other related floor.
+As a moderator, I want to estimate a report we estimated earlier in the session again, so that we can impart a modern estimate if we feel different about the report after estimating other related history.
+As a moderator, I want to estimate a fib we estimated earlier in the session again, so that we can establish a new estimate if we feel different about the fib after estimating other related report.
+
+Input phrase:As a moderator, I want to import stories from a spreadsheet, so that I don't have to copy and paste each individual story.
+As a moderator, I desire to spell narrative from a spreadsheet, so that I don't have to imitate and glue each individual narrative.
+As a moderator, I want to import floor from a spreadsheet, so that I don't have to replicate and paste each individual floor.
+As a moderator, I want to import floor from a spreadsheet, so that I don't have to copy and paste each individual history.
+As a moderator, I want to import hireport from a spreadsheet, so that I don't have to copy and paste each individual report.
+As a moderator, I want to import report from a spreadsheet, so that I don't have to copy and paste each individual fib.
+
+Input phrase:As a moderator, I want to copy/paste stories from a spreadsheet, so that I can get started more quickly.
+As a moderator, I desire to imitate/spread narrative from a spreadsheet, so that I can become get_down more promptly.
+As a moderator, I want to replicate/paste story from a spreadsheet, so that I can receive begin more cursorily.
+As a moderator, I want to copy/paste floor from a spreadsheet, so that I can arrive depart more quickly.
+As a moderator, I want to copy/paste history from a spreadsheet, so that I can bring originate more quickly.
+As a moderator, I want to copy/paste report from a spreadsheet, so that I can experience start more quickly.
+
+Input phrase:As a moderator, I want to browse through previous games, so that I can find the previous game I'm looking for.
+As a moderator, I desire to shop through former plot, so that I can detect the former plot I'm look for.
+As a moderator, I want to crop through previous plot, so that I can determine the previous game I'm search for.
+As a moderator, I want to browse through previous games, so that I can witness the previous game I'm front for.
+As a moderator, I want to browse through previous games, so that I can line_up the previous game I'm attend for.
+As a moderator, I want to browse through previous games, so that I can discover the previous game I'm expect for.
+
+Input phrase:As a moderator, I want to view a transcript of a game, so that I can see the stories and estimates.
+As a moderator, I desire to understand a transcript of a plot, so that I can understand the narrative and estimate.
+As a moderator, I want to watch a transcript of a game, so that I can witness the story and appraisal.
+As a moderator, I want to view a transcript of a game, so that I can visualize the floor and estimates.
+As a moderator, I want to view a transcript of a game, so that I can learn the history and estimates.
+As a moderator, I want to view a transcript of a game, so that I can watch the report and estimates.
+
+Input phrase:As a moderator, I want to export a transcript of a game as a HTML file, so that I can save the stories and estimates locally.
+As a moderator, I desire to export a transcript of a plot as a hypertext_markup_language file, so that I can salvage the narrative and estimate locally.
+As a moderator, I want to export a transcript of a game as a HTML file, so that I can deliver the story and appraisal locally.
+As a moderator, I want to export a transcript of a game as a HTML file, so that I can spare the floor and estimates locally.
+As a moderator, I want to export a transcript of a game as a HTML file, so that I can keep_open the history and estimates locally.
+As a moderator, I want to export a transcript of a game as a HTML file, so that I can write the report and estimates locally.
+
+Input phrase:As a moderator, I want to export a transcript of a game as a CSV file, so that I can further process the stories and estimates.
+As a moderator, I desire to export a transcript of a plot as a CSV file, so that I can further action the narrative and estimate.
+As a moderator, I want to export a transcript of a game as a CSV file, so that I can further march the story and appraisal.
+As a moderator, I want to export a transcript of a game as a CSV file, so that I can further work the floor and estimates.
+As a moderator, I want to export a transcript of a game as a CSV file, so that I can further serve the history and estimates.
+As a moderator, I want to export a transcript of a game as a CSV file, so that I can further process the report and estimates.
+
+Input phrase:As a moderator, I want to delete a game, so that stories and estimates for this game are no longer stored.
+As a moderator, I desire to erase a plot, so that narrative and estimate for this plot are no longer store.
+As a moderator, I want to edit a game, so that story and appraisal for this game are no longer stored.
+As a moderator, I want to delete a game, so that floor and estimates for this game are no longer stored.
+As a moderator, I want to delete a game, so that history and estimates for this game are no longer stored.
+As a moderator, I want to delete a game, so that report and estimates for this game are no longer stored.
+
+Input phrase:As a moderator, I want to create an account for the application by entering my name, email address, a password and a username, so that I can start using the application.
+As a moderator, I desire to make an history for the lotion by enter my name, electronic_mail savoir-faire, a password and a username, so that I can get_down use the lotion.
+As a moderator, I want to produce an report for the application by enroll my name, email address, a password and a username, so that I can begin practice the application.
+As a moderator, I want to create an explanation for the application by figure my name, email address, a password and a username, so that I can depart using the application.
+As a moderator, I want to create an score for the application by record my name, email address, a password and a username, so that I can originate using the application.
+As a moderator, I want to create an bill for the application by accede my name, email address, a password and a username, so that I can startle using the application.
+
+Input phrase:As a moderator, I want to log in using my account name and password, so that I can start using the application.
+As a moderator, I desire to log in use my history name and password, so that I can get_down use the lotion.
+As a moderator, I want to log in practice my report name and password, so that I can begin practice the application.
+As a moderator, I want to log in using my explanation name and password, so that I can depart using the application.
+As a moderator, I want to log in using my score name and password, so that I can originate using the application.
+As a moderator, I want to log in using my bill name and password, so that I can startle using the application.
+
+Input phrase:As a moderator, I want to change my account details, so that I can keep my account details up-to-date.
+As a moderator, I desire to switch my history detail, so that I can continue my history detail up-to-date.
+As a moderator, I want to exchange my report contingent, so that I can prevent my report contingent up-to-date.
+As a moderator, I want to transfer my explanation details, so that I can observe my explanation details up-to-date.
+As a moderator, I want to deepen my score details, so that I can retain my score details up-to-date.
+As a moderator, I want to change my bill details, so that I can sustain my bill details up-to-date.
+
+Input phrase:As a moderator, I want to delete my account, so that account information and games are no longer stored.
+As a moderator, I desire to erase my history, so that history data and game are no longer store.
+As a moderator, I want to edit my report, so that report information and plot are no longer stored.
+As a moderator, I want to delete my explanation, so that explanation information and games are no longer stored.
+As a moderator, I want to delete my score, so that score information and games are no longer stored.
+As a moderator, I want to delete my bill, so that bill information and games are no longer stored.
+
+Input phrase:As a moderator, I want to see dates and times in my local timezone, so that I don't have to do timezone conversion myself.
+As a moderator, I desire to understand date and multiplication in my local timezone, so that I don't have to do timezone conversion myself.
+As a moderator, I want to witness dates and time in my local timezone, so that I don't have to do timezone conversion myself.
+As a moderator, I want to visualize dates and clock_time in my local timezone, so that I don't have to do timezone conversion myself.
+As a moderator, I want to learn dates and fourth_dimension in my local timezone, so that I don't have to do timezone conversion myself.
+As a moderator, I want to watch dates and meter in my local timezone, so that I don't have to do timezone conversion myself.
+
+Input phrase:As a moderator, I want to get a password reminder by email, so that I can get back to using the application when I've forgotten my password.
+As a moderator, I desire to become a password admonisher by electronic_mail, so that I can become back to use the lotion when I've forget my password.
+As a moderator, I want to receive a password reminder by email, so that I can receive back to practice the application when I've forgotten my password.
+As a moderator, I want to arrive a password reminder by email, so that I can arrive back to using the application when I've forgotten my password.
+As a moderator, I want to bring a password reminder by email, so that I can bring back to using the application when I've forgotten my password.
+As a moderator, I want to experience a password reminder by email, so that I can experience back to using the application when I've forgotten my password.
+
+Input phrase:As a moderator, I want to select whether to have the team estimate with {0, 1/2, 1, 2, 3, 5, 8, etc.} or {0, 1, 2, 4, 8, 16, 32, etc.}, so that the team can use either the modified Fibonacci sequence or powers of 2.
+As a moderator, I desire to choose whether to have the team appraisal with {zero, one/two, one, two, three, five, eight, etc.} or {zero, one, two, four, eight, one6, threetwo, etc.}, so that the team can practice either the modify Fibonacci succession or power of two.
+As a moderator, I want to select whether to have the team estimate with {0, 1/2, 1, 2, 3, 5, 8, etc.} or {0, 1, 2, 4, 8, 16, 32, etc.}, so that the team can use either the change Fibonacci sequence or ability of 2.
+As a moderator, I want to select whether to have the team estimate with {0, 1/2, 1, 2, 3, 5, 8, etc.} or {0, 1, 2, 4, 8, 16, 32, etc.}, so that the team can use either the modified Fibonacci sequence or office of 2.
+As a moderator, I want to select whether to have the team estimate with {0, 1/2, 1, 2, 3, 5, 8, etc.} or {0, 1, 2, 4, 8, 16, 32, etc.}, so that the team can use either the modified Fibonacci sequence or exponent of 2.
+As a moderator, I want to select whether to have the team estimate with {0, 1/2, 1, 2, 3, 5, 8, etc.} or {0, 1, 2, 4, 8, 16, 32, etc.}, so that the team can use either the modified Fibonacci sequence or might of 2.
+
+Input phrase:As a moderator, I want to invite up to 15 estimators, so that we can play with large but not immense teams.
+As a moderator, I desire to tempt up to fifteen calculator, so that we can act with bombastic but not huge team.
+As a moderator, I want to receive up to 15 estimators, so that we can toy with big but not immense teams.
+As a moderator, I want to invite up to 15 estimators, so that we can dally with large but not immense teams.
+As a moderator, I want to invite up to 15 estimators, so that we can bring with large but not immense teams.
+As a moderator, I want to invite up to 15 estimators, so that we can bet with large but not immense teams.
+
+Input phrase:As an estimator, I want to join a game by entering my name on the page I received the URL for, so that I can participate.
+As an calculator, I desire to connect a plot by enter my name on the page I receive the URL for, so that I can enter.
+As an estimator, I want to join a game by enroll my name on the page I pick_up the URL for, so that I can participate.
+As an estimator, I want to join a game by figure my name on the page I experience the URL for, so that I can participate.
+As an estimator, I want to join a game by record my name on the page I welcome the URL for, so that I can participate.
+As an estimator, I want to join a game by accede my name on the page I meet the URL for, so that I can participate.
+
+Input phrase:As an estimator, I want to see the item we're estimating, so that I know what I'm giving an estimate for.
+As an calculator, I desire to understand the detail we're appraisal, so that I acknowledge what I'm give an appraisal for.
+As an estimator, I want to witness the token we're calculate, so that I sleep_together what I'm yield an estimate for.
+As an estimator, I want to visualize the item we're estimating, so that I know what I'm hold an estimate for.
+As an estimator, I want to learn the item we're estimating, so that I know what I'm render an estimate for.
+As an estimator, I want to watch the item we're estimating, so that I know what I'm impart an estimate for.
+
+Input phrase:As an estimator, I want to see all items we will try to estimate this session, so that I have a feel for the sizes of the various items.
+As an calculator, I desire to understand all item we will test to calculate this school_term, so that I have a spirit for the size of the assorted item.
+As an estimator, I want to witness all detail we will judge to estimate this seance, so that I have a tactile_property for the sizes of the respective detail.
+As an estimator, I want to visualize all token we will sample to estimate this session, so that I have a feel for the sizes of the diverse token.
+As an estimator, I want to learn all items we will hear to estimate this session, so that I have a feel for the sizes of the versatile items.
+As an estimator, I want to watch all items we will try_on to estimate this session, so that I have a feel for the sizes of the various items.
+
+Input phrase:As a participant, I want to immediately see that an estimate has been given by a specific estimator, so that I know who has already given an estimate and who we're still waiting for.
+As a player, I desire to immediately understand that an appraisal has been give by a specific calculator, so that I acknowledge who has already give an appraisal and who we're however wait for.
+As a participant, I want to immediately witness that an estimate has been yield by a specific estimator, so that I sleep_together who has already yield an estimate and who we're even expect for.
+As a participant, I want to immediately visualize that an estimate has been hold by a specific estimator, so that I know who has already hold an estimate and who we're still waiting for.
+As a participant, I want to immediately learn that an estimate has been render by a specific estimator, so that I know who has already render an estimate and who we're still waiting for.
+As a participant, I want to immediately watch that an estimate has been impart by a specific estimator, so that I know who has already impart an estimate and who we're still waiting for.
+
+Input phrase:As a participant, I want to be shown all estimates at the same time after all estimators have given their estimate, so that I can be sure estimates are independent and not influenced by other estimates given in the same draw.
+As a player, I desire to be show all appraisal at the same clock_time after all calculator have give their appraisal, so that I can be certain appraisal are autonomous and not influence by other appraisal give in the same drawing_card.
+As a participant, I want to be prove all appraisal at the same fourth_dimension after all estimators have yield their estimate, so that I can be indisputable appraisal are independent and not determine by other appraisal yield in the same hook.
+As a participant, I want to be testify all estimates at the same meter after all estimators have hold their estimate, so that I can be sure estimates are independent and not charm by other estimates hold in the same draw.
+As a participant, I want to be picture all estimates at the same prison_term after all estimators have render their estimate, so that I can be sure estimates are independent and not influenced by other estimates render in the same draw.
+As a participant, I want to be express all estimates at the same time after all estimators have impart their estimate, so that I can be sure estimates are independent and not influenced by other estimates impart in the same draw.
+
+Input phrase:As a participant, I want to be able to change my estimate up until the last person selects a card and all are shown, so that I can change my mind based on information I hear.
+As a player, I desire to be able to switch my appraisal up until the concluding person choose a wag and all are show, so that I can switch my judgment establish on data I learn.
+As a participant, I want to be able to exexchange my estimate up until the final person selects a poster and all are prove, so that I can exexchange my thinker base on information I listen.
+As a participant, I want to be able to transfer my estimate up until the last person selects a calling_card and all are testify, so that I can transfer my mind free-base on information I hear.
+As a participant, I want to be able to deepen my estimate up until the last person selects a menu and all are picture, so that I can deepen my mind based on information I hear.
+As a participant, I want to be able to change my estimate up until the last person selects a batting_order and all are express, so that I can change my mind based on information I hear.
+
+Input phrase:As a participant, I want to be able to see each estimator's prior estimates for the story being estimated, so that I can see how his or her opinion has changed so I can ask questions.
+As a player, I desire to be able to understand each calculator's anterior estimate for the narrative being estimate, so that I can understand how his or her public_opinion has change so I can necessitate question.
+As a participant, I want to be able to witness each estimator's prior appraisal for the floor being calculate, so that I can witness how his or her impression has switch so I can ask doubt.
+As a participant, I want to be able to visualize each estimator's prior estimates for the history being estimated, so that I can visualize how his or her opinion has exchange so I can ask motion.
+As a participant, I want to be able to learn each estimator's prior estimates for the report being estimated, so that I can learn how his or her opinion has transfer so I can ask questions.
+As a participant, I want to be able to watch each estimator's prior estimates for the fib being estimated, so that I can watch how his or her opinion has deepen so I can ask questions.
+
+Input phrase:As a participant, I want to see who gave what estimates during the current round, so that I know this when we're discussing the estimates.
+As a player, I desire to understand who give what estimate during the current cycle, so that I acknowledge this when we're discourse the estimate.
+As a participant, I want to witness who yield what appraisal during the current beat, so that I sleep_together this when we're hash_out the appraisal.
+As a participant, I want to visualize who hold what estimates during the current round_of_golf, so that I know this when we're discussing the estimates.
+As a participant, I want to learn who render what estimates during the current turn, so that I know this when we're discussing the estimates.
+As a participant, I want to watch who impart what estimates during the current rung, so that I know this when we're discussing the estimates.
+
+Input phrase:As a participant, I want to be able to start a two-minute countdown timer that all participants can see, so that I can limit the time spent discussing the estimates when I think we've talked long enough.
+As a player, I desire to be able to get_down a deuce-moment countdown clock_timekeeper that all players can understand, so that I can restrict the clock_time spend discourse the estimate when I remember we've talk long enough.
+As a participant, I want to be able to begin a two-hour countdown fourth_dimensionr that all player can witness, so that I can specify the fourth_dimension spent hash_out the appraisal when I intend we've speak long enough.
+As a participant, I want to be able to depart a two-minute countdown meterr that all participants can visualize, so that I can limit the meter spent discussing the estimates when I think we've spill long enough.
+As a participant, I want to be able to originate a two-minute countdown prison_termr that all participants can learn, so that I can limit the prison_term spent discussing the estimates when I think we've spill_the_beans long enough.
+As a participant, I want to be able to startle a two-minute countdown timer that all participants can watch, so that I can limit the time spent discussing the estimates when I think we've lecture long enough.
+
+Input phrase:As a participant, I want to have the two-minute timer reset itself as soon as we all play an estimate, so that it's ready for use on the next round.
+As a acter, I desire to have the deuce-moment timekeeper readjust itself as soon as we all act an appraisal, so that it's quick for function on the following cycle.
+As a participant, I want to have the two-hour timer reset itself as soon as we all toy an estimate, so that it's ready for consumption on the adjacent beat.
+As a participant, I want to have the two-minute timer reset itself as soon as we all dally an estimate, so that it's ready for habit on the future round_of_golf.
+As a participant, I want to have the two-minute timer reset itself as soon as we all bring an estimate, so that it's ready for manipulation on the next turn.
+As a participant, I want to have the two-minute timer reset itself as soon as we all bet an estimate, so that it's ready for use on the next rung.
+
+Input phrase:As a participant, I want to scroll back through the stories and estimates from prior rounds, so that I can use this information when I estimate the item of the current round.
+As a player, I desire to scroll back through the narrative and calculate from anterior cycle, so that I can practice this data when I calculate the detail of the current cycle.
+As a participant, I want to scroll back through the story and appraisal from prior cycle, so that I can use this information when I estimate the token of the current beat.
+As a participant, I want to scroll back through the floor and estimates from prior beat, so that I can use this information when I estimate the item of the current round_of_golf.
+As a participant, I want to scroll back through the history and estimates from prior turn_of_golf, so that I can use this information when I estimate the item of the current turn.
+As a participant, I want to scroll back through the report and estimates from prior turn, so that I can use this information when I estimate the item of the current rung.
+
+Input phrase:As a participant, I want to always have the cards in the same order across multiple draws, so that it's easy to compare estimates.
+As a player, I desire to constantly have the card_game in the same ordering across multiple draw, so that it's comfortable to compare estimate.
+As a participant, I want to always have the card in the same orderliness across multiple drawing_card, so that it's easy to compare appraisal.
+As a participant, I want to always have the wag in the same decree across multiple hook, so that it's easy to compare estimates.
+As a participant, I want to always have the poster in the same club across multiple draws, so that it's easy to compare estimates.
+As a participant, I want to always have the calling_card in the same holy_order across multiple draws, so that it's easy to compare estimates.
+
+Input phrase:As a participant, I want to change my estimate as long as the draw has not been completed, so that I can change my mind.
+As a player, I desire to switch my appraisal as long as the drawing_card has not been complete, so that I can switch my judgment.
+As a participant, I want to exexchange my estimate as long as the hook has not been dispatch, so that I can exexchange my thinker.
+As a participant, I want to transfer my estimate as long as the draw has not been completed, so that I can transfer my mind.
+As a participant, I want to deepen my estimate as long as the draw has not been completed, so that I can deepen my mind.
+As a participant, I want to change my estimate as long as the draw has not been completed, so that I can change my mind.
+
+Input phrase:As a participant, I want to have a small thumbnail photo displayed near where my cards are played, so that the game is more personal because I see who I'm estimating with.
+As a player, I desire to have a minor thumbnail photograph expose approach where my card_plot are play, so that the plot is more personal because I understand who I'm estimate with.
+As a participant, I want to have a little thumbnail photo display cheeseparing where my card are act, so that the game is more personal because I witness who I'm calculate with.
+As a participant, I want to have a humble thumbnail photo distoy dear where my wag are toy, so that the game is more personal because I visualize who I'm estimating with.
+As a participant, I want to have a modest thumbnail photo disdally approximate where my poster are dally, so that the game is more personal because I learn who I'm estimating with.
+As a participant, I want to have a belittled thumbnail photo disbring about where my calling_card are bring, so that the game is more personal because I watch who I'm estimating with.
+
+Input phrase:As a developer, I want to have written a site which is compliant with XHTML and CSS standards, so that as many people as possible can access the site and view it as intended.
+As a developer, I desire to have write a web_web_site which is compliant with XHTML and cesium standard, so that as many citizenry as potential can access the web_web_site and see it as intend.
+As a developer, I want to have publish a site which is compliant with XHTML and CSS criterion, so that as many multitude as possible can access the site and watch it as mean.
+As a developer, I want to have compose a site which is compliant with XHTML and CSS standards, so that as many people as possible can access the site and view it as intended.
+As a developer, I want to have spell a site which is compliant with XHTML and CSS standards, so that as many people as possible can access the site and view it as intended.
+As a developer, I want to have written a site which is compliant with XHTML and CSS standards, so that as many people as possible can access the site and view it as intended.
+
+Input phrase:As a developer, I want to have a list of definitions for commonly used terms, so that everyone working on the project can understand each other more easily.
+As a developer, I desire to have a tilt of definition for normally use footing, so that everyone work on the undertaking can sympathize each other more well.
+As a developer, I want to have a list of definitions for commonly practice price, so that everyone function on the project can understand each other more easily.
+As a developer, I want to have a list of definitions for commonly used term, so that everyone exercise on the project can understand each other more easily.
+As a developer, I want to have a list of definitions for commonly used condition, so that everyone make on the project can understand each other more easily.
+As a developer, I want to have a list of definitions for commonly used terminus, so that everyone bring on the project can understand each other more easily.
+
+Input phrase:As a developer, I want to have created database indexes, so that the queries run as fast as possible.
+As a developer, I desire to have make database index, so that the question scat as fast as potential.
+As a developer, I want to have create database exponent, so that the queries operate as fast as possible.
+As a developer, I want to have produce database indexes, so that the queries function as fast as possible.
+As a developer, I want to have created database indexes, so that the queries range as fast as possible.
+As a developer, I want to have created database indexes, so that the queries campaign as fast as possible.
+
+Input phrase:As a developer, I want to have the application function correctly in Internet Explorer 6 and 7, Firefox 1.5 and 2, and Safari 2, so that as many people as possible can fully use the application.
+As a developer, I desire to have the lotion affair correctly in Internet internet_explorer six and seven, Firefox 1.5 and two, and campaign two, so that as many citizenry as potential can amply practice the lotion.
+As a developer, I want to have the application routine correctly in Internet Explorer 6 and 7, Firefox 1.5 and 2, and Safari 2, so that as many multitude as possible can in_full use the application.
+As a developer, I want to have the application function correctly in Internet Explorer 6 and 7, Firefox 1.5 and 2, and Safari 2, so that as many people as possible can fully use the application.
+As a developer, I want to have the application function correctly in Internet Explorer 6 and 7, Firefox 1.5 and 2, and Safari 2, so that as many people as possible can fully use the application.
+As a developer, I want to have the application function correctly in Internet Explorer 6 and 7, Firefox 1.5 and 2, and Safari 2, so that as many people as possible can fully use the application.
+
+Input phrase:As a developer, I want to have the site comply with the W3C accessibility guidelines where possible, so that people with accessibility issues can use the application.
+As a developer, I desire to have the web_site comply with the W3C handiness guideline where potential, so that citizenry with handiness issue can practice the lotion.
+As a developer, I want to have the site comply with the W3C approachability road_map where possible, so that multitude with approachability topic can use the application.
+As a developer, I want to have the site comply with the W3C accessibility guidepost where possible, so that people with accessibility return can use the application.
+As a developer, I want to have the site comply with the W3C accessibility guidelines where possible, so that people with accessibility consequence can use the application.
+As a developer, I want to have the site comply with the W3C accessibility guidelines where possible, so that people with accessibility offspring can use the application.
+
+Input phrase:As a user, I want to have the application respond quickly to my actions, so that I don't get bored.
+As a exploiter, I desire to have the lotion react promptly to my action, so that I don't become blase.
+As a drug_user, I want to have the application answer cursorily to my military_action, so that I don't receive bored.
+As a user, I want to have the application respond quickly to my natural_process, so that I don't arrive bored.
+As a user, I want to have the application respond quickly to my legal_action, so that I don't bring bored.
+As a user, I want to have the application respond quickly to my actions, so that I don't experience bored.
+
+Input phrase:As a user, I want to be able to use Unicode, so that I can use any language I like.
+As a exploiter, I desire to be able to practice Unicode, so that I can practice any speech I wish.
+As a drug_user, I want to be able to use Unicode, so that I can use any lyric I like.
+As a user, I want to be able to use Unicode, so that I can use any linguistic_process I like.
+As a user, I want to be able to use Unicode, so that I can use any terminology I like.
+As a user, I want to be able to use Unicode, so that I can use any language I like.
+
+Input phrase:As a user, I want to see sensible and predictable URLs, so that the application feels logical and transparent.
+As a exploiter, I desire to understand reasonable and predictable url, so that the lotion feel legitimate and crystalline.
+As a drug_user, I want to witness sensible and predictable URLs, so that the application find coherent and diaphanous.
+As a user, I want to visualize sensible and predictable URLs, so that the application palpate logical and guileless.
+As a user, I want to learn sensible and predictable URLs, so that the application feels logical and transparent.
+As a user, I want to watch sensible and predictable URLs, so that the application feels logical and transparent.
+
+Input phrase:As a user, I want to have nice error pages when something goes wrong, so that I can trust the system and its developers.
+As a exploiter, I desire to have decent mistake page when something travel incorrect, so that I can believe the arrangement and its developer.
+As a drug_user, I want to have dainty erroneousness pages when something go improper, so that I can hope the organization and its developers.
+As a user, I want to have courteous error pages when something become amiss, so that I can entrust the system and its developers.
+As a user, I want to have nice error pages when something run ill-timed, so that I can trust the system and its developers.
+As a user, I want to have nice error pages when something proceed faulty, so that I can trust the system and its developers.
+
+Input phrase:As a Researcher, I want results to be stored in a non-identifiable way, so that I can study the data to see things like whether estimates converged around the first opinion given by "estimator A" for example.
+As a research_worker, I desire consequence to be store in a non-identifiable manner, so that I can analyze the datum to understand thing wish whether estimate converge about the inaugural public_opinion give by "calculator A" for model.
+As a Researcher, I want solution to be stored in a non-identifiable means, so that I can learn the data to witness matter alike whether appraisal converged approximately the beginning impression yield by "estimator A" for exemplar.
+As a Researcher, I want result to be stored in a non-identifiable direction, so that I can study the data to visualize things comparable whether estimates converged round the first opinion hold by "estimator A" for case.
+As a Researcher, I want resultant_role to be stored in a non-identifiable room, so that I can study the data to learn things like whether estimates converged around the first opinion render by "estimator A" for exercise.
+As a Researcher, I want results to be stored in a non-identifiable way, so that I can study the data to watch things like whether estimates converged around the first opinion impart by "estimator A" for example.
+
+Input phrase:As a Mike, I want to be able to see some metrics on use of the game, so that I can see how much it is being used.
+As a microphone, I desire to be able to understand some prosody on function of the plot, so that I can understand how much it is being functiond.
+As a Mike, I want to be able to witness some metric_function on consumption of the game, so that I can witness how much it is being consumptiond.
+As a Mike, I want to be able to visualize some metric_unit on habit of the game, so that I can visualize how much it is being habitd.
+As a Mike, I want to be able to learn some system_of_measurement on manipulation of the game, so that I can learn how much it is being manipulationd.
+As a Mike, I want to be able to watch some metrics on use of the game, so that I can watch how much it is being used.
+
+Time for the single dataset = 0.7746 seconds = 0.0002 hours

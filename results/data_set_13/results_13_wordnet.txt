@@ -1,0 +1,717 @@
+data_set_number:13
+
+Input phrase:As a system administrator, I want to run a script that installs the Neurohub node onto a virgin Ubuntu operating system.
+As a arrangement administrator, I desire to scat a handwriting that install the Neurohub lymph_node onto a pure Ubuntu operating arrangement.
+As a organization administrator, I want to operate a script that installs the Neurohub node onto a virgin Ubuntu operating organization.
+As a system administrator, I want to function a script that installs the Neurohub node onto a virgin Ubuntu operating system.
+As a system administrator, I want to range a script that installs the Neurohub node onto a virgin Ubuntu operating system.
+As a system administrator, I want to campaign a script that installs the Neurohub node onto a virgin Ubuntu operating system.
+
+Input phrase:As a system administrator, I want to run a script that tests to see if a Neurohub installation is functioning correctly.
+As a arrangement administrator, I desire to scat a handwriting that test to understand if a Neurohub facility is function correctly.
+As a organization administrator, I want to operate a script that screen to witness if a Neurohub initiation is serve correctly.
+As a system administrator, I want to function a script that quiz to visualize if a Neurohub installation is officiate correctly.
+As a system administrator, I want to range a script that tests to learn if a Neurohub installation is functioning correctly.
+As a system administrator, I want to campaign a script that tests to watch if a Neurohub installation is functioning correctly.
+
+Input phrase:As a release engineer, I want to call a script to execute acceptance tests against a Neurohub installation and report back the results.
+As a liberation engineer, I desire to name a handwriting to carry_through credence trial against a Neurohub facility and report rear the consequence.
+As a handout engineer, I want to shout a script to run adoption test against a Neurohub initiation and report spinal_column the solution.
+As a dismissal engineer, I want to visit a script to perform toleration examination against a Neurohub installation and report binding the result.
+As a passing engineer, I want to address a script to execute acceptance tests against a Neurohub installation and report second the resultant_role.
+As a acquittance engineer, I want to bid a script to execute acceptance tests against a Neurohub installation and report bet_on the results.
+
+Input phrase:As an investigator, I want to view the acceptance test results, so that I can understand how feature-complete the Neurohub node currently is.
+As an research_worker, I desire to see the credence trial consequence, so that I can sympathize how feature_of_speech-dispatch the Neurohub lymph_node presently is.
+As an detective, I want to watch the adoption examination solution, so that I can understand how feature-complete the Neurohub node currently is.
+As an investigator, I want to view the toleration test result, so that I can understand how feature-complete the Neurohub node currently is.
+As an investigator, I want to view the acceptance test resultant_role, so that I can understand how feature-complete the Neurohub node currently is.
+As an investigator, I want to view the acceptance test results, so that I can understand how feature-complete the Neurohub node currently is.
+
+Input phrase:As an MRI operator, I want to digitally record the responses that subjects make when completing paper-based forms.
+As an magnetic_resonance_imaging hustler, I desire to digitally read the response that subject induce when complete composition-establish form.
+As an MRI operator, I want to digitally commemorate the reaction that discipline cause when dispatch newspaper-base kind.
+As an MRI operator, I want to digitally record the answer that topic produce when completing paper-free-base shape.
+As an MRI operator, I want to digitally record the reception that national draw when completing paper-based human_body.
+As an MRI operator, I want to digitally record the reply that subjects create when completing paper-based phase.
+
+Input phrase:As a user, I want to navigate forwards and backwards between log books and log book pages without having to use my browser's back button.
+As a exploiter, I desire to voyage forward and rear between logarithmarithm record and logarithmarithm record page without having to practice my browser's rear push_button.
+As a drug_user, I want to navigate ahead and spinal_columnward between log record and log script pages without having to use my browser's spinal_column clitoris.
+As a user, I want to navigate forwards and bindingwards between log script and log ledger pages without having to use my browser's binding release.
+As a user, I want to navigate forwards and backwards between log ledger and log koran pages without having to use my browser's back button.
+As a user, I want to navigate forwards and backwards between log koran and log bible pages without having to use my browser's back button.
+
+Input phrase:As a lab administrator, I want to theme the Web interface graphics/colours.
+As a lab administrator, I desire to theme the vane interface artwork/colors.
+As a lab administrator, I want to theme the network interface graphic/coloring_material.
+As a lab administrator, I want to theme the world_wide_web interface graphics/color.
+As a lab administrator, I want to theme the Web interface graphics/semblance.
+As a lab administrator, I want to theme the Web interface graphics/colours.
+
+Input phrase:As a systems administrator, I want  to install Neurohub dependencies into an Ubuntu 10.04 LTS machine using the normal Ubuntu package management tools.
+As a system administrator, I desire  to install Neurohub dependence into an Ubuntu 10.04 LTS car use the normal Ubuntu software management tool.
+As a arrangement administrator, I want  to install Neurohub addiction into an Ubuntu 10.04 LTS machine practice the normal Ubuntu package management instrument.
+As a organization administrator, I want  to install Neurohub colony into an Ubuntu 10.04 LTS machine using the normal Ubuntu package management creature.
+As a systems administrator, I want  to install Neurohub dependencies into an Ubuntu 10.04 LTS machine using the normal Ubuntu package management cock.
+As a systems administrator, I want  to install Neurohub dependencies into an Ubuntu 10.04 LTS machine using the normal Ubuntu package management tools.
+
+Input phrase:As a researcher, I want to create a log book page for an experiment and attach a file to this page.
+As a research_worker, I desire to make a logarithm record page for an experiment and bind a file to this page.
+As a researcher, I want to produce a log script page for an experiment and impound a file to this page.
+As a researcher, I want to create a log ledger page for an experiment and attach a file to this page.
+As a researcher, I want to create a log koran page for an experiment and attach a file to this page.
+As a researcher, I want to create a log bible page for an experiment and attach a file to this page.
+
+Input phrase:As a researcher, I want to create a log book page for an experiment and attach a directory that contains multiple files.
+As a research_worker, I desire to make a logarithm record page for an experiment and bind a directory that incorporate multiple file.
+As a researcher, I want to produce a log script page for an experiment and impound a directory that hold multiple files.
+As a researcher, I want to create a log ledger page for an experiment and attach a directory that control multiple files.
+As a researcher, I want to create a log koran page for an experiment and attach a directory that contain multiple files.
+As a researcher, I want to create a log bible page for an experiment and attach a directory that check multiple files.
+
+Input phrase:As a researcher, I want to upload files prior to having them attached to a log book page.
+As a research_worker, I desire to upload file prior to having them attach to a logarithm record page.
+As a researcher, I want to upload files prior to having them bind to a log script page.
+As a researcher, I want to upload files prior to having them impound to a log ledger page.
+As a researcher, I want to upload files prior to having them attached to a log koran page.
+As a researcher, I want to upload files prior to having them attached to a log bible page.
+
+Input phrase:As a researcher, I want to upload files prior to having them attached to a log book page using the web interface.
+As a research_worker, I desire to upload file prior to having them attach to a logarithm record page use the vane interface.
+As a researcher, I want to upload files prior to having them bind to a log script page practice the network interface.
+As a researcher, I want to upload files prior to having them impound to a log ledger page using the world_wide_web interface.
+As a researcher, I want to upload files prior to having them attached to a log koran page using the web interface.
+As a researcher, I want to upload files prior to having them attached to a log bible page using the web interface.
+
+Input phrase:As a researcher, I want to upload files prior to having them attached to a log book page using a mapped network drive.
+As a research_worker, I desire to upload file prior to having them attach to a logarithm record page use a mapped net campaign.
+As a researcher, I want to upload files prior to having them bind to a log script page practice a mapped network driveway.
+As a researcher, I want to upload files prior to having them impound to a log ledger page using a mapped network drive.
+As a researcher, I want to upload files prior to having them attached to a log koran page using a mapped network drive.
+As a researcher, I want to upload files prior to having them attached to a log bible page using a mapped network drive.
+
+Input phrase:As a researcher, I want to attach currently non-attached files to a log book page.
+As a research_worker, I desire to bind presently non-binded file to a logarithm record page.
+As a researcher, I want to impound currently non-impounded files to a log script page.
+As a researcher, I want to attach currently non-attached files to a log ledger page.
+As a researcher, I want to attach currently non-attached files to a log koran page.
+As a researcher, I want to attach currently non-attached files to a log bible page.
+
+Input phrase:As a researcher, I want to receive an alert of any unattached files that are in my workspace.
+As a research_worker, I desire to pick_up an alarm of any free-swimming file that are in my workspace.
+As a researcher, I want to experience an alert of any unattached files that are in my workspace.
+As a researcher, I want to welcome an alert of any unattached files that are in my workspace.
+As a researcher, I want to meet an alert of any unattached files that are in my workspace.
+As a researcher, I want to get an alert of any unattached files that are in my workspace.
+
+Input phrase:As a researcher, I want to download files attached to an experiment using my Web browser.
+As a research_worker, I desire to download file attach to an experiment use my vane browser.
+As a researcher, I want to download files bind to an experiment practice my network browser.
+As a researcher, I want to download files impound to an experiment using my world_wide_web browser.
+As a researcher, I want to download files attached to an experiment using my Web browser.
+As a researcher, I want to download files attached to an experiment using my Web browser.
+
+Input phrase:As a researcher, I want to access files stored in my Neurohub workspace, using a network drive attached to my workstation.
+As a research_worker, I desire to access file store in my Neurohub workspace, use a net campaign attach to my workstation.
+As a researcher, I want to access files stored in my Neurohub workspace, practice a network driveway bind to my workstation.
+As a researcher, I want to access files stored in my Neurohub workspace, using a network drive impound to my workstation.
+As a researcher, I want to access files stored in my Neurohub workspace, using a network drive attached to my workstation.
+As a researcher, I want to access files stored in my Neurohub workspace, using a network drive attached to my workstation.
+
+Input phrase:As a researcher, I want to create a log book page.
+As a research_worker, I desire to make a logarithm record page.
+As a researcher, I want to produce a log script page.
+As a researcher, I want to create a log ledger page.
+As a researcher, I want to create a log koran page.
+As a researcher, I want to create a log bible page.
+
+Input phrase:As a release engineer, I want to configure nightly builds that automatically perform a Neurohub installation on a virgin operating system, execute tests and report back results, without requiring any manual input/interaction.
+As a liberation engineer, I desire to configure nightly construct that mechanically do a Neurohub facility on a pure operating arrangement, carry_through trial and report back consequence, without necessitate any manual input_signal/interaction.
+As a handout engineer, I want to configure nightly build_up that automatically perform a Neurohub initiation on a virgin operating organization, run test and report back solution, without ask any manual remark/interaction.
+As a dismissal engineer, I want to configure nightly build that automatically perform a Neurohub installation on a virgin operating system, perform examination and report back result, without command any manual stimulation/interaction.
+As a passing engineer, I want to configure nightly builds that automatically perform a Neurohub installation on a virgin operating system, execute tests and report back resultant_role, without want any manual input/interaction.
+As a acquittance engineer, I want to configure nightly builds that automatically perform a Neurohub installation on a virgin operating system, execute tests and report back results, without requiring any manual input/interaction.
+
+Input phrase:As a supervisor, I want to view what my researchers were doing on a given date or period of time.
+As a supervisory_program, I desire to see what my research_worker were doing on a give date or clock_time_period of clock_time.
+As a supervisor, I want to watch what my researchers were doing on a yield date or menstruation of fourth_dimension.
+As a supervisor, I want to view what my researchers were doing on a hold date or period of meter.
+As a supervisor, I want to view what my researchers were doing on a render date or period of prison_term.
+As a supervisor, I want to view what my researchers were doing on a impart date or period of time.
+
+Input phrase:As a user, I want to upload large files of over 1GB in size.
+As a exploiter, I desire to upload bombastic file of over onesarin in size.
+As a drug_user, I want to upload big files of over 1gilbert in size.
+As a user, I want to upload large files of over 1gigabit in size.
+As a user, I want to upload large files of over 1gigabyte in size.
+As a user, I want to upload large files of over 1great_britain in size.
+
+Input phrase:As a user, I want to assign tags to files that I have uploaded.
+As a exploiter, I desire to delegate tag to file that I have upload.
+As a drug_user, I want to impute rag to files that I have uploaded.
+As a user, I want to put tags to files that I have uploaded.
+As a user, I want to arrogate tags to files that I have uploaded.
+As a user, I want to assign tags to files that I have uploaded.
+
+Input phrase:As a user, I want to assign bespoke information to a file dependent on its type.
+As a exploiter, I desire to delegate bespoke data to a file pendent on its character.
+As a drug_user, I want to impute bespoke information to a file subject on its type.
+As a user, I want to put bespoke information to a file dependent on its type.
+As a user, I want to arrogate bespoke information to a file dependent on its type.
+As a user, I want to assign bespoke information to a file dependent on its type.
+
+Input phrase:As a user, I want to filter the files I get from search results based on their  type.
+As a exploiter, I desire to percolate the file I become from search consequence establish on their  character.
+As a drug_user, I want to trickle the files I receive from search solution base on their  type.
+As a user, I want to filter the files I arrive from search result free-base on their  type.
+As a user, I want to filter the files I bring from search resultant_role based on their  type.
+As a user, I want to filter the files I experience from search results based on their  type.
+
+Input phrase:As a user, I want to use the tags that I use are part of a controlled vocabulary.
+As a exploiter, I desire to practice the tag that I practice are region of a control vocabulary.
+As a drug_user, I want to use the rag that I use are function of a operate vocabulary.
+As a user, I want to use the tags that I use are character of a manipulate vocabulary.
+As a user, I want to use the tags that I use are share of a see vocabulary.
+As a user, I want to use the tags that I use are contribution of a master vocabulary.
+
+Input phrase:As a user, I want to make uploaded data files to be non-modifiable.
+As a exploiter, I desire to induce uploaded datum file to be non-modifiable.
+As a drug_user, I want to cause uploaded data files to be non-modifiable.
+As a user, I want to produce uploaded data files to be non-modifiable.
+As a user, I want to draw uploaded data files to be non-modifiable.
+As a user, I want to create uploaded data files to be non-modifiable.
+
+Input phrase:As a user, I want to make predicated links between files.
+As a exploiter, I desire to induce predicated link between file.
+As a drug_user, I want to cause predicated connection between files.
+As a user, I want to produce predicated liaison between files.
+As a user, I want to draw predicated radio_link between files.
+As a user, I want to create predicated links between files.
+
+Input phrase:As a user, I want to restrict what can be entered to a metadata field.
+As a exploiter, I desire to qualify what can be enter to a metadata battlefield.
+As a drug_user, I want to restrict what can be enroll to a metadata discipline.
+As a user, I want to restrict what can be figure to a metadata sphere.
+As a user, I want to restrict what can be record to a metadata playing_field.
+As a user, I want to restrict what can be accede to a metadata plain.
+
+Input phrase:As a user, I want to have files I might accidentally delete to be restorable.
+As a exploiter, I desire to have file I might by_chance erase to be restorable.
+As a drug_user, I want to have files I might incidentally edit to be restorable.
+As a user, I want to have files I might unintentionally delete to be restorable.
+As a user, I want to have files I might accidentally delete to be restorable.
+As a user, I want to have files I might accidentally delete to be restorable.
+
+Input phrase:As a user, I want to revert to an older version of an uploaded file.
+As a exploiter, I desire to revert to an aged adaptation of an uploaded file.
+As a drug_user, I want to revert to an elder translation of an uploaded file.
+As a user, I want to revert to an old interpretation of an uploaded file.
+As a user, I want to revert to an erstwhile version of an uploaded file.
+As a user, I want to revert to an honest-to-god version of an uploaded file.
+
+Input phrase:As a user, I want to have a visual way of viewing particular files uploaded over a time period.
+As a exploiter, I desire to have a ocular manner of see especial file upload over a clock_time time_period.
+As a drug_user, I want to have a visual means of view finical files uploaded over a fourth_dimension menstruation.
+As a user, I want to have a visual direction of watch particular files uploaded over a meter period.
+As a user, I want to have a visual room of viewing particular files uploaded over a prison_term period.
+As a user, I want to have a visual way of viewing particular files uploaded over a time period.
+
+Input phrase:As a user, I want to associate together files involved in a experiment.
+As a exploiter, I desire to consort in_concert file involve in a experiment.
+As a drug_user, I want to consociate together files imply in a experiment.
+As a user, I want to associate together files necessitate in a experiment.
+As a user, I want to associate together files involved in a experiment.
+As a user, I want to associate together files involved in a experiment.
+
+Input phrase:As a system administrator, I want to have a managed backup protocol for the system.
+As a arrangement administrator, I desire to have a pull_off stand-in protocol for the arrangement.
+As a organization administrator, I want to have a manage accompaniment protocol for the organization.
+As a system administrator, I want to have a cope backing protocol for the system.
+As a system administrator, I want to have a oversee backup protocol for the system.
+As a system administrator, I want to have a wangle backup protocol for the system.
+
+Input phrase:As a user, I want to enter metadata / describe an experiment protocol before a file is even created.
+As a exploiter, I desire to enroll metadata / report an experiment protocol before a file is even make.
+As a drug_user, I want to figure metadata / trace an experiment protocol before a file is even create.
+As a user, I want to record metadata / identify an experiment protocol before a file is even produce.
+As a user, I want to accede metadata / describe an experiment protocol before a file is even created.
+As a user, I want to insert metadata / describe an experiment protocol before a file is even created.
+
+Input phrase:As lab administrator, I want to have increased access to the system to support regular users. 
+As lab administrator, I desire to have increase entree to the arrangement to back even user. 
+As lab administrator, I want to have increased access to the organization to hold unconstipated exploiter. 
+As lab administrator, I want to have increased access to the system to confirm regular drug_user. 
+As lab administrator, I want to have increased access to the system to subscribe regular users. 
+As lab administrator, I want to have increased access to the system to corroborate regular users. 
+
+Input phrase:As a user, I want to link together experimental runs to build an experiment.
+As a exploiter, I desire to associate in_concert experimental run to construct an experiment.
+As a drug_user, I want to connect together experimental test to build_up an experiment.
+As a user, I want to yoke together experimental footrace to build an experiment.
+As a user, I want to link together experimental streak to build an experiment.
+As a user, I want to link together experimental rivulet to build an experiment.
+
+Input phrase:As a lab administrator, I want to create page templates with bespoke metadata fields.
+As a lab administrator, I desire to make page template with bespoke metadata field.
+As a lab administrator, I want to produce page templates with bespoke metadata battlefield.
+As a lab administrator, I want to create page templates with bespoke metadata discipline.
+As a lab administrator, I want to create page templates with bespoke metadata sphere.
+As a lab administrator, I want to create page templates with bespoke metadata playing_field.
+
+Input phrase:As a user, I want to capture the same metadata for each file created in an experimental run.
+As a exploiter, I desire to get the same metadata for each file make in an experimental test.
+As a drug_user, I want to appropriate the same metadata for each file create in an experimental footrace.
+As a user, I want to capture the same metadata for each file produce in an experimental streak.
+As a user, I want to capture the same metadata for each file created in an experimental rivulet.
+As a user, I want to capture the same metadata for each file created in an experimental political_campaign.
+
+Input phrase:As a lab administrator, I want a way of managing worm strain stocks that is integrated with Wormbase.
+As a lab administrator, I desire a manner of pull_off worm strive stock that is integrate with Wormbase.
+As a lab administrator, I want a means of manage worm try stock_certificate that is desegregate with Wormbase.
+As a lab administrator, I want a direction of cope worm sift store that is integrated with Wormbase.
+As a lab administrator, I want a room of oversee worm tense lineage that is integrated with Wormbase.
+As a lab administrator, I want a way of wangle worm filter breed that is integrated with Wormbase.
+
+Input phrase:As a user, I want to search for and download human-readable experimental protocols.
+As a exploiter, I desire to research for and download human-clear experimental protocol.
+As a drug_user, I want to search for and download human-readable experimental protocols.
+As a user, I want to search for and download human-readable experimental protocols.
+As a user, I want to search for and download human-readable experimental protocols.
+As a user, I want to search for and download human-readable experimental protocols.
+
+Input phrase:As a user, I want to modify or branch an experimental protocol, whilst retaining the original.
+As a exploiter, I desire to change or ramify an experimental protocol, whilst retain the master.
+As a drug_user, I want to modify or branch an experimental protocol, whilst retaining the original.
+As a user, I want to modify or branch an experimental protocol, whilst retaining the original.
+As a user, I want to modify or branch an experimental protocol, whilst retaining the original.
+As a user, I want to modify or branch an experimental protocol, whilst retaining the original.
+
+Input phrase:As a user, I want to view how an experimental protocol has evolved over time.
+As a exploiter, I desire to see how an experimental protocol has evolve over clock_time.
+As a drug_user, I want to watch how an experimental protocol has develop over fourth_dimension.
+As a user, I want to view how an experimental protocol has evolved over meter.
+As a user, I want to view how an experimental protocol has evolved over prison_term.
+As a user, I want to view how an experimental protocol has evolved over time.
+
+Input phrase:As a user, I want to create a protocol and assign metadata to any stag.
+As a exploiter, I desire to make a protocol and assign metadata to any hart.
+As a drug_user, I want to produce a protocol and assign metadata to any stag.
+As a user, I want to create a protocol and assign metadata to any stag.
+As a user, I want to create a protocol and assign metadata to any stag.
+As a user, I want to create a protocol and assign metadata to any stag.
+
+Input phrase:As a user, I want to prove definitively that I created a page on a certain date.
+As a exploiter, I desire to testify definitively that I make a page on a sealed date.
+As a drug_user, I want to test definitively that I create a page on a certain date.
+As a user, I want to rise definitively that I produce a page on a certain date.
+As a user, I want to raise definitively that I created a page on a certain date.
+As a user, I want to prove definitively that I created a page on a certain date.
+
+Input phrase:As a user, I want to manage the references / papers I have investigated.
+As a exploiter, I desire to pull_off the mention / document I have investigate.
+As a drug_user, I want to cope the citation / paper I have investigated.
+As a user, I want to oversee the reference_point / composition I have investigated.
+As a user, I want to wangle the reference_book / newspaper I have investigated.
+As a user, I want to do the character / papers I have investigated.
+
+Input phrase:As a user, I want to search specifically for files rather than log book pages.
+As a exploiter, I desire to research specifically for file preferably than logarithm record page.
+As a drug_user, I want to search specifically for files quite than log script pages.
+As a user, I want to search specifically for files rather than log ledger pages.
+As a user, I want to search specifically for files rather than log koran pages.
+As a user, I want to search specifically for files rather than log bible pages.
+
+Input phrase:As a user, I want to limit my search to a particular set of log books.
+As a exploiter, I desire to restrict my search to a especial stage_set of logarithm book.
+As a drug_user, I want to specify my search to a finical bent of log record.
+As a user, I want to limit my search to a particular hardening of log script.
+As a user, I want to limit my search to a particular set of log ledger.
+As a user, I want to limit my search to a particular set of log koran.
+
+Input phrase:As a user, I want to limit my search results to one or more log book sections from one or more log books.
+As a exploiter, I desire to restrict my search consequence to matchless or more logarithmarithm record section from matchless or more logarithmarithm records.
+As a drug_user, I want to specify my search solution to one or more log script part from one or more log scripts.
+As a user, I want to limit my search result to one or more log ledger department from one or more log ledgers.
+As a user, I want to limit my search resultant_role to one or more log koran incision from one or more log korans.
+As a user, I want to limit my search results to one or more log bible sections from one or more log bibles.
+
+Input phrase:As a user, I want to download files directly from the search results page.
+As a exploiter, I desire to download file immediately from the search consequence page.
+As a drug_user, I want to download files directly from the search solution page.
+As a user, I want to download files directly from the search result page.
+As a user, I want to download files directly from the search resultant_role page.
+As a user, I want to download files directly from the search results page.
+
+Input phrase:As a user, I want to see the provenance of the page as part of the search results.
+As a exploiter, I desire to understand the birthplace of the page as region of the search consequence.
+As a drug_user, I want to witness the provenance of the page as function of the search solution.
+As a user, I want to visualize the provenance of the page as character of the search result.
+As a user, I want to learn the provenance of the page as share of the search resultant_role.
+As a user, I want to watch the provenance of the page as contribution of the search results.
+
+Input phrase:As a user, I want to attach multiple files at once to a log book page.
+As a exploiter, I desire to bind multiple file at once to a logarithm record page.
+As a drug_user, I want to impound multiple files at once to a log script page.
+As a user, I want to attach multiple files at once to a log ledger page.
+As a user, I want to attach multiple files at once to a log koran page.
+As a user, I want to attach multiple files at once to a log bible page.
+
+Input phrase:As a user, I want to download multiple files from the search results in one go.
+As a exploiter, I desire to download multiple file from the search consequence in matchless adam.
+As a drug_user, I want to download multiple files from the search solution in one crack.
+As a user, I want to download multiple files from the search result in one go.
+As a user, I want to download multiple files from the search resultant_role in one go.
+As a user, I want to download multiple files from the search results in one go.
+
+Input phrase:As a user, I want to draw tables using HTML tags as part of the content of a log book page.
+As a exploiter, I desire to pull table use hypertext_markup_language tag as region of the message of a logarithm record page.
+As a drug_user, I want to reap mesa practice HTML rag as function of the capacity of a log script page.
+As a user, I want to trace board using HTML tags as character of the contentedness of a log ledger page.
+As a user, I want to describe tables using HTML tags as share of the subject of a log koran page.
+As a user, I want to puff tables using HTML tags as contribution of the content of a log bible page.
+
+Input phrase:As a lab member, I want to view events and equipment bookings within the group.
+As a lab extremity, I desire to see event and equipment engagement inside the group.
+As a lab penis, I want to watch consequence and equipment booking within the group.
+As a lab member, I want to view events and equipment bookings within the group.
+As a lab member, I want to view events and equipment bookings within the group.
+As a lab member, I want to view events and equipment bookings within the group.
+
+Input phrase:As a user, I want to store worm behaviour videos with an encoding that can be analysed by the worm analysis software written by Christopher James.
+As a exploiter, I desire to store worm behavior video with an encoding that can be analyze by the worm psychoanalysis software write by Christopher epistle_of_james.
+As a drug_user, I want to store worm demeanor video_recording with an encoding that can be analysed by the worm analysis software publish by Christopher throng.
+As a user, I want to store worm behaviour television with an encoding that can be analysed by the worm analysis software compose by Christopher jam.
+As a user, I want to store worm behaviour videos with an encoding that can be analysed by the worm analysis software spell by Christopher obstruct.
+As a user, I want to store worm behaviour videos with an encoding that can be analysed by the worm analysis software written by Christopher James.
+
+Input phrase:As a system administrator, I want to migrate data from an older version of NeuroHub to the current version.
+As a arrangement administrator, I desire to migrate datum from an aged adaptation of NeuroHub to the current adaptation.
+As a organization administrator, I want to migrate data from an elder translation of NeuroHub to the current translation.
+As a system administrator, I want to migrate data from an old interpretation of NeuroHub to the current interpretation.
+As a system administrator, I want to migrate data from an erstwhile version of NeuroHub to the current version.
+As a system administrator, I want to migrate data from an honest-to-god version of NeuroHub to the current version.
+
+Input phrase:As a user, I want to have the system to also forward important news items to an external mailing list.
+As a exploiter, I desire to have the arrangement to besides forth significant news_program item to an external mailing tilt.
+As a drug_user, I want to have the organization to also ahead crucial newsworthiness detail to an external mailing list.
+As a user, I want to have the system to also fore authoritative news token to an external mailing list.
+As a user, I want to have the system to also forward important news items to an external mailing list.
+As a user, I want to have the system to also forward important news items to an external mailing list.
+
+Input phrase:As a user, I want to view and update an inventory of of the equipment and consumables that are present in the centre.
+As a exploiter, I desire to see and update an stock of of the equipment and consumables that are present in the center.
+As a drug_user, I want to watch and update an armory of of the equipment and consumables that are present in the kernel.
+As a user, I want to view and update an inventory of of the equipment and consumables that are present in the centre.
+As a user, I want to view and update an inventory of of the equipment and consumables that are present in the centre.
+As a user, I want to view and update an inventory of of the equipment and consumables that are present in the centre.
+
+Input phrase:As a user, I want to have a spreadsheet hosted within the Neurohub Web page, so that I can edit and calculate costs collaboratively with others while working on the proposal.
+As a exploiter, I desire to have a spreadsheet host inside the Neurohub vane page, so that I can edit and account cost collaboratively with others while work on the marriage_proposal.
+As a drug_user, I want to have a spreadsheet hosted within the Neurohub network page, so that I can edit and forecast monetary_value collaboratively with others while function on the proposal.
+As a user, I want to have a spreadsheet hosted within the Neurohub world_wide_web page, so that I can edit and count price collaboratively with others while exercise on the proposal.
+As a user, I want to have a spreadsheet hosted within the Neurohub Web page, so that I can edit and calculate costs collaboratively with others while make on the proposal.
+As a user, I want to have a spreadsheet hosted within the Neurohub Web page, so that I can edit and calculate costs collaboratively with others while bring on the proposal.
+
+Input phrase:As a supervisor, I want to create feedback forms within Neurohub, that my students can fill in and submit, in order to provide me with feedback about the course that they attended.
+As a supervisory_program, I desire to make feedback form inside Neurohub, that my student can occupy in and present, in ordering to supply me with feedback about the path that they attend.
+As a supervisor, I want to produce feedback kind within Neurohub, that my scholar can meet in and relegate, in orderliness to put_up me with feedback about the class that they serve.
+As a supervisor, I want to create feedback shape within Neurohub, that my students can fill_up in and take, in decree to leave me with feedback about the course that they attended.
+As a supervisor, I want to create feedback human_body within Neurohub, that my students can satiate in and put_in, in club to provide me with feedback about the course that they attended.
+As a supervisor, I want to create feedback phase within Neurohub, that my students can fill in and render, in holy_order to provide me with feedback about the course that they attended.
+
+Input phrase:As a user, I want to have the option to tell Neurohub to push posted content to my Twitter feed at the same time.
+As a exploiter, I desire to have the choice to state Neurohub to advertise post message to my chirrup feed at the same clock_time.
+As a drug_user, I want to have the option to order Neurohub to tug station capacity to my chitter feed at the same fourth_dimension.
+As a user, I want to have the option to assure Neurohub to crusade stake contentedness to my Twitter feed at the same meter.
+As a user, I want to have the option to distinguish Neurohub to press mail subject to my Twitter feed at the same prison_term.
+As a user, I want to have the option to tell Neurohub to push posted content to my Twitter feed at the same time.
+
+Input phrase:As a user, I want to either keep a logbook entry private or share it with individuals rather than groups.
+As a exploiter, I desire to either continue a logbook introduction individual or partake it with person preferably than group.
+As a drug_user, I want to either prevent a logbook submission secret or share it with individual quite than groups.
+As a user, I want to either observe a logbook entrance private or share it with individuals rather than groups.
+As a user, I want to either retain a logbook entry private or share it with individuals rather than groups.
+As a user, I want to either sustain a logbook entry private or share it with individuals rather than groups.
+
+Input phrase:As a user, I want to have the details of the workflow execution to be recorded in a neurohub log book while executing a workflow.
+As a exploiter, I desire to have the detail of the work_flow performance to be record in a neurohub logarithm record while execute a work_flow.
+As a drug_user, I want to have the contingent of the workflow murder to be read in a neurohub log script while carry_through a workflow.
+As a user, I want to have the details of the workflow execution to be commemorate in a neurohub log ledger while run a workflow.
+As a user, I want to have the details of the workflow execution to be recorded in a neurohub log koran while perform a workflow.
+As a user, I want to have the details of the workflow execution to be recorded in a neurohub log bible while executing a workflow.
+
+Input phrase:As a user, I want to have that my Twitter Tweets to appear in Neurohub, so that other researchers in the centre can see what I am up to.
+As a exploiter, I desire to have that my chirrup tweet to look in Neurohub, so that other research_worker in the center can understand what I am up to.
+As a drug_user, I want to have that my chitter pinch to appear in Neurohub, so that other researchers in the kernel can witness what I am up to.
+As a user, I want to have that my Twitter Tweets to appear in Neurohub, so that other researchers in the centre can visualize what I am up to.
+As a user, I want to have that my Twitter Tweets to appear in Neurohub, so that other researchers in the centre can learn what I am up to.
+As a user, I want to have that my Twitter Tweets to appear in Neurohub, so that other researchers in the centre can watch what I am up to.
+
+Input phrase:As a user, I want to view the group's shared calendars via the Neurohub Nodes' Web page as well as on my mobile device.
+As a exploiter, I desire to see the group's share calendar via the Neurohub node' vane page as well as on my fluid device.
+As a drug_user, I want to watch the group's partake calendars via the Neurohub lymph_node' network page as well as on my mobile device.
+As a user, I want to view the group's shared calendars via the Neurohub nod' world_wide_web page as well as on my mobile device.
+As a user, I want to view the group's shared calendars via the Neurohub Nodes' Web page as well as on my mobile device.
+As a user, I want to view the group's shared calendars via the Neurohub Nodes' Web page as well as on my mobile device.
+
+Input phrase:As a user, I want to sync events created in NeuroHub with a web-based Calendar such as Google Calendar.
+As a exploiter, I desire to synchronize event make in NeuroHub with a vane-establish Calendar such as Google Calendar.
+As a drug_user, I want to sync consequence create in NeuroHub with a network-base Calendar such as Google Calendar.
+As a user, I want to sync events produce in NeuroHub with a world_wide_web-free-base Calendar such as Google Calendar.
+As a user, I want to sync events created in NeuroHub with a web-based Calendar such as Google Calendar.
+As a user, I want to sync events created in NeuroHub with a web-based Calendar such as Google Calendar.
+
+Input phrase:As a researcher, I want to have the ability to insert Greek symbols into my logbook entries.
+As a research_worker, I desire to have the ability to tuck Greek symbol into my logbook entry.
+As a researcher, I want to have the ability to slip_in Greek symbols into my logbook introduction.
+As a researcher, I want to have the ability to insert Greek symbols into my logbook submission.
+As a researcher, I want to have the ability to insert Greek symbols into my logbook entrance.
+As a researcher, I want to have the ability to insert Greek symbols into my logbook entries.
+
+Input phrase:As a user, I want to have the ability to move multiple files around and rearrange them using the Neurohub file browser while processing data.
+As a exploiter, I desire to have the ability to travel multiple file about and rearrange them use the Neurohub file browser while process datum.
+As a drug_user, I want to have the ability to go multiple files approximately and rearrange them practice the Neurohub file browser while action data.
+As a user, I want to have the ability to be_active multiple files round and rearrange them using the Neurohub file browser while march data.
+As a user, I want to have the ability to act multiple files around and rearrange them using the Neurohub file browser while work data.
+As a user, I want to have the ability to affect multiple files around and rearrange them using the Neurohub file browser while serve data.
+
+Input phrase:As a researcher, I want to point my Mendeley client at a group-wide shared repository of research papers and get notifications via Mendeley when new content is added.
+As a inquiry_worker, I desire to indicate my Mendeley customer at a group-across-the-board share depository of inquiry document and become presentment via Mendeley when fresh message is add.
+As a researcher, I want to orient my Mendeley node at a group-wide-eyed partake repository of research paper and receive telling via Mendeley when raw capacity is lend.
+As a researcher, I want to charge my Mendeley client at a group-broad shared repository of research composition and arrive notification via Mendeley when newfangled contentedness is total.
+As a researcher, I want to steer my Mendeley client at a group-wide shared repository of research modernspaper and bring notifications via Mendeley when modern subject is added.
+As a researcher, I want to bespeak my Mendeley client at a group-wide shared repository of research papers and experience notifications via Mendeley when new content is added.
+
+Input phrase:As a researcher, I want to have electronic support for keeping track of which data sets were used/output/modified as part of a particular experiment.
+As a research_worker, I desire to have electronic documentation for keep path of which datum set were use/end_product/modify as region of a regionicular experiment.
+As a researcher, I want to have electronic accompaniment for continue lead of which data stage_set were practice/output_signal/change as function of a functionicular experiment.
+As a researcher, I want to have electronic support for prevent racetrack of which data bent were used/output/modified as character of a charactericular experiment.
+As a researcher, I want to have electronic support for observe cut of which data hardening were used/output/modified as share of a shareicular experiment.
+As a researcher, I want to have electronic support for retain track of which data sets were used/output/modified as contribution of a contributionicular experiment.
+
+Input phrase:As a user, I want a mechanism for electronically sharing papers and notes with other researchers, so that we can collaborate effectively.
+As a exploiter, I desire a mechanism for electronically share document and note with other research_worker, so that we can collaborate efficaciously.
+As a drug_user, I want a mechanism for electronically partake paper and bill with other researchers, so that we can collaborate effectively.
+As a user, I want a mechanism for electronically sharing composition and eminence with other researchers, so that we can collaborate effectively.
+As a user, I want a mechanism for electronically sharing newspaper and notes with other researchers, so that we can collaborate effectively.
+As a user, I want a mechanism for electronically sharing papers and notes with other researchers, so that we can collaborate effectively.
+
+Input phrase:As a researcher, I want to have services to support the long term curation of data, so that I can be sure that data will not get 'lost' with the passage of time.
+As a research_worker, I desire to have service to back the retentive condition curation of datum, so that I can be certain that datum will not become 'lose' with the enactment of clock_time.
+As a researcher, I want to have military_service to hold the farseeing terminus curation of data, so that I can be indisputable that data will not receive 'misplace' with the passing of fourth_dimension.
+As a researcher, I want to have avail to confirm the long term curation of data, so that I can be sure that data will not arrive 'fall_back' with the passage of meter.
+As a researcher, I want to have servicing to subscribe the long term curation of data, so that I can be sure that data will not bring 'miss' with the passage of prison_term.
+As a researcher, I want to have serve to corroborate the long term curation of data, so that I can be sure that data will not experience 'suffer' with the passage of time.
+
+Input phrase:As a researcher, I want to have a timeline display of multiple data files and their associated images, so that I can compare the data taken from experiments on particular dates.
+As a research_worker, I desire to have a timeline display of multiple datum file and their associate image, so that I can compare the datum take from experiment on especial date.
+As a researcher, I want to have a timeline display of multiple data files and their consort persona, so that I can compare the data lead from experiments on finical dates.
+As a researcher, I want to have a timeline display of multiple data files and their consociate picture, so that I can compare the data assume from experiments on particular dates.
+As a researcher, I want to have a timeline display of multiple data files and their associated prototype, so that I can compare the data bring from experiments on particular dates.
+As a researcher, I want to have a timeline display of multiple data files and their associated trope, so that I can compare the data choose from experiments on particular dates.
+
+Input phrase:As a researcher, I want to have remote access to my data for off-site working , so that I can still work effectively while away from the lab.
+As a research_functioner, I desire to have distant entree to my datum for off-web_site functioning , so that I can however function efficaciously while aside from the lab.
+As a researcher, I want to have outside access to my data for off-site exerciseing , so that I can even exercise effectively while off from the lab.
+As a researcher, I want to have outback access to my data for off-site makeing , so that I can still make effectively while away from the lab.
+As a researcher, I want to have remote access to my data for off-site bringing , so that I can still bring effectively while away from the lab.
+As a researcher, I want to have remote access to my data for off-site cultivateing , so that I can still cultivate effectively while away from the lab.
+
+Input phrase:As a researcher, I want to share post-experiment write-ups with other researchers, so that others can more easily replicate my work.
+As a research_employmenter, I desire to partake post-experiment write-ups with other research_employmenters, so that others can more well retroflex my employment.
+As a researcher, I want to share post-experiment write-ups with other researchers, so that others can more easily duplicate my study.
+As a researcher, I want to share post-experiment write-ups with other researchers, so that others can more easily replicate my workplace.
+As a researcher, I want to share post-experiment write-ups with other researchers, so that others can more easily replicate my oeuvre.
+As a researcher, I want to share post-experiment write-ups with other researchers, so that others can more easily replicate my work.
+
+Input phrase:As a researcher, I want to collect data as a library of data, which can then be used by one or multiple experiments that are defined at a later stage.
+As a research_worker, I desire to roll_up datum as a library of datum, which can then be use by matchless or multiple experiment that are specify at a late phase.
+As a researcher, I want to gather data as a library of data, which can then be practice by one or multiple experiments that are define at a belated degree.
+As a researcher, I want to collect data as a library of data, which can then be used by one or multiple experiments that are defined at a former stagecoach.
+As a researcher, I want to collect data as a library of data, which can then be used by one or multiple experiments that are defined at a later stage.
+As a researcher, I want to collect data as a library of data, which can then be used by one or multiple experiments that are defined at a later stage.
+
+Input phrase:As a researcher, I want to indicate within my electronic log book which experimental data is good/bad, hide the bad data, but still keep it in the system just in case it is useful in the future.
+As a research_worker, I desire to bespeak inside my electronic logarithm record which experimental datum is full/regretful, shroud the regretful datum, but however continue it in the arrangement just in event it is utilitarian in the future.
+As a researcher, I want to argue within my electronic log script which experimental data is estimable/bad, obscure the bad data, but even prevent it in the organization just in lawsuit it is useful in the future.
+As a researcher, I want to indicate within my electronic log ledger which experimental data is beneficial/bad, hide the bad data, but still observe it in the system just in subject it is useful in the future.
+As a researcher, I want to indicate within my electronic log koran which experimental data is adept/bad, hide the bad data, but still retain it in the system just in character it is useful in the future.
+As a researcher, I want to indicate within my electronic log bible which experimental data is dear/bad, hide the bad data, but still sustain it in the system just in font it is useful in the future.
+
+Input phrase:As a researcher, I want to have the system to provide standard metadata, that all researchers in the centre (and beyond) can use, so that we can better understand each others' data.
+As a research_worker, I desire to have the arrangement to supply standard metadatum, that all research_workers in the center (and beyond) can practice, so that we can well sympathize each others' datum.
+As a researcher, I want to have the organization to put_up standard metadata, that all researchers in the kernel (and beyond) can use, so that we can better understand each others' data.
+As a researcher, I want to have the system to leave standard metadata, that all researchers in the centre (and beyond) can use, so that we can better understand each others' data.
+As a researcher, I want to have the system to provide standard metadata, that all researchers in the centre (and beyond) can use, so that we can better understand each others' data.
+As a researcher, I want to have the system to provide standard metadata, that all researchers in the centre (and beyond) can use, so that we can better understand each others' data.
+
+Input phrase:As a researcher, I want to have physiology images to be annotated with standard meta data, so that my data can later be searched for and understood.
+As a research_worker, I desire to have physiology image to be annotate with standard meta datum, so that my datum can subsequently be search for and understand.
+As a researcher, I want to have physiology persona to be gloss with standard meta data, so that my data can by_and_by be research for and sympathize.
+As a researcher, I want to have physiology picture to be annotated with standard meta data, so that my data can later be searched for and understood.
+As a researcher, I want to have physiology prototype to be annotated with standard meta data, so that my data can later be searched for and understood.
+As a researcher, I want to have physiology trope to be annotated with standard meta data, so that my data can later be searched for and understood.
+
+Input phrase:As a researcher, I want to have the ability to attach standard meta data for behavioural observations (and video), so that my data can later be searched for and understood.
+As a research_worker, I desire to have the ability to bind standard meta datum for behavioral observation (and video_recording), so that my datum can subsequently be search for and understand.
+As a researcher, I want to have the ability to impound standard meta data for behavioural notice (and television), so that my data can by_and_by be research for and sympathize.
+As a researcher, I want to have the ability to attach standard meta data for behavioural observations (and video), so that my data can later be searched for and understood.
+As a researcher, I want to have the ability to attach standard meta data for behavioural observations (and video), so that my data can later be searched for and understood.
+As a researcher, I want to have the ability to attach standard meta data for behavioural observations (and video), so that my data can later be searched for and understood.
+
+Input phrase:As a researcher,  I want to have the ability to attach standard meta data for drug responses, so that my data can later be searched for and understood.
+As a research_worker,  I desire to have the ability to bind standard meta datum for drug response, so that my datum can subsequently be search for and understand.
+As a researcher,  I want to have the ability to impound standard meta data for drug reaction, so that my data can by_and_by be research for and sympathize.
+As a researcher,  I want to have the ability to attach standard meta data for drug answer, so that my data can later be searched for and understood.
+As a researcher,  I want to have the ability to attach standard meta data for drug reception, so that my data can later be searched for and understood.
+As a researcher,  I want to have the ability to attach standard meta data for drug reply, so that my data can later be searched for and understood.
+
+Input phrase:As a researcher, I want to have the ability to search for images of cells using standard meta data.
+As a reresearch_worker, I desire to have the ability to research for image of cell use standard meta datum.
+As a researcher, I want to have the ability to search for persona of cellular_telephone practice standard meta data.
+As a researcher, I want to have the ability to search for picture of cells using standard meta data.
+As a researcher, I want to have the ability to search for prototype of cells using standard meta data.
+As a researcher, I want to have the ability to search for trope of cells using standard meta data.
+
+Input phrase:As a researcher, I want to have at least some meta data to be automatically inserted when new data is added to the system.
+As a research_worker, I desire to have at least some meta datum to be mechanically insert when fresh datum is add to the arrangement.
+As a researcher, I want to have at least some meta data to be automatically tuck when raw data is lend to the organization.
+As a researcher, I want to have at least some meta data to be automatically slip_in when newfangled data is total to the system.
+As a researcher, I want to have at least some meta data to be automatically inserted when modern data is added to the system.
+As a researcher, I want to have at least some meta data to be automatically inserted when new data is added to the system.
+
+Input phrase:As a researcher,  I want to have the ability to attach detailed meta data to the data and entries that I create.
+As a research_worker,  I desire to have the ability to bind detailed meta datum to the datum and entry that I make.
+As a researcher,  I want to have the ability to impound detailed meta data to the data and introduction that I produce.
+As a researcher,  I want to have the ability to attach detailed meta data to the data and submission that I create.
+As a researcher,  I want to have the ability to attach detailed meta data to the data and entrance that I create.
+As a researcher,  I want to have the ability to attach detailed meta data to the data and entries that I create.
+
+Input phrase:As a researcher, I want to have the ability to select a partially pre-populated template that already contains commonly entered meta data while adding new data to the system, so that I do not waste time repeatedly inserting the same meta data over and over again for each individual file or log book entry.
+As a research_worker, I desire to have the ability to choose a partially pre-populated template that already incorporate normally enter meta datum while add fresh datum to the arrangement, so that I do not neutralize clock_time repeatedly insert the same meta datum over and over again for each individual file or logarithm record introduction.
+As a researcher, I want to have the ability to select a partially pre-populated template that already hold commonly enroll meta data while lend raw data to the organization, so that I do not consume fourth_dimension repeatedly tuck the same meta data over and over again for each individual file or log script submission.
+As a researcher, I want to have the ability to select a partially pre-populated template that already control commonly figure meta data while total newfangled data to the system, so that I do not pine_away meter repeatedly slip_in the same meta data over and over again for each individual file or log ledger entrance.
+As a researcher, I want to have the ability to select a partially pre-populated template that already contain commonly record meta data while adding modern data to the system, so that I do not lay_waste_to prison_term repeatedly inserting the same meta data over and over again for each individual file or log koran entry.
+As a researcher, I want to have the ability to select a partially pre-populated template that already check commonly accede meta data while adding new data to the system, so that I do not waste time repeatedly inserting the same meta data over and over again for each individual file or log bible entry.
+
+Input phrase:As a user, I want to be sure that existing metadata corresponding to the file is not lost when moving a file to a new location.
+As a exploiter, I desire to be certain that exist metadata match to the file is not lose when travel a file to a fresh placement.
+As a drug_user, I want to be indisputable that existing metadata equate to the file is not misplace when move a file to a raw localization.
+As a user, I want to be sure that existing metadata correspond to the file is not fall_back when go a file to a newfangled location.
+As a user, I want to be sure that existing metadata represent to the file is not miss when be_active a file to a modern location.
+As a user, I want to be sure that existing metadata corresponding to the file is not suffer when act a file to a new location.
+
+Input phrase:As a researcher, I want to have the ability to form links between objects, for example File A is an analysis of File B, so that data can be searched by type and by association.
+As a research_worker, I desire to have the ability to shape link between object, for model charge A is an psychoanalysis of charge bacillus, so that datum can be search by character and by affiliation.
+As a researcher, I want to have the ability to imprint connection between aim, for exemplar File A is an analysis of File b-complex_vitamin, so that data can be research by type and by association.
+As a researcher, I want to have the ability to form liaison between objects, for case File A is an analysis of File boron, so that data can be searched by type and by association.
+As a researcher, I want to have the ability to form radio_link between objects, for exercise File A is an analysis of File bel, so that data can be searched by type and by association.
+As a researcher, I want to have the ability to form links between objects, for example File A is an analysis of File barn, so that data can be searched by type and by association.
+
+Input phrase:As a researcher, I want to have the ability to locate experiment files using meta data, regardless of where those files are located.
+As a research_worker, I desire to have the ability to situate experiment file use meta datum, regardless of where those file are situated.
+As a researcher, I want to have the ability to settle experiment files practice meta data, regardless of where those files are settled.
+As a researcher, I want to have the ability to locate experiment files using meta data, regardless of where those files are settle.
+As a researcher, I want to have the ability to locate experiment files using meta data, regardless of where those files are located.
+As a researcher, I want to have the ability to locate experiment files using meta data, regardless of where those files are located.
+
+Input phrase:As a researcher, I want to have any data that I have written to the VRE to be protected from modification or deletion, so that original data can always be traced back to an experiment and a point in time.
+As a research_worker, I desire to have any datum that I have write to the VRE to be protect from alteration or omission, so that original datum can constantly be trace back to an experiment and a detail in clock_time.
+As a researcher, I want to have any data that I have publish to the VRE to be protected from change or deletion, so that original data can always be hound back to an experiment and a degree in fourth_dimension.
+As a researcher, I want to have any data that I have compose to the VRE to be protected from modification or deletion, so that original data can always be decipher back to an experiment and a item in meter.
+As a researcher, I want to have any data that I have spell to the VRE to be protected from modification or deletion, so that original data can always be traced back to an experiment and a compass_point in prison_term.
+As a researcher, I want to have any data that I have written to the VRE to be protected from modification or deletion, so that original data can always be traced back to an experiment and a period in time.
+
+Input phrase:As a user,  I want to have the ability to keep my data private on the system, and only share data that I deem should be shared.
+As a exploiter,  I desire to have the ability to continue my datum individual on the arrangement, and only partake datum that I deem should be partaked.
+As a drug_user,  I want to have the ability to prevent my data secret on the organization, and only share data that I deem should be partake.
+As a user,  I want to have the ability to observe my data private on the system, and only share data that I deem should be shared.
+As a user,  I want to have the ability to retain my data private on the system, and only share data that I deem should be shared.
+As a user,  I want to have the ability to sustain my data private on the system, and only share data that I deem should be shared.
+
+Input phrase:As a researcher,  I want to have the ability to store all the inputs for an experiment so that the provenance of the results can be verified.
+As a research_worker,  I desire to have the ability to store all the input_signal for an experiment so that the birthplace of the consequence can be verify.
+As a researcher,  I want to have the ability to store all the remark for an experiment so that the provenance of the solution can be control.
+As a researcher,  I want to have the ability to store all the stimulation for an experiment so that the provenance of the result can be affirm.
+As a researcher,  I want to have the ability to store all the input for an experiment so that the provenance of the resultant_role can be verified.
+As a researcher,  I want to have the ability to store all the inputs for an experiment so that the provenance of the results can be verified.
+
+Input phrase:As a researcher, I want to have the ability to search for files by file type and format.
+As a reresearch_worker, I desire to have the ability to research for file by file character and format.
+As a researcher, I want to have the ability to search for files by file type and format.
+As a researcher, I want to have the ability to search for files by file type and format.
+As a researcher, I want to have the ability to search for files by file type and format.
+As a researcher, I want to have the ability to search for files by file type and format.
+
+Input phrase:As a researcher,  I want to have the ability to bulk upload directories and files with minimal effort.
+As a research_worker,  I desire to have the ability to bulge upload directory and file with minimal attempt.
+As a researcher,  I want to have the ability to bulk upload directories and files with minimal feat.
+As a researcher,  I want to have the ability to bulk upload directories and files with minimal campaign.
+As a researcher,  I want to have the ability to bulk upload directories and files with minimal effort.
+As a researcher,  I want to have the ability to bulk upload directories and files with minimal effort.
+
+Input phrase:As a researcher, I want to associate meta data to the group as a whole at some point in time after the bulk upload has completed, so that I have a period of time to reflect on suitable values for the meta data.
+As a research_worker, I desire to consort meta datum to the group as a whole at some detail in clock_clock_time after the bulk upload has complete, so that I have a clock_time_period of clock_clock_time to chew_over on desirable value for the meta datum.
+As a researcher, I want to consociate meta data to the group as a whole at some degree in fourth_dimension after the bulk upload has dispatch, so that I have a menstruation of fourth_dimension to reflect on suitable values for the meta data.
+As a researcher, I want to associate meta data to the group as a whole at some item in meter after the bulk upload has completed, so that I have a period of meter to reflect on suitable values for the meta data.
+As a researcher, I want to associate meta data to the group as a whole at some compass_point in prison_term after the bulk upload has completed, so that I have a period of prison_term to reflect on suitable values for the meta data.
+As a researcher, I want to associate meta data to the group as a whole at some period in time after the bulk upload has completed, so that I have a period of time to reflect on suitable values for the meta data.
+
+Input phrase:As a user,  I want to have the ability to change the sharing and ownership of multiple files.
+As a exploiter,  I desire to have the ability to switch the communion and possession of multiple file.
+As a drug_user,  I want to have the ability to exchange the sharing and ownership of multiple files.
+As a user,  I want to have the ability to transfer the sharing and ownership of multiple files.
+As a user,  I want to have the ability to deepen the sharing and ownership of multiple files.
+As a user,  I want to have the ability to change the sharing and ownership of multiple files.
+
+Input phrase:As a researcher,  I want to have the ability to restrict the data I share to certain researchers or groups of researchers.
+As a research_worker,  I desire to have the ability to qualify the datum I partake to sealed research_workers or group of research_workers.
+As a researcher,  I want to have the ability to restrict the data I share to certain researchers or groups of researchers.
+As a researcher,  I want to have the ability to restrict the data I share to certain researchers or groups of researchers.
+As a researcher,  I want to have the ability to restrict the data I share to certain researchers or groups of researchers.
+As a researcher,  I want to have the ability to restrict the data I share to certain researchers or groups of researchers.
+
+Input phrase:As a researcher,  I want to have the ability to locate and access data that colleagues want to share.
+As a research_worker,  I desire to have the ability to situate and access datum that colleague desire to partake.
+As a researcher,  I want to have the ability to settle and access data that colleagues want to share.
+As a researcher,  I want to have the ability to locate and access data that colleagues want to share.
+As a researcher,  I want to have the ability to locate and access data that colleagues want to share.
+As a researcher,  I want to have the ability to locate and access data that colleagues want to share.
+
+Input phrase:As a researcher,  I want to have the ability to interact with a revision control system so that I can keep track of changes to files over time.
+As a research_worker,  I desire to have the ability to interact with a rewrite control_condition arrangement so that I can continue path of change to file over clock_time.
+As a researcher,  I want to have the ability to interact with a revision dominance organization so that I can prevent lead of variety to files over fourth_dimension.
+As a researcher,  I want to have the ability to interact with a revision restraint system so that I can observe racetrack of changes to files over meter.
+As a researcher,  I want to have the ability to interact with a revision command system so that I can retain cut of changes to files over prison_term.
+As a researcher,  I want to have the ability to interact with a revision control system so that I can sustain track of changes to files over time.
+
+Input phrase:As a JuniorResearcher,  I want to have the ability to harvest knowledge from within the group, so that I can learn from more experienced researchers.
+As a JuniorResearcher,  I desire to have the ability to reap cognition from inside the group, so that I can memorize from more experienced research_worker.
+As a JuniorResearcher,  I want to have the ability to harvest knowledge from within the group, so that I can teach from more experienced researchers.
+As a JuniorResearcher,  I want to have the ability to harvest knowledge from within the group, so that I can determine from more experienced researchers.
+As a JuniorResearcher,  I want to have the ability to harvest knowledge from within the group, so that I can learn from more experienced researchers.
+As a JuniorResearcher,  I want to have the ability to harvest knowledge from within the group, so that I can learn from more experienced researchers.
+
+Input phrase:As a researcher, I want to secure remote access to the Neurohub node when working away from the laboratory
+As a research_worker, I desire to procure distant entree to the Neurohub lymph_node when work aside from the lab
+As a researcher, I want to fasten outside access to the Neurohub node when function off from the testing_ground
+As a researcher, I want to guarantee outback access to the Neurohub node when exercise away from the laboratory
+As a researcher, I want to plug remote access to the Neurohub node when make away from the laboratory
+As a researcher, I want to batten remote access to the Neurohub node when bring away from the laboratory
+
+Input phrase:As a researcher, I want to have a group-level repository for sharing papers/reviews/comments with other researchers.
+As a research_worker, I desire to have a group-degree depository for share document/reappraisal/remark with other research_workers.
+As a researcher, I want to have a group-grade repository for partake paper/review/comment with other researchers.
+As a researcher, I want to have a group-horizontal_surface repository for sharing composition/follow-up/gossip with other researchers.
+As a researcher, I want to have a group-floor repository for sharing newspaper/revue/comments with other researchers.
+As a researcher, I want to have a group-level repository for sharing papers/recapitulation/comments with other researchers.
+
+Input phrase:As a researcher, I want to have the details of the workflow plan as well as the execution history and results recorded in Neurohub while executing a workflow
+As a research_worker, I desire to have the detail of the work_flow design as well as the performance history and consequence record in Neurohub while execute a work_flow
+As a researcher, I want to have the contingent of the workflow plan as well as the murder history and solution read in Neurohub while carry_through a workflow
+As a researcher, I want to have the details of the workflow plan as well as the execution history and result commemorate in Neurohub while run a workflow
+As a researcher, I want to have the details of the workflow plan as well as the execution history and resultant_role recorded in Neurohub while perform a workflow
+As a researcher, I want to have the details of the workflow plan as well as the execution history and results recorded in Neurohub while executing a workflow
+
+Time for the single dataset = 1.4671 seconds = 0.0004 hours

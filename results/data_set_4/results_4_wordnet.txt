@@ -1,0 +1,738 @@
+data_set_number:4
+
+Input phrase:As a Data Publishing User, I want to be able to edit a dataset I have published, So that I can correct or enhance existing data.
+As a datum publication exploiter, I desire to be able to edit a datumset I have print, So that I can right or enhance exist datum.
+As a Data print drug_user, I want to be able to edit a dataset I have publish, So that I can chastise or enhance existing data.
+As a Data publish User, I want to be able to edit a dataset I have published, So that I can compensate or enhance existing data.
+As a Data Publishing User, I want to be able to edit a dataset I have published, So that I can discipline or enhance existing data.
+As a Data Publishing User, I want to be able to edit a dataset I have published, So that I can decline or enhance existing data.
+
+Input phrase:
+
+
+
+
+
+
+Input phrase:As a Data Publishing User, I want to be able to edit the model of data I have already imported, So that I can fix bugs or make enhancements in the API built for my data.
+As a datum publication exploiter, I desire to be able to edit the exemplar of datum I have already import, So that I can repair bug or induce enhancement in the API construct for my datum.
+As a Data print drug_user, I want to be able to edit the mannequin of data I have already spell, So that I can fasten hemipterous_insect or cause enhancements in the API build_up for my data.
+As a Data publish User, I want to be able to edit the model of data I have already imported, So that I can specify microbe or produce enhancements in the API build for my data.
+As a Data Publishing User, I want to be able to edit the model of data I have already imported, So that I can cook bugs or draw enhancements in the API built for my data.
+As a Data Publishing User, I want to be able to edit the model of data I have already imported, So that I can pay_back bugs or create enhancements in the API built for my data.
+
+Input phrase:
+
+
+
+
+
+
+Input phrase:As a Data Publishing User, I want to be able to delete a dataset I have published, So that I can remove unwanted data from OpenSpending.
+As a datum publication exploiter, I desire to be able to erase a datumset I have print, So that I can get_rid_of undesireed datum from OpenSpending.
+As a Data print drug_user, I want to be able to edit a dataset I have publish, So that I can take_out unwanted data from OpenSpending.
+As a Data publish User, I want to be able to delete a dataset I have published, So that I can absent unwanted data from OpenSpending.
+As a Data Publishing User, I want to be able to delete a dataset I have published, So that I can murder unwanted data from OpenSpending.
+As a Data Publishing User, I want to be able to delete a dataset I have published, So that I can remove unwanted data from OpenSpending.
+
+Input phrase:
+
+
+
+
+
+
+Input phrase:As a Platform Administrator, I want to be able to Hide any dataset already added as Public, So that I can maintain Public/Hidden status for other users.
+As a chopine Administrator, I desire to be able to shroud any dataset already add as populace, So that I can keep populace/hide condition for other user.
+As a Platform Administrator, I want to be able to obscure any dataset already lend as Public, So that I can conserve Public/shroud status for other exploiter.
+As a Platform Administrator, I want to be able to Hide any dataset already total as Public, So that I can sustain Public/obscure status for other drug_user.
+As a Platform Administrator, I want to be able to Hide any dataset already added as Public, So that I can assert Public/Hidden status for other users.
+As a Platform Administrator, I want to be able to Hide any dataset already added as Public, So that I can wield Public/Hidden status for other users.
+
+Input phrase:
+
+
+
+
+
+
+Input phrase:As a Platform Administrator, I want to have a view on all datasets published by all users, So that I can perform management actions on any dataset.
+As a chopine Administrator, I desire to have a position on all datasets print by all user, So that I can do management action on any dataset.
+As a Platform Administrator, I want to have a opinion on all datasets publish by all exploiter, So that I can perform management military_action on any dataset.
+As a Platform Administrator, I want to have a scene on all datasets published by all drug_user, So that I can perform management natural_process on any dataset.
+As a Platform Administrator, I want to have a horizon on all datasets published by all users, So that I can perform management legal_action on any dataset.
+As a Platform Administrator, I want to have a view on all datasets published by all users, So that I can perform management actions on any dataset.
+
+Input phrase:
+
+
+
+
+
+
+Input phrase:As a Platform Administrator, I want to be able to delete any dataset published, So that I can deal with takedown requests, or clean up test datasets.
+As a chopine Administrator, I desire to be able to erase any dataset print, So that I can cover with put-down request, or houseclean up trial datasets.
+As a Platform Administrator, I want to be able to edit any dataset publish, So that I can consider with takedown requests, or cleanse up examination datasets.
+As a Platform Administrator, I want to be able to delete any dataset published, So that I can cope with takedown requests, or scavenge up test datasets.
+As a Platform Administrator, I want to be able to delete any dataset published, So that I can distribute with takedown requests, or clean up test datasets.
+As a Platform Administrator, I want to be able to delete any dataset published, So that I can manage with takedown requests, or clean up test datasets.
+
+Input phrase:
+
+
+
+
+
+
+Input phrase:As a Data Publishing User, I want to be able to edit the data source of data I have already imported, So that I can fix bugs or make enhancements in the API built for my data.
+As a datum publication exploiter, I desire to be able to edit the datum beginning of datum I have already import, So that I can repair bug or induce enhancement in the API construct for my datum.
+As a Data print drug_user, I want to be able to edit the data informant of data I have already spell, So that I can fasten hemipterous_insect or cause enhancements in the API build_up for my data.
+As a Data publish User, I want to be able to edit the data generator of data I have already imported, So that I can specify microbe or produce enhancements in the API build for my data.
+As a Data Publishing User, I want to be able to edit the data reservoir of data I have already imported, So that I can cook bugs or draw enhancements in the API built for my data.
+As a Data Publishing User, I want to be able to edit the data reference of data I have already imported, So that I can pay_back bugs or create enhancements in the API built for my data.
+
+Input phrase:
+
+
+
+
+
+
+Input phrase:As a Data Publishing User, I want to have the Packager support Constants, So that I can model dimensions that may not exist in the source file.
+As a datum publication exploiter, I desire to have the Packager documentation constant, So that I can model dimension that may not exist in the beginning file.
+As a Data print drug_user, I want to have the Packager accompaniment Constants, So that I can model property that may not exist in the informant file.
+As a Data publish User, I want to have the Packager support Constants, So that I can model proportion that may not exist in the generator file.
+As a Data Publishing User, I want to have the Packager support Constants, So that I can model dimensions that may not exist in the reservoir file.
+As a Data Publishing User, I want to have the Packager support Constants, So that I can model dimensions that may not exist in the reference file.
+
+Input phrase:
+
+
+
+
+
+
+Input phrase:As a Data Publishing User, I want to be able to import data in Excel, So that I do not have to convert data formats in order to use the data packager.
+As a datum publication exploiter, I desire to be able to spell datum in Excel, So that I do not have to change datum format in ordering to practice the datum packager.
+As a Data print drug_user, I want to be able to import data in Excel, So that I do not have to commute data formats in orderliness to use the data packager.
+As a Data publish User, I want to be able to import data in Excel, So that I do not have to convert data formats in decree to use the data packager.
+As a Data Publishing User, I want to be able to import data in Excel, So that I do not have to convert data formats in club to use the data packager.
+As a Data Publishing User, I want to be able to import data in Excel, So that I do not have to convert data formats in holy_order to use the data packager.
+
+Input phrase:
+
+
+
+
+
+
+Input phrase:As a Data Publishing User, I want to know what my data needs to be able to be visualised on a map, So that I can visualise it on a map.
+As a datum publication exploiter, I desire to acknowledge what my datum necessitate to be able to be visualize on a function, So that I can visualize it on a function.
+As a Data print drug_user, I want to sleep_together what my data want to be able to be visualised on a map, So that I can visualise it on a map.
+As a Data publish User, I want to know what my data need to be able to be visualised on a map, So that I can visualise it on a map.
+As a Data Publishing User, I want to know what my data needs to be able to be visualised on a map, So that I can visualise it on a map.
+As a Data Publishing User, I want to know what my data needs to be able to be visualised on a map, So that I can visualise it on a map.
+
+Input phrase:
+
+
+
+
+
+
+Input phrase:As a Data Publishing User, I want to be able to import data in JSON, So that I do not have to convert data formats in order to use the data packager.
+As a datum publication exploiter, I desire to be able to spell datum in JSON, So that I do not have to change datum format in ordering to practice the datum packager.
+As a Data print drug_user, I want to be able to import data in JSON, So that I do not have to commute data formats in orderliness to use the data packager.
+As a Data publish User, I want to be able to import data in JSON, So that I do not have to convert data formats in decree to use the data packager.
+As a Data Publishing User, I want to be able to import data in JSON, So that I do not have to convert data formats in club to use the data packager.
+As a Data Publishing User, I want to be able to import data in JSON, So that I do not have to convert data formats in holy_order to use the data packager.
+
+Input phrase:
+
+
+
+
+
+
+Input phrase:As a Data Publishing User, I want to be able to import data from a Google Spreadsheet, So that I do not have to convert data formats in order to use the data packager.
+As a datum publication exploiter, I desire to be able to spell datum from a Google Spreadsheet, So that I do not have to change datum format in ordering to practice the datum packager.
+As a Data print drug_user, I want to be able to import data from a Google Spreadsheet, So that I do not have to commute data formats in orderliness to use the data packager.
+As a Data publish User, I want to be able to import data from a Google Spreadsheet, So that I do not have to convert data formats in decree to use the data packager.
+As a Data Publishing User, I want to be able to import data from a Google Spreadsheet, So that I do not have to convert data formats in club to use the data packager.
+As a Data Publishing User, I want to be able to import data from a Google Spreadsheet, So that I do not have to convert data formats in holy_order to use the data packager.
+
+Input phrase:
+
+
+
+
+
+
+Input phrase:As a Data Publishing User, I want to be able to import data from Fiscal Data Package descriptor file, So that I do not have to convert data formats in order to use the data packager.
+As a datum publication exploiter, I desire to be able to spell datum from Fiscal datum software form file, So that I do not have to change datum format in ordering to practice the datum packager.
+As a Data print drug_user, I want to be able to import data from Fiscal Data box descriptor file, So that I do not have to commute data formats in orderliness to use the data packager.
+As a Data publish User, I want to be able to import data from Fiscal Data Package descriptor file, So that I do not have to convert data formats in decree to use the data packager.
+As a Data Publishing User, I want to be able to import data from Fiscal Data Package descriptor file, So that I do not have to convert data formats in club to use the data packager.
+As a Data Publishing User, I want to be able to import data from Fiscal Data Package descriptor file, So that I do not have to convert data formats in holy_order to use the data packager.
+
+Input phrase:
+
+
+
+
+
+
+Input phrase:As a Data Publishing User, I want to be able to provide the Platform Administrator with additional GeoJSON sources, So that I can improve the map-based visualisations of my data.
+As a datum publication exploiter, I desire to be able to supply the chopine Administrator with extra GeoJSON beginning, So that I can better the function-establish visual_image of my datum.
+As a Data print drug_user, I want to be able to put_up the Platform Administrator with additional GeoJSON source, So that I can improve the map-base visualisations of my data.
+As a Data publish User, I want to be able to leave the Platform Administrator with additional GeoJSON informant, So that I can improve the map-free-base visualisations of my data.
+As a Data Publishing User, I want to be able to provide the Platform Administrator with additional GeoJSON generator, So that I can improve the map-based visualisations of my data.
+As a Data Publishing User, I want to be able to provide the Platform Administrator with additional GeoJSON reservoir, So that I can improve the map-based visualisations of my data.
+
+Input phrase:
+
+
+
+
+
+
+Input phrase:As a Data Consuming User, I want to be able to filter, sort and aggregate data by multiple dimensions and measures, So that I can get more granular views on the data.
+As a datum devour exploiter, I desire to be able to percolate, kind and aggregate datum by multiple dimension and measure, So that I can become more farinaceous position on the datum.
+As a Data consume drug_user, I want to be able to trickle, sort and aggregate data by multiple property and bill, So that I can receive more chondritic view on the data.
+As a Data Consuming User, I want to be able to filter, sort and aggregate data by multiple proportion and measurement, So that I can arrive more granular opinion on the data.
+As a Data Consuming User, I want to be able to filter, sort and aggregate data by multiple dimensions and standard, So that I can bring more granular scene on the data.
+As a Data Consuming User, I want to be able to filter, sort and aggregate data by multiple dimensions and meter, So that I can experience more granular horizon on the data.
+
+Input phrase:
+
+
+
+
+
+
+Input phrase:As a Data Consuming User, I want to be able to download a CSV of the data that is used in any visualisation I am viewing, So that I can use the data in other tools.
+As a datum devour exploiter, I desire to be able to download a CSV of the datum that is practice in any visual_image I am see, So that I can practice the datum in other tool.
+As a Data consume drug_user, I want to be able to download a CSV of the data that is practice in any visualisation I am view, So that I can use the data in other instrument.
+As a Data Consuming User, I want to be able to download a CSV of the data that is used in any visualisation I am watch, So that I can use the data in other creature.
+As a Data Consuming User, I want to be able to download a CSV of the data that is used in any visualisation I am viewing, So that I can use the data in other cock.
+As a Data Consuming User, I want to be able to download a CSV of the data that is used in any visualisation I am viewing, So that I can use the data in other tools.
+
+Input phrase:
+
+
+
+
+
+
+Input phrase:As a Data Consuming User, I want to be able to change the display of all monetary measures across a set of currencies, So that I can understand localised amounts in non-localised figures.
+As a datum devour exploiter, I desire to be able to switch the display of all monetary measure across a stage_set of currency, So that I can sympathize localized sum in non-localized figure.
+As a Data consume drug_user, I want to be able to exchange the display of all monetary bill across a bent of currentness, So that I can understand localised amount in non-localised human_body.
+As a Data Consuming User, I want to be able to transfer the display of all monetary measurement across a hardening of currencies, So that I can understand localised measure in non-localised digit.
+As a Data Consuming User, I want to be able to deepen the display of all monetary standard across a set of currencies, So that I can understand localised amounts in non-localised name.
+As a Data Consuming User, I want to be able to change the display of all monetary meter across a set of currencies, So that I can understand localised amounts in non-localised number.
+
+Input phrase:
+
+
+
+
+
+
+Input phrase:As a Data Consuming User, I want to see textual descriptions that accompany embedded visualisations, So that I can more easily understand what I am viewing.
+As a datum devour exploiter, I desire to sympathize textual description that attach_to implant visual_image, So that I can more well sympathize what I am see.
+As a Data consume drug_user, I want to witness textual descriptions that play_along embed visualisations, So that I can more easily understand what I am view.
+As a Data Consuming User, I want to visualize textual descriptions that company embedded visualisations, So that I can more easily understand what I am watch.
+As a Data Consuming User, I want to learn textual descriptions that accompany embedded visualisations, So that I can more easily understand what I am viewing.
+As a Data Consuming User, I want to watch textual descriptions that accompany embedded visualisations, So that I can more easily understand what I am viewing.
+
+Input phrase:
+
+
+
+
+
+
+Input phrase:As a Data Consuming User, I want to be able to share a view state as a URL to social networks, So that I can share data that I have found with others.
+As a datum devour exploiter, I desire to be able to partake a position state_of_matter as a URL to social network, So that I can partake datum that I have establish with others.
+As a Data consume drug_user, I want to be able to share a opinion country as a URL to social net, So that I can share data that I have find with others.
+As a Data Consuming User, I want to be able to share a scene department_of_state as a URL to social networks, So that I can share data that I have detect with others.
+As a Data Consuming User, I want to be able to share a horizon state as a URL to social networks, So that I can share data that I have determine with others.
+As a Data Consuming User, I want to be able to share a view state as a URL to social networks, So that I can share data that I have witness with others.
+
+Input phrase:
+
+
+
+
+
+
+Input phrase:As a Data Consuming User, I want to be able to download an image ofa particular view state, So that I can use it offline.
+As a datum devour exploiter, I desire to be able to download an persona ofa especial position state_of_matter, So that I can practice it offline.
+As a Data consume drug_user, I want to be able to download an picture ofa finical opinion country, So that I can use it offline.
+As a Data Consuming User, I want to be able to download an prototype ofa particular scene department_of_state, So that I can use it offline.
+As a Data Consuming User, I want to be able to download an trope ofa particular horizon state, So that I can use it offline.
+As a Data Consuming User, I want to be able to download an double ofa particular view state, So that I can use it offline.
+
+Input phrase:
+
+
+
+
+
+
+Input phrase:As a Data Consuming User, I want to be able to share an image of a particular view state to the social networks that support this, So that I can provide richer context in those communication channels for data I am sharing.
+As a datum devour exploiter, I desire to be able to partake an persona of a especial position state_of_matter to the social network that back this, So that I can supply rich context in those communication channel for datum I am share.
+As a Data consume drug_user, I want to be able to share an picture of a finical opinion country to the social net that hold this, So that I can put_up fat context in those communication groove for data I am partake.
+As a Data Consuming User, I want to be able to share an prototype of a particular scene department_of_state to the social networks that confirm this, So that I can leave deep context in those communication duct for data I am sharing.
+As a Data Consuming User, I want to be able to share an trope of a particular horizon state to the social networks that subscribe this, So that I can provide full-bodied context in those communication distribution_channel for data I am sharing.
+As a Data Consuming User, I want to be able to share an double of a particular view state to the social networks that corroborate this, So that I can provide ample context in those communication channels for data I am sharing.
+
+Input phrase:
+
+
+
+
+
+
+Input phrase:As a Data Consuming User, I want to be able to have stepped zoom on map visualisations, So that I can have better control over the navigation experience inside a map view.
+As a datum devour exploiter, I desire to be able to have step rapid_climb on function visual_image, So that I can have good control_condition over the seafaring experience inwardly a function position.
+As a Data consume drug_user, I want to be able to have mistreat soar on map visualisations, So that I can have full dominance over the navigation experience at_heart a map opinion.
+As a Data Consuming User, I want to be able to have pace zoom on map visualisations, So that I can have estimable restraint over the navigation experience inside a map scene.
+As a Data Consuming User, I want to be able to have stepped zoom on map visualisations, So that I can have beneficial command over the navigation experience inside a map horizon.
+As a Data Consuming User, I want to be able to have stepped zoom on map visualisations, So that I can have adept control over the navigation experience inside a map view.
+
+Input phrase:
+
+
+
+
+
+
+Input phrase:As a Data Consuming User, I want to have consistent use of colour on map visualisations, So that I can better understand the visual logic of the map view.
+As a datum devour exploiter, I desire to have reproducible function of coloring_material on function ocular_image, So that I can well sympathize the ocular logic of the function position.
+As a Data consume drug_consumptionr, I want to have coherent consumption of color on map visualisations, So that I can better understand the visual logic of the map opinion.
+As a Data Consuming User, I want to have consistent habit of semblance on map visualisations, So that I can better understand the visual logic of the map scene.
+As a Data Consuming User, I want to have consistent manipulation of colour on map visualisations, So that I can better understand the visual logic of the map horizon.
+As a Data Consuming User, I want to have consistent use of colour on map visualisations, So that I can better understand the visual logic of the map view.
+
+Input phrase:
+
+
+
+
+
+
+Input phrase:As a Developer, I want to be able to customise the Brand Name and Icon, and Primary Color of all frontend Javascript apps, So that I can customise the branding for my own needs.
+As a Developer, I desire to be able to custom-make the trade_name appoint and picture, and primary_coil semblance of all frontend Javascript apps, So that I can custom-make the stigmatization for my own need.
+As a Developer, I want to be able to customize the mark mention and Icon, and chief coloring_material of all frontend Javascript apps, So that I can customize the branding for my own motivation.
+As a Developer, I want to be able to customise the sword identify and Icon, and elementary tinge of all frontend Javascript apps, So that I can customise the branding for my own indigence.
+As a Developer, I want to be able to customise the stigmatize list and Icon, and basal discolor of all frontend Javascript apps, So that I can customise the branding for my own needs.
+As a Developer, I want to be able to customise the post diagnose and Icon, and Primary Color of all frontend Javascript apps, So that I can customise the branding for my own needs.
+
+Input phrase:
+
+
+
+
+
+
+Input phrase:As an API User, I want to be able to understand if a user is a Publisher, So that I can offer functionality based on Dataset Publisher privileges.
+As an API exploiter, I desire to be able to sympathize if a exploiter is a Publisher, So that I can volunteer functionality establish on Dataset Publisher privilege.
+As an API drug_drug_user, I want to be able to understand if a drug_user is a Publisher, So that I can put_up functionality base on Dataset Publisher prerogative.
+As an API User, I want to be able to understand if a user is a Publisher, So that I can extend functionality free-base on Dataset Publisher privileges.
+As an API User, I want to be able to understand if a user is a Publisher, So that I can propose functionality based on Dataset Publisher privileges.
+As an API User, I want to be able to understand if a user is a Publisher, So that I can offer functionality based on Dataset Publisher privileges.
+
+Input phrase:
+
+
+
+
+
+
+Input phrase:As an API User, I want to be able to understand if a user is an Administrator, So that I can offer functionality based on Platform Administration privileges.
+As an API exploiter, I desire to be able to sympathize if a exploiter is an Administrator, So that I can volunteer functionality establish on chopine presidency privilege.
+As an API drug_drug_user, I want to be able to understand if a drug_user is an Administrator, So that I can put_up functionality base on Platform government prerogative.
+As an API User, I want to be able to understand if a user is an Administrator, So that I can extend functionality free-base on Platform Administration privileges.
+As an API User, I want to be able to understand if a user is an Administrator, So that I can propose functionality based on Platform Administration privileges.
+As an API User, I want to be able to understand if a user is an Administrator, So that I can offer functionality based on Platform Administration privileges.
+
+Input phrase:
+
+
+
+
+
+
+Input phrase:As an API User, I want to be able to get bordering regions|cities when I query a region|city, So that I can provider wider visual context for mapping visualisations.
+As an API exploiter, I desire to be able to become surround regions|cities when I question a region|city, So that I can provider wide ocular context for function ocularisations.
+As an API drug_user, I want to be able to receive bound regions|cities when I query a region|city, So that I can provider across-the-board visual context for mapping visualisations.
+As an API User, I want to be able to arrive frame regions|cities when I query a region|city, So that I can provider wide-eyed visual context for mapping visualisations.
+As an API User, I want to be able to bring border regions|cities when I query a region|city, So that I can provider broad visual context for mapping visualisations.
+As an API User, I want to be able to experience bordering regions|cities when I query a region|city, So that I can provider wider visual context for mapping visualisations.
+
+Input phrase:
+
+
+
+
+
+
+Input phrase:As an API User, I want to be able to dynamically request polygons based on the query made, So that I can provide maps that match the query.
+As an API exploiter, I desire to be able to dynamically request polygon establish on the question make, So that I can supply map that equal the question.
+As an API drug_user, I want to be able to dynamically request polygons base on the query induce, So that I can put_up function that meet the query.
+As an API User, I want to be able to dynamically request polygons free-base on the query cause, So that I can leave maps that pit the query.
+As an API User, I want to be able to dynamically request polygons based on the query produce, So that I can provide maps that match the query.
+As an API User, I want to be able to dynamically request polygons based on the query draw, So that I can provide maps that match the query.
+
+Input phrase:
+
+
+
+
+
+
+Input phrase:As an API User, I want to have a flexible API using HASC codes for countries, regions and cities, So that I can visualise budget data on maps.
+As an API exploiter, I desire to have a elastic API use HASC code for state, region and city, So that I can visualize budget datum on map.
+As an API drug_user, I want to have a compromising API practice HASC codes for country, area and cities, So that I can visualise budget data on function.
+As an API User, I want to have a flexible API using HASC codes for nation, regions and cities, So that I can visualise budget data on maps.
+As an API User, I want to have a flexible API using HASC codes for area, regions and cities, So that I can visualise budget data on maps.
+As an API User, I want to have a flexible API using HASC codes for countries, regions and cities, So that I can visualise budget data on maps.
+
+Input phrase:
+
+
+
+
+
+
+Input phrase:As an API User, I want to be able to get a CSV output of any cube-based query, So that I can use work with tools that read CSV.
+As an API exploiter, I desire to be able to become a CSV end_product of any block-establish question, So that I can practice employment with tool that take CSV.
+As an API drug_user, I want to be able to receive a CSV output_signal of any cube-base query, So that I can use study with instrument that learn CSV.
+As an API User, I want to be able to arrive a CSV output of any cube-free-base query, So that I can use workplace with creature that understand CSV.
+As an API User, I want to be able to bring a CSV output of any cube-based query, So that I can use oeuvre with cock that read CSV.
+As an API User, I want to be able to experience a CSV output of any cube-based query, So that I can use work with tools that read CSV.
+
+Input phrase:
+
+
+
+
+
+
+Input phrase:As an API User, I want to be able to get a set of monetary measures transferred to different currencies, So that I can use this in scenarios that might enable comparison by normalisation.
+As an API exploiter, I desire to be able to become a stage_set of monetary measure transfer to unlike currency, So that I can practice this in scenario that might enable comparison by standardization.
+As an API drug_user, I want to be able to receive a bent of monetary bill transplant to different currentness, So that I can use this in scenarios that might enable comparison by normalisation.
+As an API User, I want to be able to arrive a hardening of monetary measurement transmit to different currencies, So that I can use this in scenarios that might enable comparison by normalisation.
+As an API User, I want to be able to bring a set of monetary standard remove to different currencies, So that I can use this in scenarios that might enable comparison by normalisation.
+As an API User, I want to be able to experience a set of monetary meter transferred to different currencies, So that I can use this in scenarios that might enable comparison by normalisation.
+
+Input phrase:
+
+
+
+
+
+
+Input phrase:As an API User, I want to be able to use metadata to get results from multiple datasets, So that I can build user experiences based on more than one dataset more easily.
+As an API exploiter, I desire to be able to practice metadata to become consequence from multiple datasets, So that I can construct practicer experience establish on more than matchless dataset more well.
+As an API drug_drug_user, I want to be able to use metadata to receive solution from multiple datasets, So that I can build_up drug_user experiences base on more than one dataset more easily.
+As an API User, I want to be able to use metadata to arrive result from multiple datasets, So that I can build user experiences free-base on more than one dataset more easily.
+As an API User, I want to be able to use metadata to bring resultant_role from multiple datasets, So that I can build user experiences based on more than one dataset more easily.
+As an API User, I want to be able to use metadata to experience results from multiple datasets, So that I can build user experiences based on more than one dataset more easily.
+
+Input phrase:
+
+
+
+
+
+
+Input phrase:As an API User, I want to be able to use data to get results from multiple datasets, So that I can build user experiences based on more than one dataset more easily.
+As an API exploiter, I desire to be able to practice datum to become consequence from multiple datumsets, So that I can construct practicer experience establish on more than matchless datumset more well.
+As an API drug_drug_user, I want to be able to use data to receive solution from multiple datasets, So that I can build_up drug_user experiences base on more than one dataset more easily.
+As an API User, I want to be able to use data to arrive result from multiple datasets, So that I can build user experiences free-base on more than one dataset more easily.
+As an API User, I want to be able to use data to bring resultant_role from multiple datasets, So that I can build user experiences based on more than one dataset more easily.
+As an API User, I want to be able to use data to experience results from multiple datasets, So that I can build user experiences based on more than one dataset more easily.
+
+Input phrase:
+
+
+
+
+
+
+Input phrase:As an API User, I want to be able to normalise measures by population, So that I work with datasets in reference to their contextual constraints.
+As an API exploiter, I desire to be able to normalize measure by population, So that I function with datasets in mention to their contextual constraint.
+As an API drug_user, I want to be able to normalise bill by population, So that I exercise with datasets in citation to their contextual restraint.
+As an API User, I want to be able to normalise measurement by population, So that I make with datasets in reference_point to their contextual constraints.
+As an API User, I want to be able to normalise standard by population, So that I bring with datasets in reference_book to their contextual constraints.
+As an API User, I want to be able to normalise meter by population, So that I cultivate with datasets in character to their contextual constraints.
+
+Input phrase:
+
+
+
+
+
+
+Input phrase:As an API User, I want to be able to normalise measures by geographical area, So that I work with datasets in reference to their contextual constraints.
+As an API exploiter, I desire to be able to normalize measure by geographic sphere, So that I function with datasets in mention to their contextual constraint.
+As an API drug_user, I want to be able to normalise bill by geographical area, So that I exercise with datasets in citation to their contextual restraint.
+As an API User, I want to be able to normalise measurement by geographical area, So that I make with datasets in reference_point to their contextual constraints.
+As an API User, I want to be able to normalise standard by geographical area, So that I bring with datasets in reference_book to their contextual constraints.
+As an API User, I want to be able to normalise meter by geographical area, So that I cultivate with datasets in character to their contextual constraints.
+
+Input phrase:
+
+
+
+
+
+
+Input phrase:As an API User, I want to be able to normalise measures by GDP, so I work with datasets in reference to their contextual constraints.
+As an API exploiter, I desire to be able to normalize measure by gross_domestic_product, so I function with datasets in mention to their contextual constraint.
+As an API drug_user, I want to be able to normalise bill by GDP, so I exercise with datasets in citation to their contextual restraint.
+As an API User, I want to be able to normalise measurement by GDP, so I make with datasets in reference_point to their contextual constraints.
+As an API User, I want to be able to normalise standard by GDP, so I bring with datasets in reference_book to their contextual constraints.
+As an API User, I want to be able to normalise meter by GDP, so I cultivate with datasets in character to their contextual constraints.
+
+Input phrase:
+
+
+
+
+
+
+Input phrase:As an API User, I want to be able to normalise measures by GINI and related socioeconomic indexes, So that I work with datasets in reference to their contextual constraints.
+As an API exploiter, I desire to be able to normalize measure by GINI and associate socioeconomic index, So that I function with datasets in mention to their contextual constraint.
+As an API drug_user, I want to be able to normalise bill by GINI and refer socioeconomic exponent, So that I exercise with datasets in citation to their contextual restraint.
+As an API User, I want to be able to normalise measurement by GINI and relate socioeconomic indexes, So that I make with datasets in reference_point to their contextual constraints.
+As an API User, I want to be able to normalise standard by GINI and related socioeconomic indexes, So that I bring with datasets in reference_book to their contextual constraints.
+As an API User, I want to be able to normalise meter by GINI and related socioeconomic indexes, So that I cultivate with datasets in character to their contextual constraints.
+
+Input phrase:
+
+
+
+
+
+
+Input phrase:As an API User, I want to be able to get a relative percentage of a measure to the total of the dataset it comes from, So that I can build alternative displays of the data.
+As an API exploiter, I desire to be able to become a proportional share of a bill to the sum of the datumset it come from, So that I can construct alternate display of the datum.
+As an API drug_user, I want to be able to receive a relative percentage of a measurement to the total of the dataset it arrive from, So that I can build_up alternative displays of the data.
+As an API User, I want to be able to arrive a relative percentage of a standard to the total of the dataset it issue_forth from, So that I can build alternative displays of the data.
+As an API User, I want to be able to bring a relative percentage of a meter to the total of the dataset it hail from, So that I can build alternative displays of the data.
+As an API User, I want to be able to experience a relative percentage of a measuring_stick to the total of the dataset it fall from, So that I can build alternative displays of the data.
+
+Input phrase:
+
+
+
+
+
+
+Input phrase:As an API User, I want to be able to persistently store visualisation state in the database, So that such can be shared more easily and contribute to a visualisation gallery.
+As an API exploiter, I desire to be able to persistently store visual_image state_of_matter in the database, So that such can be share more well and lend to a visual_image veranda.
+As an API drug_user, I want to be able to persistently store visualisation country in the database, So that such can be partake more easily and put_up to a visualisation drift.
+As an API User, I want to be able to persistently store visualisation department_of_state in the database, So that such can be shared more easily and contribute to a visualisation gallery.
+As an API User, I want to be able to persistently store visualisation state in the database, So that such can be shared more easily and contribute to a visualisation gallery.
+As an API User, I want to be able to persistently store visualisation state in the database, So that such can be shared more easily and contribute to a visualisation gallery.
+
+Input phrase:
+
+
+
+
+
+
+Input phrase:As a Data Publishing User, I want to have my dataset update automatically as the source file/files changes, So that OpenSpending always shows current data.
+As a datum publication exploiter, I desire to have my datumset update mechanically as the beginning file/file change, So that OpenSpending constantly show current datum.
+As a Data print drug_user, I want to have my dataset update automatically as the informant file/files variety, So that OpenSpending always prove current data.
+As a Data publish User, I want to have my dataset update automatically as the generator file/files changes, So that OpenSpending always testify current data.
+As a Data Publishing User, I want to have my dataset update automatically as the reservoir file/files changes, So that OpenSpending always picture current data.
+As a Data Publishing User, I want to have my dataset update automatically as the reference file/files changes, So that OpenSpending always express current data.
+
+Input phrase:
+
+
+
+
+
+
+Input phrase:As an OpenSpending Community Member, I want to have a blog that highlights any and all projects in the open fiscal space, So that I can relate to openspending.org as the central hub of fiscal openness.
+As an OpenSpending residential_district extremity, I desire to have a web_log that foreground any and all undertaking in the exposed fiscal outer_space, So that I can associate to exposedspending.org as the cardinal hub of fiscal exposedness.
+As an OpenSpending Community penis, I want to have a blog that highlight any and all project in the assailable fiscal distance, So that I can refer to assailablespending.org as the central hub of fiscal assailableness.
+As an OpenSpending Community Member, I want to have a blog that highlights any and all projects in the loose fiscal quad, So that I can relate to loosespending.org as the central hub of fiscal looseness.
+As an OpenSpending Community Member, I want to have a blog that highlights any and all projects in the receptive fiscal space, So that I can relate to receptivespending.org as the central hub of fiscal receptiveness.
+As an OpenSpending Community Member, I want to have a blog that highlights any and all projects in the overt fiscal space, So that I can relate to overtspending.org as the central hub of fiscal overtness.
+
+Input phrase:
+
+
+
+
+
+
+Input phrase:As a User, I want to be able to set my own username, So that my data is more easily discoverable.
+As a exploiter, I desire to be able to put my own username, So that my datum is more well ascertainable.
+As a drug_user, I want to be able to determine my own username, So that my data is more easily discoverable.
+As a User, I want to be able to specify my own username, So that my data is more easily discoverable.
+As a User, I want to be able to fix my own username, So that my data is more easily discoverable.
+As a User, I want to be able to arrange my own username, So that my data is more easily discoverable.
+
+Input phrase:
+
+
+
+
+
+
+Input phrase:As a Data Publishing User, I want to be able to add a dataset in a Hidden state, So that I can work on a dataset before having it discoverable via OpenSpending user interfaces.
+As a datum publication exploiter, I desire to be able to lend a dataset in a concealed state_of_matter, So that I can function on a dataset before having it ascertainable via OpenSpending exploiter interface.
+As a Data print drug_drug_user, I want to be able to total a dataset in a Hidden country, So that I can exercise on a dataset before having it discoverable via OpenSpending drug_user interfaces.
+As a Data publish User, I want to be able to add a dataset in a Hidden department_of_state, So that I can make on a dataset before having it discoverable via OpenSpending user interfaces.
+As a Data Publishing User, I want to be able to add a dataset in a Hidden state, So that I can bring on a dataset before having it discoverable via OpenSpending user interfaces.
+As a Data Publishing User, I want to be able to add a dataset in a Hidden state, So that I can cultivate on a dataset before having it discoverable via OpenSpending user interfaces.
+
+Input phrase:
+
+
+
+
+
+
+Input phrase:As a Data Publishing User, I want to be able to Hide a dataset that I have already added as Public, So that I can fix my mistakes or have a dataset primarily for my own use.
+As a datum publication exploiter, I desire to be able to shroud a dataset that I have already add as populace, So that I can repair my mistake or have a dataset chiefly for my own function.
+As a Data print drug_consumptionr, I want to be able to obscure a dataset that I have already lend as Public, So that I can fasten my error or have a dataset primarily for my own consumption.
+As a Data publish User, I want to be able to Hide a dataset that I have already total as Public, So that I can specify my mistakes or have a dataset primarily for my own habit.
+As a Data Publishing User, I want to be able to Hide a dataset that I have already added as Public, So that I can cook my mistakes or have a dataset primarily for my own manipulation.
+As a Data Publishing User, I want to be able to Hide a dataset that I have already added as Public, So that I can pay_back my mistakes or have a dataset primarily for my own use.
+
+Input phrase:
+
+
+
+
+
+
+Input phrase:As a Data Publishing User, I want to have a view on all the datasets I have published, So that I can perform management actions on my own datasets.
+As a datum publication exploiter, I desire to have a position on all the datasets I have print, So that I can do management action on my own datasets.
+As a Data print drug_user, I want to have a opinion on all the datasets I have publish, So that I can perform management military_action on my own datasets.
+As a Data publish User, I want to have a scene on all the datasets I have published, So that I can perform management natural_process on my own datasets.
+As a Data Publishing User, I want to have a horizon on all the datasets I have published, So that I can perform management legal_action on my own datasets.
+As a Data Publishing User, I want to have a view on all the datasets I have published, So that I can perform management actions on my own datasets.
+
+Input phrase:
+
+
+
+
+
+
+Input phrase:As a Data Publishing User, I want to have a functioning Python Client, So that I can add data to the datastore in bulk from the command line or my own programs.
+As a datum publication exploiter, I desire to have a function Python customer, So that I can lend datum to the datumstore in majority from the instruction argumentation or my own plan.
+As a Data print drug_user, I want to have a serve Python node, So that I can total data to the datastore in bulk from the command cable or my own program.
+As a Data publish User, I want to have a officiate Python Client, So that I can add data to the datastore in bulk from the command course or my own broadcast.
+As a Data Publishing User, I want to have a functioning Python Client, So that I can add data to the datastore in bulk from the command wrinkle or my own platform.
+As a Data Publishing User, I want to have a functioning Python Client, So that I can add data to the datastore in bulk from the command pipeline or my own course_of_study.
+
+Input phrase:
+
+
+
+
+
+
+Input phrase:As an OpenSpending Community Member, I want to have an app where I can find examples of use of fiscal data visualisations, So that I can find guidance in creating my own with Open Spending.
+As an exposedoutgo residential_district extremity, I desire to have an app where I can detect example of function of fiscal datum visual_image, So that I can detect steering in make my own with exposed outgo.
+As an assailableSpending Community penis, I want to have an app where I can determine model of consumption of fiscal data visualisations, So that I can determine guidance in create my own with assailable Spending.
+As an looseSpending Community Member, I want to have an app where I can witness exemplar of habit of fiscal data visualisations, So that I can witness guidance in produce my own with loose Spending.
+As an receptiveSpending Community Member, I want to have an app where I can line_up case of manipulation of fiscal data visualisations, So that I can line_up guidance in creating my own with receptive Spending.
+As an overtSpending Community Member, I want to have an app where I can discover exercise of use of fiscal data visualisations, So that I can discover guidance in creating my own with overt Spending.
+
+Input phrase:
+
+
+
+
+
+
+Input phrase:As a Data Publishing User, I want to know if my CSV file is valid, So that I can fix possible data issues before publishing it on Open Spending.
+As a datum publication exploiter, I desire to acknowledge if my CSV file is valid, So that I can repair potential datum issue before print it on exposed outgo.
+As a Data print drug_user, I want to sleep_together if my CSV file is valid, So that I can fasten possible data topic before publish it on assailable Spending.
+As a Data publish User, I want to know if my CSV file is valid, So that I can specify possible data return before publishing it on loose Spending.
+As a Data Publishing User, I want to know if my CSV file is valid, So that I can cook possible data consequence before publishing it on receptive Spending.
+As a Data Publishing User, I want to know if my CSV file is valid, So that I can pay_back possible data offspring before publishing it on overt Spending.
+
+Input phrase:
+
+
+
+
+
+
+Input phrase:As a Data Consuming User, I want to be able to search any dataset published and publicly accessible by their title and metadata, So that I can find the datasets I'm interested in.
+As a datum devour exploiter, I desire to be able to research any dataset print and publicly accessible by their championship and metadata, So that I can detect the datasets I'm concerned in.
+As a Data consume drug_user, I want to be able to search any dataset publish and publicly accessible by their deed and metadata, So that I can determine the datasets I'm interested in.
+As a Data Consuming User, I want to be able to search any dataset published and publicly accessible by their claim and metadata, So that I can witness the datasets I'm interested in.
+As a Data Consuming User, I want to be able to search any dataset published and publicly accessible by their title and metadata, So that I can line_up the datasets I'm interested in.
+As a Data Consuming User, I want to be able to search any dataset published and publicly accessible by their title and metadata, So that I can discover the datasets I'm interested in.
+
+Input phrase:
+
+
+
+
+
+
+Input phrase:As a Data Consuming User, I want to visualize by default in treemap, bubble tree, map and pivot table the most recent year when my dataset contain multiple years, So that I'm not confused with the amounts.
+As a datum devour exploiter, I desire to visualize by nonpayment in treemap, house_of_cards tree, map and pivot mesa the most late class when my dataset incorporate multiple classs, So that I'm not baffled with the sum.
+As a Data consume drug_user, I want to visualize by default_option in treemap, bubble tree, map and pivot board the most recent year when my dataset hold multiple long_time, So that I'm not broken with the amount.
+As a Data Consuming User, I want to visualize by default in treemap, bubble tree, map and pivot table the most recent year when my dataset control multiple days, So that I'm not confused with the measure.
+As a Data Consuming User, I want to visualize by default in treemap, bubble tree, map and pivot table the most recent year when my dataset check multiple year, So that I'm not confused with the amounts.
+As a Data Consuming User, I want to visualize by default in treemap, bubble tree, map and pivot table the most recent year when my dataset contain multiple class, So that I'm not confused with the amounts.
+
+Input phrase:
+
+
+
+
+
+
+Input phrase:As an API user, I want to be able to change the colors of the embedded visualisations in my own platform, So that I can customize the visualisations.
+As an API exploiter, I desire to be able to switch the color of the implant visual_image in my own chopine, So that I can custom-make the visual_image.
+As an API drug_user, I want to be able to exchange the semblance of the embed visualisations in my own platform, So that I can customize the visualisations.
+As an API user, I want to be able to transfer the coloring_material of the embedded visualisations in my own platform, So that I can customize the visualisations.
+As an API user, I want to be able to deepen the colors of the embedded visualisations in my own platform, So that I can customize the visualisations.
+As an API user, I want to be able to change the colors of the embedded visualisations in my own platform, So that I can customize the visualisations.
+
+Input phrase:
+
+
+
+
+
+
+Input phrase:As an API user, I want to be able to change some of the styling of the embedded Viewer in my own platform, So that I can brand it to my own organisation's color scheme.
+As an API exploiter, I desire to be able to switch some of the styling of the implant spectator in my own chopine, So that I can stigmatize it to my own administration's semblance dodge.
+As an API drug_user, I want to be able to exchange some of the styling of the embed Viewer in my own platform, So that I can post it to my own organization's coloring_material system.
+As an API user, I want to be able to transfer some of the styling of the embedded Viewer in my own platform, So that I can brand it to my own arrangement's color schema.
+As an API user, I want to be able to deepen some of the styling of the embedded Viewer in my own platform, So that I can brand it to my own constitution's color outline.
+As an API user, I want to be able to change some of the styling of the embedded Viewer in my own platform, So that I can brand it to my own organisation's color scheme.
+
+Input phrase:
+
+
+
+
+
+
+Input phrase:As a Platform administrator, I want to be able to translate the data types hierarchies of the Viewer while in embed mode, So that my users can understand the interface in their native language.
+As a chopine administrator, I desire to be able to sympathize the datum type hierarchy of the spectator while in embed manner, So that my user can sympathize the interface in their native speech.
+As a Platform administrator, I want to be able to translate the data character hierarchies of the Viewer while in embed modality, So that my exploiter can understand the interface in their native lyric.
+As a Platform administrator, I want to be able to translate the data types hierarchies of the Viewer while in embed mood, So that my drug_user can understand the interface in their native linguistic_process.
+As a Platform administrator, I want to be able to translate the data types hierarchies of the Viewer while in embed mode, So that my users can understand the interface in their native terminology.
+As a Platform administrator, I want to be able to translate the data types hierarchies of the Viewer while in embed mode, So that my users can understand the interface in their native language.
+
+Time for the single dataset = 0.8224 seconds = 0.0002 hours

@@ -1,0 +1,486 @@
+data_set_number:15
+
+Input phrase:As a anonymoususer, I want to view a list of sponsors, so that I can thank all the awesome sponsors.
+As a anonymoususer, I desire to see a tilt of patron, so that I can thank all the amazing patron.
+As a anonymoususer, I want to watch a list of presenter, so that I can thank all the awesome presenter.
+As a anonymoususer, I want to view a list of sponsors, so that I can thank all the awesome sponsors.
+As a anonymoususer, I want to view a list of sponsors, so that I can thank all the awesome sponsors.
+As a anonymoususer, I want to view a list of sponsors, so that I can thank all the awesome sponsors.
+
+Input phrase:As a anonymoususer, I want to view a list of user profiles, so that I know who is attending the conference.
+As a anonymousexploiter, I desire to see a tilt of exploiter profile, so that I acknowledge who is attend the league.
+As a anonymousdrug_user, I want to watch a list of drug_user visibility, so that I sleep_together who is serve the conference.
+As a anonymoususer, I want to view a list of user profiles, so that I know who is attending the conference.
+As a anonymoususer, I want to view a list of user profiles, so that I know who is attending the conference.
+As a anonymoususer, I want to view a list of user profiles, so that I know who is attending the conference.
+
+Input phrase:As a trainingcoordinator, I want to email all the trainers at once from the website for info and updates, so that It is easier to use.
+As a trainingcoordinator, I desire to e-mail all the trainer at once from the web_site for information and update, so that It is easy to practice.
+As a trainingcoordinator, I want to email all the flight_simulator at once from the website for info and updates, so that It is comfortable to use.
+As a trainingcoordinator, I want to email all the trainers at once from the website for info and updates, so that It is easier to use.
+As a trainingcoordinator, I want to email all the trainers at once from the website for info and updates, so that It is easier to use.
+As a trainingcoordinator, I want to email all the trainers at once from the website for info and updates, so that It is easier to use.
+
+Input phrase:As a attendee, I want to have a very clear map where the buildings and rooms are, so that I can make it to class on time.
+As a attendant, I desire to have a very clean function where the building and suite are, so that I can induce it to classify on clock_time.
+As a attendee, I want to have a very well-defined map where the construction and room are, so that I can cause it to class on fourth_dimension.
+As a attendee, I want to have a very absolved map where the buildings and rooms are, so that I can produce it to class on meter.
+As a attendee, I want to have a very clear map where the buildings and rooms are, so that I can draw it to class on prison_term.
+As a attendee, I want to have a very clear map where the buildings and rooms are, so that I can create it to class on time.
+
+Input phrase:As a trainer, I want to edit my training node myself, so that the training coordinators don't have to and links to slides.
+As a flight_simulator, I desire to edit my education node myself, so that the education coordinator don't have to and link to slide.
+As a trainer, I want to edit my training node myself, so that the training coordinators don't have to and connection to swoop.
+As a trainer, I want to edit my training node myself, so that the training coordinators don't have to and liaison to chute.
+As a trainer, I want to edit my training node myself, so that the training coordinators don't have to and radio_link to slides.
+As a trainer, I want to edit my training node myself, so that the training coordinators don't have to and links to slides.
+
+Input phrase:As a trainee, I want to limit to one registration per day per authenticated user, so that we don't have duplicate spaces.
+As a trainee, I desire to restrict to matchless adjustment per sidereal_day per authenticate exploiter, so that we don't have duplicate space.
+As a trainee, I want to specify to one registration per day per authenticated drug_user, so that we don't have duplicate outer_space.
+As a trainee, I want to limit to one registration per day per authenticated user, so that we don't have duplicate distance.
+As a trainee, I want to limit to one registration per day per authenticated user, so that we don't have duplicate quad.
+As a trainee, I want to limit to one registration per day per authenticated user, so that we don't have duplicate spaces.
+
+Input phrase:As a trainingcoordinator, I want to have an admin view that helps track registration status for each attendee so that, so that we can see if attendend, refunded, no show.
+As a trainingcoordinator, I desire to have an admin position that help chase adjustment condition for each attendant so that, so that we can understand if attendend, refunded, no display.
+As a trainingcoordinator, I want to have an admin opinion that help_oneself traverse registration status for each attendee so that, so that we can witness if attendend, refunded, no appearance.
+As a trainingcoordinator, I want to have an admin scene that serve track registration status for each attendee so that, so that we can visualize if attendend, refunded, no show.
+As a trainingcoordinator, I want to have an admin horizon that avail track registration status for each attendee so that, so that we can learn if attendend, refunded, no show.
+As a trainingcoordinator, I want to have an admin view that helps track registration status for each attendee so that, so that we can watch if attendend, refunded, no show.
+
+Input phrase:As a attendee, I want to be added to a training waitlist, so that so they can be considered for a class.
+As a attendant, I desire to be add to a education waitlist, so that so they can be see for a course.
+As a attendee, I want to be lend to a training waitlist, so that so they can be study for a class.
+As a attendee, I want to be total to a training waitlist, so that so they can be consider for a class.
+As a attendee, I want to be added to a training waitlist, so that so they can be think for a class.
+As a attendee, I want to be added to a training waitlist, so that so they can be regard for a class.
+
+Input phrase:As a trainee, I want to must accept the cancellation terms with a checkbox, so that they can be accountable..
+As a trainee, I desire to must bear the cancellation footing with a checkbox, so that they can be accountable..
+As a trainee, I want to must take the cancellation price with a checkbox, so that they can be accountable..
+As a trainee, I want to must accept the cancellation term with a checkbox, so that they can be accountable..
+As a trainee, I want to must accept the cancellation condition with a checkbox, so that they can be accountable..
+As a trainee, I want to must accept the cancellation terminus with a checkbox, so that they can be accountable..
+
+Input phrase:As a trainingcoordinator, I want to tie in a cancellation deadline to whatever registration / cancellation workflow exists, so that so we don't loose money or spots.
+As a trainingcoordinator, I desire to connect in a cancellation deadline to any adjustment / cancellation work_flow exist, so that so we don't free money or musca_volitans.
+As a trainingcoordinator, I want to bind in a cancellation deadline to whatever registration / cancellation workflow exists, so that so we don't unleash money or topographic_point.
+As a trainingcoordinator, I want to marry in a cancellation deadline to whatever registration / cancellation workflow exists, so that so we don't loosen money or spot.
+As a trainingcoordinator, I want to tie in a cancellation deadline to whatever registration / cancellation workflow exists, so that so we don't loose money or point.
+As a trainingcoordinator, I want to tie in a cancellation deadline to whatever registration / cancellation workflow exists, so that so we don't loose money or smudge.
+
+Input phrase:As a trainee, I want to add to "my schedule" if there is a schedule feature on the site, so that they can schedule their event experience.
+As a trainee, I desire to lend to "my agenda" if there is a agenda feature_of_speech on the web_site, so that they can agenda their consequence experience.
+As a trainee, I want to total to "my schedule" if there is a schedule feature on the site, so that they can schedule their event experience.
+As a trainee, I want to add to "my schedule" if there is a schedule feature on the site, so that they can schedule their event experience.
+As a trainee, I want to add to "my schedule" if there is a schedule feature on the site, so that they can schedule their event experience.
+As a trainee, I want to add to "my schedule" if there is a schedule feature on the site, so that they can schedule their event experience.
+
+Input phrase:As a trainee, I want to see which trainings I have signed up for, so that they can schedule their event experience.
+As a trainee, I desire to understand which training I have sign up for, so that they can schedule their consequence experience.
+As a trainee, I want to witness which education I have bless up for, so that they can schedule their event experience.
+As a trainee, I want to visualize which trainings I have signed up for, so that they can schedule their event experience.
+As a trainee, I want to learn which trainings I have signed up for, so that they can schedule their event experience.
+As a trainee, I want to watch which trainings I have signed up for, so that they can schedule their event experience.
+
+Input phrase:As a trainer, I want to have a view that is attached to their training node that shows all attendee information Trainers can see all class attendance at first because there are so little trainers and they are trusted with privacy, so that the training coordinator doesn't have to do all the work to get login info for environment setup.
+As a flight_simulator, I desire to have a position that is attach to their education lymph_node that show all attendee data trainer can understand all course attendance at foremost because there are so small flight_simulators and they are trust with privacy, so that the education coordinator doesn't have to do all the employment to become login information for environment apparatus.
+As a trainer, I want to have a opinion that is bind to their training node that prove all attendee information flight_simulator can witness all class attendance at first because there are so fiddling flight_simulator and they are believe with privacy, so that the training coordinator doesn't have to do all the study to receive login info for environment frame-up.
+As a trainer, I want to have a scene that is impound to their training node that testify all attendee information Trainers can visualize all class attendance at first because there are so short trainers and they are hope with privacy, so that the training coordinator doesn't have to do all the workplace to arrive login info for environment setup.
+As a trainer, I want to have a horizon that is attached to their training node that picture all attendee information Trainers can learn all class attendance at first because there are so little trainers and they are entrust with privacy, so that the training coordinator doesn't have to do all the oeuvre to bring login info for environment setup.
+As a trainer, I want to have a view that is attached to their training node that express all attendee information Trainers can watch all class attendance at first because there are so little trainers and they are trusted with privacy, so that the training coordinator doesn't have to do all the work to experience login info for environment setup.
+
+Input phrase:As a trainingcoordinator, I want to have an admin view where all trainee information is shown and can be filtered to show a single training session, so that I can see WTF is happening.
+As a educationcoordinator, I desire to have an admin position where all trainee data is prove and can be filter to prove a individual education school_term, so that I can understand WTF is happen.
+As a trainingcoordinator, I want to have an admin opinion where all trainee information is prove and can be percolate to testify a unmarried training seance, so that I can witness WTF is find.
+As a trainingcoordinator, I want to have an admin scene where all trainee information is testify and can be trickle to picture a single training session, so that I can visualize WTF is happening.
+As a trainingcoordinator, I want to have an admin horizon where all trainee information is picture and can be filtered to express a single training session, so that I can learn WTF is happening.
+As a trainingcoordinator, I want to have an admin view where all trainee information is express and can be filtered to indicate a single training session, so that I can watch WTF is happening.
+
+Input phrase:As a anonymoususer, I want to have a dedicated page for each class to learn more about the offering The following information must be shown: Logo, title, trainers, location, possibly a map view, datetime, skill level, registrations remaining, link to register for class. The URL path should be SEO friendly /training/training-title, so that I can choose the right class, AND the trainer can tweet and promote their class.
+As a anonymoususer, I desire to have a consecrated page for each course to memorize more about the offer The follow data must be show: Logo, championship, flight_simulator, placement, possibly a function position, datetime, skill degree, registration stay, associate to file for course. The URL way should be SEO friendly /education/education-championship, so that I can choose the correct course, AND the flight_simulator can pinch and advertise their course.
+As a anonymoususer, I want to have a dedicated page for each class to teach more about the oblation The postdate information must be prove: Logo, deed, flight_simulator, localization, possibly a map opinion, datetime, skill grade, adjustment remain, connect to record for class. The URL path should be SEO friendly /training/training-deed, so that I can choose the proper class, AND the trainer can tweet and promote their class.
+As a anonymoususer, I want to have a dedicated page for each class to determine more about the offering The comply information must be testify: Logo, claim, trainers, location, possibly a map scene, datetime, skill horizontal_surface, registrations persist, yoke to read for class. The URL path should be SEO friendly /training/training-claim, so that I can choose the good class, AND the trainer can tweet and promote their class.
+As a anonymoususer, I want to have a dedicated page for each class to learn more about the offering The adopt information must be picture: Logo, title, trainers, location, possibly a map horizon, datetime, skill floor, registrations remaining, link to cross-file for class. The URL path should be SEO friendly /training/training-title, so that I can choose the veracious class, AND the trainer can tweet and promote their class.
+As a anonymoususer, I want to have a dedicated page for each class to learn more about the offering The take_after information must be express: Logo, title, trainers, location, possibly a map view, datetime, skill level, registrations remaining, link to register for class. The URL path should be SEO friendly /training/training-title, so that I can choose the right class, AND the trainer can tweet and promote their class.
+
+Input phrase:As a anonymoususer, I want to have the training options clearly marked for the following information: day and time of training, title, short summary, trainers, level, number of registrations, remaining registrations, location of training, link to full details of the training, register now link, so that I can shop for training all with one page AND find their class on on one page.
+As a anonymoususer, I desire to have the education option intelligibly tag for the following data: sidereal_day and clock_time of education, championship, inadequate summary, trainer, degree, act of registration, stay registration, placement of education, associate to entire detail of the education, file now associate, so that I can patronize for education all with matchless page AND detect their course on on matchless page.
+As a anonymoususer, I want to have the discipline choice distinctly mark for the following information: day and fourth_dimension of discipline, deed, unretentive summary, flight_simulator, grade, phone_number of adjustment, remain adjustment, localization of discipline, connect to broad contingent of the discipline, record now connect, so that I can denounce for discipline all with one page AND determine their class on on one page.
+As a anonymoususer, I want to have the prepare options clearly distinguish for the following information: day and meter of prepare, claim, light summary, trainers, horizontal_surface, numeral of registrations, persist registrations, location of prepare, yoke to wide details of the prepare, read now yoke, so that I can shop for prepare all with one page AND witness their class on on one page.
+As a anonymoususer, I want to have the educate options clearly commemorate for the following information: day and prison_term of educate, title, brusque summary, trainers, floor, issue of registrations, remaining registrations, location of educate, link to full details of the educate, cross-file now link, so that I can shop for educate all with one page AND line_up their class on on one page.
+As a anonymoususer, I want to have the aim options clearly stigmatize for the following information: day and time of aim, title, short summary, trainers, level, number of registrations, remaining registrations, location of aim, link to full details of the aim, register now link, so that I can shop for aim all with one page AND discover their class on on one page.
+
+Input phrase:As a anonymoususer, I want to have a training landing page with an intro section and a list of all training offerings and promote call for trainings, so that I can shop for training all with one page and we can have a call for trainings for selection.
+As a anonymoususer, I desire to have a education landing page with an presentation part and a tilt of all education offer and advertise cry for educations, so that I can patronize for education all with matchless page and we can have a cry for educations for choice.
+As a anonymoususer, I want to have a discipline landing page with an intro department and a list of all discipline offering and promote birdbirdcall for education, so that I can denounce for discipline all with one page and we can have a birdbirdcall for education for survival.
+As a anonymoususer, I want to have a prepare landing page with an intro incision and a list of all prepare oblation and promote margin_margin_call for prepares, so that I can shop for prepare all with one page and we can have a margin_margin_call for prepares for excerpt.
+As a anonymoususer, I want to have a educate landing page with an intro section and a list of all educate offerings and promote call_option_option for educates, so that I can shop for educate all with one page and we can have a call_option_option for educates for selection.
+As a anonymoususer, I want to have a aim landing page with an intro section and a list of all aim offerings and promote call for aims, so that I can shop for aim all with one page and we can have a call for aims for selection.
+
+Input phrase:As a anonymoususer, I want to have a link on the home page to a list of training options, so that I can take training.
+As a anonymoususer, I desire to have a connection on the dwelling page to a tilt of education option, so that I can lead education.
+As a anonymoususer, I want to have a liaison on the home_plate page to a list of training choice, so that I can assume training.
+As a anonymoususer, I want to have a radio_link on the base page to a list of training options, so that I can bring training.
+As a anonymoususer, I want to have a link on the family page to a list of training options, so that I can choose training.
+As a anonymoususer, I want to have a link on the home page to a list of training options, so that I can accept training.
+
+Input phrase:As a anonymoususer, I want to find out where the coding lounge is and what time it is open, so that I can code with my friends.
+As a anonymoususer, I desire to detect out where the code sofa is and what clock_time it is exposed, so that I can code with my friend.
+As a anonymoususer, I want to determine out where the gull lounge is and what fourth_dimension it is assailable, so that I can code with my ally.
+As a anonymoususer, I want to witness out where the tease lounge is and what meter it is loose, so that I can code with my acquaintance.
+As a anonymoususer, I want to line_up out where the coding lounge is and what prison_term it is receptive, so that I can code with my supporter.
+As a anonymoususer, I want to discover out where the coding lounge is and what time it is overt, so that I can code with my friends.
+
+Input phrase:As a administrator, I want to refund sponsorship money that was processed via stripe, so that people get their monies back.
+As a administrator, I desire to refund sponsorship money that was process via band, so that citizenry become their monies back.
+As a administrator, I want to refund sponsorship money that was action via chevron, so that multitude receive their monies back.
+As a administrator, I want to refund sponsorship money that was march via stripe, so that people arrive their monies back.
+As a administrator, I want to refund sponsorship money that was work via stripe, so that people bring their monies back.
+As a administrator, I want to refund sponsorship money that was serve via stripe, so that people experience their monies back.
+
+Input phrase:As a authenticateduser, I want to find a link on the sponsorships page to become a $350 level sponsor, so that I can pay for and become a sponsor role.
+As a authenticateduser, I desire to detect a connection on the patronship page to become a $350 degree patron, so that I can give for and become a patron function.
+As a authenticateduser, I want to determine a liaison on the presenterships page to become a $350 grade presenter, so that I can pay_up for and become a presenter character.
+As a authenticateduser, I want to witness a radio_link on the sponsorships page to become a $350 horizontal_surface sponsor, so that I can yield for and become a sponsor role.
+As a authenticateduser, I want to line_up a link on the sponsorships page to become a $350 floor sponsor, so that I can pay for and become a sponsor role.
+As a authenticateduser, I want to discover a link on the sponsorships page to become a $350 level sponsor, so that I can pay for and become a sponsor role.
+
+Input phrase:As a anonymoususer, I want to See a list of attendees associated with this company, so that I know who from this sponsor organization is attending.
+As a anonymoususer, I desire to understand a tilt of attendant associate with this caller, so that I acknowledge who from this patron arrangement is attend.
+As a anonymoususer, I want to witness a list of attendees consort with this party, so that I sleep_together who from this presenter administration is serve.
+As a anonymoususer, I want to visualize a list of attendees consociate with this ship's_company, so that I know who from this sponsor constitution is attending.
+As a anonymoususer, I want to learn a list of attendees associated with this company, so that I know who from this sponsor organization is attending.
+As a anonymoususer, I want to watch a list of attendees associated with this company, so that I know who from this sponsor organization is attending.
+
+Input phrase:As a authenticateduser, I want to identify myself as and pay for a $350 company sponsorship, so that I can easily become a sponsor at this level without having to interface with badcamp personnel to get a sponsorship.
+As a authenticateduser, I desire to name myself as and give for a $350 caller patronship, so that I can well become a patron at this degree without having to interface with badcamp force to become a patronship.
+As a authenticateduser, I want to identify myself as and pay_up for a $350 party presentership, so that I can easily become a presenter at this grade without having to interface with badcamp personnel_department to receive a presentership.
+As a authenticateduser, I want to identify myself as and yield for a $350 ship's_company sponsorship, so that I can easily become a sponsor at this horizontal_surface without having to interface with badcamp personnel to arrive a sponsorship.
+As a authenticateduser, I want to identify myself as and pay for a $350 company sponsorship, so that I can easily become a sponsor at this floor without having to interface with badcamp personnel to bring a sponsorship.
+As a authenticateduser, I want to identify myself as and pay for a $350 company sponsorship, so that I can easily become a sponsor at this level without having to interface with badcamp personnel to experience a sponsorship.
+
+Input phrase:As a administrator, I want to create and maintain venues, so that I can provide location details to help users find what they're looking for.
+As a administrator, I desire to make and keep venue, so that I can supply placement detail to help_oneself user detect what they're look for.
+As a administrator, I want to produce and conserve venues, so that I can put_up localization contingent to serve exploiter determine what they're search for.
+As a administrator, I want to create and sustain venues, so that I can leave location details to avail drug_user witness what they're front for.
+As a administrator, I want to create and assert venues, so that I can provide location details to help users line_up what they're attend for.
+As a administrator, I want to create and wield venues, so that I can provide location details to help users discover what they're expect for.
+
+Input phrase:As a anonymoususer, I want to view venue details, so that I can get a sense of the location and see the events happening there.
+As a anonymoususer, I desire to understand venue detail, so that I can become a common_sense of the placement and understand the event happen there.
+As a anonymoususer, I want to watch venue contingent, so that I can receive a sense of the localization and witness the consequence find there.
+As a anonymoususer, I want to view venue details, so that I can arrive a sense of the location and visualize the events happening there.
+As a anonymoususer, I want to view venue details, so that I can bring a sense of the location and learn the events happening there.
+As a anonymoususer, I want to view venue details, so that I can experience a sense of the location and watch the events happening there.
+
+Input phrase:As a anonymoususer, I want to see a list of the sessions associated with sponsor attendees, so that I know where I can engage with this sponsor and where they are thought leaders.
+As a anonymoususer, I desire to understand a tilt of the session associate with patron attendant, so that I acknowledge where I can prosecute with this patron and where they are idea leadership.
+As a anonymoususer, I want to witness a list of the school_term consort with presenter attendees, so that I sleep_together where I can absorb with this presenter and where they are thinking leader.
+As a anonymoususer, I want to visualize a list of the seance consociate with sponsor attendees, so that I know where I can hire with this sponsor and where they are opinion drawing_card.
+As a anonymoususer, I want to learn a list of the sessions associated with sponsor attendees, so that I know where I can betroth with this sponsor and where they are thought leaders.
+As a anonymoususer, I want to watch a list of the sessions associated with sponsor attendees, so that I know where I can lease with this sponsor and where they are thought leaders.
+
+Input phrase:As a authenticateduser, I want to See a payment page to pay for my individual sponsorships as the third step of the registration process so that pay for my sponsorship.
+As a authenticateduser, I desire to understand a requital page to give for my individual sponsorship as the third measure of the adjustment procedure so that give for my sponsorship.
+As a authenticateduser, I want to witness a pay_upment page to pay_up for my individual sponsorships as the third footstep of the registration summons so that pay_up for my sponsorship.
+As a authenticateduser, I want to visualize a yieldment page to yield for my individual sponsorships as the third gradation of the registration process so that yield for my sponsorship.
+As a authenticateduser, I want to learn a payment page to pay for my individual sponsorships as the third footfall of the registration process so that pay for my sponsorship.
+As a authenticateduser, I want to watch a payment page to pay for my individual sponsorships as the third tone of the registration process so that pay for my sponsorship.
+
+Input phrase:As a administrator, I want to assign sponsors to events, trainings and summits so that They will be featured on the sponsor detail page.
+As a administrator, I desire to delegate patron to event, training and acme so that They will be have on the patron contingent page.
+As a administrator, I want to impute presenter to consequence, education and peak so that They will be sport on the presenter detail page.
+As a administrator, I want to put sponsors to events, trainings and summit so that They will be featured on the sponsor detail page.
+As a administrator, I want to arrogate sponsors to events, trainings and summits so that They will be featured on the sponsor detail page.
+As a administrator, I want to assign sponsors to events, trainings and summits so that They will be featured on the sponsor detail page.
+
+Input phrase:As a anonymoususer, I want to see all events, trainings and summits that a sponsor is sponsoring so that I know where I can engage with this sponsor and where they are thought leaders.
+As a anonymoususer, I desire to understand all event, training and acme that a patron is patroning so that I acknowledge where I can prosecute with this patron and where they are idea leadership.
+As a anonymoususer, I want to witness all consequence, education and peak that a presenter is presentering so that I sleep_together where I can absorb with this presenter and where they are thinking leader.
+As a anonymoususer, I want to visualize all events, trainings and summit that a sponsor is sponsoring so that I know where I can hire with this sponsor and where they are opinion drawing_card.
+As a anonymoususer, I want to learn all events, trainings and summits that a sponsor is sponsoring so that I know where I can betroth with this sponsor and where they are thought leaders.
+As a anonymoususer, I want to watch all events, trainings and summits that a sponsor is sponsoring so that I know where I can lease with this sponsor and where they are thought leaders.
+
+Input phrase:As a authenticateduser, I want to Enter payment information and have my card charged for an individual sponsorship, so that I can pay for an individual sponsorship.
+As a authenticateduser, I desire to enroll requital data and have my wag charge for an individual sponsorship, so that I can give for an individual sponsorship.
+As a authenticateduser, I want to figure pay_upment information and have my poster tear for an individual sponsorship, so that I can pay_up for an individual sponsorship.
+As a authenticateduser, I want to record yieldment information and have my calling_card appoint for an individual sponsorship, so that I can yield for an individual sponsorship.
+As a authenticateduser, I want to accede payment information and have my menu commit for an individual sponsorship, so that I can pay for an individual sponsorship.
+As a authenticateduser, I want to insert payment information and have my batting_order consign for an individual sponsorship, so that I can pay for an individual sponsorship.
+
+Input phrase:As a sponsor, I want to link BADCamp attendees to my sponsorship page, so that I can show off our level of attendance.
+As a patron, I desire to associate BADCamp attendant to my patronship page, so that I can prove off our degree of attendance.
+As a presenter, I want to connect BADCamp attendees to my presentership page, so that I can testify off our grade of attendance.
+As a sponsor, I want to yoke BADCamp attendees to my sponsorship page, so that I can picture off our horizontal_surface of attendance.
+As a sponsor, I want to link BADCamp attendees to my sponsorship page, so that I can express off our floor of attendance.
+As a sponsor, I want to link BADCamp attendees to my sponsorship page, so that I can indicate off our level of attendance.
+
+Input phrase:As a authenticateduser, I want to update my user profile, so that I can connect with other Drupalists at BADCamp.
+As a authenticatedexploiter, I desire to update my exploiter visibility, so that I can associate with other Drupalists at BADCamp.
+As a authenticateddrug_user, I want to update my drug_user profile, so that I can get_in_touch with other Drupalists at BADCamp.
+As a authenticateduser, I want to update my user profile, so that I can plug_in with other Drupalists at BADCamp.
+As a authenticateduser, I want to update my user profile, so that I can connect with other Drupalists at BADCamp.
+As a authenticateduser, I want to update my user profile, so that I can connect with other Drupalists at BADCamp.
+
+Input phrase:As a anonymoususer, I want to sign up for the BADCamp newsletter, so that I can stay up to date with the latest communications about BADCamp.
+As a anonymoususer, I desire to bless up for the BADCamp newsletter, so that I can bide up to date with the up-to-the-minute communication about BADCamp.
+As a anonymoususer, I want to sign up for the BADCamp newsletter, so that I can persist up to date with the late communications about BADCamp.
+As a anonymoususer, I want to sign up for the BADCamp newsletter, so that I can last_out up to date with the belated communications about BADCamp.
+As a anonymoususer, I want to sign up for the BADCamp newsletter, so that I can quell up to date with the former communications about BADCamp.
+As a anonymoususer, I want to sign up for the BADCamp newsletter, so that I can stay up to date with the latest communications about BADCamp.
+
+Input phrase:As a administrator, I want to tag my blog posts for consumption by Drupal Planet, so that they will be listed on the Drupal Planet blog.
+As a administrator, I desire to chase my web_log post for pulmonary_tuberculosis by Drupal satellite, so that they will be list on the Drupal satellite web_log.
+As a administrator, I want to tag my blog military_post for consumption by Drupal Planet, so that they will be number on the Drupal Planet blog.
+As a administrator, I want to tag my blog position for consumption by Drupal Planet, so that they will be listed on the Drupal Planet blog.
+As a administrator, I want to tag my blog mail for consumption by Drupal Planet, so that they will be listed on the Drupal Planet blog.
+As a administrator, I want to tag my blog posts for consumption by Drupal Planet, so that they will be listed on the Drupal Planet blog.
+
+Input phrase:As a administrator, I want to create blog posts, so that I can share the latest information about BADCamp with the public.
+As a administrator, I desire to make web_log post, so that I can partake the up-to-the-minute data about BADCamp with the populace.
+As a administrator, I want to produce blog military_post, so that I can share the late information about BADCamp with the public.
+As a administrator, I want to create blog position, so that I can share the belated information about BADCamp with the public.
+As a administrator, I want to create blog mail, so that I can share the former information about BADCamp with the public.
+As a administrator, I want to create blog posts, so that I can share the latest information about BADCamp with the public.
+
+Input phrase:As a anonymoususer, I want to read the blog, so that I can stay informed about all the latest happenings with BADCamp.
+As a anonymoususer, I desire to take the web_log, so that I can bide informed about all the up-to-the-minute happening with BADCamp.
+As a anonymoususer, I want to learn the blog, so that I can persist informed about all the late happenings with BADCamp.
+As a anonymoususer, I want to understand the blog, so that I can last_out informed about all the belated happenings with BADCamp.
+As a anonymoususer, I want to read the blog, so that I can quell informed about all the former happenings with BADCamp.
+As a anonymoususer, I want to read the blog, so that I can stay informed about all the latest happenings with BADCamp.
+
+Input phrase:As a sponsor, I want to sponsor a summit that matches my brand, so that I can get exposure to potential customers and otherwise tout my Drupal credentials.
+As a patron, I desire to patron a acme that match my trade_name, so that I can become vulnerability to likely customer and differently boast my Drupal certificate.
+As a presenter, I want to presenter a peak that equal my mark, so that I can receive photograph to potential customers and otherwise tout my Drupal credentials.
+As a sponsor, I want to sponsor a summit that meet my sword, so that I can arrive exposure to potential customers and otherwise tout my Drupal credentials.
+As a sponsor, I want to sponsor a summit that pit my brand, so that I can bring exposure to potential customers and otherwise tout my Drupal credentials.
+As a sponsor, I want to sponsor a summit that matches my brand, so that I can experience exposure to potential customers and otherwise tout my Drupal credentials.
+
+Input phrase:As a attendee, I want to register for a summit, so that I can reserve my seat at the summit.
+As a attendant, I desire to file for a acme, so that I can allow my buttocks at the acme.
+As a attendee, I want to record for a peak, so that I can reserve my seat at the peak.
+As a attendee, I want to read for a summit, so that I can reserve my seat at the summit.
+As a attendee, I want to cross-file for a summit, so that I can reserve my seat at the summit.
+As a attendee, I want to register for a summit, so that I can reserve my seat at the summit.
+
+Input phrase:As a attendee, I want to get detailed directions to the summit venue, so that I can get to the summit easily on the day of the event.
+As a attendant, I desire to become detailed direction to the acme venue, so that I can become to the acme well on the sidereal_day of the consequence.
+As a attendee, I want to receive detailed guidance to the peak venue, so that I can receive to the peak easily on the day of the event.
+As a attendee, I want to arrive detailed management to the summit venue, so that I can arrive to the summit easily on the day of the event.
+As a attendee, I want to bring detailed steering to the summit venue, so that I can bring to the summit easily on the day of the event.
+As a attendee, I want to experience detailed commission to the summit venue, so that I can experience to the summit easily on the day of the event.
+
+Input phrase:As a attendee, I want to see what summits I'm signed up for, so that I can confirm my attendence and prevent myself from accidentally double-booking with a training or another summit.
+As a attendant, I desire to understand what acme I'm sign up for, so that I can confirm my attendence and prevent myself from by_chance doubly-engagement with a education or another acme.
+As a attendee, I want to witness what peak I'm bless up for, so that I can confirm my attendence and prevent myself from incidentally double-booking with a training or another peak.
+As a attendee, I want to visualize what summit I'm signed up for, so that I can confirm my attendence and prevent myself from unintentionally double-booking with a training or another summit.
+As a attendee, I want to learn what summits I'm signed up for, so that I can confirm my attendence and prevent myself from accidentally double-booking with a training or another summit.
+As a attendee, I want to watch what summits I'm signed up for, so that I can confirm my attendence and prevent myself from accidentally double-booking with a training or another summit.
+
+Input phrase:As a summit coordinator, I want to see a list of attendees signed up for my summit, so that I can communicate with my attendees by email prior to the event.
+As a acme coordinator, I desire to understand a tilt of attendant sign up for my acme, so that I can convey with my attendant by electronic_mail prior to the consequence.
+As a peak coordinator, I want to witness a list of attendees bless up for my peak, so that I can commune with my attendees by email prior to the event.
+As a summit coordinator, I want to visualize a list of attendees signed up for my summit, so that I can communicate with my attendees by email prior to the event.
+As a summit coordinator, I want to learn a list of attendees signed up for my summit, so that I can communicate with my attendees by email prior to the event.
+As a summit coordinator, I want to watch a list of attendees signed up for my summit, so that I can communicate with my attendees by email prior to the event.
+
+Input phrase:As a summit coordinator, I want to list basic information about my summit, so that I can inform potential attendees on why they should attend my summit.
+As a acme coordinator, I desire to number basic data about my acme, so that I can inform likely serveant on why they should serve my acme.
+As a peak coordinator, I want to list basic information about my peak, so that I can inform potential attendees on why they should attend my peak.
+As a summit coordinator, I want to list basic information about my summit, so that I can inform potential attendees on why they should attend my summit.
+As a summit coordinator, I want to list basic information about my summit, so that I can inform potential attendees on why they should attend my summit.
+As a summit coordinator, I want to list basic information about my summit, so that I can inform potential attendees on why they should attend my summit.
+
+Input phrase:As a summit coordinator, I want to list sponsors for my summit, so that I can make sure sponsors feel rewarded and will be interested in sponsoring in future years.
+As a acme coordinator, I desire to number patron for my acme, so that I can induce certain patron find rewarded and will be concerned in sponsor in future old_age.
+As a peak coordinator, I want to list presenter for my peak, so that I can cause indisputable presenter palpate rewarded and will be interested in patronize in future long_time.
+As a summit coordinator, I want to list sponsors for my summit, so that I can produce sure sponsors feel rewarded and will be interested in sponsoring in future days.
+As a summit coordinator, I want to list sponsors for my summit, so that I can draw sure sponsors feel rewarded and will be interested in sponsoring in future year.
+As a summit coordinator, I want to list sponsors for my summit, so that I can create sure sponsors feel rewarded and will be interested in sponsoring in future class.
+
+Input phrase:As a summit coordinator, I want to list an agenda for my summit, so that I can entice attendees and give positive feedback to presenters to encourage participation.
+As a acme coordinator, I desire to number an agenda for my acme, so that I can entice attendant and yield convinced feedback to presenter to promote engagement.
+As a peak coordinator, I want to list an agenda for my peak, so that I can entice attendees and hold plus feedback to donor to encourage participation.
+As a summit coordinator, I want to list an agenda for my summit, so that I can entice attendees and render incontrovertible feedback to presenters to encourage participation.
+As a summit coordinator, I want to list an agenda for my summit, so that I can entice attendees and impart positivist feedback to presenters to encourage participation.
+As a summit coordinator, I want to list an agenda for my summit, so that I can entice attendees and establish cocksure feedback to presenters to encourage participation.
+
+Input phrase:As a anonymoususer, I want to see how many seats are left for the summit, so that I can make sure to register in-time to reserve my spot.
+As a anonymoususer, I desire to understand how many seating are leave for the acme, so that I can induce certain to file in-clock_time to allow my topographic_point.
+As a anonymoususer, I want to witness how many seat are exit for the peak, so that I can cause indisputable to record in-fourth_dimension to reserve my point.
+As a anonymoususer, I want to visualize how many buttocks are entrust for the summit, so that I can produce sure to read in-meter to reserve my smudge.
+As a anonymoususer, I want to learn how many seats are bequeath for the summit, so that I can draw sure to cross-file in-prison_term to reserve my position.
+As a anonymoususer, I want to watch how many seats are impart for the summit, so that I can create sure to register in-time to reserve my touch.
+
+Input phrase:As a anonymoususer, I want to see specific details on summits, so that I can learn more about the summit I'm interested in to see if it matches my interests, register for the event, and get day-of knowledge to help me get to the location.
+As a anonymoususer, I desire to understand specific detail on acme, so that I can memorize more about the acme I'm concerned in to understand if it match my interest, file for the consequence, and become sidereal_day-of cognition to help_oneself me become to the placement.
+As a anonymoususer, I want to witness specific contingent on peak, so that I can teach more about the peak I'm interested in to witness if it equal my sake, record for the event, and receive day-of knowledge to serve me receive to the localization.
+As a anonymoususer, I want to visualize specific details on summit, so that I can determine more about the summit I'm interested in to visualize if it meet my pastime, read for the event, and arrive day-of knowledge to avail me arrive to the location.
+As a anonymoususer, I want to learn specific details on summits, so that I can learn more about the summit I'm interested in to learn if it pit my interests, cross-file for the event, and bring day-of knowledge to help me bring to the location.
+As a anonymoususer, I want to watch specific details on summits, so that I can learn more about the summit I'm interested in to watch if it matches my interests, register for the event, and experience day-of knowledge to help me experience to the location.
+
+Input phrase:As a anonymoususer, I want to see a list of all the summits, so that I can determine which summit I might be interested and able to attend.
+As a anonymoususer, I desire to understand a tilt of all the acme, so that I can specify which acme I might be concerned and able to serve.
+As a anonymoususer, I want to witness a list of all the peak, so that I can decide which peak I might be interested and able to attend.
+As a anonymoususer, I want to visualize a list of all the summit, so that I can settle which summit I might be interested and able to attend.
+As a anonymoususer, I want to learn a list of all the summits, so that I can determine which summit I might be interested and able to attend.
+As a anonymoususer, I want to watch a list of all the summits, so that I can determine which summit I might be interested and able to attend.
+
+Input phrase:As a anonymoususer, I want to learn about sponsorship levels, so that I can determine the right level of sponsorship for my organization.
+As a anonymoususer, I desire to memorize about sponsorship degree, so that I can specify the correct degree of sponsorship for my arrangement.
+As a anonymoususer, I want to teach about sponsorship grade, so that I can decide the proper grade of sponsorship for my administration.
+As a anonymoususer, I want to settle about sponsorship horizontal_surface, so that I can settle the good horizontal_surface of sponsorship for my constitution.
+As a anonymoususer, I want to learn about sponsorship horizontal_surface, so that I can determine the veracious floor of sponsorship for my organization.
+As a anonymoususer, I want to learn about sponsorship floor, so that I can determine the right level of sponsorship for my organization.
+
+Input phrase:As a authenticateduser, I want to use a WYSIWYG editor for all long-form content, so that I don't have to know HTML to update my content.
+As a authenticatedpracticer, I desire to practice a WYSIWYG editor_program for all retentive-kind message, so that I don't have to acknowledge hypertext_markup_language to update my message.
+As a authenticateduser, I want to use a WYSIWYG editor for all farseeing-shape capacity, so that I don't have to sleep_together HTML to update my capacity.
+As a authenticateduser, I want to use a WYSIWYG editor for all long-human_body contentednessedness, so that I don't have to know HTML to update my contentednessedness.
+As a authenticateduser, I want to use a WYSIWYG editor for all long-phase subject, so that I don't have to know HTML to update my subject.
+As a authenticateduser, I want to use a WYSIWYG editor for all long-class content, so that I don't have to know HTML to update my content.
+
+Input phrase:As a sponsor, I want to Link to my sponsorship profile from my job listings, so that recruits can learn more about my organization.
+As a patron, I desire to associate to my patronship visibility from my occupation list, so that recruit can memorize more about my arrangement.
+As a presenter, I want to connect to my presentership profile from my problem listing, so that recruits can teach more about my administration.
+As a sponsor, I want to yoke to my sponsorship profile from my caper listings, so that recruits can determine more about my constitution.
+As a sponsor, I want to Link to my sponsorship profile from my job listings, so that recruits can learn more about my organization.
+As a sponsor, I want to Link to my sponsorship profile from my job listings, so that recruits can learn more about my organization.
+
+Input phrase:As a anonymoususer, I want to learn about posting jobs as a sponsor and contact the sponsorship person, so that I have the opportunty to post my job listing on the BADCamp site.
+As a anonymoususer, I desire to memorize about station occupation as a patron and reach the patronship person, so that I have the opportunty to station my occupation list on the BADCamp web_site.
+As a anonymoususer, I want to teach about station problem as a presenter and touch the presentership person, so that I have the opportunty to stake my problem number on the BADCamp site.
+As a anonymoususer, I want to determine about stake problem as a sponsor and contact the sponsorship person, so that I have the opportunty to mail my caper listing on the BADCamp site.
+As a anonymoususer, I want to learn about mail caper as a sponsor and contact the sponsorship person, so that I have the opportunty to post my job listing on the BADCamp site.
+As a anonymoususer, I want to learn about posting jobs as a sponsor and contact the sponsorship person, so that I have the opportunty to post my job listing on the BADCamp site.
+
+Input phrase:As a sponsor, I want to post a job, so that I can hire top-tier Drupal talent.
+As a patron, I desire to station a occupation, so that I can rent top-grade Drupal endowment.
+As a presenter, I want to stake a problem, so that I can lease top-tier Drupal talent.
+As a sponsor, I want to mail a caper, so that I can hire top-tier Drupal talent.
+As a sponsor, I want to post a job, so that I can hire top-tier Drupal talent.
+As a sponsor, I want to post a job, so that I can hire top-tier Drupal talent.
+
+Input phrase:As a authenticateduser, I want to view the job board, so that I can look for an interesting Drupal gig!.
+As a authenticateduser, I desire to see the occupation display_panel, so that I can search for an interesting Drupal spear!.
+As a authenticateduser, I want to watch the problem dining_table, so that I can front for an interesting Drupal gig!.
+As a authenticateduser, I want to view the caper control_panel, so that I can attend for an interesting Drupal gig!.
+As a authenticateduser, I want to view the job circuit_board, so that I can expect for an interesting Drupal gig!.
+As a authenticateduser, I want to view the job board, so that I can count for an interesting Drupal gig!.
+
+Input phrase:As a administrator, I want to assign a room to a time slot and a location, so that I can populate the schedule .
+As a administrator, I desire to delegate a room to a clock_time time_slot and a placement, so that I can populate the agenda .
+As a administrator, I want to impute a room to a fourth_dimension slot and a localization, so that I can populate the schedule .
+As a administrator, I want to put a room to a meter slot and a location, so that I can populate the schedule .
+As a administrator, I want to arrogate a room to a prison_term slot and a location, so that I can populate the schedule .
+As a administrator, I want to assign a room to a time slot and a location, so that I can populate the schedule .
+
+Input phrase:As a anonymoususer, I want to see the schedule, so that I can plan my day and figure out where to go!.
+As a anonymoususer, I desire to understand the agenda, so that I can design my sidereal_day and calculate out where to travel!.
+As a anonymoususer, I want to witness the schedule, so that I can plan my day and visualize out where to become!.
+As a anonymoususer, I want to visualize the schedule, so that I can plan my day and figure out where to run!.
+As a anonymoususer, I want to learn the schedule, so that I can plan my day and figure out where to proceed!.
+As a anonymoususer, I want to watch the schedule, so that I can plan my day and figure out where to sound!.
+
+Input phrase:As a anonymoususer, I want to see the final list of sessions approved, so that I can see what's going on at BADCamp .
+As a anonymoususer, I desire to understand the concluding tilt of session approve, so that I can understand what's travel on at BADCamp .
+As a anonymoususer, I want to witness the final list of school_term approved, so that I can witness what's go on at BADCamp .
+As a anonymoususer, I want to visualize the final list of seance approved, so that I can visualize what's become on at BADCamp .
+As a anonymoususer, I want to learn the final list of sessions approved, so that I can learn what's run on at BADCamp .
+As a anonymoususer, I want to watch the final list of sessions approved, so that I can watch what's proceed on at BADCamp .
+
+Input phrase:As a administrator, I want to bulk approve sessions as accepted, so that I can save time.
+As a administrator, I desire to bulge approve session as accept, so that I can salvage clock_time.
+As a administrator, I want to bulk approve school_term as bear, so that I can deliver fourth_dimension.
+As a administrator, I want to bulk approve seance as take, so that I can spare meter.
+As a administrator, I want to bulk approve sessions as accepted, so that I can keep_open prison_term.
+As a administrator, I want to bulk approve sessions as accepted, so that I can write time.
+
+Input phrase:As a administrator, I want to mark a session as accepted, so that I can populate the schedule .
+As a administrator, I desire to tag a school_term as accept, so that I can populate the agenda .
+As a administrator, I want to distinguish a seance as bear, so that I can populate the schedule .
+As a administrator, I want to commemorate a session as take, so that I can populate the schedule .
+As a administrator, I want to stigmatize a session as accepted, so that I can populate the schedule .
+As a administrator, I want to notice a session as accepted, so that I can populate the schedule .
+
+Input phrase:As a anonymoususer, I want to receive a notification when sessions have been evaluated, so that I know whether I've been accepted or rejected.
+As a anonymoususer, I desire to pick_up a presentment when session have been measure, so that I acknowledge whether I've been accept or reject.
+As a anonymoususer, I want to experience a telling when school_term have been evaluate, so that I sleep_together whether I've been bear or refuse.
+As a anonymoususer, I want to welcome a notification when seance have been evaluated, so that I know whether I've been take or disapprove.
+As a anonymoususer, I want to meet a notification when sessions have been evaluated, so that I know whether I've been accepted or resist.
+As a anonymoususer, I want to get a notification when sessions have been evaluated, so that I know whether I've been accepted or rule_out.
+
+Input phrase:As a anonymoususer, I want to receive a notification when I submit a session, so that know that my session went through ok.
+As a anonymoususer, I desire to pick_up a presentment when I present a school_term, so that acknowledge that my school_term travel through very_well.
+As a anonymoususer, I want to experience a telling when I relegate a seance, so that sleep_together that my seance go through ok.
+As a anonymoususer, I want to welcome a notification when I take a session, so that know that my session become through ok.
+As a anonymoususer, I want to meet a notification when I put_in a session, so that know that my session run through ok.
+As a anonymoususer, I want to get a notification when I render a session, so that know that my session proceed through ok.
+
+Input phrase:As a authenticateduser, I want to edit my session, so that if I make a mistake, I can correct it.
+As a authenticateduser, I desire to edit my school_term, so that if I induce a error, I can right it.
+As a authenticateduser, I want to edit my seance, so that if I cause a mistake, I can chastise it.
+As a authenticateduser, I want to edit my session, so that if I produce a mistake, I can compensate it.
+As a authenticateduser, I want to edit my session, so that if I draw a mistake, I can discipline it.
+As a authenticateduser, I want to edit my session, so that if I create a mistake, I can decline it.
+
+Input phrase:As a anonymoususer, I want to register to speak at BADCamp, so that I submit a session.
+As a anonymoususer, I desire to file to talk at BADCamp, so that I present a school_term.
+As a anonymoususer, I want to record to address at BADCamp, so that I relegate a seance.
+As a anonymoususer, I want to read to speak at BADCamp, so that I take a session.
+As a anonymoususer, I want to cross-file to speak at BADCamp, so that I put_in a session.
+As a anonymoususer, I want to register to speak at BADCamp, so that I render a session.
+
+Input phrase:As a authenticateduser, I want to submit a session at BADCAMP, so that I can get my session evaluated.
+As a authenticateduser, I desire to present a school_term at BADCAMP, so that I can become my school_term measure.
+As a authenticateduser, I want to relegate a seance at BADCAMP, so that I can receive my seance evaluate.
+As a authenticateduser, I want to take a session at BADCAMP, so that I can arrive my session evaluated.
+As a authenticateduser, I want to put_in a session at BADCAMP, so that I can bring my session evaluated.
+As a authenticateduser, I want to render a session at BADCAMP, so that I can experience my session evaluated.
+
+Input phrase:As a sponsor, I want to personalize my sponsorship page, so that I can promote my brand.
+As a patron, I desire to personalize my patronship page, so that I can advertise my trade_name.
+As a presenter, I want to personalize my presentership page, so that I can promote my mark.
+As a sponsor, I want to personalize my sponsorship page, so that I can promote my sword.
+As a sponsor, I want to personalize my sponsorship page, so that I can promote my brand.
+As a sponsor, I want to personalize my sponsorship page, so that I can promote my brand.
+
+Input phrase:As a anonymoususer, I want to see a list of all the summits that include when they are, so that I can determine which summit I want to attend.
+As a anonymoususer, I desire to understand a tilt of all the acme that admit when they are, so that I can specify which acme I desire to serve.
+As a anonymoususer, I want to witness a list of all the peak that include when they are, so that I can decide which peak I want to attend.
+As a anonymoususer, I want to visualize a list of all the summit that include when they are, so that I can settle which summit I want to attend.
+As a anonymoususer, I want to learn a list of all the summits that include when they are, so that I can determine which summit I want to attend.
+As a anonymoususer, I want to watch a list of all the summits that include when they are, so that I can determine which summit I want to attend.
+
+Input phrase:As a authenticateduser, I want to Be offered several choices of idividual sponsorship on the second page of registration, so that I can be awesome and financially support the camp.
+As a authenticateduser, I desire to Be offer respective choice of idividual sponsorship on the second page of adjustment, so that I can be amazing and financially back the clique.
+As a authenticateduser, I want to Be volunteer several option of idividual sponsorship on the second page of registration, so that I can be awesome and financially hold the camp.
+As a authenticateduser, I want to Be put_up several choices of idividual sponsorship on the second page of registration, so that I can be awesome and financially confirm the camp.
+As a authenticateduser, I want to Be extend several choices of idividual sponsorship on the second page of registration, so that I can be awesome and financially subscribe the camp.
+As a authenticateduser, I want to Be propose several choices of idividual sponsorship on the second page of registration, so that I can be awesome and financially corroborate the camp.
+
+Input phrase:As a anonymoususer, I want to easily find a link in the menu that links to the registration form, so that I can easily register for the camp.
+As a anonymoususer, I desire to well detect a connection in the menu that connections to the adjustment kind, so that I can well file for the clique.
+As a anonymoususer, I want to easily determine a liaison in the menu that liaisons to the registration shape, so that I can easily record for the camp.
+As a anonymoususer, I want to easily witness a radio_link in the menu that radio_yoke to the registration human_body, so that I can easily read for the camp.
+As a anonymoususer, I want to easily line_up a link in the menu that links to the registration phase, so that I can easily cross-file for the camp.
+As a anonymoususer, I want to easily discover a link in the menu that links to the registration class, so that I can easily register for the camp.
+
+Input phrase:As a anonymoususer, I want to fill out a user registration form, so that I can register for the camp and get an account on the website.
+As a anonymousexploiter, I desire to occupy out a exploiter adjustment kind, so that I can file for the clique and become an history on the web_site.
+As a anonymousdrug_user, I want to meet out a drug_user registration shape, so that I can record for the camp and receive an report on the website.
+As a anonymoususer, I want to fill_up out a user registration human_body, so that I can read for the camp and arrive an explanation on the website.
+As a anonymoususer, I want to satiate out a user registration phase, so that I can cross-file for the camp and bring an score on the website.
+As a anonymoususer, I want to fill out a user registration class, so that I can register for the camp and experience an bill on the website.
+
+Input phrase:As a anonymoususer, I want to find session information, so that I can go to a session.
+As a anonymoususer, I desire to detect school_term data, so that I can travel to a school_term.
+As a anonymoususer, I want to determine seance information, so that I can become to a seance.
+As a anonymoususer, I want to witness session information, so that I can run to a session.
+As a anonymoususer, I want to line_up session information, so that I can proceed to a session.
+As a anonymoususer, I want to discover session information, so that I can sound to a session.
+
+Time for the single dataset = 1.0642 seconds = 0.0003 hours

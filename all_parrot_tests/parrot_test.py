@@ -108,14 +108,14 @@ for data_set_index in range(18, 23):
 
                                     toc2 = time.perf_counter()
                                 f.write("\n")
-                                f.write(f"Got the paraphrases in {toc2 - tic2:0.4f} seconds")
+                                f.write(f"Got the paraphrases in {toc2 - tic2:0.4f} seconds") # singolo file
                                 f.write("\n")
 
     toc0 = time.perf_counter()
     # Total time = 13401.5691 seconds = 3.7226 hours
     f = open(dir + "/" + "results_" + str(file_index - 1) + ".txt", "a")
     f.write("\n")
-    f.write(f"Total time = {toc0 - tic0:0.4f} seconds = {((toc0 - tic0)/60/60):0.4f} hours")
+    f.write(f"Total time = {toc0 - tic0:0.4f} seconds = {((toc0 - tic0)/60/60):0.4f} hours") # tutti i file relativi a un dataset
 
 '''
 a good paraphrase should be adequate and fluent while being as different as possible on the surface lexical form. With respect to this definition, the 3 key metrics that measures the quality of paraphrases are:
