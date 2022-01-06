@@ -10,22 +10,20 @@ cd ../eda_nlp-master/data
 
 # mi da warning che almeno un parametro deve essere maggiore di 0
 
-start_time=$SECONDS
+# start_time=$SECONDS
 
-for i in {1..22}
-do
-  python code/augment.py --input=../../results/data_set_${i}/results_${i}_EDA_input.txt --output=../../results/data_set_${i}/EDA_outputs/results_${i}_EDA_output_9_0.1_0_0_0.txt --alpha_sr=0.1 --alpha_rd=0 --alpha_ri=0 --alpha_rs=0
-done
+python code/augment.py --input=../../results/plain-PROMISE/results_plain-PROMISE_EDA_input.txt --output=../../results/plain-PROMISE/EDA_outputs/results_plain-PROMISE_EDA_output_9_0.1_0_0_0.txt --alpha_sr=0.1 --alpha_rd=0 --alpha_ri=0 --alpha_rs=0
 
-elapsed=$(( SECONDS - start_time ))
-echo "data_sets from 1 to 22" > ../EDAtime.txt
-echo "na : 5 10 15" > ../EDAtime.txt
-echo "sr : 0 0.1" > ../EDAtime.txt
-echo "rd : 0 0.1" > ../EDAtime.txt
-echo "ri : 0 0.1" > ../EDAtime.txt
-echo "rs : 0 0.1" > ../EDAtime.txt
-echo $elapsed > ../EDAtime.txt
-eval "echo Elapsed time: $(date -ud "@$elapsed" +'$((%s/3600/24)) days %H hr %M min %S sec')" > ../EDAtime.txt
+
+# elapsed=$(( SECONDS - start_time ))
+# echo "data_sets from 1 to 22" > ../EDAtime.txt
+# echo "na : 5 10 15" > ../EDAtime.txt
+# echo "sr : 0 0.1" > ../EDAtime.txt
+# echo "rd : 0 0.1" > ../EDAtime.txt
+# echo "ri : 0 0.1" > ../EDAtime.txt
+# echo "rs : 0 0.1" > ../EDAtime.txt
+# echo $elapsed > ../EDAtime.txt
+# eval "echo Elapsed time: $(date -ud "@$elapsed" +'$((%s/3600/24)) days %H hr %M min %S sec')" > ../EDAtime.txt
 # python code/augment.py --input=results_1_EDA_input.txt --output=../../results/data_set_1/results_1_EDA_output.txt --num_aug=16 --alpha_sr=0.1 --alpha_rd=0.0 --alpha_ri=0.0 --alpha_rs=0.0
 # python code/augment.py --input=results_2_EDA_input.txt --output=results_2_EDA_output.txt --num_aug=16 --alpha_sr=0.1 --alpha_rd=0.0 --alpha_ri=0.0 --alpha_rs=0.0
 # python code/augment.py --input=results_3_EDA_input.txt --output=results_3_EDA_output.txt --num_aug=16 --alpha_sr=0.1 --alpha_rd=0.0 --alpha_ri=0.0 --alpha_rs=0.0

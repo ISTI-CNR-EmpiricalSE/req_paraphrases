@@ -19,7 +19,9 @@ tic0 = time.perf_counter() # time for all datasets
 for data_set_index in range(1, 23):
     tic1 = time.perf_counter() # time for the single dataset
     input_file = open("data_sets/data_set_" + str(data_set_index) + ".txt", "r")
+    # input_file = open("data_sets/plain-PROMISE.txt", "r")
     output_file = open("results/data_set_" + str(data_set_index) + "/results_" + str(data_set_index) + "_wordnet.txt", "w" )
+    # output_file = open("results/plain-PROMISE/results_plain-PROMISE_wordnet.txt","w")
     output_file.write("data_set_number:" + str(data_set_index) + "\n")
     output_file.write("\n")
     phrases = input_file.read().splitlines()
@@ -47,27 +49,35 @@ for data_set_index in range(1, 23):
 
                 for i in syns_dirty:
                     # formato: synonym.roba
-                    name_dirty = i.name()
+                    synonym_dirty = i.name()
 
                     # take off from first "."
-                    index = name_dirty.find(".")
-                    name = name_dirty[:index]
+                    index = synonym_dirty.find(".")
+                    synonym = synonym_dirty[:index]
 
-                    # insert synonym in final list only if it's different from original word and if absent from the final list
+                    # insert synonym in final list only if :
+                    # it's different from original word
+                    # it's different from the plural of the original word (synonym different from token + s)
+                    # it's different from the singular of the original word (synonym + s different from token)
+                    # and if absent from the final list
                     found = False
-                    if name == token.text.lower():
+                    if synonym == token.text.lower():
                         found = True
-                    if name in syns_clean:
-                            found = True
+                    if synonym == token.text.lower() + "s":
+                        found = True
+                    if synonym + "s" == token.text.lower():
+                        found = True
+                    if synonym in syns_clean:
+                        found = True
                     if found is False:
-                        syns_clean.append(name)
+                        syns_clean.append(synonym)
 
                 print(token.text)
                 print(syns_clean)
                 print("\n")
 
                 # restituisco 5 frasi, che di partenza sono uguali a orginale, fino a che trova sinonimi (massimo 5) nella lista sostituisce
-                # ovviamente quanfo faccio pop, lista cambia, elemento a indice 0 sarà quello che mi interessa
+                # ovviamente quando faccio pop, lista cambia, elemento a indice 0 sarà quello che mi interessa
                 if syns_clean:
                     phrase1 = phrase1.replace(token.text, syns_clean[0])
                     syns_clean.pop(0)
@@ -92,11 +102,12 @@ for data_set_index in range(1, 23):
         output_file.write("\n")
 
     toc1 = time.perf_counter()
-    output_file.write(f"Time for the single dataset = {toc1 - tic1:0.4f} seconds = {((toc1 - tic1)/60/60):0.4f} hours" + "\n")
+    output_file.write(f"Time for the single dataset = {toc1 - tic1:0.4f} seconds = {(toc1 - tic1)/60:0.4f} minutes = {((toc1 - tic1)/60/60):0.4f} hours" + "\n")
 
 toc0 = time.perf_counter()
 output_file.write("\n")
-output_file.write(f"Time for all datasets = {toc0 - tic0:0.4f} seconds = {((toc0 - tic0)/60/60):0.4f} hours")
+# se lo esegui solo su un data set (come nel caso di pp) sarà uguale a tempo sopra
+output_file.write(f"Time for all datasets = {toc0 - tic0:0.4f} seconds = {(toc0 - tic0)/60:0.4f} minutes = {((toc0 - tic0)/60/60):0.4f} hours")
 
 
 

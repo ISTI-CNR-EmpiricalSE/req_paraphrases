@@ -1,5 +1,7 @@
 import os
 
+# delete start from plain-PROMISE
+
 f1 = open("plain-PROMISE_dirty.txt", "r")
 f2 = open("plain-PROMISE_clean.txt", "w")
 dirty_line = f1.readline()
