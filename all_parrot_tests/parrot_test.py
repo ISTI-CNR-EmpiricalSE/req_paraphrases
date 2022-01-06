@@ -22,7 +22,7 @@ tic1 = time.perf_counter()
 parrot = Parrot(model_tag="prithivida/parrot_paraphraser_on_T5")
 
 toc1 = time.perf_counter()
-print(f"Downloaded the model in {toc1 - tic1:0.4f} seconds")
+print(f"Downloaded the parrot_paraphraser_on_T5 in {toc1 - tic1:0.4f} seconds")
 
 # questo sopra non funzionava ma ho fatto pip install protobuf e ha funzionato
 # dava seguente errore --->
@@ -135,7 +135,7 @@ Parrot mainly foucses on AUGMENTING texts typed-into or spoken-to conversational
 per avere tanti dati su cui allenare modello senza dovere effettivamente collezionare
 Techniques are used to increase the amount of data by adding slightly modified copies of already existing data or newly created synthetic data from existing data.” So data augmentation involves creating new and representative data.
 (So usually people neither type out or yell out long paragraphs to conversational interfaces. 
-Hence the pre-trained model is trained on text samples of maximum length of 32.)
+Hence the pre-trained parrot_paraphraser_on_T5 is trained on text samples of maximum length of 32.)
 '''
 # While Parrot predominantly aims to be a text augmentor for building good NLU models, it can also be used as a pure-play paraphraser.
 

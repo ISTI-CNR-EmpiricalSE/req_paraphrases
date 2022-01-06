@@ -26,7 +26,7 @@ tic1 = time.perf_counter()
 parrot = Parrot(model_tag="prithivida/parrot_paraphraser_on_T5")
 
 toc1 = time.perf_counter()
-print(f"Downloaded the model in {toc1 - tic1:0.4f} seconds")
+print(f"Downloaded the parrot_paraphraser_on_T5 in {toc1 - tic1:0.4f} seconds")
 
 data_set_number = input("Inserisci il numero di data set: ")
 my_file = open("../data_sets/data_set_" + str(data_set_number) + ".txt", "r")

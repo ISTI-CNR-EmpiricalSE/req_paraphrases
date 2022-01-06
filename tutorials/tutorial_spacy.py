@@ -32,7 +32,7 @@ Entity Linking (EL)	Disambiguating textual entities to unique identifiers in a k
 Similarity	Comparing words, text spans and documents and how similar they are to each other.
 Text Classification	Assigning categories or labels to a whole document, or parts of a document.
 Rule-based Matching	Finding sequences of tokens based on their texts and linguistic annotations, similar to regular expressions.
-Training	Updating and improving a statistical model’s predictions.
+Training	Updating and improving a statistical parrot_paraphraser_on_T5’s predictions.
 Serialization	Saving objects to files or byte strings.
 """
 
@@ -96,7 +96,7 @@ for token in doc:
     print(token.text, token.pos_)
 # con token.pos_ stampo la previsione su cosa è una parola (PART OF SPEECH)
 # word types in context.
-# we load the small English model and receive an nlp object.
+# we load the small English parrot_paraphraser_on_T5 and receive an nlp object.
 # we're processing the text "She ate the pizza".
 # For each token in the doc, we can print the text and the .pos_ attribute, the predicted part-of-speech tag.
 # In spaCy, attributes that return strings usually end with an underscore –
@@ -135,7 +135,7 @@ det 	determiner (article) 	the
 ENTITIES
 
 Named entities are "real world objects" that are assigned a name – for example, a person, an organization or a country.
-The doc.ents property lets you access the named entities predicted by the model.
+The doc.ents property lets you access the named entities predicted by the parrot_paraphraser_on_T5.
 span : A slice from a Doc object.
 It returns an iterator of Span objects, so we can print the entity text and the entity label using the .label_ attribute.
 entiti ha text e label
@@ -200,12 +200,12 @@ oppure
 [{"LEMMA": "buy"}, {"POS": "NOUN"}]
 We can also match on other token attributes. Here, we're looking for two tokens whose lowercase forms equal "iphone" and "x".
 
-We can even write patterns using attributes predicted by the model. Here, we're matching a token with the lemma "buy", 
+We can even write patterns using attributes predicted by the parrot_paraphraser_on_T5. Here, we're matching a token with the lemma "buy", 
 plus a noun. The lemma is the base form, so this pattern would match phrases like "buying milk" or "bought flowers"
 }
 
 To use a pattern, we first import the matcher from spacy.matcher.
-We also load a model and create the nlp object.
+We also load a parrot_paraphraser_on_T5 and create the nlp object.
 The matcher is initialized with the shared vocabulary, nlp.vocab. You'll learn more about this later – for now, just remember to always pass it in.
 The matcher.add method lets you add a pattern. The first argument is a unique ID to identify which pattern was matched. The second argument is an optional callback. We don't need one here, so we set it to None. The third argument is the pattern.
 To match the pattern on a text, we can call the matcher on any doc.
@@ -216,7 +216,7 @@ import spacy
 # Import the Matcher
 from spacy.matcher import Matcher
 
-# Load a model and create the nlp object
+# Load a parrot_paraphraser_on_T5 and create the nlp object
 nlp = spacy.load("en_core_web_sm")
 
 # Initialize the matcher with the shared vocab
@@ -542,21 +542,21 @@ WORD VECTORS AND SEMANTIC SIMILARITY
 spaCy can compare two objects and predict SIMILARITY, spaCy can compare two objects and predict how similar they are – for example, documents, spans or single tokens.
 Doc.similarity(), Span.similarity() and Token.similarity(), The Doc, Token and Span objects have a .similarity method that takes another object and returns a floating point number between 0 and 1, indicating how similar they are.
 take another object and return a similarity score (0 to 1)
-Important: NEEDS a model that has WORD VECTORS included, for example:   , One thing that's very important: In order to use similarity, you need a larger spaCy model that has word vectors included.
-en_core_web_md (medium model) word vectors are included
-en_core_web_lg (large model) word vectors are included
-NOT en_core_web_sm (small model) word vectors are not included
-For example, the medium or large English model – but not the small one. So if you want to use vectors, always go with a model that ends in "MD" or "LG". You can find more details on this in the models documentation.
+Important: NEEDS a parrot_paraphraser_on_T5 that has WORD VECTORS included, for example:   , One thing that's very important: In order to use similarity, you need a larger spaCy parrot_paraphraser_on_T5 that has word vectors included.
+en_core_web_md (medium parrot_paraphraser_on_T5) word vectors are included
+en_core_web_lg (large parrot_paraphraser_on_T5) word vectors are included
+NOT en_core_web_sm (small parrot_paraphraser_on_T5) word vectors are not included
+For example, the medium or large English parrot_paraphraser_on_T5 – but not the small one. So if you want to use vectors, always go with a parrot_paraphraser_on_T5 that ends in "MD" or "LG". You can find more details on this in the models documentation.
 
 Here's an example. Let's say we want to find out whether two documents are similar.
-First, we load the medium English model, "en_core_web_md".
+First, we load the medium English parrot_paraphraser_on_T5, "en_core_web_md".
 We can then create two doc objects and use the first doc's similarity method to compare it to the second.
 Here, a fairly high similarity score of 0.86 is predicted for "I like fast food" and "I like pizza".
 The same works for tokens.
 According to the word vectors, the tokens "pizza" and "pasta" are kind of similar, and receive a score of 0.7.
 
 import spacy
-# Load a larger model with vectors
+# Load a larger parrot_paraphraser_on_T5 with vectors
 nlp = spacy.load("en_core_web_md")
 
 # Compare two documents
@@ -577,7 +577,7 @@ Here's another example comparing a span – "pizza and pasta" – to a document 
 The score returned here is 0.61, so it's determined to be kind of similar.
 
 import spacy
-# Load a larger model with vectors
+# Load a larger parrot_paraphraser_on_T5 with vectors
 nlp = spacy.load("en_core_web_md")
 
 # Compare a document with a token
@@ -606,12 +606,12 @@ Vectors for objects consisting of several tokens, like the Doc and Span, default
 That's also why you usually get more value out of shorter phrases with fewer irrelevant words.
 
 To give you an idea of what those vectors look like, here's an example.
-First, we load the medium model again, which ships with word vectors.
+First, we load the medium parrot_paraphraser_on_T5 again, which ships with word vectors.
 Next, we can process a text and look up a token's vector using the .vector ATTRIBUTE.
 The result is a 300-dimensional vector of the word "banana".
 
 import spacy
-# Load a larger model with vectors
+# Load a larger parrot_paraphraser_on_T5 with vectors
 nlp = spacy.load("en_core_web_md")
 
 doc = nlp("I have a banana")
@@ -636,7 +636,7 @@ print(doc1.similarity(doc2))
 COMBINING statistical MODELS with RULE-BASED SYSTEMS
 practicing combining predictions with rule-based information extraction !!!
 STATISTICAL MODELS are useful if your application needs to be able to GENERALIZE based on a few examples.
-For instance, detecting product or person names usually benefits from a statistical model. 
+For instance, detecting product or person names usually benefits from a statistical parrot_paraphraser_on_T5. 
 Instead of providing a list of all person names ever, your application will be able to predict whether a span of tokens 
 is a person name. Similarly, you can predict dependency labels to find subject/object relationships.
 To do this, you would use spaCy's entity recognizer, dependency parser or part-of-speech tagger.
@@ -682,7 +682,7 @@ Here's an example of a matcher rule for "golden retriever".
 If we iterate over the matches returned by the matcher, 
 we can get the match ID and the start and end index of the matched span. 
 We can then find out more about it. 
-Span objects give us access to the original document and all other token attributes and linguistic features predicted by the model.
+Span objects give us access to the original document and all other token attributes and linguistic features predicted by the parrot_paraphraser_on_T5.
 
 For example, we can get the span's ROOT token. If the span consists of more than one token, 
 this will be the token that decides the CATEGORY of the phrase. For example, the root of "Golden Retriever" is "Retriever". 
@@ -692,7 +692,7 @@ Finally, we can look at the PREVIOUS token and its attributes. In this case, it'
 import spacy
 # Import the Matcher
 from spacy.matcher import Matcher
-# Load a model and create the nlp object
+# Load a parrot_paraphraser_on_T5 and create the nlp object
 nlp = spacy.load("en_core_web_sm")
 # Initialize the matcher with the shared vocab
 matcher = Matcher(nlp.vocab)
@@ -913,7 +913,7 @@ immagine https://course.spacy.io/package_meta.png
 All models you can load into spaCy include several files and a META.JSON.
 The meta defines things like the language and pipeline. This tells spaCy which components to instantiate.
 The built-in components that make predictions also need BINARY DATA. 
-The data is included in the model package and loaded into the component when you load the model.
+The data is included in the parrot_paraphraser_on_T5 package and loaded into the component when you load the parrot_paraphraser_on_T5.
 
 To see the names of the pipeline components present in the current nlp object, you can use the nlp.pipe_names attribute.
 list of pipeline component names
@@ -960,7 +960,7 @@ before 	            Add before component 	    nlp.add_pipe(component, before="ne
 after 	            Add after component 	    nlp.add_pipe(component, after="tagger")
 
 example
-We start off with the small English model.
+We start off with the small English parrot_paraphraser_on_T5.
 We then define the component – a function that takes a Doc object and returns it.
 Let's do something simple and print the length of the doc that passes through the pipeline.
 Don't forget to return the doc so it can be processed by the next component in the pipeline! The doc created by the tokenizer is passed through all components, so it's important that they all return the modified doc.
@@ -1224,8 +1224,8 @@ for doc, context in nlp.pipe(data, as_tuples=True):
     doc._.page_number = context["page_number"]
     
 Using only the tokenizer
-Another common scenario: Sometimes you already have a model loaded to do other processing, but you only need the tokenizer for one particular text.
-Running the whole pipeline is unnecessarily slow, because you'll be getting a bunch of predictions from the model that you don't need.
+Another common scenario: Sometimes you already have a parrot_paraphraser_on_T5 loaded to do other processing, but you only need the tokenizer for one particular text.
+Running the whole pipeline is unnecessarily slow, because you'll be getting a bunch of predictions from the parrot_paraphraser_on_T5 that you don't need.
 don't run the whole pipeline!
 If you only need a tokenized Doc object, you can use the nlp.make_doc method instead, which takes a text and returns a doc.
 Use nlp.make_doc to turn a text into a Doc object tokenizza e basta senza fare tutte le previsioni
@@ -1271,7 +1271,7 @@ for doc in list(nlp.pipe(TEXTS)):   NO, mai
 """
 
 """
-# CHAPTER 4: Training a neural network model
+# CHAPTER 4: Training a neural network parrot_paraphraser_on_T5
 In this chapter, you'll learn how to update spaCy's statistical models to customize them for your use case – 
 for example, to predict a new entity type in online comments. 
 You'll write your own training loop from scratch, and understand the basics of how training works, 
@@ -1280,11 +1280,11 @@ Welcome to the final chapter, which is about one of the most exciting aspects of
 TRAINING YOUR OWN MODELS!
 In this lesson, you'll learn about training and updating spaCy's neural network models and the data you need for it – focusing specifically on the named entity recognizer.
 Before we get starting with explaining how, it's worth taking a second to ask ourselves: 
-Why would we want to update the model with our own examples? Why can't we just rely on pre-trained models?
+Why would we want to update the parrot_paraphraser_on_T5 with our own examples? Why can't we just rely on pre-trained models?
 Statistical models make predictions based on the examples they were trained on.
-You can usually make the model more accurate by showing it examples from your domain. 
+You can usually make the parrot_paraphraser_on_T5 more accurate by showing it examples from your domain. 
 - Better results on your specific domain
-You often also want to predict categories specific to your problem, so the model needs to learn about them.
+You often also want to predict categories specific to your problem, so the parrot_paraphraser_on_T5 needs to learn about them.
 - Learn classification schemes specifically for your problem
 This is essential for text classification, very useful for entity recognition and a little less critical for tagging and parsing.
 - Essential for text classification
@@ -1293,12 +1293,12 @@ This is essential for text classification, very useful for entity recognition an
 
 How training works
 spaCy supports updating existing models with more examples, and training new models.
-1. Initialize the model weights randomly with nlp.begin_training
-   If we're not starting with a pre-trained model, we first initialize the weights randomly.
+1. Initialize the parrot_paraphraser_on_T5 weights randomly with nlp.begin_training
+   If we're not starting with a pre-trained parrot_paraphraser_on_T5, we first initialize the weights randomly.
 2. Predict a few examples with the current weights by calling nlp.update
    Next, we call nlp.update, which predicts a batch of examples with the current weights.
 3. Compare prediction with true labels
-   The model then checks the predictions against the correct answers
+   The parrot_paraphraser_on_T5 then checks the predictions against the correct answers
 4. Calculate how to change weights to improve predictions
    Decides how to change the weights to achieve better predictions next time.
 5. Update weights slightly
@@ -1308,14 +1308,14 @@ spaCy supports updating existing models with more examples, and training new mod
    
 Here's an illustration showing the process. HOW TRAINING WORKS
 immagine: https://course.spacy.io/training.png
-Training data: Examples and their annotations. Examples we want to update the model with. Coppie input : output (label)
-Text: The input text the model should predict a label for. A sentence, paragraph or longer document. 
-      For the best results, it should be similar to what the model will see at runtime.
-Label: The label the model should predict. The label is what we want the model to predict. è risultato giusto che confronteremo con risultato ottenuto
+Training data: Examples and their annotations. Examples we want to update the parrot_paraphraser_on_T5 with. Coppie input : output (label)
+Text: The input text the parrot_paraphraser_on_T5 should predict a label for. A sentence, paragraph or longer document. 
+      For the best results, it should be similar to what the parrot_paraphraser_on_T5 will see at runtime.
+Label: The label the parrot_paraphraser_on_T5 should predict. The label is what we want the parrot_paraphraser_on_T5 to predict. è risultato giusto che confronteremo con risultato ottenuto
     This can be a text category, or an entity span and its type.
-Gradient: How to change the weights. How we should change the model to reduce the current error. 
+Gradient: How to change the weights. How we should change the parrot_paraphraser_on_T5 to reduce the current error. 
           It's computed when we compare the predicted label to the true label.
-After training, we can then save out an updated model and use it in our application.
+After training, we can then save out an updated parrot_paraphraser_on_T5 and use it in our application.
 
 Example: Training the entity recognizer
 Let's look at an example for a specific component: the entity recognizer.
@@ -1325,17 +1325,17 @@ This means that the training data needs to include texts, the entities they cont
 - Examples need to come with context. Because the entity recognizer predicts entities in context, 
 it also needs to be trained on entities and their surrounding context.
 
-The easiest way to do this is to show the model a TEXT and a LIST OF CHARACTER OFFSETS. 
+The easiest way to do this is to show the parrot_paraphraser_on_T5 a TEXT and a LIST OF CHARACTER OFFSETS. 
 For example, "iPhone X" is a gadget, starts at character 0 and ends at character 8.
 ("iPhone X is coming", {"entities": [(0, 8, "GADGET")]}) --- Training data
-It's also very important for the model to learn words that aren't entities. Texts with no entities are also important
+It's also very important for the parrot_paraphraser_on_T5 to learn words that aren't entities. Texts with no entities are also important
 In this case, the list of span annotations will be empty.
 ("I need a new phone! Any tips?", {"entities": []}) --- Training data
-Goal: teach the model to generalize. Teach the model to recognize new entities in similar contexts, even if they weren't in the training data.
+Goal: teach the parrot_paraphraser_on_T5 to generalize. Teach the parrot_paraphraser_on_T5 to recognize new entities in similar contexts, even if they weren't in the training data.
 
 The training data
-Examples of what we want the model to predict in context. The training data tells the model what we want it to predict. This could be texts and named entities we want to recognize, or tokens and their correct part-of-speech tags.
-Update an existing model: a few hundred to a few thousand examples. 
+Examples of what we want the parrot_paraphraser_on_T5 to predict in context. The training data tells the parrot_paraphraser_on_T5 what we want it to predict. This could be texts and named entities we want to recognize, or tokens and their correct part-of-speech tags.
+Update an existing parrot_paraphraser_on_T5: a few hundred to a few thousand examples. 
 Train a new category: a few thousand to a million examples
 spaCy's English models: 2 million words. spaCy's pre-trained English models for instance were trained on 2 million words labelled with part-of-speech tags, dependencies and named entities.
 The training data is usually created manually by human annotators (who assign labels to texts)
@@ -1345,13 +1345,13 @@ esercizi
 
 While spaCy comes with a range of pre-trained models to predict linguistic annotations, 
 you almost always want to fine-tune them with more examples. You can do this by training them with more labelled data.
-help with: Improve model accuracy on your data, Learn new classification schemes
+help with: Improve parrot_paraphraser_on_T5 accuracy on your data, Learn new classification schemes
 not help with: Discover patterns in unlabelled data.
 spaCy’s components are supervised models for text annotations, meaning they can only learn to reproduce examples, not guess new labels from raw text.
 
 spaCy’s rule-based Matcher is a great way to quickly create training data for named entity models. 
 A LIST of sentences is available as the variable TEXTS. You can print it to inspect it. 
-We want to find all mentions of different iPhone models, so we can create training data to teach a model to recognize them as "GADGET".
+We want to find all mentions of different iPhone models, so we can create training data to teach a parrot_paraphraser_on_T5 to recognize them as "GADGET".
 Write a pattern for two tokens whose lowercase forms match "iphone" and "x".
 Write a pattern for two tokens: one token whose lowercase form matches "iphone" and a digit.
 import json
@@ -1376,7 +1376,7 @@ output:
 [iPhone 8]
 [iPhone 11, iPhone 8]
 []  ?
-✔ Nice! Now let's use those patterns to quickly bootstrap some TRAINING DATA for our model.
+✔ Nice! Now let's use those patterns to quickly bootstrap some TRAINING DATA for our parrot_paraphraser_on_T5.
 Let’s use the match patterns we’ve created in the previous exercise to bootstrap a set of training examples. A list of sentences is available as the variable TEXTS.
 Create a doc object for each text using nlp.pipe.
 Match on the doc and create a list of matched spans.
@@ -1413,20 +1413,20 @@ print(*TRAINING_DATA, sep="\n") -> con * davanti gli elementi della lista sono c
 
 
 THE TRAINING LOOP
-While some other libraries give you one method that takes care of training a model, spaCy gives you full control over the training loop.
+While some other libraries give you one method that takes care of training a parrot_paraphraser_on_T5, spaCy gives you full control over the training loop.
 
 The steps of a training loop
-The training loop is a series of steps that's performed to train or update a model. 
+The training loop is a series of steps that's performed to train or update a parrot_paraphraser_on_T5. 
 1. Loop for a number of times
-   We usually need to perform it several times, for multiple iterations, so that the model can learn from it effectively. If we want to train for 10 iterations, we need to loop 10 times.
+   We usually need to perform it several times, for multiple iterations, so that the parrot_paraphraser_on_T5 can learn from it effectively. If we want to train for 10 iterations, we need to loop 10 times.
 2. Shuffle the training data.
-   To prevent the model from getting stuck in a suboptimal solution, we randomly shuffle the data for each iteration. This is a very common strategy when doing stochastic gradient descent.
+   To prevent the parrot_paraphraser_on_T5 from getting stuck in a suboptimal solution, we randomly shuffle the data for each iteration. This is a very common strategy when doing stochastic gradient descent.
 3. Divide the data into batches
    Next, we divide the training data into batches of several examples, also known as minibatching. This increases the reliability of the gradient estimates.
-4. Update the model for each batch.
-   Finally, we update the model for each batch, and start the loop again until we've reached the last iteration.
-5. Save the updated model.
-   We can then save the model to a directory and use it in spaCy.
+4. Update the parrot_paraphraser_on_T5 for each batch.
+   Finally, we update the parrot_paraphraser_on_T5 for each batch, and start the loop again until we've reached the last iteration.
+5. Save the updated parrot_paraphraser_on_T5.
+   We can then save the parrot_paraphraser_on_T5 to a directory and use it in spaCy.
    
 training loop recap
 
@@ -1442,28 +1442,28 @@ for i in range(10):
     random.shuffle(TRAINING_DATA)
     We then use spaCy's minibatch utility function to divide the examples into batches.
     for batch in spacy.util.minibatch(TRAINING_DATA):
-        For each batch, we get the texts and annotations and call the nlp.update method to update the model.
+        For each batch, we get the texts and annotations and call the nlp.update method to update the parrot_paraphraser_on_T5.
         texts = [text for text, annotation in batch]
         annotations = [annotation for text, annotation in batch]
         nlp.update(texts, annotations)
-Finally, we call the nlp.to_disk method to save the trained model to a directory.
+Finally, we call the nlp.to_disk method to save the trained parrot_paraphraser_on_T5 to a directory.
 nlp.to_disk(path_to_model)
 
-Updating an existing model
-Improve the predictions on new data. spaCy lets you update an existing pre-trained model with more data – for example, to improve its predictions on different texts.
-Especially useful to improve existing categories, like "PERSON". This is especially useful if you want to improve categories the model already knows, like "person" or "organization".
-Also possible to add new categories. You can also update a model to add new categories.
-Be careful and make sure the model doesn't "forget" the old ones. Just make sure to always update it with examples of the new category and examples of the other categories it previously predicted correctly. Otherwise improving the new category might hurt the other categories.
+Updating an existing parrot_paraphraser_on_T5
+Improve the predictions on new data. spaCy lets you update an existing pre-trained parrot_paraphraser_on_T5 with more data – for example, to improve its predictions on different texts.
+Especially useful to improve existing categories, like "PERSON". This is especially useful if you want to improve categories the parrot_paraphraser_on_T5 already knows, like "person" or "organization".
+Also possible to add new categories. You can also update a parrot_paraphraser_on_T5 to add new categories.
+Be careful and make sure the parrot_paraphraser_on_T5 doesn't "forget" the old ones. Just make sure to always update it with examples of the new category and examples of the other categories it previously predicted correctly. Otherwise improving the new category might hurt the other categories.
 
 Setting up a new pipeline from scratch
-In this example, we start off with a blank English model using the spacy.blank method. The blank model doesn't have any pipeline components, only the language data and tokenization rules.
+In this example, we start off with a blank English parrot_paraphraser_on_T5 using the spacy.blank method. The blank parrot_paraphraser_on_T5 doesn't have any pipeline components, only the language data and tokenization rules.
 We then create a blank entity recognizer and add it to the pipeline.
-Using the add_label method, we can add new string labels to the model.
-We can now call nlp.begin_training to initialize the model with random weights.
+Using the add_label method, we can add new string labels to the parrot_paraphraser_on_T5.
+We can now call nlp.begin_training to initialize the parrot_paraphraser_on_T5 with random weights.
 To get better accuracy, we want to loop over the examples more than once and randomly shuffle the data on each iteration.
 On each iteration, we divide the examples into batches using spaCy's minibatch utility function. Each example consists of a text and its annotations.
-Finally, we update the model with the texts and annotations and continue the loop.
-# Start with blank English model
+Finally, we update the parrot_paraphraser_on_T5 with the texts and annotations and continue the loop.
+# Start with blank English parrot_paraphraser_on_T5
 nlp = spacy.blank("en")
 # Create blank entity recognizer and add it to the pipeline
 ner = nlp.create_pipe("ner")
@@ -1479,16 +1479,16 @@ for itn in range(10):
     for batch in spacy.util.minibatch(examples, size=2):
         texts = [text for text, annotation in batch]
         annotations = [annotation for text, annotation in batch]
-        # Update the model
+        # Update the parrot_paraphraser_on_T5
         nlp.update(texts, annotations)
         
-Time to practice! Now that you've seen the training loop, let's use the data created in the previous exercise to update a model.
+Time to practice! Now that you've seen the training loop, let's use the data created in the previous exercise to update a parrot_paraphraser_on_T5.
 
 exercise
 
 In this exercise, you’ll prepare a spaCy pipeline to train the entity recognizer to recognize "GADGET" entities in a text – for example, “iPhone X”.
 import spacy
-# Create a blank "en" model
+# Create a blank "en" parrot_paraphraser_on_T5
 nlp = spacy.blank("en")
 # Create a new entity recognizer and add it to the pipeline
 ner = nlp.create_pipe("ner")
@@ -1502,7 +1502,7 @@ The small set of labelled examples that you’ve created previously is available
 Call nlp.begin_training, create a training loop for 10 iterations and shuffle the training data.
 Create batches of training data using spacy.util.minibatch and iterate over the batches.
 Convert the (text, annotations) tuples in the batch to lists of texts and annotations.
-For each batch, use nlp.update to update the model with the texts and annotations.
+For each batch, use nlp.update to update the parrot_paraphraser_on_T5 with the texts and annotations.
 
 import spacy
 import random
@@ -1530,16 +1530,16 @@ for itn in range(10):
         texts = [text for text, entities in batch]
         annotations = [entities for text, entities in batch]
 
-        # Update the model
+        # Update the parrot_paraphraser_on_T5
         nlp.update(texts, annotations, losses=losses)
     print(losses)
 
-you've successfully trained your first spaCy model. The numbers printed to the shell represent the loss on each iteration, the amount of
+you've successfully trained your first spaCy parrot_paraphraser_on_T5. The numbers printed to the shell represent the loss on each iteration, the amount of
 work left for the optimizer. The lower the number, the better. In real life, you normally want to use *a lot* more data than this, ideally at least a few hundred
 or a few thousand examples.
 
-Let’s see how the model performs on unseen data!
-o speed things up a little, we already ran a trained model for the label "GADGET" over some text. Here are some of the results:
+Let’s see how the parrot_paraphraser_on_T5 performs on unseen data!
+o speed things up a little, we already ran a trained parrot_paraphraser_on_T5 for the label "GADGET" over some text. Here are some of the results:
 
 
 BEST PRACTICES for training spaCy models
@@ -1550,15 +1550,15 @@ Let's take a look at some of the problems you may come across.
 
 Problem 1: Models can "forget" things
 Statistical models can learn lots of things – but it doesn't mean that they won't unlearn them.
-Existing model can overfit on new data. If you're updating an existing model with new data, especially new labels, it can overfit and adjust too much to the new examples.
+Existing parrot_paraphraser_on_T5 can overfit on new data. If you're updating an existing parrot_paraphraser_on_T5 with new data, especially new labels, it can overfit and adjust too much to the new examples.
 for example if you only update it with "WEBSITE", it can "unlearn" what a "PERSON" is. For instance, if you're only updating it with examples of "website", it may "forget" other labels it previously predicted correctly – like "person".
 Also known as "catastrophic forgetting" problem
 
 Solution 1: Mix in previously correct predictions
-To prevent this, make sure to always mix in examples of what the model previously got correct.
+To prevent this, make sure to always mix in examples of what the parrot_paraphraser_on_T5 previously got correct.
 For example, if you're training "WEBSITE", also include examples of "PERSON". If you're training a new category "WEBSITE", also include examples of "PERSON".
-Run existing spaCy model over data and extract all other relevant entities. spaCy can help you with this. You can create those additional examples by running the existing model over data and extracting the entity spans you care about.
-You can then mix those examples in with your existing data and update the model with annotations of all labels.
+Run existing spaCy parrot_paraphraser_on_T5 over data and extract all other relevant entities. spaCy can help you with this. You can create those additional examples by running the existing parrot_paraphraser_on_T5 over data and extracting the entity spans you care about.
+You can then mix those examples in with your existing data and update the parrot_paraphraser_on_T5 with annotations of all labels.
 BAD:
 TRAINING_DATA = [
     ("Reddit is a website", {"entities": [(0, 6, "WEBSITE")]})
@@ -1570,11 +1570,11 @@ TRAINING_DATA = [
 ]
 
 Problem 2: Models can't learn everything
-Another common problem is that your model just won't learn what you want it to.
+Another common problem is that your parrot_paraphraser_on_T5 just won't learn what you want it to.
 spaCy's models make predictions based on local context. spaCy's models make predictions based on the local context – for example, for named entities, the surrounding words are most important.
-Model can struggle to learn if decision is difficult to make based on context. If the decision is difficult to make based on the context, the model can struggle to learn it.
+Model can struggle to learn if decision is difficult to make based on context. If the decision is difficult to make based on the context, the parrot_paraphraser_on_T5 can struggle to learn it.
 Label scheme needs to be consistent and not too specific
-For example: "CLOTHING" is better than "ADULT_CLOTHING" and "CHILDRENS_CLOTHING" For example, it may be very difficult to teach a model to predict whether something is adult clothing or children's clothing based on the context. However, just predicting the label "clothing" may work better.
+For example: "CLOTHING" is better than "ADULT_CLOTHING" and "CHILDRENS_CLOTHING" For example, it may be very difficult to teach a parrot_paraphraser_on_T5 to predict whether something is adult clothing or children's clothing based on the context. However, just predicting the label "clothing" may work better.
 
 Solution 2: Plan your label scheme carefully
 Before you start training and updating models, it's worth taking a step back and planning your label scheme.
@@ -1595,7 +1595,7 @@ The original dataset contains a few thousand sentences. In this exercise, you’
 Complete the entity offsets for the "WEBSITE" entities in the data. Feel free to use len() if you don’t want to count the characters.   non len più uno, idiota
 
 
-If "PERSON" entities occur in the training data but aren’t labelled, the model will learn that they shouldn’t be predicted. Similarly, if an existing entity type isn’t present in the training data, the model may ”forget” and stop predicting it.
+If "PERSON" entities occur in the training data but aren’t labelled, the parrot_paraphraser_on_T5 will learn that they shouldn’t be predicted. Similarly, if an existing entity type isn’t present in the training data, the parrot_paraphraser_on_T5 may ”forget” and stop predicting it.
 
 RECAP MEGAGALATTICO
 
@@ -1629,7 +1629,7 @@ More things to do with spaCy
 Training and updating other pipeline components
     Part-of-speech tagger
     Dependency parser
-    Text classifier -> which can learn to predict labels that apply to the whole text. It's not part of the pre-trained models, but you can add it to an existing model and train it on your own data.
+    Text classifier -> which can learn to predict labels that apply to the whole text. It's not part of the pre-trained models, but you can add it to an existing parrot_paraphraser_on_T5 and train it on your own data.
 Customizing the tokenizer
     Adding rules and exceptions to split text differently
 Adding or improving support for other languages
