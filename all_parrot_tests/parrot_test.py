@@ -1,121 +1,202 @@
 import time
 import os
+import sys
 
 from parrot import Parrot
 import torch
 import warnings
-warnings.filterwarnings("ignore")
 
-# uncomment to get reproducable paraphrase generations
-# In order to allow reproducibility of the text paraphrasing, the random seed number will be set.
-# What this does is produce the same results for the same seed number (even if it is re-run multiple times).
-def random_state(seed):
-  torch.manual_seed(seed)
-  if torch.cuda.is_available():
-    torch.cuda.manual_seed_all(seed)
 
-random_state(1234)
+def help_message():
+    print("You have to choose between one of these three assets:")
+    print("number of arguments =")
+    print("0                        - default configuration, do all datasets from n1 included to n23 exluded")
+    print("False n1,n5...           - not a cycle, but singles dataset n1 and n5")
+    print("True n1,n5               - a cycle that goes from n2 included and n5 excluded")
 
-tic1 = time.perf_counter()
 
-#Init models (make sure you init ONLY once if you integrate this to your code)
-parrot = Parrot(model_tag="prithivida/parrot_paraphraser_on_T5")
+def parrot_test_func():
 
-toc1 = time.perf_counter()
-print(f"Downloaded the parrot_paraphraser_on_T5 in {toc1 - tic1:0.4f} seconds")
+    # I want to have the possibility to insert the dataset on which operate from command line
+    # on the contrary, I identified the best asset of parameters, so they are fixed
 
-# questo sopra non funzionava ma ho fatto pip install protobuf e ha funzionato
-# dava seguente errore --->
-# ImportError: T5 Converter requires the protobuf library but it was not found in your environment. Checkout the instructions on the installation page of its repo: https://github.com/protocolbuffers/protobuf/tree/master/python#installation and follow the ones that match your environment.
-# Protocol Buffers are Google’s data interchange format
+    # INSTRUCTIONS:
+        # number of arguments =
+        # 0                         - default configuration, do all datasets from n1 included to n23 exluded
+        # False n1,n5...            - not a cycle, but singles dataset n1 and n5
+        # True n1,n5                - a cycle that goes from n2 included and n5 excluded
 
-for data_set_index in range(18, 23):
+    start_index = None
+    end_index = None
+    data_set_list = []
 
-    tic0 = time.perf_counter()
+    if len(sys.argv)-1 == 0:
+        start_index = 1
+        end_index = 23
+    elif sys.argv[1] != "True" and sys.argv[1] != "False":
+        help_message()
+        return
+    else:
+        if sys.argv[1] == "True":
+            if len(sys.argv)-2 != 2:
+                help_message()
+                return
+            else:
+                start_index = int(sys.argv[2])
+                end_index = int(sys.argv[3])
+        elif sys.argv[1] == "False":
+            if len(sys.argv)-2 == 0:
+                help_message()
+                return
+            else:
+                # name false 1 5 3
+                data_set_list = []
+                for i in range(2, len(sys.argv)):
+                    data_set_list.append(int(sys.argv[i]))
 
-    my_file = open("../data_sets/data_set_" + str(data_set_index) + ".txt", "r")
-    phrases = my_file.read().splitlines()
-    # phrases = ["As a Public User, I want to Search for Information, so that I can obtain publicly available information concerning properties, County services, processes and other general information."]
+    warnings.filterwarnings("ignore")
 
-    # Perform the paraphrasing using the parrot.augment() function
-    # that takes in as input argument the phrase being iterated.
-    # Generated paraphrases are assigned to the para_phrases variable.
+    # uncomment to get reproducable paraphrase generations
+    # In order to allow reproducibility of the text paraphrasing, the random seed number will be set.
+    # What this does is produce the same results for the same seed number (even if it is re-run multiple times).
+    def random_state(seed):
+        torch.manual_seed(seed)
+        if torch.cuda.is_available():
+            torch.cuda.manual_seed_all(seed)
 
-    use_gpu_array = [False]
-    diversity_ranker_array = ["levenshtein"]
-    do_diverse_array = [True]
-    max_return_phrases_array = [15]
-    max_length_array = [32]
-    adequacy_threshold_array = [0.50]
-    fluency_threshold_array = [0.1]
+    random_state(1234)
 
-    dir = "../results/data_set_" + str(data_set_index)
-    if not os.path.exists(dir):
-        os.makedirs(dir)
+    tic1 = time.perf_counter()
 
-    file_index = 1
+    # Init models (make sure you init ONLY once if you integrate this to your code)
+    # this was not working but I did pip install protobuf and it worked
+    # it was giving this error --->
+    # ImportError: T5 Converter requires the protobuf library but it was not found in your environment.
+    # Checkout the instructions on the installation page of its repo:
+    # https://github.com/protocolbuffers/protobuf/tree/master/python#installation
+    # and follow the ones that match your environment.
+    # Protocol Buffers are Google’s data interchange format
+    parrot = Parrot(model_tag="prithivida/parrot_paraphraser_on_T5")
 
-    for a in use_gpu_array:
-        for x in diversity_ranker_array:
-            for y in do_diverse_array:
-                for z in max_return_phrases_array:
-                    for w in max_length_array:
-                        for i in adequacy_threshold_array:
-                            for j in fluency_threshold_array:
-                                tic2 = time.perf_counter()
+    toc1 = time.perf_counter()
 
-                                # examples
-                                # results/data_set_1_second/results_1.txt
-                                # results/data_set_1_second/results_2.txt
-                                f = open(dir + "/" + "results_" + str(file_index) + ".txt", "w")
-                                file_index = file_index + 1
-                                f.write("use_gpu = " + str(a) + "\n")
-                                f.write("diversity_ranker = " + x + "\n")
-                                f.write("do_diverse = " + str(y) + "\n")
-                                f.write("max_return_phrases = " + str(z) + "\n")
-                                f.write("max_length = " + str(w) + "\n")
-                                f.write("adequacy_threshold = " + str(i) + "\n")
-                                f.write("fluency_threshold = " + str(j) + "\n")
-                                f.write("\n")
-                                phrase_index = 1
-                                for phrase in phrases:
-                                    f.write("-"*100)
+    print(f"Downloaded the parrot_paraphraser_on_T5 in {toc1 - tic1:0.4f} seconds")
+
+    data_set_index_list = []
+    if start_index is not None and end_index is not None:
+        data_set_index_list = range(start_index, end_index)
+        print("doing data_sets from " + str(start_index) + " included to " + str(end_index) + " excluded")
+    elif data_set_list is not None:
+        data_set_index_list = data_set_list
+        print("doing data_sets:")
+        print(data_set_index_list)
+    else:
+        help_message()
+        return
+
+    for data_set_index in data_set_index_list:
+
+        tic0 = time.perf_counter()
+
+        my_file = open("../data_sets/data_set_" + str(data_set_index) + ".txt", "r")
+        phrases = my_file.read().splitlines()
+        # phrases = ["As a Public User, I want to Search for Information, so that I can obtain publicly available
+        # information concerning properties, County services, processes and other general information."]
+
+        # Perform the paraphrasing using the parrot.augment() function
+        # that takes in as input argument the phrase being iterated.
+        # Generated paraphrases are assigned to the para_phrases variable.
+
+        # this was to have different configurations of values
+        # for each configuration you have a different file (file_index)
+        # at the beginning of the file you have the configuration
+        # at the end the time for that particular file
+        # at the end of the last file you also have the total time (for all files together)
+        # but we identified the best configuration which is the following
+        # so if we execute the script with these values (and this is what we do)
+        # we end up having only one file (result_1 with file_index=1) at the end of which we have single and total time
+        use_gpu_array = [False]
+        diversity_ranker_array = ["levenshtein"]
+        do_diverse_array = [True]
+        max_return_phrases_array = [15]
+        max_length_array = [32]
+        adequacy_threshold_array = [0.50]
+        fluency_threshold_array = [0.1]
+
+        dir = "../results/data_set_" + str(data_set_index)
+        if not os.path.exists(dir):
+            os.makedirs(dir)
+
+        file_index = 1
+
+        for a in use_gpu_array:
+            for x in diversity_ranker_array:
+                for y in do_diverse_array:
+                    for z in max_return_phrases_array:
+                        for w in max_length_array:
+                            for i in adequacy_threshold_array:
+                                for j in fluency_threshold_array:
+                                    tic2 = time.perf_counter()
+
+                                    # examples
+                                    # results/data_set_1_second/results_1.txt
+                                    # results/data_set_1_second/results_2.txt
+                                    f = open(dir + "/" + "results_" + str(file_index) + ".txt", "w")
+                                    file_index = file_index + 1
+                                    f.write("use_gpu = " + str(a) + "\n")
+                                    f.write("diversity_ranker = " + x + "\n")
+                                    f.write("do_diverse = " + str(y) + "\n")
+                                    f.write("max_return_phrases = " + str(z) + "\n")
+                                    f.write("max_length = " + str(w) + "\n")
+                                    f.write("adequacy_threshold = " + str(i) + "\n")
+                                    f.write("fluency_threshold = " + str(j) + "\n")
                                     f.write("\n")
-                                    f.write(str(phrase_index) + ") ")
-                                    phrase_index = phrase_index + 1
-                                    f.write("Input_phrase: " + phrase)
+                                    phrase_index = 1
+                                    for phrase in phrases:
+                                        f.write("-"*100)
+                                        f.write("\n")
+                                        f.write(str(phrase_index) + ") ")
+                                        phrase_index = phrase_index + 1
+                                        f.write("Input_phrase: " + phrase)
+                                        f.write("\n")
+                                        f.write("-"*100)
+                                        f.write("\n")
+
+                                        tic3 = time.perf_counter()
+                                        para_phrases = parrot.augment(input_phrase=phrase,
+                                                                      use_gpu=a,
+                                                                      diversity_ranker=x,
+                                                                      do_diverse=y,
+                                                                      max_return_phrases=z,
+                                                                      max_length=w,
+                                                                      adequacy_threshold=i,
+                                                                      fluency_threshold=j)
+                                        toc3 = time.perf_counter()
+                                        print(f"Time for the augment function:  {toc3 - tic3:0.4f} seconds")
+
+                                        # it was giving problems iterating on an empty list
+                                        # if it given no paraphrases the list is empty
+                                        # empty list = None = False
+                                        if not para_phrases:
+                                            para_phrases = ["None"]
+
+                                        for para_phrase in para_phrases:
+                                            f.write(str(para_phrase) + "\n")
+
+                                        toc2 = time.perf_counter()
                                     f.write("\n")
-                                    f.write("-"*100)
+                                    f.write(f"Got the paraphrases in {toc2 - tic2:0.4f} seconds")  # single file
                                     f.write("\n")
 
-                                    tic3 = time.perf_counter()
-                                    para_phrases = parrot.augment(input_phrase=phrase,
-                                                                  use_gpu=a,
-                                                                  diversity_ranker=x,
-                                                                  do_diverse=y,
-                                                                  max_return_phrases=z,
-                                                                  max_length=w,
-                                                                  adequacy_threshold=i,
-                                                                  fluency_threshold=j)
-                                    toc3 = time.perf_counter()
-                                    print(f"Time for the augment function:  {toc3 - tic3:0.4f} seconds")
+        toc0 = time.perf_counter()
+        # Total time = 13401.5691 seconds = 3.7226 hours
+        f = open(dir + "/" + "results_" + str(file_index - 1) + ".txt", "a")
+        f.write("\n")
+        f.write(f"Total time = {toc0 - tic0:0.4f} seconds = {((toc0 - tic0)/60/60):0.4f} hours")  # all files of dataset
 
-                                    if not para_phrases:  # in realtà se non c'erano parafrasi para_phrases non è lista vuota (che vale false) (non ci sarebbero problemi a iterare su lista vuota), ma è None, ma anche None vale false !!!
-                                        para_phrases = ["None"]
 
-                                    for para_phrase in para_phrases:
-                                        f.write(str(para_phrase) + "\n")
-
-                                    toc2 = time.perf_counter()
-                                f.write("\n")
-                                f.write(f"Got the paraphrases in {toc2 - tic2:0.4f} seconds") # singolo file
-                                f.write("\n")
-
-    toc0 = time.perf_counter()
-    # Total time = 13401.5691 seconds = 3.7226 hours
-    f = open(dir + "/" + "results_" + str(file_index - 1) + ".txt", "a")
-    f.write("\n")
-    f.write(f"Total time = {toc0 - tic0:0.4f} seconds = {((toc0 - tic0)/60/60):0.4f} hours") # tutti i file relativi a un dataset
+if __name__ == '__main__':
+    parrot_test_func()
 
 '''
 a good paraphrase should be adequate and fluent while being as different as possible on the surface lexical form. With respect to this definition, the 3 key metrics that measures the quality of paraphrases are:
