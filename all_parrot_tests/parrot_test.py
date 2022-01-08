@@ -200,7 +200,7 @@ def parrot_test_func():
         toc0 = time.perf_counter()
         f = open(dir + "/" + "results_" + str(file_index - 1) + ".txt", "a")
         f.write("\n")
-        f.write(f"Total time = {toc0 - tic0:0.4f} seconds = {(toc0 - tic0) / 60:0.4f} "
+        f.write(f"Total time = {toc0 - tic0:0.4f} seconds = {(toc0 - tic0) / 60:0.4f} " 
                 f"minutes = {((toc0 - tic0) / 60 / 60):0.4f} hours") # all files of dataset
 
 

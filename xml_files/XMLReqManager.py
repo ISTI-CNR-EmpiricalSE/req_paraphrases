@@ -44,9 +44,10 @@ class XMLReqManager:
 
         """
         try:
-            if len(self.__reqs) == 0:
+            if len(self.__reqs) == 0 or self.__reqs is None:
                 doc = xml.dom.minidom.parse(self.__req_file_name)
                 reqs = doc.getElementsByTagName(REQ_TAG)
+                # reqs = doc.getElementsByTagName(BODY_TAG)
                 reqs_text = list()
                 for req in reqs:
                     req_id = req.getAttribute(ID_TAG)
@@ -54,7 +55,7 @@ class XMLReqManager:
                     self.__get_text(req, text)
                     req_item = [req_id, text]
                     reqs_text.append(req_item)
-                self.__reqs = reqs_text
+                self.__reqs = reqs
 
             return self.__reqs
         except IOError:
@@ -174,12 +175,15 @@ class XMLReqManager:
 
         output_f.close()
 
+
 # x = XMLReqManager('req_document.xsd', '../2007 - eirene fun 7.xml')
-# t = x.create_requirements_file('2007 eirene fun 7 - INPUT.txt', 'content_pos')
+x = XMLReqManager('req_document.xsd', '2006 - eirene sys 15.xml')
+print(x.get_requirements())
+# x.create_requirements_file('2007 eirene fun 7 - INPUT.txt', 'content_pos')
 # print(x.get_line_id_map())
 # strings = x.get_requirement_text_by_line(205)
-# print (''.join(s for string in strings for s in string).lstrip())
+# print(''.join(s for string in strings for s in string).lstrip())
 
-x = XMLReqManager('xml_files/req_document.xsd', 'xml_files/2006 - eirene sys 15.xml')
-t = x.create_requirements_file('2006 - eirene sys 15 - INPUT.txt', 'content_pos')
+# x = XMLReqManager('xml_files/req_document.xsd', 'xml_files/2006 - eirene sys 15.xml')
+# t = x.create_requirements_file('2006 - eirene sys 15 - INPUT.txt', 'content_pos')
 
