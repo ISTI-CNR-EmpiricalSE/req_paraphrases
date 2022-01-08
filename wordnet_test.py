@@ -8,6 +8,11 @@ from nltk.corpus import stopwords
 
 
 def wordnet_test_func():
+    """Function that replaces the non stop words found in each sentence with the synonyms found with worndet
+        Produce an output file that is put inside the directory results, inside the directory of the relative dataset
+        Format of the input file: results_file_index.txt (which was the output of parrot_test_func)
+        Format of the output file: results_data_set_index_wordnet.txt
+    """
 
     stpwrd = nltk.corpus.stopwords.words('english')
     new_stopwords = ["an", "ss", "I", "to", "in", "so", "that", "and"]
@@ -19,13 +24,13 @@ def wordnet_test_func():
 
     tic0 = time.perf_counter()  # time for all datasets
 
-    for data_set_index in range(1, 23):
+    for data_set_index in range(1, 24):
         tic1 = time.perf_counter()  # time for the single dataset
         input_file = open("data_sets/data_set_" + str(data_set_index) + ".txt", "r")
-        # input_file = open("data_sets/plain-PROMISE.txt", "r")
+        # input_file = open("data_sets/data_set_23.txt", "r")
         output_file = open("results/data_set_" + str(data_set_index) + "/results_" + str(data_set_index) +
-                           "_wordnet.txt", "w" )
-        # output_file = open("results/plain-PROMISE/results_plain-PROMISE_wordnet.txt","w")
+                           "_wordnet.txt", "w")
+        # output_file = open("results/data_set_23/results_23_wordnet.txt","w")
         output_file.write("data_set_number:" + str(data_set_index) + "\n")
         output_file.write("\n")
         phrases = input_file.read().splitlines()

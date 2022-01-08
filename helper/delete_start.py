@@ -1,8 +1,19 @@
 import os
 
 
-# delete start from plain-PROMISE
+# plain-PROMISE_clean was called data_set_23 and put with other dataset
 def delete_start_func():
+    """Function to clean the plain-PROMISE file
+
+        The plain-PROMISE file has, at the beginning of each line, some stuff before colons and sometimes an unnecessary
+        space after the colons, this function manage to remove the everything before the colons, the colons and, if it
+        is found, also the space after the colons, producing a clean file
+        Format of the input file: plain-PROMISE_dirty.txt
+        Format of the output file: plain-PROMISE_clean.txt
+        .. note::
+            plain-PROMISE_clean was called data_set_23 and put with other dataset, plain-PROMISE_dirty deleted
+
+    """
 
     f1 = open("plain-PROMISE_dirty.txt", "r")
     f2 = open("plain-PROMISE_clean.txt", "w")

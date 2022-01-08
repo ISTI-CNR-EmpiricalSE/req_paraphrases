@@ -15,10 +15,10 @@ def parrot_test_func():
     # on the contrary, I identified the best asset of parameters, so they are fixed
 
     # INSTRUCTIONS:
-        # number of arguments =
-        # 0                         - default configuration, do all datasets from n1 included to n23 exluded
-        # False n1,n5...            - not a cycle, but singles dataset n1 and n5
-        # True n1,n5                - a cycle that goes from n2 included and n5 excluded
+    # number of arguments =
+    # 0                         - default configuration, do all datasets from n1 included to n23 exluded
+    # False n1,n5...            - not a cycle, but singles dataset n1 and n5
+    # True n1,n5                - a cycle that goes from n2 included and n5 excluded
 
     start_index = None
     end_index = None
@@ -26,7 +26,7 @@ def parrot_test_func():
 
     if len(sys.argv)-1 == 0:
         start_index = 1
-        end_index = 23
+        end_index = 24
     elif sys.argv[1] != "True" and sys.argv[1] != "False":
         help_message()
         return
@@ -55,7 +55,7 @@ def parrot_test_func():
     elif data_set_list is not None:
         data_set_index_list = data_set_list
         print("doing data_sets")
-        print(data_set_list)
+        print(data_set_index_list)
     else:
         help_message()
         return

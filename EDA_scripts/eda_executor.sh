@@ -17,5 +17,4 @@ cd ../eda_nlp-master/data
 i=20
 python code/augment.py --input=../../results/data_set_${i}/results_${i}_EDA_input.txt --output=../../results/data_set_${i}/EDA_outputs_7/results_${i}_EDA_output_0.1_0_0_0.txt --alpha_sr=0.1 --alpha_rd=0 --alpha_ri=0 --alpha_rs=0
 
-python code/augment.py --input=../../results/plain-PROMISE/results_plain-PROMISE_EDA_input.txt --output=../../results/plain-PROMISE/EDA_outputs/results_plain-PROMISE_EDA_output_9_0.1_0_0_0.txt --alpha_sr=0.1 --alpha_rd=0 --alpha_ri=0 --alpha_rs=0
 

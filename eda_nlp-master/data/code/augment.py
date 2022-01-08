@@ -54,6 +54,22 @@ if alpha_sr == alpha_ri == alpha_rs == alpha_rd == 0:
 
 #generate more data with standard augmentation
 def gen_eda(train_orig, output_file, alpha_sr, alpha_ri, alpha_rs, alpha_rd, num_aug=9):
+    """Function that generate more data with standard augmentation, substituting words with synonyms using Wordnet
+        and also using other tricks like randomly swapping or deleting words
+        but in our case we only use the substitution of synonym (setting sr to 0.1 and the others to 0)
+        Produces an output file that is put inside the directory results, inside the directory of the relative dataset,
+        inside the directory EDA_outputs
+        Format of the input file: results_data_set_index_EDA_input.txt (which was the output of eda_format_func)
+        Format of the output file: results_data_set_index_EDA_output_num_aug_alpha_sr_alpha_ri_alpha_rs_alpha_rd.txt
+
+        :param file_path train_orig: path to the input file
+        :param file_path output_file: path to the output file
+        :param float alpha_sr: percentage of words substituted with synonyms, default to 0.1
+        :param float alpha_ri: percentage of words randomly inserted, default to 0.1
+        :param float alpha_rs: percentage of words randomly swapped, default to 0.1
+        :param float alpha_rd: percentage of words randomly deleted, default to 0.1
+        :param integer num_aug: number of produced sentences, default to 9
+    """
 
     writer = open(output_file, 'w')
     lines = open(train_orig, 'r').readlines()

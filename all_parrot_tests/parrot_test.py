@@ -8,6 +8,9 @@ import warnings
 
 
 def help_message():
+    """Function that prints the help message on the standard output
+        It is printed every time you insert on command line something incorrect
+    """
     print("You have to choose between one of these three assets:")
     print("number of arguments =")
     print("0                        - default configuration, do all datasets from n1 included to n23 exluded")
@@ -16,15 +19,21 @@ def help_message():
 
 
 def parrot_test_func():
+    """Function that executes Parrot augment function on the datasets accordingly to command line arguments
+        It produces the relative output files putting them in the directory results,
+        inside the directory of the relative dataset
+        Format of the input file: data_set_index.txt
+        Format of the output file: results_file_index.txt
+    """
 
     # I want to have the possibility to insert the dataset on which operate from command line
     # on the contrary, I identified the best asset of parameters, so they are fixed
 
     # INSTRUCTIONS:
-        # number of arguments =
-        # 0                         - default configuration, do all datasets from n1 included to n23 exluded
-        # False n1,n5...            - not a cycle, but singles dataset n1 and n5
-        # True n1,n5                - a cycle that goes from n2 included and n5 excluded
+    # number of arguments =
+    # 0                         - default configuration, do all datasets from n1 included to n23 exluded
+    # False n1,n5...            - not a cycle, but singles dataset n1 and n5
+    # True n1,n5                - a cycle that goes from n2 included and n5 excluded
 
     start_index = None
     end_index = None
@@ -32,7 +41,7 @@ def parrot_test_func():
 
     if len(sys.argv)-1 == 0:
         start_index = 1
-        end_index = 23
+        end_index = 24
     elif sys.argv[1] != "True" and sys.argv[1] != "False":
         help_message()
         return
@@ -189,10 +198,10 @@ def parrot_test_func():
                                     f.write("\n")
 
         toc0 = time.perf_counter()
-        # Total time = 13401.5691 seconds = 3.7226 hours
         f = open(dir + "/" + "results_" + str(file_index - 1) + ".txt", "a")
         f.write("\n")
-        f.write(f"Total time = {toc0 - tic0:0.4f} seconds = {((toc0 - tic0)/60/60):0.4f} hours")  # all files of dataset
+        f.write(f"Total time = {toc0 - tic0:0.4f} seconds = {(toc0 - tic0) / 60:0.4f} "
+                f"minutes = {((toc0 - tic0) / 60 / 60):0.4f} hours") # all files of dataset
 
 
 if __name__ == '__main__':
