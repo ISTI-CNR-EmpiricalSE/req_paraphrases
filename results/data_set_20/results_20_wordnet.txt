@@ -1,703 +1,703 @@
 data_set_number:20
 
-Input phrase:As an archivist, I want to apply a license or rights statement, so that I know what I can do with a file.
-As an archivist, I desire to use a license or right argument, so that I acknowledge what I can do with a file.
-As an archivist, I want to put_on a license or right_field affirmation, so that I sleep_together what I can do with a file.
+Input phrase: As an archivist, I want to apply a license or rights statement, so that I know what I can do with a file.
+As an archivist, I desire to use a license or right_field argument, so that I acknowledge what I can do with a file.
+As an archivist, I want to put_on a license or rights affirmation, so that I sleep_together what I can do with a file.
 As an archivist, I want to lend_oneself a license or rights instruction, so that I know what I can do with a file.
 As an archivist, I want to give a license or rights statement, so that I know what I can do with a file.
 As an archivist, I want to practice a license or rights statement, so that I know what I can do with a file.
 
-Input phrase:As an archivist, I want to mark individual files as restricted, so that they don't get shared by mistake.
-As an archivist, I desire to tag individual file as restrict, so that they don't become share by error.
+Input phrase: As an archivist, I want to mark individual files as restricted, so that they don't get shared by mistake.
+As an archivist, I desire to tag individual files as restrict, so that they don't become share by error.
 As an archivist, I want to distinguish individual files as qualify, so that they don't receive partake by mistake.
 As an archivist, I want to commemorate individual files as restricted, so that they don't arrive shared by mistake.
 As an archivist, I want to stigmatize individual files as restricted, so that they don't bring shared by mistake.
 As an archivist, I want to notice individual files as restricted, so that they don't experience shared by mistake.
 
-Input phrase:As an archivist, I want to mark groups of files as restricted, so that they don't get shared by mistake.
-As an archivist, I desire to tag group of file as restrict, so that they don't become share by error.
+Input phrase: As an archivist, I want to mark groups of files as restricted, so that they don't get shared by mistake.
+As an archivist, I desire to tag groups of files as restrict, so that they don't become share by error.
 As an archivist, I want to distinguish groups of files as qualify, so that they don't receive partake by mistake.
 As an archivist, I want to commemorate groups of files as restricted, so that they don't arrive shared by mistake.
 As an archivist, I want to stigmatize groups of files as restricted, so that they don't bring shared by mistake.
 As an archivist, I want to notice groups of files as restricted, so that they don't experience shared by mistake.
 
-Input phrase:As an archivist, I want to restrict a file from view.
+Input phrase: As an archivist, I want to restrict a file from view.
 As an archivist, I desire to qualify a file from position.
 As an archivist, I want to restrict a file from opinion.
 As an archivist, I want to restrict a file from scene.
 As an archivist, I want to restrict a file from horizon.
 As an archivist, I want to restrict a file from view.
 
-Input phrase:As an archivist, I want to restrict a group of files from view.
-As an archivist, I desire to qualify a group of file from position.
+Input phrase: As an archivist, I want to restrict a group of files from view.
+As an archivist, I desire to qualify a group of files from position.
 As an archivist, I want to restrict a group of files from opinion.
 As an archivist, I want to restrict a group of files from scene.
 As an archivist, I want to restrict a group of files from horizon.
 As an archivist, I want to restrict a group of files from view.
 
-Input phrase:As an archivist, I want to set a date on which restrictions will be removed from a file, so that that I don't have to update this by hand.
-As an archivist, I desire to put a date on which restriction will be remove from a file, so that that I don't have to update this by hired_hand.
-As an archivist, I want to determine a date on which limitation will be get_rid_of from a file, so that that I don't have to update this by handwriting.
+Input phrase: As an archivist, I want to set a date on which restrictions will be removed from a file, so that that I don't have to update this by hand.
+As an archivist, I desire to put a date on which limitation will be remove from a file, so that that I don't have to update this by hired_hand.
+As an archivist, I want to determine a date on which restrictions will be get_rid_of from a file, so that that I don't have to update this by handwriting.
 As an archivist, I want to specify a date on which restrictions will be take_out from a file, so that that I don't have to update this by bridge_player.
 As an archivist, I want to fix a date on which restrictions will be absent from a file, so that that I don't have to update this by hand.
 As an archivist, I want to arrange a date on which restrictions will be murder from a file, so that that I don't have to update this by hand.
 
-Input phrase:As an archivist, I want to add restriction end date information to files, so that I can share files when they become open.
-As an archivist, I desire to lgoal limitation goal date data to file, so that I can partake file when they become exposed.
+Input phrase: As an archivist, I want to add restriction end date information to files, so that I can share files when they become open.
+As an archivist, I desire to lgoal limitation goal date data to files, so that I can partake files when they become exposed.
 As an archivist, I want to total restriction conclusion date information to files, so that I can share files when they become assailable.
 As an archivist, I want to add restriction end date information to files, so that I can share files when they become loose.
 As an archivist, I want to add restriction end date information to files, so that I can share files when they become receptive.
 As an archivist, I want to add restriction end date information to files, so that I can share files when they become overt.
 
-Input phrase:As an archivist, I want to add detailed restrictions to groups of files, so that I know if and how they can be shared.
-As an archivist, I desire to lend detailed restriction to group of file, so that I acknowledge if and how they can be share.
-As an archivist, I want to total detailed limitation to groups of files, so that I sleep_together if and how they can be partake.
+Input phrase: As an archivist, I want to add detailed restrictions to groups of files, so that I know if and how they can be shared.
+As an archivist, I desire to lend detailed limitation to groups of files, so that I acknowledge if and how they can be share.
+As an archivist, I want to total detailed restrictions to groups of files, so that I sleep_together if and how they can be partake.
 As an archivist, I want to add detailed restrictions to groups of files, so that I know if and how they can be shared.
 As an archivist, I want to add detailed restrictions to groups of files, so that I know if and how they can be shared.
 As an archivist, I want to add detailed restrictions to groups of files, so that I know if and how they can be shared.
 
-Input phrase:As an archivist, I want to restrict access to some files by IP address, so that I can give reading room access only to certain digital files.
-As an archivist, I desire to qualify entree to some file by information_science savoir-faire, so that I can yield interpretation room entree only to sealed digital file.
+Input phrase: As an archivist, I want to restrict access to some files by IP address, so that I can give reading room access only to certain digital files.
+As an archivist, I desire to qualify entree to some files by information_science savoir-faire, so that I can yield interpretation room entree only to sealed digital files.
 As an archivist, I want to restrict access to some files by IP address, so that I can hold recitation room access only to certain digital files.
 As an archivist, I want to restrict access to some files by IP address, so that I can render reading room access only to certain digital files.
 As an archivist, I want to restrict access to some files by IP address, so that I can impart reading room access only to certain digital files.
 As an archivist, I want to restrict access to some files by IP address, so that I can establish reading room access only to certain digital files.
 
-Input phrase:As an archivist, I want to restrict access to certain files by user, so that I can allow donor representatives to see certain files.
-As an archivist, I desire to qualify entree to sealed file by exploiter, so that I can let donor representative to understand sealed file.
-As an archivist, I want to restrict access to certain files by drug_user, so that I can permit donor spokesperson to witness certain files.
-As an archivist, I want to restrict access to certain files by user, so that I can leave donor congressman to visualize certain files.
-As an archivist, I want to restrict access to certain files by user, so that I can admit donor example to learn certain files.
+Input phrase: As an archivist, I want to restrict access to certain files by user, so that I can allow donor representatives to see certain files.
+As an archivist, I desire to qualify entree to sealed files by exploiter, so that I can let donor spokesperson to understand sealed files.
+As an archivist, I want to restrict access to certain files by drug_user, so that I can permit donor congressman to witness certain files.
+As an archivist, I want to restrict access to certain files by user, so that I can leave donor example to visualize certain files.
+As an archivist, I want to restrict access to certain files by user, so that I can admit donor representatives to learn certain files.
 As an archivist, I want to restrict access to certain files by user, so that I can give_up donor representatives to watch certain files.
 
-Input phrase:As an archivist, I want to know if a photo has already been scanned, so that I can license it to a researcher.
+Input phrase: As an archivist, I want to know if a photo has already been scanned, so that I can license it to a researcher.
 As an archivist, I desire to acknowledge if a photograph has already been scan, so that I can license it to a research_worker.
 As an archivist, I want to sleep_together if a photo has already been read, so that I can license it to a researcher.
 As an archivist, I want to know if a photo has already been scanned, so that I can license it to a researcher.
 As an archivist, I want to know if a photo has already been scanned, so that I can license it to a researcher.
 As an archivist, I want to know if a photo has already been scanned, so that I can license it to a researcher.
 
-Input phrase:As an archivist, I want to select existing rights statuses and statements, so that I can easily create uniform rights statements.
-As an archivist, I desire to choose exist right status and statement, so that I can well make consistent right statement.
-As an archivist, I want to select existing right_field condition and argument, so that I can easily produce undifferentiated right_field argument.
-As an archivist, I want to select existing rights statuses and affirmation, so that I can easily create uniform rights affirmation.
+Input phrase: As an archivist, I want to select existing rights statuses and statements, so that I can easily create uniform rights statements.
+As an archivist, I desire to choose exist right_field status and argument, so that I can well make consistent right_field argument.
+As an archivist, I want to select existing rights condition and affirmation, so that I can easily produce undifferentiated rights affirmation.
 As an archivist, I want to select existing rights statuses and instruction, so that I can easily create uniform rights instruction.
 As an archivist, I want to select existing rights statuses and statements, so that I can easily create uniform rights statements.
+As an archivist, I want to select existing rights statuses and statements, so that I can easily create uniform rights statements.
 
-Input phrase:As an archivist, I want to redact information in digital files for a period of time, so that I can provide access to non-sensitive portions of a record.
-As an archivist, I desire to frame data in digital file for a clock_time_period of clock_time, so that I can supply entree to non-sensible part of a phonograph_record.
+Input phrase: As an archivist, I want to redact information in digital files for a period of time, so that I can provide access to non-sensitive portions of a record.
+As an archivist, I desire to frame data in digital files for a clock_time_period of clock_time, so that I can supply entree to non-sensible part of a phonograph_record.
 As an archivist, I want to edit information in digital files for a menstruation of fourth_dimension, so that I can put_up access to non-sensitive parcel of a criminal_record.
 As an archivist, I want to redact information in digital files for a period of meter, so that I can leave access to non-sensitive share of a record.
 As an archivist, I want to redact information in digital files for a period of prison_term, so that I can provide access to non-sensitive fortune of a record.
 As an archivist, I want to redact information in digital files for a period of time, so that I can provide access to non-sensitive dowry of a record.
 
-Input phrase:As an archivist, I want to have an online form for licensing archival material, so that the process is more transparent and some of the back and forth can be eliminated.
+Input phrase: As an archivist, I want to have an online form for licensing archival material, so that the process is more transparent and some of the back and forth can be eliminated.
 As an archivist, I desire to have an on-line kind for license archival fabric, so that the procedure is more crystalline and some of the rear and away can be extinguish.
 As an archivist, I want to have an online shape for licensing archival material, so that the summons is more diaphanous and some of the spinal_column and forth can be obviate.
 As an archivist, I want to have an online human_body for licensing archival material, so that the process is more guileless and some of the binding and forth can be eliminate.
 As an archivist, I want to have an online phase for licensing archival material, so that the process is more transparent and some of the back and forth can be rule_out.
 As an archivist, I want to have an online class for licensing archival material, so that the process is more transparent and some of the back and forth can be excrete.
 
-Input phrase:As an archivist, I want to batch edit metadata about files.
-As an archivist, I desire to batch edit metadata about file.
+Input phrase: As an archivist, I want to batch edit metadata about files.
+As an archivist, I desire to batch edit metadata about files.
 As an archivist, I want to batch edit metadata about files.
 As an archivist, I want to batch edit metadata about files.
 As an archivist, I want to batch edit metadata about files.
 As an archivist, I want to batch edit metadata about files.
 
-Input phrase:As an archivist, I want to upload a single file.
+Input phrase: As an archivist, I want to upload a single file.
 As an archivist, I desire to upload a individual file.
 As an archivist, I want to upload a unmarried file.
 As an archivist, I want to upload a single file.
 As an archivist, I want to upload a single file.
 As an archivist, I want to upload a single file.
 
-Input phrase:As an archivist, I want to upload groups of files, so that I can save time.
-As an archivist, I desire to upload group of file, so that I can salvage clock_time.
+Input phrase: As an archivist, I want to upload groups of files, so that I can save time.
+As an archivist, I desire to upload groups of files, so that I can salvage clock_time.
 As an archivist, I want to upload groups of files, so that I can deliver fourth_dimension.
 As an archivist, I want to upload groups of files, so that I can spare meter.
 As an archivist, I want to upload groups of files, so that I can keep_open prison_term.
 As an archivist, I want to upload groups of files, so that I can write time.
 
-Input phrase:As an archivist, I want to automatically create access copies of files, so that I don't have to do this manually.
-As an archivist, I desire to mechanically make entree transcript of file, so that I don't have to do this manually.
+Input phrase: As an archivist, I want to automatically create access copies of files, so that I don't have to do this manually.
+As an archivist, I desire to mechanically make entree transcript of files, so that I don't have to do this manually.
 As an archivist, I want to automatically produce access copy of files, so that I don't have to do this manually.
 As an archivist, I want to automatically create access copies of files, so that I don't have to do this manually.
 As an archivist, I want to automatically create access copies of files, so that I don't have to do this manually.
 As an archivist, I want to automatically create access copies of files, so that I don't have to do this manually.
 
-Input phrase:As an archivist, I want to automatically generate technical metadata, so that I know the file size.
+Input phrase: As an archivist, I want to automatically generate technical metadata, so that I know the file size.
 As an archivist, I desire to mechanically render technical metadata, so that I acknowledge the file size.
 As an archivist, I want to automatically beget technical metadata, so that I sleep_together the file size.
 As an archivist, I want to automatically generate technical metadata, so that I know the file size.
 As an archivist, I want to automatically generate technical metadata, so that I know the file size.
 As an archivist, I want to automatically generate technical metadata, so that I know the file size.
 
-Input phrase:As an assistant archivist, I want to upload and tag staff generated working papers, so that staff and researchers are able to easily access them.
+Input phrase: As an assistant archivist, I want to upload and tag staff generated working papers, so that staff and researchers are able to easily access them.
 As an adjunct archivist, I desire to upload and rag staff generate work document, so that staff and research_worker are able to well access them.
-As an assistant archivist, I want to upload and tag staff render function paper, so that staff and researchers are able to easily access them.
-As an assistant archivist, I want to upload and tag staff beget exercise composition, so that staff and researchers are able to easily access them.
-As an assistant archivist, I want to upload and tag staff generated make newspaper, so that staff and researchers are able to easily access them.
+As an assistant archivist, I want to upload and tag staff render function composition, so that staff and researchers are able to easily access them.
+As an assistant archivist, I want to upload and tag staff beget exercise newspaper, so that staff and researchers are able to easily access them.
+As an assistant archivist, I want to upload and tag staff generated make papers, so that staff and researchers are able to easily access them.
 As an assistant archivist, I want to upload and tag staff generated bring papers, so that staff and researchers are able to easily access them.
 
-Input phrase:As an archivist, I want to distinguish between digital objects digitized to preservation standards and those created for access purposes only, so that I know whether I should apply preservation actions.
-As an archivist, I desire to spot between digital object digitize to conservation standard and those make for entree purpose only, so that I acknowledge whether I should use conservation action.
-As an archivist, I want to signalize between digital aim digitized to preservation criterion and those create for access function only, so that I sleep_together whether I should put_on preservation military_action.
-As an archivist, I want to identify between digital objects digitized to preservation standards and those produce for access determination only, so that I know whether I should lend_oneself preservation natural_process.
-As an archivist, I want to distinguish between digital objects digitized to preservation standards and those created for access purposes only, so that I know whether I should give preservation legal_action.
+Input phrase: As an archivist, I want to distinguish between digital objects digitized to preservation standards and those created for access purposes only, so that I know whether I should apply preservation actions.
+As an archivist, I desire to spot between digital aim digitize to conservation criterion and those make for entree function only, so that I acknowledge whether I should use conservation military_action.
+As an archivist, I want to signalize between digital objects digitized to preservation standards and those create for access determination only, so that I sleep_together whether I should put_on preservation natural_process.
+As an archivist, I want to identify between digital objects digitized to preservation standards and those produce for access purposes only, so that I know whether I should lend_oneself preservation legal_action.
+As an archivist, I want to distinguish between digital objects digitized to preservation standards and those created for access purposes only, so that I know whether I should give preservation actions.
 As an archivist, I want to distinguish between digital objects digitized to preservation standards and those created for access purposes only, so that I know whether I should practice preservation actions.
 
-Input phrase:As an archivist, I want to link electronic versions of researchers' publications to citations, so that I can share them with other researchers.
-As an archivist, I desire to associate electronic version of research_worker' publication to citation, so that I can partake them with other research_worker.
-As an archivist, I want to connect electronic adaptation of researchers' issue to quotation, so that I can share them with other researchers.
-As an archivist, I want to yoke electronic translation of researchers' publications to citations, so that I can share them with other researchers.
-As an archivist, I want to link electronic interpretation of researchers' publications to citations, so that I can share them with other researchers.
+Input phrase: As an archivist, I want to link electronic versions of researchers' publications to citations, so that I can share them with other researchers.
+As an archivist, I desire to associate electronic adaptation of research_worker' issue to quotation, so that I can partake them with other research_worker.
+As an archivist, I want to connect electronic translation of researchers' publications to citations, so that I can share them with other researchers.
+As an archivist, I want to yoke electronic interpretation of researchers' publications to citations, so that I can share them with other researchers.
+As an archivist, I want to link electronic versions of researchers' publications to citations, so that I can share them with other researchers.
 As an archivist, I want to link electronic versions of researchers' publications to citations, so that I can share them with other researchers.
 
-Input phrase:As an archivist, I want to upload scans of images created while answering research requests, so that they can be used again for other research requests.
-As an archivist, I desire to upload scan of image make while answer inquiry request, so that they can be use again for other inquiry request.
-As an archivist, I want to upload scans of persona create while suffice research requests, so that they can be practice again for other research requests.
-As an archivist, I want to upload scans of picture produce while answering research requests, so that they can be used again for other research requests.
-As an archivist, I want to upload scans of prototype created while answering research requests, so that they can be used again for other research requests.
+Input phrase: As an archivist, I want to upload scans of images created while answering research requests, so that they can be used again for other research requests.
+As an archivist, I desire to upload scans of persona make while answer inquiry requests, so that they can be use again for other inquiry requests.
+As an archivist, I want to upload scans of picture create while suffice research requests, so that they can be practice again for other research requests.
+As an archivist, I want to upload scans of prototype produce while answering research requests, so that they can be used again for other research requests.
 As an archivist, I want to upload scans of trope created while answering research requests, so that they can be used again for other research requests.
+As an archivist, I want to upload scans of double created while answering research requests, so that they can be used again for other research requests.
 
-Input phrase:As an archivist, I want to create quality scans of images and documents, so that they can be reused.
-As an archivist, I desire to make timbre scan of image and document, so that they can be recycle.
-As an archivist, I want to produce quality scans of persona and text_file, so that they can be reused.
-As an archivist, I want to create quality scans of picture and documents, so that they can be reused.
+Input phrase: As an archivist, I want to create quality scans of images and documents, so that they can be reused.
+As an archivist, I desire to make timbre scans of persona and text_file, so that they can be recycle.
+As an archivist, I want to produce quality scans of picture and documents, so that they can be reused.
 As an archivist, I want to create quality scans of prototype and documents, so that they can be reused.
 As an archivist, I want to create quality scans of trope and documents, so that they can be reused.
+As an archivist, I want to create quality scans of double and documents, so that they can be reused.
 
-Input phrase:As an archivist, I want to automatically create access derivatives of digital objects, so that I don't have to do this manually.
-As an archivist, I desire to mechanically make entree derived_function of digital object, so that I don't have to do this manually.
-As an archivist, I want to automatically produce access derivative of digital aim, so that I don't have to do this manually.
-As an archivist, I want to automatically create access derivative_instrument of digital objects, so that I don't have to do this manually.
+Input phrase: As an archivist, I want to automatically create access derivatives of digital objects, so that I don't have to do this manually.
+As an archivist, I desire to mechanically make entree derived_function of digital aim, so that I don't have to do this manually.
+As an archivist, I want to automatically produce access derivative_instrument of digital objects, so that I don't have to do this manually.
 As an archivist, I want to automatically create access derivatives of digital objects, so that I don't have to do this manually.
 As an archivist, I want to automatically create access derivatives of digital objects, so that I don't have to do this manually.
+As an archivist, I want to automatically create access derivatives of digital objects, so that I don't have to do this manually.
 
-Input phrase:As an archivist, I want to automatically assign unique identifiers to material I scan, so that I avoid potential errors.
-As an archivist, I desire to mechanically delegate alone identifier to material I read, so that I debar likely mistake.
+Input phrase: As an archivist, I want to automatically assign unique identifiers to material I scan, so that I avoid potential errors.
+As an archivist, I desire to mechanically delegate alone identifiers to material I read, so that I debar likely mistake.
 As an archivist, I want to automatically impute singular identifiers to material I scan, so that I keep_off potential erroneousness.
-As an archivist, I want to automatically put unique identifiers to material I scan, so that I invalidate potential error.
+As an archivist, I want to automatically put unique identifiers to material I scan, so that I invalidate potential errors.
 As an archivist, I want to automatically arrogate unique identifiers to material I scan, so that I avoid potential errors.
 As an archivist, I want to automatically assign unique identifiers to material I scan, so that I avoid potential errors.
 
-Input phrase:As an archivist, I want to automatically embed metadata in file headers, so that I avoid repetitive and easily-forgotten tasks.
+Input phrase: As an archivist, I want to automatically embed metadata in file headers, so that I avoid repetitive and easily-forgotten tasks.
 As an archivist, I desire to mechanically implant metadata in file heading, so that I debar insistent and well-forget undertaking.
-As an archivist, I want to automatically embed metadata in file header, so that I keep_off repetitive and easily-forgotten job.
+As an archivist, I want to automatically embed metadata in file headers, so that I keep_off repetitive and easily-forgotten job.
 As an archivist, I want to automatically embed metadata in file headers, so that I invalidate repetitive and easily-forgotten tasks.
 As an archivist, I want to automatically embed metadata in file headers, so that I avoid repetitive and easily-forgotten tasks.
 As an archivist, I want to automatically embed metadata in file headers, so that I avoid repetitive and easily-forgotten tasks.
 
-Input phrase:As an archivist, I want to rotate images, so that I can orient them correctly.
-As an archivist, I desire to revolve image, so that I can tailor them correctly.
-As an archivist, I want to turn_out persona, so that I can orient them correctly.
-As an archivist, I want to rotate picture, so that I can orient them correctly.
+Input phrase: As an archivist, I want to rotate images, so that I can orient them correctly.
+As an archivist, I desire to revolve persona, so that I can tailor them correctly.
+As an archivist, I want to turn_out picture, so that I can orient them correctly.
 As an archivist, I want to rotate prototype, so that I can orient them correctly.
 As an archivist, I want to rotate trope, so that I can orient them correctly.
+As an archivist, I want to rotate double, so that I can orient them correctly.
 
-Input phrase:As an archivist, I want to apply automatic contrast and level operations to a scanned file, so that I can eliminate unnecessary work.
-As an archivist, I desire to use automatic line and degree operation to a scan file, so that I can extinguish unnecessary employment.
-As an archivist, I want to put_on automatic contrast and grade process to a read file, so that I can obviate unnecessary study.
-As an archivist, I want to lend_oneself automatic contrast and horizontal_surface mathematical_process to a scanned file, so that I can rule_out unnecessary workplace.
+Input phrase: As an archivist, I want to apply automatic contrast and level operations to a scanned file, so that I can eliminate unnecessary work.
+As an archivist, I desire to use automatic line and degree process to a scan file, so that I can extinguish unnecessary employment.
+As an archivist, I want to put_on automatic contrast and grade mathematical_process to a read file, so that I can obviate unnecessary study.
+As an archivist, I want to lend_oneself automatic contrast and horizontal_surface operations to a scanned file, so that I can rule_out unnecessary workplace.
 As an archivist, I want to give automatic contrast and floor operations to a scanned file, so that I can excrete unnecessary oeuvre.
 As an archivist, I want to practice automatic contrast and level operations to a scanned file, so that I can eliminate unnecessary work.
 
-Input phrase:As an archivist, I want to perform contrast, level and other manipulations manually, so that I can improve on results from automated tools.
-As an archivist, I desire to do line, degree and other manipulation manually, so that I can better on consequence from automatize tool.
-As an archivist, I want to perform contrast, grade and other handling manually, so that I can improve on solution from automated instrument.
-As an archivist, I want to perform contrast, horizontal_surface and other manipulations manually, so that I can improve on result from automated creature.
-As an archivist, I want to perform contrast, floor and other manipulations manually, so that I can improve on resultant_role from automated cock.
+Input phrase: As an archivist, I want to perform contrast, level and other manipulations manually, so that I can improve on results from automated tools.
+As an archivist, I desire to do line, degree and other handling manually, so that I can better on consequence from automatize instrument.
+As an archivist, I want to perform contrast, grade and other manipulations manually, so that I can improve on solution from automated creature.
+As an archivist, I want to perform contrast, horizontal_surface and other manipulations manually, so that I can improve on resultant_role from automated cock.
+As an archivist, I want to perform contrast, floor and other manipulations manually, so that I can improve on results from automated tools.
 As an archivist, I want to perform contrast, level and other manipulations manually, so that I can improve on results from automated tools.
 
-Input phrase:As a donor representative, I want to supply incremental accruals to new and existing collections, so that material can be transferred on an ongoing basis.
-As a donor spokesperson, I desire to issue incremental accumulation to fresh and exist collection, so that fabric can be transfer on an ongoing footing.
-As a donor congressman, I want to provide incremental accruals to raw and existing solicitation, so that material can be transplant on an ongoing basis.
+Input phrase: As a donor representative, I want to supply incremental accruals to new and existing collections, so that material can be transferred on an ongoing basis.
+As a donor spokesperson, I desire to issue incremental accumulation to fresh and exist solicitation, so that fabric can be transfer on an ongoing footing.
+As a donor congressman, I want to provide incremental accruals to raw and existing collections, so that material can be transplant on an ongoing basis.
 As a donor example, I want to add incremental accruals to newfangled and existing collections, so that material can be transmit on an ongoing basis.
 As a donor representative, I want to supply incremental accruals to modern and existing collections, so that material can be remove on an ongoing basis.
 As a donor representative, I want to supply incremental accruals to new and existing collections, so that material can be transferred on an ongoing basis.
 
-Input phrase:As an archivist, I want to manage scans of archival material created for educational visits, so that find and refer to them for another visit.
-As an archivist, I desire to pull_off scan of archival fabric make for educational sojourn, so that detect and mention to them for another sojourn.
-As an archivist, I want to cope scans of archival material create for educational sojourn, so that determine and consult to them for another visit.
+Input phrase: As an archivist, I want to manage scans of archival material created for educational visits, so that find and refer to them for another visit.
+As an archivist, I desire to pull_off scans of archival fabric make for educational sojourn, so that detect and mention to them for another sojourn.
+As an archivist, I want to cope scans of archival material create for educational visits, so that determine and consult to them for another visit.
 As an archivist, I want to oversee scans of archival material produce for educational visits, so that witness and denote to them for another visit.
 As an archivist, I want to wangle scans of archival material created for educational visits, so that line_up and refer to them for another visit.
 As an archivist, I want to do scans of archival material created for educational visits, so that discover and refer to them for another visit.
 
-Input phrase:As an archivist, I want to manage loan documentation, including preservation photos, forms and correspondence, so that I can find it easily later.
-As an archivist, I desire to pull_off loanword software_documentation, include conservation photograph, form and agreement, so that I can detect it well subsequently.
-As an archivist, I want to cope loan documentation, admit preservation photos, kind and commensurateness, so that I can determine it easily by_and_by.
-As an archivist, I want to oversee loan documentation, including preservation photos, shape and symmetry, so that I can witness it easily later.
-As an archivist, I want to wangle loan documentation, including preservation photos, human_body and parallelism, so that I can line_up it easily later.
-As an archivist, I want to do loan documentation, including preservation photos, phase and correspondence, so that I can discover it easily later.
+Input phrase: As an archivist, I want to manage loan documentation, including preservation photos, forms and correspondence, so that I can find it easily later.
+As an archivist, I desire to pull_off loanword software_documentation, include conservation photograph, kind and agreement, so that I can detect it well subsequently.
+As an archivist, I want to cope loan documentation, admit preservation photos, shape and commensurateness, so that I can determine it easily by_and_by.
+As an archivist, I want to oversee loan documentation, including preservation photos, human_body and symmetry, so that I can witness it easily later.
+As an archivist, I want to wangle loan documentation, including preservation photos, phase and parallelism, so that I can line_up it easily later.
+As an archivist, I want to do loan documentation, including preservation photos, class and correspondence, so that I can discover it easily later.
 
-Input phrase:As a researcher, I want to generate structured citation data, so that so I can cite a file in a publication.
+Input phrase: As a researcher, I want to generate structured citation data, so that so I can cite a file in a publication.
 As a research_worker, I desire to render integrated quotation datum, so that so I can mention a file in a issue.
 As a researcher, I want to beget structured citation data, so that so I can reference a file in a publication.
 As a researcher, I want to generate structured citation data, so that so I can quote a file in a publication.
 As a researcher, I want to generate structured citation data, so that so I can adduce a file in a publication.
 As a researcher, I want to generate structured citation data, so that so I can summon a file in a publication.
 
-Input phrase:As a researcher, I want to share a link to a file on social media, so that so I can show other people an interesting thing I found.
+Input phrase: As a researcher, I want to share a link to a file on social media, so that so I can show other people an interesting thing I found.
 As a research_worker, I desire to partake a connection to a file on social medium, so that so I can prove other citizenry an interesting matter I establish.
 As a researcher, I want to share a liaison to a file on social culture_medium, so that so I can testify other multitude an interesting thing I find.
 As a researcher, I want to share a radio_link to a file on social metier, so that so I can picture other people an interesting thing I detect.
 As a researcher, I want to share a link to a file on social media, so that so I can express other people an interesting thing I determine.
 As a researcher, I want to share a link to a file on social media, so that so I can indicate other people an interesting thing I witness.
 
-Input phrase:As a researcher, I want to understand the copyright status of the image, so that I know if I can use it.
+Input phrase: As a researcher, I want to understand the copyright status of the image, so that I know if I can use it.
 As a research_worker, I desire to sympathize the copyright condition of the persona, so that I acknowledge if I can practice it.
 As a researcher, I want to understand the copyright status of the picture, so that I sleep_together if I can use it.
 As a researcher, I want to understand the copyright status of the prototype, so that I know if I can use it.
 As a researcher, I want to understand the copyright status of the trope, so that I know if I can use it.
 As a researcher, I want to understand the copyright status of the double, so that I know if I can use it.
 
-Input phrase:As a researcher I want clear citation information on each document, so that I can cite accurately in a publication.
+Input phrase: As a researcher I want clear citation information on each document, so that I can cite accurately in a publication.
 As a research_worker I desire clean quotation data on each text_file, so that I can mention accurately in a issue.
 As a researcher I want well-defined citation information on each document, so that I can reference accurately in a publication.
 As a researcher I want absolved citation information on each document, so that I can quote accurately in a publication.
 As a researcher I want clear citation information on each document, so that I can adduce accurately in a publication.
 As a researcher I want clear citation information on each document, so that I can summon accurately in a publication.
 
-Input phrase:As a researcher, I want to share reports I've written, so that it is available to staff and researchers.
-As a research_worker, I desire to partake report I've write, so that it is available to staff and research_workers.
-As a researcher, I want to share report_card I've publish, so that it is available to staff and researchers.
-As a researcher, I want to share composition I've compose, so that it is available to staff and researchers.
-As a researcher, I want to share reputation I've spell, so that it is available to staff and researchers.
+Input phrase: As a researcher, I want to share reports I've written, so that it is available to staff and researchers.
+As a research_worker, I desire to partake report_card I've write, so that it is available to staff and research_workers.
+As a researcher, I want to share composition I've publish, so that it is available to staff and researchers.
+As a researcher, I want to share reputation I've compose, so that it is available to staff and researchers.
+As a researcher, I want to share reports I've spell, so that it is available to staff and researchers.
 As a researcher, I want to share reports I've written, so that it is available to staff and researchers.
 
-Input phrase:As a researcher, I want to download a file, so that I can use it for research without having to come to the reading room.
+Input phrase: As a researcher, I want to download a file, so that I can use it for research without having to come to the reading room.
 As a inquiry_worker, I desire to download a file, so that I can practice it for inquiry without having to arrive to the interpretation room.
 As a researcher, I want to download a file, so that I can use it for research without having to issue_forth to the recitation room.
 As a researcher, I want to download a file, so that I can use it for research without having to hail to the reading room.
 As a researcher, I want to download a file, so that I can use it for research without having to fall to the reading room.
 As a researcher, I want to download a file, so that I can use it for research without having to total to the reading room.
 
-Input phrase:As a researcher, I want to download reports, so that I can use them in immediate and future in talks and articles.
-As a research_worker, I desire to download report, so that I can practice them in contiguous and future in negotiation and article.
-As a researcher, I want to download report_card, so that I can use them in immediate and future in talk and articles.
+Input phrase: As a researcher, I want to download reports, so that I can use them in immediate and future in talks and articles.
+As a research_worker, I desire to download report_card, so that I can practice them in contiguous and future in negotiation and articles.
 As a researcher, I want to download composition, so that I can use them in immediate and future in lecture and articles.
 As a researcher, I want to download reputation, so that I can use them in immediate and future in talks and articles.
 As a researcher, I want to download reports, so that I can use them in immediate and future in talks and articles.
+As a researcher, I want to download reports, so that I can use them in immediate and future in talks and articles.
 
-Input phrase:As a researcher, I want to locate photographs and documents that I can share on social media.
-As a research_worker, I desire to situate photograph and document that I can partake on social medium.
-As a researcher, I want to settle photographs and text_file that I can share on social culture_medium.
+Input phrase: As a researcher, I want to locate photographs and documents that I can share on social media.
+As a research_worker, I desire to situate photographs and text_file that I can partake on social medium.
+As a researcher, I want to settle photographs and documents that I can share on social culture_medium.
 As a researcher, I want to locate photographs and documents that I can share on social metier.
 As a researcher, I want to locate photographs and documents that I can share on social media.
 As a researcher, I want to locate photographs and documents that I can share on social media.
 
-Input phrase:As a researcher, I want to request analog versions of digital objects, so that I can view them in the reading room.
-As a research_worker, I desire to request analogue version of digital object, so that I can see them in the interpretation room.
-As a researcher, I want to request analog adaptation of digital aim, so that I can watch them in the recitation room.
-As a researcher, I want to request analog translation of digital objects, so that I can view them in the reading room.
+Input phrase: As a researcher, I want to request analog versions of digital objects, so that I can view them in the reading room.
+As a research_worker, I desire to request analogue adaptation of digital aim, so that I can see them in the interpretation room.
+As a researcher, I want to request analog translation of digital objects, so that I can watch them in the recitation room.
 As a researcher, I want to request analog interpretation of digital objects, so that I can view them in the reading room.
 As a researcher, I want to request analog versions of digital objects, so that I can view them in the reading room.
+As a researcher, I want to request analog versions of digital objects, so that I can view them in the reading room.
 
-Input phrase:As a researcher, I want to order copies of photos, so that I can use them in a publication.
+Input phrase: As a researcher, I want to order copies of photos, so that I can use them in a publication.
 As a research_worker, I desire to regulate transcript of photograph, so that I can practice them in a issue.
 As a researcher, I want to ordain copy of photos, so that I can use them in a publication.
 As a researcher, I want to arrange copies of photos, so that I can use them in a publication.
 As a researcher, I want to rate copies of photos, so that I can use them in a publication.
 As a researcher, I want to order copies of photos, so that I can use them in a publication.
 
-Input phrase:As a researcher, I want to receive a notification if something I request in the reading room or for duplication is already digitized, so that I don't have to put in that request.
+Input phrase: As a researcher, I want to receive a notification if something I request in the reading room or for duplication is already digitized, so that I don't have to put in that request.
 As a research_worker, I desire to pick_up a presentment if something I request in the interpretation room or for duplicate is already digitize, so that I don't have to frame in that request.
 As a researcher, I want to experience a telling if something I request in the recitation room or for duplication is already digitized, so that I don't have to invest in that request.
 As a researcher, I want to welcome a notification if something I request in the reading room or for duplication is already digitized, so that I don't have to place in that request.
 As a researcher, I want to meet a notification if something I request in the reading room or for duplication is already digitized, so that I don't have to arrange in that request.
 As a researcher, I want to get a notification if something I request in the reading room or for duplication is already digitized, so that I don't have to put in that request.
 
-Input phrase:As an archivist, I want to make information about rights available to researchers and donors, so that they know what they can do with images.
-As an archivist, I desire to induce data about right available to research_worker and donor, so that they acknowledge what they can do with image.
-As an archivist, I want to cause information about right_field available to researchers and donors, so that they sleep_together what they can do with persona.
-As an archivist, I want to produce information about rights available to researchers and donors, so that they know what they can do with picture.
-As an archivist, I want to draw information about rights available to researchers and donors, so that they know what they can do with prototype.
-As an archivist, I want to create information about rights available to researchers and donors, so that they know what they can do with trope.
+Input phrase: As an archivist, I want to make information about rights available to researchers and donors, so that they know what they can do with images.
+As an archivist, I desire to induce data about right_field available to research_worker and donors, so that they acknowledge what they can do with persona.
+As an archivist, I want to cause information about rights available to researchers and donors, so that they sleep_together what they can do with picture.
+As an archivist, I want to produce information about rights available to researchers and donors, so that they know what they can do with prototype.
+As an archivist, I want to draw information about rights available to researchers and donors, so that they know what they can do with trope.
+As an archivist, I want to create information about rights available to researchers and donors, so that they know what they can do with double.
 
-Input phrase:As an archivist, I want to ensure that emails sent about specific objects contain accurate citation information, so that I can confirm which object is being referred to.
+Input phrase: As an archivist, I want to ensure that emails sent about specific objects contain accurate citation information, so that I can confirm which object is being referred to.
 As an archivist, I desire to guarantee that electronic_mail send about specific aim incorporate accurate quotation data, so that I can confirm which aim is being mention to.
-As an archivist, I want to see that emails mail about specific aim hold accurate citation information, so that I can confirm which object is being refer to.
+As an archivist, I want to see that emails mail about specific objects hold accurate citation information, so that I can confirm which object is being refer to.
 As an archivist, I want to ensure that emails transport about specific objects control accurate citation information, so that I can confirm which object is being consult to.
 As an archivist, I want to ensure that emails station about specific objects check accurate citation information, so that I can confirm which object is being denote to.
 As an archivist, I want to ensure that emails commit about specific objects contain accurate citation information, so that I can confirm which object is being referred to.
 
-Input phrase:As a researcher, I want to stream audio and video files in my web browser.
-As a research_worker, I desire to pour sound_recording and video_recording file in my vane browser.
+Input phrase: As a researcher, I want to stream audio and video files in my web browser.
+As a research_worker, I desire to pour sound_recording and video_recording files in my vane browser.
 As a researcher, I want to stream audio and television files in my network browser.
 As a researcher, I want to stream audio and video files in my world_wide_web browser.
 As a researcher, I want to stream audio and video files in my web browser.
 As a researcher, I want to stream audio and video files in my web browser.
 
-Input phrase:As a researcher, I want to export descriptive data in a common format, so that I can use text mining tools on it.
-As a research_worker, I desire to export descriptive datum in a coarse format, so that I can practice textbook mining tool on it.
-As a researcher, I want to export descriptive data in a common format, so that I can use text mining instrument on it.
+Input phrase: As a researcher, I want to export descriptive data in a common format, so that I can use text mining tools on it.
+As a research_worker, I desire to export descriptive datum in a coarse format, so that I can practice textbook mining instrument on it.
 As a researcher, I want to export descriptive data in a common format, so that I can use text mining creature on it.
 As a researcher, I want to export descriptive data in a common format, so that I can use text mining cock on it.
 As a researcher, I want to export descriptive data in a common format, so that I can use text mining tools on it.
+As a researcher, I want to export descriptive data in a common format, so that I can use text mining tools on it.
 
-Input phrase:As an archivist, I want to track use of a photo, so that I know if I've sent it to a researcher before.
+Input phrase: As an archivist, I want to track use of a photo, so that I know if I've sent it to a researcher before.
 As an archivist, I desire to chase function of a photograph, so that I acknowledge if I've send it to a research_worker before.
 As an archivist, I want to traverse consumption of a photo, so that I sleep_together if I've mail it to a researcher before.
 As an archivist, I want to track habit of a photo, so that I know if I've transport it to a researcher before.
 As an archivist, I want to track manipulation of a photo, so that I know if I've station it to a researcher before.
 As an archivist, I want to track use of a photo, so that I know if I've commit it to a researcher before.
 
-Input phrase:As an archivist, I want to see what a particular user has downloaded, so that I can track use of assets.
-As an archivist, I desire to understand what a especial exploiter has download, so that I can chase function of asset.
+Input phrase: As an archivist, I want to see what a particular user has downloaded, so that I can track use of assets.
+As an archivist, I desire to understand what a especial exploiter has download, so that I can chase function of assets.
 As an archivist, I want to witness what a finical drug_consumptionr has downloaded, so that I can traverse consumption of assets.
 As an archivist, I want to visualize what a particular habitr has downloaded, so that I can track habit of assets.
 As an archivist, I want to learn what a particular manipulationr has downloaded, so that I can track manipulation of assets.
 As an archivist, I want to watch what a particular user has downloaded, so that I can track use of assets.
 
-Input phrase:As an archivist, I want to provide access to digital copies of unprocessed material, so that donors can access things they have given us.
-As an archivist, I desire to supply entree to digital transcript of unrefined fabric, so that donor can entree thing they have give united_states.
-As an archivist, I want to put_up access to digital copy of unprocessed material, so that donors can access matter they have yield uracil.
+Input phrase: As an archivist, I want to provide access to digital copies of unprocessed material, so that donors can access things they have given us.
+As an archivist, I desire to supply entree to digital transcript of unrefined fabric, so that donors can entree matter they have give united_states.
+As an archivist, I want to put_up access to digital copy of unprocessed material, so that donors can access things they have yield uracil.
 As an archivist, I want to leave access to digital copies of unprocessed material, so that donors can access things they have hold uranium.
-As an archivist, I want to provide access to digital copies of unprocessed material, so that donors can access things they have render u.
+As an archivist, I want to provide access to digital copies of unprocessed material, so that donors can access things they have render us.
 As an archivist, I want to provide access to digital copies of unprocessed material, so that donors can access things they have impart us.
 
-Input phrase:As an archivist, I want to make as much archival material as possible available for use, so that I can fulfill the RAC's mission.
+Input phrase: As an archivist, I want to make as much archival material as possible available for use, so that I can fulfill the RAC's mission.
 As an archivist, I desire to induce as much archival fabric as potential available for function, so that I can carry_through the RAC's deputation.
 As an archivist, I want to caconsumption as much archival material as possible available for consumption, so that I can satisfy the RAC's mission.
 As an archivist, I want to produce as much archival material as possible available for habit, so that I can meet the RAC's mission.
 As an archivist, I want to draw as much archival material as possible available for manipulation, so that I can fulfill the RAC's mission.
 As an archivist, I want to create as much archival material as possible available for use, so that I can fulfill the RAC's mission.
 
-Input phrase:As an archivist, I want to use archival content on the RAC website, so that I can integrate our collections into our web presence.
-As an archivist, I desire to practice archival message on the RAC vane_site, so that I can desegregate our collection into our vane bearing.
-As an archivist, I want to use archival capacity on the RAC networksite, so that I can integrate our solicitation into our network presence.
+Input phrase: As an archivist, I want to use archival content on the RAC website, so that I can integrate our collections into our web presence.
+As an archivist, I desire to practice archival message on the RAC vane_site, so that I can desegregate our solicitation into our vane bearing.
+As an archivist, I want to use archival capacity on the RAC networksite, so that I can integrate our collections into our network presence.
 As an archivist, I want to use archival contentedness on the RAC world_wide_website, so that I can integrate our collections into our world_wide_web presence.
 As an archivist, I want to use archival subject on the RAC website, so that I can integrate our collections into our web presence.
 As an archivist, I want to use archival content on the RAC website, so that I can integrate our collections into our web presence.
 
-Input phrase:As a donor representative, I want to access the descriptive information about the images scanned for my institutions needs.
-As a donor spokesperson, I desire to access the descriptive data about the image scan for my institution necessitate.
-As a donor congressman, I want to access the descriptive information about the persona read for my initiation want.
-As a donor example, I want to access the descriptive information about the picture scanned for my mental_hospital need.
-As a donor representative, I want to access the descriptive information about the prototype scanned for my institutions needs.
+Input phrase: As a donor representative, I want to access the descriptive information about the images scanned for my institutions needs.
+As a donor spokesperson, I desire to access the descriptive data about the persona scan for my initiation necessitate.
+As a donor congressman, I want to access the descriptive information about the picture read for my mental_hospital want.
+As a donor example, I want to access the descriptive information about the prototype scanned for my institutions needs.
 As a donor representative, I want to access the descriptive information about the trope scanned for my institutions needs.
+As a donor representative, I want to access the descriptive information about the double scanned for my institutions needs.
 
-Input phrase:As a donor representative, I want to look at images that have been scanned from my collection, so that so that I can use them in my institutions exhibits, reports etc.
-As a donor spokesperson, I desire to search at image that have been scan from my solicitation, so that so that I can practice them in my institution exhibit, report etc.
-As a donor congressman, I want to front at persona that have been read from my collection, so that so that I can use them in my initiation display, report_card etc.
-As a donor example, I want to attend at picture that have been scanned from my collection, so that so that I can use them in my mental_hospital exhibits, composition etc.
-As a donor representative, I want to expect at prototype that have been scanned from my collection, so that so that I can use them in my institutions exhibits, reputation etc.
-As a donor representative, I want to count at trope that have been scanned from my collection, so that so that I can use them in my institutions exhibits, reports etc.
+Input phrase: As a donor representative, I want to look at images that have been scanned from my collection, so that so that I can use them in my institutions exhibits, reports etc.
+As a donor spokesperson, I desire to search at persona that have been scan from my solicitation, so that so that I can practice them in my initiation display, report_card etc.
+As a donor congressman, I want to front at picture that have been read from my collection, so that so that I can use them in my mental_hospital exhibits, composition etc.
+As a donor example, I want to attend at prototype that have been scanned from my collection, so that so that I can use them in my institutions exhibits, reputation etc.
+As a donor representative, I want to expect at trope that have been scanned from my collection, so that so that I can use them in my institutions exhibits, reports etc.
+As a donor representative, I want to count at double that have been scanned from my collection, so that so that I can use them in my institutions exhibits, reports etc.
 
-Input phrase:As a researcher, I want to search all files by keyword.
-As a reresearch_worker, I desire to research all file by keyword.
+Input phrase: As a researcher, I want to search all files by keyword.
+As a reresearch_worker, I desire to research all files by keyword.
 As a researcher, I want to search all files by keyword.
 As a researcher, I want to search all files by keyword.
 As a researcher, I want to search all files by keyword.
 As a researcher, I want to search all files by keyword.
 
-Input phrase:As a researcher, I want to search by keyword, so that I can learn what already exists digitally and avoid placing additional duplication requests.
-As a reresearch_worker, I desire to research by keyword, so that I can memorize what already exist digitally and debar put extra duplicate request.
+Input phrase: As a researcher, I want to search by keyword, so that I can learn what already exists digitally and avoid placing additional duplication requests.
+As a reresearch_worker, I desire to research by keyword, so that I can memorize what already exists digitally and debar put extra duplicate requests.
 As a researcher, I want to search by keyword, so that I can teach what already exists digitally and keep_off place additional duplication requests.
 As a researcher, I want to search by keyword, so that I can determine what already exists digitally and invalidate rate additional duplication requests.
 As a researcher, I want to search by keyword, so that I can learn what already exists digitally and avoid locate additional duplication requests.
 As a researcher, I want to search by keyword, so that I can learn what already exists digitally and avoid target additional duplication requests.
 
-Input phrase:As a researcher, I want to see common material across collections, so that so I can prepare a comprehensive analysis.
-As a research_worker, I desire to understand coarse fabric across collection, so that so I can fix a comprehensive psychoanalysis.
-As a researcher, I want to witness common material across solicitation, so that so I can cook a comprehensive analysis.
+Input phrase: As a researcher, I want to see common material across collections, so that so I can prepare a comprehensive analysis.
+As a research_worker, I desire to understand coarse fabric across solicitation, so that so I can fix a comprehensive psychoanalysis.
+As a researcher, I want to witness common material across collections, so that so I can cook a comprehensive analysis.
 As a researcher, I want to visualize common material across collections, so that so I can organize a comprehensive analysis.
 As a researcher, I want to learn common material across collections, so that so I can train a comprehensive analysis.
 As a researcher, I want to watch common material across collections, so that so I can prepare a comprehensive analysis.
 
-Input phrase:As a researcher, I want to browse through files in a collection.
-As a research_worker, I desire to shop through file in a solicitation.
+Input phrase: As a researcher, I want to browse through files in a collection.
+As a research_worker, I desire to shop through files in a solicitation.
 As a researcher, I want to crop through files in a collection.
 As a researcher, I want to browse through files in a collection.
 As a researcher, I want to browse through files in a collection.
 As a researcher, I want to browse through files in a collection.
 
-Input phrase:As an archivist, I want to browse through files in a collection.
-As an archivist, I desire to shop through file in a solicitation.
+Input phrase: As an archivist, I want to browse through files in a collection.
+As an archivist, I desire to shop through files in a solicitation.
 As an archivist, I want to crop through files in a collection.
 As an archivist, I want to browse through files in a collection.
 As an archivist, I want to browse through files in a collection.
 As an archivist, I want to browse through files in a collection.
 
-Input phrase:As an archivist, I want to search all files by keyword.
-As an archivist, I desire to research all file by keyword.
+Input phrase: As an archivist, I want to search all files by keyword.
+As an archivist, I desire to research all files by keyword.
 As an archivist, I want to search all files by keyword.
 As an archivist, I want to search all files by keyword.
 As an archivist, I want to search all files by keyword.
 As an archivist, I want to search all files by keyword.
 
-Input phrase:As an archivist, I want to upload inventories, so that our donor representatives have an easier time requesting their material.
-As an archivist, I desire to upload inventory, so that our donor representative have an easy clock_time request their fabric.
-As an archivist, I want to upload stock, so that our donor spokesperson have an comfortable fourth_dimension requesting their material.
-As an archivist, I want to upload armory, so that our donor congressman have an easier meter requesting their material.
-As an archivist, I want to upload inventories, so that our donor example have an easier prison_term requesting their material.
+Input phrase: As an archivist, I want to upload inventories, so that our donor representatives have an easier time requesting their material.
+As an archivist, I desire to upload inventory, so that our donor spokesperson have an easy clock_time request their fabric.
+As an archivist, I want to upload stock, so that our donor congressman have an comfortable fourth_dimension requesting their material.
+As an archivist, I want to upload armory, so that our donor example have an easier meter requesting their material.
+As an archivist, I want to upload inventories, so that our donor representatives have an easier prison_term requesting their material.
 As an archivist, I want to upload inventories, so that our donor representatives have an easier time requesting their material.
 
-Input phrase:As an archivist, I want to search by tag, so that it makes finding particular photographs easier.
-As an archivist, I desire to research by rag, so that it make find especial photograph easy.
-As an archivist, I want to search by tag, so that it induce detect finical photographs comfortable.
-As an archivist, I want to search by tag, so that it cause determine particular photographs easier.
-As an archivist, I want to search by tag, so that it produce witness particular photographs easier.
-As an archivist, I want to search by tag, so that it draw line_up particular photographs easier.
+Input phrase: As an archivist, I want to search by tag, so that it makes finding particular photographs easier.
+As an archivist, I desire to research by rag, so that it induce find especial photographs easy.
+As an archivist, I want to search by tag, so that it cause detect finical photographs comfortable.
+As an archivist, I want to search by tag, so that it produce determine particular photographs easier.
+As an archivist, I want to search by tag, so that it draw witness particular photographs easier.
+As an archivist, I want to search by tag, so that it create line_up particular photographs easier.
 
-Input phrase:As an archivist, I want to access the digital files on the X-drive, so that I can use them.
-As an archivist, I desire to access the digital file on the ten-campaign, so that I can practice them.
+Input phrase: As an archivist, I want to access the digital files on the X-drive, so that I can use them.
+As an archivist, I desire to access the digital files on the ten-campaign, so that I can practice them.
 As an archivist, I want to access the digital files on the adam-driveway, so that I can use them.
 As an archivist, I want to access the digital files on the X-drive, so that I can use them.
 As an archivist, I want to access the digital files on the X-drive, so that I can use them.
 As an archivist, I want to access the digital files on the X-drive, so that I can use them.
 
-Input phrase:As an assistant archivist, I want to easily access interdepartmental forms.
-As an adjunct archivist, I desire to well access interdepartmental form.
-As an assistant archivist, I want to easily access interdepartmental kind.
+Input phrase: As an assistant archivist, I want to easily access interdepartmental forms.
+As an adjunct archivist, I desire to well access interdepartmental kind.
 As an assistant archivist, I want to easily access interdepartmental shape.
 As an assistant archivist, I want to easily access interdepartmental human_body.
 As an assistant archivist, I want to easily access interdepartmental phase.
+As an assistant archivist, I want to easily access interdepartmental class.
 
-Input phrase:As an archivist, I want to have electronic versions of the collection files available for staff use, so that I increase accessibility and I do not lose the original files.
-As an archivist, I desire to have electronic version of the solicitation file available for staff function, so that I increase handiness and I do not misplace the original file.
-As an archivist, I want to have electronic adaptation of the collection files available for staff consumption, so that I increase approachability and I do not fall_back the original files.
-As an archivist, I want to have electronic translation of the collection files available for staff habit, so that I increase accessibility and I do not miss the original files.
-As an archivist, I want to have electronic interpretation of the collection files available for staff manipulation, so that I increase accessibility and I do not suffer the original files.
+Input phrase: As an archivist, I want to have electronic versions of the collection files available for staff use, so that I increase accessibility and I do not lose the original files.
+As an archivist, I desire to have electronic adaptation of the solicitation files available for staff function, so that I increase handiness and I do not misplace the original files.
+As an archivist, I want to have electronic translation of the collection files available for staff consumption, so that I increase approachability and I do not fall_back the original files.
+As an archivist, I want to have electronic interpretation of the collection files available for staff habit, so that I increase accessibility and I do not miss the original files.
+As an archivist, I want to have electronic versions of the collection files available for staff manipulation, so that I increase accessibility and I do not suffer the original files.
 As an archivist, I want to have electronic versions of the collection files available for staff use, so that I increase accessibility and I do not lose the original files.
 
-Input phrase:As a researcher, I want to be able to search across photo collection images, so that I can prepare presentations.
-As a reresearch_worker, I desire to be able to research across photograph solicitation image, so that I can fix presentation.
-As a researcher, I want to be able to search across photo collection persona, so that I can cook display.
-As a researcher, I want to be able to search across photo collection picture, so that I can organize presentations.
-As a researcher, I want to be able to search across photo collection prototype, so that I can train presentations.
-As a researcher, I want to be able to search across photo collection trope, so that I can prepare presentations.
+Input phrase: As a researcher, I want to be able to search across photo collection images, so that I can prepare presentations.
+As a reresearch_worker, I desire to be able to research across photograph solicitation persona, so that I can fix display.
+As a researcher, I want to be able to search across photo collection picture, so that I can cook presentations.
+As a researcher, I want to be able to search across photo collection prototype, so that I can organize presentations.
+As a researcher, I want to be able to search across photo collection trope, so that I can train presentations.
+As a researcher, I want to be able to search across photo collection double, so that I can prepare presentations.
 
-Input phrase:As a researcher, I want to search using structured data, so that I can find everything relevant to my inquiry across collections.
-As a reresearch_worker, I desire to research use integrated datum, so that I can detect everything relevant to my question across collection.
-As a researcher, I want to search practice structured data, so that I can determine everything relevant to my inquiry across solicitation.
+Input phrase: As a researcher, I want to search using structured data, so that I can find everything relevant to my inquiry across collections.
+As a reresearch_worker, I desire to research use integrated datum, so that I can detect everything relevant to my question across solicitation.
+As a researcher, I want to search practice structured data, so that I can determine everything relevant to my inquiry across collections.
 As a researcher, I want to search using structured data, so that I can witness everything relevant to my inquiry across collections.
 As a researcher, I want to search using structured data, so that I can line_up everything relevant to my inquiry across collections.
 As a researcher, I want to search using structured data, so that I can discover everything relevant to my inquiry across collections.
 
-Input phrase:As a researcher, I want to access tagged working papers, so that my research process is better informed.
+Input phrase: As a researcher, I want to access tagged working papers, so that my research process is better informed.
 As a inquiry_worker, I desire to access tag working document, so that my inquiry procedure is well inform.
-As a researcher, I want to access chase working paper, so that my research summons is better informed.
-As a researcher, I want to access tagged working composition, so that my research process is better informed.
+As a researcher, I want to access chase working composition, so that my research summons is better informed.
 As a researcher, I want to access tagged working newspaper, so that my research process is better informed.
 As a researcher, I want to access tagged working papers, so that my research process is better informed.
+As a researcher, I want to access tagged working papers, so that my research process is better informed.
 
-Input phrase:As a researcher, I want to access educational outreach materials, so that I can make connections with institutions.
-As a research_worker, I desire to access educational outreach material, so that I can induce connection with institution.
-As a researcher, I want to access educational outreach fabric, so that I can cause association with initiation.
-As a researcher, I want to access educational outreach materials, so that I can produce joining with mental_hospital.
+Input phrase: As a researcher, I want to access educational outreach materials, so that I can make connections with institutions.
+As a research_worker, I desire to access educational outreach fabric, so that I can induce association with initiation.
+As a researcher, I want to access educational outreach materials, so that I can cause joining with mental_hospital.
+As a researcher, I want to access educational outreach materials, so that I can produce connections with institutions.
 As a researcher, I want to access educational outreach materials, so that I can draw connections with institutions.
 As a researcher, I want to access educational outreach materials, so that I can create connections with institutions.
 
-Input phrase:As a researcher, I want to have accurate cross-collection citation information, so that I can find materials again.
-As a research_worker, I desire to have accurate crabbed-collection quotation data, so that I can detect material again.
-As a researcher, I want to have accurate cross-collection citation information, so that I can determine fabric again.
+Input phrase: As a researcher, I want to have accurate cross-collection citation information, so that I can find materials again.
+As a research_worker, I desire to have accurate crabbed-collection quotation data, so that I can detect fabric again.
+As a researcher, I want to have accurate cross-collection citation information, so that I can determine materials again.
 As a researcher, I want to have accurate cross-collection citation information, so that I can witness materials again.
 As a researcher, I want to have accurate cross-collection citation information, so that I can line_up materials again.
 As a researcher, I want to have accurate cross-collection citation information, so that I can discover materials again.
 
-Input phrase:As a researcher, I want to access digitized archival materials without mediation, so that I can decide what, I want to look at.
-As a research_worker, I desire to access digitized archival material without mediation, so that I can decide what, I desire to search at.
-As a researcher, I want to access digitized archival fabric without mediation, so that I can decide what, I want to front at.
+Input phrase: As a researcher, I want to access digitized archival materials without mediation, so that I can decide what, I want to look at.
+As a research_worker, I desire to access digitized archival fabric without mediation, so that I can decide what, I desire to search at.
+As a researcher, I want to access digitized archival materials without mediation, so that I can decide what, I want to front at.
 As a researcher, I want to access digitized archival materials without mediation, so that I can decide what, I want to attend at.
 As a researcher, I want to access digitized archival materials without mediation, so that I can decide what, I want to expect at.
 As a researcher, I want to access digitized archival materials without mediation, so that I can decide what, I want to count at.
 
-Input phrase:As an archivist, I want to distinguish between images scanned in color or black and white, so that I know whether or not these images meet publication requirements.
-As an archivist, I desire to spot between image scan in semblance or bootleg and blank, so that I acknowledge whether or not these image converge issue requirement.
-As an archivist, I want to signalize between persona read in coloring_material or black and ashen, so that I sleep_together whether or not these persona suffer publication necessity.
-As an archivist, I want to identify between picture scanned in color or black and white, so that I know whether or not these picture touch publication prerequisite.
-As an archivist, I want to distinguish between prototype scanned in color or black and white, so that I know whether or not these prototype meet publication requirements.
+Input phrase: As an archivist, I want to distinguish between images scanned in color or black and white, so that I know whether or not these images meet publication requirements.
+As an archivist, I desire to spot between persona scan in semblance or bootleg and blank, so that I acknowledge whether or not these persona converge issue necessity.
+As an archivist, I want to signalize between picture read in coloring_material or black and ashen, so that I sleep_together whether or not these picture suffer publication prerequisite.
+As an archivist, I want to identify between prototype scanned in color or black and white, so that I know whether or not these prototype touch publication requirements.
 As an archivist, I want to distinguish between trope scanned in color or black and white, so that I know whether or not these trope meet publication requirements.
+As an archivist, I want to distinguish between double scanned in color or black and white, so that I know whether or not these double meet publication requirements.
 
-Input phrase:As a researcher, I want to ask a question about a specific file, so that I can find out more information.
+Input phrase: As a researcher, I want to ask a question about a specific file, so that I can find out more information.
 As a research_worker, I desire to necessitate a doubt about a specific file, so that I can detect out more data.
 As a researcher, I want to ask a motion about a specific file, so that I can determine out more information.
 As a researcher, I want to ask a question about a specific file, so that I can witness out more information.
 As a researcher, I want to ask a question about a specific file, so that I can line_up out more information.
 As a researcher, I want to ask a question about a specific file, so that I can discover out more information.
 
-Input phrase:As a researcher, I want to search OCRed text in all available digitized textual documents, so that I can more efficiently locate digitized documents relevant to my research.
-As a reinquiry_worker, I desire to inquiry OCRed textbook in all available digitize textbookual document, so that I can more efficiently situate digitize document relevant to my reinquiry.
-As a researcher, I want to search OCRed text in all available digitized textual text_file, so that I can more efficiently settle digitized text_file relevant to my research.
+Input phrase: As a researcher, I want to search OCRed text in all available digitized textual documents, so that I can more efficiently locate digitized documents relevant to my research.
+As a reinquiry_worker, I desire to inquiry OCRed textbook in all available digitize textbookual text_file, so that I can more efficiently situate digitize text_file relevant to my reinquiry.
+As a researcher, I want to search OCRed text in all available digitized textual documents, so that I can more efficiently settle digitized documents relevant to my research.
 As a researcher, I want to search OCRed text in all available digitized textual documents, so that I can more efficiently locate digitized documents relevant to my research.
 As a researcher, I want to search OCRed text in all available digitized textual documents, so that I can more efficiently locate digitized documents relevant to my research.
 As a researcher, I want to search OCRed text in all available digitized textual documents, so that I can more efficiently locate digitized documents relevant to my research.
 
-Input phrase:As a researcher, I want to know the date on which something was digitized, so that I know if it's been digitized since I last looked.
+Input phrase: As a researcher, I want to know the date on which something was digitized, so that I know if it's been digitized since I last looked.
 As a research_worker, I desire to acacknowledgeledge the date on which something was digitize, so that I acacknowledgeledge if it's been digitize since I last look.
 As a researcher, I want to sleep_together the date on which something was digitized, so that I sleep_together if it's been digitized since I last search.
 As a researcher, I want to know the date on which something was digitized, so that I know if it's been digitized since I last front.
 As a researcher, I want to know the date on which something was digitized, so that I know if it's been digitized since I last attend.
 As a researcher, I want to know the date on which something was digitized, so that I know if it's been digitized since I last expect.
 
-Input phrase:As a researcher, I want to keyword search across all of an RF program officer's scanned diaries, rather than having to search each scanned diary segment separately, so that I can more efficiently locate diary entries relevant to my research.
+Input phrase: As a researcher, I want to keyword search across all of an RF program officer's scanned diaries, rather than having to search each scanned diary segment separately, so that I can more efficiently locate diary entries relevant to my research.
 As a reinquiry_worker, I desire to keyword inquiry across all of an releasing_factor plan military_officer's scan diary, preferably than having to inquiry each scan diary section individually, so that I can more efficiently situate diary entry relevant to my reinquiry.
 As a researcher, I want to keyword search across all of an rutherfordium broadcast officeholder's read diaries, quite than having to search each read diary segment separately, so that I can more efficiently settle diary introduction relevant to my research.
 As a researcher, I want to keyword search across all of an reticular_formation platform policeman's scanned diaries, rather than having to search each scanned diary segment separately, so that I can more efficiently locate diary submission relevant to my research.
 As a researcher, I want to keyword search across all of an RF course_of_study officer's scanned diaries, rather than having to search each scanned diary segment separately, so that I can more efficiently locate diary entrance relevant to my research.
 As a researcher, I want to keyword search across all of an RF program officer's scanned diaries, rather than having to search each scanned diary segment separately, so that I can more efficiently locate diary entries relevant to my research.
 
-Input phrase:As an archivist, I want to access inventories for unprocessed collections, so that I can provide reference services to donors.
-As an archivist, I desire to access inventory for unrefined collection, so that I can supply mention service to donor.
-As an archivist, I want to access stock for unprocessed solicitation, so that I can put_up citation military_service to donors.
-As an archivist, I want to access armory for unprocessed collections, so that I can leave reference_point avail to donors.
-As an archivist, I want to access inventories for unprocessed collections, so that I can provide reference_book servicing to donors.
-As an archivist, I want to access inventories for unprocessed collections, so that I can provide character serve to donors.
+Input phrase: As an archivist, I want to access inventories for unprocessed collections, so that I can provide reference services to donors.
+As an archivist, I desire to access inventory for unrefined solicitation, so that I can supply mention military_service to donors.
+As an archivist, I want to access stock for unprocessed collections, so that I can put_up citation avail to donors.
+As an archivist, I want to access armory for unprocessed collections, so that I can leave reference_point servicing to donors.
+As an archivist, I want to access inventories for unprocessed collections, so that I can provide reference_book serve to donors.
+As an archivist, I want to access inventories for unprocessed collections, so that I can provide character overhaul to donors.
 
-Input phrase:As a researcher, I want to view thumbnails of photos, so that I can make a selection of which one I want to license.
-As a research_worker, I desire to see thumbnail of photograph, so that I can induce a choice of which one I desire to license.
+Input phrase: As a researcher, I want to view thumbnails of photos, so that I can make a selection of which one I want to license.
+As a research_worker, I desire to see thumbnails of photograph, so that I can induce a choice of which one I desire to license.
 As a researcher, I want to watch thumbnails of photos, so that I can cause a survival of which one I want to license.
 As a researcher, I want to view thumbnails of photos, so that I can produce a excerpt of which one I want to license.
 As a researcher, I want to view thumbnails of photos, so that I can draw a selection of which one I want to license.
 As a researcher, I want to view thumbnails of photos, so that I can create a selection of which one I want to license.
 
-Input phrase:As a researcher, I want to know when only part of a folder has been digitized, so that I know if I am seeing everything or only a portion.
+Input phrase: As a researcher, I want to know when only part of a folder has been digitized, so that I know if I am seeing everything or only a portion.
 As a research_worker, I desire to acacknowledgeledge when only region of a booklet has been digitize, so that I acacknowledgeledge if I am see everything or only a part.
 As a researcher, I want to sleep_together when only function of a folder has been digitized, so that I sleep_together if I am understand everything or only a parcel.
 As a researcher, I want to know when only character of a folder has been digitized, so that I know if I am witness everything or only a share.
 As a researcher, I want to know when only share of a folder has been digitized, so that I know if I am visualize everything or only a fortune.
 As a researcher, I want to know when only contribution of a folder has been digitized, so that I know if I am learn everything or only a dowry.
 
-Input phrase:As a donor representative, I want to see thumbnails of images, so that I can select which one I want.
-As a donor spokesperson, I desire to understand thumbnail of image, so that I can choose which one I desire.
-As a donor congressman, I want to witness thumbnails of persona, so that I can select which one I want.
-As a donor example, I want to visualize thumbnails of picture, so that I can select which one I want.
-As a donor representative, I want to learn thumbnails of prototype, so that I can select which one I want.
-As a donor representative, I want to watch thumbnails of trope, so that I can select which one I want.
+Input phrase: As a donor representative, I want to see thumbnails of images, so that I can select which one I want.
+As a donor spokesperson, I desire to understand thumbnails of persona, so that I can choose which one I desire.
+As a donor congressman, I want to witness thumbnails of picture, so that I can select which one I want.
+As a donor example, I want to visualize thumbnails of prototype, so that I can select which one I want.
+As a donor representative, I want to learn thumbnails of trope, so that I can select which one I want.
+As a donor representative, I want to watch thumbnails of double, so that I can select which one I want.
 
-Input phrase:As an researcher, I want to view film clips, so that I can see excerpts of films.
-As an research_worker, I desire to understand movie cartridge_holder, so that I can understand excerpt of movies.
-As an researcher, I want to watch film time, so that I can witness excerpts of film.
-As an researcher, I want to view film clip, so that I can visualize excerpts of films.
+Input phrase: As an researcher, I want to view film clips, so that I can see excerpts of films.
+As an research_worker, I desire to understand movie cartridge_holder, so that I can understand excerpts of movies.
+As an researcher, I want to watch film time, so that I can witness excerpts of films.
+As an researcher, I want to view film clips, so that I can visualize excerpts of films.
 As an researcher, I want to view film clips, so that I can learn excerpts of films.
 As an researcher, I want to view film clips, so that I can watch excerpts of films.
 
-Input phrase:As an archivist, I want to search images by photographer.
-As an archivist, I desire to research image by photographer.
-As an archivist, I want to search persona by photographer.
+Input phrase: As an archivist, I want to search images by photographer.
+As an archivist, I desire to research persona by photographer.
 As an archivist, I want to search picture by photographer.
 As an archivist, I want to search prototype by photographer.
 As an archivist, I want to search trope by photographer.
+As an archivist, I want to search double by photographer.
 
-Input phrase:As an archivist, I want to search images by people represented in them.
-As an archivist, I desire to research image by citizenry represent in them.
-As an archivist, I want to search persona by multitude typify in them.
-As an archivist, I want to search picture by people exemplify in them.
-As an archivist, I want to search prototype by people constitute in them.
-As an archivist, I want to search trope by people defend in them.
+Input phrase: As an archivist, I want to search images by people represented in them.
+As an archivist, I desire to research persona by citizenry represent in them.
+As an archivist, I want to search picture by multitude typify in them.
+As an archivist, I want to search prototype by people exemplify in them.
+As an archivist, I want to search trope by people constitute in them.
+As an archivist, I want to search double by people defend in them.
 
-Input phrase:As an archivist, I want to search images by place the photo was taken.
-As an archivist, I desire to research image by topographic_point the photograph was take.
-As an archivist, I want to search persona by stead the photo was lead.
-As an archivist, I want to search picture by home the photo was assume.
-As an archivist, I want to search prototype by position the photo was bring.
-As an archivist, I want to search trope by seat the photo was choose.
+Input phrase: As an archivist, I want to search images by place the photo was taken.
+As an archivist, I desire to research persona by topographic_point the photograph was take.
+As an archivist, I want to search picture by stead the photo was lead.
+As an archivist, I want to search prototype by home the photo was assume.
+As an archivist, I want to search trope by position the photo was bring.
+As an archivist, I want to search double by seat the photo was choose.
 
-Input phrase:As an archivist, I want to search images by rights.
-As an archivist, I desire to research image by right.
-As an archivist, I want to search persona by right_field.
+Input phrase: As an archivist, I want to search images by rights.
+As an archivist, I desire to research persona by right_field.
 As an archivist, I want to search picture by rights.
 As an archivist, I want to search prototype by rights.
 As an archivist, I want to search trope by rights.
+As an archivist, I want to search double by rights.
 
-Input phrase:As an archivist, I want to search index cards and other non-public finding aids, so that I can provide better research assistance.
-As an archivist, I desire to inquiry exponent card_game and other non-public determination aid, so that I can supply good reinquiry aid.
-As an archivist, I want to search index card and other non-public finding care, so that I can put_up full research assistance.
-As an archivist, I want to search index wag and other non-public finding aids, so that I can leave estimable research assistance.
-As an archivist, I want to search index poster and other non-public finding aids, so that I can provide beneficial research assistance.
-As an archivist, I want to search index calling_card and other non-public finding aids, so that I can provide adept research assistance.
+Input phrase: As an archivist, I want to search index cards and other non-public finding aids, so that I can provide better research assistance.
+As an archivist, I desire to inquiry exponent card_game and other non-public determination care, so that I can supply good reinquiry aid.
+As an archivist, I want to search index wag and other non-public finding aids, so that I can put_up full research assistance.
+As an archivist, I want to search index poster and other non-public finding aids, so that I can leave estimable research assistance.
+As an archivist, I want to search index calling_card and other non-public finding aids, so that I can provide beneficial research assistance.
+As an archivist, I want to search index menu and other non-public finding aids, so that I can provide adept research assistance.
 
-Input phrase:As an archivist, I want to view collection files, so that I can gain background information for processing a collection.
-As an archivist, I desire to see solicitation file, so that I can derive setting data for process a solicitation.
+Input phrase: As an archivist, I want to view collection files, so that I can gain background information for processing a collection.
+As an archivist, I desire to see solicitation files, so that I can derive setting data for process a solicitation.
 As an archivist, I want to watch collection files, so that I can acquire backdrop information for action a collection.
 As an archivist, I want to view collection files, so that I can profit background information for march a collection.
 As an archivist, I want to view collection files, so that I can reach background information for work a collection.
 As an archivist, I want to view collection files, so that I can advance background information for serve a collection.
 
-Input phrase:As an archivist, I want to view physical locations for non-archival material, so that I can provide research services to donors.
-As an archivist, I desire to see forcible location for non-archival fabric, so that I can supply inquiry service to donor.
-As an archivist, I want to watch physical placement for non-archival material, so that I can put_up research military_service to donors.
-As an archivist, I want to view physical localization for non-archival material, so that I can leave research avail to donors.
-As an archivist, I want to view physical locations for non-archival material, so that I can provide research servicing to donors.
+Input phrase: As an archivist, I want to view physical locations for non-archival material, so that I can provide research services to donors.
+As an archivist, I desire to see forcible placement for non-archival fabric, so that I can supply inquiry military_service to donors.
+As an archivist, I want to watch physical localization for non-archival material, so that I can put_up research avail to donors.
+As an archivist, I want to view physical locations for non-archival material, so that I can leave research servicing to donors.
 As an archivist, I want to view physical locations for non-archival material, so that I can provide research serve to donors.
+As an archivist, I want to view physical locations for non-archival material, so that I can provide research overhaul to donors.
 
-Input phrase:As an archivist, I want to find files that cannot be made publicly available, so that I can easily access everything that's been digitized.
-As an archivist, I desire to detect file that cannot be make publicly available, so that I can well access everything that's been digitize.
+Input phrase: As an archivist, I want to find files that cannot be made publicly available, so that I can easily access everything that's been digitized.
+As an archivist, I desire to detect files that cannot be make publicly available, so that I can well access everything that's been digitize.
 As an archivist, I want to determine files that cannot be induce publicly available, so that I can easily access everything that's been digitized.
 As an archivist, I want to witness files that cannot be cause publicly available, so that I can easily access everything that's been digitized.
 As an archivist, I want to line_up files that cannot be produce publicly available, so that I can easily access everything that's been digitized.
 As an archivist, I want to discover files that cannot be draw publicly available, so that I can easily access everything that's been digitized.
 
-Input phrase:As an archivist, I want to access metadata and visual representations of index cards, so that I can use that information to assist researchers.
-As an archivist, I desire to access metadata and ocular representation of exponent card_game, so that I can practice that data to help research_worker.
-As an archivist, I want to access metadata and visual theatrical_performance of index card, so that I can use that information to serve researchers.
-As an archivist, I want to access metadata and visual representations of index wag, so that I can use that information to assist researchers.
+Input phrase: As an archivist, I want to access metadata and visual representations of index cards, so that I can use that information to assist researchers.
+As an archivist, I desire to access metadata and ocular theatrical_performance of exponent card_game, so that I can practice that data to help research_worker.
+As an archivist, I want to access metadata and visual representations of index wag, so that I can use that information to serve researchers.
 As an archivist, I want to access metadata and visual representations of index poster, so that I can use that information to assist researchers.
 As an archivist, I want to access metadata and visual representations of index calling_card, so that I can use that information to assist researchers.
+As an archivist, I want to access metadata and visual representations of index menu, so that I can use that information to assist researchers.
 
-Input phrase:As an archivist, I want to search individual material types.
-As an archivist, I desire to research individual fabric type.
-As an archivist, I want to search individual material character.
+Input phrase: As an archivist, I want to search individual material types.
+As an archivist, I desire to research individual fabric character.
+As an archivist, I want to search individual material types.
 As an archivist, I want to search individual material types.
 As an archivist, I want to search individual material types.
 As an archivist, I want to search individual material types.
 
-Input phrase:As an archivist, I want to search images by uploading an image, so that so I can find images when i don't have any metadata.
+Input phrase: As an archivist, I want to search images by uploading an image, so that so I can find images when i don't have any metadata.
 As an archivist, I desire to research persona by upload an persona, so that so I can detect persona when i don't have any metadata.
-As an archivist, I want to search persona by uploading an picture, so that so I can determine persona when i don't have any metadata.
-As an archivist, I want to search picture by uploading an prototype, so that so I can witness picture when i don't have any metadata.
-As an archivist, I want to search prototype by uploading an trope, so that so I can line_up prototype when i don't have any metadata.
-As an archivist, I want to search trope by uploading an double, so that so I can discover trope when i don't have any metadata.
+As an archivist, I want to search picture by uploading an picture, so that so I can determine picture when i don't have any metadata.
+As an archivist, I want to search prototype by uploading an prototype, so that so I can witness prototype when i don't have any metadata.
+As an archivist, I want to search trope by uploading an trope, so that so I can line_up trope when i don't have any metadata.
+As an archivist, I want to search double by uploading an double, so that so I can discover double when i don't have any metadata.
 
-Input phrase:As an administrator, I want to create user groups, so that I can control user permissions.
-As an administrator, I desire to make exploiter group, so that I can operate exploiter permission.
-As an administrator, I want to produce drug_drug_user groups, so that I can manipulate drug_drug_user license.
+Input phrase: As an administrator, I want to create user groups, so that I can control user permissions.
+As an administrator, I desire to make exploiter groups, so that I can operate exploiter license.
+As an administrator, I want to produce drug_drug_user groups, so that I can manipulate drug_drug_user permissions.
 As an administrator, I want to create user groups, so that I can see user permissions.
 As an administrator, I want to create user groups, so that I can master user permissions.
 As an administrator, I want to create user groups, so that I can control user permissions.
 
-Input phrase:As an administrator, I want to create user roles, so that I can group users by role.
+Input phrase: As an administrator, I want to create user roles, so that I can group users by role.
 As an administrator, I desire to make exploiter function, so that I can group exploiters by function.
-As an administrator, I want to produce drug_user character, so that I can group drug_exploiter by character.
-As an administrator, I want to create user role, so that I can group drug_user by role.
+As an administrator, I want to produce drug_user character, so that I can group drug_drug_user by character.
+As an administrator, I want to create user roles, so that I can group users by role.
 As an administrator, I want to create user roles, so that I can group users by role.
 As an administrator, I want to create user roles, so that I can group users by role.
 
-Input phrase:As an administrator, I want to assign RAC staff to different user groups, so that I can control read/write access.
-As an administrator, I desire to delegate RAC staff to unlike exploiter group, so that I can operate take/publish entree.
+Input phrase: As an administrator, I want to assign RAC staff to different user groups, so that I can control read/write access.
+As an administrator, I desire to delegate RAC staff to unlike exploiter groups, so that I can operate take/publish entree.
 As an administrator, I want to impute RAC staff to different drug_user groups, so that I can manipulate learn/compose access.
 As an administrator, I want to put RAC staff to different user groups, so that I can see understand/spell access.
 As an administrator, I want to arrogate RAC staff to different user groups, so that I can master read/write access.
 As an administrator, I want to assign RAC staff to different user groups, so that I can control read/write access.
 
-Input phrase:As an administrator, I want to assign rights to user groups or roles, so that I can control what users can and can't do.
-As an administrator, I desire to delegate right to user group or function, so that I cann operate what user cann and cann't do.
-As an administrator, I want to impute right_field to user groups or character, so that I displacen manipulate what exploiter displacen and displacen't do.
-As an administrator, I want to put rights to user groups or role, so that I can see what drug_user can and can't do.
+Input phrase: As an administrator, I want to assign rights to user groups or roles, so that I can control what users can and can't do.
+As an administrator, I desire to delegate right_field to user groups or function, so that I cann operate what exploiter cann and cann't do.
+As an administrator, I want to impute rights to user groups or character, so that I displacen manipulate what drug_user displacen and displacen't do.
+As an administrator, I want to put rights to user groups or roles, so that I can see what users can and can't do.
 As an administrator, I want to arrogate rights to user groups or roles, so that I can master what users can and can't do.
 As an administrator, I want to assign rights to user groups or roles, so that I can control what users can and can't do.
 
-Input phrase:As an administrator, I want to allow users to log in using Active Directory credentials, so that I don't have to manage another set of usernames and passwords.
-As an administrator, I desire to let user to log in use active_agent Directory certificate, so that I don't have to pull_off another stage_set of usernames and password.
-As an administrator, I want to permit exploiter to log in practice active_voice Directory credentials, so that I don't have to cope another bent of usernames and passwords.
-As an administrator, I want to leave drug_user to log in using Active Directory credentials, so that I don't have to oversee another hardening of usernames and passwords.
+Input phrase: As an administrator, I want to allow users to log in using Active Directory credentials, so that I don't have to manage another set of usernames and passwords.
+As an administrator, I desire to let exploiter to log in use active_agent Directory certificate, so that I don't have to pull_off another stage_set of usernames and passwords.
+As an administrator, I want to permit drug_user to log in practice active_voice Directory credentials, so that I don't have to cope another bent of usernames and passwords.
+As an administrator, I want to leave users to log in using Active Directory credentials, so that I don't have to oversee another hardening of usernames and passwords.
 As an administrator, I want to admit users to log in using Active Directory credentials, so that I don't have to wangle another set of usernames and passwords.
 As an administrator, I want to give_up users to log in using Active Directory credentials, so that I don't have to do another set of usernames and passwords.
 
-Input phrase:As an administrator, I want to have researchers reset their own passwords, so that I don't have to send passwords in cleartext.
-As an administrator, I desire to have research_worker readjust their own password, so that I don't have to mail password in cleartext.
+Input phrase: As an administrator, I want to have researchers reset their own passwords, so that I don't have to send passwords in cleartext.
+As an administrator, I desire to have research_worker readjust their own passwords, so that I don't have to mail passwords in cleartext.
 As an administrator, I want to have researchers reset their own passwords, so that I don't have to transport passwords in cleartext.
 As an administrator, I want to have researchers reset their own passwords, so that I don't have to station passwords in cleartext.
 As an administrator, I want to have researchers reset their own passwords, so that I don't have to commit passwords in cleartext.
 As an administrator, I want to have researchers reset their own passwords, so that I don't have to air passwords in cleartext.
 
-Input phrase:As an administrator, I want to limit who can see certain metadata fields, so that I can show or hide things from display based on user groups.
-As an administrator, I desire to restrict who can understand sealed metadata field, so that I can prove or shroud thing from display establish on exploiter group.
-As an administrator, I want to specify who can witness certain metadata battlefield, so that I can testify or obscure matter from display base on drug_user groups.
-As an administrator, I want to limit who can visualize certain metadata discipline, so that I can picture or hide things from display free-base on user groups.
-As an administrator, I want to limit who can learn certain metadata sphere, so that I can express or hide things from display based on user groups.
-As an administrator, I want to limit who can watch certain metadata playing_field, so that I can indicate or hide things from display based on user groups.
+Input phrase: As an administrator, I want to limit who can see certain metadata fields, so that I can show or hide things from display based on user groups.
+As an administrator, I desire to restrict who can understand sealed metadata battlefield, so that I can prove or shroud matter from display establish on exploiter groups.
+As an administrator, I want to specify who can witness certain metadata discipline, so that I can testify or obscure things from display base on drug_user groups.
+As an administrator, I want to limit who can visualize certain metadata sphere, so that I can picture or hide things from display free-base on user groups.
+As an administrator, I want to limit who can learn certain metadata playing_field, so that I can express or hide things from display based on user groups.
+As an administrator, I want to limit who can watch certain metadata plain, so that I can indicate or hide things from display based on user groups.
 
-Time for the single dataset = 1.2297 seconds = 0.0003 hours
+Time for the single dataset = 1.1816 seconds = 0.0197 minutes = 0.0003 hours

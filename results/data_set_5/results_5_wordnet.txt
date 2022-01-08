@@ -1,472 +1,472 @@
 data_set_number:5
 
-Input phrase:As a Developer, I want to get a Data Package into Node, so that I can start using the data for doing analysis and visualizations.
+Input phrase: As a Developer, I want to get a Data Package into Node, so that I can start using the data for doing analysis and visualizations.
 As a Developer, I desire to become a datum software into lymph_node, so that I can get_down use the datum for doing psychoanalysis and visual_image.
 As a Developer, I want to receive a Data Package into Node, so that I can begin practice the data for doing analysis and visualizations.
 As a Developer, I want to arrive a Data Package into Node, so that I can depart using the data for doing analysis and visualizations.
 As a Developer, I want to bring a Data Package into Node, so that I can originate using the data for doing analysis and visualizations.
 As a Developer, I want to experience a Data Package into Node, so that I can startle using the data for doing analysis and visualizations.
 
-Input phrase:As a Researcher, I want to get a Data Package into Julia in seconds, so that I can start using the data for doing analysis and visualizations. 
-As a research_worker, I desire to become a datum software into Julia in second, so that I can get_down use the datum for doing psychoanalysis and visual_image. 
-As a Researcher, I want to receive a Data Package into Julia in moment, so that I can begin practice the data for doing analysis and visualizations. 
-As a Researcher, I want to arrive a Data Package into Julia in second_base, so that I can depart using the data for doing analysis and visualizations. 
-As a Researcher, I want to bring a Data Package into Julia in second_gear, so that I can originate using the data for doing analysis and visualizations. 
-As a Researcher, I want to experience a Data Package into Julia in irregular, so that I can startle using the data for doing analysis and visualizations. 
+Input phrase: As a Researcher, I want to get a Data Package into Julia in seconds, so that I can start using the data for doing analysis and visualizations. 
+As a research_worker, I desire to become a datum software into Julia in moment, so that I can get_down use the datum for doing psychoanalysis and visual_image. 
+As a Researcher, I want to receive a Data Package into Julia in second_base, so that I can begin practice the data for doing analysis and visualizations. 
+As a Researcher, I want to arrive a Data Package into Julia in second_gear, so that I can depart using the data for doing analysis and visualizations. 
+As a Researcher, I want to bring a Data Package into Julia in irregular, so that I can originate using the data for doing analysis and visualizations. 
+As a Researcher, I want to experience a Data Package into Julia in seconds, so that I can startle using the data for doing analysis and visualizations. 
 
-Input phrase:As a Publisher, I want to add type information to my data, so that it is more useful to others and can be used better with tools like visualization programs. 
-As a Publisher, I desire to lend character datum to my datum, so that it is more utilitarian to others and can be use well with tool wish visual_image plan. 
-As a Publisher, I want to total type information to my data, so that it is more useful to others and can be practice better with instrument alike visualization program. 
-As a Publisher, I want to add type information to my data, so that it is more useful to others and can be used better with creature comparable visualization broadcast. 
-As a Publisher, I want to add type information to my data, so that it is more useful to others and can be used better with cock like visualization platform. 
+Input phrase: As a Publisher, I want to add type information to my data, so that it is more useful to others and can be used better with tools like visualization programs. 
+As a Publisher, I desire to lend character datum to my datum, so that it is more utilitarian to others and can be use well with instrument wish visual_image plan. 
+As a Publisher, I want to total type information to my data, so that it is more useful to others and can be practice better with creature alike visualization broadcast. 
+As a Publisher, I want to add type information to my data, so that it is more useful to others and can be used better with cock comparable visualization platform. 
 As a Publisher, I want to add type information to my data, so that it is more useful to others and can be used better with tools like visualization course_of_study. 
+As a Publisher, I want to add type information to my data, so that it is more useful to others and can be used better with tools like visualization programs. 
 
-Input phrase:As a Publisher, I want to be able to provide a visualization of data in the Data Package, so that I can provide my analysis and show my work to users of the data. 
-As a Publisher, I desire to be able to supply a visual_image of datum in the datum software, so that I can supply my psychoanalysis and prove my employment to user of the datum. 
-As a Publisher, I want to be able to put_up a visualization of data in the Data box, so that I can put_up my analysis and testify my study to exploiter of the data. 
-As a Publisher, I want to be able to leave a visualization of data in the Data Package, so that I can leave my analysis and picture my workplace to drug_user of the data. 
+Input phrase: As a Publisher, I want to be able to provide a visualization of data in the Data Package, so that I can provide my analysis and show my work to users of the data. 
+As a Publisher, I desire to be able to supply a visual_image of datum in the datum software, so that I can supply my psychoanalysis and prove my employment to exploiter of the datum. 
+As a Publisher, I want to be able to put_up a visualization of data in the Data box, so that I can put_up my analysis and testify my study to drug_user of the data. 
+As a Publisher, I want to be able to leave a visualization of data in the Data Package, so that I can leave my analysis and picture my workplace to users of the data. 
 As a Publisher, I want to be able to provide a visualization of data in the Data Package, so that I can provide my analysis and express my oeuvre to users of the data. 
 As a Publisher, I want to be able to provide a visualization of data in the Data Package, so that I can provide my analysis and indicate my work to users of the data. 
 
-Input phrase:As a Researcher, I want to be able to save new visualizations, so that I can share them with others or include them in the Data Package. 
+Input phrase: As a Researcher, I want to be able to save new visualizations, so that I can share them with others or include them in the Data Package. 
 As a research_worker, I desire to be able to salvage fresh visual_image, so that I can partake them with others or admit them in the datum software. 
 As a Researcher, I want to be able to deliver raw visualizations, so that I can share them with others or include them in the Data box. 
 As a Researcher, I want to be able to spare newfangled visualizations, so that I can share them with others or include them in the Data Package. 
 As a Researcher, I want to be able to keep_open modern visualizations, so that I can share them with others or include them in the Data Package. 
 As a Researcher, I want to be able to write new visualizations, so that I can share them with others or include them in the Data Package. 
 
-Input phrase:As a ResearcherPublisher, I want to know that my data conforms to its Data Package profile, so that I can feel trust in the validity and usefulness of the data. 
-As a ResearcherPublisher, I desire to acknowledge that my datum conform to its datum software visibility, so that I can find reliance in the cogency and utility of the datum. 
-As a ResearcherPublisher, I want to sleep_together that my data adjust to its Data box profile, so that I can palpate faith in the robustness and usefulness of the data. 
+Input phrase: As a ResearcherPublisher, I want to know that my data conforms to its Data Package profile, so that I can feel trust in the validity and usefulness of the data. 
+As a ResearcherPublisher, I desire to acknowledge that my datum adjust to its datum software visibility, so that I can find reliance in the cogency and utility of the datum. 
+As a ResearcherPublisher, I want to sleep_together that my data conforms to its Data box profile, so that I can palpate faith in the robustness and usefulness of the data. 
 As a ResearcherPublisher, I want to know that my data conforms to its Data Package profile, so that I can feel confidence in the validity and usefulness of the data. 
 As a ResearcherPublisher, I want to know that my data conforms to its Data Package profile, so that I can feel trust in the validity and usefulness of the data. 
 As a ResearcherPublisher, I want to know that my data conforms to its Data Package profile, so that I can feel trust in the validity and usefulness of the data. 
 
-Input phrase:As a ResearcherPublisher, I want to understand the ways in which my data is invalid, so that I can know how to fix it. 
+Input phrase: As a ResearcherPublisher, I want to understand the ways in which my data is invalid, so that I can know how to fix it. 
 As a ResearcherPublisher, I desire to sympathize the manner in which my datum is invalid, so that I can acknowledge how to repair it. 
 As a ResearcherPublisher, I want to understand the means in which my data is invalid, so that I can sleep_together how to fasten it. 
 As a ResearcherPublisher, I want to understand the direction in which my data is invalid, so that I can know how to specify it. 
-As a ResearcherPublisher, I want to understand the way in which my data is invalid, so that I can know how to cook it. 
-As a ResearcherPublisher, I want to understand the room in which my data is invalid, so that I can know how to pay_back it. 
+As a ResearcherPublisher, I want to understand the room in which my data is invalid, so that I can know how to cook it. 
+As a ResearcherPublisher, I want to understand the ways in which my data is invalid, so that I can know how to pay_back it. 
 
-Input phrase:As a Researcher, I want to get a Data Package into R in seconds, so that I can start using the data for doing analysis and visualizations. 
-As a research_worker, I desire to become a datum software into roentgen in second, so that I can get_down use the datum for doing psychoanalysis and visual_image. 
-As a gas_constantesearcher, I want to receive a Data Package into gas_constant in moment, so that I can begin practice the data for doing analysis and visualizations. 
-As a radiusesearcher, I want to arrive a Data Package into radius in second_base, so that I can depart using the data for doing analysis and visualizations. 
-As a Researcher, I want to bring a Data Package into R in second_gear, so that I can originate using the data for doing analysis and visualizations. 
-As a Researcher, I want to experience a Data Package into R in irregular, so that I can startle using the data for doing analysis and visualizations. 
+Input phrase: As a Researcher, I want to get a Data Package into R in seconds, so that I can start using the data for doing analysis and visualizations. 
+As a research_worker, I desire to become a datum software into roentgen in moment, so that I can get_down use the datum for doing psychoanalysis and visual_image. 
+As a gas_constantesearcher, I want to receive a Data Package into gas_constant in second_base, so that I can begin practice the data for doing analysis and visualizations. 
+As a radiusesearcher, I want to arrive a Data Package into radius in second_gear, so that I can depart using the data for doing analysis and visualizations. 
+As a Researcher, I want to bring a Data Package into R in irregular, so that I can originate using the data for doing analysis and visualizations. 
+As a Researcher, I want to experience a Data Package into R in seconds, so that I can startle using the data for doing analysis and visualizations. 
 
-Input phrase:As a Researcher, I want to get a Data Package into Excel in seconds, so that I can start using the data for doing analysis and visualizations. 
-As a research_worker, I desire to become a datum software into Excel in second, so that I can get_down use the datum for doing psychoanalysis and visual_image. 
-As a Researcher, I want to receive a Data Package into Excel in moment, so that I can begin practice the data for doing analysis and visualizations. 
-As a Researcher, I want to arrive a Data Package into Excel in second_base, so that I can depart using the data for doing analysis and visualizations. 
-As a Researcher, I want to bring a Data Package into Excel in second_gear, so that I can originate using the data for doing analysis and visualizations. 
-As a Researcher, I want to experience a Data Package into Excel in irregular, so that I can startle using the data for doing analysis and visualizations. 
+Input phrase: As a Researcher, I want to get a Data Package into Excel in seconds, so that I can start using the data for doing analysis and visualizations. 
+As a research_worker, I desire to become a datum software into Excel in moment, so that I can get_down use the datum for doing psychoanalysis and visual_image. 
+As a Researcher, I want to receive a Data Package into Excel in second_base, so that I can begin practice the data for doing analysis and visualizations. 
+As a Researcher, I want to arrive a Data Package into Excel in second_gear, so that I can depart using the data for doing analysis and visualizations. 
+As a Researcher, I want to bring a Data Package into Excel in irregular, so that I can originate using the data for doing analysis and visualizations. 
+As a Researcher, I want to experience a Data Package into Excel in seconds, so that I can startle using the data for doing analysis and visualizations. 
 
-Input phrase:As a Researcher, I want to get a Data Package into SPSS in seconds, so that I can start using the data for doing analysis and visualizations. 
-As a research_worker, I desire to become a datum software into SPSS in second, so that I can get_down use the datum for doing psychoanalysis and visual_image. 
-As a Researcher, I want to receive a Data Package into SPSS in moment, so that I can begin practice the data for doing analysis and visualizations. 
-As a Researcher, I want to arrive a Data Package into SPSS in second_base, so that I can depart using the data for doing analysis and visualizations. 
-As a Researcher, I want to bring a Data Package into SPSS in second_gear, so that I can originate using the data for doing analysis and visualizations. 
-As a Researcher, I want to experience a Data Package into SPSS in irregular, so that I can startle using the data for doing analysis and visualizations. 
+Input phrase: As a Researcher, I want to get a Data Package into SPSS in seconds, so that I can start using the data for doing analysis and visualizations. 
+As a research_worker, I desire to become a datum software into SPSS in moment, so that I can get_down use the datum for doing psychoanalysis and visual_image. 
+As a Researcher, I want to receive a Data Package into SPSS in second_base, so that I can begin practice the data for doing analysis and visualizations. 
+As a Researcher, I want to arrive a Data Package into SPSS in second_gear, so that I can depart using the data for doing analysis and visualizations. 
+As a Researcher, I want to bring a Data Package into SPSS in irregular, so that I can originate using the data for doing analysis and visualizations. 
+As a Researcher, I want to experience a Data Package into SPSS in seconds, so that I can startle using the data for doing analysis and visualizations. 
 
-Input phrase:As a Researcher, I want to get a Data Package into STATA in seconds, so that I can start using the data for doing analysis and visualizations. 
-As a research_worker, I desire to become a datum software into STATA in second, so that I can get_down use the datum for doing psychoanalysis and visual_image. 
-As a Researcher, I want to receive a Data Package into STATA in moment, so that I can begin practice the data for doing analysis and visualizations. 
-As a Researcher, I want to arrive a Data Package into STATA in second_base, so that I can depart using the data for doing analysis and visualizations. 
-As a Researcher, I want to bring a Data Package into STATA in second_gear, so that I can originate using the data for doing analysis and visualizations. 
-As a Researcher, I want to experience a Data Package into STATA in irregular, so that I can startle using the data for doing analysis and visualizations. 
+Input phrase: As a Researcher, I want to get a Data Package into STATA in seconds, so that I can start using the data for doing analysis and visualizations. 
+As a research_worker, I desire to become a datum software into STATA in moment, so that I can get_down use the datum for doing psychoanalysis and visual_image. 
+As a Researcher, I want to receive a Data Package into STATA in second_base, so that I can begin practice the data for doing analysis and visualizations. 
+As a Researcher, I want to arrive a Data Package into STATA in second_gear, so that I can depart using the data for doing analysis and visualizations. 
+As a Researcher, I want to bring a Data Package into STATA in irregular, so that I can originate using the data for doing analysis and visualizations. 
+As a Researcher, I want to experience a Data Package into STATA in seconds, so that I can startle using the data for doing analysis and visualizations. 
 
-Input phrase:As a Researcher, I want to be able to translate my EML dataset to a Data Package, so that I can benefit from the wide array of tools available for Data Packages. 
-As a research_worker, I desire to be able to understand my EML dataset to a datum software, so that I can profit from the across-the-board array of tool available for datum softwares. 
-As a Researcher, I want to be able to translate my EML dataset to a Data box, so that I can benefit from the wide-eyed array of instrument available for Data boxs. 
-As a Researcher, I want to be able to translate my EML dataset to a Data Package, so that I can benefit from the broad array of creature available for Data box. 
-As a Researcher, I want to be able to translate my EML dataset to a Data Package, so that I can benefit from the wide array of cock available for Data Packages. 
+Input phrase: As a Researcher, I want to be able to translate my EML dataset to a Data Package, so that I can benefit from the wide array of tools available for Data Packages. 
+As a research_worker, I desire to be able to understand my EML dataset to a datum software, so that I can profit from the across-the-board array of instrument available for datum softwares. 
+As a Researcher, I want to be able to translate my EML dataset to a Data box, so that I can benefit from the wide-eyed array of creature available for Data boxs. 
+As a Researcher, I want to be able to translate my EML dataset to a Data Package, so that I can benefit from the broad array of cock available for Data Packages. 
+As a Researcher, I want to be able to translate my EML dataset to a Data Package, so that I can benefit from the wide array of tools available for Data Packages. 
 As a Researcher, I want to be able to translate my EML dataset to a Data Package, so that I can benefit from the wide array of tools available for Data Packages. 
 
-Input phrase:As a Researcher, I want to get a Data Package into LibreOffice/OpenOffice in seconds, so that I can start using the data for doing analysis and visualizations. 
-As a research_worker, I desire to become a datum software into LibreOffice/OpenOffice in second, so that I can get_down use the datum for doing psychoanalysis and visual_image. 
-As a Researcher, I want to receive a Data Package into LibreOffice/OpenOffice in moment, so that I can begin practice the data for doing analysis and visualizations. 
-As a Researcher, I want to arrive a Data Package into LibreOffice/OpenOffice in second_base, so that I can depart using the data for doing analysis and visualizations. 
-As a Researcher, I want to bring a Data Package into LibreOffice/OpenOffice in second_gear, so that I can originate using the data for doing analysis and visualizations. 
-As a Researcher, I want to experience a Data Package into LibreOffice/OpenOffice in irregular, so that I can startle using the data for doing analysis and visualizations. 
+Input phrase: As a Researcher, I want to get a Data Package into LibreOffice/OpenOffice in seconds, so that I can start using the data for doing analysis and visualizations. 
+As a research_worker, I desire to become a datum software into LibreOffice/OpenOffice in moment, so that I can get_down use the datum for doing psychoanalysis and visual_image. 
+As a Researcher, I want to receive a Data Package into LibreOffice/OpenOffice in second_base, so that I can begin practice the data for doing analysis and visualizations. 
+As a Researcher, I want to arrive a Data Package into LibreOffice/OpenOffice in second_gear, so that I can depart using the data for doing analysis and visualizations. 
+As a Researcher, I want to bring a Data Package into LibreOffice/OpenOffice in irregular, so that I can originate using the data for doing analysis and visualizations. 
+As a Researcher, I want to experience a Data Package into LibreOffice/OpenOffice in seconds, so that I can startle using the data for doing analysis and visualizations. 
 
-Input phrase:As a Developer, I want to get a Data Package into Python in seconds, so that I can start using the data for doing analysis and visualizations. 
-As a Developer, I desire to become a datum software into Python in second, so that I can get_down use the datum for doing psychoanalysis and visual_image. 
-As a Developer, I want to receive a Data Package into Python in moment, so that I can begin practice the data for doing analysis and visualizations. 
-As a Developer, I want to arrive a Data Package into Python in second_base, so that I can depart using the data for doing analysis and visualizations. 
-As a Developer, I want to bring a Data Package into Python in second_gear, so that I can originate using the data for doing analysis and visualizations. 
-As a Developer, I want to experience a Data Package into Python in irregular, so that I can startle using the data for doing analysis and visualizations. 
+Input phrase: As a Developer, I want to get a Data Package into Python in seconds, so that I can start using the data for doing analysis and visualizations. 
+As a Developer, I desire to become a datum software into Python in moment, so that I can get_down use the datum for doing psychoanalysis and visual_image. 
+As a Developer, I want to receive a Data Package into Python in second_base, so that I can begin practice the data for doing analysis and visualizations. 
+As a Developer, I want to arrive a Data Package into Python in second_gear, so that I can depart using the data for doing analysis and visualizations. 
+As a Developer, I want to bring a Data Package into Python in irregular, so that I can originate using the data for doing analysis and visualizations. 
+As a Developer, I want to experience a Data Package into Python in seconds, so that I can startle using the data for doing analysis and visualizations. 
 
-Input phrase:As a Developer, I want a jQuery plugin for Core Data Packages, so that I can use it to apply to form control that uses a core dataset for autocompletion. 
-As a Developer, I desire a jQuery plugin for kernel datum package, so that I can practice it to use to shape control_condition that practices a kernel dataset for autocompletion. 
-As a Developer, I want a jQuery plugin for congress_of_racial_equality Data software, so that I can use it to put_on to imprint dominance that practice a congress_of_racial_equality dataset for autocompletion. 
-As a Developer, I want a jQuery plugin for effect Data box, so that I can use it to lend_oneself to form restraint that uses a effect dataset for autocompletion. 
+Input phrase: As a Developer, I want a jQuery plugin for Core Data Packages, so that I can use it to apply to form control that uses a core dataset for autocompletion. 
+As a Developer, I desire a jQuery plugin for kernel datum software, so that I can practice it to use to shape control_condition that practices a kernel dataset for autocompletion. 
+As a Developer, I want a jQuery plugin for congress_of_racial_equality Data box, so that I can use it to put_on to imprint dominance that uses a congress_of_racial_equality dataset for autocompletion. 
+As a Developer, I want a jQuery plugin for effect Data Packages, so that I can use it to lend_oneself to form restraint that uses a effect dataset for autocompletion. 
 As a Developer, I want a jQuery plugin for Core Data Packages, so that I can use it to give to form command that uses a core dataset for autocompletion. 
 As a Developer, I want a jQuery plugin for Core Data Packages, so that I can use it to practice to form control that uses a core dataset for autocompletion. 
 
-Input phrase:As a Researcher, I want to get my Excel spreadsheet into a Data Package, so that I can benefit from better tooling and standardization. 
+Input phrase: As a Researcher, I want to get my Excel spreadsheet into a Data Package, so that I can benefit from better tooling and standardization. 
 As a research_worker, I desire to become my Excel spreadsheet into a datum software, so that I can profit from good tooling and calibration. 
 As a Researcher, I want to receive my Excel spreadsheet into a Data box, so that I can benefit from full tooling and standardization. 
 As a Researcher, I want to arrive my Excel spreadsheet into a Data Package, so that I can benefit from estimable tooling and standardization. 
 As a Researcher, I want to bring my Excel spreadsheet into a Data Package, so that I can benefit from beneficial tooling and standardization. 
 As a Researcher, I want to experience my Excel spreadsheet into a Data Package, so that I can benefit from adept tooling and standardization. 
 
-Input phrase:As a Developer, I want to do exploratory data analysis in R and operationalize that analysis in Python, so that I can use the best tool for the job.
+Input phrase: As a Developer, I want to do exploratory data analysis in R and operationalize that analysis in Python, so that I can use the best tool for the job.
 As a Developer, I desire to do exploratory datum psychopsychoanalysis in roentgen and operationalize that psychopsychoanalysis in Python, so that I can practice the better instrument for the occupation.
 As a Developer, I want to do exploratory data analysis in gas_constant and operationalize that analysis in Python, so that I can use the good creature for the problem.
 As a Developer, I want to do exploratory data analysis in radius and operationalize that analysis in Python, so that I can use the full cock for the caper.
 As a Developer, I want to do exploratory data analysis in R and operationalize that analysis in Python, so that I can use the estimable tool for the job.
 As a Developer, I want to do exploratory data analysis in R and operationalize that analysis in Python, so that I can use the beneficial tool for the job.
 
-Input phrase:As a Developer, I want to get a Data Package into Clojure in seconds, so that I can start using the data in doing analysis and visualizations. 
-As a Developer, I desire to become a datum software into Clojure in second, so that I can get_down use the datum in doing psychoanalysis and visual_image. 
-As a Developer, I want to receive a Data Package into Clojure in moment, so that I can begin practice the data in doing analysis and visualizations. 
-As a Developer, I want to arrive a Data Package into Clojure in second_base, so that I can depart using the data in doing analysis and visualizations. 
-As a Developer, I want to bring a Data Package into Clojure in second_gear, so that I can originate using the data in doing analysis and visualizations. 
-As a Developer, I want to experience a Data Package into Clojure in irregular, so that I can startle using the data in doing analysis and visualizations. 
+Input phrase: As a Developer, I want to get a Data Package into Clojure in seconds, so that I can start using the data in doing analysis and visualizations. 
+As a Developer, I desire to become a datum software into Clojure in moment, so that I can get_down use the datum in doing psychoanalysis and visual_image. 
+As a Developer, I want to receive a Data Package into Clojure in second_base, so that I can begin practice the data in doing analysis and visualizations. 
+As a Developer, I want to arrive a Data Package into Clojure in second_gear, so that I can depart using the data in doing analysis and visualizations. 
+As a Developer, I want to bring a Data Package into Clojure in irregular, so that I can originate using the data in doing analysis and visualizations. 
+As a Developer, I want to experience a Data Package into Clojure in seconds, so that I can startle using the data in doing analysis and visualizations. 
 
-Input phrase:As a Developer, I want to get a Data Package into Julia in seconds, so that I can start using the data in doing analysis and visualizations. 
-As a Developer, I desire to become a datum software into Julia in second, so that I can get_down use the datum in doing psychoanalysis and visual_image. 
-As a Developer, I want to receive a Data Package into Julia in moment, so that I can begin practice the data in doing analysis and visualizations. 
-As a Developer, I want to arrive a Data Package into Julia in second_base, so that I can depart using the data in doing analysis and visualizations. 
-As a Developer, I want to bring a Data Package into Julia in second_gear, so that I can originate using the data in doing analysis and visualizations. 
-As a Developer, I want to experience a Data Package into Julia in irregular, so that I can startle using the data in doing analysis and visualizations. 
+Input phrase: As a Developer, I want to get a Data Package into Julia in seconds, so that I can start using the data in doing analysis and visualizations. 
+As a Developer, I desire to become a datum software into Julia in moment, so that I can get_down use the datum in doing psychoanalysis and visual_image. 
+As a Developer, I want to receive a Data Package into Julia in second_base, so that I can begin practice the data in doing analysis and visualizations. 
+As a Developer, I want to arrive a Data Package into Julia in second_gear, so that I can depart using the data in doing analysis and visualizations. 
+As a Developer, I want to bring a Data Package into Julia in irregular, so that I can originate using the data in doing analysis and visualizations. 
+As a Developer, I want to experience a Data Package into Julia in seconds, so that I can startle using the data in doing analysis and visualizations. 
 
-Input phrase:As a Developer, I want to get a Data Package into C++ in seconds, so that I can start using the data in doing analysis and visualizations. 
-As a Developer, I desire to become a datum software into C++ in second, so that I can get_down use the datum in doing psychoanalysis and visual_image. 
-As a Developer, I want to receive a Data Package into C++ in moment, so that I can begin practice the data in doing analysis and visualizations. 
-As a Developer, I want to arrive a Data Package into C++ in second_base, so that I can depart using the data in doing analysis and visualizations. 
-As a Developer, I want to bring a Data Package into C++ in second_gear, so that I can originate using the data in doing analysis and visualizations. 
-As a Developer, I want to experience a Data Package into C++ in irregular, so that I can startle using the data in doing analysis and visualizations. 
+Input phrase: As a Developer, I want to get a Data Package into C++ in seconds, so that I can start using the data in doing analysis and visualizations. 
+As a Developer, I desire to become a datum software into C++ in moment, so that I can get_down use the datum in doing psychoanalysis and visual_image. 
+As a Developer, I want to receive a Data Package into C++ in second_base, so that I can begin practice the data in doing analysis and visualizations. 
+As a Developer, I want to arrive a Data Package into C++ in second_gear, so that I can depart using the data in doing analysis and visualizations. 
+As a Developer, I want to bring a Data Package into C++ in irregular, so that I can originate using the data in doing analysis and visualizations. 
+As a Developer, I want to experience a Data Package into C++ in seconds, so that I can startle using the data in doing analysis and visualizations. 
 
-Input phrase:As a Machine Learning expert, I would like to package ML datasets as data packages, so that I can easily import them into my ML platform, so that I can start using the data in doing analysis. 
+Input phrase: As a Machine Learning expert, I would like to package ML datasets as data packages, so that I can easily import them into my ML platform, so that I can start using the data in doing analysis. 
 As a car eruditeness expert, I would wish to box milliliter datumsets as datum boxs, so that I can well spell them into my milliliter chopine, so that I can get_down use the datum in doing psychoanalysis. 
-As a Machine learn expert, I would like to package ML datasets as data software, so that I can easily import them into my ML platform, so that I can begin practice the data in doing analysis. 
+As a Machine learn expert, I would like to package ML datasets as data packages, so that I can easily import them into my ML platform, so that I can begin practice the data in doing analysis. 
 As a Machine memorize expert, I would like to package ML datasets as data packages, so that I can easily import them into my ML platform, so that I can depart using the data in doing analysis. 
 As a Machine teach expert, I would like to package ML datasets as data packages, so that I can easily import them into my ML platform, so that I can originate using the data in doing analysis. 
 As a Machine determine expert, I would like to package ML datasets as data packages, so that I can easily import them into my ML platform, so that I can startle using the data in doing analysis. 
 
-Input phrase:As a Developer, I want an Elasticsearch integration, so that I can integrate data-packaged data with pipelines that use Elasticsearch. 
+Input phrase: As a Developer, I want an Elasticsearch integration, so that I can integrate data-packaged data with pipelines that use Elasticsearch. 
 As a Developer, I desire an Elasticsearch consolidation, so that I can desegregate datum-box datum with grapevine that practice Elasticsearch. 
-As a Developer, I want an Elasticsearch integration, so that I can integrate data-packaged data with pipeline that use Elasticsearch. 
+As a Developer, I want an Elasticsearch integration, so that I can integrate data-packaged data with pipelines that use Elasticsearch. 
 As a Developer, I want an Elasticsearch integration, so that I can integrate data-packaged data with pipelines that use Elasticsearch. 
 As a Developer, I want an Elasticsearch integration, so that I can integrate data-packaged data with pipelines that use Elasticsearch. 
 As a Developer, I want an Elasticsearch integration, so that I can integrate data-packaged data with pipelines that use Elasticsearch. 
 
-Input phrase:As a Developer, I want an SPSS integration, so that I can integrate data-packaged data with pipelines that use SPSS. 
+Input phrase: As a Developer, I want an SPSS integration, so that I can integrate data-packaged data with pipelines that use SPSS. 
 As a Developer, I desire an SPSS consolidation, so that I can desegregate datum-box datum with grapevine that practice SPSS. 
-As a Developer, I want an SPSS integration, so that I can integrate data-packaged data with pipeline that use SPSS. 
+As a Developer, I want an SPSS integration, so that I can integrate data-packaged data with pipelines that use SPSS. 
 As a Developer, I want an SPSS integration, so that I can integrate data-packaged data with pipelines that use SPSS. 
 As a Developer, I want an SPSS integration, so that I can integrate data-packaged data with pipelines that use SPSS. 
 As a Developer, I want an SPSS integration, so that I can integrate data-packaged data with pipelines that use SPSS. 
 
-Input phrase:As a Developer, I want an EPrints integration, so that I can integrate data-packaged data with pipelines that use EPrints. 
+Input phrase: As a Developer, I want an EPrints integration, so that I can integrate data-packaged data with pipelines that use EPrints. 
 As a Developer, I desire an EPrints consolidation, so that I can desegregate datum-box datum with grapevine that practice EPrints. 
-As a Developer, I want an EPrints integration, so that I can integrate data-packaged data with pipeline that use EPrints. 
+As a Developer, I want an EPrints integration, so that I can integrate data-packaged data with pipelines that use EPrints. 
 As a Developer, I want an EPrints integration, so that I can integrate data-packaged data with pipelines that use EPrints. 
 As a Developer, I want an EPrints integration, so that I can integrate data-packaged data with pipelines that use EPrints. 
 As a Developer, I want an EPrints integration, so that I can integrate data-packaged data with pipelines that use EPrints. 
 
-Input phrase:As a Developer, I want a Mongo integration, so that I can integrate data-packaged data with pipelines that use Mongo. 
+Input phrase: As a Developer, I want a Mongo integration, so that I can integrate data-packaged data with pipelines that use Mongo. 
 As a Developer, I desire a Mongo consolidation, so that I can desegregate datum-box datum with grapevine that practice Mongo. 
-As a Developer, I want a Mongo integration, so that I can integrate data-packaged data with pipeline that use Mongo. 
+As a Developer, I want a Mongo integration, so that I can integrate data-packaged data with pipelines that use Mongo. 
 As a Developer, I want a Mongo integration, so that I can integrate data-packaged data with pipelines that use Mongo. 
 As a Developer, I want a Mongo integration, so that I can integrate data-packaged data with pipelines that use Mongo. 
 As a Developer, I want a Mongo integration, so that I can integrate data-packaged data with pipelines that use Mongo. 
 
-Input phrase:As a Developer, I want a DAT integration, so that I can integrate data-packaged data with pipelines that use DAT. 
+Input phrase: As a Developer, I want a DAT integration, so that I can integrate data-packaged data with pipelines that use DAT. 
 As a Developer, I desire a digital_audiotape consolidation, so that I can desegregate datum-box datum with grapevine that practice digital_audiotape. 
-As a Developer, I want a DAT integration, so that I can integrate data-packaged data with pipeline that use DAT. 
+As a Developer, I want a DAT integration, so that I can integrate data-packaged data with pipelines that use DAT. 
 As a Developer, I want a DAT integration, so that I can integrate data-packaged data with pipelines that use DAT. 
 As a Developer, I want a DAT integration, so that I can integrate data-packaged data with pipelines that use DAT. 
 As a Developer, I want a DAT integration, so that I can integrate data-packaged data with pipelines that use DAT. 
 
-Input phrase:As a ResearcherGovernment Publisher, I want to add general reference data to my narrow dataset, so that my dataset is more useful. 
+Input phrase: As a ResearcherGovernment Publisher, I want to add general reference data to my narrow dataset, so that my dataset is more useful. 
 As a ResearcherGovernment Publisher, I desire to lend cosmopolitan mention datum to my narrow-minded datumset, so that my datumset is more utilitarian. 
 As a ResearcherGovernment Publisher, I want to total general citation data to my minute dataset, so that my dataset is more useful. 
 As a ResearcherGovernment Publisher, I want to add general reference_point data to my narrow dataset, so that my dataset is more useful. 
 As a ResearcherGovernment Publisher, I want to add general reference_book data to my narrow dataset, so that my dataset is more useful. 
 As a ResearcherGovernment Publisher, I want to add general character data to my narrow dataset, so that my dataset is more useful. 
 
-Input phrase:As a ResearcherGovernment Publisher, I want to add general country names to my dataset that only contains country codes, so that my dataset is more readable. 
-As a ResearcherGovernment Publisher, I desire to lend cosmopolitan state name_calling to my dataset that only incorporate state code, so that my dataset is more clear. 
-As a ResearcherGovernment Publisher, I want to total general nation name to my dataset that only hold nation codes, so that my dataset is more readable. 
+Input phrase: As a ResearcherGovernment Publisher, I want to add general country names to my dataset that only contains country codes, so that my dataset is more readable. 
+As a ResearcherGovernment Publisher, I desire to lend cosmopolitan state name_calling to my dataset that only incorporate state codes, so that my dataset is more clear. 
+As a ResearcherGovernment Publisher, I want to total general nation names to my dataset that only hold nation codes, so that my dataset is more readable. 
 As a ResearcherGovernment Publisher, I want to add general area names to my dataset that only control area codes, so that my dataset is more readable. 
-As a ResearcherGovernment Publisher, I want to add general country names to my dataset that only contain country codes, so that my dataset is more readable. 
 As a ResearcherGovernment Publisher, I want to add general country names to my dataset that only check country codes, so that my dataset is more readable. 
+As a ResearcherGovernment Publisher, I want to add general country names to my dataset that only contains country codes, so that my dataset is more readable. 
 
-Input phrase:As a ResearcherGovernment Publisher, I want to add reference data on inflation to my spending dataset, so that the spending lines in my dataset is more understandable. 
-As a ResearcherGovernment Publisher, I desire to lend mention datum on ostentation to my outgo datumset, so that the outgo line in my datumset is more apprehensible. 
-As a ResearcherGovernment Publisher, I want to total citation data on inflation to my spending dataset, so that the spending argumentation in my dataset is more understandable. 
-As a ResearcherGovernment Publisher, I want to add reference_point data on inflation to my spending dataset, so that the spending cable in my dataset is more understandable. 
-As a ResearcherGovernment Publisher, I want to add reference_book data on inflation to my spending dataset, so that the spending course in my dataset is more understandable. 
-As a ResearcherGovernment Publisher, I want to add character data on inflation to my spending dataset, so that the spending wrinkle in my dataset is more understandable. 
+Input phrase: As a ResearcherGovernment Publisher, I want to add reference data on inflation to my spending dataset, so that the spending lines in my dataset is more understandable. 
+As a ResearcherGovernment Publisher, I desire to lend mention datum on ostentation to my outgo datumset, so that the outgo argumentation in my datumset is more apprehensible. 
+As a ResearcherGovernment Publisher, I want to total citation data on inflation to my spending dataset, so that the spending cable in my dataset is more understandable. 
+As a ResearcherGovernment Publisher, I want to add reference_point data on inflation to my spending dataset, so that the spending course in my dataset is more understandable. 
+As a ResearcherGovernment Publisher, I want to add reference_book data on inflation to my spending dataset, so that the spending wrinkle in my dataset is more understandable. 
+As a ResearcherGovernment Publisher, I want to add character data on inflation to my spending dataset, so that the spending pipeline in my dataset is more understandable. 
 
-Input phrase:As a ResearcherGovernment Publisher, I want to map lines in my dataset using geographic data in my dataset, so that my dataset is more engaging for non-technical users. 
-As a ResearcherGovernment Publisher, I desire to map line in my datumset use geographic datum in my datumset, so that my datumset is more engaging for non-technical user. 
-As a ResearcherGovernment Publisher, I want to map argumentation in my dataset practice geographic data in my dataset, so that my dataset is more engaging for non-technical exploiter. 
-As a ResearcherGovernment Publisher, I want to map cable in my dataset using geographic data in my dataset, so that my dataset is more engaging for non-technical drug_user. 
+Input phrase: As a ResearcherGovernment Publisher, I want to map lines in my dataset using geographic data in my dataset, so that my dataset is more engaging for non-technical users. 
+As a ResearcherGovernment Publisher, I desire to map argumentation in my datumset use geographic datum in my datumset, so that my datumset is more engaging for non-technical exploiter. 
+As a ResearcherGovernment Publisher, I want to map cable in my dataset practice geographic data in my dataset, so that my dataset is more engaging for non-technical drug_user. 
 As a ResearcherGovernment Publisher, I want to map course in my dataset using geographic data in my dataset, so that my dataset is more engaging for non-technical users. 
 As a ResearcherGovernment Publisher, I want to map wrinkle in my dataset using geographic data in my dataset, so that my dataset is more engaging for non-technical users. 
+As a ResearcherGovernment Publisher, I want to map pipeline in my dataset using geographic data in my dataset, so that my dataset is more engaging for non-technical users. 
 
-Input phrase:As a Researcher, I want to be able to reference a remote-controlled vocabulary for my dataset, so that I can be sure that column of my dataset are valid against a single shard list of terms. 
+Input phrase: As a Researcher, I want to be able to reference a remote-controlled vocabulary for my dataset, so that I can be sure that column of my dataset are valid against a single shard list of terms. 
 As a research_worker, I desire to be able to reference a remote-control vocabulary for my dataset, so that I can be certain that column of my dataset are valid against a individual shard tilt of footing. 
 As a Researcher, I want to be able to reference a remote-operate vocabulary for my dataset, so that I can be indisputable that column of my dataset are valid against a unmarried shard list of price. 
-As a Researcher, I want to be able to reference a remote-manipulate vocabulary for my dataset, so that I can be sure that column of my dataset are valid against a single shard list of term. 
-As a Researcher, I want to be able to reference a remote-see vocabulary for my dataset, so that I can be sure that column of my dataset are valid against a single shard list of condition. 
-As a Researcher, I want to be able to reference a remote-master vocabulary for my dataset, so that I can be sure that column of my dataset are valid against a single shard list of terminus. 
+As a Researcher, I want to be able to reference a remote-manipulate vocabulary for my dataset, so that I can be sure that column of my dataset are valid against a single shard list of condition. 
+As a Researcher, I want to be able to reference a remote-see vocabulary for my dataset, so that I can be sure that column of my dataset are valid against a single shard list of terminus. 
+As a Researcher, I want to be able to reference a remote-master vocabulary for my dataset, so that I can be sure that column of my dataset are valid against a single shard list of terms. 
 
-Input phrase:As a developer, I want an DSpace integration, so that I can integrate data-packaged data with pipelines that use Dspace. 
+Input phrase: As a developer, I want an DSpace integration, so that I can integrate data-packaged data with pipelines that use Dspace. 
 As a developer, I desire an DSpace consolidation, so that I can desegregate datum-box datum with grapevine that practice Dspace. 
-As a developer, I want an DSpace integration, so that I can integrate data-packaged data with pipeline that use Dspace. 
+As a developer, I want an DSpace integration, so that I can integrate data-packaged data with pipelines that use Dspace. 
 As a developer, I want an DSpace integration, so that I can integrate data-packaged data with pipelines that use Dspace. 
 As a developer, I want an DSpace integration, so that I can integrate data-packaged data with pipelines that use Dspace. 
 As a developer, I want an DSpace integration, so that I can integrate data-packaged data with pipelines that use Dspace. 
 
-Input phrase:As a Developer, I want Feather integration, so that I can integrate data-packaged data with pipelines that use Feather. 
+Input phrase: As a Developer, I want Feather integration, so that I can integrate data-packaged data with pipelines that use Feather. 
 As a Developer, I desire fledge consolidation, so that I can desegregate datum-box datum with grapevine that practice fledge. 
-As a Developer, I want Feather integration, so that I can integrate data-packaged data with pipeline that use Feather. 
+As a Developer, I want Feather integration, so that I can integrate data-packaged data with pipelines that use Feather. 
 As a Developer, I want Feather integration, so that I can integrate data-packaged data with pipelines that use Feather. 
 As a Developer, I want Feather integration, so that I can integrate data-packaged data with pipelines that use Feather. 
 As a Developer, I want Feather integration, so that I can integrate data-packaged data with pipelines that use Feather. 
 
-Input phrase:As a Developer, I want HDF5 integration, so that I can integrate data-packaged data with pipelines that use HDF5.
+Input phrase: As a Developer, I want HDF5 integration, so that I can integrate data-packaged data with pipelines that use HDF5.
 As a Developer, I desire HDF5 consolidation, so that I can desegregate datum-box datum with grapevine that practice HDF5.
-As a Developer, I want HDF5 integration, so that I can integrate data-packaged data with pipeline that use HDF5.
+As a Developer, I want HDF5 integration, so that I can integrate data-packaged data with pipelines that use HDF5.
 As a Developer, I want HDF5 integration, so that I can integrate data-packaged data with pipelines that use HDF5.
 As a Developer, I want HDF5 integration, so that I can integrate data-packaged data with pipelines that use HDF5.
 As a Developer, I want HDF5 integration, so that I can integrate data-packaged data with pipelines that use HDF5.
 
-Input phrase:As a Researcher, working with data, I want an Microsoft Power BI integration, so that I can import datasets without downloading them locally. 
+Input phrase: As a Researcher, working with data, I want an Microsoft Power BI integration, so that I can import datasets without downloading them locally. 
 As a research_worker, work with datum, I desire an Microsoft ability bismuth consolidation, so that I can spell datumsets without download them locally. 
 As a Researcher, function with data, I want an Microsoft office BI integration, so that I can import datasets without downloading them locally. 
 As a Researcher, exercise with data, I want an Microsoft exponent BI integration, so that I can import datasets without downloading them locally. 
 As a Researcher, make with data, I want an Microsoft might BI integration, so that I can import datasets without downloading them locally. 
 As a Researcher, bring with data, I want an Microsoft world_power BI integration, so that I can import datasets without downloading them locally. 
 
-Input phrase:As a ResearcherPublisher, I want an integration with Zenodo, so that when I store my dataset in GitHub, I don’t have to retype descriptive information about my dataset. 
+Input phrase: As a ResearcherPublisher, I want an integration with Zenodo, so that when I store my dataset in GitHub, I don’t have to retype descriptive information about my dataset. 
 As a ResearcherPublisher, I desire an consolidation with Zenodo, so that when I store my dataset in GitHub, I don’t have to retype descriptive data about my dataset. 
 As a ResearcherPublisher, I want an integration with Zenodo, so that when I store my dataset in GitHub, I don’t have to retype descriptive information about my dataset. 
 As a ResearcherPublisher, I want an integration with Zenodo, so that when I store my dataset in GitHub, I don’t have to retype descriptive information about my dataset. 
 As a ResearcherPublisher, I want an integration with Zenodo, so that when I store my dataset in GitHub, I don’t have to retype descriptive information about my dataset. 
 As a ResearcherPublisher, I want an integration with Zenodo, so that when I store my dataset in GitHub, I don’t have to retype descriptive information about my dataset. 
 
-Input phrase:As a Publisher, I would like an integration with Open Refine, so that I can output cleaned Data Packages. 
-As a Publisher, I would wish an consolidation with outdoors polish, so that I can output clean datum package. 
-As a Publisher, I would like an integration with unfold complicate, so that I can output houseclean Data software. 
-As a Publisher, I would like an integration with afford Refine, so that I can output cleanse Data box. 
+Input phrase: As a Publisher, I would like an integration with Open Refine, so that I can output cleaned Data Packages. 
+As a Publisher, I would wish an consolidation with outdoors polish, so that I can output clean datum software. 
+As a Publisher, I would like an integration with unfold complicate, so that I can output houseclean Data box. 
+As a Publisher, I would like an integration with afford Refine, so that I can output cleanse Data Packages. 
 As a Publisher, I would like an integration with exposed Refine, so that I can output scavenge Data Packages. 
 As a Publisher, I would like an integration with assailable Refine, so that I can output cleaned Data Packages. 
 
-Input phrase:As a ResearcherPublisher, I want to publish Data Packages to CKAN, so that my data is findable, and I can have a data API. 
-As a ResearcherPublisher, I desire to print datum package to CKAN, so that my datum is findable, and I can have a datum API. 
-As a ResearcherPublisher, I want to publish Data software to CKAN, so that my data is findable, and I can have a data API. 
+Input phrase: As a ResearcherPublisher, I want to publish Data Packages to CKAN, so that my data is findable, and I can have a data API. 
+As a ResearcherPublisher, I desire to print datum software to CKAN, so that my datum is findable, and I can have a datum API. 
 As a ResearcherPublisher, I want to publish Data box to CKAN, so that my data is findable, and I can have a data API. 
 As a ResearcherPublisher, I want to publish Data Packages to CKAN, so that my data is findable, and I can have a data API. 
 As a ResearcherPublisher, I want to publish Data Packages to CKAN, so that my data is findable, and I can have a data API. 
+As a ResearcherPublisher, I want to publish Data Packages to CKAN, so that my data is findable, and I can have a data API. 
 
-Input phrase:As a ResearcherDeveloper, would like the ability import/export from MS-SQL, so that I can use Data Packages in workflows that involve MS-SQL. 
-As a ResearcherDeveloper, would wish the ability meaning/export from multiple_sclerosis-SQL, so that I can practice datum package in work_flow that imply multiple_sclerosis-SQL. 
-As a ResearcherDeveloper, would like the ability significance/export from mississippi-SQL, so that I can use Data software in workflows that necessitate mississippi-SQL. 
+Input phrase: As a ResearcherDeveloper, would like the ability import/export from MS-SQL, so that I can use Data Packages in workflows that involve MS-SQL. 
+As a ResearcherDeveloper, would wish the ability meaning/export from multiple_sclerosis-SQL, so that I can practice datum software in work_flow that imply multiple_sclerosis-SQL. 
+As a ResearcherDeveloper, would like the ability significance/export from mississippi-SQL, so that I can use Data Packages in workflows that necessitate mississippi-SQL. 
 As a ResearcherDeveloper, would like the ability consequence/export from master_of_science-SQL, so that I can use Data Packages in workflows that involve master_of_science-SQL. 
 As a ResearcherDeveloper, would like the ability import/export from manuscript-SQL, so that I can use Data Packages in workflows that involve manuscript-SQL. 
 As a ResearcherDeveloper, would like the ability import/export from meter-SQL, so that I can use Data Packages in workflows that involve meter-SQL. 
 
-Input phrase:As a Researcher, working with data in NetCDF, I want NetCDF integration, so that I can store my data in plaintext while still retaining its metadata. 
+Input phrase: As a Researcher, working with data in NetCDF, I want NetCDF integration, so that I can store my data in plaintext while still retaining its metadata. 
 As a research_worker, work with datum in NetCDF, I desire NetCDF consolidation, so that I can store my datum in plaintext while however retain its metadatum. 
 As a Researcher, function with data in NetCDF, I want NetCDF integration, so that I can store my data in plaintext while even retaining its metadata. 
 As a Researcher, exercise with data in NetCDF, I want NetCDF integration, so that I can store my data in plaintext while still retaining its metadata. 
 As a Researcher, make with data in NetCDF, I want NetCDF integration, so that I can store my data in plaintext while still retaining its metadata. 
 As a Researcher, bring with data in NetCDF, I want NetCDF integration, so that I can store my data in plaintext while still retaining its metadata. 
 
-Input phrase:As a Researcher, I want an integration with https://data.mendeley.com/, so that I can validate my data upon ingest to the service.
+Input phrase: As a Researcher, I want an integration with https://data.mendeley.com/, so that I can validate my data upon ingest to the service.
 As a research_worker, I desire an consolidation with https://datum.mendeley.com/, so that I can validate my datum upon ingest to the military_service.
 As a Researcher, I want an integration with https://data.mendeley.com/, so that I can validate my data upon ingest to the avail.
 As a Researcher, I want an integration with https://data.mendeley.com/, so that I can validate my data upon ingest to the servicing.
 As a Researcher, I want an integration with https://data.mendeley.com/, so that I can validate my data upon ingest to the serve.
 As a Researcher, I want an integration with https://data.mendeley.com/, so that I can validate my data upon ingest to the overhaul.
 
-Input phrase:As a Publisher, I would like an integration with Excel, so that I can output cleaned Data Packages. 
-As a Publisher, I would wish an consolidation with Excel, so that I can output clean datum package. 
-As a Publisher, I would like an integration with Excel, so that I can output houseclean Data software. 
-As a Publisher, I would like an integration with Excel, so that I can output cleanse Data box. 
+Input phrase: As a Publisher, I would like an integration with Excel, so that I can output cleaned Data Packages. 
+As a Publisher, I would wish an consolidation with Excel, so that I can output clean datum software. 
+As a Publisher, I would like an integration with Excel, so that I can output houseclean Data box. 
+As a Publisher, I would like an integration with Excel, so that I can output cleanse Data Packages. 
 As a Publisher, I would like an integration with Excel, so that I can output scavenge Data Packages. 
 As a Publisher, I would like an integration with Excel, so that I can output cleaned Data Packages. 
 
-Input phrase:As a Publisher, I want to store my data quickly and easily online. 
+Input phrase: As a Publisher, I want to store my data quickly and easily online. 
 As a Publisher, I desire to store my datum promptly and well online. 
 As a Publisher, I want to store my data cursorily and easily online. 
 As a Publisher, I want to store my data quickly and easily online. 
 As a Publisher, I want to store my data quickly and easily online. 
 As a Publisher, I want to store my data quickly and easily online. 
 
-Input phrase:As a Repository Manager, I want a tool that makes it easy for researchers/ users to add basic metadata to their research data, so that it is more findable and therefore useful. 
-As a depository director, I desire a instrument that make it comfortable for inquiryers/ user to lend basic metadatum to their inquiry datum, so that it is more findable and consequently utilitarian. 
-As a Repository coach, I want a creature that induce it easy for researchers/ exploiter to total basic metadata to their research data, so that it is more findable and therefore useful. 
-As a Repository Manager, I want a cock that cause it easy for researchers/ drug_user to add basic metadata to their research data, so that it is more findable and therefore useful. 
-As a Repository Manager, I want a tool that produce it easy for researchers/ users to add basic metadata to their research data, so that it is more findable and therefore useful. 
+Input phrase: As a Repository Manager, I want a tool that makes it easy for researchers/ users to add basic metadata to their research data, so that it is more findable and therefore useful. 
+As a depository director, I desire a instrument that induce it comfortable for inquiryers/ exploiter to lend basic metadatum to their inquiry datum, so that it is more findable and consequently utilitarian. 
+As a Repository coach, I want a creature that cause it easy for researchers/ drug_user to total basic metadata to their research data, so that it is more findable and therefore useful. 
+As a Repository Manager, I want a cock that produce it easy for researchers/ users to add basic metadata to their research data, so that it is more findable and therefore useful. 
 As a Repository Manager, I want a tool that draw it easy for researchers/ users to add basic metadata to their research data, so that it is more findable and therefore useful. 
+As a Repository Manager, I want a tool that create it easy for researchers/ users to add basic metadata to their research data, so that it is more findable and therefore useful. 
 
-Input phrase:As a ResearcherPublisher, I want validate my data with a minimum of clicks, so that I can feel trust in the validity and usefulness of the data. 
+Input phrase: As a ResearcherPublisher, I want validate my data with a minimum of clicks, so that I can feel trust in the validity and usefulness of the data. 
 As a ResearcherPublisher, I desire validate my datum with a minimum of chink, so that I can find reliance in the cogency and utility of the datum. 
 As a ResearcherPublisher, I want validate my data with a minimum of suction_stop, so that I can palpate faith in the robustness and usefulness of the data. 
 As a ResearcherPublisher, I want validate my data with a minimum of pawl, so that I can feel confidence in the validity and usefulness of the data. 
-As a ResearcherPublisher, I want validate my data with a minimum of click, so that I can feel trust in the validity and usefulness of the data. 
+As a ResearcherPublisher, I want validate my data with a minimum of clicks, so that I can feel trust in the validity and usefulness of the data. 
 As a ResearcherPublisher, I want validate my data with a minimum of clicks, so that I can feel trust in the validity and usefulness of the data. 
 
-Input phrase:As a publisher, I want to be able to check that every time I update my data it is still good, so that I can catch errors early and store reliable data. 
+Input phrase: As a publisher, I want to be able to check that every time I update my data it is still good, so that I can catch errors early and store reliable data. 
 As a publisher, I desire to be able to see that every clock_time I update my datum it is however full, so that I can get mistake early_on and store dependable datum. 
 As a publisher, I want to be able to control that every fourth_dimension I update my data it is even estimable, so that I can hitch erroneousness early and store authentic data. 
-As a publisher, I want to be able to match that every meter I update my data it is still beneficial, so that I can capture error early and store reliable data. 
+As a publisher, I want to be able to match that every meter I update my data it is still beneficial, so that I can capture errors early and store reliable data. 
 As a publisher, I want to be able to discipline that every prison_term I update my data it is still adept, so that I can overtake errors early and store reliable data. 
 As a publisher, I want to be able to determine that every time I update my data it is still dear, so that I can watch errors early and store reliable data. 
 
-Input phrase:As a DeveloperWrangler, I want to use a command line tool that allows met to validate data, so that I can feel trust in the validity and usefulness of the data quickly and in the context of my command line workflow. 
+Input phrase: As a DeveloperWrangler, I want to use a command line tool that allows met to validate data, so that I can feel trust in the validity and usefulness of the data quickly and in the context of my command line workflow. 
 As a DeveloperWrangler, I desire to practice a instruction argumentation instrument that let meet to validate datum, so that I can find reliance in the cogency and practicefulness of the datum promptly and in the context of my instruction argumentation work_flow. 
 As a DeveloperWrangler, I want to use a command cable creature that permit converge to validate data, so that I can palpate faith in the robustness and usefulness of the data cursorily and in the context of my command cable workflow. 
-As a DeveloperWrangler, I want to use a command course cock that allow suffer to validate data, so that I can feel confidence in the validity and usefulness of the data quickly and in the context of my command course workflow. 
-As a DeveloperWrangler, I want to use a command wrinkle tool that leave touch to validate data, so that I can feel trust in the validity and usefulness of the data quickly and in the context of my command wrinkle workflow. 
-As a DeveloperWrangler, I want to use a command pipepipeline tool that admit met to validate data, so that I can feel trust in the validity and usefulness of the data quickly and in the context of my command pipepipeline workflow. 
+As a DeveloperWrangler, I want to use a command course cock that leave suffer to validate data, so that I can feel confidence in the validity and usefulness of the data quickly and in the context of my command course workflow. 
+As a DeveloperWrangler, I want to use a command wrinkle tool that admit touch to validate data, so that I can feel trust in the validity and usefulness of the data quickly and in the context of my command wrinkle workflow. 
+As a DeveloperWrangler, I want to use a command pipepipeline tool that give_up met to validate data, so that I can feel trust in the validity and usefulness of the data quickly and in the context of my command pipepipeline workflow. 
 
-Input phrase:As a developer, I want an online service that is connected to my data repository that validates data on update, so that I can delegate data validation to a third party. 
-As a developer, I desire an on-line military_service that is connect to my datum depository that validate datum on update, so that I can delegate datum establishment to a third party. 
+Input phrase: As a developer, I want an online service that is connected to my data repository that validates data on update, so that I can delegate data validation to a third party. 
+As a developer, I desire an on-line military_service that is connect to my datum depository that validates datum on update, so that I can delegate datum establishment to a third party. 
 As a developer, I want an online avail that is associate to my data repository that validates data on update, so that I can delegate data validation to a third party. 
 As a developer, I want an online servicing that is get_in_touch to my data repository that validates data on update, so that I can delegate data validation to a third party. 
 As a developer, I want an online serve that is plug_in to my data repository that validates data on update, so that I can delegate data validation to a third party. 
 As a developer, I want an online overhaul that is connected to my data repository that validates data on update, so that I can delegate data validation to a third party. 
 
-Input phrase:As a government Publisher, I want to make it easy to prove that our published data is valid, so that I can claim that we are living up to our transparency commitments. 
+Input phrase: As a government Publisher, I want to make it easy to prove that our published data is valid, so that I can claim that we are living up to our transparency commitments. 
 As a politics Publisher, I desire to induce it comfortable to testify that our print datum is valid, so that I can claim that we are populate up to our foil committedness. 
-As a government Publisher, I want to cause it easy to test that our publish data is valid, so that I can claim that we are live up to our transparency commitment. 
+As a government Publisher, I want to cause it easy to test that our publish data is valid, so that I can claim that we are live up to our transparency commitments. 
 As a government Publisher, I want to produce it easy to rise that our published data is valid, so that I can claim that we are survive up to our transparency commitments. 
 As a government Publisher, I want to draw it easy to raise that our published data is valid, so that I can claim that we are exist up to our transparency commitments. 
 As a government Publisher, I want to create it easy to prove that our published data is valid, so that I can claim that we are be up to our transparency commitments. 
 
-Input phrase:As a Civic Tech Activist, I want to make it easy to assess the quality of data stored by the government, so that I can make sure that government is living up to its transparency commitments. 
+Input phrase: As a Civic Tech Activist, I want to make it easy to assess the quality of data stored by the government, so that I can make sure that government is living up to its transparency commitments. 
 As a civil technical_school militant, I desire to induce it comfortable to meacertain the timbre of datum store by the politics, so that I can induce certain that politics is populate up to its foil committedness. 
-As a Civic Tech Activist, I want to cause it easy to tax the quality of data stored by the government, so that I can cause indisputable that government is live up to its transparency commitment. 
+As a Civic Tech Activist, I want to cause it easy to tax the quality of data stored by the government, so that I can cause indisputable that government is live up to its transparency commitments. 
 As a Civic Tech Activist, I want to produce it easy to assess the quality of data stored by the government, so that I can produce sure that government is survive up to its transparency commitments. 
 As a Civic Tech Activist, I want to draw it easy to assess the quality of data stored by the government, so that I can draw sure that government is exist up to its transparency commitments. 
 As a Civic Tech Activist, I want to create it easy to assess the quality of data stored by the government, so that I can create sure that government is be up to its transparency commitments. 
 
-Input phrase:As a publisher, I want to embed an interactive preview of my data on my site, so that users can be encouraged that this is the correct data for them. 
-As a publisher, I desire to implant an synergistic preview of my datum on my web_site, so that user can be promote that this is the right datum for them. 
-As a publisher, I want to embed an interactional preview of my data on my site, so that exploiter can be encourage that this is the correct data for them. 
-As a publisher, I want to embed an interactive preview of my data on my site, so that drug_user can be encouraged that this is the correct data for them. 
+Input phrase: As a publisher, I want to embed an interactive preview of my data on my site, so that users can be encouraged that this is the correct data for them. 
+As a publisher, I desire to implant an synergistic preview of my datum on my web_site, so that exploiter can be promote that this is the right datum for them. 
+As a publisher, I want to embed an interactional preview of my data on my site, so that drug_user can be encourage that this is the correct data for them. 
+As a publisher, I want to embed an interactive preview of my data on my site, so that users can be encouraged that this is the correct data for them. 
 As a publisher, I want to embed an interactive preview of my data on my site, so that users can be encouraged that this is the correct data for them. 
 As a publisher, I want to embed an interactive preview of my data on my site, so that users can be encouraged that this is the correct data for them. 
 
-Input phrase:As a publisher, I want to embed a preview button on my site, so that users can preview the data and be encouraged that this is the correct data for them.
-As a publisher, I desire to implant a preview push_button on my web_site, so that user can preview the datum and be promote that this is the right datum for them.
-As a publisher, I want to embed a preview clitoris on my site, so that exploiter can preview the data and be encourage that this is the correct data for them.
-As a publisher, I want to embed a preview release on my site, so that drug_user can preview the data and be encouraged that this is the correct data for them.
+Input phrase: As a publisher, I want to embed a preview button on my site, so that users can preview the data and be encouraged that this is the correct data for them.
+As a publisher, I desire to implant a preview push_button on my web_site, so that exploiter can preview the datum and be promote that this is the right datum for them.
+As a publisher, I want to embed a preview clitoris on my site, so that drug_user can preview the data and be encourage that this is the correct data for them.
+As a publisher, I want to embed a preview release on my site, so that users can preview the data and be encouraged that this is the correct data for them.
 As a publisher, I want to embed a preview button on my site, so that users can preview the data and be encouraged that this is the correct data for them.
 As a publisher, I want to embed a preview button on my site, so that users can preview the data and be encouraged that this is the correct data for them.
 
-Input phrase:As a Publisher, I want to know how many users have previewed a dataset, so that I know how interest in a dataset relates to its actual download numbers. 
-As a Publisher, I desire to acacknowledgeledge how many user have preview a dataset, so that I acacknowledgeledge how sake in a dataset associate to its actual download numbers_pool. 
-As a Publisher, I want to sleep_together how many exploiter have previewed a dataset, so that I sleep_together how pastime in a dataset refer to its actual download number. 
-As a Publisher, I want to know how many drug_user have previewed a dataset, so that I know how interest in a dataset relate to its actual download act. 
+Input phrase: As a Publisher, I want to know how many users have previewed a dataset, so that I know how interest in a dataset relates to its actual download numbers. 
+As a Publisher, I desire to acacknowledgeledge how many exploiter have preview a dataset, so that I acacknowledgeledge how sake in a dataset associate to its actual download numbers_pool. 
+As a Publisher, I want to sleep_together how many drug_user have previewed a dataset, so that I sleep_together how pastime in a dataset refer to its actual download act. 
 As a Publisher, I want to know how many users have previewed a dataset, so that I know how interest in a dataset relates to its actual download phone_number. 
 As a Publisher, I want to know how many users have previewed a dataset, so that I know how interest in a dataset relates to its actual download numeral. 
+As a Publisher, I want to know how many users have previewed a dataset, so that I know how interest in a dataset relates to its actual download issue. 
 
-Input phrase:As a Developer, I want to customize an existing wizard for my specific type of data, so that I can give my users a great user experience.
+Input phrase: As a Developer, I want to customize an existing wizard for my specific type of data, so that I can give my users a great user experience.
 As a Developer, I desire to custom-make an exist ace for my specific character of datum, so that I can yield my exploiter a bang-up exploiter experience.
-As a Developer, I want to customize an existing sorcerer for my specific type of data, so that I can hold my exploiter a capital drug_user experience.
-As a Developer, I want to customize an existing wizard for my specific type of data, so that I can render my drug_user a big user experience.
+As a Developer, I want to customize an existing sorcerer for my specific type of data, so that I can hold my drug_drug_user a capital drug_user experience.
+As a Developer, I want to customize an existing wizard for my specific type of data, so that I can render my users a big user experience.
 As a Developer, I want to customize an existing wizard for my specific type of data, so that I can impart my users a great user experience.
 As a Developer, I want to customize an existing wizard for my specific type of data, so that I can establish my users a great user experience.
 
-Input phrase:As a Publisher, I want to add useful metadata or add in new data columns to make the dataset more useful. 
-As a Publisher, I desire to lend utilitarian metadatum or lend in fresh datum column to induce the datumset more utilitarian. 
+Input phrase: As a Publisher, I want to add useful metadata or add in new data columns to make the dataset more useful. 
+As a Publisher, I desire to lend utilitarian metadatum or lend in fresh datum columns to induce the datumset more utilitarian. 
 As a Publisher, I want to total useful metadata or total in raw data columns to cause the dataset more useful. 
 As a Publisher, I want to add useful metadata or add in newfangled data columns to produce the dataset more useful. 
 As a Publisher, I want to add useful metadata or add in modern data columns to draw the dataset more useful. 
 As a Publisher, I want to add useful metadata or add in new data columns to create the dataset more useful. 
 
-Input phrase:As a publisher, I want to package reproducible steps to get a certain data state, so my methodology is transparent and can be rerun by others. 
+Input phrase: As a publisher, I want to package reproducible steps to get a certain data state, so my methodology is transparent and can be rerun by others. 
 As a publisher, I desire to box reproducible stairs to become a sealed datum state_of_matter, so my methodology is crystalline and can be rerun by others. 
 As a publisher, I want to package reproducible measure to receive a certain data country, so my methodology is diaphanous and can be rerun by others. 
 As a publisher, I want to package reproducible footstep to arrive a certain data department_of_state, so my methodology is guileless and can be rerun by others. 
-As a publisher, I want to package reproducible step to bring a certain data state, so my methodology is transparent and can be rerun by others. 
-As a publisher, I want to package reproducible gradation to experience a certain data state, so my methodology is transparent and can be rerun by others. 
+As a publisher, I want to package reproducible gradation to bring a certain data state, so my methodology is transparent and can be rerun by others. 
+As a publisher, I want to package reproducible footfall to experience a certain data state, so my methodology is transparent and can be rerun by others. 
 
-Input phrase:As a DeveloperDataWrangler, I want to store my Data Package in GitHub and have it automatically stored into CKAN, so that I get a data API and my dataset is listed in a relevant catalog. 
+Input phrase: As a DeveloperDataWrangler, I want to store my Data Package in GitHub and have it automatically stored into CKAN, so that I get a data API and my dataset is listed in a relevant catalog. 
 As a DeveloperdatumWrangler, I desire to store my datum software in GitHub and have it mechanically store into CKAN, so that I become a datum API and my datumset is list in a relevant catalog. 
 As a DeveloperDataWrangler, I want to store my Data box in GitHub and have it automatically stored into CKAN, so that I receive a data API and my dataset is number in a relevant catalog. 
 As a DeveloperDataWrangler, I want to store my Data Package in GitHub and have it automatically stored into CKAN, so that I arrive a data API and my dataset is listed in a relevant catalog. 
 As a DeveloperDataWrangler, I want to store my Data Package in GitHub and have it automatically stored into CKAN, so that I bring a data API and my dataset is listed in a relevant catalog. 
 As a DeveloperDataWrangler, I want to store my Data Package in GitHub and have it automatically stored into CKAN, so that I experience a data API and my dataset is listed in a relevant catalog. 
 
-Input phrase:As a Researcher, I want a tool that can generate basic statistics about a dataset, so that I can get a quick preview of the data. 
-As a research_worker, I desire a instrument that can render basic statistic about a datumset, so that I can become a flying preview of the datum. 
+Input phrase: As a Researcher, I want a tool that can generate basic statistics about a dataset, so that I can get a quick preview of the data. 
+As a research_worker, I desire a instrument that can render basic statistics about a datumset, so that I can become a flying preview of the datum. 
 As a Researcher, I want a creature that can bereceive basic statistics about a dataset, so that I can receive a agile preview of the data. 
 As a Researcher, I want a cock that can generate basic statistics about a dataset, so that I can arrive a immediate preview of the data. 
 As a Researcher, I want a tool that can generate basic statistics about a dataset, so that I can bring a quick preview of the data. 
 As a Researcher, I want a tool that can generate basic statistics about a dataset, so that I can experience a quick preview of the data. 
 
-Input phrase:As a DeveloperPublisher, I want a tool to create an embeddable data summary via iframe, so that I can embed data summaries across sites. 
-As a DeveloperPublisher, I desire a instrument to make an implantdable datum summary via iframe, so that I can implant datum summary across site. 
-As a DeveloperPublisher, I want a creature to produce an embeddable data summary via iframe, so that I can embed data summaries across web_site. 
+Input phrase: As a DeveloperPublisher, I want a tool to create an embeddable data summary via iframe, so that I can embed data summaries across sites. 
+As a DeveloperPublisher, I desire a instrument to make an implantdable datum summary via iframe, so that I can implant datum summary across web_site. 
+As a DeveloperPublisher, I want a creature to produce an embeddable data summary via iframe, so that I can embed data summaries across sites. 
 As a DeveloperPublisher, I want a cock to create an embeddable data summary via iframe, so that I can embed data summaries across sites. 
 As a DeveloperPublisher, I want a tool to create an embeddable data summary via iframe, so that I can embed data summaries across sites. 
 As a DeveloperPublisher, I want a tool to create an embeddable data summary via iframe, so that I can embed data summaries across sites. 
 
-Input phrase:As a Researcher, I want an app that generates an OpenRefine reconciliation API endpoint from a Tabular Data Package, so that I can use it to clean messy data. 
-As a research_worker, I desire an app that generate an OpenRefine reconciliation API end_point from a Tabular datum software, so that I can practice it to uninfected messy datum. 
-As a Researcher, I want an app that render an OpenRefine reconciliation API endpoint from a Tabular Data box, so that I can use it to blank messy data. 
-As a Researcher, I want an app that beget an OpenRefine reconciliation API endpoint from a Tabular Data Package, so that I can use it to clean messy data. 
+Input phrase: As a Researcher, I want an app that generates an OpenRefine reconciliation API endpoint from a Tabular Data Package, so that I can use it to clean messy data. 
+As a research_worker, I desire an app that render an OpenRefine reconciliation API end_point from a Tabular datum software, so that I can practice it to uninfected messy datum. 
+As a Researcher, I want an app that beget an OpenRefine reconciliation API endpoint from a Tabular Data box, so that I can use it to blank messy data. 
+As a Researcher, I want an app that generates an OpenRefine reconciliation API endpoint from a Tabular Data Package, so that I can use it to clean messy data. 
 As a Researcher, I want an app that generates an OpenRefine reconciliation API endpoint from a Tabular Data Package, so that I can use it to clean messy data. 
 As a Researcher, I want an app that generates an OpenRefine reconciliation API endpoint from a Tabular Data Package, so that I can use it to clean messy data. 
 
-Input phrase:As a Researcher, I want an app that create proxy Data Packages for well know and reliable data, sources, so that I can load high quality data using Data Package tooling. 
-As a research_worker, I desire an app that make proxy datum package for good acknowledge and dependable datum, beginning, so that I can load eminent timbre datum use datum software tooling. 
-As a Researcher, I want an app that produce proxy Data software for well sleep_together and authentic data, source, so that I can load gamey quality data practice Data box tooling. 
-As a Researcher, I want an app that create proxy Data box for well know and reliable data, informant, so that I can load high quality data using Data Package tooling. 
+Input phrase: As a Researcher, I want an app that create proxy Data Packages for well know and reliable data, sources, so that I can load high quality data using Data Package tooling. 
+As a research_worker, I desire an app that make proxy datum software for good acknowledge and dependable datum, beginning, so that I can load eminent timbre datum use datum software tooling. 
+As a Researcher, I want an app that produce proxy Data box for well sleep_together and authentic data, informant, so that I can load gamey quality data practice Data box tooling. 
 As a Researcher, I want an app that create proxy Data Packages for well know and reliable data, generator, so that I can load high quality data using Data Package tooling. 
 As a Researcher, I want an app that create proxy Data Packages for well know and reliable data, reservoir, so that I can load high quality data using Data Package tooling. 
+As a Researcher, I want an app that create proxy Data Packages for well know and reliable data, reference, so that I can load high quality data using Data Package tooling. 
 
-Input phrase:As a RepositoryManagerResearcher, I want an app that acts as a match-making service for packaging data, so that owners are paired with data packagers. 
-As a RepositoryManagerResearcher, I desire an app that act as a catch-make military_service for promotion datum, so that owner are pair with datum packagers. 
-As a RepositoryManagerResearcher, I want an app that work as a peer-induce avail for packaging data, so that owners are match with data packagers. 
-As a RepositoryManagerResearcher, I want an app that dissemble as a couple-cause servicing for packaging data, so that owners are copulate with data packagers. 
+Input phrase: As a RepositoryManagerResearcher, I want an app that acts as a match-making service for packaging data, so that owners are paired with data packagers. 
+As a RepositoryManagerResearcher, I desire an app that work as a catch-make military_service for promotion datum, so that owners are pair with datum packagers. 
+As a RepositoryManagerResearcher, I want an app that dissemble as a peer-induce avail for packaging data, so that owners are match with data packagers. 
+As a RepositoryManagerResearcher, I want an app that acts as a couple-cause servicing for packaging data, so that owners are copulate with data packagers. 
 As a RepositoryManagerResearcher, I want an app that acts as a match-produce serve for packaging data, so that owners are paired with data packagers. 
 As a RepositoryManagerResearcher, I want an app that acts as a match-draw overhaul for packaging data, so that owners are paired with data packagers. 
 
-Input phrase:As a developer, I would like to create a web socket protocol for Frictionless data tools, so that I can easily use data packages with additional data analysis tools. 
-As a developer, I would wish to make a vane socket protocol for Frictionless datum tool, so that I can well practice datum package with extra datum psychoanalysis tool. 
-As a developer, I would like to produce a network socket protocol for Frictionless data instrument, so that I can easily use data software with additional data analysis instrument. 
-As a developer, I would like to create a world_wide_web socket protocol for Frictionless data creature, so that I can easily use data packages with additional data analysis creature. 
-As a developer, I would like to create a web socket protocol for Frictionless data cock, so that I can easily use data packages with additional data analysis cock. 
+Input phrase: As a developer, I would like to create a web socket protocol for Frictionless data tools, so that I can easily use data packages with additional data analysis tools. 
+As a developer, I would wish to make a vane socket protocol for Frictionless datum instrument, so that I can well practice datum software with extra datum psychoanalysis instrument. 
+As a developer, I would like to produce a network socket protocol for Frictionless data creature, so that I can easily use data packages with additional data analysis creature. 
+As a developer, I would like to create a world_wide_web socket protocol for Frictionless data cock, so that I can easily use data packages with additional data analysis cock. 
+As a developer, I would like to create a web socket protocol for Frictionless data tools, so that I can easily use data packages with additional data analysis tools. 
 As a developer, I would like to create a web socket protocol for Frictionless data tools, so that I can easily use data packages with additional data analysis tools. 
 
-Input phrase:As a Publisher, I would like a tool to check data availability persistence after publication. 
+Input phrase: As a Publisher, I would like a tool to check data availability persistence after publication. 
 As a Publisher, I would wish a instrument to see datum handiness continuity after issue. 
 As a Publisher, I would like a creature to control data availability doggedness after publication. 
 As a Publisher, I would like a cock to match data availability perseverance after publication. 
 As a Publisher, I would like a tool to discipline data availability persistence after publication. 
 As a Publisher, I would like a tool to determine data availability persistence after publication. 
 
-Input phrase:As a ResearcherPublisher, I want to specify the funding that contributed to the creation of a given dataset, so that funding agencies can identify the funding, source for a given dataset. 
+Input phrase: As a ResearcherPublisher, I want to specify the funding that contributed to the creation of a given dataset, so that funding agencies can identify the funding, source for a given dataset. 
 As a ResearcherPublisher, I desire to stipulate the support that lend to the initiation of a give dataset, so that support agency can name the support, beginning for a give dataset. 
 As a ResearcherPublisher, I want to pin_down the financing that contribute to the universe of a yield dataset, so that financing representation can identify the financing, informant for a yield dataset. 
 As a ResearcherPublisher, I want to intend the funding that put_up to the creation of a hold dataset, so that funding means can identify the funding, generator for a hold dataset. 
 As a ResearcherPublisher, I want to assign the funding that contributed to the creation of a render dataset, so that funding agencies can identify the funding, reservoir for a render dataset. 
 As a ResearcherPublisher, I want to specify the funding that contributed to the creation of a impart dataset, so that funding agencies can identify the funding, reference for a impart dataset. 
 
-Input phrase:As a ResearcherPublisher, I want to add a DOI to a dataset, so that I can cite it in papers stored  with the data. 
+Input phrase: As a ResearcherPublisher, I want to add a DOI to a dataset, so that I can cite it in papers stored  with the data. 
 As a ResearcherPublisher, I desire to lend a department_of_the_interior to a datumset, so that I can mention it in document store  with the datum. 
-As a ResearcherPublisher, I want to total a DOI to a dataset, so that I can reference it in paper stored  with the data. 
-As a ResearcherPublisher, I want to add a DOI to a dataset, so that I can quote it in composition stored  with the data. 
-As a ResearcherPublisher, I want to add a DOI to a dataset, so that I can adduce it in newspaper stored  with the data. 
+As a ResearcherPublisher, I want to total a DOI to a dataset, so that I can reference it in composition stored  with the data. 
+As a ResearcherPublisher, I want to add a DOI to a dataset, so that I can quote it in newspaper stored  with the data. 
+As a ResearcherPublisher, I want to add a DOI to a dataset, so that I can adduce it in papers stored  with the data. 
 As a ResearcherPublisher, I want to add a DOI to a dataset, so that I can summon it in papers stored  with the data. 
 
-Input phrase:
+Input phrase: 
 
 
 
 
 
 
-Time for the single dataset = 1.1792 seconds = 0.0003 hours
+Time for the single dataset = 0.8653 seconds = 0.0144 minutes = 0.0002 hours

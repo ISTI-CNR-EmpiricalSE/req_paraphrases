@@ -1,472 +1,472 @@
 data_set_number:12
 
-Input phrase:As an app developer, I want to include the code of a dataset type in my app artifact and create a dataset of that type when deploying the app.
+Input phrase: As an app developer, I want to include the code of a dataset type in my app artifact and create a dataset of that type when deploying the app.
 As an app developer, I desire to admit the code of a dataset character in my app artifact and make a dataset of that character when deploy the app.
 As an app developer, I want to include the code of a dataset type in my app artifact and produce a dataset of that type when deploying the app.
 As an app developer, I want to include the code of a dataset type in my app artifact and create a dataset of that type when deploying the app.
 As an app developer, I want to include the code of a dataset type in my app artifact and create a dataset of that type when deploying the app.
 As an app developer, I want to include the code of a dataset type in my app artifact and create a dataset of that type when deploying the app.
 
-Input phrase:As an app developer, I want to deploy a new version of a dataset type as part of deploying a new version of the app that includes it and I expect that all dataset instances of that type that were created as part of the app deployment start using the new code.
-As an app developer, I desire to deploy a fresh adaptation of a dataset character as region of deploy a fresh adaptation of the app that include it and I ask that all dataset case of that character that were make as region of the app deployment beginning use the fresh code.
-As an app developer, I want to deploy a raw translation of a dataset type as function of deploying a raw translation of the app that admit it and I have_a_bun_in_the_oven that all dataset example of that type that were create as function of the app deployment startle practice the raw code.
+Input phrase: As an app developer, I want to deploy a new version of a dataset type as part of deploying a new version of the app that includes it and I expect that all dataset instances of that type that were created as part of the app deployment start using the new code.
+As an app developer, I desire to deploy a fresh adaptation of a dataset character as region of deploy a fresh adaptation of the app that admit it and I ask that all dataset case of that character that were make as region of the app deployment beginning use the fresh code.
+As an app developer, I want to deploy a raw translation of a dataset type as function of deploying a raw translation of the app that includes it and I have_a_bun_in_the_oven that all dataset example of that type that were create as function of the app deployment startle practice the raw code.
 As an app developer, I want to deploy a newfangledfangledfangled interpretation of a dataset type as character of deploying a newfangledfangledfangled interpretation of the app that includes it and I expect that all dataset instances of that type that were produce as character of the app deployment starting_signal using the newfangledfangledfangled code.
 As an app developer, I want to deploy a modern version of a dataset type as share of deploying a modern version of the app that includes it and I expect that all dataset instances of that type that were created as share of the app deployment start using the modern code.
 As an app developer, I want to deploy a new version of a dataset type as contribution of deploying a new version of the app that includes it and I expect that all dataset instances of that type that were created as contribution of the app deployment start using the new code.
 
-Input phrase:As an app developer, I want to deploy a new version of a dataset type as part of an app artifact, without affecting other datasets of this type.
+Input phrase: As an app developer, I want to deploy a new version of a dataset type as part of an app artifact, without affecting other datasets of this type.
 As an app developer, I desire to deploy a fresh adaptation of a dataset character as region of an app artifact, without affect other datasets of this character.
 As an app developer, I want to deploy a raw translation of a dataset type as function of an app artifact, without involve other datasets of this type.
 As an app developer, I want to deploy a newfangled interpretation of a dataset type as character of an app artifact, without feign other datasets of this type.
 As an app developer, I want to deploy a modern version of a dataset type as share of an app artifact, without affecting other datasets of this type.
 As an app developer, I want to deploy a new version of a dataset type as contribution of an app artifact, without affecting other datasets of this type.
 
-Input phrase:As an app developer, I want to explore a dataset instance of a type that was deployed as part of an app.
+Input phrase: As an app developer, I want to explore a dataset instance of a type that was deployed as part of an app.
 As an app developer, I desire to research a dataset case of a character that was deploy as region of an app.
 As an app developer, I want to explore a dataset example of a type that was deployed as function of an app.
 As an app developer, I want to explore a dataset instance of a type that was deployed as character of an app.
 As an app developer, I want to explore a dataset instance of a type that was deployed as share of an app.
 As an app developer, I want to explore a dataset instance of a type that was deployed as contribution of an app.
 
-Input phrase:As an app developer, I want to ensure that when I deploy an artifact without creating an app this will not create any dataset types or instances.
-As an app developer, I desire to guarantee that when I deploy an artifact without make an app this will not make any dataset type or case.
-As an app developer, I want to see that when I deploy an artifact without produce an app this will not produce any dataset character or example.
+Input phrase: As an app developer, I want to ensure that when I deploy an artifact without creating an app this will not create any dataset types or instances.
+As an app developer, I desire to guarantee that when I deploy an artifact without make an app this will not make any dataset character or case.
+As an app developer, I want to see that when I deploy an artifact without produce an app this will not produce any dataset types or example.
 As an app developer, I want to ensure that when I deploy an artifact without produce an app this will not create any dataset types or instances.
 As an app developer, I want to ensure that when I deploy an artifact without creating an app this will not create any dataset types or instances.
 As an app developer, I want to ensure that when I deploy an artifact without creating an app this will not create any dataset types or instances.
 
-Input phrase:As an app developer, I want to share a dataset type across multiple applications that include the dataset type's code in their artifacts.
-As an app developer, I desire to partake a dataset character across multiple application that admit the dataset character's code in their artifact.
-As an app developer, I want to share a dataset type across multiple lotion that include the dataset type's code in their artifacts.
+Input phrase: As an app developer, I want to share a dataset type across multiple applications that include the dataset type's code in their artifacts.
+As an app developer, I desire to partake a dataset character across multiple lotion that admit the dataset character's code in their artifacts.
+As an app developer, I want to share a dataset type across multiple applications that include the dataset type's code in their artifacts.
 As an app developer, I want to share a dataset type across multiple applications that include the dataset type's code in their artifacts.
 As an app developer, I want to share a dataset type across multiple applications that include the dataset type's code in their artifacts.
 As an app developer, I want to share a dataset type across multiple applications that include the dataset type's code in their artifacts.
 
-Input phrase:As an app developer, I want to ensure that when I deploy a new version of an app that includes a shared dataset type that all dataset instances created by this app start using the new code but all dataset instances created by other apps remain unchanged.
-As an app developer, I desire to guarantee that when I deploy a fresh adaptation of an app that include a divided dataset character that all dataset case make by this app get_down use the fresh code but all dataset case make by other apps stay unaltered.
-As an app developer, I want to see that when I deploy a raw translation of an app that admit a shared dataset type that all dataset example create by this app begin practice the raw code but all dataset example create by other apps persist unchanged.
+Input phrase: As an app developer, I want to ensure that when I deploy a new version of an app that includes a shared dataset type that all dataset instances created by this app start using the new code but all dataset instances created by other apps remain unchanged.
+As an app developer, I desire to guarantee that when I deploy a fresh adaptation of an app that admit a divided dataset character that all dataset case make by this app get_down use the fresh code but all dataset case make by other apps stay unaltered.
+As an app developer, I want to see that when I deploy a raw translation of an app that includes a shared dataset type that all dataset example create by this app begin practice the raw code but all dataset example create by other apps persist unchanged.
 As an app developer, I want to ensure that when I deploy a newfangledfangled interpretation of an app that includes a shared dataset type that all dataset instances produce by this app depart using the newfangledfangled code but all dataset instances produce by other apps remain unchanged.
 As an app developer, I want to ensure that when I deploy a modern version of an app that includes a shared dataset type that all dataset instances created by this app originate using the modern code but all dataset instances created by other apps remain unchanged.
 As an app developer, I want to ensure that when I deploy a new version of an app that includes a shared dataset type that all dataset instances created by this app startle using the new code but all dataset instances created by other apps remain unchanged.
 
-Input phrase:As an app developer, I want to ensure that when I deploy a new version of an app that includes an older version of a dataset type deployed by another app and I expect that the dataset instances created by this app use the dataset type code included in this app.
-As an app developer, I desire to guarantee that when I deploy a fresh adaptation of an app that include an aged adaptation of a dataset character deploy by another app and I ask that the dataset case make by this app practice the dataset character code include in this app.
-As an app developer, I want to see that when I deploy a raw translation of an app that admit an elder translation of a dataset type deployed by another app and I have_a_bun_in_the_oven that the dataset example create by this app use the dataset type code admit in this app.
+Input phrase: As an app developer, I want to ensure that when I deploy a new version of an app that includes an older version of a dataset type deployed by another app and I expect that the dataset instances created by this app use the dataset type code included in this app.
+As an app developer, I desire to guarantee that when I deploy a fresh adaptation of an app that admit an aged adaptation of a dataset character deploy by another app and I ask that the dataset case make by this app practice the dataset character code include in this app.
+As an app developer, I want to see that when I deploy a raw translation of an app that includes an elder translation of a dataset type deployed by another app and I have_a_bun_in_the_oven that the dataset example create by this app use the dataset type code admit in this app.
 As an app developer, I want to ensure that when I deploy a newfangled interpretation of an app that includes an old interpretation of a dataset type deployed by another app and I expect that the dataset instances produce by this app use the dataset type code included in this app.
 As an app developer, I want to ensure that when I deploy a modern version of an app that includes an erstwhile version of a dataset type deployed by another app and I expect that the dataset instances created by this app use the dataset type code included in this app.
 As an app developer, I want to ensure that when I deploy a new version of an app that includes an honest-to-god version of a dataset type deployed by another app and I expect that the dataset instances created by this app use the dataset type code included in this app.
 
-Input phrase:As an app developer, I want to ensure that when I deploy a new version of an app that includes a different version of a dataset type deployed by another app and this app shares a dataset instance of this type with the other app the deployment will fail with a version conflict error. 
-As an app developer, I desire to guarantee that when I deploy a fresh adaptation of an app that include a unlike adaptation of a dataset character deploy by another app and this app share a dataset case of this character with the other app the deployment will fail with a adaptation battle mistake. 
-As an app developer, I want to see that when I deploy a raw translation of an app that admit a different translation of a dataset type deployed by another app and this app partake a dataset example of this type with the other app the deployment will fail with a translation dispute erroneousness. 
+Input phrase: As an app developer, I want to ensure that when I deploy a new version of an app that includes a different version of a dataset type deployed by another app and this app shares a dataset instance of this type with the other app the deployment will fail with a version conflict error. 
+As an app developer, I desire to guarantee that when I deploy a fresh adaptation of an app that admit a unlike adaptation of a dataset character deploy by another app and this app partake a dataset case of this character with the other app the deployment will fail with a adaptation battle mistake. 
+As an app developer, I want to see that when I deploy a raw translation of an app that includes a different translation of a dataset type deployed by another app and this app shares a dataset example of this type with the other app the deployment will fail with a translation dispute erroneousness. 
 As an app developer, I want to ensure that when I deploy a newfangled interpretation of an app that includes a different interpretation of a dataset type deployed by another app and this app shares a dataset instance of this type with the other app the deployment will fail with a interpretation conflict error. 
 As an app developer, I want to ensure that when I deploy a modern version of an app that includes a different version of a dataset type deployed by another app and this app shares a dataset instance of this type with the other app the deployment will fail with a version conflict error. 
 As an app developer, I want to ensure that when I deploy a new version of an app that includes a different version of a dataset type deployed by another app and this app shares a dataset instance of this type with the other app the deployment will fail with a version conflict error. 
 
-Input phrase:As an app developer, I want to share a dataset type that I had previously deployed as part of an app.
+Input phrase: As an app developer, I want to share a dataset type that I had previously deployed as part of an app.
 As an app developer, I desire to regionake a dataset character that I had previously deploy as region of an app.
 As an app developer, I want to share a dataset type that I had previously deployed as function of an app.
 As an app developer, I want to share a dataset type that I had previously deployed as character of an app.
 As an app developer, I want to share a dataset type that I had previously deployed as share of an app.
 As an app developer, I want to share a dataset type that I had previously deployed as contribution of an app.
 
-Input phrase:As a dataset developer, I want to deploy a dataset type independent from any app and allow apps to create and use dataset instances of that type.
+Input phrase: As a dataset developer, I want to deploy a dataset type independent from any app and allow apps to create and use dataset instances of that type.
 As a dataset developer, I desire to deploy a dataset character autonomous from any app and let apps to make and practice dataset case of that character.
 As a dataset developer, I want to deploy a dataset type independent from any app and permit apps to produce and use dataset example of that type.
 As a dataset developer, I want to deploy a dataset type independent from any app and leave apps to create and use dataset instances of that type.
 As a dataset developer, I want to deploy a dataset type independent from any app and admit apps to create and use dataset instances of that type.
 As a dataset developer, I want to deploy a dataset type independent from any app and give_up apps to create and use dataset instances of that type.
 
-Input phrase:As a dataset developer, I want to have the option of forcing applications to have the dataset code injected at runtime.
-As a dataset developer, I desire to have the choice of coerce application to have the dataset code inject at runtime.
-As a dataset developer, I want to have the option of impel lotion to have the dataset code interject at runtime.
+Input phrase: As a dataset developer, I want to have the option of forcing applications to have the dataset code injected at runtime.
+As a dataset developer, I desire to have the choice of coerce lotion to have the dataset code inject at runtime.
+As a dataset developer, I want to have the option of impel applications to have the dataset code interject at runtime.
 As a dataset developer, I want to have the option of push applications to have the dataset code injected at runtime.
 As a dataset developer, I want to have the option of force applications to have the dataset code injected at runtime.
 As a dataset developer, I want to have the option of wedge applications to have the dataset code injected at runtime.
 
-Input phrase:As a dataset developer, I want to have an archetype that helps me package my dataset type properly.
-As a dataset developer, I desire to have an original that help me box my dataset character by_rights.
-As a dataset developer, I want to have an archetype that help_oneself me package my dataset type properly.
+Input phrase: As a dataset developer, I want to have an archetype that helps me package my dataset type properly.
+As a dataset developer, I desire to have an original that help_oneself me box my dataset character by_rights.
 As a dataset developer, I want to have an archetype that serve me package my dataset type properly.
 As a dataset developer, I want to have an archetype that avail me package my dataset type properly.
 As a dataset developer, I want to have an archetype that helps me package my dataset type properly.
+As a dataset developer, I want to have an archetype that helps me package my dataset type properly.
 
-Input phrase:As a dataset developer, I want to separate the interface from the implementation of a dataset type.
+Input phrase: As a dataset developer, I want to separate the interface from the implementation of a dataset type.
 As a dataset developer, I desire to distinguish the interface from the execution of a dataset character.
 As a dataset developer, I want to divide the interface from the implementation of a dataset type.
 As a dataset developer, I want to classify the interface from the implementation of a dataset type.
 As a dataset developer, I want to break the interface from the implementation of a dataset type.
 As a dataset developer, I want to discriminate the interface from the implementation of a dataset type.
 
-Input phrase:As an app developer, I want to only depend on the interface of a dataset type in my app and have the system inject the implementation at runtime.
+Input phrase: As an app developer, I want to only depend on the interface of a dataset type in my app and have the system inject the implementation at runtime.
 As an app developer, I desire to only count on the interface of a dataset character in my app and have the arrangement interject the execution at runtime.
 As an app developer, I want to only depend on the interface of a dataset type in my app and have the organization inject the implementation at runtime.
 As an app developer, I want to only depend on the interface of a dataset type in my app and have the system inject the implementation at runtime.
 As an app developer, I want to only depend on the interface of a dataset type in my app and have the system inject the implementation at runtime.
 As an app developer, I want to only depend on the interface of a dataset type in my app and have the system inject the implementation at runtime.
 
-Input phrase:As an app developer, I want to write unit tests for an app that depends on the interface of a dataset type.
-As an app developer, I desire to publish unit_of_measurement trial for an app that depend on the interface of a dataset character.
-As an app developer, I want to compose whole test for an app that count on the interface of a dataset type.
-As an app developer, I want to spell unit examination for an app that depends on the interface of a dataset type.
+Input phrase: As an app developer, I want to write unit tests for an app that depends on the interface of a dataset type.
+As an app developer, I desire to publish unit_of_measurement trial for an app that count on the interface of a dataset character.
+As an app developer, I want to compose whole examination for an app that depends on the interface of a dataset type.
+As an app developer, I want to spell unit tests for an app that depends on the interface of a dataset type.
 As an app developer, I want to write unit tests for an app that depends on the interface of a dataset type.
 As an app developer, I want to write unit tests for an app that depends on the interface of a dataset type.
 
-Input phrase:As a dataset developer, I want to assign explicit versions to the code of a dataset type.
-As a dataset developer, I desire to delegate denotative version to the code of a dataset character.
-As a dataset developer, I want to impute explicit adaptation to the code of a dataset type.
-As a dataset developer, I want to put explicit translation to the code of a dataset type.
-As a dataset developer, I want to arrogate explicit interpretation to the code of a dataset type.
+Input phrase: As a dataset developer, I want to assign explicit versions to the code of a dataset type.
+As a dataset developer, I desire to delegate denotative adaptation to the code of a dataset character.
+As a dataset developer, I want to impute explicit translation to the code of a dataset type.
+As a dataset developer, I want to put explicit interpretation to the code of a dataset type.
+As a dataset developer, I want to arrogate explicit versions to the code of a dataset type.
 As a dataset developer, I want to assign explicit versions to the code of a dataset type.
 
-Input phrase:As a dataset developer, I want to deploy a new version of a dataset type without affecting the dataset instances of that type.
+Input phrase: As a dataset developer, I want to deploy a new version of a dataset type without affecting the dataset instances of that type.
 As a dataset developer, I desire to deploy a fresh adaptation of a dataset character without affect the dataset case of that character.
 As a dataset developer, I want to deploy a raw translation of a dataset type without involve the dataset example of that type.
 As a dataset developer, I want to deploy a newfangled interpretation of a dataset type without feign the dataset instances of that type.
 As a dataset developer, I want to deploy a modern version of a dataset type without affecting the dataset instances of that type.
 As a dataset developer, I want to deploy a new version of a dataset type without affecting the dataset instances of that type.
 
-Input phrase:As an app developer, I want to create a dataset instance with a specific version of a dataset type.
+Input phrase: As an app developer, I want to create a dataset instance with a specific version of a dataset type.
 As an app developer, I desire to make a dataset case with a specific adaptation of a dataset character.
 As an app developer, I want to produce a dataset example with a specific translation of a dataset type.
 As an app developer, I want to create a dataset instance with a specific interpretation of a dataset type.
 As an app developer, I want to create a dataset instance with a specific version of a dataset type.
 As an app developer, I want to create a dataset instance with a specific version of a dataset type.
 
-Input phrase:As a dataset developer, I want to explore a dataset instance created from a dataset type that was deployed by itself.
+Input phrase: As a dataset developer, I want to explore a dataset instance created from a dataset type that was deployed by itself.
 As a dataset developer, I desire to research a dataset case make from a dataset character that was deploy by itself.
 As a dataset developer, I want to explore a dataset example create from a dataset type that was deployed by itself.
 As a dataset developer, I want to explore a dataset instance produce from a dataset type that was deployed by itself.
 As a dataset developer, I want to explore a dataset instance created from a dataset type that was deployed by itself.
 As a dataset developer, I want to explore a dataset instance created from a dataset type that was deployed by itself.
 
-Input phrase:As a dataset developer, I want to delete outdated versions of a dataset type and I expect this to fail if there are any dataset instances with that version of the type.
+Input phrase: As a dataset developer, I want to delete outdated versions of a dataset type and I expect this to fail if there are any dataset instances with that version of the type.
 As a dataset developer, I desire to erase outdated adaptation of a dataset character and I ask this to fail if there are any dataset case with that adaptation of the character.
-As a dataset developer, I want to edit outdated adaptation of a dataset type and I have_a_bun_in_the_oven this to fail if there are any dataset example with that translation of the type.
-As a dataset developer, I want to delete outdated translation of a dataset type and I expect this to fail if there are any dataset instances with that interpretation of the type.
-As a dataset developer, I want to delete outdated interpretation of a dataset type and I expect this to fail if there are any dataset instances with that version of the type.
+As a dataset developer, I want to edit outdated translation of a dataset type and I have_a_bun_in_the_oven this to fail if there are any dataset example with that translation of the type.
+As a dataset developer, I want to delete outdated interpretation of a dataset type and I expect this to fail if there are any dataset instances with that interpretation of the type.
+As a dataset developer, I want to delete outdated versions of a dataset type and I expect this to fail if there are any dataset instances with that version of the type.
 As a dataset developer, I want to delete outdated versions of a dataset type and I expect this to fail if there are any dataset instances with that version of the type.
 
-Input phrase:As a dataset developer, I want to list all dataset instances that use a dataset type or a specific version of a type.
+Input phrase: As a dataset developer, I want to list all dataset instances that use a dataset type or a specific version of a type.
 As a dataset developer, I desire to number all dataset case that practice a dataset character or a specific adaptation of a character.
 As a dataset developer, I want to list all dataset example that use a dataset type or a specific translation of a type.
 As a dataset developer, I want to list all dataset instances that use a dataset type or a specific interpretation of a type.
 As a dataset developer, I want to list all dataset instances that use a dataset type or a specific version of a type.
 As a dataset developer, I want to list all dataset instances that use a dataset type or a specific version of a type.
 
-Input phrase:As a data scientist, I want to be able to create a dataset instance of an existing dataset type without writing code.
+Input phrase: As a data scientist, I want to be able to create a dataset instance of an existing dataset type without writing code.
 As a datum scientist, I desire to be able to make a datumset case of an exist datumset character without writing code.
 As a data scientist, I want to be able to produce a dataset example of an existing dataset type without writing code.
 As a data scientist, I want to be able to create a dataset instance of an existing dataset type without writing code.
 As a data scientist, I want to be able to create a dataset instance of an existing dataset type without writing code.
 As a data scientist, I want to be able to create a dataset instance of an existing dataset type without writing code.
 
-Input phrase:As a data scientist, I want to be able to upgrade a dataset instance to a new version of its code.
+Input phrase: As a data scientist, I want to be able to upgrade a dataset instance to a new version of its code.
 As a datum scientist, I desire to be able to promote a datumset case to a fresh adaptation of its code.
 As a data scientist, I want to be able to upgrade a dataset example to a raw translation of its code.
 As a data scientist, I want to be able to upgrade a dataset instance to a newfangled interpretation of its code.
 As a data scientist, I want to be able to upgrade a dataset instance to a modern version of its code.
 As a data scientist, I want to be able to upgrade a dataset instance to a new version of its code.
 
-Input phrase:As a hydrator user, I want to create a pipeline that reads or writes an existing dataset instance.
-As a hydrator exploiter, I desire to make a grapevine that read or write an exist dataset case.
-As a hydrator drug_user, I want to produce a pipeline that take or publish an existing dataset example.
-As a hydrator user, I want to create a pipeline that learn or compose an existing dataset instance.
+Input phrase: As a hydrator user, I want to create a pipeline that reads or writes an existing dataset instance.
+As a hydrator exploiter, I desire to make a grapevine that take or publish an exist dataset case.
+As a hydrator drug_user, I want to produce a pipeline that learn or compose an existing dataset example.
 As a hydrator user, I want to create a pipeline that understand or spell an existing dataset instance.
 As a hydrator user, I want to create a pipeline that reads or writes an existing dataset instance.
+As a hydrator user, I want to create a pipeline that reads or writes an existing dataset instance.
 
-Input phrase:As a hydrator user, I want to create a pipeline that reads or writes a new dataset instance and I want to create that dataset instance as part of pipeline creation.
-As a hydrator exploiter, I desire to make a grapevine that read or write a fresh dataset case and I desire to make that dataset case as region of grapevine initiation.
-As a hydrator drug_user, I want to produce a pipeline that take or publish a raw dataset example and I want to produce that dataset example as function of pipeline universe.
-As a hydrator user, I want to create a pipeline that learn or compose a newfangled dataset instance and I want to create that dataset instance as character of pipeline creation.
-As a hydrator user, I want to create a pipeline that understand or spell a modern dataset instance and I want to create that dataset instance as share of pipeline creation.
+Input phrase: As a hydrator user, I want to create a pipeline that reads or writes a new dataset instance and I want to create that dataset instance as part of pipeline creation.
+As a hydrator exploiter, I desire to make a grapevine that take or publish a fresh dataset case and I desire to make that dataset case as region of grapevine initiation.
+As a hydrator drug_user, I want to produce a pipeline that learn or compose a raw dataset example and I want to produce that dataset example as function of pipeline universe.
+As a hydrator user, I want to create a pipeline that understand or spell a newfangled dataset instance and I want to create that dataset instance as character of pipeline creation.
+As a hydrator user, I want to create a pipeline that reads or writes a modern dataset instance and I want to create that dataset instance as share of pipeline creation.
 As a hydrator user, I want to create a pipeline that reads or writes a new dataset instance and I want to create that dataset instance as contribution of pipeline creation.
 
-Input phrase:As a hydrator user, I want to specify an explicit version of the dataset types of the dataset instances created by my pipeline and I expect pipeline creation to fail if that results in incompatible upgrade of an existing dataset instance that is shared with other apps or pipelines.
-As a hydrator exploiter, I desire to stipulate an denotative adaptation of the dataset type of the dataset case make by my grapevine and I ask grapevine initiation to fail if that result in antagonistic ascent of an exist dataset case that is share with other apps or grapevines.
-As a hydrator drug_user, I want to pin_down an explicit translation of the dataset character of the dataset example create by my pipeline and I have_a_bun_in_the_oven pipeline universe to fail if that leave in uncongenial upgrade of an existing dataset example that is partake with other apps or pipeline.
+Input phrase: As a hydrator user, I want to specify an explicit version of the dataset types of the dataset instances created by my pipeline and I expect pipeline creation to fail if that results in incompatible upgrade of an existing dataset instance that is shared with other apps or pipelines.
+As a hydrator exploiter, I desire to stipulate an denotative adaptation of the dataset character of the dataset case make by my grapevine and I ask grapevine initiation to fail if that leave in antagonistic ascent of an exist dataset case that is share with other apps or grapevines.
+As a hydrator drug_user, I want to pin_down an explicit translation of the dataset types of the dataset example create by my pipeline and I have_a_bun_in_the_oven pipeline universe to fail if that results in uncongenial upgrade of an existing dataset example that is partake with other apps or pipelines.
 As a hydrator user, I want to intend an explicit interpretation of the dataset types of the dataset instances produce by my pipeline and I expect pipeline creation to fail if that results in contrastive upgrade of an existing dataset instance that is shared with other apps or pipelines.
 As a hydrator user, I want to assign an explicit version of the dataset types of the dataset instances created by my pipeline and I expect pipeline creation to fail if that results in ill-sorted upgrade of an existing dataset instance that is shared with other apps or pipelines.
 As a hydrator user, I want to specify an explicit version of the dataset types of the dataset instances created by my pipeline and I expect pipeline creation to fail if that results in discrepant upgrade of an existing dataset instance that is shared with other apps or pipelines.
 
-Input phrase:As a hydrator user, I want to explore the datasets created by my pipeline.
+Input phrase: As a hydrator user, I want to explore the datasets created by my pipeline.
 As a hydrator exploiter, I desire to research the datasets make by my grapevine.
 As a hydrator drug_user, I want to explore the datasets create by my pipeline.
 As a hydrator user, I want to explore the datasets produce by my pipeline.
 As a hydrator user, I want to explore the datasets created by my pipeline.
 As a hydrator user, I want to explore the datasets created by my pipeline.
 
-Input phrase:As a hydrator user, I want to ensure that all dataset instances created by apps are available as sinks and sources for pipelines.
-As a hydrator exploiter, I desire to guarantee that all dataset case make by apps are available as sink and beginning for grapevine.
-As a hydrator drug_user, I want to see that all dataset example create by apps are available as sinkhole and source for pipeline.
-As a hydrator user, I want to ensure that all dataset instances produce by apps are available as cesspool and informant for pipelines.
-As a hydrator user, I want to ensure that all dataset instances created by apps are available as sinks and generator for pipelines.
+Input phrase: As a hydrator user, I want to ensure that all dataset instances created by apps are available as sinks and sources for pipelines.
+As a hydrator exploiter, I desire to guarantee that all dataset case make by apps are available as sinkhole and beginning for grapevine.
+As a hydrator drug_user, I want to see that all dataset example create by apps are available as cesspool and informant for pipelines.
+As a hydrator user, I want to ensure that all dataset instances produce by apps are available as sinks and generator for pipelines.
 As a hydrator user, I want to ensure that all dataset instances created by apps are available as sinks and reservoir for pipelines.
+As a hydrator user, I want to ensure that all dataset instances created by apps are available as sinks and reference for pipelines.
 
-Input phrase:As an app developer, I want to ensure that all dataset instances created by Hydrator pipelines are accessible to the app.
+Input phrase: As an app developer, I want to ensure that all dataset instances created by Hydrator pipelines are accessible to the app.
 As an app developer, I desire to guarantee that all dataset case make by Hydrator grapevine are accessible to the app.
-As an app developer, I want to see that all dataset example create by Hydrator pipeline are accessible to the app.
+As an app developer, I want to see that all dataset example create by Hydrator pipelines are accessible to the app.
 As an app developer, I want to ensure that all dataset instances produce by Hydrator pipelines are accessible to the app.
 As an app developer, I want to ensure that all dataset instances created by Hydrator pipelines are accessible to the app.
 As an app developer, I want to ensure that all dataset instances created by Hydrator pipelines are accessible to the app.
 
-Input phrase:As a plugin developer, I want to include the code for a dataset type in the plugin artifact, so that when a pipeline using this plugin is created a dataset instance of that type is created and it is explorable and available to apps.
+Input phrase: As a plugin developer, I want to include the code for a dataset type in the plugin artifact, so that when a pipeline using this plugin is created a dataset instance of that type is created and it is explorable and available to apps.
 As a plugin developer, I desire to admit the code for a dataset character in the plugin artifact, so that when a grapevine use this plugin is make a dataset case of that character is make and it is explorable and available to apps.
 As a plugin developer, I want to include the code for a dataset type in the plugin artifact, so that when a pipeline practice this plugin is create a dataset example of that type is create and it is explorable and available to apps.
 As a plugin developer, I want to include the code for a dataset type in the plugin artifact, so that when a pipeline using this plugin is produce a dataset instance of that type is produce and it is explorable and available to apps.
 As a plugin developer, I want to include the code for a dataset type in the plugin artifact, so that when a pipeline using this plugin is created a dataset instance of that type is created and it is explorable and available to apps.
 As a plugin developer, I want to include the code for a dataset type in the plugin artifact, so that when a pipeline using this plugin is created a dataset instance of that type is created and it is explorable and available to apps.
 
-Input phrase:As a plugin developer, I want to use a custom dataset type that was deployed independently or as part of an app inside the plugin. 
-As a plugin developer, I desire to practice a customs dataset character that was deploy independently or as region of an app inwardly the plugin. 
+Input phrase: As a plugin developer, I want to use a custom dataset type that was deployed independently or as part of an app inside the plugin. 
+As a plugin developer, I desire to practice a custom dataset character that was deploy independently or as region of an app inwardly the plugin. 
 As a plugin developer, I want to use a custom dataset type that was deployed independently or as function of an app at_heart the plugin. 
 As a plugin developer, I want to use a custom dataset type that was deployed independently or as character of an app inside the plugin. 
 As a plugin developer, I want to use a custom dataset type that was deployed independently or as share of an app inside the plugin. 
 As a plugin developer, I want to use a custom dataset type that was deployed independently or as contribution of an app inside the plugin. 
 
-Input phrase:As a plugin developer, I want to upgrade the code of a dataset type used by a dataset instance created by that plugin when I deploy a new version of the plugin and update the pipeline to use that version.
+Input phrase: As a plugin developer, I want to upgrade the code of a dataset type used by a dataset instance created by that plugin when I deploy a new version of the plugin and update the pipeline to use that version.
 As a plugin developer, I desire to promote the code of a dataset character practice by a dataset case make by that plugin when I deploy a fresh adaptation of the plugin and update the grapevine to practice that adaptation.
 As a plugin developer, I want to upgrade the code of a dataset type practice by a dataset example create by that plugin when I deploy a raw translation of the plugin and update the pipeline to use that translation.
 As a plugin developer, I want to upgrade the code of a dataset type used by a dataset instance produce by that plugin when I deploy a newfangled interpretation of the plugin and update the pipeline to use that interpretation.
 As a plugin developer, I want to upgrade the code of a dataset type used by a dataset instance created by that plugin when I deploy a modern version of the plugin and update the pipeline to use that version.
 As a plugin developer, I want to upgrade the code of a dataset type used by a dataset instance created by that plugin when I deploy a new version of the plugin and update the pipeline to use that version.
 
-Input phrase:As a pipeline developer, I want to upgrade a dataset instance to a newer version of the code after the pipeline was created.
+Input phrase: As a pipeline developer, I want to upgrade a dataset instance to a newer version of the code after the pipeline was created.
 As a grapevine developer, I desire to promote a dataset case to a new adaptation of the code after the grapevine was make.
 As a pipeline developer, I want to upgrade a dataset example to a fresh translation of the code after the pipeline was create.
 As a pipeline developer, I want to upgrade a dataset instance to a raw interpretation of the code after the pipeline was produce.
 As a pipeline developer, I want to upgrade a dataset instance to a newfangled version of the code after the pipeline was created.
 As a pipeline developer, I want to upgrade a dataset instance to a modern version of the code after the pipeline was created.
 
-Input phrase:As a dataset developer, I want to have the option of implementing an upgrade step for when a dataset instance is upgraded to a new version of the dataset type.
+Input phrase: As a dataset developer, I want to have the option of implementing an upgrade step for when a dataset instance is upgraded to a new version of the dataset type.
 As a dataset developer, I desire to have the choice of implement an upgrade measure for when a dataset case is upgrade to a fresh adaptation of the dataset character.
 As a dataset developer, I want to have the option of enforce an upgrade footstep for when a dataset example is promote to a raw translation of the dataset type.
 As a dataset developer, I want to have the option of follow_through an upgrade gradation for when a dataset instance is upgraded to a newfangled interpretation of the dataset type.
 As a dataset developer, I want to have the option of implementing an upgrade footfall for when a dataset instance is upgraded to a modern version of the dataset type.
 As a dataset developer, I want to have the option of implementing an upgrade tone for when a dataset instance is upgraded to a new version of the dataset type.
 
-Input phrase:As a dataset developer, I want to have a way to reject an upgrade of a dataset instance to a newer version of it type if the upgrade is not compatible.
+Input phrase: As a dataset developer, I want to have a way to reject an upgrade of a dataset instance to a newer version of it type if the upgrade is not compatible.
 As a dataset developer, I desire to have a manner to refuse an ascent of a dataset case to a new adaptation of it type if the ascent is not compatible.
 As a dataset developer, I want to have a means to disapprove an upgrade of a dataset example to a fresh translation of it type if the upgrade is not compatible.
 As a dataset developer, I want to have a direction to resist an upgrade of a dataset instance to a raw interpretation of it type if the upgrade is not compatible.
 As a dataset developer, I want to have a room to rule_out an upgrade of a dataset instance to a newfangled version of it type if the upgrade is not compatible.
 As a dataset developer, I want to have a way to reject an upgrade of a dataset instance to a modern version of it type if the upgrade is not compatible.
 
-Input phrase:As a dataset developer, I want to have the option of implementing a migration procedure that can be run after an upgrade of a dataset instance to a new version of it type. 
+Input phrase: As a dataset developer, I want to have the option of implementing a migration procedure that can be run after an upgrade of a dataset instance to a new version of it type. 
 As a dataset developer, I desire to have the choice of implement a migration operation that can be scat after an ascent of a dataset case to a fresh adaptation of it character. 
 As a dataset developer, I want to have the option of enforce a migration routine that can be operate after an upgrade of a dataset example to a raw translation of it type. 
 As a dataset developer, I want to have the option of follow_through a migration procedure that can be function after an upgrade of a dataset instance to a newfangled interpretation of it type. 
 As a dataset developer, I want to have the option of implementing a migration procedure that can be range after an upgrade of a dataset instance to a modern version of it type. 
 As a dataset developer, I want to have the option of implementing a migration procedure that can be campaign after an upgrade of a dataset instance to a new version of it type. 
 
-Input phrase:As a developer, I want to take a dataset offline, so that I can perform a long-running maintenance or migration procedure.
+Input phrase: As a developer, I want to take a dataset offline, so that I can perform a long-running maintenance or migration procedure.
 As a developer, I desire to lead a dataset offline, so that I can do a long-run care or migration operation.
 As a developer, I want to assume a dataset offline, so that I can perform a long-scat alimony or migration routine.
 As a developer, I want to bring a dataset offline, so that I can perform a long-operate sustenance or migration procedure.
 As a developer, I want to choose a dataset offline, so that I can perform a long-function maintenance or migration procedure.
 As a developer, I want to accept a dataset offline, so that I can perform a long-range maintenance or migration procedure.
 
-Input phrase:As a dataset developer, I want to implement custom administrative operations such as "compaction" or "rebalance" that are no common to all dataset types.
-As a dataset developer, I desire to enforce customs administrative operation such as "crush" or "rebalance" that are no coarse to all dataset type.
-As a dataset developer, I want to follow_through custom administrative process such as "compaction" or "rebalance" that are no common to all dataset character.
-As a dataset developer, I want to implement custom administrative mathematical_process such as "compaction" or "rebalance" that are no common to all dataset types.
+Input phrase: As a dataset developer, I want to implement custom administrative operations such as "compaction" or "rebalance" that are no common to all dataset types.
+As a dataset developer, I desire to enforce custom administrative process such as "crush" or "rebalance" that are no coarse to all dataset character.
+As a dataset developer, I want to follow_through custom administrative mathematical_process such as "compaction" or "rebalance" that are no common to all dataset types.
+As a dataset developer, I want to implement custom administrative operations such as "compaction" or "rebalance" that are no common to all dataset types.
 As a dataset developer, I want to implement custom administrative operations such as "compaction" or "rebalance" that are no common to all dataset types.
 As a dataset developer, I want to implement custom administrative operations such as "compaction" or "rebalance" that are no common to all dataset types.
 
-Input phrase:As an app developer, I want to perform custom administrative operations on dataset instances from my app and the CLI and REST or the UI.
-As an app developer, I desire to do customs administrative operation on dataset case from my app and the command_line_interface and remainder or the UI.
-As an app developer, I want to perform custom administrative process on dataset example from my app and the CLI and respite or the UI.
-As an app developer, I want to perform custom administrative mathematical_process on dataset instances from my app and the CLI and lie or the UI.
+Input phrase: As an app developer, I want to perform custom administrative operations on dataset instances from my app and the CLI and REST or the UI.
+As an app developer, I desire to do custom administrative process on dataset case from my app and the command_line_interface and remainder or the UI.
+As an app developer, I want to perform custom administrative mathematical_process on dataset example from my app and the CLI and respite or the UI.
+As an app developer, I want to perform custom administrative operations on dataset instances from my app and the CLI and lie or the UI.
 As an app developer, I want to perform custom administrative operations on dataset instances from my app and the CLI and stay or the UI.
 As an app developer, I want to perform custom administrative operations on dataset instances from my app and the CLI and perch or the UI.
 
-Input phrase:As a user, I want to find out what properties are supported by the dataset type what values are allowed and what the defaults are when creating a dataset instance. 
-As a exploiter, I desire to detect out what property are support by the dataset character what value are let and what the default are when make a dataset case. 
-As a drug_user, I want to determine out what place are back by the dataset type what values are permit and what the nonpayment are when create a dataset example. 
-As a user, I want to witness out what properties are hold by the dataset type what values are allow and what the default_option are when produce a dataset instance. 
+Input phrase: As a user, I want to find out what properties are supported by the dataset type what values are allowed and what the defaults are when creating a dataset instance. 
+As a exploiter, I desire to detect out what property are support by the dataset character what values are let and what the nonpayment are when make a dataset case. 
+As a drug_user, I want to determine out what place are back by the dataset type what values are permit and what the default_option are when create a dataset example. 
+As a user, I want to witness out what properties are hold by the dataset type what values are allow and what the defaults are when produce a dataset instance. 
 As a user, I want to line_up out what properties are confirm by the dataset type what values are leave and what the defaults are when creating a dataset instance. 
 As a user, I want to discover out what properties are subscribe by the dataset type what values are admit and what the defaults are when creating a dataset instance. 
 
-Input phrase:As a user, I want to specify the schema of a dataset in a uniform way across all dataset types.
-As a exploiter, I desire to stipulate the outline of a dataset in a consistent manner across all dataset type.
-As a drug_user, I want to pin_down the schema of a dataset in a undifferentiated means across all dataset character.
+Input phrase: As a user, I want to specify the schema of a dataset in a uniform way across all dataset types.
+As a exploiter, I desire to stipulate the outline of a dataset in a consistent manner across all dataset character.
+As a drug_user, I want to pin_down the schema of a dataset in a undifferentiated means across all dataset types.
 As a user, I want to intend the schema of a dataset in a uniform direction across all dataset types.
 As a user, I want to assign the schema of a dataset in a uniform room across all dataset types.
 As a user, I want to specify the schema of a dataset in a uniform way across all dataset types.
 
-Input phrase:As a user, I want to specify schema as a JSON string.
+Input phrase: As a user, I want to specify schema as a JSON string.
 As a exploiter, I desire to stipulate outline as a JSON bowed_stringed_instrument.
 As a drug_user, I want to pin_down schema as a JSON drawstring.
 As a user, I want to intend schema as a JSON chain.
 As a user, I want to assign schema as a JSON string.
 As a user, I want to specify schema as a JSON string.
 
-Input phrase:As a user, I want to specify schema as a SQL schema string.
+Input phrase: As a user, I want to specify schema as a SQL schema string.
 As a exploiter, I desire to stipulate outline as a SQL outline bowed_stringed_instrument.
 As a drug_user, I want to pin_down schema as a SQL schema drawstring.
 As a user, I want to intend schema as a SQL schema chain.
 As a user, I want to assign schema as a SQL schema string.
 As a user, I want to specify schema as a SQL schema string.
 
-Input phrase:As a user, I want to configure time-to-live in a uniform way across all dataset types.
-As a exploiter, I desire to configure clock_time-to-populate in a consistent manner across all dataset type.
-As a drug_user, I want to configure fourth_dimension-to-survive in a undifferentiated means across all dataset character.
+Input phrase: As a user, I want to configure time-to-live in a uniform way across all dataset types.
+As a exploiter, I desire to configure clock_time-to-populate in a consistent manner across all dataset character.
+As a drug_user, I want to configure fourth_dimension-to-survive in a undifferentiated means across all dataset types.
 As a user, I want to configure meter-to-exist in a uniform direction across all dataset types.
 As a user, I want to configure prison_term-to-be in a uniform room across all dataset types.
 As a user, I want to configure time-to-know in a uniform way across all dataset types.
 
-Input phrase:As a user, I want to see the properties that were used to configure a dataset instance.
+Input phrase: As a user, I want to see the properties that were used to configure a dataset instance.
 As a exploiter, I desire to understand the property that were use to configure a dataset case.
 As a drug_user, I want to witness the place that were practice to configure a dataset example.
 As a user, I want to visualize the properties that were used to configure a dataset instance.
 As a user, I want to learn the properties that were used to configure a dataset instance.
 As a user, I want to watch the properties that were used to configure a dataset instance.
 
-Input phrase:As a user, I want to find out what properties of a dataset can be updated.
+Input phrase: As a user, I want to find out what properties of a dataset can be updated.
 As a exploiter, I desire to detect out what property of a dataset can be update.
 As a drug_user, I want to determine out what place of a dataset can be updated.
 As a user, I want to witness out what properties of a dataset can be updated.
 As a user, I want to line_up out what properties of a dataset can be updated.
 As a user, I want to discover out what properties of a dataset can be updated.
 
-Input phrase:As a user, I want to update the properties of a dataset instance and I expect this to fail if the new properties are not compatible with a meaningful error message.
+Input phrase: As a user, I want to update the properties of a dataset instance and I expect this to fail if the new properties are not compatible with a meaningful error message.
 As a exploiter, I desire to update the property of a dataset case and I ask this to fail if the fresh property are not compatible with a meaningful mistake message.
 As a drug_user, I want to update the place of a dataset example and I have_a_bun_in_the_oven this to fail if the raw place are not compatible with a meaningful erroneousness message.
 As a user, I want to update the properties of a dataset instance and I expect this to fail if the newfangled properties are not compatible with a meaningful error message.
 As a user, I want to update the properties of a dataset instance and I expect this to fail if the modern properties are not compatible with a meaningful error message.
 As a user, I want to update the properties of a dataset instance and I expect this to fail if the new properties are not compatible with a meaningful error message.
 
-Input phrase:As a user, I want to update a single property of a dataset instance without knowing all other properties. 
+Input phrase: As a user, I want to update a single property of a dataset instance without knowing all other properties. 
 As a exploiter, I desire to update a individual place of a dataset case without know all other property. 
 As a drug_user, I want to update a unmarried property of a dataset example without acknowledge all other place. 
 As a user, I want to update a single property of a dataset instance without sleep_together all other properties. 
 As a user, I want to update a single property of a dataset instance without knowing all other properties. 
 As a user, I want to update a single property of a dataset instance without knowing all other properties. 
 
-Input phrase:As a user, I want to remove a single property of a dataset instance without knowing all other properties. 
+Input phrase: As a user, I want to remove a single property of a dataset instance without knowing all other properties. 
 As a exploiter, I desire to get_rid_of a individual place of a dataset case without know all other property. 
 As a drug_user, I want to take_out a unmarried property of a dataset example without acknowledge all other place. 
 As a user, I want to absent a single property of a dataset instance without sleep_together all other properties. 
 As a user, I want to murder a single property of a dataset instance without knowing all other properties. 
 As a user, I want to remove a single property of a dataset instance without knowing all other properties. 
 
-Input phrase:As a user, I want to trigger a migration process for a dataset if updating its properties requires that.
+Input phrase: As a user, I want to trigger a migration process for a dataset if updating its properties requires that.
 As a exploiter, I desire to trip a migration procedure for a dataset if update its property necessitate that.
 As a drug_user, I want to trigger a migration summons for a dataset if updating its place ask that.
 As a user, I want to trigger a migration process for a dataset if updating its properties command that.
 As a user, I want to trigger a migration process for a dataset if updating its properties want that.
 As a user, I want to trigger a migration process for a dataset if updating its properties requires that.
 
-Input phrase:As a user, I want to ensure that if reconfiguration of a dataset fails then no changes have taken effect, so that all steps required to reconfigure a dataset must be done as a single atomic action.
-As a exploiter, I desire to guarantee that if reconfiguration of a dataset fail then no change have take consequence, so that all stairs necessitate to reconfigure a dataset must be make as a individual nuclear military_action.
-As a drug_user, I want to see that if reconfiguration of a dataset fails then no variety have lead impression, so that all measure ask to reconfigure a dataset must be perform as a unmarried atomic natural_process.
+Input phrase: As a user, I want to ensure that if reconfiguration of a dataset fails then no changes have taken effect, so that all steps required to reconfigure a dataset must be done as a single atomic action.
+As a exploiter, I desire to guarantee that if reconfiguration of a dataset fails then no variety have take consequence, so that all stairs necessitate to reconfigure a dataset must be make as a individual nuclear military_action.
+As a drug_user, I want to see that if reconfiguration of a dataset fails then no changes have lead impression, so that all measure ask to reconfigure a dataset must be perform as a unmarried atomic natural_process.
 As a user, I want to ensure that if reconfiguration of a dataset fails then no changes have assume effect, so that all footstep command to reconfigure a dataset must be do as a single atomic legal_action.
-As a user, I want to ensure that if reconfiguration of a dataset fails then no changes have bring effect, so that all step want to reconfigure a dataset must be cause as a single atomic action.
-As a user, I want to ensure that if reconfiguration of a dataset fails then no changes have choose effect, so that all gradation required to reconfigure a dataset must be practice as a single atomic action.
+As a user, I want to ensure that if reconfiguration of a dataset fails then no changes have bring effect, so that all gradation want to reconfigure a dataset must be cause as a single atomic action.
+As a user, I want to ensure that if reconfiguration of a dataset fails then no changes have choose effect, so that all footfall required to reconfigure a dataset must be practice as a single atomic action.
 
-Input phrase:As an app developer, I want to ensure that application creation fails if any of its datasets cannot be created.
-As an app developer, I desire to guarantee that lotion initiation fail if any of its datasets cannot be make.
+Input phrase: As an app developer, I want to ensure that application creation fails if any of its datasets cannot be created.
+As an app developer, I desire to guarantee that lotion initiation fails if any of its datasets cannot be make.
 As an app developer, I want to see that application universe fails if any of its datasets cannot be create.
 As an app developer, I want to ensure that application creation fails if any of its datasets cannot be produce.
 As an app developer, I want to ensure that application creation fails if any of its datasets cannot be created.
 As an app developer, I want to ensure that application creation fails if any of its datasets cannot be created.
 
-Input phrase:As an app developer, I want to ensure that application redeployment fails if any of its datasets cannot be reconfigured.
-As an app developer, I desire to guarantee that lotion redeployment fail if any of its datasets cannot be reconfigured.
+Input phrase: As an app developer, I want to ensure that application redeployment fails if any of its datasets cannot be reconfigured.
+As an app developer, I desire to guarantee that lotion redeployment fails if any of its datasets cannot be reconfigured.
 As an app developer, I want to see that application redeployment fails if any of its datasets cannot be reconfigured.
 As an app developer, I want to ensure that application redeployment fails if any of its datasets cannot be reconfigured.
 As an app developer, I want to ensure that application redeployment fails if any of its datasets cannot be reconfigured.
 As an app developer, I want to ensure that application redeployment fails if any of its datasets cannot be reconfigured.
 
-Input phrase:As an app developer, I want to tolerate existing datasets if their properties are different but compatible when creating a dataset as part of app deployment. 
+Input phrase: As an app developer, I want to tolerate existing datasets if their properties are different but compatible when creating a dataset as part of app deployment. 
 As an app developer, I desire to digest existent datasets if their property are unlike but compatible when make a dataset as region of app deployment. 
 As an app developer, I want to allow existing datasets if their place are different but compatible when create a dataset as function of app deployment. 
 As an app developer, I want to tolerate existing datasets if their properties are different but compatible when produce a dataset as character of app deployment. 
 As an app developer, I want to tolerate existing datasets if their properties are different but compatible when creating a dataset as share of app deployment. 
 As an app developer, I want to tolerate existing datasets if their properties are different but compatible when creating a dataset as contribution of app deployment. 
 
-Input phrase:As a pipeline designer, I want to get a meaningful error message when pipeline creation fails when I use an existing dataset as a sink or source, so that I know that the schema or any other property of the dataset is incompatible with what the pipeline requires. 
-As a grapevine interior_designer, I desire to become a meaningful mistake message when grapevine initiation fail when I practice an exist dataset as a sinkhole or beginning, so that I acknowledge that the outline or any other place of the dataset is antagonistic with what the grapevine necessitate. 
+Input phrase: As a pipeline designer, I want to get a meaningful error message when pipeline creation fails when I use an existing dataset as a sink or source, so that I know that the schema or any other property of the dataset is incompatible with what the pipeline requires. 
+As a grapevine interior_designer, I desire to become a meaningful mistake message when grapevine initiation fails when I practice an exist dataset as a sinkhole or beginning, so that I acknowledge that the outline or any other place of the dataset is antagonistic with what the grapevine necessitate. 
 As a pipeline architect, I want to receive a meaningful erroneousness message when pipeline universe fails when I use an existing dataset as a cesspool or informant, so that I sleep_together that the schema or any other property of the dataset is uncongenial with what the pipeline ask. 
 As a pipeline graphic_designer, I want to arrive a meaningful error message when pipeline creation fails when I use an existing dataset as a sink or generator, so that I know that the schema or any other property of the dataset is contrastive with what the pipeline command. 
 As a pipeline couturier, I want to bring a meaningful error message when pipeline creation fails when I use an existing dataset as a sink or reservoir, so that I know that the schema or any other property of the dataset is ill-sorted with what the pipeline want. 
 As a pipeline designer, I want to experience a meaningful error message when pipeline creation fails when I use an existing dataset as a sink or reference, so that I know that the schema or any other property of the dataset is discrepant with what the pipeline requires. 
 
-Input phrase:As a user, I want to specify as part of dataset configuration whether it is explorable.
+Input phrase: As a user, I want to specify as part of dataset configuration whether it is explorable.
 As a exploiter, I desire to stipulate as region of dataset shape whether it is explorable.
 As a drug_user, I want to pin_down as function of dataset configuration whether it is explorable.
 As a user, I want to intend as character of dataset configuration whether it is explorable.
 As a user, I want to assign as share of dataset configuration whether it is explorable.
 As a user, I want to specify as contribution of dataset configuration whether it is explorable.
 
-Input phrase:As a user, I want to specify the explore schema separately.
+Input phrase: As a user, I want to specify the explore schema separately.
 As a exploiter, I desire to stipulate the explore outline individually.
 As a drug_user, I want to pin_down the explore schema separately.
 As a user, I want to intend the explore schema separately.
 As a user, I want to assign the explore schema separately.
 As a user, I want to specify the explore schema separately.
 
-Input phrase:As a user, I want to ensure that dataset creation fails if the dataset cannot be enabled for explore.
-As a exploiter, I desire to guarantee that dataset initiation fail if the dataset cannot be enable for explore.
+Input phrase: As a user, I want to ensure that dataset creation fails if the dataset cannot be enabled for explore.
+As a exploiter, I desire to guarantee that dataset initiation fails if the dataset cannot be enable for explore.
 As a drug_user, I want to see that dataset universe fails if the dataset cannot be enabled for explore.
 As a user, I want to ensure that dataset creation fails if the dataset cannot be enabled for explore.
 As a user, I want to ensure that dataset creation fails if the dataset cannot be enabled for explore.
 As a user, I want to ensure that dataset creation fails if the dataset cannot be enabled for explore.
 
-Input phrase:As a user, I want to ensure that dataset reconfiguration fails if the corresponding update of the explore table fails.
-As a exploiter, I desire to guarantee that dataset reconfiguration fail if the comparable update of the explore mesa fail.
+Input phrase: As a user, I want to ensure that dataset reconfiguration fails if the corresponding update of the explore table fails.
+As a exploiter, I desire to guarantee that dataset reconfiguration fails if the comparable update of the explore mesa fails.
 As a drug_user, I want to see that dataset reconfiguration fails if the corresponding update of the explore board fails.
 As a user, I want to ensure that dataset reconfiguration fails if the corresponding update of the explore table fails.
 As a user, I want to ensure that dataset reconfiguration fails if the corresponding update of the explore table fails.
 As a user, I want to ensure that dataset reconfiguration fails if the corresponding update of the explore table fails.
 
-Input phrase:As a user, I want to ensure that a dataset operation fails if it fails to make its required changes to explore.
-As a exploiter, I desire to guarantee that a dataset process fail if it fail to induce its necessitate change to research.
-As a drug_user, I want to see that a dataset mathematical_process fails if it fails to cause its ask variety to explore.
+Input phrase: As a user, I want to ensure that a dataset operation fails if it fails to make its required changes to explore.
+As a exploiter, I desire to guarantee that a dataset process fails if it fails to induce its necessitate variety to research.
+As a drug_user, I want to see that a dataset mathematical_process fails if it fails to cause its ask changes to explore.
 As a user, I want to ensure that a dataset operation fails if it fails to produce its command changes to explore.
 As a user, I want to ensure that a dataset operation fails if it fails to draw its want changes to explore.
 As a user, I want to ensure that a dataset operation fails if it fails to create its required changes to explore.
 
-Input phrase:As a user, I want to ensure that an update of explore never leads to silent loss of data or data available for explore. 
-As a exploiter, I desire to guarantee that an update of explore never lead to mum personnel_casualty of datum or datum available for explore. 
-As a drug_user, I want to see that an update of explore never leave to dumb passing of data or data available for explore. 
-As a user, I want to ensure that an update of explore never run to silent loss of data or data available for explore. 
+Input phrase: As a user, I want to ensure that an update of explore never leads to silent loss of data or data available for explore. 
+As a exploiter, I desire to guarantee that an update of explore never leave to mum personnel_casualty of datum or datum available for explore. 
+As a drug_user, I want to see that an update of explore never run to dumb passing of data or data available for explore. 
 As a user, I want to ensure that an update of explore never head to silent loss of data or data available for explore. 
 As a user, I want to ensure that an update of explore never contribute to silent loss of data or data available for explore. 
+As a user, I want to ensure that an update of explore never conduct to silent loss of data or data available for explore. 
 
-Input phrase:As a user, I want to enable explore for a dataset that was not configured for explore initially.
+Input phrase: As a user, I want to enable explore for a dataset that was not configured for explore initially.
 As a exploiter, I desire to enable research for a dataset that was not configure for research initially.
 As a drug_user, I want to enable explore for a dataset that was not configured for explore initially.
 As a user, I want to enable explore for a dataset that was not configured for explore initially.
 As a user, I want to enable explore for a dataset that was not configured for explore initially.
 As a user, I want to enable explore for a dataset that was not configured for explore initially.
 
-Input phrase:As a user, I want to disable explore for a dataset that was configured for explore initially.
+Input phrase: As a user, I want to disable explore for a dataset that was configured for explore initially.
 As a exploiter, I desire to disable research for a dataset that was configure for research initially.
 As a drug_user, I want to disable explore for a dataset that was configured for explore initially.
 As a user, I want to disable explore for a dataset that was configured for explore initially.
 As a user, I want to disable explore for a dataset that was configured for explore initially.
 As a user, I want to disable explore for a dataset that was configured for explore initially.
 
-Input phrase:
+Input phrase: 
 
 
 
 
 
 
-Input phrase:
+Input phrase: 
 
 
 
 
 
 
-Input phrase:
+Input phrase: 
 
 
 
 
 
 
-Time for the single dataset = 0.8691 seconds = 0.0002 hours
+Time for the single dataset = 0.6585 seconds = 0.0110 minutes = 0.0002 hours

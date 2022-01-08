@@ -1,689 +1,689 @@
 data_set_number:1
 
-Input phrase:As a Data user, I want to have the 12-19-2017 deletions processed.
+Input phrase: As a Data user, I want to have the 12-19-2017 deletions processed.
 As a datum exploiter, I desire to have the twelve-nineteen-2017 omission process.
-As a Data drug_user, I want to have the 12-19-2017 deletion action.
+As a Data drug_user, I want to have the 12-19-2017 deletions action.
 As a Data user, I want to have the 12-19-2017 deletions march.
 As a Data user, I want to have the 12-19-2017 deletions work.
 As a Data user, I want to have the 12-19-2017 deletions serve.
 
-Input phrase:As a UI designer, I want to redesign the Resources page, so that it matches the new Broker design styles.
-As a UI interior_blueprinter, I desire to reblueprint the resource page, so that it match the fresh agent blueprint manner.
+Input phrase: As a UI designer, I want to redesign the Resources page, so that it matches the new Broker design styles.
+As a UI interior_blueprinter, I desire to reblueprint the Resources page, so that it match the fresh agent blueprint manner.
 As a UI architect, I want to repurpose the Resources page, so that it equal the raw broke purpose expressive_style.
-As a UI graphic_inventioner, I want to reinvention the Resources page, so that it meet the newfangled Broker invention style.
-As a UI couturier, I want to redesign the Resources page, so that it pit the modern Broker design vogue.
-As a UI designer, I want to redesign the Resources page, so that it matches the new Broker design dash.
+As a UI graphic_inventioner, I want to reinvention the Resources page, so that it meet the newfangled Broker invention vogue.
+As a UI couturier, I want to redesign the Resources page, so that it pit the modern Broker design dash.
+As a UI designer, I want to redesign the Resources page, so that it matches the new Broker design stylus.
 
-Input phrase:As a UI designer, I want to report to the Agencies about user testing, so that they are aware of their contributions to making Broker a better UX.
-As a UI interior_designer, I desire to report to the agency about exploiter examination, so that they are mindful of their contribution to make agent a good UX.
+Input phrase: As a UI designer, I want to report to the Agencies about user testing, so that they are aware of their contributions to making Broker a better UX.
+As a UI interior_designer, I desire to report to the agency about exploiter examination, so that they are mindful of their contributions to make agent a good UX.
 As a UI architect, I want to report to the representation about drug_user testing, so that they are aware of their contributions to induce broke a full UX.
 As a UI graphic_designer, I want to report to the means about user testing, so that they are aware of their contributions to cause Broker a estimable UX.
 As a UI couturier, I want to report to the Agencies about user testing, so that they are aware of their contributions to produce Broker a beneficial UX.
 As a UI designer, I want to report to the Agencies about user testing, so that they are aware of their contributions to draw Broker a adept UX.
 
-Input phrase:As a UI designer, I want to move on to round 2 of DABS or FABS landing page edits, so that I can get approvals from leadership.
+Input phrase: As a UI designer, I want to move on to round 2 of DABS or FABS landing page edits, so that I can get approvals from leadership.
 As a UI interior_designer, I desire to travel on to attack two of tap or FABS landing page edits, so that I can become blessing from leadership.
-As a UI architect, I want to go on to polish 2 of dab or FABS landing page edits, so that I can receive approval from leadership.
+As a UI architect, I want to go on to polish 2 of DABS or FABS landing page edits, so that I can receive approvals from leadership.
 As a UI graphic_designer, I want to be_active on to round_off 2 of DABS or FABS landing page edits, so that I can arrive approvals from leadership.
 As a UI couturier, I want to act on to round 2 of DABS or FABS landing page edits, so that I can bring approvals from leadership.
 As a UI designer, I want to affect on to round 2 of DABS or FABS landing page edits, so that I can experience approvals from leadership.
 
-Input phrase:As a UI designer, I want to move on to round 2 of Homepage edits, so that I can get approvals from leadership.
+Input phrase: As a UI designer, I want to move on to round 2 of Homepage edits, so that I can get approvals from leadership.
 As a UI interior_designer, I desire to travel on to attack two of home_page edits, so that I can become blessing from leadership.
-As a UI architect, I want to go on to polish 2 of Homepage edits, so that I can receive approval from leadership.
+As a UI architect, I want to go on to polish 2 of Homepage edits, so that I can receive approvals from leadership.
 As a UI graphic_designer, I want to be_active on to round_off 2 of Homepage edits, so that I can arrive approvals from leadership.
 As a UI couturier, I want to act on to round 2 of Homepage edits, so that I can bring approvals from leadership.
 As a UI designer, I want to affect on to round 2 of Homepage edits, so that I can experience approvals from leadership.
 
-Input phrase:As a UI designer, I want to move on to round 3 of the Help page edits, so that I can get approvals from leadership.
+Input phrase: As a UI designer, I want to move on to round 3 of the Help page edits, so that I can get approvals from leadership.
 As a UI interior_designer, I desire to travel on to attack three of the aid page edits, so that I can become blessing from leadership.
-As a UI architect, I want to go on to polish 3 of the assistant page edits, so that I can receive approval from leadership.
+As a UI architect, I want to go on to polish 3 of the assistant page edits, so that I can receive approvals from leadership.
 As a UI graphic_designer, I want to be_active on to round_off 3 of the avail page edits, so that I can arrive approvals from leadership.
 As a UI couturier, I want to act on to round 3 of the Help page edits, so that I can bring approvals from leadership.
 As a UI designer, I want to affect on to round 3 of the Help page edits, so that I can experience approvals from leadership.
 
-Input phrase:As a Developer , I want to be able to log better, so that I can troubleshoot issues with particular submissions and functions.
-As a Developer , I desire to be able to log well, so that I can trouble-shoot issue with especial submission and function.
-As a Developer , I want to be able to log better, so that I can troubleshoot topic with finical meekness and affair.
-As a Developer , I want to be able to log better, so that I can troubleshoot return with particular submissions and routine.
+Input phrase: As a Developer , I want to be able to log better, so that I can troubleshoot issues with particular submissions and functions.
+As a Developer , I desire to be able to log well, so that I can trouble-shoot topic with especial meekness and affair.
+As a Developer , I want to be able to log better, so that I can troubleshoot return with finical submissions and routine.
 As a Developer , I want to be able to log better, so that I can troubleshoot consequence with particular submissions and functions.
 As a Developer , I want to be able to log better, so that I can troubleshoot offspring with particular submissions and functions.
+As a Developer , I want to be able to log better, so that I can troubleshoot emergence with particular submissions and functions.
 
-Input phrase:As a Developer, I want to add the updates on a FABS submission to be modified when the publishStatus changes, so that I know when the status of the submission has changed.
-As a Developer, I desire to lend the update on a FABS meekness to be modify when the publishStatus change, so that I acknowledge when the condition of the meekness has change.
-As a Developer, I want to total the updates on a FABS submission to be change when the publishStatus switch, so that I sleep_together when the status of the submission has switch.
-As a Developer, I want to add the updates on a FABS submission to be modified when the publishStatus exchange, so that I know when the status of the submission has exchange.
-As a Developer, I want to add the updates on a FABS submission to be modified when the publishStatus transfer, so that I know when the status of the submission has transfer.
-As a Developer, I want to add the updates on a FABS submission to be modified when the publishStatus deepen, so that I know when the status of the submission has deepen.
+Input phrase: As a Developer, I want to add the updates on a FABS submission to be modified when the publishStatus changes, so that I know when the status of the submission has changed.
+As a Developer, I desire to lend the updates on a FABS meekness to be modify when the publishStatus switch, so that I acknowledge when the condition of the meekness has change.
+As a Developer, I want to total the updates on a FABS submission to be change when the publishStatus exchange, so that I sleep_together when the status of the submission has switch.
+As a Developer, I want to add the updates on a FABS submission to be modified when the publishStatus transfer, so that I know when the status of the submission has exchange.
+As a Developer, I want to add the updates on a FABS submission to be modified when the publishStatus deepen, so that I know when the status of the submission has transfer.
+As a Developer, I want to add the updates on a FABS submission to be modified when the publishStatus changes, so that I know when the status of the submission has deepen.
 
-Input phrase:As a DevOps engineer, I want New Relic to provide useful data across all applications.
-As a DevOps engineer, I desire fresh keepsake to supply utilitarian datum across all application.
-As a DevOps engineer, I want raw Relic to put_up useful data across all lotion.
+Input phrase: As a DevOps engineer, I want New Relic to provide useful data across all applications.
+As a DevOps engineer, I desire fresh keepsake to supply utilitarian datum across all lotion.
+As a DevOps engineer, I want raw Relic to put_up useful data across all applications.
 As a DevOps engineer, I want newfangled Relic to leave useful data across all applications.
 As a DevOps engineer, I want modern Relic to provide useful data across all applications.
 As a DevOps engineer, I want newly Relic to provide useful data across all applications.
 
-Input phrase:As a UI designer,  I want to move on to round 2 of the Help page edits, so that I can get approvals from leadership.
+Input phrase: As a UI designer,  I want to move on to round 2 of the Help page edits, so that I can get approvals from leadership.
 As a UI interior_designer,  I desire to travel on to attack two of the aid page edits, so that I can become blessing from leadership.
-As a UI architect,  I want to go on to polish 2 of the assistant page edits, so that I can receive approval from leadership.
+As a UI architect,  I want to go on to polish 2 of the assistant page edits, so that I can receive approvals from leadership.
 As a UI graphic_designer,  I want to be_active on to round_off 2 of the avail page edits, so that I can arrive approvals from leadership.
 As a UI couturier,  I want to act on to round 2 of the Help page edits, so that I can bring approvals from leadership.
 As a UI designer,  I want to affect on to round 2 of the Help page edits, so that I can experience approvals from leadership.
 
-Input phrase:As a UI designer, I want to move on to round 2 of Homepage edits, so that I can get approvals from leadership.
+Input phrase: As a UI designer, I want to move on to round 2 of Homepage edits, so that I can get approvals from leadership.
 As a UI interior_designer, I desire to travel on to attack two of home_page edits, so that I can become blessing from leadership.
-As a UI architect, I want to go on to polish 2 of Homepage edits, so that I can receive approval from leadership.
+As a UI architect, I want to go on to polish 2 of Homepage edits, so that I can receive approvals from leadership.
 As a UI graphic_designer, I want to be_active on to round_off 2 of Homepage edits, so that I can arrive approvals from leadership.
 As a UI couturier, I want to act on to round 2 of Homepage edits, so that I can bring approvals from leadership.
 As a UI designer, I want to affect on to round 2 of Homepage edits, so that I can experience approvals from leadership.
 
-Input phrase:As a Broker user, I want to Upload and Validate the error message to have accurate text.
+Input phrase: As a Broker user, I want to Upload and Validate the error message to have accurate text.
 As a agent exploiter, I desire to Upload and Validate the mistake message to have accurate textbook.
 As a broke drug_user, I want to Upload and Validate the erroneousness message to have accurate text.
 As a Broker user, I want to Upload and Validate the error message to have accurate text.
 As a Broker user, I want to Upload and Validate the error message to have accurate text.
 As a Broker user, I want to Upload and Validate the error message to have accurate text.
 
-Input phrase:As a Broker user, I want the D1 file generation to be synced with the FPDS data load, so that I don't have to regenerate a file if no data has been updated.
+Input phrase: As a Broker user, I want the D1 file generation to be synced with the FPDS data load, so that I don't have to regenerate a file if no data has been updated.
 As a agent exploiter, I desire the D1 file coevals to be synchronize with the flat_panel_display datum cargo, so that I don't have to reform a file if no datum has been update.
 As a broke drug_user, I want the D1 file genesis to be synced with the FPDS data burden, so that I don't have to regenerate a file if no data has been updated.
 As a Broker user, I want the D1 file generation to be synced with the FPDS data lode, so that I don't have to regenerate a file if no data has been updated.
 As a Broker user, I want the D1 file generation to be synced with the FPDS data warhead, so that I don't have to regenerate a file if no data has been updated.
 As a Broker user, I want the D1 file generation to be synced with the FPDS data load, so that I don't have to regenerate a file if no data has been updated.
 
-Input phrase:As a Website user, I want to access published FABS files, so that I can see the new files as they come in.
-As a web_site exploiter, I desire to access print FABS file, so that I can understand the fresh file as they arrive in.
+Input phrase: As a Website user, I want to access published FABS files, so that I can see the new files as they come in.
+As a web_site exploiter, I desire to access print FABS files, so that I can understand the fresh files as they arrive in.
 As a Website drug_user, I want to access publish FABS files, so that I can witness the raw files as they issue_forth in.
 As a Website user, I want to access published FABS files, so that I can visualize the newfangled files as they hail in.
 As a Website user, I want to access published FABS files, so that I can learn the modern files as they fall in.
 As a Website user, I want to access published FABS files, so that I can watch the new files as they total in.
 
-Input phrase:As an owner, I want to be sure that USAspending only send grant records to my system.
-As an owner, I desire to be certain that USAspending only mail concession record to my arrangement.
-As an owner, I want to be indisputable that USAspending only transport grant phonograph_record to my organization.
-As an owner, I want to be sure that USAspending only station grant criminal_record to my system.
+Input phrase: As an owner, I want to be sure that USAspending only send grant records to my system.
+As an owner, I desire to be certain that USAspending only mail concession phonograph_record to my arrangement.
+As an owner, I want to be indisputable that USAspending only transport grant criminal_record to my organization.
+As an owner, I want to be sure that USAspending only station grant records to my system.
 As an owner, I want to be sure that USAspending only commit grant records to my system.
 As an owner, I want to be sure that USAspending only air grant records to my system.
 
-Input phrase:As a Developer, I want to update the Broker validation rule table to account for the rule updates in DB-2213.
-As a Developer, I desire to update the agent establishment convention mesa to report for the convention update in DB-2213.
+Input phrase: As a Developer, I want to update the Broker validation rule table to account for the rule updates in DB-2213.
+As a Developer, I desire to update the agent establishment convention mesa to report for the convention updates in DB-2213.
 As a Developer, I want to update the broke validation principle board to account for the principle updates in DB-2213.
 As a Developer, I want to update the Broker validation dominion table to account for the dominion updates in DB-2213.
 As a Developer, I want to update the Broker validation rule table to account for the rule updates in DB-2213.
 As a Developer, I want to update the Broker validation rule table to account for the rule updates in DB-2213.
 
-Input phrase:As a Developer, I want to add the GTAS window data to the database, so that I can ensure the site is locked down during the GTAS submission period.
+Input phrase: As a Developer, I want to add the GTAS window data to the database, so that I can ensure the site is locked down during the GTAS submission period.
 As a Developer, I desire to lend the GTAS windowpane datum to the datumbase, so that I can guarantee the web_site is lock down during the GTAS meekness time_period.
 As a Developer, I want to total the GTAS window data to the database, so that I can see the site is engage down during the GTAS submission menstruation.
 As a Developer, I want to add the GTAS window data to the database, so that I can ensure the site is interlock down during the GTAS submission period.
 As a Developer, I want to add the GTAS window data to the database, so that I can ensure the site is lock_in down during the GTAS submission period.
 As a Developer, I want to add the GTAS window data to the database, so that I can ensure the site is locked down during the GTAS submission period.
 
-Input phrase:As a Developer, I want D Files generation requests to be managed and cached, so that duplicate requests do not cause performance issues.
-As a Developer, I desire D file coevals request to be pull_off and hoard, so that twin request do not induce operation issue.
-As a Developer, I want D Files genesis requests to be manage and cached, so that double requests do not cause performance topic.
-As a Developer, I want D Files generation requests to be cope and cached, so that duplicate requests do not cause performance return.
-As a Developer, I want D Files generation requests to be oversee and cached, so that duplicate requests do not cause performance consequence.
-As a Developer, I want D Files generation requests to be wangle and cached, so that duplicate requests do not cause performance offspring.
+Input phrase: As a Developer, I want D Files generation requests to be managed and cached, so that duplicate requests do not cause performance issues.
+As a Developer, I desire D Files coevals requests to be pull_off and hoard, so that twin requests do not induce operation topic.
+As a Developer, I want D Files genesis requests to be manage and cached, so that double requests do not cause performance return.
+As a Developer, I want D Files generation requests to be cope and cached, so that duplicate requests do not cause performance consequence.
+As a Developer, I want D Files generation requests to be oversee and cached, so that duplicate requests do not cause performance offspring.
+As a Developer, I want D Files generation requests to be wangle and cached, so that duplicate requests do not cause performance emergence.
 
-Input phrase:As a user, I want to access the raw agency published files from FABS via USAspending.
-As a exploiter, I desire to access the natural representation print file from FABS via USAspending.
+Input phrase: As a user, I want to access the raw agency published files from FABS via USAspending.
+As a exploiter, I desire to access the natural representation print files from FABS via USAspending.
 As a drug_user, I want to access the naked means publish files from FABS via USAspending.
 As a user, I want to access the crude agency published files from FABS via USAspending.
 As a user, I want to access the sensitive agency published files from FABS via USAspending.
 As a user, I want to access the bleak agency published files from FABS via USAspending.
 
-Input phrase:As an Agency user, I want to be able to include a large number of flexfields without performance impact.
+Input phrase: As an Agency user, I want to be able to include a large number of flexfields without performance impact.
 As an representation exploiter, I desire to be able to admit a bombastic act of flexfields without operation impingement.
 As an means drug_user, I want to be able to include a big phone_number of flexfields without performance shock.
 As an Agency user, I want to be able to include a large numeral of flexfields without performance impact.
 As an Agency user, I want to be able to include a large issue of flexfields without performance impact.
 As an Agency user, I want to be able to include a large number of flexfields without performance impact.
 
-Input phrase:As a Broker user, I want  to help create content mockups, so that I can submit my data efficiently.
+Input phrase: As a Broker user, I want  to help create content mockups, so that I can submit my data efficiently.
 As a agent exploiter, I desire  to help_oneself make message mockups, so that I can present my datum efficiently.
 As a broke drug_user, I want  to serve produce capacity mockups, so that I can relegate my data efficiently.
 As a Broker user, I want  to avail create contentedness mockups, so that I can take my data efficiently.
 As a Broker user, I want  to help create subject mockups, so that I can put_in my data efficiently.
 As a Broker user, I want  to help create content mockups, so that I can render my data efficiently.
 
-Input phrase:As a UI designer, I want to track the issues that come up in Tech Thursday, so that I know what to test and what want s to be fixed.
-As a UI interior_designer, I desire to chase the issue that arrive up in technical_school Thursday, so that I acknowledge what to screen and what desire s to be repair.
-As a UI architect, I want to traverse the topic that issue_forth up in Tech Thursday, so that I sleep_together what to quiz and what want s to be fasten.
-As a UI graphic_designer, I want to track the return that hail up in Tech Thursday, so that I know what to test and what want s to be specify.
-As a UI couturier, I want to track the consequence that fall up in Tech Thursday, so that I know what to test and what want s to be cook.
-As a UI designer, I want to track the offspring that total up in Tech Thursday, so that I know what to test and what want s to be pay_back.
+Input phrase: As a UI designer, I want to track the issues that come up in Tech Thursday, so that I know what to test and what want s to be fixed.
+As a UI interior_designer, I desire to chase the topic that arrive up in technical_school Thursday, so that I acknowledge what to screen and what desire s to be repair.
+As a UI architect, I want to traverse the return that issue_forth up in Tech Thursday, so that I sleep_together what to quiz and what want s to be fasten.
+As a UI graphic_designer, I want to track the consequence that hail up in Tech Thursday, so that I know what to test and what want s to be specify.
+As a UI couturier, I want to track the offspring that fall up in Tech Thursday, so that I know what to test and what want s to be cook.
+As a UI designer, I want to track the emergence that total up in Tech Thursday, so that I know what to test and what want s to be pay_back.
 
-Input phrase:As an Owner, I want to create a user testing summary from the UI SME, so that I can know what UI improvements we will follow through on.
-As an Owner, I desire to make a exploiter examination summary from the UI SME, so that I can acknowledge what UI improvement we will postdate through on.
+Input phrase: As an Owner, I want to create a user testing summary from the UI SME, so that I can know what UI improvements we will follow through on.
+As an Owner, I desire to make a exploiter examination summary from the UI SME, so that I can acknowledge what UI improvements we will postdate through on.
 As an Owner, I want to produce a drug_user testing summary from the UI SME, so that I can sleep_together what UI improvements we will comply through on.
 As an Owner, I want to create a user testing summary from the UI SME, so that I can know what UI improvements we will adopt through on.
 As an Owner, I want to create a user testing summary from the UI SME, so that I can know what UI improvements we will take_after through on.
 As an Owner, I want to create a user testing summary from the UI SME, so that I can know what UI improvements we will trace through on.
 
-Input phrase:As a UI designer, I want to begin user testing, so that I can validate stakeholder UI improvement requests.
-As a UI interior_designer, I desire to get_down exploiter examination, so that I can validate stakeholder UI improvement request.
+Input phrase: As a UI designer, I want to begin user testing, so that I can validate stakeholder UI improvement requests.
+As a UI interior_designer, I desire to get_down exploiter examination, so that I can validate stakeholder UI improvement requests.
 As a UI architect, I want to begin drug_user testing, so that I can validate stakeholder UI improvement requests.
 As a UI graphic_designer, I want to begin user testing, so that I can validate stakeholder UI improvement requests.
 As a UI couturier, I want to begin user testing, so that I can validate stakeholder UI improvement requests.
 As a UI designer, I want to begin user testing, so that I can validate stakeholder UI improvement requests.
 
-Input phrase:As a UI designer, I want to schedule user testing, so that I can give the testers advanced notice to ensure buy-in.
+Input phrase: As a UI designer, I want to schedule user testing, so that I can give the testers advanced notice to ensure buy-in.
 As a UI interior_designer, I desire to schedule exploiter examination, so that I can yield the examiner advance notification to guarantee bargain-in.
-As a UI architect, I want to schedule drug_user testing, so that I can hold the tester boost poster to see buy-in.
+As a UI architect, I want to schedule drug_user testing, so that I can hold the testers boost poster to see buy-in.
 As a UI graphic_designer, I want to schedule user testing, so that I can render the testers promote notice to ensure buy-in.
 As a UI couturier, I want to schedule user testing, so that I can impart the testers gain notice to ensure buy-in.
 As a UI designer, I want to schedule user testing, so that I can establish the testers progress notice to ensure buy-in.
 
-Input phrase:As an Owner, I want to design a schedule from the UI SME, so that I know the potential timeline of the UI improvements wanted.
-As an Owner, I desire to plan a agenda from the UI SME, so that I acknowledge the likely timeline of the UI improvement desireed.
+Input phrase: As an Owner, I want to design a schedule from the UI SME, so that I know the potential timeline of the UI improvements wanted.
+As an Owner, I desire to plan a agenda from the UI SME, so that I acknowledge the likely timeline of the UI improvements desireed.
 As an Owner, I want to design a schedule from the UI SME, so that I sleep_together the potential timeline of the UI improvements want.
 As an Owner, I want to design a schedule from the UI SME, so that I know the potential timeline of the UI improvements wanted.
 As an Owner, I want to design a schedule from the UI SME, so that I know the potential timeline of the UI improvements wanted.
 As an Owner, I want to design a schedule from the UI SME, so that I know the potential timeline of the UI improvements wanted.
 
-Input phrase:As an Owner, I want to design an audit from the UI SME, so that I know the potential scope of the UI improvements want ed.
-As an Owner, I desire to plan an auditerectile_dysfunction_account from the UI SME, so that I acknowlerectile_dysfunctionge the likely setting of the UI improvement desire erectile_dysfunction.
+Input phrase: As an Owner, I want to design an audit from the UI SME, so that I know the potential scope of the UI improvements want ed.
+As an Owner, I desire to plan an auditerectile_dysfunction_account from the UI SME, so that I acknowlerectile_dysfunctionge the likely setting of the UI improvements desire erectile_dysfunction.
 As an Owner, I want to design an audit from the UI SME, so that I sleep_together the potential telescope of the UI improvements want ed.
 As an Owner, I want to design an audit from the UI SME, so that I know the potential oscilloscope of the UI improvements want ed.
 As an Owner, I want to design an audit from the UI SME, so that I know the potential scope of the UI improvements want ed.
 As an Owner, I want to design an audit from the UI SME, so that I know the potential scope of the UI improvements want ed.
 
-Input phrase:As a Developer, I want to prevent users from double publishing FABS submissions after refreshing, so that there are no duplicates.
-As a Developer, I desire to prevent user from bivalent publication FABS submission after review, so that there are no extra.
-As a Developer, I want to prevent exploiter from double publishing FABS meekness after refresh, so that there are no duplicate.
-As a Developer, I want to prevent drug_user from double publishing FABS submissions after freshen, so that there are no duplicates.
+Input phrase: As a Developer, I want to prevent users from double publishing FABS submissions after refreshing, so that there are no duplicates.
+As a Developer, I desire to prevent exploiter from bivalent publication FABS meekness after review, so that there are no extra.
+As a Developer, I want to prevent drug_user from double publishing FABS submissions after refresh, so that there are no duplicates.
+As a Developer, I want to prevent users from double publishing FABS submissions after freshen, so that there are no duplicates.
 As a Developer, I want to prevent users from double publishing FABS submissions after refreshing, so that there are no duplicates.
 As a Developer, I want to prevent users from double publishing FABS submissions after refreshing, so that there are no duplicates.
 
-Input phrase:As an data user, I want to receive updates to FABS records.
-As an datum exploiter, I desire to pick_up update to FABS record.
-As an data drug_user, I want to experience updates to FABS phonograph_record.
-As an data user, I want to welcome updates to FABS criminal_record.
+Input phrase: As an data user, I want to receive updates to FABS records.
+As an datum exploiter, I desire to pick_up updates to FABS phonograph_record.
+As an data drug_user, I want to experience updates to FABS criminal_record.
+As an data user, I want to welcome updates to FABS records.
 As an data user, I want to meet updates to FABS records.
 As an data user, I want to get updates to FABS records.
 
-Input phrase:As an Agency user, I want to be able to include a large number of flexfields without performance impact.
+Input phrase: As an Agency user, I want to be able to include a large number of flexfields without performance impact.
 As an representation exploiter, I desire to be able to admit a bombastic act of flexfields without operation impingement.
 As an means drug_user, I want to be able to include a big phone_number of flexfields without performance shock.
 As an Agency user, I want to be able to include a large numeral of flexfields without performance impact.
 As an Agency user, I want to be able to include a large issue of flexfields without performance impact.
 As an Agency user, I want to be able to include a large number of flexfields without performance impact.
 
-Input phrase:As a Developer , I want to update the FABS sample file to remove FundingAgencyCode after FABS is updated to no longer require the header.
+Input phrase: As a Developer , I want to update the FABS sample file to remove FundingAgencyCode after FABS is updated to no longer require the header.
 As a Developer , I desire to update the FABS sample_distribution file to get_rid_of FundingAgencyCode after FABS is update to no longer necessitate the heading.
 As a Developer , I want to update the FABS sample file to take_out FundingAgencyCode after FABS is updated to no longer ask the header.
 As a Developer , I want to update the FABS sample file to absent FundingAgencyCode after FABS is updated to no longer command the header.
 As a Developer , I want to update the FABS sample file to murder FundingAgencyCode after FABS is updated to no longer want the header.
 As a Developer , I want to update the FABS sample file to remove FundingAgencyCode after FABS is updated to no longer require the header.
 
-Input phrase:As an agency user, I want to ensure that deleted FSRS records are not included in submissions.
-As an representation exploiter, I desire to guarantee that delete FSRS record are not include in submission.
-As an means drug_user, I want to see that erase FSRS phonograph_record are not admit in meekness.
-As an agency user, I want to ensure that edit FSRS criminal_record are not included in submissions.
+Input phrase: As an agency user, I want to ensure that deleted FSRS records are not included in submissions.
+As an representation exploiter, I desire to guarantee that delete FSRS phonograph_record are not include in meekness.
+As an means drug_user, I want to see that erase FSRS criminal_record are not admit in submissions.
+As an agency user, I want to ensure that edit FSRS records are not included in submissions.
 As an agency user, I want to ensure that deleted FSRS records are not included in submissions.
 As an agency user, I want to ensure that deleted FSRS records are not included in submissions.
 
-Input phrase:As a website user, I want to see updated financial assistance data daily.
+Input phrase: As a website user, I want to see updated financial assistance data daily.
 As a web_site exploiter, I desire to understand update fiscal aid datum day_by_day.
 As a website drug_user, I want to witness updated financial assistance data daily.
 As a website user, I want to visualize updated financial assistance data daily.
 As a website user, I want to learn updated financial assistance data daily.
 As a website user, I want to watch updated financial assistance data daily.
 
-Input phrase:As a user, I want the publish button in FABS to deactivate after I click it while the derivations are happening, so that I cannot click it multiple times for the same submission.
-As a exploiter, I desire the publish push_button in FABS to inactivate after I snap it while the derivation are happen, so that I cannot snap it multiple multiplication for the same meekness.
-As a drug_user, I want the publish clitoris in FABS to deactivate after I chatter it while the deriving are find, so that I cannot chatter it multiple time for the same submission.
-As a user, I want the publish release in FABS to deactivate after I cluck it while the ancestry are happening, so that I cannot cluck it multiple clock_time for the same submission.
-As a user, I want the publish button in FABS to deactivate after I click it while the derivations are happening, so that I cannot click it multiple fourth_dimension for the same submission.
+Input phrase: As a user, I want the publish button in FABS to deactivate after I click it while the derivations are happening, so that I cannot click it multiple times for the same submission.
+As a exploiter, I desire the publish push_button in FABS to inactivate after I snap it while the deriving are happen, so that I cannot snap it multiple multiplication for the same meekness.
+As a drug_user, I want the publish clitoris in FABS to deactivate after I chatter it while the ancestry are find, so that I cannot chatter it multiple clock_time for the same submission.
+As a user, I want the publish release in FABS to deactivate after I cluck it while the derivations are happening, so that I cannot cluck it multiple fourth_dimension for the same submission.
 As a user, I want the publish button in FABS to deactivate after I click it while the derivations are happening, so that I cannot click it multiple meter for the same submission.
+As a user, I want the publish button in FABS to deactivate after I click it while the derivations are happening, so that I cannot click it multiple prison_term for the same submission.
 
-Input phrase:As a Developer , I want to ensure that attempts to correct or delete non-existent records don't create new published data.
-As a Developer , I desire to guarantee that attempt to right or erase non-real record don't make fresh print datum.
-As a Developer , I want to see that attack to chastise or edit non-actual phonograph_record don't produce raw publish data.
-As a Developer , I want to ensure that attempts to compensate or delete non-existent criminal_record don't create newfangled published data.
+Input phrase: As a Developer , I want to ensure that attempts to correct or delete non-existent records don't create new published data.
+As a Developer , I desire to guarantee that attack to right or erase non-real phonograph_record don't make fresh print datum.
+As a Developer , I want to see that attempts to chastise or edit non-actual criminal_record don't produce raw publish data.
+As a Developer , I want to ensure that attempts to compensate or delete non-existent records don't create newfangled published data.
 As a Developer , I want to ensure that attempts to discipline or delete non-existent records don't create modern published data.
 As a Developer , I want to ensure that attempts to decline or delete non-existent records don't create new published data.
 
-Input phrase:As an Owner, I want to reset the environment to only take Staging MAX permissions, so that I can ensure that the FABS testers no longer have access.
-As an Owner, I desire to readjust the environment to only lead theatrical_production soap permission, so that I can guarantee that the FABS examiner no longer have entree.
-As an Owner, I want to reset the environment to only assume scaffolding MAX license, so that I can see that the FABS tester no longer have access.
+Input phrase: As an Owner, I want to reset the environment to only take Staging MAX permissions, so that I can ensure that the FABS testers no longer have access.
+As an Owner, I desire to readjust the environment to only lead theatrical_production soap license, so that I can guarantee that the FABS examiner no longer have entree.
+As an Owner, I want to reset the environment to only assume scaffolding MAX permissions, so that I can see that the FABS testers no longer have access.
 As an Owner, I want to reset the environment to only bring stage MAX permissions, so that I can ensure that the FABS testers no longer have access.
 As an Owner, I want to reset the environment to only choose stag MAX permissions, so that I can ensure that the FABS testers no longer have access.
 As an Owner, I want to reset the environment to only accept denounce MAX permissions, so that I can ensure that the FABS testers no longer have access.
 
-Input phrase:As a user, I want the flexfields in my submission file to appear in the warning and error files when the only error is a missing required element.
-As a exploiter, I desire the flexfields in my meekness file to look in the admonition and mistake file when the only mistake is a miss necessitate component.
+Input phrase: As a user, I want the flexfields in my submission file to appear in the warning and error files when the only error is a missing required element.
+As a exploiter, I desire the flexfields in my meekness file to look in the admonition and mistake files when the only mistake is a miss necessitate component.
 As a drug_user, I want the flexfields in my submission file to appear in the warning and erroneousness files when the only erroneousness is a neglect ask chemical_element.
 As a user, I want the flexfields in my submission file to appear in the warning and error files when the only error is a missing command element.
 As a user, I want the flexfields in my submission file to appear in the warning and error files when the only error is a missing want element.
 As a user, I want the flexfields in my submission file to appear in the warning and error files when the only error is a missing required element.
 
-Input phrase:As a user, I want to have accurate and complete data related to PPoPCode and PPoPCongressionalDistrict.
+Input phrase: As a user, I want to have accurate and complete data related to PPoPCode and PPoPCongressionalDistrict.
 As a exploiter, I desire to have accurate and accomplished datum associate to PPoPCode and PPoPCongressionalDistrict.
 As a drug_user, I want to have accurate and arrant data refer to PPoPCode and PPoPCongressionalDistrict.
 As a user, I want to have accurate and complete data relate to PPoPCode and PPoPCongressionalDistrict.
 As a user, I want to have accurate and complete data related to PPoPCode and PPoPCongressionalDistrict.
 As a user, I want to have accurate and complete data related to PPoPCode and PPoPCongressionalDistrict.
 
-Input phrase:As an agency user, I want the FABS validation rules to accept zero and blank for loan records.
-As an representation exploiter, I desire the FABS establishment rule to bear nothing and blank for loanword record.
-As an means drug_user, I want the FABS validation convention to take zero and blank for loan phonograph_record.
-As an agency user, I want the FABS validation principle to accept zero and blank for loan criminal_record.
+Input phrase: As an agency user, I want the FABS validation rules to accept zero and blank for loan records.
+As an representation exploiter, I desire the FABS establishment convention to bear nothing and blank for loanword phonograph_record.
+As an means drug_user, I want the FABS validation principle to take zero and blank for loan criminal_record.
 As an agency user, I want the FABS validation dominion to accept zero and blank for loan records.
 As an agency user, I want the FABS validation rules to accept zero and blank for loan records.
+As an agency user, I want the FABS validation rules to accept zero and blank for loan records.
 
-Input phrase:As an Agency user, I want FABS deployed into production, so I can submit my Financial Assistance data.
+Input phrase: As an Agency user, I want FABS deployed into production, so I can submit my Financial Assistance data.
 As an representation exploiter, I desire FABS deploy into product, so I can present my fiscal aid datum.
 As an means drug_user, I want FABS deployed into output, so I can relegate my Financial Assistance data.
 As an Agency user, I want FABS deployed into production, so I can take my Financial Assistance data.
 As an Agency user, I want FABS deployed into production, so I can put_in my Financial Assistance data.
 As an Agency user, I want FABS deployed into production, so I can render my Financial Assistance data.
 
-Input phrase:As a Developer , I want to clarify to users what exactly is triggering the CFDA error code in each case.
-As a Developer , I desire to clarify to user what precisely is trip the CFDA mistake code in each event.
-As a Developer , I want to clarify to exploiter what exactly is trigger the CFDA erroneousness code in each lawsuit.
-As a Developer , I want to clarify to drug_user what exactly is triggering the CFDA error code in each subject.
+Input phrase: As a Developer , I want to clarify to users what exactly is triggering the CFDA error code in each case.
+As a Developer , I desire to clarify to exploiter what precisely is trip the CFDA mistake code in each event.
+As a Developer , I want to clarify to drug_user what exactly is trigger the CFDA erroneousness code in each lawsuit.
+As a Developer , I want to clarify to users what exactly is triggering the CFDA error code in each subject.
 As a Developer , I want to clarify to users what exactly is triggering the CFDA error code in each character.
 As a Developer , I want to clarify to users what exactly is triggering the CFDA error code in each font.
 
-Input phrase:As an agency user, I want to be confident that the data coming from SAM is complete.
+Input phrase: As an agency user, I want to be confident that the data coming from SAM is complete.
 As an representation exploiter, I desire to be convinced that the datum come from surface-to-air_missile is accomplished.
 As an means drug_user, I want to be confident that the data arrive from SAM is arrant.
 As an agency user, I want to be confident that the data issue_forth from SAM is complete.
 As an agency user, I want to be confident that the data hail from SAM is complete.
 As an agency user, I want to be confident that the data fall from SAM is complete.
 
-Input phrase:As a Developer , I want my domain models to be indexed properly, so that I can get validation results back in a reasonable amount of time.
-As a Developer , I desire my sphere model to be index by_rights, so that I can become establishment consequence back in a fair sum of clock_time.
-As a Developer , I want my world exemplar to be indexed properly, so that I can receive validation solution back in a reasonable measure of fourth_dimension.
-As a Developer , I want my knowledge_domain mannequin to be indexed properly, so that I can arrive validation result back in a reasonable amount of meter.
-As a Developer , I want my domain models to be indexed properly, so that I can bring validation resultant_role back in a reasonable amount of prison_term.
+Input phrase: As a Developer , I want my domain models to be indexed properly, so that I can get validation results back in a reasonable amount of time.
+As a Developer , I desire my sphere exemplar to be index by_rights, so that I can become establishment consequence back in a fair sum of clock_time.
+As a Developer , I want my world mannequin to be indexed properly, so that I can receive validation solution back in a reasonable measure of fourth_dimension.
+As a Developer , I want my knowledge_domain models to be indexed properly, so that I can arrive validation resultant_role back in a reasonable amount of meter.
+As a Developer , I want my domain models to be indexed properly, so that I can bring validation results back in a reasonable amount of prison_term.
 As a Developer , I want my domain models to be indexed properly, so that I can experience validation results back in a reasonable amount of time.
 
-Input phrase:As an agency user, I want the FABS validation rules to accept zero and blank for non-loan records.
-As an representation exploiter, I desire the FABS establishment rule to bear nothing and blank for non-loan record.
-As an means drug_user, I want the FABS validation convention to take zero and blank for non-loan phonograph_record.
-As an agency user, I want the FABS validation principle to accept zero and blank for non-loan criminal_record.
+Input phrase: As an agency user, I want the FABS validation rules to accept zero and blank for non-loan records.
+As an representation exploiter, I desire the FABS establishment convention to bear nothing and blank for non-loan phonograph_record.
+As an means drug_user, I want the FABS validation principle to take zero and blank for non-loan criminal_record.
 As an agency user, I want the FABS validation dominion to accept zero and blank for non-loan records.
 As an agency user, I want the FABS validation rules to accept zero and blank for non-loan records.
+As an agency user, I want the FABS validation rules to accept zero and blank for non-loan records.
 
-Input phrase:As a broker team member, I want to make some updates to the SQL codes for clarity.
-As a agent team extremity, I desire to induce some update to the SQL code for clearness.
+Input phrase: As a broker team member, I want to make some updates to the SQL codes for clarity.
+As a agent team extremity, I desire to induce some updates to the SQL codes for clearness.
 As a broker team penis, I want to cause some updates to the SQL codes for clarity.
 As a broker team member, I want to produce some updates to the SQL codes for clarity.
 As a broker team member, I want to draw some updates to the SQL codes for clarity.
 As a broker team member, I want to create some updates to the SQL codes for clarity.
 
-Input phrase:As an agency user, I want to have all derived data elements derived properly.
+Input phrase: As an agency user, I want to have all derived data elements derived properly.
 As an representation exploiter, I desire to have all deduce datum component deduce by_rights.
 As an means drug_user, I want to have all derive data chemical_element derive properly.
-As an agency user, I want to have all derived data element derived properly.
+As an agency user, I want to have all derived data elements derived properly.
 As an agency user, I want to have all derived data elements derived properly.
 As an agency user, I want to have all derived data elements derived properly.
 
-Input phrase:As a broker team member, I want to add the 00***** and 00FORGN PPoPCode cases to the derivation logic.
-As a agent team extremity, I desire to lend the 00***** and 00FORGN PPoPCode case to the deriving logic.
-As a broker team penis, I want to total the 00***** and 00FORGN PPoPCode event to the ancestry logic.
-As a broker team member, I want to add the 00***** and 00FORGN PPoPCode lawsuit to the derivation logic.
+Input phrase: As a broker team member, I want to add the 00***** and 00FORGN PPoPCode cases to the derivation logic.
+As a agent team extremity, I desire to lend the 00***** and 00FORGN PPoPCode event to the deriving logic.
+As a broker team penis, I want to total the 00***** and 00FORGN PPoPCode lawsuit to the ancestry logic.
 As a broker team member, I want to add the 00***** and 00FORGN PPoPCode subject to the derivation logic.
 As a broker team member, I want to add the 00***** and 00FORGN PPoPCode character to the derivation logic.
+As a broker team member, I want to add the 00***** and 00FORGN PPoPCode font to the derivation logic.
 
-Input phrase:As a data user, I want to see the office names derived from office codes, so that I can have appropriate context for understanding them.
-As a datum exploiter, I desire to understand the agency name_calling deduce from agency code, so that I can have appropriate context for understand them.
-As a data drug_user, I want to witness the function name derive from function codes, so that I can have appropriate context for sympathize them.
+Input phrase: As a data user, I want to see the office names derived from office codes, so that I can have appropriate context for understanding them.
+As a datum exploiter, I desire to understand the agency name_calling deduce from agency codes, so that I can have appropriate context for understand them.
+As a data drug_user, I want to witness the function names derive from function codes, so that I can have appropriate context for sympathize them.
 As a data user, I want to visualize the position names derived from position codes, so that I can have appropriate context for understanding them.
 As a data user, I want to learn the office names derived from office codes, so that I can have appropriate context for understanding them.
 As a data user, I want to watch the office names derived from office codes, so that I can have appropriate context for understanding them.
 
-Input phrase:As a broker user, I want the historical FABS loader to derive fields, so that my agency codes are correct in the PublishedAwardFinancialAssistance table.
-As a agent exploiter, I desire the historic FABS stevedore to deduce field, so that my representation code are right in the PublishedAwardFinancialAssistance mesa.
-As a broker drug_user, I want the diachronic FABS loader to derive battlefield, so that my means codes are correct in the PublishedAwardFinancialAssistance board.
-As a broker user, I want the historical FABS loader to derive discipline, so that my agency codes are correct in the PublishedAwardFinancialAssistance table.
+Input phrase: As a broker user, I want the historical FABS loader to derive fields, so that my agency codes are correct in the PublishedAwardFinancialAssistance table.
+As a agent exploiter, I desire the historic FABS stevedore to deduce battlefield, so that my representation codes are right in the PublishedAwardFinancialAssistance mesa.
+As a broker drug_user, I want the diachronic FABS loader to derive discipline, so that my means codes are correct in the PublishedAwardFinancialAssistance board.
 As a broker user, I want the historical FABS loader to derive sphere, so that my agency codes are correct in the PublishedAwardFinancialAssistance table.
 As a broker user, I want the historical FABS loader to derive playing_field, so that my agency codes are correct in the PublishedAwardFinancialAssistance table.
+As a broker user, I want the historical FABS loader to derive plain, so that my agency codes are correct in the PublishedAwardFinancialAssistance table.
 
-Input phrase:As a broker team member, I want to ensure the Broker resources, validations, and P&P pages are updated appropriately for the launch of FABS and DAIMS v1.1.
-As a agent team extremity, I desire to guarantee the agent resource, validation, and P&P page are update appropriately for the launching of FABS and DAIMS v1.1.
-As a broker team penis, I want to see the broke resources, establishment, and P&P pages are updated appropriately for the launch of FABS and DAIMS v1.1.
+Input phrase: As a broker team member, I want to ensure the Broker resources, validations, and P&P pages are updated appropriately for the launch of FABS and DAIMS v1.1.
+As a agent team extremity, I desire to guarantee the agent resources, establishment, and P&P pages are update appropriately for the launching of FABS and DAIMS v1.1.
+As a broker team penis, I want to see the broke resources, validations, and P&P pages are updated appropriately for the launch of FABS and DAIMS v1.1.
 As a broker team member, I want to ensure the Broker resources, validations, and P&P pages are updated appropriately for the launch of FABS and DAIMS v1.1.
 As a broker team member, I want to ensure the Broker resources, validations, and P&P pages are updated appropriately for the launch of FABS and DAIMS v1.1.
 As a broker team member, I want to ensure the Broker resources, validations, and P&P pages are updated appropriately for the launch of FABS and DAIMS v1.1.
 
-Input phrase:As a Developer, I want the data loaded from historical FABS to include the FREC derivations, so that I can have consistent FREC data for USASpending.gov.
-As a Developer, I desire the datum load from historic FABS to admit the FREC derivation, so that I can have reproducible FREC datum for USASpending.gov.
-As a Developer, I want the data loaded from diachronic FABS to include the FREC deriving, so that I can have coherent FREC data for USASpending.gov.
-As a Developer, I want the data loaded from historical FABS to include the FREC ancestry, so that I can have consistent FREC data for USASpending.gov.
+Input phrase: As a Developer, I want the data loaded from historical FABS to include the FREC derivations, so that I can have consistent FREC data for USASpending.gov.
+As a Developer, I desire the datum load from historic FABS to admit the FREC deriving, so that I can have reproducible FREC datum for USASpending.gov.
+As a Developer, I want the data loaded from diachronic FABS to include the FREC ancestry, so that I can have coherent FREC data for USASpending.gov.
 As a Developer, I want the data loaded from historical FABS to include the FREC derivations, so that I can have consistent FREC data for USASpending.gov.
 As a Developer, I want the data loaded from historical FABS to include the FREC derivations, so that I can have consistent FREC data for USASpending.gov.
+As a Developer, I want the data loaded from historical FABS to include the FREC derivations, so that I can have consistent FREC data for USASpending.gov.
 
-Input phrase:As a user, I don't want to see NASA grants displayed as contracts.
-As a exploiter, I don't desire to understand national_aeronautics_and_space_administration grant expose as contract.
-As a drug_user, I don't want to witness NASA concession display as contracts.
+Input phrase: As a user, I don't want to see NASA grants displayed as contracts.
+As a exploiter, I don't desire to understand national_aeronautics_and_space_administration concession expose as contracts.
+As a drug_user, I don't want to witness NASA grants display as contracts.
 As a user, I don't want to visualize NASA grants displayed as contracts.
 As a user, I don't want to learn NASA grants displayed as contracts.
 As a user, I don't want to watch NASA grants displayed as contracts.
 
-Input phrase:As a user, I want the DUNS validations to accept records whose ActionTypes are B, C, or D and the DUNS is registered in SAM, even though it may have expired.
-As a exploiter, I desire the dun validation to bear record whose ActionTypes are bacillus, degree_centigrade, or D and the dun is register in surface-to-air_missile, even though it may have run_out.
-As a drug_user, I want the torment establishment to take phonograph_record whose ActionTypes are b-complex_vitamin, speed_of_light, or D and the torment is file in SAM, even though it may have die.
-As a user, I want the DUNS validations to accept criminal_record whose ActionTypes are boron, vitamin_c, or D and the DUNS is record in SAM, even though it may have exhale.
+Input phrase: As a user, I want the DUNS validations to accept records whose ActionTypes are B, C, or D and the DUNS is registered in SAM, even though it may have expired.
+As a exploiter, I desire the torment establishment to bear phonograph_record whose ActionTypes are bacillus, degree_centigrade, or D and the torment is register in surface-to-air_missile, even though it may have run_out.
+As a drug_user, I want the DUNS validations to take criminal_record whose ActionTypes are b-complex_vitamin, speed_of_light, or D and the DUNS is file in SAM, even though it may have die.
+As a user, I want the DUNS validations to accept records whose ActionTypes are boron, vitamin_c, or D and the DUNS is record in SAM, even though it may have exhale.
 As a user, I want the DUNS validations to accept records whose ActionTypes are bel, deoxycytidine_monophosphate, or D and the DUNS is read in SAM, even though it may have expired.
 As a user, I want the DUNS validations to accept records whose ActionTypes are barn, cytosine, or D and the DUNS is cross-file in SAM, even though it may have expired.
 
-Input phrase:As a user, I want the DUNS validations to accept records whose ActionDates are before the current registration date in SAM, but after the initial registration date.
-As a exploiter, I desire the dun validation to bear record whose ActionDates are before the current adjustment date in surface-to-air_missile, but after the initial adjustment date.
-As a drug_user, I want the torment establishment to take phonograph_record whose ActionDates are before the current registration date in SAM, but after the initial registration date.
-As a user, I want the DUNS validations to accept criminal_record whose ActionDates are before the current registration date in SAM, but after the initial registration date.
+Input phrase: As a user, I want the DUNS validations to accept records whose ActionDates are before the current registration date in SAM, but after the initial registration date.
+As a exploiter, I desire the torment establishment to bear phonograph_record whose ActionDates are before the current adjustment date in surface-to-air_missile, but after the initial adjustment date.
+As a drug_user, I want the DUNS validations to take criminal_record whose ActionDates are before the current registration date in SAM, but after the initial registration date.
+As a user, I want the DUNS validations to accept records whose ActionDates are before the current registration date in SAM, but after the initial registration date.
 As a user, I want the DUNS validations to accept records whose ActionDates are before the current registration date in SAM, but after the initial registration date.
 As a user, I want the DUNS validations to accept records whose ActionDates are before the current registration date in SAM, but after the initial registration date.
 
-Input phrase:As a broker team member, I want to derive FundingAgencyCode, so that the data quality and completeness improves.
+Input phrase: As a broker team member, I want to derive FundingAgencyCode, so that the data quality and completeness improves.
 As a agent team extremity, I desire to deduce FundingAgencyCode, so that the datum timbre and completeness better.
 As a broker team penis, I want to derive FundingAgencyCode, so that the data quality and completeness improves.
 As a broker team member, I want to derive FundingAgencyCode, so that the data quality and completeness improves.
 As a broker team member, I want to derive FundingAgencyCode, so that the data quality and completeness improves.
 As a broker team member, I want to derive FundingAgencyCode, so that the data quality and completeness improves.
 
-Input phrase:As an agency user, I want the maximum length allowed for LegalEntityAddressLine3 to match Schema v1.1.
+Input phrase: As an agency user, I want the maximum length allowed for LegalEntityAddressLine3 to match Schema v1.1.
 As an representation exploiter, I desire the maximal duration let for LegalEntityAddressLine3 to equal outline v1.1.
 As an means drug_user, I want the maximum distance permit for LegalEntityAddressLine3 to meet Schema v1.1.
 As an agency user, I want the maximum length allow for LegalEntityAddressLine3 to pit Schema v1.1.
 As an agency user, I want the maximum length leave for LegalEntityAddressLine3 to match Schema v1.1.
 As an agency user, I want the maximum length admit for LegalEntityAddressLine3 to match Schema v1.1.
 
-Input phrase:As an agency user, I want to use the schema v1.1 headers in my FABS file.
+Input phrase: As an agency user, I want to use the schema v1.1 headers in my FABS file.
 As an representation exploiter, I desire to practice the outline v1.1 heading in my FABS file.
-As an means drug_user, I want to use the schema v1.1 header in my FABS file.
+As an means drug_user, I want to use the schema v1.1 headers in my FABS file.
 As an agency user, I want to use the schema v1.1 headers in my FABS file.
 As an agency user, I want to use the schema v1.1 headers in my FABS file.
 As an agency user, I want to use the schema v1.1 headers in my FABS file.
 
-Input phrase:As a agency user, I want to map the FederalActionObligation properly to the Atom Feed.
+Input phrase: As a agency user, I want to map the FederalActionObligation properly to the Atom Feed.
 As a representation exploiter, I desire to map the FederalActionObligation by_rights to the Atom run.
 As a means drug_user, I want to map the FederalActionObligation properly to the Atom prey.
 As a agency user, I want to map the FederalActionObligation properly to the Atom fertilize.
 As a agency user, I want to map the FederalActionObligation properly to the Atom tip.
 As a agency user, I want to map the FederalActionObligation properly to the Atom Feed.
 
-Input phrase:As a Broker user, I want to have PPoPZIP+4 work the same as the Legal Entity ZIP validations.
-As a agent exploiter, I desire to have PPoPnothing+4 function the same as the Legal Entity nothing validation.
-As a broke drug_user, I want to have PPoPzip_code+4 exercise the same as the Legal Entity zip_code establishment.
+Input phrase: As a Broker user, I want to have PPoPZIP+4 work the same as the Legal Entity ZIP validations.
+As a agent exploiter, I desire to have PPoPnothing+4 function the same as the Legal Entity nothing establishment.
+As a broke drug_user, I want to have PPoPzip_code+4 exercise the same as the Legal Entity zip_code validations.
 As a Broker user, I want to have PPoPenergy+4 make the same as the Legal Entity energy validations.
 As a Broker user, I want to have PPoPslide_fastener+4 bring the same as the Legal Entity slide_fastener validations.
 As a Broker user, I want to have PPoPzip_up+4 cultivate the same as the Legal Entity zip_up validations.
 
-Input phrase:As a FABS user, I want to link the SAMPLE FILE on the "What you want  to submit" dialog to point to the correct file, so that I have an accurate reference for my agency submissions.
-As a FABS exploiter, I desire to associate the sample_distribution charge on the "What you desire  to present" dialogue to indicate to the right file, so that I have an accurate mention for my representation submission.
-As a FABS drug_user, I want to connect the SAMPLE FILE on the "What you want  to relegate" dialog to orient to the correct file, so that I have an accurate citation for my means meekness.
+Input phrase: As a FABS user, I want to link the SAMPLE FILE on the "What you want  to submit" dialog to point to the correct file, so that I have an accurate reference for my agency submissions.
+As a FABS exploiter, I desire to associate the sample_distribution charge on the "What you desire  to present" dialogue to indicate to the right file, so that I have an accurate mention for my representation meekness.
+As a FABS drug_user, I want to connect the SAMPLE FILE on the "What you want  to relegate" dialog to orient to the correct file, so that I have an accurate citation for my means submissions.
 As a FABS user, I want to yoke the SAMPLE FILE on the "What you want  to take" dialog to charge to the correct file, so that I have an accurate reference_point for my agency submissions.
 As a FABS user, I want to link the SAMPLE FILE on the "What you want  to put_in" dialog to steer to the correct file, so that I have an accurate reference_book for my agency submissions.
 As a FABS user, I want to link the SAMPLE FILE on the "What you want  to render" dialog to bespeak to the correct file, so that I have an accurate character for my agency submissions.
 
-Input phrase:As an Agency user, I want FPDS data to be up-to-date daily.
+Input phrase: As an Agency user, I want FPDS data to be up-to-date daily.
 As an representation exploiter, I desire flat_panel_display datum to be up-to-date day_by_day.
 As an means drug_user, I want FPDS data to be up-to-date daily.
 As an Agency user, I want FPDS data to be up-to-date daily.
 As an Agency user, I want FPDS data to be up-to-date daily.
 As an Agency user, I want FPDS data to be up-to-date daily.
 
-Input phrase:As a user, I want to access the raw agency published files from FABS via USAspending.
-As a exploiter, I desire to access the natural representation print file from FABS via USAspending.
+Input phrase: As a user, I want to access the raw agency published files from FABS via USAspending.
+As a exploiter, I desire to access the natural representation print files from FABS via USAspending.
 As a drug_user, I want to access the naked means publish files from FABS via USAspending.
 As a user, I want to access the crude agency published files from FABS via USAspending.
 As a user, I want to access the sensitive agency published files from FABS via USAspending.
 As a user, I want to access the bleak agency published files from FABS via USAspending.
 
-Input phrase:As a Developer , I want to determine how agencies will generate and validate D Files from FABS and FPDS data.
-As a Developer , I desire to specify how agency will render and validate D file from FABS and FPDS datum.
+Input phrase: As a Developer , I want to determine how agencies will generate and validate D Files from FABS and FPDS data.
+As a Developer , I desire to specify how agency will render and validate D Files from FABS and FPDS datum.
 As a Developer , I want to decide how representation will beget and validate D Files from FABS and FPDS data.
 As a Developer , I want to settle how means will generate and validate D Files from FABS and FPDS data.
 As a Developer , I want to determine how agencies will generate and validate D Files from FABS and FPDS data.
 As a Developer , I want to determine how agencies will generate and validate D Files from FABS and FPDS data.
 
-Input phrase:As a user, I want to generate and validate D Files from FABS and FPDS data.
-As a exploiter, I desire to render and validate D file from FABS and FPDS datum.
+Input phrase: As a user, I want to generate and validate D Files from FABS and FPDS data.
+As a exploiter, I desire to render and validate D Files from FABS and FPDS datum.
 As a drug_user, I want to beget and validate D Files from FABS and FPDS data.
 As a user, I want to generate and validate D Files from FABS and FPDS data.
 As a user, I want to generate and validate D Files from FABS and FPDS data.
 As a user, I want to generate and validate D Files from FABS and FPDS data.
 
-Input phrase:As an Agency user, I want the header information box to show updated date AND time, so that I know when it was updated.
+Input phrase: As an Agency user, I want the header information box to show updated date AND time, so that I know when it was updated.
 As an representation exploiter, I desire the heading data corner to prove update date AND clock_time, so that I acknowledge when it was update.
 As an means drug_user, I want the header information box to testify updated date AND fourth_dimension, so that I sleep_together when it was updated.
 As an Agency user, I want the header information box to picture updated date AND meter, so that I know when it was updated.
 As an Agency user, I want the header information box to express updated date AND prison_term, so that I know when it was updated.
 As an Agency user, I want the header information box to indicate updated date AND time, so that I know when it was updated.
 
-Input phrase:As an Agency user, I want to receive a more helpful file-level error when I upload a file with the wrong extension.
+Input phrase: As an Agency user, I want to receive a more helpful file-level error when I upload a file with the wrong extension.
 As an representation exploiter, I desire to pick_up a more helpful file-degree mistake when I upload a file with the incorrect propagation.
 As an means drug_user, I want to experience a more helpful file-grade erroneousness when I upload a file with the improper reference.
 As an Agency user, I want to welcome a more helpful file-horizontal_surface error when I upload a file with the amiss elongation.
 As an Agency user, I want to meet a more helpful file-floor error when I upload a file with the ill-timed annex.
 As an Agency user, I want to get a more helpful file-level error when I upload a file with the faulty extension.
 
-Input phrase:As a tester, I want to have access to test features in environments other than Staging, so that I can test any nonProd feature in any environment.
-As a examiner, I desire to have entree to trial feature_of_speech in environment other than theatrical_production, so that I can trial any nonProd feature_of_speech in any environment.
-As a examinationer, I want to have access to examination feature_of_speech in environments other than scaffolding, so that I can examination any nonProd feature in any environment.
+Input phrase: As a tester, I want to have access to test features in environments other than Staging, so that I can test any nonProd feature in any environment.
+As a examiner, I desire to have entree to trial feature_of_speech_of_speech in environments other than theatrical_production, so that I can trial any nonProd feature_of_speech in any environment.
+As a examinationer, I want to have access to examination features in environments other than scaffolding, so that I can examination any nonProd feature in any environment.
 As a tester, I want to have access to test features in environments other than stage, so that I can test any nonProd feature in any environment.
 As a tester, I want to have access to test features in environments other than stag, so that I can test any nonProd feature in any environment.
 As a tester, I want to have access to test features in environments other than denounce, so that I can test any nonProd feature in any environment.
 
-Input phrase:As a FABS user, I want to submission errors to accurately represent FABS errors, so that I know why my submission didn't work.
+Input phrase: As a FABS user, I want to submission errors to accurately represent FABS errors, so that I know why my submission didn't work.
 As a FABS exploiter, I desire to meekness mistake to accurately typify FABS mistake, so that I acknowledge why my meekness didn't function.
 As a FABS drug_user, I want to submission erroneousness to accurately exemplify FABS erroneousness, so that I sleep_together why my submission didn't exercise.
-As a FABS user, I want to submission error to accurately constitute FABS error, so that I know why my submission didn't make.
+As a FABS user, I want to submission errors to accurately constitute FABS errors, so that I know why my submission didn't make.
 As a FABS user, I want to submission errors to accurately defend FABS errors, so that I know why my submission didn't bring.
 As a FABS user, I want to submission errors to accurately act FABS errors, so that I know why my submission didn't cultivate.
 
-Input phrase:As a FABS user, I want the frontend URLs to more accurately reflect the page I'm accessing, so that I'm not confused.
-As a FABS exploiter, I desire the frontend url to more accurately chew_over the page I'm access, so that I'm not baffled.
+Input phrase: As a FABS user, I want the frontend URLs to more accurately reflect the page I'm accessing, so that I'm not confused.
+As a FABS exploiter, I desire the frontend URLs to more accurately chew_over the page I'm access, so that I'm not baffled.
 As a FABS drug_user, I want the frontend URLs to more accurately reflect the page I'm accessing, so that I'm not broken.
 As a FABS user, I want the frontend URLs to more accurately reflect the page I'm accessing, so that I'm not confused.
 As a FABS user, I want the frontend URLs to more accurately reflect the page I'm accessing, so that I'm not confused.
 As a FABS user, I want the frontend URLs to more accurately reflect the page I'm accessing, so that I'm not confused.
 
-Input phrase:As an Agency user, I want all historical Financial Assistance data loaded for FABS go-live.
+Input phrase: As an Agency user, I want all historical Financial Assistance data loaded for FABS go-live.
 As an representation exploiter, I desire all historic fiscal aid datum load for FABS adam-live.
 As an means drug_user, I want all diachronic Financial Assistance data loaded for FABS crack-live.
 As an Agency user, I want all historical Financial Assistance data loaded for FABS go-live.
 As an Agency user, I want all historical Financial Assistance data loaded for FABS go-live.
 As an Agency user, I want all historical Financial Assistance data loaded for FABS go-live.
 
-Input phrase:As a Developer , I want the historical FPDS data loader to include both extracted historical data and FPDS feed data.
+Input phrase: As a Developer , I want the historical FPDS data loader to include both extracted historical data and FPDS feed data.
 As a Developer , I desire the historic flat_panel_display datum stevedore to admit both extract historic datum and flat_panel_display run datum.
 As a Developer , I want the diachronic FPDS data loader to include both educe diachronic data and FPDS prey data.
 As a Developer , I want the historical FPDS data loader to include both distill historical data and FPDS fertilize data.
 As a Developer , I want the historical FPDS data loader to include both press_out historical data and FPDS tip data.
 As a Developer , I want the historical FPDS data loader to include both excerpt historical data and FPDS feed data.
 
-Input phrase:As an Agency user, I want historical FPDS data loaded.
+Input phrase: As an Agency user, I want historical FPDS data loaded.
 As an representation exploiter, I desire historic FPDS datum load.
 As an means drug_user, I want diachronic FPDS data loaded.
 As an Agency user, I want historical FPDS data loaded.
 As an Agency user, I want historical FPDS data loaded.
 As an Agency user, I want historical FPDS data loaded.
 
-Input phrase:As an Agency user, I want to accurately see who created a submission, so that I'm not confused about who last updated a submission.
+Input phrase: As an Agency user, I want to accurately see who created a submission, so that I'm not confused about who last updated a submission.
 As an representation exploiter, I desire to accurately understand who make a meekness, so that I'm not baffled about who last update a meekness.
 As an means drug_user, I want to accurately witness who create a submission, so that I'm not broken about who last updated a submission.
 As an Agency user, I want to accurately visualize who produce a submission, so that I'm not confused about who last updated a submission.
 As an Agency user, I want to accurately learn who created a submission, so that I'm not confused about who last updated a submission.
 As an Agency user, I want to accurately watch who created a submission, so that I'm not confused about who last updated a submission.
 
-Input phrase:As an agency user, I want to get File F in the correct format.
+Input phrase: As an agency user, I want to get File F in the correct format.
 As an representation exploiter, I desire to become charge degree_fahrenheit in the right format.
 As an means drug_user, I want to receive fluorineile fluorine in the correct format.
 As an agency user, I want to arrive faradile farad in the correct format.
 As an agency user, I want to bring File F in the correct format.
 As an agency user, I want to experience File F in the correct format.
 
-Input phrase:As an Agency user, I want to better understand my file-level errors.
+Input phrase: As an Agency user, I want to better understand my file-level errors.
 As an representation exploiter, I desire to well sympathize my file-degree mistake.
 As an means drug_user, I want to better understand my file-grade erroneousness.
-As an Agency user, I want to better understand my file-horizontal_surface error.
+As an Agency user, I want to better understand my file-horizontal_surface errors.
 As an Agency user, I want to better understand my file-floor errors.
 As an Agency user, I want to better understand my file-level errors.
 
-Input phrase:As a Developer , I want to provide FABS groups that function under the FREC paradigm.
-As a Developer , I desire to supply FABS group that serve under the FREC prototype.
+Input phrase: As a Developer , I want to provide FABS groups that function under the FREC paradigm.
+As a Developer , I desire to supply FABS groups that serve under the FREC prototype.
 As a Developer , I want to put_up FABS groups that officiate under the FREC substitution_class.
 As a Developer , I want to leave FABS groups that function under the FREC paradigm.
 As a Developer , I want to provide FABS groups that function under the FREC paradigm.
 As a Developer , I want to provide FABS groups that function under the FREC paradigm.
 
-Input phrase:As a tester, I want to ensure that FABS is deriving fields properly through a robust test file plus a follow up check.
-As a examiner, I desire to guarantee that FABS is deduce field by_rights through a full-bodied trial file asset a follow up assay.
-As a examinationer, I want to see that FABS is derive battlefield properly through a robust examination file summation a follow up arrest.
-As a tester, I want to ensure that FABS is deriving discipline properly through a robust test file plus a follow up confirmation.
-As a tester, I want to ensure that FABS is deriving sphere properly through a robust test file plus a follow up check_mark.
-As a tester, I want to ensure that FABS is deriving playing_field properly through a robust test file plus a follow up hindrance.
+Input phrase: As a tester, I want to ensure that FABS is deriving fields properly through a robust test file plus a follow up check.
+As a examiner, I desire to guarantee that FABS is deduce battlefield by_rights through a full-bodied trial file asset a follow up assay.
+As a examinationer, I want to see that FABS is derive discipline properly through a robust examination file summation a follow up arrest.
+As a tester, I want to ensure that FABS is deriving sphere properly through a robust test file plus a follow up confirmation.
+As a tester, I want to ensure that FABS is deriving playing_field properly through a robust test file plus a follow up check_mark.
+As a tester, I want to ensure that FABS is deriving plain properly through a robust test file plus a follow up hindrance.
 
-Input phrase:As an owner, I only want zero-padded fields, so that I can justify padding.
-As an owner, I only desire nothing-embroider field, so that I can apologize padding.
-As an owner, I only want zero-slog battlefield, so that I can absolve padding.
-As an owner, I only want zero-pad discipline, so that I can justify padding.
-As an owner, I only want zero-padded sphere, so that I can justify padding.
+Input phrase: As an owner, I only want zero-padded fields, so that I can justify padding.
+As an owner, I only desire nothing-embroider battlefield, so that I can apologize padding.
+As an owner, I only want zero-slog discipline, so that I can absolve padding.
+As an owner, I only want zero-pad sphere, so that I can justify padding.
 As an owner, I only want zero-padded playing_field, so that I can justify padding.
+As an owner, I only want zero-padded plain, so that I can justify padding.
 
-Input phrase:As a Broker user, I want to submit records for individual recipients without receiving a DUNS error.
-As a agent exploiter, I desire to present record for individual recipient without receive a dun mistake.
-As a broke drug_user, I want to relegate phonograph_record for individual recipient_role without pick_up a DUNS erroneousness.
-As a Broker user, I want to take criminal_record for individual recipients without experience a DUNS error.
+Input phrase: As a Broker user, I want to submit records for individual recipients without receiving a DUNS error.
+As a agent exploiter, I desire to present phonograph_record for individual recipient_role without receive a DUNS mistake.
+As a broke drug_user, I want to relegate criminal_record for individual recipients without pick_up a DUNS erroneousness.
+As a Broker user, I want to take records for individual recipients without experience a DUNS error.
 As a Broker user, I want to put_in records for individual recipients without welcome a DUNS error.
 As a Broker user, I want to render records for individual recipients without meet a DUNS error.
 
-Input phrase:As a user, I want more information about how many rows will be published prior to deciding whether to publish.
-As a exploiter, I desire more data about how many row will be print prior to decide whether to print.
-As a drug_user, I want more information about how many quarrel will be publish prior to deciding whether to publish.
-As a user, I want more information about how many course will be published prior to deciding whether to publish.
+Input phrase: As a user, I want more information about how many rows will be published prior to deciding whether to publish.
+As a exploiter, I desire more data about how many quarrel will be print prior to decide whether to print.
+As a drug_user, I want more information about how many course will be publish prior to deciding whether to publish.
 As a user, I want more information about how many rowing will be published prior to deciding whether to publish.
 As a user, I want more information about how many rows will be published prior to deciding whether to publish.
+As a user, I want more information about how many rows will be published prior to deciding whether to publish.
 
-Input phrase:As a Developer, I want to prevent duplicate transactions from being published and deal with the time gap between validation and the publishing decision.
+Input phrase: As a Developer, I want to prevent duplicate transactions from being published and deal with the time gap between validation and the publishing decision.
 As a Developer, I desire to prevent duplicate minutes from being print and cover with the clock_time opening between establishment and the publication decisiveness.
-As a Developer, I want to prevent duplicate transaction from being publish and consider with the fourth_dimension col between validation and the publishing decision.
+As a Developer, I want to prevent duplicate transactions from being publish and consider with the fourth_dimension col between validation and the publishing decision.
 As a Developer, I want to prevent duplicate transactions from being published and cope with the meter break between validation and the publishing decision.
 As a Developer, I want to prevent duplicate transactions from being published and distribute with the prison_term gap between validation and the publishing decision.
 As a Developer, I want to prevent duplicate transactions from being published and manage with the time gap between validation and the publishing decision.
 
-Input phrase:As a FABS user, I want to submit a citywide as a PPoPZIP and pass validations.
-As a FABS exploiter, I desire to present a citywide as a PPoPZIP and travel_by validation.
-As a FABS drug_user, I want to relegate a citywide as a PPoPZIP and legislate establishment.
+Input phrase: As a FABS user, I want to submit a citywide as a PPoPZIP and pass validations.
+As a FABS exploiter, I desire to present a citywide as a PPoPZIP and travel_by establishment.
+As a FABS drug_user, I want to relegate a citywide as a PPoPZIP and legislate validations.
 As a FABS user, I want to take a citywide as a PPoPZIP and elapse validations.
 As a FABS user, I want to put_in a citywide as a PPoPZIP and run validations.
 As a FABS user, I want to render a citywide as a PPoPZIP and happen validations.
 
-Input phrase:As a Broker user, I want to have updated error codes that accurately reflect the logic and provide enough information, so that I can fix my submission.
-As a agent exploiter, I desire to have update mistake code that accurately chew_over the logic and supply adequate data, so that I can repair my meekness.
+Input phrase: As a Broker user, I want to have updated error codes that accurately reflect the logic and provide enough information, so that I can fix my submission.
+As a agent exploiter, I desire to have update mistake codes that accurately chew_over the logic and supply adequate data, so that I can repair my meekness.
 As a broke drug_user, I want to have updated erroneousness codes that accurately reflect the logic and put_up enough information, so that I can fasten my submission.
 As a Broker user, I want to have updated error codes that accurately reflect the logic and leave enough information, so that I can specify my submission.
 As a Broker user, I want to have updated error codes that accurately reflect the logic and provide enough information, so that I can cook my submission.
 As a Broker user, I want to have updated error codes that accurately reflect the logic and provide enough information, so that I can pay_back my submission.
 
-Input phrase:As an agency user, I want to leave off the last 4 digits of the ZIP without an error, so that I can complete my submissions.
-As an representation exploiter, I desire to exit off the concluding four digit of the nothing without an mistake, so that I can dispatch my submission.
-As an means drug_user, I want to entrust off the final 4 finger of the zip_code without an erroneousness, so that I can complete my meekness.
+Input phrase: As an agency user, I want to leave off the last 4 digits of the ZIP without an error, so that I can complete my submissions.
+As an representation exploiter, I desire to exit off the concluding four finger of the nothing without an mistake, so that I can dispatch my meekness.
+As an means drug_user, I want to entrust off the final 4 digits of the zip_code without an erroneousness, so that I can complete my submissions.
 As an agency user, I want to bequeath off the last 4 digits of the energy without an error, so that I can complete my submissions.
 As an agency user, I want to impart off the last 4 digits of the slide_fastener without an error, so that I can complete my submissions.
 As an agency user, I want to forget off the last 4 digits of the ZIP without an error, so that I can complete my submissions.
 
-Input phrase:As a FABS user, I want to make sure the historical data includes all necessary columns, so that the information in the database is correct.
-As a FABS exploiter, I desire to induce certain the historic datum include all necessary column, so that the data in the datumbase is right.
-As a FABS drug_user, I want to cause indisputable the diachronic data admit all necessary columns, so that the information in the database is correct.
+Input phrase: As a FABS user, I want to make sure the historical data includes all necessary columns, so that the information in the database is correct.
+As a FABS exploiter, I desire to induce certain the historic datum admit all necessary columns, so that the data in the datumbase is right.
+As a FABS drug_user, I want to cause indisputable the diachronic data includes all necessary columns, so that the information in the database is correct.
 As a FABS user, I want to produce sure the historical data includes all necessary columns, so that the information in the database is correct.
 As a FABS user, I want to draw sure the historical data includes all necessary columns, so that the information in the database is correct.
 As a FABS user, I want to create sure the historical data includes all necessary columns, so that the information in the database is correct.
 
-Input phrase:As a data user, I want to access two additional fields from the FPDS data pull.
-As a datum exploiter, I desire to access deuce extra field from the flat_panel_display datum attract.
-As a data drug_user, I want to access two additional battlefield from the FPDS data perpetrate.
-As a data user, I want to access two additional discipline from the FPDS data draw.
-As a data user, I want to access two additional sphere from the FPDS data rend.
-As a data user, I want to access two additional playing_field from the FPDS data pluck.
+Input phrase: As a data user, I want to access two additional fields from the FPDS data pull.
+As a datum exploiter, I desire to access deuce extra battlefield from the flat_panel_display datum attract.
+As a data drug_user, I want to access two additional discipline from the FPDS data perpetrate.
+As a data user, I want to access two additional sphere from the FPDS data draw.
+As a data user, I want to access two additional playing_field from the FPDS data rend.
+As a data user, I want to access two additional plain from the FPDS data pluck.
 
-Input phrase:As a FABS user, I want additional helpful info in the submission dashboard, so that I can better manage submissions and IG requests.
-As a FABS exploiter, I desire extra helpful information in the meekness splashboard, so that I can well pull_off meeknesss and immunoglobulin request.
-As a FABS drug_user, I want additional helpful info in the submission dashboard, so that I can better cope meekness and IG requests.
+Input phrase: As a FABS user, I want additional helpful info in the submission dashboard, so that I can better manage submissions and IG requests.
+As a FABS exploiter, I desire extra helpful information in the meekness splashboard, so that I can well pull_off meeknesss and immunoglobulin requests.
+As a FABS drug_user, I want additional helpful info in the submission dashboard, so that I can better cope submissions and IG requests.
 As a FABS user, I want additional helpful info in the submission dashboard, so that I can better oversee submissions and IG requests.
 As a FABS user, I want additional helpful info in the submission dashboard, so that I can better wangle submissions and IG requests.
 As a FABS user, I want additional helpful info in the submission dashboard, so that I can better do submissions and IG requests.
 
-Input phrase:As a FABS user, I want to download the uploaded FABS file, so that I can get the uploaded file.
+Input phrase: As a FABS user, I want to download the uploaded FABS file, so that I can get the uploaded file.
 As a FABS exploiter, I desire to download the uploaded FABS file, so that I can become the uploaded file.
 As a FABS drug_user, I want to download the uploaded FABS file, so that I can receive the uploaded file.
 As a FABS user, I want to download the uploaded FABS file, so that I can arrive the uploaded file.
 As a FABS user, I want to download the uploaded FABS file, so that I can bring the uploaded file.
 As a FABS user, I want to download the uploaded FABS file, so that I can experience the uploaded file.
 
-Input phrase:As a Developer I want to quickly access Broker application data, so that I can investigate issues.
-As a Developer I desire to promptly access agent lotion datum, so that I can investigate issue.
-As a Developer I want to cursorily access broke application data, so that I can investigate topic.
-As a Developer I want to quickly access Broker application data, so that I can investigate return.
+Input phrase: As a Developer I want to quickly access Broker application data, so that I can investigate issues.
+As a Developer I desire to promptly access agent lotion datum, so that I can investigate topic.
+As a Developer I want to cursorily access broke application data, so that I can investigate return.
 As a Developer I want to quickly access Broker application data, so that I can investigate consequence.
 As a Developer I want to quickly access Broker application data, so that I can investigate offspring.
+As a Developer I want to quickly access Broker application data, so that I can investigate emergence.
 
-Input phrase:As a Developer , I want to determine the best way to load historical FPDS data, so that I can load all FPDS data since 2007.
+Input phrase: As a Developer , I want to determine the best way to load historical FPDS data, so that I can load all FPDS data since 2007.
 As a Developer , I desire to specify the better manner to load historic flat_panel_display datum, so that I can load all flat_panel_display datum since 2007.
 As a Developer , I want to decide the good means to load diachronic FPDS data, so that I can load all FPDS data since 2007.
 As a Developer , I want to settle the full direction to load historical FPDS data, so that I can load all FPDS data since 2007.
 As a Developer , I want to determine the estimable room to load historical FPDS data, so that I can load all FPDS data since 2007.
 As a Developer , I want to determine the beneficial way to load historical FPDS data, so that I can load all FPDS data since 2007.
 
-Input phrase:As a FABS user, I want the language on FABS pages to be appropriate for me, so that I am not confused.
-As a FABS exploiter, I desire the speech on FABS page to be appropriate for me, so that I am not baffled.
+Input phrase: As a FABS user, I want the language on FABS pages to be appropriate for me, so that I am not confused.
+As a FABS exploiter, I desire the speech on FABS pages to be appropriate for me, so that I am not baffled.
 As a FABS drug_user, I want the lyric on FABS pages to be appropriate for me, so that I am not broken.
 As a FABS user, I want the linguistic_process on FABS pages to be appropriate for me, so that I am not confused.
 As a FABS user, I want the terminology on FABS pages to be appropriate for me, so that I am not confused.
 As a FABS user, I want the language on FABS pages to be appropriate for me, so that I am not confused.
 
-Input phrase:As a FABS user, I do not want  DABS banner messages and vice versa, so that I have the appropriate information for my application.
-As a FABS exploiter, I do not desire  tap streamer message and frailty versa, so that I have the appropriate data for my lotion.
-As a FABS drug_user, I do not want  dab standard messages and vice versa, so that I have the appropriate information for my application.
+Input phrase: As a FABS user, I do not want  DABS banner messages and vice versa, so that I have the appropriate information for my application.
+As a FABS exploiter, I do not desire  tap streamer messages and frailty versa, so that I have the appropriate data for my lotion.
+As a FABS drug_user, I do not want  DABS standard messages and vice versa, so that I have the appropriate information for my application.
 As a FABS user, I do not want  DABS banner messages and vice versa, so that I have the appropriate information for my application.
 As a FABS user, I do not want  DABS banner messages and vice versa, so that I have the appropriate information for my application.
 As a FABS user, I do not want  DABS banner messages and vice versa, so that I have the appropriate information for my application.
 
-Input phrase:As a FABS user, I want to have read-only access to DABS, so that I can view DABS pages without wanting two sets of permissions.
-As a FABS exploiter, I desire to have take-only entree to tap, so that I can see tap page without desireing deuce set of permission.
-As a FABS drug_user, I want to have learn-only access to dab, so that I can watch dab pages without want two stage_set of license.
-As a FABS user, I want to have understand-only access to DABS, so that I can view DABS pages without wanting two bent of permissions.
-As a FABS user, I want to have read-only access to DABS, so that I can view DABS pages without wanting two hardening of permissions.
+Input phrase: As a FABS user, I want to have read-only access to DABS, so that I can view DABS pages without wanting two sets of permissions.
+As a FABS exploiter, I desire to have take-only entree to tap, so that I can see tap pages without desireing deuce stage_set of license.
+As a FABS drug_user, I want to have learn-only access to DABS, so that I can watch DABS pages without want two bent of permissions.
+As a FABS user, I want to have understand-only access to DABS, so that I can view DABS pages without wanting two hardening of permissions.
+As a FABS user, I want to have read-only access to DABS, so that I can view DABS pages without wanting two sets of permissions.
 As a FABS user, I want to have read-only access to DABS, so that I can view DABS pages without wanting two sets of permissions.
 
-Input phrase:As a FABS user, I want to have my validations run in a reasonable amount of time.
-As a FABS exploiter, I desire to have my validation scat in a fair sum of clock_time.
-As a FABS drug_user, I want to have my establishment operate in a reasonable measure of fourth_dimension.
+Input phrase: As a FABS user, I want to have my validations run in a reasonable amount of time.
+As a FABS exploiter, I desire to have my establishment scat in a fair sum of clock_time.
+As a FABS drug_user, I want to have my validations operate in a reasonable measure of fourth_dimension.
 As a FABS user, I want to have my validations function in a reasonable amount of meter.
 As a FABS user, I want to have my validations range in a reasonable amount of prison_term.
 As a FABS user, I want to have my validations campaign in a reasonable amount of time.
 
-Input phrase:As a FABS user, I want to see correct status labels on the Submission Dashboard, so that I can quickly see my submission history.
-As a FABS exploiter, I desire to understand right condition label on the meekness splashboard, so that I can promptly understand my meekness history.
+Input phrase: As a FABS user, I want to see correct status labels on the Submission Dashboard, so that I can quickly see my submission history.
+As a FABS exploiter, I desire to understand right condition labels on the meekness splashboard, so that I can promptly understand my meekness history.
 As a FABS drug_user, I want to witness correct status labels on the Submission Dashboard, so that I can cursorily witness my submission history.
 As a FABS user, I want to visualize correct status labels on the Submission Dashboard, so that I can quickly visualize my submission history.
 As a FABS user, I want to learn correct status labels on the Submission Dashboard, so that I can quickly learn my submission history.
 As a FABS user, I want to watch correct status labels on the Submission Dashboard, so that I can quickly watch my submission history.
 
-Input phrase:As an agency user, I want to know when the submission periods start and end, so that I know when the submission starts and ends.
-As an representation exploiter, I desire to acacknowledgeledge when the meekness time_period get_down and end, so that I acacknowledgeledge when the meekness get_downs and end.
-As an means drug_user, I want to sleep_together when the submission period begin and end, so that I sleep_together when the submission begins and goal.
-As an agency user, I want to know when the submission menstruation depart and end, so that I know when the submission departs and conclusion.
+Input phrase: As an agency user, I want to know when the submission periods start and end, so that I know when the submission starts and ends.
+As an representation exploiter, I desire to acacknowledgeledge when the meekness time_period get_down and end, so that I acacknowledgeledge when the meekness get_downs and goal.
+As an means drug_user, I want to sleep_together when the submission menstruation begin and end, so that I sleep_together when the submission begins and conclusion.
+As an agency user, I want to know when the submission periods depart and end, so that I know when the submission departs and ends.
 As an agency user, I want to know when the submission periods originate and end, so that I know when the submission originates and ends.
 As an agency user, I want to know when the submission periods startle and end, so that I know when the submission startles and ends.
 
-Input phrase:As an agency user, I want a landing page to navigate to either FABS or DABS pages, so that I can access both sides of the site.
-As an representation exploiter, I desire a landing page to voyage to either FABS or tap page, so that I can access both side of the web_site.
-As an means drug_user, I want a landing page to navigate to either FABS or dab pages, so that I can access both slope of the site.
-As an agency user, I want a landing page to navigate to either FABS or DABS pages, so that I can access both english of the site.
+Input phrase: As an agency user, I want a landing page to navigate to either FABS or DABS pages, so that I can access both sides of the site.
+As an representation exploiter, I desire a landing page to voyage to either FABS or tap pages, so that I can access both slope of the web_site.
+As an means drug_user, I want a landing page to navigate to either FABS or DABS pages, so that I can access both english of the site.
+As an agency user, I want a landing page to navigate to either FABS or DABS pages, so that I can access both sides of the site.
 As an agency user, I want a landing page to navigate to either FABS or DABS pages, so that I can access both sides of the site.
 As an agency user, I want a landing page to navigate to either FABS or DABS pages, so that I can access both sides of the site.
 
-Input phrase:As an agency user, I want to submit my data elements surrounded by quotation marks, so that Excel won't strip off leading and trailing zeroes.
-As an representation exploiter, I desire to present my datum component surround by citation mark, so that Excel willn't deprive off lead and drag nothing.
-As an means drug_user, I want to relegate my data chemical_element smother by quotation marker, so that Excel bequeathn't undress off leave and chase zero.
-As an agency user, I want to take my data element besiege by quotation target, so that Excel won't leach off run and trail zeroes.
-As an agency user, I want to put_in my data elements wall by quotation chump, so that Excel won't denude off head and trailing zeroes.
-As an agency user, I want to render my data elements surrounded by quotation sign, so that Excel won't plunder off contribute and trailing zeroes.
+Input phrase: As an agency user, I want to submit my data elements surrounded by quotation marks, so that Excel won't strip off leading and trailing zeroes.
+As an representation exploiter, I desire to present my datum component surround by citation marker, so that Excel willn't deprive off lead and drag nothing.
+As an means drug_user, I want to relegate my data chemical_element smother by quotation target, so that Excel bequeathn't undress off leave and chase zero.
+As an agency user, I want to take my data elements besiege by quotation chump, so that Excel won't leach off run and trail zeroes.
+As an agency user, I want to put_in my data elements wall by quotation sign, so that Excel won't denude off head and trailing zeroes.
+As an agency user, I want to render my data elements surrounded by quotation scratch, so that Excel won't plunder off contribute and trailing zeroes.
 
-Time for the single dataset = 3.2815 seconds = 0.0009 hours
+Time for the single dataset = 2.5058 seconds = 0.0418 minutes = 0.0007 hours

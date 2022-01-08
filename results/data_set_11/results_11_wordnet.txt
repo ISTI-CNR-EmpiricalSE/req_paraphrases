@@ -1,479 +1,479 @@
 data_set_number:11
 
-Input phrase:As a collection curator, I want to set a date after which data will expire and be deleted or hidden then deleted.
+Input phrase: As a collection curator, I want to set a date after which data will expire and be deleted or hidden then deleted.
 As a solicitation curator, I desire to put a date after which datum will run_out and be delete or hide then delete.
 As a collection curator, I want to determine a date after which data will die and be erase or shroud then erase.
 As a collection curator, I want to specify a date after which data will exhale and be edit or obscure then edit.
 As a collection curator, I want to fix a date after which data will expire and be deleted or hidden then deleted.
 As a collection curator, I want to arrange a date after which data will expire and be deleted or hidden then deleted.
 
-Input phrase:As a collection curator, I want to see the scheduled records deletion date be displayed on the item and component pages.
-As a solicitation curator, I desire to understand the schedule record omission date be expose on the detail and component page.
-As a collection curator, I want to witness the scheduled phonograph_record deletion date be display on the token and component pages.
-As a collection curator, I want to visualize the scheduled criminal_record deletion date be displayed on the item and component pages.
+Input phrase: As a collection curator, I want to see the scheduled records deletion date be displayed on the item and component pages.
+As a solicitation curator, I desire to understand the schedule phonograph_record omission date be expose on the detail and component pages.
+As a collection curator, I want to witness the scheduled criminal_record deletion date be display on the token and component pages.
+As a collection curator, I want to visualize the scheduled records deletion date be displayed on the item and component pages.
 As a collection curator, I want to learn the scheduled records deletion date be displayed on the item and component pages.
 As a collection curator, I want to watch the scheduled records deletion date be displayed on the item and component pages.
 
-Input phrase:As a repository manager, I want to track who is financially responsible for each item in the repository, who should probably be a person contact including name, phone, email, maybe title and address.
+Input phrase: As a repository manager, I want to track who is financially responsible for each item in the repository, who should probably be a person contact including name, phone, email, maybe title and address.
 As a depository director, I desire to chase who is financially creditworthy for each detail in the depository, who should credibly be a person liaison include name, telephone, electronic_mail, possibly championship and savoir-faire.
 As a repository coach, I want to traverse who is financially responsible for each token in the repository, who should probably be a person contact admit name, earphone, email, maybe deed and address.
 As a repository manager, I want to track who is financially responsible for each item in the repository, who should probably be a person contact including name, phone, email, maybe claim and address.
 As a repository manager, I want to track who is financially responsible for each item in the repository, who should probably be a person contact including name, phone, email, maybe title and address.
 As a repository manager, I want to track who is financially responsible for each item in the repository, who should probably be a person contact including name, phone, email, maybe title and address.
 
-Input phrase:As a repository manager, I want to be able t run a report periodically showing the storage consumed by each financial contact.
+Input phrase: As a repository manager, I want to be able t run a report periodically showing the storage consumed by each financial contact.
 As a repository director, I desire to be able t scat a report_card sporadically show the storehouse devour by each fiscal liaison.
 As a repository coach, I want to be able t operate a composition periodically prove the memory consume by each financial contact.
 As a repository manager, I want to be able t function a reputation periodically testify the repositing consumed by each financial contact.
 As a repository manager, I want to be able t range a report periodically picture the storage consumed by each financial contact.
 As a repository manager, I want to be able t campaign a report periodically express the storage consumed by each financial contact.
 
-Input phrase:As a collection curator, I want to map an item or items from one collection to another, so that an item may administratively belong to one collection but could appear in other collections.
+Input phrase: As a collection curator, I want to map an item or items from one collection to another, so that an item may administratively belong to one collection but could appear in other collections.
 As a solicitation curator, I desire to map an detail or details from matchless solicitation to another, so that an detail may administratively belong_to to matchless solicitation but could look in other solicitations.
-As a collection curator, I want to map an token or tokens from one collection to another, so that an token may administratively belong to one collection but could appear in other solicitation.
-As a collection curator, I want to map an item or token from one collection to another, so that an item may administratively belong to one collection but could appear in other collections.
+As a collection curator, I want to map an token or tokens from one collection to another, so that an token may administratively belong to one collection but could appear in other collections.
+As a collection curator, I want to map an item or items from one collection to another, so that an item may administratively belong to one collection but could appear in other collections.
 As a collection curator, I want to map an item or items from one collection to another, so that an item may administratively belong to one collection but could appear in other collections.
 As a collection curator, I want to map an item or items from one collection to another, so that an item may administratively belong to one collection but could appear in other collections.
 
-Input phrase:As a faculty member, I want to add a date delimiter to a search string, so that I can limit a search to return only results from before, after, or between a given date or dates.
-As a staff extremity, I desire to lend a date derestricter to a search bowed_stringed_instrument, so that I can restrict a search to render only consequence from before, after, or between a give date or date.
+Input phrase: As a faculty member, I want to add a date delimiter to a search string, so that I can limit a search to return only results from before, after, or between a given date or dates.
+As a staff extremity, I desire to lend a date derestricter to a search bowed_stringed_instrument, so that I can restrict a search to render only consequence from before, after, or between a give date or dates.
 As a faculty penis, I want to total a date despecifyer to a search drawstring, so that I can specify a search to revert only solution from before, after, or between a yield date or dates.
-As a faculty member, I want to add a date delimiter to a search chain, so that I can limit a search to hark_back only result from before, after, or between a hold date or dates.
-As a faculty member, I want to add a date delimiter to a search string, so that I can limit a search to retort only resultant_role from before, after, or between a render date or dates.
+As a faculty member, I want to add a date delimiter to a search chain, so that I can limit a search to hark_back only resultant_role from before, after, or between a hold date or dates.
+As a faculty member, I want to add a date delimiter to a search string, so that I can limit a search to retort only results from before, after, or between a render date or dates.
 As a faculty member, I want to add a date delimiter to a search string, so that I can limit a search to come_back only results from before, after, or between a impart date or dates.
 
-Input phrase:As a developer, I want to determine if we can use the in-built Fedora 4 event audit services.
-As a developer, I desire to specify if we can practice the in-construct Fedora four consequence audited_account service.
-As a developer, I want to decide if we can use the in-build_up Fedora 4 event audit military_service.
-As a developer, I want to settle if we can use the in-build Fedora 4 event audit avail.
-As a developer, I want to determine if we can use the in-built Fedora 4 event audit servicing.
+Input phrase: As a developer, I want to determine if we can use the in-built Fedora 4 event audit services.
+As a developer, I desire to specify if we can practice the in-construct Fedora four consequence audited_account military_service.
+As a developer, I want to decide if we can use the in-build_up Fedora 4 event audit avail.
+As a developer, I want to settle if we can use the in-build Fedora 4 event audit servicing.
 As a developer, I want to determine if we can use the in-built Fedora 4 event audit serve.
+As a developer, I want to determine if we can use the in-built Fedora 4 event audit overhaul.
 
-Input phrase:As a DPC, I want events to be created when a publication is published and unpublished, who did it, comment, so that I can record when and why something was made unavailable.  
-As a DPC, I desire event to be make when a issue is print and unprint, who did it, gloss, so that I can read when and why something was make unavailable.  
-As a DPC, I want consequence to be create when a publication is publish and unpublish, who did it, comment, so that I can commemorate when and why something was induce unavailable.  
+Input phrase: As a DPC, I want events to be created when a publication is published and unpublished, who did it, comment, so that I can record when and why something was made unavailable.  
+As a DPC, I desire consequence to be make when a issue is print and unprint, who did it, gloss, so that I can read when and why something was make unavailable.  
+As a DPC, I want events to be create when a publication is publish and unpublish, who did it, comment, so that I can commemorate when and why something was induce unavailable.  
 As a DPC, I want events to be produce when a publication is published and unpublished, who did it, comment, so that I can record when and why something was cause unavailable.  
 As a DPC, I want events to be created when a publication is published and unpublished, who did it, comment, so that I can record when and why something was produce unavailable.  
 As a DPC, I want events to be created when a publication is published and unpublished, who did it, comment, so that I can record when and why something was draw unavailable.  
 
-Input phrase:As a repository manager, I want to specify the remote replication policy for each collection.
+Input phrase: As a repository manager, I want to specify the remote replication policy for each collection.
 As a repository director, I desire to stipulate the distant reproduction policy for each solicitation.
 As a repository coach, I want to pin_down the outside rejoinder policy for each collection.
 As a repository manager, I want to intend the outback echo policy for each collection.
 As a repository manager, I want to assign the remote replica policy for each collection.
 As a repository manager, I want to specify the remote replication policy for each collection.
 
-Input phrase:As a repository manager, I want to elect to either replicate remotely or not and possibly to replicate beyond the primary remote site.
+Input phrase: As a repository manager, I want to elect to either replicate remotely or not and possibly to replicate beyond the primary remote site.
 As a repository director, I desire to elect to either retroflex distantly or not and possibly to retroflex beyond the chief distant web_site.
 As a repository coach, I want to elect to either duplicate outsidely or not and possibly to duplicate beyond the elementary outside site.
 As a repository manager, I want to elect to either replicate outbackly or not and possibly to replicate beyond the basal outback site.
 As a repository manager, I want to elect to either replicate remotely or not and possibly to replicate beyond the primary remote site.
 As a repository manager, I want to elect to either replicate remotely or not and possibly to replicate beyond the primary remote site.
 
-Input phrase:As a collection curator, I want to have the repository queue my collection for replication upon ingest to our remote storage site and to display the remote replication status in each item and component page in the staff interface.
+Input phrase: As a collection curator, I want to have the repository queue my collection for replication upon ingest to our remote storage site and to display the remote replication status in each item and component page in the staff interface.
 As a solicitation curator, I desire to have the depository queue my solicitation for reproduction upon ingest to our distant storehouse web_site and to expose the distant reproduction condition in each detail and component page in the staff interface.
 As a collection curator, I want to have the repository queue my collection for rejoinder upon ingest to our outside memory site and to display the outside rejoinder status in each token and component page in the staff interface.
 As a collection curator, I want to have the repository queue my collection for echo upon ingest to our outback repositing site and to display the outback echo status in each item and component page in the staff interface.
 As a collection curator, I want to have the repository queue my collection for replica upon ingest to our remote storage site and to display the remote replica status in each item and component page in the staff interface.
 As a collection curator, I want to have the repository queue my collection for replication upon ingest to our remote storage site and to display the remote replication status in each item and component page in the staff interface.
 
-Input phrase:As a collection curator, I want to have a summary of all remote replication status at collection level on my dashboard.
+Input phrase: As a collection curator, I want to have a summary of all remote replication status at collection level on my dashboard.
 As a solicitation curator, I desire to have a summary of all distant reproduction condition at solicitation degree on my splashboard.
 As a collection curator, I want to have a summary of all outside rejoinder status at collection grade on my dashboard.
 As a collection curator, I want to have a summary of all outback echo status at collection horizontal_surface on my dashboard.
 As a collection curator, I want to have a summary of all remote replica status at collection floor on my dashboard.
 As a collection curator, I want to have a summary of all remote replication status at collection level on my dashboard.
 
-Input phrase:As a collection curator, I want to have my collection be encrypted with a key maintained on that server, a checksum made and stored of the encrypted file, and the encrypted file replicated to our remote storage site.
+Input phrase: As a collection curator, I want to have my collection be encrypted with a key maintained on that server, a checksum made and stored of the encrypted file, and the encrypted file replicated to our remote storage site.
 As a solicitation curator, I desire to have my solicitation be code with a samara keep on that waiter, a checksum make and store of the code file, and the code file retroflex to our distant storehouse web_site.
 As a collection curator, I want to have my collection be encrypted with a winder conserve on that server, a checksum induce and stored of the encrypted file, and the encrypted file replicate to our outside memory site.
 As a collection curator, I want to have my collection be encrypted with a keystone sustain on that server, a checksum cause and stored of the encrypted file, and the encrypted file duplicate to our outback repositing site.
 As a collection curator, I want to have my collection be encrypted with a key assert on that server, a checksum produce and stored of the encrypted file, and the encrypted file replicated to our remote storage site.
 As a collection curator, I want to have my collection be encrypted with a key wield on that server, a checksum draw and stored of the encrypted file, and the encrypted file replicated to our remote storage site.
 
-Input phrase:As a collection curator, I want to lift an embargo for an object in a simple way.
+Input phrase: As a collection curator, I want to lift an embargo for an object in a simple way.
 As a solicitation curator, I desire to raise an embargo for an aim in a elementary manner.
 As a collection curator, I want to rise an embargo for an object in a bare means.
 As a collection curator, I want to revoke an embargo for an object in a childlike direction.
 As a collection curator, I want to pilfer an embargo for an object in a dim-witted room.
 As a collection curator, I want to hoist an embargo for an object in a simple way.
 
-Input phrase:As a repoadmin, I want to have Symplectic Elements bidirectionally communicate and integrate with DDR, which  provide a Fedora Connector and Emory is using a hidden Fedora instance that Hydra collects objects for.
-As a repoadmin, I desire to have Symplectic component bidirectionally convey and desegregate with DDR, which  supply a Fedora connection and Emory is use a hide Fedora case that Hydra roll_up object for.
-As a repoadmin, I want to have Symplectic chemical_element bidirectionally commune and integrate with DDR, which  put_up a Fedora Connector and Emory is practice a shroud Fedora example that Hydra collect aim for.
-As a repoadmin, I want to have Symplectic element bidirectionally communicate and integrate with DDR, which  leave a Fedora Connector and Emory is using a obscure Fedora instance that Hydra gather objects for.
+Input phrase: As a repoadmin, I want to have Symplectic Elements bidirectionally communicate and integrate with DDR, which  provide a Fedora Connector and Emory is using a hidden Fedora instance that Hydra collects objects for.
+As a repoadmin, I desire to have Symplectic component bidirectionally convey and desegregate with DDR, which  supply a Fedora connection and Emory is use a hide Fedora case that Hydra roll_up aim for.
+As a repoadmin, I want to have Symplectic chemical_element bidirectionally commune and integrate with DDR, which  put_up a Fedora Connector and Emory is practice a shroud Fedora example that Hydra gather objects for.
+As a repoadmin, I want to have Symplectic Elements bidirectionally communicate and integrate with DDR, which  leave a Fedora Connector and Emory is using a obscure Fedora instance that Hydra collects objects for.
 As a repoadmin, I want to have Symplectic Elements bidirectionally communicate and integrate with DDR, which  provide a Fedora Connector and Emory is using a hidden Fedora instance that Hydra collects objects for.
 As a repoadmin, I want to have Symplectic Elements bidirectionally communicate and integrate with DDR, which  provide a Fedora Connector and Emory is using a hidden Fedora instance that Hydra collects objects for.
 
-Input phrase:As a collection curator, I want to have items be made available under the permissions they were configured once the embargo date has been reached.
-As a solicitation curator, I desire to have item be make available under the permission they were configure once the embargo date has been reach.
-As a collection curator, I want to have detail be induce available under the license they were configured once the embargo date has been achieve.
-As a collection curator, I want to have token be cause available under the permissions they were configured once the embargo date has been pass.
+Input phrase: As a collection curator, I want to have items be made available under the permissions they were configured once the embargo date has been reached.
+As a solicitation curator, I desire to have detail be make available under the license they were configure once the embargo date has been reach.
+As a collection curator, I want to have token be induce available under the permissions they were configured once the embargo date has been achieve.
+As a collection curator, I want to have items be cause available under the permissions they were configured once the embargo date has been pass.
 As a collection curator, I want to have items be produce available under the permissions they were configured once the embargo date has been strive.
 As a collection curator, I want to have items be draw available under the permissions they were configured once the embargo date has been reached.
 
-Input phrase:As a collection curator, I want to create deposit forms specific to the collection.
-As a solicitation curator, I desire to make sediment form specific to the solicitation.
-As a collection curator, I want to produce deposition kind specific to the collection.
-As a collection curator, I want to create down_payment shape specific to the collection.
-As a collection curator, I want to create depository human_body specific to the collection.
-As a collection curator, I want to create deposit phase specific to the collection.
+Input phrase: As a collection curator, I want to create deposit forms specific to the collection.
+As a solicitation curator, I desire to make sediment kind specific to the solicitation.
+As a collection curator, I want to produce deposition shape specific to the collection.
+As a collection curator, I want to create down_payment human_body specific to the collection.
+As a collection curator, I want to create depository phase specific to the collection.
+As a collection curator, I want to create deposit class specific to the collection.
 
-Input phrase:As a collection curator, I want to allow some collections the option of setting an embargo date at deposit.
+Input phrase: As a collection curator, I want to allow some collections the option of setting an embargo date at deposit.
 As a solicitation curator, I desire to let some solicitations the choice of put an embargo date at sediment.
-As a collection curator, I want to permit some solicitation the option of determine an embargo date at deposition.
+As a collection curator, I want to permit some collections the option of determine an embargo date at deposition.
 As a collection curator, I want to leave some collections the option of specify an embargo date at down_payment.
 As a collection curator, I want to admit some collections the option of set an embargo date at depository.
 As a collection curator, I want to give_up some collections the option of fix an embargo date at deposit.
 
-Input phrase:As a collection curator, I want to have item metadata to be discoverable while the item is under embargo.
+Input phrase: As a collection curator, I want to have item metadata to be discoverable while the item is under embargo.
 As a solicitation curator, I desire to have detail metadata to be ascertainable while the detail is under embargo.
 As a collection curator, I want to have token metadata to be discoverable while the token is under embargo.
 As a collection curator, I want to have item metadata to be discoverable while the item is under embargo.
 As a collection curator, I want to have item metadata to be discoverable while the item is under embargo.
 As a collection curator, I want to have item metadata to be discoverable while the item is under embargo.
 
-Input phrase:As a collection curator, I want to have the item to be allowed under the access permissions set on the object after the embargo data is reached.
-As a solicitation curator, I desire to have the detail to be let under the entree permission put on the aim after the embargo datum is reach.
-As a collection curator, I want to have the token to be permit under the access license determine on the object after the embargo data is achieve.
+Input phrase: As a collection curator, I want to have the item to be allowed under the access permissions set on the object after the embargo data is reached.
+As a solicitation curator, I desire to have the detail to be let under the entree license put on the aim after the embargo datum is reach.
+As a collection curator, I want to have the token to be permit under the access permissions determine on the object after the embargo data is achieve.
 As a collection curator, I want to have the item to be allow under the access permissions specify on the object after the embargo data is pass.
 As a collection curator, I want to have the item to be leave under the access permissions fix on the object after the embargo data is strive.
 As a collection curator, I want to have the item to be admit under the access permissions arrange on the object after the embargo data is reached.
 
-Input phrase:As a repoadmin, I want to have users to be presented with a license or a selection of licenses, specific to the collection, and deposit to be denied if the submitter does not accept the license.
-As a repoadmin, I desire to have user to be show with a license or a choice of license, specific to the solicitation, and lodge to be deny if the submitter does not bear the license.
-As a repoadmin, I want to have exploiter to be present with a license or a survival of licenses, specific to the collection, and situate to be traverse if the submitter does not take the license.
-As a repoadmin, I want to have drug_user to be stage with a license or a excerpt of licenses, specific to the collection, and deposit to be denied if the submitter does not accept the license.
+Input phrase: As a repoadmin, I want to have users to be presented with a license or a selection of licenses, specific to the collection, and deposit to be denied if the submitter does not accept the license.
+As a repoadmin, I desire to have exploiter to be show with a license or a choice of licenses, specific to the solicitation, and lodge to be deny if the submitter does not bear the license.
+As a repoadmin, I want to have drug_user to be present with a license or a survival of licenses, specific to the collection, and situate to be traverse if the submitter does not take the license.
+As a repoadmin, I want to have users to be stage with a license or a excerpt of licenses, specific to the collection, and deposit to be denied if the submitter does not accept the license.
 As a repoadmin, I want to have users to be award with a license or a selection of licenses, specific to the collection, and deposit to be denied if the submitter does not accept the license.
 As a repoadmin, I want to have users to be give with a license or a selection of licenses, specific to the collection, and deposit to be denied if the submitter does not accept the license.
 
-Input phrase:As a repoadmin, I want to have the license be recorded in metadata and displayed alongside the item.
+Input phrase: As a repoadmin, I want to have the license be recorded in metadata and displayed alongside the item.
 As a repoadmin, I desire to have the license be record in metadata and expose aboard the detail.
 As a repoadmin, I want to have the license be read in metadata and display alongside the token.
 As a repoadmin, I want to have the license be commemorate in metadata and displayed alongside the item.
 As a repoadmin, I want to have the license be recorded in metadata and displayed alongside the item.
 As a repoadmin, I want to have the license be recorded in metadata and displayed alongside the item.
 
-Input phrase:As a DigitalRecords Archivist, I want to have a method to batch ingest ETDs we receive from ProQuest.
+Input phrase: As a DigitalRecords Archivist, I want to have a method to batch ingest ETDs we receive from ProQuest.
 As a DigitalRecords Archivist, I desire to have a method_acting to batch ingest explosive_trace_detection we pick_up from ProQuest.
 As a DigitalRecords Archivist, I want to have a method to batch ingest ETDs we experience from ProQuest.
 As a DigitalRecords Archivist, I want to have a method to batch ingest ETDs we welcome from ProQuest.
 As a DigitalRecords Archivist, I want to have a method to batch ingest ETDs we meet from ProQuest.
 As a DigitalRecords Archivist, I want to have a method to batch ingest ETDs we get from ProQuest.
 
-Input phrase:As a DigitalRecords Archivist, I want to have the batch ingest tool to recognize and set embargoes, permissions for embargoed items should be allow everyone to view metadata, and collection curator and repository administrators to download the files.
-As a DigitalRecords Archivist, I desire to have the batch ingest instrument to acknowledge and put embargo, permission for embargoed item should be let everyone to see metadata, and solicitation curator and depository administrator to download the file.
-As a DigitalRecords Archivist, I want to have the batch ingest creature to spot and determine embargoes, license for embargoed detail should be permit everyone to watch metadata, and collection curator and repository administrators to download the files.
-As a DigitalRecords Archivist, I want to have the batch ingest cock to accredit and specify embargoes, permissions for embargoed token should be leave everyone to view metadata, and collection curator and repository administrators to download the files.
+Input phrase: As a DigitalRecords Archivist, I want to have the batch ingest tool to recognize and set embargoes, permissions for embargoed items should be allow everyone to view metadata, and collection curator and repository administrators to download the files.
+As a DigitalRecords Archivist, I desire to have the batch ingest instrument to acknowledge and put embargo, license for embargoed detail should be let everyone to see metadata, and solicitation curator and depository administrators to download the files.
+As a DigitalRecords Archivist, I want to have the batch ingest creature to spot and determine embargoes, permissions for embargoed token should be permit everyone to watch metadata, and collection curator and repository administrators to download the files.
+As a DigitalRecords Archivist, I want to have the batch ingest cock to accredit and specify embargoes, permissions for embargoed items should be leave everyone to view metadata, and collection curator and repository administrators to download the files.
 As a DigitalRecords Archivist, I want to have the batch ingest tool to greet and fix embargoes, permissions for embargoed items should be admit everyone to view metadata, and collection curator and repository administrators to download the files.
 As a DigitalRecords Archivist, I want to have the batch ingest tool to recognize and arrange embargoes, permissions for embargoed items should be give_up everyone to view metadata, and collection curator and repository administrators to download the files.
 
-Input phrase:As a DigitalRecords Archivist, I want to have the repository to lift embargoes on the release date and set the access controls to the configuration set on item on that date.
-As a DigitalRecords Archivist, I desire to have the depository to raise embargo on the liberation date and put the entree control to the shape put on detail on that date.
-As a DigitalRecords Archivist, I want to have the repository to rise embargoes on the handout date and determine the access control_condition to the configuration determine on token on that date.
-As a DigitalRecords Archivist, I want to have the repository to revoke embargoes on the dismissal date and specify the access dominance to the configuration specify on item on that date.
-As a DigitalRecords Archivist, I want to have the repository to pilfer embargoes on the passing date and fix the access restraint to the configuration fix on item on that date.
-As a DigitalRecords Archivist, I want to have the repository to hoist embargoes on the acquittance date and arrange the access command to the configuration arrange on item on that date.
+Input phrase: As a DigitalRecords Archivist, I want to have the repository to lift embargoes on the release date and set the access controls to the configuration set on item on that date.
+As a DigitalRecords Archivist, I desire to have the depository to raise embargo on the liberation date and put the entree control_condition to the shape put on detail on that date.
+As a DigitalRecords Archivist, I want to have the repository to rise embargoes on the handout date and determine the access dominance to the configuration determine on token on that date.
+As a DigitalRecords Archivist, I want to have the repository to revoke embargoes on the dismissal date and specify the access restraint to the configuration specify on item on that date.
+As a DigitalRecords Archivist, I want to have the repository to pilfer embargoes on the passing date and fix the access command to the configuration fix on item on that date.
+As a DigitalRecords Archivist, I want to have the repository to hoist embargoes on the acquittance date and arrange the access controls to the configuration arrange on item on that date.
 
-Input phrase:As a visitor, I want to see the embargo status and release date clearly displayed and perhaps highlighted in some way.
+Input phrase: As a visitor, I want to see the embargo status and release date clearly displayed and perhaps highlighted in some way.
 As a visitor, I desire to understand the embargo condition and liberation date intelligibly expose and possibly foreground in some manner.
 As a visitor, I want to witness the embargo status and handout date distinctly display and perhaps highlight in some means.
 As a visitor, I want to visualize the embargo status and dismissal date clearly displayed and perhaps highlighted in some direction.
 As a visitor, I want to learn the embargo status and passing date clearly displayed and perhaps highlighted in some room.
 As a visitor, I want to watch the embargo status and acquittance date clearly displayed and perhaps highlighted in some way.
 
-Input phrase:As a DigitalRecords Archivist, I want to have a method to add and remove multiple people to deposit groups in specific collections, to set a date that the deposit window closes, and to have these permissions conferred on these depositors should pick up on the collection's default permission.
-As a DigitalRecords Archivist, I desire to have a method_acting to lend and get_rid_of multiple citizenry to lodge group in specific solicitation, to put a date that the lodge windowpane stopping_point, and to have these license confer on these lodgeors should blame up on the solicitation's nonpayment license.
-As a DigitalRecords Archivist, I want to have a method to total and take_out multiple multitude to situate groups in specific solicitation, to determine a date that the situate window conclusion, and to have these license conferred on these situateors should clean up on the collection's default_option permission.
+Input phrase: As a DigitalRecords Archivist, I want to have a method to add and remove multiple people to deposit groups in specific collections, to set a date that the deposit window closes, and to have these permissions conferred on these depositors should pick up on the collection's default permission.
+As a DigitalRecords Archivist, I desire to have a method_acting to lend and get_rid_of multiple citizenry to lodge groups in specific solicitation, to put a date that the lodge windowpane stopping_point, and to have these license confer on these lodgeors should blame up on the solicitation's nonpayment license.
+As a DigitalRecords Archivist, I want to have a method to total and take_out multiple multitude to situate groups in specific collections, to determine a date that the situate window conclusion, and to have these permissions conferred on these situateors should clean up on the collection's default_option permission.
 As a DigitalRecords Archivist, I want to have a method to add and absent multiple people to down_payment groups in specific collections, to specify a date that the down_payment window finale, and to have these permissions conferred on these down_paymentors should foot up on the collection's default permission.
 As a DigitalRecords Archivist, I want to have a method to add and murder multiple people to depository groups in specific collections, to fix a date that the depository window closes, and to have these permissions conferred on these depositoryors should pluck up on the collection's default permission.
 As a DigitalRecords Archivist, I want to have a method to add and remove multiple people to deposit groups in specific collections, to arrange a date that the deposit window closes, and to have these permissions conferred on these depositors should peck up on the collection's default permission.
 
-Input phrase:As a DigitalRecords Archivist, I want to edit the length of embargoes.
+Input phrase: As a DigitalRecords Archivist, I want to edit the length of embargoes.
 As a DigitalRecords Archivist, I desire to edit the duration of embargo.
 As a DigitalRecords Archivist, I want to edit the distance of embargoes.
 As a DigitalRecords Archivist, I want to edit the length of embargoes.
 As a DigitalRecords Archivist, I want to edit the length of embargoes.
 As a DigitalRecords Archivist, I want to edit the length of embargoes.
 
-Input phrase:As a DigitalRecords Archivist, I want to expose the descriptive record for each ETD item for re-use external to Fedora.
+Input phrase: As a DigitalRecords Archivist, I want to expose the descriptive record for each ETD item for re-use external to Fedora.
 As a DigitalRecords Archivist, I desire to unwrap the descriptive phonograph_record for each explosive_trace_detection detail for re-function external to Fedora.
 As a DigitalRecords Archivist, I want to uncover the descriptive criminal_record for each ETD token for re-consumption external to Fedora.
 As a DigitalRecords Archivist, I want to disclose the descriptive record for each ETD item for re-habit external to Fedora.
 As a DigitalRecords Archivist, I want to queer the descriptive record for each ETD item for re-manipulation external to Fedora.
 As a DigitalRecords Archivist, I want to debunk the descriptive record for each ETD item for re-use external to Fedora.
 
-Input phrase:As a DigitalRecords Archivist, I want to grant embargo privileges to other repository administrators.
-As a DigitalRecords Archivist, I desire to allow embargo privilege to other depository administrator.
-As a DigitalRecords Archivist, I want to award embargo prerogative to other repository administrators.
+Input phrase: As a DigitalRecords Archivist, I want to grant embargo privileges to other repository administrators.
+As a DigitalRecords Archivist, I desire to allow embargo prerogative to other depository administrators.
+As a DigitalRecords Archivist, I want to award embargo privileges to other repository administrators.
 As a DigitalRecords Archivist, I want to concede embargo privileges to other repository administrators.
 As a DigitalRecords Archivist, I want to accord embargo privileges to other repository administrators.
 As a DigitalRecords Archivist, I want to grant embargo privileges to other repository administrators.
 
-Input phrase:As a DigitalRecords Archivist, I want to have a method to add and remove individual people from deposit groups.
-As a DigitalRecords Archivist, I desire to have a method_acting to lend and get_rid_of individual citizenry from sediment group.
+Input phrase: As a DigitalRecords Archivist, I want to have a method to add and remove individual people from deposit groups.
+As a DigitalRecords Archivist, I desire to have a method_acting to lend and get_rid_of individual citizenry from sediment groups.
 As a DigitalRecords Archivist, I want to have a method to total and take_out individual multitude from deposition groups.
 As a DigitalRecords Archivist, I want to have a method to add and absent individual people from down_payment groups.
 As a DigitalRecords Archivist, I want to have a method to add and murder individual people from depository groups.
 As a DigitalRecords Archivist, I want to have a method to add and remove individual people from deposit groups.
 
-Input phrase:As a collection curator, I want to have a tool to perform author authority control.
+Input phrase: As a collection curator, I want to have a tool to perform author authority control.
 As a solicitation curator, I desire to have a instrument to do writer writerity control_condition.
 As a collection curator, I want to have a creature to perform generator generatority dominance.
 As a collection curator, I want to have a cock to perform author authority restraint.
 As a collection curator, I want to have a tool to perform author authority command.
 As a collection curator, I want to have a tool to perform author authority control.
 
-Input phrase:As a collection curator, I want to move items from one collection to another.
-As a solicitation curator, I desire to travel item from matchless solicitation to another.
-As a collection curator, I want to go detail from one collection to another.
-As a collection curator, I want to be_active token from one collection to another.
+Input phrase: As a collection curator, I want to move items from one collection to another.
+As a solicitation curator, I desire to travel detail from matchless solicitation to another.
+As a collection curator, I want to go token from one collection to another.
+As a collection curator, I want to be_active items from one collection to another.
 As a collection curator, I want to act items from one collection to another.
 As a collection curator, I want to affect items from one collection to another.
 
-Input phrase:As a repoadmin, I want to expose repository contents via OAI-PMH.
-As a repoadmin, I desire to unwrap repository content via OAI-PMH.
-As a repoadmin, I want to uncover repository message via OAI-PMH.
-As a repoadmin, I want to disclose repository capacity via OAI-PMH.
-As a repoadmin, I want to queer repository contentedness via OAI-PMH.
-As a repoadmin, I want to debunk repository subject via OAI-PMH.
+Input phrase: As a repoadmin, I want to expose repository contents via OAI-PMH.
+As a repoadmin, I desire to unwrap repository message via OAI-PMH.
+As a repoadmin, I want to uncover repository capacity via OAI-PMH.
+As a repoadmin, I want to disclose repository contentedness via OAI-PMH.
+As a repoadmin, I want to queer repository subject via OAI-PMH.
+As a repoadmin, I want to debunk repository contents via OAI-PMH.
 
-Input phrase:Auditing & Reporting.
+Input phrase: Auditing & Reporting.
 audit & coverage.
 Auditing & report.
 Auditing & Reporting.
 Auditing & Reporting.
 Auditing & Reporting.
 
-Input phrase:As a DigitalRecords Archivist, I want to view and download summary embargo metadata for all ETDs in the repository.
+Input phrase: As a DigitalRecords Archivist, I want to view and download summary embargo metadata for all ETDs in the repository.
 As a DigitalRecords Archivist, I desire to see and download summary embargo metadata for all explosive_trace_detection in the depository.
 As a DigitalRecords Archivist, I want to watch and download summary embargo metadata for all ETDs in the repository.
 As a DigitalRecords Archivist, I want to view and download summary embargo metadata for all ETDs in the repository.
 As a DigitalRecords Archivist, I want to view and download summary embargo metadata for all ETDs in the repository.
 As a DigitalRecords Archivist, I want to view and download summary embargo metadata for all ETDs in the repository.
 
-Input phrase:As a batch submitter, I want to provide my data and metadata in a simple, documented format to the repository staff for ingest.
+Input phrase: As a batch submitter, I want to provide my data and metadata in a simple, documented format to the repository staff for ingest.
 As a batch submitter, I desire to supply my datum and metadatum in a elementary, document format to the depository staff for ingest.
 As a batch submitter, I want to put_up my data and metadata in a bare, documented format to the repository staff for ingest.
 As a batch submitter, I want to leave my data and metadata in a childlike, documented format to the repository staff for ingest.
 As a batch submitter, I want to provide my data and metadata in a dim-witted, documented format to the repository staff for ingest.
 As a batch submitter, I want to provide my data and metadata in a simple, documented format to the repository staff for ingest.
 
-Input phrase:As repository manager, I want to view authenticated, active users and anonymous users.
-As depository director, I desire to see authenticate, active user and anonymous user.
-As repository coach, I want to watch authenticated, active exploiter and anonymous exploiter.
-As repository manager, I want to view authenticated, active drug_user and anonymous drug_user.
+Input phrase: As repository manager, I want to view authenticated, active users and anonymous users.
+As depository director, I desire to see authenticate, active exploiter and anonymous exploiter.
+As repository coach, I want to watch authenticated, active drug_user and anonymous drug_user.
+As repository manager, I want to view authenticated, active users and anonymous users.
 As repository manager, I want to view authenticated, active users and anonymous users.
 As repository manager, I want to view authenticated, active users and anonymous users.
 
-Input phrase:As a repository manager, I want to schedule a message to users to be displayed on each page on the repository between select times for things like notification of upcoming downtime.
-As a depository director, I desire to schedule a message to user to be expose on each page on the depository between choice multiplication for thing wish presentment of approaching downtime.
-As a repository coach, I want to schedule a message to exploiter to be display on each page on the repository between blue-ribbon time for matter alike telling of upcoming downtime.
-As a repository manager, I want to schedule a message to drug_user to be displayed on each page on the repository between select clock_time for things comparable notification of upcoming downtime.
-As a repository manager, I want to schedule a message to users to be displayed on each page on the repository between select fourth_dimension for things like notification of upcoming downtime.
+Input phrase: As a repository manager, I want to schedule a message to users to be displayed on each page on the repository between select times for things like notification of upcoming downtime.
+As a depository director, I desire to schedule a message to exploiter to be expose on each page on the depository between choice multiplication for matter wish presentment of approaching downtime.
+As a repository coach, I want to schedule a message to drug_user to be display on each page on the repository between blue-ribbon clock_time for things alike telling of upcoming downtime.
+As a repository manager, I want to schedule a message to users to be displayed on each page on the repository between select fourth_dimension for things comparable notification of upcoming downtime.
 As a repository manager, I want to schedule a message to users to be displayed on each page on the repository between select meter for things like notification of upcoming downtime.
+As a repository manager, I want to schedule a message to users to be displayed on each page on the repository between select prison_term for things like notification of upcoming downtime.
 
-Input phrase:As a repository manager, I want to see a display of recent errors deduplicated for easy comprehension like Symplectic Elements provides.
+Input phrase: As a repository manager, I want to see a display of recent errors deduplicated for easy comprehension like Symplectic Elements provides.
 As a repository director, I desire to understand a display of late mistake deduplicated for comfortable inclusion wish Symplectic component supply.
-As a repository coach, I want to witness a display of recent erroneousness deduplicated for easy comprehension alike Symplectic chemical_element provide.
-As a repository manager, I want to visualize a display of recent error deduplicated for easy comprehension comparable Symplectic element put_up.
-As a repository manager, I want to learn a display of recent errors deduplicated for easy comprehension like Symplectic Elements leave.
+As a repository coach, I want to witness a display of recent erroneousness deduplicated for easy comprehension alike Symplectic chemical_element put_up.
+As a repository manager, I want to visualize a display of recent errors deduplicated for easy comprehension comparable Symplectic Elements leave.
+As a repository manager, I want to learn a display of recent errors deduplicated for easy comprehension like Symplectic Elements provides.
 As a repository manager, I want to watch a display of recent errors deduplicated for easy comprehension like Symplectic Elements provides.
 
-Input phrase:As a repository manager, I want to view a dashboard statistics about collections size including a list of collections, the number of items and components in each, total storage consumed by each collection, visualization of deposit activity.
-As a repository director, I desire to see a splashboard statistic about solicitation size include a tilt of solicitation, the act of item and component in each, entire storehouse devour by each solicitation, visual_image of sediment action.
-As a repository coach, I want to watch a dashboard statistics about solicitation size admit a list of solicitation, the phone_number of detail and part in each, full memory consume by each collection, visualization of deposition bodily_process.
-As a repository manager, I want to view a dashboard statistics about collections size including a list of collections, the numeral of token and components in each, total repositing consumed by each collection, visualization of down_payment natural_process.
+Input phrase: As a repository manager, I want to view a dashboard statistics about collections size including a list of collections, the number of items and components in each, total storage consumed by each collection, visualization of deposit activity.
+As a repository director, I desire to see a splashboard statistics about solicitation size include a tilt of solicitation, the act of detail and part in each, entire storehouse devour by each solicitation, visual_image of sediment action.
+As a repository coach, I want to watch a dashboard statistics about collections size admit a list of collections, the phone_number of token and components in each, full memory consume by each collection, visualization of deposition bodily_process.
+As a repository manager, I want to view a dashboard statistics about collections size including a list of collections, the numeral of items and components in each, total repositing consumed by each collection, visualization of down_payment natural_process.
 As a repository manager, I want to view a dashboard statistics about collections size including a list of collections, the issue of items and components in each, total storage consumed by each collection, visualization of depository activeness.
 As a repository manager, I want to view a dashboard statistics about collections size including a list of collections, the number of items and components in each, total storage consumed by each collection, visualization of deposit activity.
 
-Input phrase:As a collection curator, I want to see a dashboard widget showing a summary of recent submissions to my collection.
-As a solicitation curator, I desire to understand a splashboard doodad show a summary of late submission to my solicitation.
-As a collection curator, I want to witness a dashboard appliance prove a summary of recent meekness to my collection.
+Input phrase: As a collection curator, I want to see a dashboard widget showing a summary of recent submissions to my collection.
+As a solicitation curator, I desire to understand a splashboard doodad show a summary of late meekness to my solicitation.
+As a collection curator, I want to witness a dashboard appliance prove a summary of recent submissions to my collection.
 As a collection curator, I want to visualize a dashboard widget testify a summary of recent submissions to my collection.
 As a collection curator, I want to learn a dashboard widget picture a summary of recent submissions to my collection.
 As a collection curator, I want to watch a dashboard widget express a summary of recent submissions to my collection.
 
-Input phrase:As a repoadmin, I want to continue to provide access to the repository in the event that the server fails.
-As a repoadmin, I desire to proceed to supply entree to the depository in the consequence that the waiter fail.
+Input phrase: As a repoadmin, I want to continue to provide access to the repository in the event that the server fails.
+As a repoadmin, I desire to proceed to supply entree to the depository in the consequence that the waiter fails.
 As a repoadmin, I want to retain to put_up access to the repository in the event that the server fails.
 As a repoadmin, I want to stay to leave access to the repository in the event that the server fails.
 As a repoadmin, I want to cover to provide access to the repository in the event that the server fails.
 As a repoadmin, I want to continue to provide access to the repository in the event that the server fails.
 
-Input phrase:As a repoadmin, I want to provide the server SLA to data contributors.
+Input phrase: As a repoadmin, I want to provide the server SLA to data contributors.
 As a repoadmin, I desire to supply the waiter SLA to datum subscriber.
-As a repoadmin, I want to put_up the server SLA to data contributor.
+As a repoadmin, I want to put_up the server SLA to data contributors.
 As a repoadmin, I want to leave the server SLA to data contributors.
 As a repoadmin, I want to provide the server SLA to data contributors.
 As a repoadmin, I want to provide the server SLA to data contributors.
 
-Input phrase:As a repoadmin, I want to update the repository index without disrupting access to the public interface.
+Input phrase: As a repoadmin, I want to update the repository index without disrupting access to the public interface.
 As a repoadmin, I desire to update the depository exponent without interrupt entree to the public interface.
 As a repoadmin, I want to update the repository index without disrupt access to the public interface.
 As a repoadmin, I want to update the repository index without disrupting access to the public interface.
 As a repoadmin, I want to update the repository index without disrupting access to the public interface.
 As a repoadmin, I want to update the repository index without disrupting access to the public interface.
 
-Input phrase:As a repoadmin, I want to provide a Linked Data interface to the repository.
+Input phrase: As a repoadmin, I want to provide a Linked Data interface to the repository.
 As a repoadmin, I desire to supply a associate datum interface to the depository.
 As a repoadmin, I want to put_up a connect Data interface to the repository.
 As a repoadmin, I want to leave a yoke Data interface to the repository.
 As a repoadmin, I want to provide a coupled Data interface to the repository.
 As a repoadmin, I want to provide a Linked Data interface to the repository.
 
-Input phrase:As a repoadmin, I want to have Symplectic Elements to communicate
+Input phrase: As a repoadmin, I want to have Symplectic Elements to communicate
 As a repoadmin, I desire to have Symplectic component to convey
 As a repoadmin, I want to have Symplectic chemical_element to commune
-As a repoadmin, I want to have Symplectic element to communicate
+As a repoadmin, I want to have Symplectic Elements to communicate
 As a repoadmin, I want to have Symplectic Elements to communicate
 As a repoadmin, I want to have Symplectic Elements to communicate
 
-Input phrase:bidirectionally with the repository.
+Input phrase: bidirectionally with the repository.
 bidirectionally with the depository.
 bidirectionally with the repository.
 bidirectionally with the repository.
 bidirectionally with the repository.
 bidirectionally with the repository.
 
-Input phrase:As a developer, I want to upgrade to Fedora 4 and migrate our applications and data.
-As a developer, I desire to promote to Fedora four and migrate our application and datum.
-As a developer, I want to upgrade to Fedora 4 and migrate our lotion and data.
+Input phrase: As a developer, I want to upgrade to Fedora 4 and migrate our applications and data.
+As a developer, I desire to promote to Fedora four and migrate our lotion and datum.
+As a developer, I want to upgrade to Fedora 4 and migrate our applications and data.
 As a developer, I want to upgrade to Fedora 4 and migrate our applications and data.
 As a developer, I want to upgrade to Fedora 4 and migrate our applications and data.
 As a developer, I want to upgrade to Fedora 4 and migrate our applications and data.
 
-Input phrase:As a collection curator, I want to have metadata changes made to items with repository-assigned DOIs to be propagated to the EZID.
-As a solicitation curator, I desire to have metadata change make to item with depository-delegate department_of_the_interior to be propagate to the EZID.
-As a collection curator, I want to have metadata variety induce to detail with repository-assign DOIs to be spread to the EZID.
-As a collection curator, I want to have metadata changes cause to token with repository-impute DOIs to be circulate to the EZID.
+Input phrase: As a collection curator, I want to have metadata changes made to items with repository-assigned DOIs to be propagated to the EZID.
+As a solicitation curator, I desire to have metadata variety make to detail with depository-delegate department_of_the_interior to be propagate to the EZID.
+As a collection curator, I want to have metadata changes induce to token with repository-assign DOIs to be spread to the EZID.
+As a collection curator, I want to have metadata changes cause to items with repository-impute DOIs to be circulate to the EZID.
 As a collection curator, I want to have metadata changes produce to items with repository-put DOIs to be propagated to the EZID.
 As a collection curator, I want to have metadata changes draw to items with repository-arrogate DOIs to be propagated to the EZID.
 
-Input phrase:As a collection curator, I want to canonically identify authors and creators of my items by unique identifier, so that it's easier to view all of the works by that person together.
-As a solicitation curator, I desire to canonically name writer and godhead of my item by alone identifier, so that it's easy to see all of the plant by that person in_concert.
-As a collection curator, I want to canonically identify generator and creator of my detail by singular identifier, so that it's comfortable to watch all of the whole_shebang by that person together.
-As a collection curator, I want to canonically identify authors and creators of my token by unique identifier, so that it's easier to view all of the work by that person together.
+Input phrase: As a collection curator, I want to canonically identify authors and creators of my items by unique identifier, so that it's easier to view all of the works by that person together.
+As a solicitation curator, I desire to canonically name writer and godhead of my detail by alone identifier, so that it's easy to see all of the plant by that person in_concert.
+As a collection curator, I want to canonically identify generator and creators of my token by singular identifier, so that it's comfortable to watch all of the whole_shebang by that person together.
 As a collection curator, I want to canonically identify authors and creators of my items by unique identifier, so that it's easier to view all of the employment by that person together.
 As a collection curator, I want to canonically identify authors and creators of my items by unique identifier, so that it's easier to view all of the study by that person together.
+As a collection curator, I want to canonically identify authors and creators of my items by unique identifier, so that it's easier to view all of the workplace by that person together.
 
-Input phrase:As a collection curator, I want to see the referers for visitors who use resolver-abstracted links to reach my items.
-As a solicitation curator, I desire to understand the referers for visitor who practice resolver-abstract link to achieve my item.
-As a collection curator, I want to witness the referers for visitors who use resolver-pilfer connection to pass my detail.
-As a collection curator, I want to visualize the referers for visitors who use resolver-abstracted liaison to strive my token.
-As a collection curator, I want to learn the referers for visitors who use resolver-abstracted radio_link to reach my items.
+Input phrase: As a collection curator, I want to see the referers for visitors who use resolver-abstracted links to reach my items.
+As a solicitation curator, I desire to understand the referers for visitors who practice resolver-abstract connection to achieve my detail.
+As a collection curator, I want to witness the referers for visitors who use resolver-pilfer liaison to pass my token.
+As a collection curator, I want to visualize the referers for visitors who use resolver-abstracted radio_link to strive my items.
+As a collection curator, I want to learn the referers for visitors who use resolver-abstracted links to reach my items.
 As a collection curator, I want to watch the referers for visitors who use resolver-abstracted links to reach my items.
 
-Input phrase:As a data contributor, I want to refer to the Disaster Recovery Plan in grant proposals and Data Management Plans.
-As a datum subscriber, I desire to mention to the catastrophe convalescence design in concession proposal and datum Management designs.
-As a data contributor, I want to consult to the calamity Recovery Plan in grant marriage_proposal and Data Management design.
+Input phrase: As a data contributor, I want to refer to the Disaster Recovery Plan in grant proposals and Data Management Plans.
+As a datum subscriber, I desire to mention to the catastrophe convalescence design in concession marriage_proposal and datum Management designs.
+As a data contributor, I want to consult to the calamity Recovery Plan in grant proposals and Data Management Plans.
 As a data contributor, I want to denote to the Disaster Recovery Plan in grant proposals and Data Management Plans.
 As a data contributor, I want to refer to the Disaster Recovery Plan in grant proposals and Data Management Plans.
 As a data contributor, I want to refer to the Disaster Recovery Plan in grant proposals and Data Management Plans.
 
-Input phrase:As a depositor, I want to get feedback post-ingest alerting me if files I submitted do not conform to their format specifications, if they are not valid, or if they are not wellformed.
-As a depositor, I desire to become feedback post-ingest alarm me if file I submit do not adjust to their format specification, if they are not valid, or if they are not wellformed.
-As a depositor, I want to receive feedback post-ingest alerting me if files I present do not conform to their format stipulation, if they are not valid, or if they are not wellformed.
+Input phrase: As a depositor, I want to get feedback post-ingest alerting me if files I submitted do not conform to their format specifications, if they are not valid, or if they are not wellformed.
+As a depositor, I desire to become feedback post-ingest alarm me if files I submit do not adjust to their format stipulation, if they are not valid, or if they are not wellformed.
+As a depositor, I want to receive feedback post-ingest alerting me if files I present do not conform to their format specifications, if they are not valid, or if they are not wellformed.
 As a depositor, I want to arrive feedback post-ingest alerting me if files I relegate do not conform to their format specifications, if they are not valid, or if they are not wellformed.
 As a depositor, I want to bring feedback post-ingest alerting me if files I take do not conform to their format specifications, if they are not valid, or if they are not wellformed.
 As a depositor, I want to experience feedback post-ingest alerting me if files I put_in do not conform to their format specifications, if they are not valid, or if they are not wellformed.
 
-Input phrase:As a batch submitter, I want to access documentation describing the folder ingest process.
+Input phrase: As a batch submitter, I want to access documentation describing the folder ingest process.
 As a batch submitter, I desire to access software_documentation describe the booklet ingest procedure.
 As a batch submitter, I want to access documentation report the folder ingest summons.
 As a batch submitter, I want to access documentation trace the folder ingest process.
 As a batch submitter, I want to access documentation identify the folder ingest process.
 As a batch submitter, I want to access documentation describing the folder ingest process.
 
-Input phrase:As a depositor, I want to see what kinds of things the repository accepts and what formats are accepted and recommended.
-As a depositor, I desire to understand what kind of thing the depository accepts and what format are accept and recommend.
-As a depositor, I want to witness what kinds of matter the repository accepts and what formats are bear and commend.
+Input phrase: As a depositor, I want to see what kinds of things the repository accepts and what formats are accepted and recommended.
+As a depositor, I desire to understand what kinds of matter the depository accepts and what formats are accept and recommend.
+As a depositor, I want to witness what kinds of things the repository accepts and what formats are bear and commend.
 As a depositor, I want to visualize what kinds of things the repository accepts and what formats are take and recommended.
 As a depositor, I want to learn what kinds of things the repository accepts and what formats are accepted and recommended.
 As a depositor, I want to watch what kinds of things the repository accepts and what formats are accepted and recommended.
 
-Input phrase:As a depositor, I want to easily find information about which data can be assigned a DOI, how to get one, and what metadata are required.
+Input phrase: As a depositor, I want to easily find information about which data can be assigned a DOI, how to get one, and what metadata are required.
 As a depositor, I desire to well detect datum about which datum can be delegate a department_of_the_interior, how to become matchless, and what metadatum are necessitate.
 As a depositor, I want to easily determine information about which data can be assign a DOI, how to receive one, and what metadata are ask.
 As a depositor, I want to easily witness information about which data can be impute a DOI, how to arrive one, and what metadata are command.
 As a depositor, I want to easily line_up information about which data can be put a DOI, how to bring one, and what metadata are want.
 As a depositor, I want to easily discover information about which data can be arrogate a DOI, how to experience one, and what metadata are required.
 
-Input phrase:As a collection curator, I want to create groups of users to manage permissions in the repository in an easy way.
-As a solicitation curator, I desire to make group of user to pull_off permission in the depository in an comfortable manner.
-As a collection curator, I want to produce groups of exploiter to cope license in the repository in an easy means.
-As a collection curator, I want to create groups of drug_user to oversee permissions in the repository in an easy direction.
+Input phrase: As a collection curator, I want to create groups of users to manage permissions in the repository in an easy way.
+As a solicitation curator, I desire to make groups of exploiter to pull_off license in the depository in an comfortable manner.
+As a collection curator, I want to produce groups of drug_user to cope permissions in the repository in an easy means.
+As a collection curator, I want to create groups of users to oversee permissions in the repository in an easy direction.
 As a collection curator, I want to create groups of users to wangle permissions in the repository in an easy room.
 As a collection curator, I want to create groups of users to do permissions in the repository in an easy way.
 
-Input phrase:As a collection curator, I want to restrict access to my collection or items to Duke IP addresses.
-As a solicitation curator, I desire to qualify entree to my solicitation or item to Duke information_science address.
-As a collection curator, I want to restrict access to my collection or detail to Duke IP savoir-faire.
-As a collection curator, I want to restrict access to my collection or token to Duke IP addresses.
+Input phrase: As a collection curator, I want to restrict access to my collection or items to Duke IP addresses.
+As a solicitation curator, I desire to qualify entree to my solicitation or detail to Duke information_science address.
+As a collection curator, I want to restrict access to my collection or token to Duke IP savoir-faire.
+As a collection curator, I want to restrict access to my collection or items to Duke IP addresses.
 As a collection curator, I want to restrict access to my collection or items to Duke IP addresses.
 As a collection curator, I want to restrict access to my collection or items to Duke IP addresses.
 
-Input phrase:As a collection curator, I want users to contact me directly from the repository to request access to restricted objects.
-As a solicitation curator, I desire user to reach me immediately from the depository to request entree to restricted object.
-As a collection curator, I want exploiter to touch me directly from the repository to request access to restricted aim.
-As a collection curator, I want drug_user to contact me directly from the repository to request access to restricted objects.
+Input phrase: As a collection curator, I want users to contact me directly from the repository to request access to restricted objects.
+As a solicitation curator, I desire exploiter to reach me immediately from the depository to request entree to restricted aim.
+As a collection curator, I want drug_user to touch me directly from the repository to request access to restricted objects.
+As a collection curator, I want users to contact me directly from the repository to request access to restricted objects.
 As a collection curator, I want users to contact me directly from the repository to request access to restricted objects.
 As a collection curator, I want users to contact me directly from the repository to request access to restricted objects.
 
-Input phrase:As a collection owner, I want to have submitters to my collection to be unable to modify existing items in that collection.
-As a solicitation owner, I desire to have submitter to my solicitation to be ineffective to change existent item in that solicitation.
-As a collection owner, I want to have submitters to my collection to be unable to modify existing detail in that collection.
+Input phrase: As a collection owner, I want to have submitters to my collection to be unable to modify existing items in that collection.
+As a solicitation owner, I desire to have submitters to my solicitation to be ineffective to change existent detail in that solicitation.
 As a collection owner, I want to have submitters to my collection to be unable to modify existing token in that collection.
 As a collection owner, I want to have submitters to my collection to be unable to modify existing items in that collection.
 As a collection owner, I want to have submitters to my collection to be unable to modify existing items in that collection.
+As a collection owner, I want to have submitters to my collection to be unable to modify existing items in that collection.
 
-Input phrase:As a superuser, I want to enter and exit the superuser scope.
+Input phrase: As a superuser, I want to enter and exit the superuser scope.
 As a superuser, I desire to enroll and die the superuser setting.
 As a superuser, I want to figure and exit the superuser telescope.
 As a superuser, I want to record and exit the superuser oscilloscope.
 As a superuser, I want to accede and exit the superuser scope.
 As a superuser, I want to insert and exit the superuser scope.
 
-Input phrase:As a collection curator I want to change permissions on one or more items simultaneously.
-As a solicitation curator I desire to switch permission on matchless or more item simultaneously.
-As a collection curator I want to exchange license on one or more detail simultaneously.
-As a collection curator I want to transfer permissions on one or more token simultaneously.
+Input phrase: As a collection curator I want to change permissions on one or more items simultaneously.
+As a solicitation curator I desire to switch license on matchless or more detail simultaneously.
+As a collection curator I want to exchange permissions on one or more token simultaneously.
+As a collection curator I want to transfer permissions on one or more items simultaneously.
 As a collection curator I want to deepen permissions on one or more items simultaneously.
 As a collection curator I want to change permissions on one or more items simultaneously.
 
-Input phrase:As a collection curator, I want to be able require authentication to access objects unless the request is coming from a whitelisted IP address, list of addresses.
-As a solicitation curator, I desire to be able necessitate authentication to access object unless the request is come from a whitetilted information_science savoir-faire, tilt of savoir-fairees.
-As a collection curator, I want to be able ask authentication to access aim unless the request is arrive from a whitelisted IP address, list of savoir-faire.
+Input phrase: As a collection curator, I want to be able require authentication to access objects unless the request is coming from a whitelisted IP address, list of addresses.
+As a solicitation curator, I desire to be able necessitate authentication to access aim unless the request is come from a whitetilted information_science savoir-faire, tilt of savoir-fairees.
+As a collection curator, I want to be able ask authentication to access objects unless the request is arrive from a whitelisted IP address, list of savoir-faire.
 As a collection curator, I want to be able command authentication to access objects unless the request is issue_forth from a whitelisted IP address, list of addresses.
 As a collection curator, I want to be able want authentication to access objects unless the request is hail from a whitelisted IP address, list of addresses.
 As a collection curator, I want to be able require authentication to access objects unless the request is fall from a whitelisted IP address, list of addresses.
 
-Input phrase:As a repository manager, I want to view available versions of an object and restore a version from the staff interface.
+Input phrase: As a repository manager, I want to view available versions of an object and restore a version from the staff interface.
 As a repository director, I desire to see available adaptation of an aim and regenerate a adaptation from the staff interface.
-As a repository coach, I want to watch available adaptation of an object and repair a translation from the staff interface.
-As a repository manager, I want to view available translation of an object and restore a interpretation from the staff interface.
-As a repository manager, I want to view available interpretation of an object and restore a version from the staff interface.
+As a repository coach, I want to watch available translation of an object and repair a translation from the staff interface.
+As a repository manager, I want to view available interpretation of an object and restore a interpretation from the staff interface.
+As a repository manager, I want to view available versions of an object and restore a version from the staff interface.
 As a repository manager, I want to view available versions of an object and restore a version from the staff interface.
 
-Input phrase:As a collection curator, I want to view the permission on my objects all together.
-As a solicitation curator, I desire to see the license on my object all in_concert.
-As a collection curator, I want to watch the permission on my aim all together.
+Input phrase: As a collection curator, I want to view the permission on my objects all together.
+As a solicitation curator, I desire to see the license on my aim all in_concert.
+As a collection curator, I want to watch the permission on my objects all together.
 As a collection curator, I want to view the permission on my objects all together.
 As a collection curator, I want to view the permission on my objects all together.
 As a collection curator, I want to view the permission on my objects all together.
 
-Input phrase:As a non-Duke researcher, I want to describe my team and mine's objects in the repository after they've been deposited if we've been assigned permission to edit metadata.
-As a non-Duke research_worker, I desire to report my team and mine's object in the depository after they've been lodge if we've been delegate license to edit metadata.
-As a non-Duke researcher, I want to trace my team and mine's aim in the repository after they've been deposit if we've been assign permission to edit metadata.
+Input phrase: As a non-Duke researcher, I want to describe my team and mine's objects in the repository after they've been deposited if we've been assigned permission to edit metadata.
+As a non-Duke research_worker, I desire to report my team and mine's aim in the depository after they've been lodge if we've been delegate license to edit metadata.
+As a non-Duke researcher, I want to trace my team and mine's objects in the repository after they've been deposit if we've been assign permission to edit metadata.
 As a non-Duke researcher, I want to identify my team and mine's objects in the repository after they've been situate if we've been impute permission to edit metadata.
 As a non-Duke researcher, I want to describe my team and mine's objects in the repository after they've been deposited if we've been put permission to edit metadata.
 As a non-Duke researcher, I want to describe my team and mine's objects in the repository after they've been deposited if we've been arrogate permission to edit metadata.
 
-Input phrase:As a faculty member, I want to go to my repository dashboard to manage members of my classes, grant submit permissions by pasting in a list of NetIDs, see confirmation that DDR recognizes the NetIDs, ability to manually remove permissions, ability to set begin and end dates for a submission window, and a have a status screen to clearly illustrate who has and hasn't submitted.
-As a staff extremity, I desire to travel to my repository splashboard to pull_off extremitys of my class, allow submit permission by glue in a tilt of NetIDs, understand ratification that DDR acknowledge the NetIDs, ability to manually get_rid_of permission, ability to put get_down and end date for a meekness windowpane, and a have a condition blind to intelligibly exemplify who has and hasn't submit.
-As a faculty penis, I want to become to my repository dashboard to cope peniss of my course, award submit license by paste in a list of NetIDs, witness confirmation that DDR recognize the NetIDs, ability to manually take_out license, ability to determine begin and end dates for a submission window, and a have a status filmdom to distinctly illustrate who has and hasn't present.
-As a faculty member, I want to run to my repository dashboard to overvisualize penis of my classes, concede submit permissions by pasting in a list of NetIDs, visualize confirmation that DDR spot the NetIDs, ability to manually absent permissions, ability to specify begin and end dates for a submission window, and a have a status sieve to clearly illustrate who has and hasn't relegate.
-As a faculty member, I want to proceed to my repository dashboard to wangle members of my classes, accord submit permissions by pasting in a list of NetIDs, learn confirmation that DDR accredit the NetIDs, ability to manually murder permissions, ability to fix begin and end dates for a submission window, and a have a status screen_door to clearly illustrate who has and hasn't take.
-As a faculty member, I want to sound to my repository dashboard to do members of my classes, grant submit permissions by pasting in a list of NetIDs, watch confirmation that DDR greet the NetIDs, ability to manually remove permissions, ability to arrange begin and end dates for a submission window, and a have a status screen to clearly illustrate who has and hasn't put_in.
+Input phrase: As a faculty member, I want to go to my repository dashboard to manage members of my classes, grant submit permissions by pasting in a list of NetIDs, see confirmation that DDR recognizes the NetIDs, ability to manually remove permissions, ability to set begin and end dates for a submission window, and a have a status screen to clearly illustrate who has and hasn't submitted.
+As a staff extremity, I desire to travel to my repository splashboard to pull_off extremitys of my class, allow submit license by glue in a tilt of NetIDs, understand ratification that DDR acknowledge the NetIDs, ability to manually get_rid_of license, ability to put get_down and end dates for a meekness windowpane, and a have a condition blind to intelligibly exemplify who has and hasn't submit.
+As a faculty penis, I want to become to my repository dashboard to cope peniss of my course, award submit permissions by paste in a list of NetIDs, witness confirmation that DDR spot the NetIDs, ability to manually take_out permissions, ability to determine begin and end dates for a submission window, and a have a status filmdom to distinctly illustrate who has and hasn't present.
+As a faculty member, I want to run to my repository dashboard to overvisualize members of my classes, concede submit permissions by pasting in a list of NetIDs, visualize confirmation that DDR accredit the NetIDs, ability to manually absent permissions, ability to specify begin and end dates for a submission window, and a have a status sieve to clearly illustrate who has and hasn't relegate.
+As a faculty member, I want to proceed to my repository dashboard to wangle members of my classes, accord submit permissions by pasting in a list of NetIDs, learn confirmation that DDR greet the NetIDs, ability to manually murder permissions, ability to fix begin and end dates for a submission window, and a have a status screen_door to clearly illustrate who has and hasn't take.
+As a faculty member, I want to sound to my repository dashboard to do members of my classes, grant submit permissions by pasting in a list of NetIDs, watch confirmation that DDR recognizes the NetIDs, ability to manually remove permissions, ability to arrange begin and end dates for a submission window, and a have a status screen to clearly illustrate who has and hasn't put_in.
 
-Time for the single dataset = 1.1601 seconds = 0.0003 hours
+Time for the single dataset = 0.9258 seconds = 0.0154 minutes = 0.0003 hours

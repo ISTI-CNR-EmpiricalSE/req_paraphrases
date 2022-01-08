@@ -1,402 +1,402 @@
 data_set_number:17
 
-Input phrase:As a researcher, I want to be able to view a finding aid for a particular collection/Resource.
+Input phrase: As a researcher, I want to be able to view a finding aid for a particular collection/Resource.
 As a research_worker, I desire to be able to see a determination care for a especial solicitation/Resource.
 As a researcher, I want to be able to watch a finding aid for a finical collection/Resource.
 As a researcher, I want to be able to view a finding aid for a particular collection/Resource.
 As a researcher, I want to be able to view a finding aid for a particular collection/Resource.
 As a researcher, I want to be able to view a finding aid for a particular collection/Resource.
 
-Input phrase:As an Application Administrator, I want to be able to reset a User's password for them.
+Input phrase: As an Application Administrator, I want to be able to reset a User's password for them.
 As an lotion Administrator, I desire to be able to readjust a exploiter's password for them.
 As an Application Administrator, I want to be able to reset a drug_user's password for them.
 As an Application Administrator, I want to be able to reset a User's password for them.
 As an Application Administrator, I want to be able to reset a User's password for them.
 As an Application Administrator, I want to be able to reset a User's password for them.
 
-Input phrase:As a user, I want backend changes for managing enum lists.
-As a exploiter, I desire backend change for pull_off enum list.
-As a drug_user, I want backend variety for manage enum tilt.
+Input phrase: As a user, I want backend changes for managing enum lists.
+As a exploiter, I desire backend variety for pull_off enum tilt.
+As a drug_user, I want backend changes for manage enum lists.
 As a user, I want backend changes for cope enum lists.
 As a user, I want backend changes for oversee enum lists.
 As a user, I want backend changes for wangle enum lists.
 
-Input phrase:As an Archivist, I want to import EAD files that were exported by Archon.
-As an Archivist, I desire to spell EAD file that were export by Archon.
+Input phrase: As an Archivist, I want to import EAD files that were exported by Archon.
+As an Archivist, I desire to spell EAD files that were export by Archon.
 As an Archivist, I want to import EAD files that were exported by Archon.
 As an Archivist, I want to import EAD files that were exported by Archon.
 As an Archivist, I want to import EAD files that were exported by Archon.
 As an Archivist, I want to import EAD files that were exported by Archon.
 
-Input phrase:As an Archivist, I want to assign a component unique identifier to a Resource Component.
+Input phrase: As an Archivist, I want to assign a component unique identifier to a Resource Component.
 As an Archivist, I desire to delegate a part alone identifier to a Resource part.
 As an Archivist, I want to impute a component singular identifier to a Resource Component.
 As an Archivist, I want to put a component unique identifier to a Resource Component.
 As an Archivist, I want to arrogate a component unique identifier to a Resource Component.
 As an Archivist, I want to assign a component unique identifier to a Resource Component.
 
-Input phrase:As a User , I want to authenticate using LDAP.
+Input phrase: As a User , I want to authenticate using LDAP.
 As a exploiter , I desire to authenticate use LDAP.
 As a drug_user , I want to authenticate practice LDAP.
 As a User , I want to authenticate using LDAP.
 As a User , I want to authenticate using LDAP.
 As a User , I want to authenticate using LDAP.
 
-Input phrase:As a migration specialist, I want to store the AT or Archon source record ids in each ASpace record
+Input phrase: As a migration specialist, I want to store the AT or Archon source record ids in each ASpace record
 As a migration specialist, I desire to store the AT or Archon beginning phonograph_phonograph_record idaho in each ASpace phonograph_phonograph_record
-As a migration specialist, I want to store the AT or Archon informant criminal_criminal_record id in each ASpace criminal_criminal_record
+As a migration specialist, I want to store the AT or Archon informant criminal_criminal_record ids in each ASpace criminal_criminal_record
 As a migration specialist, I want to store the AT or Archon generator record ids in each ASpace record
 As a migration specialist, I want to store the AT or Archon reservoir record ids in each ASpace record
 As a migration specialist, I want to store the AT or Archon reference record ids in each ASpace record
 
-Input phrase:to support data migration integrity testing.
+Input phrase: to support data migration integrity testing.
 to back datum migration integrity examination.
 to hold data migration integrity testing.
 to confirm data migration integrity testing.
 to subscribe data migration integrity testing.
 to corroborate data migration integrity testing.
 
-Input phrase:As an Archivist, I want to associate a standard identifier string with a Subject heading.
+Input phrase: As an Archivist, I want to associate a standard identifier string with a Subject heading.
 As an Archivist, I desire to consort a standard identifier bowed_stringed_instrument with a capable bearing.
 As an Archivist, I want to consociate a standard identifier drawstring with a Subject drift.
 As an Archivist, I want to associate a standard identifier chain with a Subject heading.
 As an Archivist, I want to associate a standard identifier string with a Subject heading.
 As an Archivist, I want to associate a standard identifier string with a Subject heading.
 
-Input phrase:As an Archivist, I want to be able to understand that an error occurred during import and why it might have occurred.
+Input phrase: As an Archivist, I want to be able to understand that an error occurred during import and why it might have occurred.
 As an Archivist, I desire to be able to sympathize that an mistake happen during meaning and why it might have happen.
 As an Archivist, I want to be able to understand that an erroneousness occur during significance and why it might have occur.
 As an Archivist, I want to be able to understand that an error occurred during consequence and why it might have occurred.
 As an Archivist, I want to be able to understand that an error occurred during import and why it might have occurred.
 As an Archivist, I want to be able to understand that an error occurred during import and why it might have occurred.
 
-Input phrase:As an Archivist, I want to import Accessions data in CSV.
-As an Archivist, I desire to spell accession datum in CSV.
-As an Archivist, I want to import entree data in CSV.
+Input phrase: As an Archivist, I want to import Accessions data in CSV.
+As an Archivist, I desire to spell entree datum in CSV.
+As an Archivist, I want to import Accessions data in CSV.
 As an Archivist, I want to import Accessions data in CSV.
 As an Archivist, I want to import Accessions data in CSV.
 As an Archivist, I want to import Accessions data in CSV.
 
-Input phrase:As an Archivist, I want to import Resources from MARCXML records.
-As an Archivist, I desire to spell resource from MARCXML record.
-As an Archivist, I want to import Resources from MARCXML phonograph_record.
+Input phrase: As an Archivist, I want to import Resources from MARCXML records.
+As an Archivist, I desire to spell Resources from MARCXML phonograph_record.
 As an Archivist, I want to import Resources from MARCXML criminal_record.
 As an Archivist, I want to import Resources from MARCXML records.
 As an Archivist, I want to import Resources from MARCXML records.
+As an Archivist, I want to import Resources from MARCXML records.
 
-Input phrase:As a user, I want frontend changes for managing enum lists.
-As a exploiter, I desire frontend change for pull_off enum list.
-As a drug_user, I want frontend variety for manage enum tilt.
+Input phrase: As a user, I want frontend changes for managing enum lists.
+As a exploiter, I desire frontend variety for pull_off enum tilt.
+As a drug_user, I want frontend changes for manage enum lists.
 As a user, I want frontend changes for cope enum lists.
 As a user, I want frontend changes for oversee enum lists.
 As a user, I want frontend changes for wangle enum lists.
 
-Input phrase:As an Authenticated User, I want to get access to links to contextual help.
-As an authenticate exploiter, I desire to become entree to link to contextual aid.
-As an attested drug_user, I want to receive access to connection to contextual assistant.
-As an Authenticated User, I want to arrive access to liaison to contextual avail.
-As an Authenticated User, I want to bring access to radio_link to contextual help.
+Input phrase: As an Authenticated User, I want to get access to links to contextual help.
+As an authenticate exploiter, I desire to become entree to connection to contextual aid.
+As an attested drug_user, I want to receive access to liaison to contextual assistant.
+As an Authenticated User, I want to arrive access to radio_link to contextual avail.
+As an Authenticated User, I want to bring access to links to contextual help.
 As an Authenticated User, I want to experience access to links to contextual help.
 
-Input phrase:As an Archivist, I want to see Dates and Extents displayed in both the read and edit views for Accessions and/or Resources before the list of Subjects.
-As an Archivist, I desire to understand date and extent expose in both the read and edit position for accession and/or resource before the tilt of subject.
-As an Archivist, I want to witness Dates and Extents display in both the read and edit view for entree and/or Resources before the list of discipline.
-As an Archivist, I want to visualize Dates and Extents displayed in both the read and edit opinion for Accessions and/or Resources before the list of topic.
-As an Archivist, I want to learn Dates and Extents displayed in both the read and edit scene for Accessions and/or Resources before the list of national.
-As an Archivist, I want to watch Dates and Extents displayed in both the read and edit horizon for Accessions and/or Resources before the list of Subjects.
+Input phrase: As an Archivist, I want to see Dates and Extents displayed in both the read and edit views for Accessions and/or Resources before the list of Subjects.
+As an Archivist, I desire to understand Dates and Extents expose in both the read and edit position for entree and/or Resources before the tilt of discipline.
+As an Archivist, I want to witness Dates and Extents display in both the read and edit opinion for Accessions and/or Resources before the list of topic.
+As an Archivist, I want to visualize Dates and Extents displayed in both the read and edit scene for Accessions and/or Resources before the list of national.
+As an Archivist, I want to learn Dates and Extents displayed in both the read and edit horizon for Accessions and/or Resources before the list of Subjects.
+As an Archivist, I want to watch Dates and Extents displayed in both the read and edit views for Accessions and/or Resources before the list of Subjects.
 
-Input phrase:As an Archivist, I want to import Agent information from EAC-CPF records.
-As an Archivist, I desire to spell agentive_role data from EAC-CPF record.
-As an Archivist, I want to import Agent information from EAC-CPF phonograph_record.
+Input phrase: As an Archivist, I want to import Agent information from EAC-CPF records.
+As an Archivist, I desire to spell agentive_role data from EAC-CPF phonograph_record.
 As an Archivist, I want to import Agent information from EAC-CPF criminal_record.
 As an Archivist, I want to import Agent information from EAC-CPF records.
 As an Archivist, I want to import Agent information from EAC-CPF records.
+As an Archivist, I want to import Agent information from EAC-CPF records.
 
-Input phrase:As a user, I want backend changes to support loading enum value lists from the database.
-As a exploiter, I desire backend change to back load enum value list from the database.
-As a drug_user, I want backend variety to hold cargo enum value tilt from the database.
+Input phrase: As a user, I want backend changes to support loading enum value lists from the database.
+As a exploiter, I desire backend variety to back load enum value tilt from the database.
+As a drug_user, I want backend changes to hold cargo enum value lists from the database.
 As a user, I want backend changes to confirm loading enum value lists from the database.
 As a user, I want backend changes to subscribe loading enum value lists from the database.
 As a user, I want backend changes to corroborate loading enum value lists from the database.
 
-Input phrase:As a user, I want backend changes for bulk updating one enum value to another.
-As a exploiter, I desire backend change for majority update matchless enum value to another.
-As a drug_user, I want backend variety for bulge updating one enum value to another.
+Input phrase: As a user, I want backend changes for bulk updating one enum value to another.
+As a exploiter, I desire backend variety for majority update matchless enum value to another.
+As a drug_user, I want backend changes for bulge updating one enum value to another.
 As a user, I want backend changes for bulk updating one enum value to another.
 As a user, I want backend changes for bulk updating one enum value to another.
 As a user, I want backend changes for bulk updating one enum value to another.
 
-Input phrase:As an Archivist, I want to export agent records as EAC-CPF.
-As an Archivist, I desire to export agentive_role record as EAC-CPF.
-As an Archivist, I want to export agent phonograph_record as EAC-CPF.
+Input phrase: As an Archivist, I want to export agent records as EAC-CPF.
+As an Archivist, I desire to export agentive_role phonograph_record as EAC-CPF.
 As an Archivist, I want to export agent criminal_record as EAC-CPF.
 As an Archivist, I want to export agent records as EAC-CPF.
 As an Archivist, I want to export agent records as EAC-CPF.
+As an Archivist, I want to export agent records as EAC-CPF.
 
-Input phrase:As an Archivist, I want to import only Agent and Subject information from MARCXML records.
-As an Archivist, I desire to spell only agentive_role and capable data from MARCXML record.
-As an Archivist, I want to import only Agent and Subject information from MARCXML phonograph_record.
+Input phrase: As an Archivist, I want to import only Agent and Subject information from MARCXML records.
+As an Archivist, I desire to spell only agentive_role and capable data from MARCXML phonograph_record.
 As an Archivist, I want to import only Agent and Subject information from MARCXML criminal_record.
 As an Archivist, I want to import only Agent and Subject information from MARCXML records.
 As an Archivist, I want to import only Agent and Subject information from MARCXML records.
+As an Archivist, I want to import only Agent and Subject information from MARCXML records.
 
-Input phrase:As an Application Administrator, I want to assign Users to an Advanced Data Entry and ensure that the appropriate permissions are enforced.
-As an lotion Administrator, I desire to delegate user to an advance datum introduction and guarantee that the appropriate permission are enforce.
-As an Application Administrator, I want to impute exploiter to an boost Data submission and see that the appropriate license are enforced.
-As an Application Administrator, I want to put drug_user to an promote Data entrance and ensure that the appropriate permissions are enforced.
+Input phrase: As an Application Administrator, I want to assign Users to an Advanced Data Entry and ensure that the appropriate permissions are enforced.
+As an lotion Administrator, I desire to delegate exploiter to an advance datum introduction and guarantee that the appropriate license are enforce.
+As an Application Administrator, I want to impute drug_user to an boost Data submission and see that the appropriate permissions are enforced.
+As an Application Administrator, I want to put Users to an promote Data entrance and ensure that the appropriate permissions are enforced.
 As an Application Administrator, I want to arrogate Users to an gain Data Entry and ensure that the appropriate permissions are enforced.
 As an Application Administrator, I want to assign Users to an progress Data Entry and ensure that the appropriate permissions are enforced.
 
-Input phrase:As an Application Administrator , I want to be able to configure the help center URL and topic mappings.
+Input phrase: As an Application Administrator , I want to be able to configure the help center URL and topic mappings.
 As an lotion Administrator , I desire to be able to configure the aid focus_on URL and subject function.
-As an Application Administrator , I want to be able to configure the assistant concentrate URL and topic mapping.
+As an Application Administrator , I want to be able to configure the assistant concentrate URL and topic mappings.
 As an Application Administrator , I want to be able to configure the avail center URL and topic mappings.
 As an Application Administrator , I want to be able to configure the help center URL and topic mappings.
 As an Application Administrator , I want to be able to configure the help center URL and topic mappings.
 
-Input phrase:As a user, I want to add additional properties for repositories.
+Input phrase: As a user, I want to add additional properties for repositories.
 As a exploiter, I desire to lend lenditional property for depository.
 As a drug_user, I want to total totalitional place for repository.
 As a user, I want to add additional properties for repositories.
 As a user, I want to add additional properties for repositories.
 As a user, I want to add additional properties for repositories.
 
-Input phrase:As an Archivist, I want to add Notes to other record types.
-As an Archivist, I desire to lend note to other phonograph_record type.
-As an Archivist, I want to total bill to other criminal_record character.
-As an Archivist, I want to add eminence to other record types.
+Input phrase: As an Archivist, I want to add Notes to other record types.
+As an Archivist, I desire to lend bill to other phonograph_record character.
+As an Archivist, I want to total eminence to other criminal_record types.
+As an Archivist, I want to add Notes to other record types.
 As an Archivist, I want to add Notes to other record types.
 As an Archivist, I want to add Notes to other record types.
 
-Input phrase:As an Administrator, I want to create a new User account for someone else.
+Input phrase: As an Administrator, I want to create a new User account for someone else.
 As an Administrator, I desire to make a fresh exploiter history for person else.
 As an Administrator, I want to produce a raw drug_user report for someone else.
 As an Administrator, I want to create a newfangled User explanation for someone else.
 As an Administrator, I want to create a modern User score for someone else.
 As an Administrator, I want to create a new User bill for someone else.
 
-Input phrase:As an Archivist, I want to add administrative data about the archival description and finding aid-related data to a top-level Resource.
+Input phrase: As an Archivist, I want to add administrative data about the archival description and finding aid-related data to a top-level Resource.
 As an Archivist, I desire to lend administrative datum about the archival description and find care-associate datum to a top-degree Resource.
 As an Archivist, I want to total administrative data about the archival description and detect aid-refer data to a top-grade Resource.
 As an Archivist, I want to add administrative data about the archival description and determine aid-relate data to a top-horizontal_surface Resource.
 As an Archivist, I want to add administrative data about the archival description and witness aid-related data to a top-floor Resource.
 As an Archivist, I want to add administrative data about the archival description and line_up aid-related data to a top-level Resource.
 
-Input phrase:As an Archivist, I want to assign a Level of description to a Resource or Resource Component and optionally specify another value if the Level is not in a predefined list.
+Input phrase: As an Archivist, I want to assign a Level of description to a Resource or Resource Component and optionally specify another value if the Level is not in a predefined list.
 As an Archivist, I desire to delegate a degree of description to a Resource or Resource part and optionally stipulate another value if the degree is not in a predefined tilt.
 As an Archivist, I want to impute a grade of description to a Resource or Resource Component and optionally pin_down another value if the grade is not in a predefined list.
 As an Archivist, I want to put a horizontal_surface of description to a Resource or Resource Component and optionally intend another value if the horizontal_surface is not in a predefined list.
 As an Archivist, I want to arrogate a floor of description to a Resource or Resource Component and optionally assign another value if the floor is not in a predefined list.
 As an Archivist, I want to assign a flush of description to a Resource or Resource Component and optionally specify another value if the flush is not in a predefined list.
 
-Input phrase:As a developer, I want to use a configuration that is not prepackaged within a built version of application.
+Input phrase: As a developer, I want to use a configuration that is not prepackaged within a built version of application.
 As a developer, I desire to practice a shape that is not prepackaged inside a construct adaptation of lotion.
 As a developer, I want to use a configuration that is not prepackaged within a build_up translation of application.
 As a developer, I want to use a configuration that is not prepackaged within a build interpretation of application.
 As a developer, I want to use a configuration that is not prepackaged within a built version of application.
 As a developer, I want to use a configuration that is not prepackaged within a built version of application.
 
-Input phrase:As an Archivist, I want to import EAD files that were exported by the Archivists' Toolkit.
-As an Archivist, I desire to spell EAD file that were export by the archivist' Toolkit.
+Input phrase: As an Archivist, I want to import EAD files that were exported by the Archivists' Toolkit.
+As an Archivist, I desire to spell EAD files that were export by the Archivists' Toolkit.
 As an Archivist, I want to import EAD files that were exported by the Archivists' Toolkit.
 As an Archivist, I want to import EAD files that were exported by the Archivists' Toolkit.
 As an Archivist, I want to import EAD files that were exported by the Archivists' Toolkit.
 As an Archivist, I want to import EAD files that were exported by the Archivists' Toolkit.
 
-Input phrase:As a systems administrator, I want to be able to control the location of the demo database and I want it to be backed up.
-As a system administrator, I desire to be able to operate the placement of the demonstration database and I desire it to be back up.
-As a arrangement administrator, I want to be able to manipulate the localization of the demo database and I want it to be second up.
-As a organization administrator, I want to be able to see the location of the demo database and I want it to be bet_on up.
+Input phrase: As a systems administrator, I want to be able to control the location of the demo database and I want it to be backed up.
+As a arrangement administrator, I desire to be able to operate the placement of the demonstration database and I desire it to be back up.
+As a organization administrator, I want to be able to manipulate the localization of the demo database and I want it to be second up.
+As a systems administrator, I want to be able to see the location of the demo database and I want it to be bet_on up.
 As a systems administrator, I want to be able to master the location of the demo database and I want it to be backed up.
 As a systems administrator, I want to be able to control the location of the demo database and I want it to be backed up.
 
-Input phrase:As an archivist, I want to search within a repository for resource and accession and digital object records.
-As an archivist, I desire to research inside a depository for resource and entree and digital aim record.
-As an archivist, I want to search within a repository for resource and accession and digital object phonograph_record.
+Input phrase: As an archivist, I want to search within a repository for resource and accession and digital object records.
+As an archivist, I desire to research inside a depository for resource and entree and digital aim phonograph_record.
 As an archivist, I want to search within a repository for resource and accession and digital object criminal_record.
 As an archivist, I want to search within a repository for resource and accession and digital object records.
 As an archivist, I want to search within a repository for resource and accession and digital object records.
+As an archivist, I want to search within a repository for resource and accession and digital object records.
 
-Input phrase:As an archivist, I want to create and edit a Collection Management subrecord.
+Input phrase: As an archivist, I want to create and edit a Collection Management subrecord.
 As an archivist, I desire to make and edit a solicitation Management subrecord.
 As an archivist, I want to produce and edit a Collection Management subrecord.
 As an archivist, I want to create and edit a Collection Management subrecord.
 As an archivist, I want to create and edit a Collection Management subrecord.
 As an archivist, I want to create and edit a Collection Management subrecord.
 
-Input phrase:As an Archivist, I want to rearrange the Resource and/or Digital Object hierarchy using keyboard-based navigation.
+Input phrase: As an Archivist, I want to rearrange the Resource and/or Digital Object hierarchy using keyboard-based navigation.
 As an Archivist, I desire to rearrange the Resource and/or Digital aim hierarchy use keyboard-establish seafaring.
 As an Archivist, I want to rearrange the Resource and/or Digital Object hierarchy practice keyboard-base navigation.
 As an Archivist, I want to rearrange the Resource and/or Digital Object hierarchy using keyboard-free-base navigation.
 As an Archivist, I want to rearrange the Resource and/or Digital Object hierarchy using keyboard-based navigation.
 As an Archivist, I want to rearrange the Resource and/or Digital Object hierarchy using keyboard-based navigation.
 
-Input phrase:As an Archivist, I want to rearrange the resource description hierarchy by dragging an archival object to a different position in the hierarchy.
+Input phrase: As an Archivist, I want to rearrange the resource description hierarchy by dragging an archival object to a different position in the hierarchy.
 As an Archivist, I desire to rearrange the resource description hierarchy by drag an archival aim to a unlike military_position in the hierarchy.
 As an Archivist, I want to rearrange the resource description hierarchy by haul an archival object to a different status in the hierarchy.
 As an Archivist, I want to rearrange the resource description hierarchy by embroil an archival object to a different placement in the hierarchy.
 As an Archivist, I want to rearrange the resource description hierarchy by puff an archival object to a different situation in the hierarchy.
 As an Archivist, I want to rearrange the resource description hierarchy by scuff an archival object to a different side in the hierarchy.
 
-Input phrase:As an Archivist, I would like to indicate an Agent is either the creator or source or subject of an Accession or Resource or Resource Component.
+Input phrase: As an Archivist, I would like to indicate an Agent is either the creator or source or subject of an Accession or Resource or Resource Component.
 As an Archivist, I would wish to bespeak an agentive_role is either the godhead or beginning or discipline of an entree or Rebeginning or Rebeginning part.
 As an Archivist, I would like to argue an Agent is either the creator or informant or topic of an Accession or Reinformant or Reinformant Component.
 As an Archivist, I would like to indicate an Agent is either the creator or generator or national of an Accession or Regenerator or Regenerator Component.
 As an Archivist, I would like to indicate an Agent is either the creator or reservoir or subject of an Accession or Rereservoir or Rereservoir Component.
 As an Archivist, I would like to indicate an Agent is either the creator or reference or subject of an Accession or Rereference or Rereference Component.
 
-Input phrase:As an Archivist, I want to export a description as EAD.
+Input phrase: As an Archivist, I want to export a description as EAD.
 As an Archivist, I desire to export a description as EAD.
 As an Archivist, I want to export a description as EAD.
 As an Archivist, I want to export a description as EAD.
 As an Archivist, I want to export a description as EAD.
 As an Archivist, I want to export a description as EAD.
 
-Input phrase:As an Archivist, I want to create and edit Event records.
-As an Archivist, I desire to make and edit consequence record.
-As an Archivist, I want to produce and edit Event phonograph_record.
-As an Archivist, I want to create and edit Event criminal_record.
+Input phrase: As an Archivist, I want to create and edit Event records.
+As an Archivist, I desire to make and edit consequence phonograph_record.
+As an Archivist, I want to produce and edit Event criminal_record.
+As an Archivist, I want to create and edit Event records.
 As an Archivist, I want to create and edit Event records.
 As an Archivist, I want to create and edit Event records.
 
-Input phrase:As an Archivist, I want to manage Digital Objects.
-As an Archivist, I desire to pull_off Digital object.
-As an Archivist, I want to cope Digital aim.
+Input phrase: As an Archivist, I want to manage Digital Objects.
+As an Archivist, I desire to pull_off Digital aim.
+As an Archivist, I want to cope Digital Objects.
 As an Archivist, I want to oversee Digital Objects.
 As an Archivist, I want to wangle Digital Objects.
 As an Archivist, I want to do Digital Objects.
 
-Input phrase:As an Archivist, I want to associate an Instance with a Resource and/or Resource Component.
+Input phrase: As an Archivist, I want to associate an Instance with a Resource and/or Resource Component.
 As an Archivist, I desire to consort an case with a Resource and/or Resource part.
 As an Archivist, I want to consociate an example with a Resource and/or Resource Component.
 As an Archivist, I want to associate an Instance with a Resource and/or Resource Component.
 As an Archivist, I want to associate an Instance with a Resource and/or Resource Component.
 As an Archivist, I want to associate an Instance with a Resource and/or Resource Component.
 
-Input phrase:As an Archivist, I don't want to inadvertently overwrite someone else's changes to a record that I'm editing.
-As an Archivist, I don't desire to unwittingly overwrite person else's change to a phonograph_record that I'm edit.
-As an Archivist, I don't want to inadvertently overwrite someone else's variety to a criminal_record that I'm editing.
+Input phrase: As an Archivist, I don't want to inadvertently overwrite someone else's changes to a record that I'm editing.
+As an Archivist, I don't desire to unwittingly overwrite person else's variety to a phonograph_record that I'm edit.
+As an Archivist, I don't want to inadvertently overwrite someone else's changes to a criminal_record that I'm editing.
 As an Archivist, I don't want to inadvertently overwrite someone else's changes to a record that I'm editing.
 As an Archivist, I don't want to inadvertently overwrite someone else's changes to a record that I'm editing.
 As an Archivist, I don't want to inadvertently overwrite someone else's changes to a record that I'm editing.
 
-Input phrase:As an Archivist, I want to create and edit Rights Management statements.
-As an Archivist, I desire to make and edit right Management statement.
-As an Archivist, I want to produce and edit right_field Management argument.
-As an Archivist, I want to create and edit correct Management affirmation.
+Input phrase: As an Archivist, I want to create and edit Rights Management statements.
+As an Archivist, I desire to make and edit right_field Management argument.
+As an Archivist, I want to produce and edit correct Management affirmation.
 As an Archivist, I want to create and edit Rights Management instruction.
 As an Archivist, I want to create and edit Rights Management statements.
+As an Archivist, I want to create and edit Rights Management statements.
 
-Input phrase:As an Archivist, I want to upload an EAD for import from within the frontend application.
+Input phrase: As an Archivist, I want to upload an EAD for import from within the frontend application.
 As an Archivist, I desire to upload an EAD for meaning from inside the frontend lotion.
 As an Archivist, I want to upload an EAD for significance from within the frontend application.
 As an Archivist, I want to upload an EAD for consequence from within the frontend application.
 As an Archivist, I want to upload an EAD for import from within the frontend application.
 As an Archivist, I want to upload an EAD for import from within the frontend application.
 
-Input phrase:As an Archivist, I want to import EAD data.
+Input phrase: As an Archivist, I want to import EAD data.
 As an Archivist, I desire to spell EAD datum.
 As an Archivist, I want to import EAD data.
 As an Archivist, I want to import EAD data.
 As an Archivist, I want to import EAD data.
 As an Archivist, I want to import EAD data.
 
-Input phrase:As a Repository Manager , I want to create, update and delete archival descriptions in my repository.
-As a depository director , I desire to make, update and delete archival description in my depository.
+Input phrase: As a Repository Manager , I want to create, update and delete archival descriptions in my repository.
+As a depository director , I desire to make, update and delete archival descriptions in my depository.
 As a Repository coach , I want to produce, update and delete archival descriptions in my repository.
 As a Repository Manager , I want to create, update and delete archival descriptions in my repository.
 As a Repository Manager , I want to create, update and delete archival descriptions in my repository.
 As a Repository Manager , I want to create, update and delete archival descriptions in my repository.
 
-Input phrase:As a Developer , I want to develop a custom importer.
-As a Developer , I desire to evolve a customs importer.
+Input phrase: As a Developer , I want to develop a custom importer.
+As a Developer , I desire to evolve a custom importer.
 As a Developer , I want to grow a custom importer.
 As a Developer , I want to originate a custom importer.
 As a Developer , I want to build_up a custom importer.
 As a Developer , I want to explicate a custom importer.
 
-Input phrase:As a Basic Data Entry user , I want to create and update basic archival description information.
+Input phrase: As a Basic Data Entry user , I want to create and update basic archival description information.
 As a Basic datum introduction exploiter , I desire to make and update basic archival description data.
 As a Basic Data submission drug_user , I want to produce and update basic archival description information.
 As a Basic Data entrance user , I want to create and update basic archival description information.
 As a Basic Data Entry user , I want to create and update basic archival description information.
 As a Basic Data Entry user , I want to create and update basic archival description information.
 
-Input phrase:As a Repository Manager , I want to create, update and delete any records in my repository.
-As a depository director , I desire to make, update and erase any record in my depository.
-As a Repository coach , I want to produce, update and edit any phonograph_record in my repository.
-As a Repository Manager , I want to create, update and delete any criminal_record in my repository.
+Input phrase: As a Repository Manager , I want to create, update and delete any records in my repository.
+As a depository director , I desire to make, update and erase any phonograph_record in my depository.
+As a Repository coach , I want to produce, update and edit any criminal_record in my repository.
+As a Repository Manager , I want to create, update and delete any records in my repository.
 As a Repository Manager , I want to create, update and delete any records in my repository.
 As a Repository Manager , I want to create, update and delete any records in my repository.
 
-Input phrase:As a ReadOnly user , I want to view archival descriptions in my repository.
-As a ReadOnly exploiter , I desire to see archival description in my depository.
+Input phrase: As a ReadOnly user , I want to view archival descriptions in my repository.
+As a ReadOnly exploiter , I desire to see archival descriptions in my depository.
 As a ReadOnly drug_user , I want to watch archival descriptions in my repository.
 As a ReadOnly user , I want to view archival descriptions in my repository.
 As a ReadOnly user , I want to view archival descriptions in my repository.
 As a ReadOnly user , I want to view archival descriptions in my repository.
 
-Input phrase:As an System Administrator, I want to declare that a user is has the Repository Manager role for a given Repository.
+Input phrase: As an System Administrator, I want to declare that a user is has the Repository Manager role for a given Repository.
 As an arrangement Administrator, I desire to announce that a exploiter is has the depository director function for a give depository.
 As an organization Administrator, I want to declare that a drug_user is has the Repository coach character for a yield Repository.
 As an System Administrator, I want to declare that a user is has the Repository Manager role for a hold Repository.
 As an System Administrator, I want to declare that a user is has the Repository Manager role for a render Repository.
 As an System Administrator, I want to declare that a user is has the Repository Manager role for a impart Repository.
 
-Input phrase:As an Archivist, I want to specify the Source for a Name Form of an Agent and add new Sources and edit existing Sources.
+Input phrase: As an Archivist, I want to specify the Source for a Name Form of an Agent and add new Sources and edit existing Sources.
 As an Archivist, I desire to stipulate the beginning for a appoint kind of an agentive_role and lend fresh beginnings and edit exist beginnings.
 As an Archivist, I want to pin_down the informant for a mention shape of an Agent and total raw informants and edit existing informants.
 As an Archivist, I want to intend the generator for a identify human_body of an Agent and add newfangled generators and edit existing generators.
 As an Archivist, I want to assign the reservoir for a list phase of an Agent and add modern reservoirs and edit existing reservoirs.
 As an Archivist, I want to specify the reference for a diagnose class of an Agent and add new references and edit existing references.
 
-Input phrase:As an Archivist, I want to create and edit Agent records.
-As an Archivist, I desire to make and edit agentive_role record.
-As an Archivist, I want to produce and edit Agent phonograph_record.
-As an Archivist, I want to create and edit Agent criminal_record.
+Input phrase: As an Archivist, I want to create and edit Agent records.
+As an Archivist, I desire to make and edit agentive_role phonograph_record.
+As an Archivist, I want to produce and edit Agent criminal_record.
+As an Archivist, I want to create and edit Agent records.
 As an Archivist, I want to create and edit Agent records.
 As an Archivist, I want to create and edit Agent records.
 
-Input phrase:As an Archivist, I want to create and edit a Resource record.
+Input phrase: As an Archivist, I want to create and edit a Resource record.
 As an Archivist, I desire to make and edit a Resource phonograph_record.
 As an Archivist, I want to produce and edit a Resource criminal_record.
 As an Archivist, I want to create and edit a Resource record.
 As an Archivist, I want to create and edit a Resource record.
 As an Archivist, I want to create and edit a Resource record.
 
-Input phrase:As an Archivist, I want to associate a Subject record with a Resource description.
+Input phrase: As an Archivist, I want to associate a Subject record with a Resource description.
 As an Archivist, I desire to consort a capable phonograph_record with a Resource description.
 As an Archivist, I want to consociate a Subject criminal_record with a Resource description.
 As an Archivist, I want to associate a Subject record with a Resource description.
 As an Archivist, I want to associate a Subject record with a Resource description.
 As an Archivist, I want to associate a Subject record with a Resource description.
 
-Input phrase:As a User, I want to authenticate locally.
+Input phrase: As a User, I want to authenticate locally.
 As a exploiter, I desire to authenticate locally.
 As a drug_user, I want to authenticate locally.
 As a User, I want to authenticate locally.
 As a User, I want to authenticate locally.
 As a User, I want to authenticate locally.
 
-Input phrase:As User, I want to be able to log in.
+Input phrase: As User, I want to be able to log in.
 As exploiter, I desire to be able to log in.
 As drug_user, I want to be able to log in.
 As User, I want to be able to log in.
 As User, I want to be able to log in.
 As User, I want to be able to log in.
 
-Input phrase:As an Archivist, I want to associate an Instance with a Container.
+Input phrase: As an Archivist, I want to associate an Instance with a Container.
 As an Archivist, I desire to consort an case with a Container.
 As an Archivist, I want to consociate an example with a Container.
 As an Archivist, I want to associate an Instance with a Container.
 As an Archivist, I want to associate an Instance with a Container.
 As an Archivist, I want to associate an Instance with a Container.
 
-Input phrase:As an Archivist, I want to assign Location information to a Container.
+Input phrase: As an Archivist, I want to assign Location information to a Container.
 As an Archivist, I desire to delegate placement data to a Container.
 As an Archivist, I want to impute localization information to a Container.
 As an Archivist, I want to put Location information to a Container.
 As an Archivist, I want to arrogate Location information to a Container.
 As an Archivist, I want to assign Location information to a Container.
 
-Time for the single dataset = 0.6325 seconds = 0.0002 hours
+Time for the single dataset = 0.5815 seconds = 0.0097 minutes = 0.0002 hours

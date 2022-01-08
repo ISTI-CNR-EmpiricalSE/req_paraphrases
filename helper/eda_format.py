@@ -11,7 +11,7 @@ def eda_format_func():
         Format of the output file: results_data_set_index_EDA_input.txt
     """
 
-    # data_sets_n
+    # since the time that it takes to do it it's very small, every time it process all the files
     for i in range(1, 24):
         j = 0
         src_file = open("../results/data_set_" + str(i) + "/results_1.txt", "r")

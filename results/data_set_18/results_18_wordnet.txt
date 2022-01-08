@@ -1,374 +1,374 @@
 data_set_number:18
 
-Input phrase:As a depositor, I want to deposit and maintain datasets through a simple web interface, so that I don't need to install and learn new software to deposit.
+Input phrase: As a depositor, I want to deposit and maintain datasets through a simple web interface, so that I don't need to install and learn new software to deposit.
 As a lodgeor, I desire to lodge and keep datasets through a elementary vane interface, so that I don't necessitate to install and memorize fresh software to lodge.
 As a situateor, I want to situate and conserve datasets through a bare network interface, so that I don't want to install and teach raw software to situate.
 As a depositor, I want to deposit and sustain datasets through a childlike world_wide_web interface, so that I don't need to install and determine newfangled software to deposit.
 As a depositor, I want to deposit and assert datasets through a dim-witted web interface, so that I don't need to install and learn modern software to deposit.
 As a depositor, I want to deposit and wield datasets through a simple web interface, so that I don't need to install and learn new software to deposit.
 
-Input phrase:As a depositor, I want to have a user interface that is familiar to me, so that I feel like all the University systems are joined up.
-As a depositor, I desire to have a exploiter interface that is conversant to me, so that I find wish all the University system are join up.
-As a depositor, I want to have a drug_user interface that is familiar to me, so that I palpate alike all the University arrangement are connect up.
-As a depositor, I want to have a user interface that is familiar to me, so that I feel comparable all the University organization are joined up.
+Input phrase: As a depositor, I want to have a user interface that is familiar to me, so that I feel like all the University systems are joined up.
+As a depositor, I desire to have a exploiter interface that is conversant to me, so that I find wish all the University arrangement are join up.
+As a depositor, I want to have a drug_user interface that is familiar to me, so that I palpate alike all the University organization are connect up.
+As a depositor, I want to have a user interface that is familiar to me, so that I feel comparable all the University systems are joined up.
 As a depositor, I want to have a user interface that is familiar to me, so that I feel like all the University systems are joined up.
 As a depositor, I want to have a user interface that is familiar to me, so that I feel like all the University systems are joined up.
 
-Input phrase:As a depositor, I want to deposit and maintain datasets through Pure, so that I have a single onestop shop for managing my research outputs.
+Input phrase: As a depositor, I want to deposit and maintain datasets through Pure, so that I have a single onestop shop for managing my research outputs.
 As a lodgeor, I desire to lodge and keep datasets through arrant, so that I have a individual onestop workshop for pull_off my inquiry end_product.
-As a situateor, I want to situate and conserve datasets through saturated, so that I have a unmarried onestop shop_class for manage my research output.
-As a depositor, I want to deposit and sustain datasets through Pure, so that I have a single onestop shop for cope my research output_signal.
+As a situateor, I want to situate and conserve datasets through saturated, so that I have a unmarried onestop shop_class for manage my research output_signal.
+As a depositor, I want to deposit and sustain datasets through Pure, so that I have a single onestop shop for cope my research outputs.
 As a depositor, I want to deposit and assert datasets through Pure, so that I have a single onestop shop for oversee my research outputs.
 As a depositor, I want to deposit and wield datasets through Pure, so that I have a single onestop shop for wangle my research outputs.
 
-Input phrase:As a depositor, I want to deposit and maintain datasets through Virtual Research Environments and other workflow tools, so that I can continue to work with tools with which I'm familiar.
-As a lodgeor, I desire to lodge and keep datasets through Virtual inquiry environment and other function_flow tool, so that I can proceed to function with tool with which I'm conversant.
-As a situateor, I want to situate and conserve datasets through Virtual Research Environments and other exerciseflow instrument, so that I can retain to exercise with instrument with which I'm familiar.
-As a depositor, I want to deposit and sustain datasets through Virtual Research Environments and other makeflow creature, so that I can stay to make with creature with which I'm familiar.
-As a depositor, I want to deposit and assert datasets through Virtual Research Environments and other bringflow cock, so that I can cover to bring with cock with which I'm familiar.
+Input phrase: As a depositor, I want to deposit and maintain datasets through Virtual Research Environments and other workflow tools, so that I can continue to work with tools with which I'm familiar.
+As a lodgeor, I desire to lodge and keep datasets through Virtual inquiry Environments and other function_flow instrument, so that I can proceed to function with instrument with which I'm conversant.
+As a situateor, I want to situate and conserve datasets through Virtual Research Environments and other exerciseflow creature, so that I can retain to exercise with creature with which I'm familiar.
+As a depositor, I want to deposit and sustain datasets through Virtual Research Environments and other makeflow cock, so that I can stay to make with cock with which I'm familiar.
+As a depositor, I want to deposit and assert datasets through Virtual Research Environments and other bringflow tools, so that I can cover to bring with tools with which I'm familiar.
 As a depositor, I want to deposit and wield datasets through Virtual Research Environments and other cultivateflow tools, so that I can continue to cultivate with tools with which I'm familiar.
 
-Input phrase:As a depositor, I want to deposit the files that I have, so that I don't have to spend a lot of time finding the right version and converting to the right format.
-As a lodgeor, I desire to lodge the file that I have, so that I don't have to spend a batch of clock_time find the correct adaptation and convert to the correct format.
+Input phrase: As a depositor, I want to deposit the files that I have, so that I don't have to spend a lot of time finding the right version and converting to the right format.
+As a lodgeor, I desire to lodge the files that I have, so that I don't have to spend a batch of clock_time find the correct adaptation and convert to the correct format.
 As a situateor, I want to situate the files that I have, so that I don't have to spend a set of fourth_dimension detect the proper translation and change to the proper format.
 As a depositor, I want to deposit the files that I have, so that I don't have to spend a fortune of meter determine the good interpretation and commute to the good format.
 As a depositor, I want to deposit the files that I have, so that I don't have to spend a draw of prison_term witness the veracious version and converting to the veracious format.
 As a depositor, I want to deposit the files that I have, so that I don't have to spend a bunch of time line_up the right version and converting to the right format.
 
-Input phrase:As a depositor, I want to place data under an embargo, so that my right of first use is protected, and I can fulfil my confidentiality responsibilities.
+Input phrase: As a depositor, I want to place data under an embargo, so that my right of first use is protected, and I can fulfil my confidentiality responsibilities.
 As a depositor, I desire to put datum under an embargo, so that my right_field of inaugural function is protect, and I can carry_through my confidentiality duty.
 As a depositor, I want to rate data under an embargo, so that my right of beginning consumption is protected, and I can meet my confidentiality province.
 As a depositor, I want to locate data under an embargo, so that my right of first habit is protected, and I can satisfy my confidentiality responsibility.
 As a depositor, I want to target data under an embargo, so that my right of first manipulation is protected, and I can fulfil my confidentiality responsibilities.
 As a depositor, I want to identify data under an embargo, so that my right of first use is protected, and I can fulfil my confidentiality responsibilities.
 
-Input phrase:As a depositor, I want to apply licenses to datasets, so that my IP rights are protected appropriately.
-As a depositor, I desire to use license to datasets, so that my information_science right are protect appropriately.
-As a depositor, I want to put_on licenses to datasets, so that my IP right_field are protected appropriately.
+Input phrase: As a depositor, I want to apply licenses to datasets, so that my IP rights are protected appropriately.
+As a depositor, I desire to use licenses to datasets, so that my information_science right_field are protect appropriately.
+As a depositor, I want to put_on licenses to datasets, so that my IP rights are protected appropriately.
 As a depositor, I want to lend_oneself licenses to datasets, so that my IP rights are protected appropriately.
 As a depositor, I want to give licenses to datasets, so that my IP rights are protected appropriately.
 As a depositor, I want to practice licenses to datasets, so that my IP rights are protected appropriately.
 
-Input phrase:As a depositor, I want to allow my collaborators privileged access to datasets, so that we continue to have a productive relationship.
+Input phrase: As a depositor, I want to allow my collaborators privileged access to datasets, so that we continue to have a productive relationship.
 As a depositor, I desire to let my confederate privilege entree to datasets, so that we proceed to have a generative kinship.
-As a depositor, I want to permit my collaborator privileged access to datasets, so that we retain to have a fat relationship.
+As a depositor, I want to permit my collaborators privileged access to datasets, so that we retain to have a fat relationship.
 As a depositor, I want to leave my collaborators privileged access to datasets, so that we stay to have a productive relationship.
 As a depositor, I want to admit my collaborators privileged access to datasets, so that we cover to have a productive relationship.
 As a depositor, I want to give_up my collaborators privileged access to datasets, so that we continue to have a productive relationship.
 
-Input phrase:As a depositor, I want to deposit arbitrarily large files, so that I am not limited in what files I can and cannot deposit.
-As a lodgeor, I desire to lodge randomly bombastic file, so that I am not circumscribed in what file I can and cannot lodge.
+Input phrase: As a depositor, I want to deposit arbitrarily large files, so that I am not limited in what files I can and cannot deposit.
+As a lodgeor, I desire to lodge randomly bombastic files, so that I am not circumscribed in what files I can and cannot lodge.
 As a situateor, I want to situate arbitrarily big files, so that I am not limited in what files I can and cannot situate.
 As a depositor, I want to deposit arbitrarily large files, so that I am not limited in what files I can and cannot deposit.
 As a depositor, I want to deposit arbitrarily large files, so that I am not limited in what files I can and cannot deposit.
 As a depositor, I want to deposit arbitrarily large files, so that I am not limited in what files I can and cannot deposit.
 
-Input phrase:As a depositor, I want to link datasets to publications in Opus, so that both my data and publications are more easily discovered.
-As a depositor, I desire to associate datumsets to publication in musical_composition, so that both my datum and publication are more well detect.
-As a depositor, I want to connect datasets to issue in Opus, so that both my data and issue are more easily learn.
+Input phrase: As a depositor, I want to link datasets to publications in Opus, so that both my data and publications are more easily discovered.
+As a depositor, I desire to associate datumsets to issue in musical_composition, so that both my datum and issue are more well detect.
+As a depositor, I want to connect datasets to publications in Opus, so that both my data and publications are more easily learn.
 As a depositor, I want to yoke datasets to publications in Opus, so that both my data and publications are more easily discover.
 As a depositor, I want to link datasets to publications in Opus, so that both my data and publications are more easily fall_upon.
 As a depositor, I want to link datasets to publications in Opus, so that both my data and publications are more easily unwrap.
 
-Input phrase:As a depositor, I want to mint DOIs for my data, so that it can be discovered and cited more easily and citations can be tracked so that I can receive credit.
-As a depositor, I desire to mint department_of_the_interior for my datum, so that it can be detect and mention more well and citation can be track so that I can pick_up recognition.
-As a depositor, I want to mint DOIs for my data, so that it can be learn and reference more easily and quotation can be chase so that I can experience citation.
+Input phrase: As a depositor, I want to mint DOIs for my data, so that it can be discovered and cited more easily and citations can be tracked so that I can receive credit.
+As a depositor, I desire to mint department_of_the_interior for my datum, so that it can be detect and mention more well and quotation can be track so that I can pick_up recognition.
+As a depositor, I want to mint DOIs for my data, so that it can be learn and reference more easily and citations can be chase so that I can experience citation.
 As a depositor, I want to mint DOIs for my data, so that it can be discover and quote more easily and citations can be traverse so that I can welcome credit_rating.
 As a depositor, I want to mint DOIs for my data, so that it can be fall_upon and adduce more easily and citations can be tracked so that I can meet credit.
 As a depositor, I want to mint DOIs for my data, so that it can be unwrap and summon more easily and citations can be tracked so that I can get credit.
 
-Input phrase:As a depositor, I want to have metadata automatically filled from other University systems and remembered from previous deposits, so that I don't have to waste time reentering the same information.
-As a depositor, I desire to have metadata mechanically fill from other University system and remember from former deposit, so that I don't have to neutralize clock_time reentering the same data.
-As a depositor, I want to have metadata automatically occupy from other University arrangement and commend from previous sediment, so that I don't have to consume fourth_dimension reentering the same information.
-As a depositor, I want to have metadata automatically meet from other University organization and commemorate from previous deposition, so that I don't have to pine_away meter reentering the same information.
-As a depositor, I want to have metadata automatically fill_up from other University systems and remembered from previous down_payment, so that I don't have to lay_waste_to prison_term reentering the same information.
-As a depositor, I want to have metadata automatically satiate from other University systems and remembered from previous depository, so that I don't have to waste time reentering the same information.
+Input phrase: As a depositor, I want to have metadata automatically filled from other University systems and remembered from previous deposits, so that I don't have to waste time reentering the same information.
+As a depositor, I desire to have metadata mechanically fill from other University arrangement and remember from former sediment, so that I don't have to neutralize clock_time reentering the same data.
+As a depositor, I want to have metadata automatically occupy from other University organization and commend from previous deposition, so that I don't have to consume fourth_dimension reentering the same information.
+As a depositor, I want to have metadata automatically meet from other University systems and commemorate from previous down_payment, so that I don't have to pine_away meter reentering the same information.
+As a depositor, I want to have metadata automatically fill_up from other University systems and remembered from previous depository, so that I don't have to lay_waste_to prison_term reentering the same information.
+As a depositor, I want to have metadata automatically satiate from other University systems and remembered from previous deposits, so that I don't have to waste time reentering the same information.
 
-Input phrase:As a depositor, I want to link to data stored in external repositories, so that I can store my data in an appropriate repository but still register it with the University and I don't have to deposit my data in multiple places.
+Input phrase: As a depositor, I want to link to data stored in external repositories, so that I can store my data in an appropriate repository but still register it with the University and I don't have to deposit my data in multiple places.
 As a lodgeor, I desire to associate to datum store in external lodgeory, so that I can store my datum in an appropriate lodgeory but however file it with the University and I don't have to lodge my datum in multiple topographic_point.
-As a situateor, I want to connect to data stored in external repository, so that I can store my data in an appropriate repository but even record it with the University and I don't have to situate my data in multiple place.
-As a depositor, I want to yoke to data stored in external repositories, so that I can store my data in an appropriate repository but still read it with the University and I don't have to deposit my data in multiple stead.
-As a depositor, I want to link to data stored in external repositories, so that I can store my data in an appropriate repository but still cross-file it with the University and I don't have to deposit my data in multiple home.
-As a depositor, I want to link to data stored in external repositories, so that I can store my data in an appropriate repository but still register it with the University and I don't have to deposit my data in multiple position.
+As a situateor, I want to connect to data stored in external repository, so that I can store my data in an appropriate repository but even record it with the University and I don't have to situate my data in multiple stead.
+As a depositor, I want to yoke to data stored in external repositories, so that I can store my data in an appropriate repository but still read it with the University and I don't have to deposit my data in multiple home.
+As a depositor, I want to link to data stored in external repositories, so that I can store my data in an appropriate repository but still cross-file it with the University and I don't have to deposit my data in multiple position.
+As a depositor, I want to link to data stored in external repositories, so that I can store my data in an appropriate repository but still register it with the University and I don't have to deposit my data in multiple seat.
 
-Input phrase:As a depositor, I want to specify a disposal policy for my data, so that I do not accidentally breach laws or collaboration agreements.
-As a depositor, I desire to stipulate a administration policy for my datum, so that I do not by_chance transgress torah or collaboration agreement.
-As a depositor, I want to pin_down a disposal policy for my data, so that I do not incidentally gap law or collaboration agreements.
-As a depositor, I want to intend a disposal policy for my data, so that I do not unintentionally breach jurisprudence or collaboration agreements.
-As a depositor, I want to assign a disposal policy for my data, so that I do not accidentally breach police or collaboration agreements.
+Input phrase: As a depositor, I want to specify a disposal policy for my data, so that I do not accidentally breach laws or collaboration agreements.
+As a depositor, I desire to stipulate a administration policy for my datum, so that I do not by_chance transgress torah or collaboration agreements.
+As a depositor, I want to pin_down a disposal policy for my data, so that I do not incidentally gap jurisprudence or collaboration agreements.
+As a depositor, I want to intend a disposal policy for my data, so that I do not unintentionally breach police or collaboration agreements.
+As a depositor, I want to assign a disposal policy for my data, so that I do not accidentally breach laws or collaboration agreements.
 As a depositor, I want to specify a disposal policy for my data, so that I do not accidentally breach laws or collaboration agreements.
 
-Input phrase:As a depositor, I want to track downloads of my data, so that I can demonstrate the impact of my work.
+Input phrase: As a depositor, I want to track downloads of my data, so that I can demonstrate the impact of my work.
 As a depositor, I desire to chase downloads of my datum, so that I can show the impingement of my employment.
 As a depositor, I want to traverse downloads of my data, so that I can prove the shock of my study.
 As a depositor, I want to track downloads of my data, so that I can attest the impact of my workplace.
 As a depositor, I want to track downloads of my data, so that I can demonstrate the impact of my oeuvre.
 As a depositor, I want to track downloads of my data, so that I can demonstrate the impact of my work.
 
-Input phrase:As a depositor, I want to track citations of my data, so that I can demonstrate the impact of my work
-As a depositor, I desire to chase citation of my datum, so that I can show the impingement of my employment
-As a depositor, I want to traverse quotation of my data, so that I can prove the shock of my study
+Input phrase: As a depositor, I want to track citations of my data, so that I can demonstrate the impact of my work
+As a depositor, I desire to chase quotation of my datum, so that I can show the impingement of my employment
+As a depositor, I want to traverse citations of my data, so that I can prove the shock of my study
 As a depositor, I want to track citations of my data, so that I can attest the impact of my workplace
 As a depositor, I want to track citations of my data, so that I can demonstrate the impact of my oeuvre
 As a depositor, I want to track citations of my data, so that I can demonstrate the impact of my work
 
-Input phrase:As a depositor, I want to have guarantees about data integrity, so that I can use my data in the future and I can fulfil funder requirements for archival.
-As a depositor, I desire to have guarantee about datum integrity, so that I can practice my datum in the future and I can carry_through funder requirement for archival.
-As a depositor, I want to have guarantees about data integrity, so that I can use my data in the future and I can meet funder necessity for archival.
-As a depositor, I want to have guarantees about data integrity, so that I can use my data in the future and I can satisfy funder prerequisite for archival.
+Input phrase: As a depositor, I want to have guarantees about data integrity, so that I can use my data in the future and I can fulfil funder requirements for archival.
+As a depositor, I desire to have guarantees about datum integrity, so that I can practice my datum in the future and I can carry_through funder necessity for archival.
+As a depositor, I want to have guarantees about data integrity, so that I can use my data in the future and I can meet funder prerequisite for archival.
+As a depositor, I want to have guarantees about data integrity, so that I can use my data in the future and I can satisfy funder requirements for archival.
 As a depositor, I want to have guarantees about data integrity, so that I can use my data in the future and I can fulfil funder requirements for archival.
 As a depositor, I want to have guarantees about data integrity, so that I can use my data in the future and I can fulfil funder requirements for archival.
 
-Input phrase:As a depositor, I want to attach subject specific discoverability metadata to records, so that researchers in my discipline can find my data more easily.
-As a depositor, I desire to bind capable specific discoverability metadatum to record, so that research_worker in my discipline can detect my datum more well.
-As a depositor, I want to impound subject specific discoverability metadata to phonograph_record, so that researchers in my discipline can determine my data more easily.
-As a depositor, I want to attach subject specific discoverability metadata to criminal_record, so that researchers in my discipline can witness my data more easily.
+Input phrase: As a depositor, I want to attach subject specific discoverability metadata to records, so that researchers in my discipline can find my data more easily.
+As a depositor, I desire to bind capable specific discoverability metadatum to phonograph_record, so that research_worker in my discipline can detect my datum more well.
+As a depositor, I want to impound subject specific discoverability metadata to criminal_record, so that researchers in my discipline can determine my data more easily.
+As a depositor, I want to attach subject specific discoverability metadata to records, so that researchers in my discipline can witness my data more easily.
 As a depositor, I want to attach subject specific discoverability metadata to records, so that researchers in my discipline can line_up my data more easily.
 As a depositor, I want to attach subject specific discoverability metadata to records, so that researchers in my discipline can discover my data more easily.
 
-Input phrase:As a depositor, I want to link datasets with the project DMP, so that compliance with DMP can be demonstrated and whole project workflow is linked together.
+Input phrase: As a depositor, I want to link datasets with the project DMP, so that compliance with DMP can be demonstrated and whole project workflow is linked together.
 As a depositor, I desire to associate datasets with the undertaking DMP, so that conformity with DMP can be show and unharmed undertaking work_flow is associateed in_concert.
 As a depositor, I want to connect datasets with the project DMP, so that complaisance with DMP can be prove and hale project workflow is connected together.
 As a depositor, I want to yoke datasets with the project DMP, so that submission with DMP can be attest and solid project workflow is yokeed together.
 As a depositor, I want to link datasets with the project DMP, so that compliance with DMP can be demonstrate and whole project workflow is linked together.
 As a depositor, I want to link datasets with the project DMP, so that compliance with DMP can be demonstrated and whole project workflow is linked together.
 
-Input phrase:As a depositor, I want to manage and share live research data, so that whole project workflow is linked together.
+Input phrase: As a depositor, I want to manage and share live research data, so that whole project workflow is linked together.
 As a depositor, I desire to pull_off and partake alive inquiry datum, so that unharmed undertaking work_flow is associate in_concert.
 As a depositor, I want to cope and share bouncy research data, so that hale project workflow is connect together.
 As a depositor, I want to oversee and share hot research data, so that solid project workflow is yoke together.
 As a depositor, I want to wangle and share live research data, so that whole project workflow is linked together.
 As a depositor, I want to do and share live research data, so that whole project workflow is linked together.
 
-Input phrase:As a depositor, I want to manage multiple versions of the same dataset, so that changes to the dataset are transparent and do not compromise research integrity.
-As a depositor, I desire to pull_off multiple version of the same dataset, so that change to the dataset are crystalline and do not compromise inquiry integrity.
-As a depositor, I want to cope multiple adaptation of the same dataset, so that switch to the dataset are diaphanous and do not compromise research integrity.
-As a depositor, I want to oversee multiple translation of the same dataset, so that exchange to the dataset are guileless and do not compromise research integrity.
-As a depositor, I want to wangle multiple interpretation of the same dataset, so that transfer to the dataset are transparent and do not compromise research integrity.
-As a depositor, I want to do multiple versions of the same dataset, so that deepen to the dataset are transparent and do not compromise research integrity.
+Input phrase: As a depositor, I want to manage multiple versions of the same dataset, so that changes to the dataset are transparent and do not compromise research integrity.
+As a depositor, I desire to pull_off multiple adaptation of the same dataset, so that switch to the dataset are crystalline and do not compromise inquiry integrity.
+As a depositor, I want to cope multiple translation of the same dataset, so that exchange to the dataset are diaphanous and do not compromise research integrity.
+As a depositor, I want to oversee multiple interpretation of the same dataset, so that transfer to the dataset are guileless and do not compromise research integrity.
+As a depositor, I want to wangle multiple versions of the same dataset, so that deepen to the dataset are transparent and do not compromise research integrity.
+As a depositor, I want to do multiple versions of the same dataset, so that changes to the dataset are transparent and do not compromise research integrity.
 
-Input phrase:As a depositor, I want to allow others to deposit on my behalf, so that I can delegate research data management tasks appropriately.
+Input phrase: As a depositor, I want to allow others to deposit on my behalf, so that I can delegate research data management tasks appropriately.
 As a lodgeor, I desire to let others to lodge on my behalf, so that I can delegate inquiry datum management undertaking appropriately.
 As a situateor, I want to permit others to situate on my behalf, so that I can delegate research data management job appropriately.
 As a depositor, I want to leave others to deposit on my behalf, so that I can delegate research data management tasks appropriately.
 As a depositor, I want to admit others to deposit on my behalf, so that I can delegate research data management tasks appropriately.
 As a depositor, I want to give_up others to deposit on my behalf, so that I can delegate research data management tasks appropriately.
 
-Input phrase:As a data reuser, I want to search the archive through the web, so that I can easily find data relevant to my needs.
-As a datum reuser, I desire to research the archive through the vane, so that I can well detect datum relevant to my need.
-As a data reuser, I want to search the archive through the network, so that I can easily determine data relevant to my motivation.
-As a data reuser, I want to search the archive through the world_wide_web, so that I can easily witness data relevant to my indigence.
+Input phrase: As a data reuser, I want to search the archive through the web, so that I can easily find data relevant to my needs.
+As a datum reuser, I desire to research the archive through the vane, so that I can well detect datum relevant to my motivation.
+As a data reuser, I want to search the archive through the network, so that I can easily determine data relevant to my indigence.
+As a data reuser, I want to search the archive through the world_wide_web, so that I can easily witness data relevant to my needs.
 As a data reuser, I want to search the archive through the web, so that I can easily line_up data relevant to my needs.
 As a data reuser, I want to search the archive through the web, so that I can easily discover data relevant to my needs.
 
-Input phrase:As a data reuser, I want to access the system in my native language, so that I am not put off reusing University of Bath data by language barriers.
-As a datum reuser, I desire to access the arrangement in my native speech, so that I am not frame off recycle University of bathtub datum by speech barrier.
+Input phrase: As a data reuser, I want to access the system in my native language, so that I am not put off reusing University of Bath data by language barriers.
+As a datum reuser, I desire to access the arrangement in my native speech, so that I am not frame off recycle University of bathtub datum by speech barriers.
 As a data reuser, I want to access the organization in my native lyric, so that I am not invest off reusing University of bathroom data by lyric barriers.
 As a data reuser, I want to access the system in my native linguistic_process, so that I am not place off reusing University of bathe data by linguistic_process barriers.
 As a data reuser, I want to access the system in my native terminology, so that I am not arrange off reusing University of Bath data by terminology barriers.
 As a data reuser, I want to access the system in my native language, so that I am not put off reusing University of Bath data by language barriers.
 
-Input phrase:As a data reuser, I want to examine and identify deposited files, so that I can make a preliminary assessment of usefulness without downloading the whole dataset.
-As a datum reuser, I desire to analyze and name lodge file, so that I can induce a preliminary appraisal of utility without download the unharmed datumset.
+Input phrase: As a data reuser, I want to examine and identify deposited files, so that I can make a preliminary assessment of usefulness without downloading the whole dataset.
+As a datum reuser, I desire to analyze and name lodge files, so that I can induce a preliminary appraisal of utility without download the unharmed datumset.
 As a data reuser, I want to probe and identify deposit files, so that I can cause a preliminary judgment of usefulness without downloading the hale dataset.
 As a data reuser, I want to test and identify situate files, so that I can produce a preliminary assessment of usefulness without downloading the solid dataset.
 As a data reuser, I want to examine and identify deposited files, so that I can draw a preliminary assessment of usefulness without downloading the whole dataset.
 As a data reuser, I want to examine and identify deposited files, so that I can create a preliminary assessment of usefulness without downloading the whole dataset.
 
-Input phrase:As a data reuser, I want to view an example citation for a dataset, so that I can reference it correctly.
+Input phrase: As a data reuser, I want to view an example citation for a dataset, so that I can reference it correctly.
 As a datum reuser, I desire to see an model quotation for a datumset, so that I can reference it correctly.
 As a data reuser, I want to watch an exemplar citation for a dataset, so that I can reference it correctly.
 As a data reuser, I want to view an case citation for a dataset, so that I can reference it correctly.
 As a data reuser, I want to view an exercise citation for a dataset, so that I can reference it correctly.
 As a data reuser, I want to view an example citation for a dataset, so that I can reference it correctly.
 
-Input phrase:As a data reuser, I want to view a DOI for a dataset, so that I can get back to the data in future and I can import the dataset into my referencemanagement software automatically.
+Input phrase: As a data reuser, I want to view a DOI for a dataset, so that I can get back to the data in future and I can import the dataset into my referencemanagement software automatically.
 As a datum reuser, I desire to see a department_of_the_interior for a datumset, so that I can become back to the datum in future and I can spell the datumset into my referencemanagement software mechanically.
 As a data reuser, I want to watch a DOI for a dataset, so that I can receive back to the data in future and I can import the dataset into my referencemanagement software automatically.
 As a data reuser, I want to view a DOI for a dataset, so that I can arrive back to the data in future and I can import the dataset into my referencemanagement software automatically.
 As a data reuser, I want to view a DOI for a dataset, so that I can bring back to the data in future and I can import the dataset into my referencemanagement software automatically.
 As a data reuser, I want to view a DOI for a dataset, so that I can experience back to the data in future and I can import the dataset into my referencemanagement software automatically.
 
-Input phrase:As a data reuser, I want to get a persistent URL for a dataset, so that I can get back to the data in future.
+Input phrase: As a data reuser, I want to get a persistent URL for a dataset, so that I can get back to the data in future.
 As a datum reuser, I desire to become a haunting URL for a datumset, so that I can become back to the datum in future.
 As a data reuser, I want to receive a dogged URL for a dataset, so that I can receive back to the data in future.
 As a data reuser, I want to arrive a persistent URL for a dataset, so that I can arrive back to the data in future.
 As a data reuser, I want to bring a persistent URL for a dataset, so that I can bring back to the data in future.
 As a data reuser, I want to experience a persistent URL for a dataset, so that I can experience back to the data in future.
 
-Input phrase:As a data reuser, I want to search the archive through Primo , so that I can search books, articles and data all in one place.
-As a datum reuser, I desire to reresearch the archive through Primo , so that I can reresearch book, article and datum all in matchless topographic_point.
-As a data reuser, I want to search the archive through Primo , so that I can search record, articles and data all in one stead.
-As a data reuser, I want to search the archive through Primo , so that I can search script, articles and data all in one home.
-As a data reuser, I want to search the archive through Primo , so that I can search ledger, articles and data all in one position.
-As a data reuser, I want to search the archive through Primo , so that I can search koran, articles and data all in one seat.
+Input phrase: As a data reuser, I want to search the archive through Primo , so that I can search books, articles and data all in one place.
+As a datum reuser, I desire to reresearch the archive through Primo , so that I can reresearch record, articles and datum all in matchless topographic_point.
+As a data reuser, I want to search the archive through Primo , so that I can search script, articles and data all in one stead.
+As a data reuser, I want to search the archive through Primo , so that I can search ledger, articles and data all in one home.
+As a data reuser, I want to search the archive through Primo , so that I can search koran, articles and data all in one position.
+As a data reuser, I want to search the archive through Primo , so that I can search bible, articles and data all in one seat.
 
-Input phrase:As a data reuser, I want to see different versions of a dataset at a glance, so that I can be sure I'm using the right version of the dataset.
+Input phrase: As a data reuser, I want to see different versions of a dataset at a glance, so that I can be sure I'm using the right version of the dataset.
 As a datum reuser, I desire to understand unlike adaptation of a datumset at a glance, so that I can be certain I'm use the correct adaptation of the datumset.
-As a data reuser, I want to witness different adaptation of a dataset at a glance, so that I can be indisputable I'm practice the proper translation of the dataset.
-As a data reuser, I want to visualize different translation of a dataset at a glance, so that I can be sure I'm using the good interpretation of the dataset.
-As a data reuser, I want to learn different interpretation of a dataset at a glance, so that I can be sure I'm using the veracious version of the dataset.
+As a data reuser, I want to witness different translation of a dataset at a glance, so that I can be indisputable I'm practice the proper translation of the dataset.
+As a data reuser, I want to visualize different interpretation of a dataset at a glance, so that I can be sure I'm using the good interpretation of the dataset.
+As a data reuser, I want to learn different versions of a dataset at a glance, so that I can be sure I'm using the veracious version of the dataset.
 As a data reuser, I want to watch different versions of a dataset at a glance, so that I can be sure I'm using the right version of the dataset.
 
-Input phrase:As an externalcollaborator, I want to gain privileged access to data for projects in which I am involved, so that I can collaborate effectively.
+Input phrase: As an externalcollaborator, I want to gain privileged access to data for projects in which I am involved, so that I can collaborate effectively.
 As an externalcollaborator, I desire to derive inside entree to datum for undertaking in which I am involve, so that I can collaborate efficaciously.
-As an externalcollaborator, I want to acquire privileged access to data for project in which I am imply, so that I can collaborate effectively.
+As an externalcollaborator, I want to acquire privileged access to data for projects in which I am imply, so that I can collaborate effectively.
 As an externalcollaborator, I want to profit privileged access to data for projects in which I am necessitate, so that I can collaborate effectively.
 As an externalcollaborator, I want to reach privileged access to data for projects in which I am involved, so that I can collaborate effectively.
 As an externalcollaborator, I want to advance privileged access to data for projects in which I am involved, so that I can collaborate effectively.
 
-Input phrase:As an externalcoordinator, I want to have guarantees that my IP rights will not be breached, so that the risk of collaborating with Bath is acceptable to me.
-As an externalcoordinator, I desire to have guarantee that my information_science right will not be transgress, so that the hazard of collaborate with bathtub is satisfactory to me.
-As an externalcoordinator, I want to have guarantees that my IP right_field will not be gap, so that the risk of collaborating with bathroom is acceptable to me.
+Input phrase: As an externalcoordinator, I want to have guarantees that my IP rights will not be breached, so that the risk of collaborating with Bath is acceptable to me.
+As an externalcoordinator, I desire to have guarantees that my information_science right_field will not be transgress, so that the hazard of collaborate with bathtub is satisfactory to me.
+As an externalcoordinator, I want to have guarantees that my IP rights will not be gap, so that the risk of collaborating with bathroom is acceptable to me.
 As an externalcoordinator, I want to have guarantees that my IP rights will not be breached, so that the risk of collaborating with bathe is acceptable to me.
 As an externalcoordinator, I want to have guarantees that my IP rights will not be breached, so that the risk of collaborating with Bath is acceptable to me.
 As an externalcoordinator, I want to have guarantees that my IP rights will not be breached, so that the risk of collaborating with Bath is acceptable to me.
 
-Input phrase:AS an externalcoordinator, I want to access data from Bath collaborators off campus, so that I can collaborate effectively.
+Input phrase: AS an externalcoordinator, I want to access data from Bath collaborators off campus, so that I can collaborate effectively.
 AS an externalcoordinator, I desire to access datum from bathtub confederate off campus, so that I can collaborate efficaciously.
-AS an externalcoordinator, I want to access data from bathroom collaborator off campus, so that I can collaborate effectively.
+AS an externalcoordinator, I want to access data from bathroom collaborators off campus, so that I can collaborate effectively.
 AS an externalcoordinator, I want to access data from bathe collaborators off campus, so that I can collaborate effectively.
 AS an externalcoordinator, I want to access data from Bath collaborators off campus, so that I can collaborate effectively.
 AS an externalcoordinator, I want to access data from Bath collaborators off campus, so that I can collaborate effectively.
 
-Input phrase:As a research facility manager, I want to deposit data from my facility directly into the archive on behalf of researchers, so that I am no longer required to maintain my own archive of facility data and researchers can access their own data as needed. 
+Input phrase: As a research facility manager, I want to deposit data from my facility directly into the archive on behalf of researchers, so that I am no longer required to maintain my own archive of facility data and researchers can access their own data as needed. 
 As a inquiry adeptness director, I desire to lodge datum from my adeptness immediately into the archive on behalf of inquiryers, so that I am no longer necessitate to keep my own archive of adeptness datum and inquiryers can access their own datum as necessitate. 
 As a research facility coach, I want to situate data from my facility directly into the archive on behalf of researchers, so that I am no longer ask to conserve my own archive of facility data and researchers can access their own data as want. 
 As a research facility manager, I want to deposit data from my facility directly into the archive on behalf of researchers, so that I am no longer command to sustain my own archive of facility data and researchers can access their own data as need. 
 As a research facility manager, I want to deposit data from my facility directly into the archive on behalf of researchers, so that I am no longer want to assert my own archive of facility data and researchers can access their own data as needed. 
 As a research facility manager, I want to deposit data from my facility directly into the archive on behalf of researchers, so that I am no longer required to wield my own archive of facility data and researchers can access their own data as needed. 
 
-Input phrase:As a Bath Data Archive administrator, I want to make some checks on deposited datasets before they are made public, so that consistent quality of metadata is maintained, compliance with policies can be checked and details of licensing can be checked.
-As a bathtub datum Archive administrator, I desire to induce some check on deposited datasets before they are make public, so that reproducible timbre of metadata is keep, conformity with policy can be check and detail of licensing can be check.
-As a bathroom Data Archive administrator, I want to cause some assay on deposited datasets before they are induce public, so that coherent quality of metadata is conserve, complaisance with policies can be see and contingent of licensing can be see.
-As a bathe Data Archive administrator, I want to produce some arrest on deposited datasets before they are cause public, so that consistent quality of metadata is sustain, submission with policies can be control and details of licensing can be control.
-As a Bath Data Archive administrator, I want to draw some confirmation on deposited datasets before they are produce public, so that consistent quality of metadata is assert, compliance with policies can be match and details of licensing can be match.
-As a Bath Data Archive administrator, I want to create some check_mark on deposited datasets before they are draw public, so that consistent quality of metadata is wield, compliance with policies can be discipline and details of licensing can be discipline.
+Input phrase: As a Bath Data Archive administrator, I want to make some checks on deposited datasets before they are made public, so that consistent quality of metadata is maintained, compliance with policies can be checked and details of licensing can be checked.
+As a bathtub datum Archive administrator, I desire to induce some assay on deposited datasets before they are make public, so that reproducible timbre of metadata is keep, conformity with policy can be check and contingent of licensing can be check.
+As a bathroom Data Archive administrator, I want to cause some arrest on deposited datasets before they are induce public, so that coherent quality of metadata is conserve, complaisance with policies can be see and details of licensing can be see.
+As a bathe Data Archive administrator, I want to produce some confirmation on deposited datasets before they are cause public, so that consistent quality of metadata is sustain, submission with policies can be control and details of licensing can be control.
+As a Bath Data Archive administrator, I want to draw some check_mark on deposited datasets before they are produce public, so that consistent quality of metadata is assert, compliance with policies can be match and details of licensing can be match.
+As a Bath Data Archive administrator, I want to create some hindrance on deposited datasets before they are draw public, so that consistent quality of metadata is wield, compliance with policies can be discipline and details of licensing can be discipline.
 
-Input phrase:As a Bath Data Archive administrator, I want to require a minimum set of metadata, so that consistent quality of metadata is maintained.
+Input phrase: As a Bath Data Archive administrator, I want to require a minimum set of metadata, so that consistent quality of metadata is maintained.
 As a bathtub datum Archive administrator, I desire to necessitate a minimal stage_set of metadata, so that reproducible timbre of metadata is keep.
 As a bathroom Data Archive administrator, I want to ask a minimum bent of metadata, so that coherent quality of metadata is conserve.
 As a bathe Data Archive administrator, I want to command a minimum hardening of metadata, so that consistent quality of metadata is sustain.
 As a Bath Data Archive administrator, I want to want a minimum set of metadata, so that consistent quality of metadata is assert.
 As a Bath Data Archive administrator, I want to require a minimum set of metadata, so that consistent quality of metadata is wield.
 
-Input phrase:As a Bath Data Archive administrator, I want to approve scheduled disposal of data, so that data which is still required is not destroyed.
+Input phrase: As a Bath Data Archive administrator, I want to approve scheduled disposal of data, so that data which is still required is not destroyed.
 As a bathtub datum Archive administrator, I desire to approve scheduled administration of datum, so that datum which is however necessitate is not destroy.
 As a bathroom Data Archive administrator, I want to approve scheduled disposal of data, so that data which is even ask is not demolish.
 As a bathe Data Archive administrator, I want to approve scheduled disposal of data, so that data which is still command is not destroyed.
 As a Bath Data Archive administrator, I want to approve scheduled disposal of data, so that data which is still want is not destroyed.
 As a Bath Data Archive administrator, I want to approve scheduled disposal of data, so that data which is still required is not destroyed.
 
-Input phrase:As a Bath Data Archive administrator, I want to query the entire archive , so that I can report on particular aspects of the archive holdings.
-As a bathtub datum Archive administrator, I desire to question the integral archive , so that I can report on especial aspect of the archive retention.
-As a bathroom Data Archive administrator, I want to query the entire archive , so that I can report on finical view of the archive property.
-As a bathe Data Archive administrator, I want to query the entire archive , so that I can report on particular expression of the archive holdings.
+Input phrase: As a Bath Data Archive administrator, I want to query the entire archive , so that I can report on particular aspects of the archive holdings.
+As a bathtub datum Archive administrator, I desire to question the integral archive , so that I can report on especial view of the archive retention.
+As a bathroom Data Archive administrator, I want to query the entire archive , so that I can report on finical expression of the archive property.
+As a bathe Data Archive administrator, I want to query the entire archive , so that I can report on particular aspects of the archive holdings.
 As a Bath Data Archive administrator, I want to query the entire archive , so that I can report on particular aspects of the archive holdings.
 As a Bath Data Archive administrator, I want to query the entire archive , so that I can report on particular aspects of the archive holdings.
 
-Input phrase:As a Bath Data Archive administrator, I want to import Bath data from an external data centre wholesale, so that Bath data holdings in external archives are not lost if they close down.
-As a bathtub datum Archive administrator, I desire to spell bathtub datum from an external datum center wholesale, so that bathtub datum retention in external archive are not lose if they close_up down.
+Input phrase: As a Bath Data Archive administrator, I want to import Bath data from an external data centre wholesale, so that Bath data holdings in external archives are not lost if they close down.
+As a bathtub datum Archive administrator, I desire to spell bathtub datum from an external datum center wholesale, so that bathtub datum retention in external archives are not lose if they close_up down.
 As a bathroom Data Archive administrator, I want to import bathroom data from an external data kernel wholesale, so that bathroom data property in external archives are not misplace if they conclude down.
 As a bathe Data Archive administrator, I want to import bathe data from an external data centre wholesale, so that bathe data holdings in external archives are not fall_back if they close down.
 As a Bath Data Archive administrator, I want to import Bath data from an external data centre wholesale, so that Bath data holdings in external archives are not miss if they close down.
 As a Bath Data Archive administrator, I want to import Bath data from an external data centre wholesale, so that Bath data holdings in external archives are not suffer if they close down.
 
-Input phrase:As a Bath Data Archive administrator, I want to encourage and promote the use of open standards for deposit, so that data is as reusable as possible.
-As a bathtub datum Archive administrator, I desire to advertise and advertise the function of exposed standard for sediment, so that datum is as reclaimable as potential.
-As a bathroom Data Archive administrator, I want to encourage and promote the consumption of assailable criterion for deposition, so that data is as reusable as possible.
+Input phrase: As a Bath Data Archive administrator, I want to encourage and promote the use of open standards for deposit, so that data is as reusable as possible.
+As a bathtub datum Archive administrator, I desire to advertise and advertise the function of exposed criterion for sediment, so that datum is as reclaimable as potential.
+As a bathroom Data Archive administrator, I want to encourage and promote the consumption of assailable standards for deposition, so that data is as reusable as possible.
 As a bathe Data Archive administrator, I want to encourage and promote the habit of loose standards for down_payment, so that data is as reusable as possible.
 As a Bath Data Archive administrator, I want to encourage and promote the manipulation of receptive standards for depository, so that data is as reusable as possible.
 As a Bath Data Archive administrator, I want to encourage and promote the use of overt standards for deposit, so that data is as reusable as possible.
 
-Input phrase:As a Research Information manager, I want to integrate the archive with CRIS, so that I can analyse impact of research data publication I can link funding to all of the outputs it produces.
-As a inquiry datum director, I desire to desegregate the archive with CRIS, so that I can analyze impingement of inquiry datum issue I can associate support to all of the end_product it produce.
-As a Research Information coach, I want to integrate the archive with CRIS, so that I can analyse shock of research data publication I can connect financing to all of the output it grow.
-As a Research Information manager, I want to integrate the archive with CRIS, so that I can analyse impact of research data publication I can yoke funding to all of the output_signal it produces.
+Input phrase: As a Research Information manager, I want to integrate the archive with CRIS, so that I can analyse impact of research data publication I can link funding to all of the outputs it produces.
+As a inquiry datum director, I desire to desegregate the archive with CRIS, so that I can analyze impingement of inquiry datum issue I can associate support to all of the end_product it grow.
+As a Research Information coach, I want to integrate the archive with CRIS, so that I can analyse shock of research data publication I can connect financing to all of the output_signal it produces.
+As a Research Information manager, I want to integrate the archive with CRIS, so that I can analyse impact of research data publication I can yoke funding to all of the outputs it produces.
 As a Research Information manager, I want to integrate the archive with CRIS, so that I can analyse impact of research data publication I can link funding to all of the outputs it produces.
 As a Research Information manager, I want to integrate the archive with CRIS, so that I can analyse impact of research data publication I can link funding to all of the outputs it produces.
 
-Input phrase:As a Research Information manager, I want to include records for externally held data complete, so that the university's record of data holdings is complete.
-As a inquiry datum director, I desire to admit phonograph_record for outwardly keep datum accomplished, so that the university's phonograph_record of datum retention is accomplished.
-As a Research Information coach, I want to include phonograph_criminal_record for externally hold data arrant, so that the university's criminal_record of data property is arrant.
-As a Research Information manager, I want to include criminal_record for externally have data complete, so that the university's record of data holdings is complete.
+Input phrase: As a Research Information manager, I want to include records for externally held data complete, so that the university's record of data holdings is complete.
+As a inquiry datum director, I desire to admit phonograph_phonograph_record for outwardly keep datum accomplished, so that the university's phonograph_record of datum retention is accomplished.
+As a Research Information coach, I want to include criminal_criminal_record for externally hold data arrant, so that the university's criminal_record of data property is arrant.
+As a Research Information manager, I want to include records for externally have data complete, so that the university's record of data holdings is complete.
 As a Research Information manager, I want to include records for externally deem data complete, so that the university's record of data holdings is complete.
 As a Research Information manager, I want to include records for externally harbor data complete, so that the university's record of data holdings is complete.
 
-Input phrase:As a Research Information manager, I want to track citation counts for published datasets, so that impact of datasets within academia can be demonstrated.
-As a inquiry data director, I desire to chase quotation count for print datasets, so that impingement of datasets inside academia can be show.
+Input phrase: As a Research Information manager, I want to track citation counts for published datasets, so that impact of datasets within academia can be demonstrated.
+As a inquiry data director, I desire to chase quotation counts for print datasets, so that impingement of datasets inside academia can be show.
 As a Research Information coach, I want to traverse citation counts for publish datasets, so that shock of datasets within academia can be prove.
 As a Research Information manager, I want to track citation counts for published datasets, so that impact of datasets within academia can be attest.
 As a Research Information manager, I want to track citation counts for published datasets, so that impact of datasets within academia can be demonstrate.
 As a Research Information manager, I want to track citation counts for published datasets, so that impact of datasets within academia can be demonstrated.
 
-Input phrase:As a Research Information manager, I want to segment the view and download statistics by country and sector so that impact of datasets outside academia can be demonstrated.
-As a inquiry data director, I desire to segment the position and download statistic by state and sector so that impingement of datasets external academia can be show.
+Input phrase: As a Research Information manager, I want to segment the view and download statistics by country and sector so that impact of datasets outside academia can be demonstrated.
+As a inquiry data director, I desire to segment the position and download statistics by state and sector so that impingement of datasets external academia can be show.
 As a Research Information coach, I want to segment the opinion and download statistics by nation and sector so that shock of datasets outdoor academia can be prove.
 As a Research Information manager, I want to segment the scene and download statistics by area and sector so that impact of datasets away academia can be attest.
 As a Research Information manager, I want to segment the horizon and download statistics by country and sector so that impact of datasets outside academia can be demonstrate.
 As a Research Information manager, I want to segment the view and download statistics by country and sector so that impact of datasets outside academia can be demonstrated.
 
-Input phrase:As a Research Information manager, I want to have datasets linked to metadata about projects, so that I can report on projects depositing datasets in relation to funder requirements.
-As a inquiry data director, I desire to have datasets associate to metadata about undertaking, so that I can report on undertaking lodge datasets in sexual_intercourse to funder requirement.
-As a Research Information coach, I want to have datasets connect to metadata about project, so that I can report on project deposit datasets in relative to funder necessity.
-As a Research Information manager, I want to have datasets yoke to metadata about projects, so that I can report on projects situate datasets in relation_back to funder prerequisite.
+Input phrase: As a Research Information manager, I want to have datasets linked to metadata about projects, so that I can report on projects depositing datasets in relation to funder requirements.
+As a inquiry data director, I desire to have datasets associate to metadata about undertaking, so that I can report on undertaking lodge datasets in sexual_intercourse to funder necessity.
+As a Research Information coach, I want to have datasets connect to metadata about projects, so that I can report on projects deposit datasets in relative to funder prerequisite.
+As a Research Information manager, I want to have datasets yoke to metadata about projects, so that I can report on projects situate datasets in relation_back to funder requirements.
 As a Research Information manager, I want to have datasets linked to metadata about projects, so that I can report on projects depositing datasets in relation to funder requirements.
 As a Research Information manager, I want to have datasets linked to metadata about projects, so that I can report on projects depositing datasets in relation to funder requirements.
 
-Input phrase:As an UnivITservice, I want to store archived data on existing storage systems, so that university data storage is consistent and maintainable and future availability of data can be guaranteed.
-As an UnivITservice, I desire to store archived datum on exist storehouse system, so that university datum storehouse is reproducible and maintainable and future handiness of datum can be guarantee.
-As an UnivITservice, I want to store archived data on existing memory arrangement, so that university data memory is coherent and maintainable and future availability of data can be undertake.
-As an UnivITservice, I want to store archived data on existing repositing organization, so that university data repositing is consistent and maintainable and future availability of data can be guaranteed.
+Input phrase: As an UnivITservice, I want to store archived data on existing storage systems, so that university data storage is consistent and maintainable and future availability of data can be guaranteed.
+As an UnivITservice, I desire to store archived datum on exist storehouse arrangement, so that university datum storehouse is reproducible and maintainable and future handiness of datum can be guarantee.
+As an UnivITservice, I want to store archived data on existing memory organization, so that university data memory is coherent and maintainable and future availability of data can be undertake.
+As an UnivITservice, I want to store archived data on existing repositing systems, so that university data repositing is consistent and maintainable and future availability of data can be guaranteed.
 As an UnivITservice, I want to store archived data on existing storage systems, so that university data storage is consistent and maintainable and future availability of data can be guaranteed.
 As an UnivITservice, I want to store archived data on existing storage systems, so that university data storage is consistent and maintainable and future availability of data can be guaranteed.
 
-Input phrase:As an UnivITservice, I want to integrate the archive with existing university systems such as LDAP, so that the cost of administering the system can be kept low.
+Input phrase: As an UnivITservice, I want to integrate the archive with existing university systems such as LDAP, so that the cost of administering the system can be kept low.
 As an UnivITservice, I desire to desegregate the archive with exist university arrangement such as LDAP, so that the monetary_value of administer the arrangement can be keep abject.
-As an UnivITservice, I want to integrate the archive with existing university arrangement such as LDAP, so that the price of distribute the organization can be continue humble.
-As an UnivITservice, I want to integrate the archive with existing university organization such as LDAP, so that the cost of administering the system can be prevent depleted.
+As an UnivITservice, I want to integrate the archive with existing university organization such as LDAP, so that the price of distribute the organization can be continue humble.
+As an UnivITservice, I want to integrate the archive with existing university systems such as LDAP, so that the cost of administering the system can be prevent depleted.
 As an UnivITservice, I want to integrate the archive with existing university systems such as LDAP, so that the cost of administering the system can be observe broken.
 As an UnivITservice, I want to integrate the archive with existing university systems such as LDAP, so that the cost of administering the system can be retain gloomy.
 
-Input phrase:As an UnivITservice, I want to store archived data directly on the HCP object store, so that  features can be made.
-As an UnivITservice, I desire to shop archived datum immediately on the HCP aim shop, so that  feature can be make.
-As an UnivITservice, I want to memory archived data directly on the HCP object memory, so that  feature_of_speech can be induce.
+Input phrase: As an UnivITservice, I want to store archived data directly on the HCP object store, so that  features can be made.
+As an UnivITservice, I desire to shop archived datum immediately on the HCP aim shop, so that  feature_of_speech can be make.
+As an UnivITservice, I want to memory archived data directly on the HCP object memory, so that  features can be induce.
 As an UnivITservice, I want to storehouse archived data directly on the HCP object storehouse, so that  features can be cause.
 As an UnivITservice, I want to store archived data directly on the HCP object store, so that  features can be produce.
 As an UnivITservice, I want to store archived data directly on the HCP object store, so that  features can be draw.
 
-Input phrase:As an UnivITservice, I want to be able to export all data to a different system, so that I am not tied into one system which may not be the most appropriate at some point in the future.
+Input phrase: As an UnivITservice, I want to be able to export all data to a different system, so that I am not tied into one system which may not be the most appropriate at some point in the future.
 As an UnivITservice, I desire to be able to export all datum to a unlike arrangement, so that I am not tie into matchless arrangement which may not be the most appropriate at some detail in the future.
 As an UnivITservice, I want to be able to export all data to a different organization, so that I am not connect into one organization which may not be the most appropriate at some degree in the future.
 As an UnivITservice, I want to be able to export all data to a different system, so that I am not bind into one system which may not be the most appropriate at some item in the future.
 As an UnivITservice, I want to be able to export all data to a different system, so that I am not marry into one system which may not be the most appropriate at some compass_point in the future.
 As an UnivITservice, I want to be able to export all data to a different system, so that I am not tied into one system which may not be the most appropriate at some period in the future.
 
-Input phrase:As a developer, I want to deposit and maintain datasets via an API such as SWORD2, so that my service can interact with the archive. 
+Input phrase: As a developer, I want to deposit and maintain datasets via an API such as SWORD2, so that my service can interact with the archive. 
 As a developer, I desire to lodge and keep datasets via an API such as SWORD2, so that my military_service can interact with the archive. 
 As a developer, I want to situate and conserve datasets via an API such as SWORD2, so that my avail can interact with the archive. 
 As a developer, I want to deposit and sustain datasets via an API such as SWORD2, so that my servicing can interact with the archive. 
 As a developer, I want to deposit and assert datasets via an API such as SWORD2, so that my serve can interact with the archive. 
 As a developer, I want to deposit and wield datasets via an API such as SWORD2, so that my overhaul can interact with the archive. 
 
-Input phrase:As an academicpublisher, I want to make persistent web links between my articles and underlying datasets, so that my journals can be seen to be filled with robust, high quality research. 
-As an academicpublisher, I desire to induce haunting vane link between my article and underlie datasets, so that my diary can be see to be fill with full-bodied, eminent timbre inquiry. 
-As an academicpublisher, I want to cause dogged network connection between my articles and underlying datasets, so that my journal can be understand to be occupy with robust, gamey quality research. 
-As an academicpublisher, I want to produce persistent world_wide_web liaison between my articles and underlying datasets, so that my daybook can be witness to be meet with robust, high quality research. 
-As an academicpublisher, I want to draw persistent web radio_link between my articles and underlying datasets, so that my journals can be visualize to be fill_up with robust, high quality research. 
+Input phrase: As an academicpublisher, I want to make persistent web links between my articles and underlying datasets, so that my journals can be seen to be filled with robust, high quality research. 
+As an academicpublisher, I desire to induce haunting vane connection between my articles and underlie datasets, so that my diary can be see to be fill with full-bodied, eminent timbre inquiry. 
+As an academicpublisher, I want to cause dogged network liaison between my articles and underlying datasets, so that my daybook can be understand to be occupy with robust, gamey quality research. 
+As an academicpublisher, I want to produce persistent world_wide_web radio_link between my articles and underlying datasets, so that my journals can be witness to be meet with robust, high quality research. 
+As an academicpublisher, I want to draw persistent web links between my articles and underlying datasets, so that my journals can be visualize to be fill_up with robust, high quality research. 
 As an academicpublisher, I want to create persistent web links between my articles and underlying datasets, so that my journals can be learn to be satiate with robust, high quality research. 
 
-Input phrase:As a fundingbody, I want to be reassured that researchers I fund have robust archival plans for their data, so that I can be sure that funding them is a worthwhile investment.
-As a fundbody, I desire to be reascertain that research_worker I fund have full-bodied archival plan for their datum, so that I can be certain that fund them is a worthwhile investing.
-As a fundingbody, I want to be reasindisputabled that researchers I fund have robust archival design for their data, so that I can be indisputable that funding them is a worthwhile investment.
+Input phrase: As a fundingbody, I want to be reassured that researchers I fund have robust archival plans for their data, so that I can be sure that funding them is a worthwhile investment.
+As a fundbody, I desire to be reascertain that research_worker I fund have full-bodied archival design for their datum, so that I can be certain that fund them is a worthwhile investing.
+As a fundingbody, I want to be reasindisputabled that researchers I fund have robust archival plans for their data, so that I can be indisputable that funding them is a worthwhile investment.
 As a fundingbody, I want to be reassured that researchers I fund have robust archival plans for their data, so that I can be sure that funding them is a worthwhile investment.
 As a fundingbody, I want to be reassured that researchers I fund have robust archival plans for their data, so that I can be sure that funding them is a worthwhile investment.
 As a fundingbody, I want to be reassured that researchers I fund have robust archival plans for their data, so that I can be sure that funding them is a worthwhile investment.
 
-Input phrase:As a fundingbody, I want to harvest metadata on outputs from research I fund, so that I can analyse effectiveness of funding strategy and I can encourage cross fertilisation of research outputs.
+Input phrase: As a fundingbody, I want to harvest metadata on outputs from research I fund, so that I can analyse effectiveness of funding strategy and I can encourage cross fertilisation of research outputs.
 As a supportbody, I desire to reap metadata on end_product from inquiry I fund, so that I can analyze potency of support scheme and I can promote crisscross fertilization of inquiry end_product.
-As a financingbody, I want to harvest metadata on output from research I fund, so that I can analyse effectiveness of financing strategy and I can encourage hybrid fertilisation of research output.
-As a fundingbody, I want to harvest metadata on output_signal from research I fund, so that I can analyse effectiveness of funding strategy and I can encourage hybridization fertilisation of research output_signal.
+As a financingbody, I want to harvest metadata on output_signal from research I fund, so that I can analyse effectiveness of financing strategy and I can encourage hybrid fertilisation of research output_signal.
+As a fundingbody, I want to harvest metadata on outputs from research I fund, so that I can analyse effectiveness of funding strategy and I can encourage hybridization fertilisation of research outputs.
 As a fundingbody, I want to harvest metadata on outputs from research I fund, so that I can analyse effectiveness of funding strategy and I can encourage cross fertilisation of research outputs.
 As a fundingbody, I want to harvest metadata on outputs from research I fund, so that I can analyse effectiveness of funding strategy and I can encourage cross fertilisation of research outputs.
 
-Time for the single dataset = 0.7226 seconds = 0.0002 hours
+Time for the single dataset = 0.8151 seconds = 0.0136 minutes = 0.0002 hours

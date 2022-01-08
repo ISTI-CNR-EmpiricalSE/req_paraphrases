@@ -1,360 +1,360 @@
 data_set_number:3
 
-Input phrase:As a user, I want to click on the address, so that it takes me to a new tab with Google Maps.
-As a exploiter, I desire to snap on the savoir-faire, so that it take me to a fresh check with Google map.
-As a drug_user, I want to chatter on the address, so that it lead me to a raw yellow_journalism with Google function.
-As a user, I want to cluck on the address, so that it assume me to a newfangled tab_key with Google Maps.
-As a user, I want to click on the address, so that it bring me to a modern pill with Google Maps.
-As a user, I want to click on the address, so that it choose me to a new tab with Google Maps.
+Input phrase: As a user, I want to click on the address, so that it takes me to a new tab with Google Maps.
+As a exploiter, I desire to snap on the savoir-faire, so that it lead me to a fresh check with Google function.
+As a drug_user, I want to chatter on the address, so that it assume me to a raw yellow_journalism with Google Maps.
+As a user, I want to cluck on the address, so that it bring me to a newfangled tab_key with Google Maps.
+As a user, I want to click on the address, so that it choose me to a modern pill with Google Maps.
+As a user, I want to click on the address, so that it accept me to a new tab with Google Maps.
 
-Input phrase:As a user, I want to be able to anonymously view public information, so that I know about recycling centers near me before creating an account.
-As a exploiter, I desire to be able to anonymously see public data, so that I acknowledge about recycle center approach me before make an history.
-As a drug_user, I want to be able to anonymously watch public information, so that I sleep_together about recycling center_field cheeseparing me before create an report.
-As a user, I want to be able to anonymously view public information, so that I know about recycling kernel dear me before produce an explanation.
-As a user, I want to be able to anonymously view public information, so that I know about recycling plaza approximate me before creating an score.
+Input phrase: As a user, I want to be able to anonymously view public information, so that I know about recycling centers near me before creating an account.
+As a exploiter, I desire to be able to anonymously see public data, so that I acknowledge about recycle center_field approach me before make an history.
+As a drug_user, I want to be able to anonymously watch public information, so that I sleep_together about recycling kernel cheeseparing me before create an report.
+As a user, I want to be able to anonymously view public information, so that I know about recycling plaza dear me before produce an explanation.
+As a user, I want to be able to anonymously view public information, so that I know about recycling centers approximate me before creating an score.
 As a user, I want to be able to anonymously view public information, so that I know about recycling centers about me before creating an bill.
 
-Input phrase:As a user, I want to be able to enter my zip code and get a list of nearby recycling facilities, so that I can determine which ones I should consider.
-As a exploiter, I desire to be able to enroll my nothing code and become a tilt of nearby recycle facility, so that I can specify which one I should see.
+Input phrase: As a user, I want to be able to enter my zip code and get a list of nearby recycling facilities, so that I can determine which ones I should consider.
+As a exploiter, I desire to be able to enroll my nothing code and become a tilt of nearby recycle facility, so that I can specify which ones I should see.
 As a drug_user, I want to be able to figure my zip_code code and receive a list of nearby recycling adeptness, so that I can decide which ones I should study.
 As a user, I want to be able to record my energy code and arrive a list of nearby recycling facilities, so that I can settle which ones I should think.
 As a user, I want to be able to accede my slide_fastener code and bring a list of nearby recycling facilities, so that I can determine which ones I should regard.
 As a user, I want to be able to insert my zip code and experience a list of nearby recycling facilities, so that I can determine which ones I should view.
 
-Input phrase:As a user, I want to be able to get the hours of each recycling facility, so that I can arrange drop-offs on my off days or during after-work hours.
-As a exploiter, I desire to be able to become the hour of each recycling adeptness, so that I can stage cliff-offs on my off day or during after-employment hour.
-As a drug_user, I want to be able to receive the hours of each recycling facility, so that I can format drop_curtain-offs on my off sidereal_day or during after-study hours.
+Input phrase: As a user, I want to be able to get the hours of each recycling facility, so that I can arrange drop-offs on my off days or during after-work hours.
+As a exploiter, I desire to be able to become the hours of each recycling adeptness, so that I can stage cliff-offs on my off sidereal_day or during after-employment hours.
+As a drug_user, I want to be able to receive the hours of each recycling facility, so that I can format drop_curtain-offs on my off days or during after-study hours.
 As a user, I want to be able to arrive the hours of each recycling facility, so that I can dress drop-offs on my off days or during after-workplace hours.
 As a user, I want to be able to bring the hours of each recycling facility, so that I can arrange drop-offs on my off days or during after-oeuvre hours.
 As a user, I want to be able to experience the hours of each recycling facility, so that I can arrange drop-offs on my off days or during after-work hours.
 
-Input phrase:As a user, I want to have a flexible pick up time, so that I can more conveniently use the website.
+Input phrase: As a user, I want to have a flexible pick up time, so that I can more conveniently use the website.
 As a exploiter, I desire to have a elastic choice up clock_time, so that I can more handily practice the web_site.
 As a drug_user, I want to have a compromising picking up fourth_dimension, so that I can more conveniently use the website.
 As a user, I want to have a flexible cream up meter, so that I can more conveniently use the website.
 As a user, I want to have a flexible woof up prison_term, so that I can more conveniently use the website.
 As a user, I want to have a flexible pick up time, so that I can more conveniently use the website.
 
-Input phrase:As a user, I want to be able to select different types of recyclable waste, so I have and get a list of facilities that accept each type and their opening hours, so that I can find an optimal route and schedule.
-As a exploiter, I desire to be able to choose unlike character of reclaimable thriftlessness, so I have and become a tilt of facility that bear each character and their possibility hour, so that I can detect an optimum path and agenda.
-As a drug_user, I want to be able to select different character of recyclable barren, so I have and receive a list of adeptness that take each type and their orifice hours, so that I can determine an optimal road and schedule.
+Input phrase: As a user, I want to be able to select different types of recyclable waste, so I have and get a list of facilities that accept each type and their opening hours, so that I can find an optimal route and schedule.
+As a exploiter, I desire to be able to choose unlike character of reclaimable thriftlessness, so I have and become a tilt of facility that bear each character and their possibility hours, so that I can detect an optimum path and agenda.
+As a drug_user, I want to be able to select different types of recyclable barren, so I have and receive a list of adeptness that take each type and their orifice hours, so that I can determine an optimal road and schedule.
 As a user, I want to be able to select different types of recyclable waste, so I have and arrive a list of facilities that accept each type and their hatchway hours, so that I can witness an optimal route and schedule.
 As a user, I want to be able to select different types of recyclable waste, so I have and bring a list of facilities that accept each type and their first_step hours, so that I can line_up an optimal route and schedule.
 As a user, I want to be able to select different types of recyclable waste, so I have and experience a list of facilities that accept each type and their opening hours, so that I can discover an optimal route and schedule.
 
-Input phrase:As a user, I want to add donation centers as favorites on my profile, so that I can view them later.
-As a exploiter, I desire to lend contribution center as favorite on my visibility, so that I can see them subsequently.
-As a drug_user, I want to total donation center_field as darling on my profile, so that I can watch them by_and_by.
-As a user, I want to add donation kernel as front-runner on my profile, so that I can view them later.
+Input phrase: As a user, I want to add donation centers as favorites on my profile, so that I can view them later.
+As a exploiter, I desire to lend contribution center_field as darling on my visibility, so that I can see them subsequently.
+As a drug_user, I want to total donation kernel as front-runner on my profile, so that I can watch them by_and_by.
 As a user, I want to add donation plaza as favorites on my profile, so that I can view them later.
 As a user, I want to add donation centers as favorites on my profile, so that I can view them later.
+As a user, I want to add donation centers as favorites on my profile, so that I can view them later.
 
-Input phrase:As a user, I want to be able to give my email ID, so that I can receive notifications for new events as they are posted.
-As a exploiter, I desire to be able to yield my electronic_mail idaho, so that I can pick_up presentment for fresh event as they are post.
-As a drug_user, I want to be able to hold my email ID, so that I can experience telling for raw consequence as they are station.
-As a user, I want to be able to render my email ID, so that I can welcome notification for newfangled events as they are stake.
+Input phrase: As a user, I want to be able to give my email ID, so that I can receive notifications for new events as they are posted.
+As a exploiter, I desire to be able to yield my electronic_mail idaho, so that I can pick_up presentment for fresh consequence as they are post.
+As a drug_user, I want to be able to hold my email ID, so that I can experience telling for raw events as they are station.
+As a user, I want to be able to render my email ID, so that I can welcome notifications for newfangled events as they are stake.
 As a user, I want to be able to impart my email ID, so that I can meet notifications for modern events as they are mail.
 As a user, I want to be able to establish my email ID, so that I can get notifications for new events as they are posted.
 
-Input phrase:As a user, I want to be able to view a map display of the public recycling bins around my area.
-As a exploiter, I desire to be able to see a function display of the public recycling bin about my sphere.
-As a drug_user, I want to be able to watch a map display of the public recycling bank_identification_number approximately my area.
+Input phrase: As a user, I want to be able to view a map display of the public recycling bins around my area.
+As a exploiter, I desire to be able to see a function display of the public recycling bank_identification_number about my sphere.
+As a drug_user, I want to be able to watch a map display of the public recycling bins approximately my area.
 As a user, I want to be able to view a map display of the public recycling bins round my area.
 As a user, I want to be able to view a map display of the public recycling bins around my area.
 As a user, I want to be able to view a map display of the public recycling bins around my area.
 
-Input phrase:As a user, I want to be able to view a map display of the special waste drop off sites around my area.
-As a exploiter, I desire to be able to see a function display of the particular thriftlessness sink off site about my sphere.
-As a drug_user, I want to be able to watch a map display of the especial barren fell off web_site approximately my area.
+Input phrase: As a user, I want to be able to view a map display of the special waste drop off sites around my area.
+As a exploiter, I desire to be able to see a function display of the particular thriftlessness sink off web_site about my sphere.
+As a drug_user, I want to be able to watch a map display of the especial barren fell off sites approximately my area.
 As a user, I want to be able to view a map display of the limited waste spend off sites round my area.
 As a user, I want to be able to view a map display of the extra waste flatten off sites around my area.
 As a user, I want to be able to view a map display of the special waste dangle off sites around my area.
 
-Input phrase:As a user, I want to be able to view the safe disposal events currently being organised around my area.
-As a exploiter, I desire to be able to see the dependable administration event presently being organize about my sphere.
-As a drug_user, I want to be able to watch the safe disposal consequence currently being form approximately my area.
+Input phrase: As a user, I want to be able to view the safe disposal events currently being organised around my area.
+As a exploiter, I desire to be able to see the dependable administration consequence presently being organize about my sphere.
+As a drug_user, I want to be able to watch the safe disposal events currently being form approximately my area.
 As a user, I want to be able to view the safe disposal events currently being unionize round my area.
 As a user, I want to be able to view the safe disposal events currently being mastermind around my area.
 As a user, I want to be able to view the safe disposal events currently being organised around my area.
 
-Input phrase:As a user, I want to choose a flexible pick up time, so that I can more conveniently use the website.
+Input phrase: As a user, I want to choose a flexible pick up time, so that I can more conveniently use the website.
 As a exploiter, I desire to choose a elastic choice up clock_time, so that I can more handily practice the web_site.
 As a drug_user, I want to choose a compromising picking up fourth_dimension, so that I can more conveniently use the website.
 As a user, I want to choose a flexible cream up meter, so that I can more conveniently use the website.
 As a user, I want to choose a flexible woof up prison_term, so that I can more conveniently use the website.
 As a user, I want to choose a flexible pick up time, so that I can more conveniently use the website.
 
-Input phrase:As a user, I want to view user documentation for the website, so that I know how to use the web app.
+Input phrase: As a user, I want to view user documentation for the website, so that I know how to use the web app.
 As a exploiter, I desire to see exploiter software_documentation for the vane_site, so that I acknowledge how to practice the vane app.
 As a drug_drug_user, I want to watch drug_drug_user documentation for the networksite, so that I sleep_together how to use the network app.
 As a user, I want to view user documentation for the world_wide_website, so that I know how to use the world_wide_web app.
 As a user, I want to view user documentation for the website, so that I know how to use the web app.
 As a user, I want to view user documentation for the website, so that I know how to use the web app.
 
-Input phrase:As a user, I want to get feedback when I enter an invalid zip code.
+Input phrase: As a user, I want to get feedback when I enter an invalid zip code.
 As a exploiter, I desire to become feedback when I enroll an invalid nothing code.
 As a drug_user, I want to receive feedback when I figure an invalid zip_code code.
 As a user, I want to arrive feedback when I record an invalid energy code.
 As a user, I want to bring feedback when I accede an invalid slide_fastener code.
 As a user, I want to experience feedback when I insert an invalid zip code.
 
-Input phrase:As a user, I want to be able to create an acocunt, so that I can create my own profile.
+Input phrase: As a user, I want to be able to create an acocunt, so that I can create my own profile.
 As a exploiter, I desire to be able to make an acocunt, so that I can make my own visibility.
 As a drug_user, I want to be able to produce an acocunt, so that I can produce my own profile.
 As a user, I want to be able to create an acocunt, so that I can create my own profile.
 As a user, I want to be able to create an acocunt, so that I can create my own profile.
 As a user, I want to be able to create an acocunt, so that I can create my own profile.
 
-Input phrase:As an admin, I want to be able to add or remove recycling facilities' information, so that users get the most recent information.
-As an admin, I desire to be able to lend or become_rid_of recycle facility' data, so that user become the most late data.
-As an admin, I want to be able to total or take_out recycling adeptness' information, so that exploiter receive the most recent information.
-As an admin, I want to be able to add or absent recycling facilities' information, so that drug_user arrive the most recent information.
+Input phrase: As an admin, I want to be able to add or remove recycling facilities' information, so that users get the most recent information.
+As an admin, I desire to be able to lend or become_rid_of recycle facility' data, so that exploiter become the most late data.
+As an admin, I want to be able to total or take_out recycling adeptness' information, so that drug_user receive the most recent information.
+As an admin, I want to be able to add or absent recycling facilities' information, so that users arrive the most recent information.
 As an admin, I want to be able to add or murder recycling facilities' information, so that users bring the most recent information.
 As an admin, I want to be able to add or remove recycling facilities' information, so that users experience the most recent information.
 
-Input phrase:As an admin, I want to be able to read users' feedback and complaints, so that we can add more features and keep improving the service we provide to them.
-As an admin, I desire to be able to take user' feedback and ailment, so that we can lend more feature and continue better the military_service we supply to them.
-As an admin, I want to be able to learn exploiter' feedback and complaint, so that we can total more feature_of_speech and prevent improving the avail we put_up to them.
-As an admin, I want to be able to understand drug_user' feedback and charge, so that we can add more features and observe improving the servicing we leave to them.
+Input phrase: As an admin, I want to be able to read users' feedback and complaints, so that we can add more features and keep improving the service we provide to them.
+As an admin, I desire to be able to take exploiter' feedback and ailment, so that we can lend more feature_of_speech and continue better the military_service we supply to them.
+As an admin, I want to be able to learn drug_user' feedback and charge, so that we can total more features and prevent improving the avail we put_up to them.
+As an admin, I want to be able to understand users' feedback and complaints, so that we can add more features and observe improving the servicing we leave to them.
 As an admin, I want to be able to read users' feedback and complaints, so that we can add more features and retain improving the serve we provide to them.
 As an admin, I want to be able to read users' feedback and complaints, so that we can add more features and sustain improving the overhaul we provide to them.
 
-Input phrase:As a user, I want to be able to check transaction history and keep a record of it, so that I can go back when needed.
+Input phrase: As a user, I want to be able to check transaction history and keep a record of it, so that I can go back when needed.
 As a exploiter, I desire to be able to see transaction history and continue a phonograph_record of it, so that I can travel back when necessitate.
 As a drug_user, I want to be able to control transaction history and prevent a criminal_record of it, so that I can become back when want.
 As a user, I want to be able to match transaction history and observe a record of it, so that I can run back when need.
 As a user, I want to be able to discipline transaction history and retain a record of it, so that I can proceed back when needed.
 As a user, I want to be able to determine transaction history and sustain a record of it, so that I can sound back when needed.
 
-Input phrase:As a user, I want to have a great UI and UX from the sites, so that I have a pleasant experience when navigating through them.
-As a exploiter, I desire to have a bang-up UI and UX from the site, so that I have a pleasant experience when voyage through them.
-As a drug_user, I want to have a capital UI and UX from the web_site, so that I have a pleasant experience when navigate through them.
+Input phrase: As a user, I want to have a great UI and UX from the sites, so that I have a pleasant experience when navigating through them.
+As a exploiter, I desire to have a bang-up UI and UX from the web_site, so that I have a pleasant experience when voyage through them.
+As a drug_user, I want to have a capital UI and UX from the sites, so that I have a pleasant experience when navigate through them.
 As a user, I want to have a big UI and UX from the sites, so that I have a pleasant experience when navigating through them.
 As a user, I want to have a great UI and UX from the sites, so that I have a pleasant experience when navigating through them.
 As a user, I want to have a great UI and UX from the sites, so that I have a pleasant experience when navigating through them.
 
-Input phrase:As a user, I want to be able to access the site and do all the other stuffs on all of my electronic devices.
-As a exploiter, I desire to be able to access the web_site and do all the other material on all of my electronic device.
-As a drug_user, I want to be able to access the site and do all the other stuff on all of my electronic devices.
+Input phrase: As a user, I want to be able to access the site and do all the other stuffs on all of my electronic devices.
+As a exploiter, I desire to be able to access the web_site and do all the other material on all of my electronic devices.
+As a drug_user, I want to be able to access the site and do all the other stuffs on all of my electronic devices.
 As a user, I want to be able to access the site and do all the other stuffs on all of my electronic devices.
 As a user, I want to be able to access the site and do all the other stuffs on all of my electronic devices.
 As a user, I want to be able to access the site and do all the other stuffs on all of my electronic devices.
 
-Input phrase:As an admin, I want to be able to block specific users based on IP address, so that I can prevent spamming on the websites.
-As an admin, I desire to be able to barricade specific user establish on information_science savoir-faire, so that I can prevent spamming on the web_site.
-As an admin, I want to be able to obstruct specific exploiter base on IP address, so that I can prevent spamming on the websites.
-As an admin, I want to be able to stop specific drug_user free-base on IP address, so that I can prevent spamming on the websites.
+Input phrase: As an admin, I want to be able to block specific users based on IP address, so that I can prevent spamming on the websites.
+As an admin, I desire to be able to barricade specific exploiter establish on information_science savoir-faire, so that I can prevent spamming on the web_site.
+As an admin, I want to be able to obstruct specific drug_user base on IP address, so that I can prevent spamming on the websites.
+As an admin, I want to be able to stop specific users free-base on IP address, so that I can prevent spamming on the websites.
 As an admin, I want to be able to jam specific users based on IP address, so that I can prevent spamming on the websites.
 As an admin, I want to be able to stuff specific users based on IP address, so that I can prevent spamming on the websites.
 
-Input phrase:As an admin, I want to view a dashboard that monitors all the sites' statuses, so that I can have a sense of what people are doing on our sites and know the service status.
-As an admin, I desire to see a splashboard that monitor all the site' condition, so that I can have a common_sense of what citizenry are doing on our site and acknowledge the military_service condition.
-As an admin, I want to watch a dashboard that monitors all the web_site' condition, so that I can have a sense of what multitude are doing on our web_site and sleep_together the avail status.
+Input phrase: As an admin, I want to view a dashboard that monitors all the sites' statuses, so that I can have a sense of what people are doing on our sites and know the service status.
+As an admin, I desire to see a splashboard that monitors all the web_site' condition, so that I can have a common_sense of what citizenry are doing on our web_site and acknowledge the military_service condition.
+As an admin, I want to watch a dashboard that monitors all the sites' condition, so that I can have a sense of what multitude are doing on our sites and sleep_together the avail status.
 As an admin, I want to view a dashboard that monitors all the sites' statuses, so that I can have a sense of what people are doing on our sites and know the servicing status.
 As an admin, I want to view a dashboard that monitors all the sites' statuses, so that I can have a sense of what people are doing on our sites and know the serve status.
 As an admin, I want to view a dashboard that monitors all the sites' statuses, so that I can have a sense of what people are doing on our sites and know the overhaul status.
 
-Input phrase:As an admin, I want to have all data encrypted, so that important information will not be stolen during a server breach or an attack.
+Input phrase: As an admin, I want to have all data encrypted, so that important information will not be stolen during a server breach or an attack.
 As an admin, I desire to have all datum code, so that significant data will not be steal during a waiter rupture or an fire.
 As an admin, I want to have all data encrypted, so that crucial information will not be stolen during a server breach or an approach.
 As an admin, I want to have all data encrypted, so that authoritative information will not be stolen during a server breach or an attack.
 As an admin, I want to have all data encrypted, so that important information will not be stolen during a server breach or an attack.
 As an admin, I want to have all data encrypted, so that important information will not be stolen during a server breach or an attack.
 
-Input phrase:As an executive, I want to have full access to data related to my company, so that I can have a sense of my company's performance.
+Input phrase: As an executive, I want to have full access to data related to my company, so that I can have a sense of my company's performance.
 As an administrator, I desire to have entire entree to datum associate to my caller, so that I can have a common_sense of my caller's operation.
 As an executive, I want to have broad access to data refer to my party, so that I can have a sense of my party's performance.
 As an executive, I want to have wide access to data relate to my ship's_ship's_company, so that I can have a sense of my ship's_ship's_company's performance.
 As an executive, I want to have full access to data related to my company, so that I can have a sense of my company's performance.
 As an executive, I want to have full access to data related to my company, so that I can have a sense of my company's performance.
 
-Input phrase:As an employee, I want to access the route planning system during work, so that I can be guided through the neighbourhood.
+Input phrase: As an employee, I want to access the route planning system during work, so that I can be guided through the neighbourhood.
 As an employee, I desire to access the path planning arrangement during employment, so that I can be steer through the vicinity.
 As an employee, I want to access the road planning organization during study, so that I can be lead through the neighborhood.
 As an employee, I want to access the route planning system during workplace, so that I can be guide through the neighbourhood.
 As an employee, I want to access the route planning system during oeuvre, so that I can be guided through the neighbourhood.
 As an employee, I want to access the route planning system during work, so that I can be guided through the neighbourhood.
 
-Input phrase:As an employee from the HR department, I want to have access to the full information of all employees working for this business.
-As an employee from the hour department, I desire to have entree to the entire data of all employee work for this commercial_enterprise.
+Input phrase: As an employee from the HR department, I want to have access to the full information of all employees working for this business.
+As an employee from the hour department, I desire to have entree to the entire data of all employees work for this commercial_enterprise.
 As an employee from the HR department, I want to have access to the broad information of all employees function for this occupation.
 As an employee from the HR department, I want to have access to the wide information of all employees exercise for this clientele.
 As an employee from the HR department, I want to have access to the full information of all employees make for this business.
 As an employee from the HR department, I want to have access to the full information of all employees bring for this business.
 
-Input phrase:As a developer, I want to access an API from the website, so that I can integrate it and implement certain features in my own iOS application.
-As a developer, I desire to access an API from the web_site, so that I can desegregate it and enforce sealed feature in my own iOS lotion.
-As a developer, I want to access an API from the website, so that I can integrate it and follow_through certain feature_of_speech in my own iOS application.
+Input phrase: As a developer, I want to access an API from the website, so that I can integrate it and implement certain features in my own iOS application.
+As a developer, I desire to access an API from the web_site, so that I can desegregate it and enforce sealed feature_of_speech in my own iOS lotion.
+As a developer, I want to access an API from the website, so that I can integrate it and follow_through certain features in my own iOS application.
 As a developer, I want to access an API from the website, so that I can integrate it and implement certain features in my own iOS application.
 As a developer, I want to access an API from the website, so that I can integrate it and implement certain features in my own iOS application.
 As a developer, I want to access an API from the website, so that I can integrate it and implement certain features in my own iOS application.
 
-Input phrase:As a user, I want to be able to receive tempting rewards, so that I have a reason to use the website.
+Input phrase: As a user, I want to be able to receive tempting rewards, so that I have a reason to use the website.
 As a exploiter, I desire to be able to pick_up alluring wages, so that I have a rationality to practice the web_site.
-As a drug_user, I want to be able to experience tantalizing reward, so that I have a cause to use the website.
-As a user, I want to be able to welcome tempting advantage, so that I have a reason to use the website.
+As a drug_user, I want to be able to experience tantalizing advantage, so that I have a cause to use the website.
+As a user, I want to be able to welcome tempting rewards, so that I have a reason to use the website.
 As a user, I want to be able to meet tempting rewards, so that I have a reason to use the website.
 As a user, I want to be able to get tempting rewards, so that I have a reason to use the website.
 
-Input phrase:As a user, I want to have my personal information kept securely in the database of the website, so that I will not suffer from identity theft or telephone harassment.
+Input phrase: As a user, I want to have my personal information kept securely in the database of the website, so that I will not suffer from identity theft or telephone harassment.
 As a exploiter, I desire to have my personal data keep securely in the database of the web_site, so that I will not digest from identity larceny or telephone harassment.
 As a drug_user, I want to have my personal information continue securely in the database of the website, so that I will not hurt from identity theft or telephone harassment.
 As a user, I want to have my personal information prevent securely in the database of the website, so that I will not suffer from identity theft or telephone harassment.
 As a user, I want to have my personal information observe securely in the database of the website, so that I will not suffer from identity theft or telephone harassment.
 As a user, I want to have my personal information retain securely in the database of the website, so that I will not suffer from identity theft or telephone harassment.
 
-Input phrase:As an admin, I want to handle all users' activities, so that I can manage more efficiently.
-As an admin, I desire to pull_off all user' activity, so that I can pull_off more efficiently.
-As an admin, I want to treat all exploiter' action, so that I can cope more efficiently.
-As an admin, I want to cover all drug_user' bodily_process, so that I can oversee more efficiently.
+Input phrase: As an admin, I want to handle all users' activities, so that I can manage more efficiently.
+As an admin, I desire to pull_off all exploiter' activity, so that I can pull_off more efficiently.
+As an admin, I want to treat all drug_user' action, so that I can cope more efficiently.
+As an admin, I want to cover all users' bodily_process, so that I can oversee more efficiently.
 As an admin, I want to wield all users' natural_process, so that I can wangle more efficiently.
 As an admin, I want to handle all users' activeness, so that I can do more efficiently.
 
-Input phrase:As a company, I want to have a website that is easy to use, so that I can upload or delete stuff step by step.
+Input phrase: As a company, I want to have a website that is easy to use, so that I can upload or delete stuff step by step.
 As a caller, I desire to have a web_site that is comfortable to practice, so that I can upload or erase material measure by measure.
 As a party, I want to have a website that is easy to use, so that I can upload or edit stuff footfootstep by footfootstep.
 As a ship's_company, I want to have a website that is easy to use, so that I can upload or delete stuff gradation by gradation.
 As a company, I want to have a website that is easy to use, so that I can upload or delete stuff footfall by footfall.
 As a company, I want to have a website that is easy to use, so that I can upload or delete stuff tone by tone.
 
-Input phrase:As an employee, I want to get quick notifications, so that I can process cases the first time.
-As an employee, I desire to become flying presentment, so that I can action case the inaugural clock_time.
-As an employee, I want to receive agile telling, so that I can march event the beginning fourth_dimension.
-As an employee, I want to arrive immediate notification, so that I can work lawsuit the first meter.
-As an employee, I want to bring quick notifications, so that I can serve subject the first prison_term.
-As an employee, I want to experience quick notifications, so that I can process character the first time.
+Input phrase: As an employee, I want to get quick notifications, so that I can process cases the first time.
+As an employee, I desire to become flying presentment, so that I can action event the inaugural clock_time.
+As an employee, I want to receive agile telling, so that I can march lawsuit the beginning fourth_dimension.
+As an employee, I want to arrive immediate notifications, so that I can work subject the first meter.
+As an employee, I want to bring quick notifications, so that I can serve character the first prison_term.
+As an employee, I want to experience quick notifications, so that I can process font the first time.
 
-Input phrase:As a company accountant, I want to view all available activity fees online, so that I can easily create a bill statement.
-As a caller accountant, I desire to see all available action fee online, so that I can well make a circular argument.
+Input phrase: As a company accountant, I want to view all available activity fees online, so that I can easily create a bill statement.
+As a caller accountant, I desire to see all available action fees online, so that I can well make a circular argument.
 As a party accountant, I want to watch all available bodily_process fees online, so that I can easily produce a poster affirmation.
 As a ship's_company accountant, I want to view all available natural_process fees online, so that I can easily create a beak instruction.
 As a company accountant, I want to view all available activeness fees online, so that I can easily create a bill statement.
 As a company accountant, I want to view all available activity fees online, so that I can easily create a bill statement.
 
-Input phrase:As a developer, I want to use bootstrap in the process of developing, so that I can easily design my website.
+Input phrase: As a developer, I want to use bootstrap in the process of developing, so that I can easily design my website.
 As a developer, I desire to practice bootstrap in the procedure of develop, so that I can well plan my web_site.
 As a developer, I want to use bootstrap in the summons of evolve, so that I can easily design my website.
 As a developer, I want to use bootstrap in the process of grow, so that I can easily design my website.
 As a developer, I want to use bootstrap in the process of originate, so that I can easily design my website.
 As a developer, I want to use bootstrap in the process of build_up, so that I can easily design my website.
 
-Input phrase:As a developer, I want to attend some UI/UX lessons, so that I can develop an awesome and beautiful features website.
-As a evolveer, I desire to serve some UI/UX lesson, so that I can evolve an amazing and beautiful feature web_site.
-As a grower, I want to attend some UI/UX example, so that I can grow an awesome and beautiful feature_of_speech website.
-As a originateer, I want to attend some UI/UX moral, so that I can originate an awesome and beautiful features website.
+Input phrase: As a developer, I want to attend some UI/UX lessons, so that I can develop an awesome and beautiful features website.
+As a evolveer, I desire to serve some UI/UX example, so that I can evolve an amazing and beautiful feature_of_speech web_site.
+As a grower, I want to attend some UI/UX moral, so that I can grow an awesome and beautiful features website.
+As a originateer, I want to attend some UI/UX lessons, so that I can originate an awesome and beautiful features website.
 As a build_uper, I want to attend some UI/UX lessons, so that I can build_up an awesome and beautiful features website.
 As a explicateer, I want to attend some UI/UX lessons, so that I can explicate an awesome and beautiful features website.
 
-Input phrase:As a user, I want to view all locations of recycling centers on a map, so that I can check which routes to take to drop off waste.
-As a exploiter, I desire to see all location of recycle center on a function, so that I can see which path to lead to sink off thriftlessness.
-As a drug_user, I want to watch all placement of recycling center_field on a map, so that I can control which road to assume to fell off barren.
-As a user, I want to view all localization of recycling kernel on a map, so that I can match which routes to bring to spend off waste.
-As a user, I want to view all locations of recycling plaza on a map, so that I can discipline which routes to choose to flatten off waste.
+Input phrase: As a user, I want to view all locations of recycling centers on a map, so that I can check which routes to take to drop off waste.
+As a exploiter, I desire to see all placement of recycle center_field on a function, so that I can see which path to lead to sink off thriftlessness.
+As a drug_user, I want to watch all localization of recycling kernel on a map, so that I can control which road to assume to fell off barren.
+As a user, I want to view all locations of recycling plaza on a map, so that I can match which routes to bring to spend off waste.
+As a user, I want to view all locations of recycling centers on a map, so that I can discipline which routes to choose to flatten off waste.
 As a user, I want to view all locations of recycling centers on a map, so that I can determine which routes to accept to dangle off waste.
 
-Input phrase:As a user, I want to upload my week's schedule, so that I can get recommendations for recycling centers that best fit my availability.
-As a exploiter, I desire to upload my workweek's agenda, so that I can become recommendation for recycle center that better suit my handiness.
-As a drug_user, I want to upload my week's schedule, so that I can receive recommendations for recycling center_field that good meet my availability.
-As a user, I want to upload my week's schedule, so that I can arrive recommendations for recycling kernel that full match my availability.
-As a user, I want to upload my week's schedule, so that I can bring recommendations for recycling plaza that estimable equip my availability.
+Input phrase: As a user, I want to upload my week's schedule, so that I can get recommendations for recycling centers that best fit my availability.
+As a exploiter, I desire to upload my workweek's agenda, so that I can become recommendations for recycle center_field that better suit my handiness.
+As a drug_user, I want to upload my week's schedule, so that I can receive recommendations for recycling kernel that good meet my availability.
+As a user, I want to upload my week's schedule, so that I can arrive recommendations for recycling plaza that full match my availability.
+As a user, I want to upload my week's schedule, so that I can bring recommendations for recycling centers that estimable equip my availability.
 As a user, I want to upload my week's schedule, so that I can experience recommendations for recycling centers that beneficial fit my availability.
 
-Input phrase:As a user, I want to link my email account to my profile, so that I can get a temporary password in case I forget my own one.
+Input phrase: As a user, I want to link my email account to my profile, so that I can get a temporary password in case I forget my own one.
 As a exploiter, I desire to associate my electronic_mail report to my visibility, so that I can become a impermanent password in event I forbecome my own one.
 As a drug_user, I want to connect my email account to my profile, so that I can receive a irregular password in lawsuit I forreceive my own one.
 As a user, I want to yoke my email account to my profile, so that I can arrive a temporary password in subject I forarrive my own one.
 As a user, I want to link my email account to my profile, so that I can bring a temporary password in character I forbring my own one.
 As a user, I want to link my email account to my profile, so that I can experience a temporary password in font I forexperience my own one.
 
-Input phrase:As a user, I want to contact the administrators, so that I can give feedback or ask for help.
-As a exploiter, I desire to reach the administrator, so that I can yield feedback or necessitate for aid.
+Input phrase: As a user, I want to contact the administrators, so that I can give feedback or ask for help.
+As a exploiter, I desire to reach the administrators, so that I can yield feedback or necessitate for aid.
 As a drug_user, I want to touch the administrators, so that I can hold feedback or ask for assistant.
 As a user, I want to contact the administrators, so that I can render feedback or ask for avail.
 As a user, I want to contact the administrators, so that I can impart feedback or ask for help.
 As a user, I want to contact the administrators, so that I can establish feedback or ask for help.
 
-Input phrase:As an admin, I want to add recycling center information, so that I can keep the database up-to-date over time.
+Input phrase: As an admin, I want to add recycling center information, so that I can keep the database up-to-date over time.
 As an admin, I desire to lend recycling center_field data, so that I can continue the database up-to-date over clock_time.
 As an admin, I want to total recycling kernel information, so that I can prevent the database up-to-date over fourth_dimension.
 As an admin, I want to add recycling plaza information, so that I can observe the database up-to-date over meter.
 As an admin, I want to add recycling center information, so that I can retain the database up-to-date over prison_term.
 As an admin, I want to add recycling center information, so that I can sustain the database up-to-date over time.
 
-Input phrase:As an admin, I want to view user error logs, so that I can fix or review any issues that are being faced by users of the system.
-As an admin, I desire to see exploiter mistake log, so that I can repair or resee any issue that are being confront by exploiters of the arrangement.
-As an admin, I want to watch drug_user erroneousness logs, so that I can fasten or rewatch any topic that are being front by drug_exploiter of the organization.
-As an admin, I want to view user error logs, so that I can specify or review any return that are being face by drug_user of the system.
-As an admin, I want to view user error logs, so that I can cook or review any consequence that are being faced by users of the system.
-As an admin, I want to view user error logs, so that I can pay_back or review any offspring that are being faced by users of the system.
+Input phrase: As an admin, I want to view user error logs, so that I can fix or review any issues that are being faced by users of the system.
+As an admin, I desire to see exploiter mistake logs, so that I can repair or resee any topic that are being confront by exploiters of the arrangement.
+As an admin, I want to watch drug_user erroneousness logs, so that I can fasten or rewatch any return that are being front by drug_drug_user of the organization.
+As an admin, I want to view user error logs, so that I can specify or review any consequence that are being face by users of the system.
+As an admin, I want to view user error logs, so that I can cook or review any offspring that are being faced by users of the system.
+As an admin, I want to view user error logs, so that I can pay_back or review any emergence that are being faced by users of the system.
 
-Input phrase:As an admin, I want to onboard recycling centers on the platform, so that I can increase information accuracy.
-As an admin, I desire to onboard recycle center on the chopine, so that I can increase data accuracy.
-As an admin, I want to onboard recycling center_field on the platform, so that I can increase information accuracy.
+Input phrase: As an admin, I want to onboard recycling centers on the platform, so that I can increase information accuracy.
+As an admin, I desire to onboard recycle center_field on the chopine, so that I can increase data accuracy.
 As an admin, I want to onboard recycling kernel on the platform, so that I can increase information accuracy.
 As an admin, I want to onboard recycling plaza on the platform, so that I can increase information accuracy.
 As an admin, I want to onboard recycling centers on the platform, so that I can increase information accuracy.
+As an admin, I want to onboard recycling centers on the platform, so that I can increase information accuracy.
 
-Input phrase:As a superuser, I want to update the recycling center information, so that I can provide the latest information about the recycling center.
+Input phrase: As a superuser, I want to update the recycling center information, so that I can provide the latest information about the recycling center.
 As a superuser, I desire to update the recycling center_field_field data, so that I can supply the up-to-the-minute data about the recycling center_field_field.
 As a superuser, I want to update the recycling kernel information, so that I can put_up the late information about the recycling kernel.
 As a superuser, I want to update the recycling plaza information, so that I can leave the belated information about the recycling plaza.
 As a superuser, I want to update the recycling center information, so that I can provide the former information about the recycling center.
 As a superuser, I want to update the recycling center information, so that I can provide the latest information about the recycling center.
 
-Input phrase:As a superuser, I want to view users' stats, so that I can view in real-time how many users have visited my recycling center information and their recyclable waste.
-As a superuser, I desire to see user' stats, so that I can see in actual-clock_time how many user have visit my recycling center_field data and their reclaimable thriftlessness.
-As a superuser, I want to watch exploiter' stats, so that I can watch in substantial-fourth_dimension how many exploiter have travel_to my recycling kernel information and their recyclable barren.
-As a superuser, I want to view drug_user' stats, so that I can view in veridical-meter how many drug_user have inflict my recycling plaza information and their recyclable waste.
+Input phrase: As a superuser, I want to view users' stats, so that I can view in real-time how many users have visited my recycling center information and their recyclable waste.
+As a superuser, I desire to see exploiter' stats, so that I can see in actual-clock_time how many exploiter have visit my recycling center_field data and their reclaimable thriftlessness.
+As a superuser, I want to watch drug_user' stats, so that I can watch in substantial-fourth_dimension how many drug_user have travel_to my recycling kernel information and their recyclable barren.
+As a superuser, I want to view users' stats, so that I can view in veridical-meter how many users have inflict my recycling plaza information and their recyclable waste.
 As a superuser, I want to view users' stats, so that I can view in real-prison_term how many users have chew_the_fat my recycling center information and their recyclable waste.
 As a superuser, I want to view users' stats, so that I can view in real-time how many users have visited my recycling center information and their recyclable waste.
 
-Input phrase:As a superuser, I want to reply to user questions, so that I can answer any questions about my recycling center.
-As a superexploiter, I desire to suffice to exploiter question, so that I can suffice any question about my recycling center_field.
-As a superdrug_user, I want to reply to drug_user doubt, so that I can answer any doubt about my recycling kernel.
-As a superuser, I want to reply to user motion, so that I can answer any motion about my recycling plaza.
+Input phrase: As a superuser, I want to reply to user questions, so that I can answer any questions about my recycling center.
+As a superexploiter, I desire to suffice to exploiter doubt, so that I can suffice any doubt about my recycling center_field.
+As a superdrug_user, I want to reply to drug_user motion, so that I can answer any motion about my recycling kernel.
+As a superuser, I want to reply to user questions, so that I can answer any questions about my recycling plaza.
 As a superuser, I want to reply to user questions, so that I can answer any questions about my recycling center.
 As a superuser, I want to reply to user questions, so that I can answer any questions about my recycling center.
 
-Input phrase:As an admin, I want to be able to have a dashboard that shows usage stats and locations, so that I can identify the neighbourhoods with the largest number of drop-offs and to try getting more facilities involved.
-As an admin, I desire to be able to have a splashboard that show use stats and location, so that I can name the vicinity with the large act of cliff-offs and to test get more facility involve.
-As an admin, I want to be able to have a dashboard that prove custom stats and placement, so that I can identify the neighborhood with the bombastic phone_number of drop_curtain-offs and to judge become more adeptness imply.
-As an admin, I want to be able to have a dashboard that testify usage stats and localization, so that I can identify the neighbourhoods with the big numeral of drop-offs and to sample receive more facilities necessitate.
-As an admin, I want to be able to have a dashboard that picture usage stats and locations, so that I can identify the neighbourhoods with the largest issue of drop-offs and to hear arrive more facilities involved.
-As an admin, I want to be able to have a dashboard that express usage stats and locations, so that I can identify the neighbourhoods with the largest number of drop-offs and to try_on bring more facilities involved.
+Input phrase: As an admin, I want to be able to have a dashboard that shows usage stats and locations, so that I can identify the neighbourhoods with the largest number of drop-offs and to try getting more facilities involved.
+As an admin, I desire to be able to have a splashboard that prove use stats and placement, so that I can name the vicinity with the large act of cliff-offs and to test get more facility involve.
+As an admin, I want to be able to have a dashboard that testify custom stats and localization, so that I can identify the neighborhood with the bombastic phone_number of drop_curtain-offs and to judge become more adeptness imply.
+As an admin, I want to be able to have a dashboard that picture usage stats and locations, so that I can identify the neighbourhoods with the big numeral of drop-offs and to sample receive more facilities necessitate.
+As an admin, I want to be able to have a dashboard that express usage stats and locations, so that I can identify the neighbourhoods with the largest issue of drop-offs and to hear arrive more facilities involved.
+As an admin, I want to be able to have a dashboard that indicate usage stats and locations, so that I can identify the neighbourhoods with the largest number of drop-offs and to try_on bring more facilities involved.
 
-Input phrase:As an admin, I want to be able to communicate directly with facilities, so that I can keep them updated about features we have on our website.
-As an admin, I desire to be able to convey immediately with facility, so that I can continue them update about feature we have on our web_site.
-As an admin, I want to be able to commune directly with adeptness, so that I can prevent them updated about feature_of_speech we have on our website.
+Input phrase: As an admin, I want to be able to communicate directly with facilities, so that I can keep them updated about features we have on our website.
+As an admin, I desire to be able to convey immediately with facility, so that I can continue them update about feature_of_speech we have on our web_site.
+As an admin, I want to be able to commune directly with adeptness, so that I can prevent them updated about features we have on our website.
 As an admin, I want to be able to communicate directly with facilities, so that I can observe them updated about features we have on our website.
 As an admin, I want to be able to communicate directly with facilities, so that I can retain them updated about features we have on our website.
 As an admin, I want to be able to communicate directly with facilities, so that I can sustain them updated about features we have on our website.
 
-Input phrase:As a user, I want to be able to browse through the list of facolities and see which ones are environment-friendly, so that I can know for sure my waste is not going to leave a negative ecological footprint.
-As a exploiter, I desire to be able to shop through the tilt of facolities and understand which one are environment-friendly, so that I can acknowledge for certain my thriftlessness is not travel to exit a damaging ecological footprint.
+Input phrase: As a user, I want to be able to browse through the list of facolities and see which ones are environment-friendly, so that I can know for sure my waste is not going to leave a negative ecological footprint.
+As a exploiter, I desire to be able to shop through the tilt of facolities and understand which ones are environment-friendly, so that I can acknowledge for certain my thriftlessness is not travel to exit a damaging ecological footprint.
 As a drug_user, I want to be able to crop through the list of facolities and witness which ones are environment-friendly, so that I can sleep_together for indisputable my barren is not go to entrust a minus ecological footprint.
 As a user, I want to be able to browse through the list of facolities and visualize which ones are environment-friendly, so that I can know for sure my waste is not become to bequeath a negative ecological footprint.
 As a user, I want to be able to browse through the list of facolities and learn which ones are environment-friendly, so that I can know for sure my waste is not run to impart a negative ecological footprint.
 As a user, I want to be able to browse through the list of facolities and watch which ones are environment-friendly, so that I can know for sure my waste is not proceed to forget a negative ecological footprint.
 
-Input phrase:As a recyclingfacility representative, I want to be able to update my information and the type of material I accept, so that I can avoid any miscommunication with users.
-As a recyclingfacility spokesperson, I desire to be able to update my data and the character of fabric I bear, so that I can debar any miscommunication with user.
-As a recyclingfacility congressman, I want to be able to update my information and the type of material I take, so that I can keep_off any miscommunication with exploiter.
-As a recyclingfacility example, I want to be able to update my information and the type of material I accept, so that I can invalidate any miscommunication with drug_user.
+Input phrase: As a recyclingfacility representative, I want to be able to update my information and the type of material I accept, so that I can avoid any miscommunication with users.
+As a recyclingfacility spokesperson, I desire to be able to update my data and the character of fabric I bear, so that I can debar any miscommunication with exploiter.
+As a recyclingfacility congressman, I want to be able to update my information and the type of material I take, so that I can keep_off any miscommunication with drug_user.
+As a recyclingfacility example, I want to be able to update my information and the type of material I accept, so that I can invalidate any miscommunication with users.
 As a recyclingfacility representative, I want to be able to update my information and the type of material I accept, so that I can avoid any miscommunication with users.
 As a recyclingfacility representative, I want to be able to update my information and the type of material I accept, so that I can avoid any miscommunication with users.
 
-Input phrase:As a recyclingfacility representative, I want to have access to user stats and schedules, so that I can adjust my hours and/or upgrade equipment and capacity in order to be able to accomodate larger amounts of recyclable materials.
-As a recyclingfacility spokesperson, I desire to have entree to exploiter stats and agenda, so that I can align my hour and/or promote equipment and capability in ordering to be able to accomodate bigger sum of reclaimable material.
-As a recyclingfacility congressman, I want to have access to drug_user stats and schedule, so that I can adjust my hours and/or upgrade equipment and capacitance in orderliness to be able to accomodate large amount of recyclable fabric.
-As a recyclingfacility example, I want to have access to user stats and schedules, so that I can adjust my hours and/or upgrade equipment and capacity in decree to be able to accomodate bombastic measure of recyclable materials.
+Input phrase: As a recyclingfacility representative, I want to have access to user stats and schedules, so that I can adjust my hours and/or upgrade equipment and capacity in order to be able to accomodate larger amounts of recyclable materials.
+As a recyclingfacility spokesperson, I desire to have entree to exploiter stats and agenda, so that I can align my hours and/or promote equipment and capability in ordering to be able to accomodate bigger sum of reclaimable fabric.
+As a recyclingfacility congressman, I want to have access to drug_user stats and schedules, so that I can adjust my hours and/or upgrade equipment and capacitance in orderliness to be able to accomodate large measure of recyclable materials.
+As a recyclingfacility example, I want to have access to user stats and schedules, so that I can adjust my hours and/or upgrade equipment and capacity in decree to be able to accomodate bombastic amounts of recyclable materials.
 As a recyclingfacility representative, I want to have access to user stats and schedules, so that I can adjust my hours and/or upgrade equipment and capacity in club to be able to accomodate big amounts of recyclable materials.
 As a recyclingfacility representative, I want to have access to user stats and schedules, so that I can adjust my hours and/or upgrade equipment and capacity in holy_order to be able to accomodate larger amounts of recyclable materials.
 
-Input phrase:As a recyclingfacility, I want to be able to communicate directly with the site admin and convey any issues or concerns I have, so that they fix them.
-As a recyclingfacility, I desire to be able to carry immediately with the web_site admin and carry any issue or concern I have, so that they repair them.
-As a recyclingfacility, I want to be able to commune directly with the site admin and impart any topic or business I have, so that they fasten them.
-As a recyclingfacility, I want to be able to communicate directly with the site admin and bring any return or concerns I have, so that they specify them.
-As a recyclingfacility, I want to be able to communicate directly with the site admin and convey any consequence or concerns I have, so that they cook them.
-As a recyclingfacility, I want to be able to communicate directly with the site admin and convey any offspring or concerns I have, so that they pay_back them.
+Input phrase: As a recyclingfacility, I want to be able to communicate directly with the site admin and convey any issues or concerns I have, so that they fix them.
+As a recyclingfacility, I desire to be able to carry immediately with the web_site admin and carry any topic or business I have, so that they repair them.
+As a recyclingfacility, I want to be able to commune directly with the site admin and impart any return or concerns I have, so that they fasten them.
+As a recyclingfacility, I want to be able to communicate directly with the site admin and bring any consequence or concerns I have, so that they specify them.
+As a recyclingfacility, I want to be able to communicate directly with the site admin and convey any offspring or concerns I have, so that they cook them.
+As a recyclingfacility, I want to be able to communicate directly with the site admin and convey any emergence or concerns I have, so that they pay_back them.
 
-Time for the single dataset = 0.7903 seconds = 0.0002 hours
+Time for the single dataset = 0.6427 seconds = 0.0107 minutes = 0.0002 hours

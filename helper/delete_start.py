@@ -14,7 +14,7 @@ def delete_start_func():
             plain-PROMISE_clean was called data_set_23 and put with other dataset, plain-PROMISE_dirty deleted
 
     """
-
+    # since you have to do this particular modification only to this particular file, the file name is hard coded
     f1 = open("plain-PROMISE_dirty.txt", "r")
     f2 = open("plain-PROMISE_clean.txt", "w")
     dirty_line = f1.readline()

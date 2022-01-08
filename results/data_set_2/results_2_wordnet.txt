@@ -1,409 +1,411 @@
 data_set_number:2
 
-Input phrase:As a Public User, I want to Search for Information, so that I can obtain publicly available information concerning properties, County services, processes and other general information.
-As a populace exploiter, I desire to research for data, so that I can receive publicly available data refer property, County service, procedure and other cosmopolitan data.
-As a Public drug_user, I want to Search for Information, so that I can prevail publicly available information concern place, County military_service, process and other general information.
-As a Public User, I want to Search for Information, so that I can obtain publicly available information concerning properties, County avail, summons and other general information.
-As a Public User, I want to Search for Information, so that I can obtain publicly available information concerning properties, County servicing, processes and other general information.
+Input phrase: As a Public User, I want to Search for Information, so that I can obtain publicly available information concerning properties, County services, processes and other general information.
+As a populace exploiter, I desire to research for data, so that I can receive publicly available data refer property, County military_service, procedure and other cosmopolitan data.
+As a Public drug_user, I want to Search for Information, so that I can prevail publicly available information concern place, County avail, process and other general information.
+As a Public User, I want to Search for Information, so that I can obtain publicly available information concerning properties, County servicing, summons and other general information.
 As a Public User, I want to Search for Information, so that I can obtain publicly available information concerning properties, County serve, processes and other general information.
+As a Public User, I want to Search for Information, so that I can obtain publicly available information concerning properties, County overhaul, processes and other general information.
 
-Input phrase:As a ProspectiveApplicant, I want to research requirements and to select a service, so that I can find the relevant service and/or application type to initiate via the online portal.
-As a ProspectiveApplicant, I desire to research requirement and to choose a military_military_service, so that I can detect the relevant military_military_service and/or lotion character to originate via the on-line portal_site.
-As a ProspectiveApplicant, I want to research necessity and to select a avail, so that I can determine the relevant avail and/or application type to broach via the online portal_vein.
-As a ProspectiveApplicant, I want to research prerequisite and to select a servicing, so that I can witness the relevant servicing and/or application type to lead_up via the online portal.
+Input phrase: As a ProspectiveApplicant, I want to research requirements and to select a service, so that I can find the relevant service and/or application type to initiate via the online portal.
+As a ProspectiveApplicant, I desire to research necessity and to choose a military_military_service, so that I can detect the relevant military_military_service and/or lotion character to originate via the on-line portal_site.
+As a ProspectiveApplicant, I want to research prerequisite and to select a avail, so that I can determine the relevant avail and/or application type to broach via the online portal_vein.
+As a ProspectiveApplicant, I want to research requirements and to select a servicing, so that I can witness the relevant servicing and/or application type to lead_up via the online portal.
 As a ProspectiveApplicant, I want to research requirements and to select a serve, so that I can line_up the relevant serve and/or application type to initiate via the online portal.
 As a ProspectiveApplicant, I want to research requirements and to select a overhaul, so that I can discover the relevant overhaul and/or application type to initiate via the online portal.
 
-Input phrase:As an Applicant, I want to Request PreApplication Assistance, so that I can receive a response to a request for a meeting or information that is a result of the preapplication assistance.
+Input phrase: As an Applicant, I want to Request PreApplication Assistance, so that I can receive a response to a request for a meeting or information that is a result of the preapplication assistance.
 As an Applicant, I desire to Request PreApplication aid, so that I can pick_up a reaction to a request for a merging or data that is a consequence of the preapplication aid.
 As an Applicant, I want to Request PreApplication Assistance, so that I can experience a answer to a request for a confluence or information that is a solution of the preapplication assistance.
 As an Applicant, I want to Request PreApplication Assistance, so that I can welcome a reception to a request for a meeting or information that is a resultant_role of the preapplication assistance.
 As an Applicant, I want to Request PreApplication Assistance, so that I can meet a reply to a request for a meeting or information that is a result of the preapplication assistance.
 As an Applicant, I want to Request PreApplication Assistance, so that I can get a response to a request for a meeting or information that is a result of the preapplication assistance.
 
-Input phrase:As a Customer, I want to Create a Customer Portal User Account, so that I can log on to the Customer Portal and perform transactions that first require user authentication.
+Input phrase: As a Customer, I want to Create a Customer Portal User Account, so that I can log on to the Customer Portal and perform transactions that first require user authentication.
 As a Customer, I desire to make a Customer portal_site exploiter history, so that I can log on to the Customer portal_site and do minutes that foremost necessitate exploiter authentication.
-As a Customer, I want to produce a Customer portal_vein drug_drug_user report, so that I can log on to the Customer portal_vein and perform transaction that first ask drug_user authentication.
+As a Customer, I want to produce a Customer portal_vein drug_drug_user report, so that I can log on to the Customer portal_vein and perform transactions that first ask drug_user authentication.
 As a Customer, I want to Create a Customer Portal User explanation, so that I can log on to the Customer Portal and perform transactions that first command user authentication.
 As a Customer, I want to Create a Customer Portal User score, so that I can log on to the Customer Portal and perform transactions that first want user authentication.
 As a Customer, I want to Create a Customer Portal User bill, so that I can log on to the Customer Portal and perform transactions that first require user authentication.
 
-Input phrase:As an Applicant, I want to Submit Application, so that I can provide my information, plans and/or documents to initiate a transaction with the County.
-As an Applicant, I desire to present lotion, so that I can supply my data, plan and/or document to originate a transaction with the County.
-As an Applicant, I want to relegate Application, so that I can put_up my information, design and/or text_file to broach a transaction with the County.
+Input phrase: As an Applicant, I want to Submit Application, so that I can provide my information, plans and/or documents to initiate a transaction with the County.
+As an Applicant, I desire to present lotion, so that I can supply my data, design and/or text_file to originate a transaction with the County.
+As an Applicant, I want to relegate Application, so that I can put_up my information, plans and/or documents to broach a transaction with the County.
 As an Applicant, I want to take Application, so that I can leave my information, plans and/or documents to lead_up a transaction with the County.
 As an Applicant, I want to put_in Application, so that I can provide my information, plans and/or documents to initiate a transaction with the County.
 As an Applicant, I want to render Application, so that I can provide my information, plans and/or documents to initiate a transaction with the County.
 
-Input phrase:As an Applicant, I want to Submit Supporting Documentation, so that I can satisfy documentation requirements for my application.
-As an Applicant, I desire to present support software_software_documentation, so that I can meet software_documentation requirement for my lotion.
-As an Applicant, I want to relegate back Documentation, so that I can satisfy documentation necessity for my application.
-As an Applicant, I want to take hold Documentation, so that I can satisfy documentation prerequisite for my application.
+Input phrase: As an Applicant, I want to Submit Supporting Documentation, so that I can satisfy documentation requirements for my application.
+As an Applicant, I desire to present support software_software_documentation, so that I can meet software_documentation necessity for my lotion.
+As an Applicant, I want to relegate back Documentation, so that I can satisfy documentation prerequisite for my application.
+As an Applicant, I want to take hold Documentation, so that I can satisfy documentation requirements for my application.
 As an Applicant, I want to put_in confirm Documentation, so that I can satisfy documentation requirements for my application.
 As an Applicant, I want to render subscribe Documentation, so that I can satisfy documentation requirements for my application.
 
-Input phrase:As an Applicant, I want to Pay Fee, so that I can satisfy outstanding charge associated with the service requested or received from the County.
+Input phrase: As an Applicant, I want to Pay Fee, so that I can satisfy outstanding charge associated with the service requested or received from the County.
 As an Applicant, I desire to give tip, so that I can meet great care associate with the military_service request or receive from the County.
 As an Applicant, I want to pay_up Fee, so that I can satisfy outstanding mission consort with the avail requested or pick_up from the County.
 As an Applicant, I want to yield Fee, so that I can satisfy outstanding cathexis consociate with the servicing requested or experience from the County.
 As an Applicant, I want to Pay Fee, so that I can satisfy outstanding bang associated with the serve requested or welcome from the County.
 As an Applicant, I want to Pay Fee, so that I can satisfy outstanding commission associated with the overhaul requested or meet from the County.
 
-Input phrase:As an Applicant, I want to Check the Status of a transaction, so that I can understand where the provisioning of my service is in the process, such as information related to service levels, fees, plan review, permit, or inspection results.
-As an Applicant, I desire to see the condition of a transaction, so that I can sympathize where the provisioning of my military_military_service is in the procedure, such as data associate to military_military_service degree, fee, design reappraisal, license, or inspection consequence.
+Input phrase: As an Applicant, I want to Check the Status of a transaction, so that I can understand where the provisioning of my service is in the process, such as information related to service levels, fees, plan review, permit, or inspection results.
+As an Applicant, I desire to see the condition of a transaction, so that I can sympathize where the provisioning of my military_military_service is in the procedure, such as data associate to military_military_service degree, fees, design reappraisal, license, or inspection consequence.
 As an Applicant, I want to control the Status of a transaction, so that I can understand where the provisioning of my avail is in the summons, such as information refer to avail grade, fees, plan follow-up, permit, or inspection solution.
-As an Applicant, I want to match the Status of a transaction, so that I can understand where the provisioning of my servicing is in the process, such as information relate to servicing level, fees, plan revue, permit, or inspection result.
-As an Applicant, I want to discipline the Status of a transaction, so that I can understand where the provisioning of my serve is in the process, such as information related to serve horizontal_surface, fees, plan recapitulation, permit, or inspection resultant_role.
-As an Applicant, I want to determine the Status of a transaction, so that I can understand where the provisioning of my overhaul is in the process, such as information related to overhaul floor, fees, plan inspection, permit, or inspection results.
+As an Applicant, I want to match the Status of a transaction, so that I can understand where the provisioning of my servicing is in the process, such as information relate to servicing horizontal_surface, fees, plan revue, permit, or inspection resultant_role.
+As an Applicant, I want to discipline the Status of a transaction, so that I can understand where the provisioning of my serve is in the process, such as information related to serve floor, fees, plan recapitulation, permit, or inspection results.
+As an Applicant, I want to determine the Status of a transaction, so that I can understand where the provisioning of my overhaul is in the process, such as information related to overhaul levels, fees, plan inspection, permit, or inspection results.
 
-Input phrase:As an Applicant, I want to Modify my Application, so that I can successfully change information on an application.
+Input phrase: As an Applicant, I want to Modify my Application, so that I can successfully change information on an application.
 As an Applicant, I desire to switch my lotion, so that I can successfully switch data on an lotion.
 As an Applicant, I want to Modify my Application, so that I can successfully exchange information on an application.
 As an Applicant, I want to Modify my Application, so that I can successfully transfer information on an application.
 As an Applicant, I want to Modify my Application, so that I can successfully deepen information on an application.
 As an Applicant, I want to Modify my Application, so that I can successfully change information on an application.
 
-Input phrase:As a Staff member, I want to Perform a Completeness Review, so that I can validate when an application is complete and eligible for further technical review.
+Input phrase: As a Staff member, I want to Perform a Completeness Review, so that I can validate when an application is complete and eligible for further technical review.
 As a Staff extremity, I desire to do a Completeness reappraisal, so that I can validate when an lotion is accomplished and eligible for further technical reappraisal.
 As a Staff penis, I want to Perform a Completeness follow-up, so that I can validate when an application is arrant and eligible for further technical follow-up.
 As a Staff member, I want to Perform a Completeness revue, so that I can validate when an application is complete and eligible for further technical revue.
 As a Staff member, I want to Perform a Completeness recapitulation, so that I can validate when an application is complete and eligible for further technical recapitulation.
 As a Staff member, I want to Perform a Completeness inspection, so that I can validate when an application is complete and eligible for further technical inspection.
 
-Input phrase:As a Staff member, I want to Record an Internal Note, so that I can share information with other Staff collaborating on the record.
+Input phrase: As a Staff member, I want to Record an Internal Note, so that I can share information with other Staff collaborating on the record.
 As a Staff extremity, I desire to read an home bill, so that I can partake data with other Staff collaborate on the phonograph_record.
 As a Staff penis, I want to commemorate an inner eminence, so that I can share information with other Staff collaborating on the criminal_record.
 As a Staff member, I want to Record an Internal notice, so that I can share information with other Staff collaborating on the record.
 As a Staff member, I want to Record an Internal Note, so that I can share information with other Staff collaborating on the record.
 As a Staff member, I want to Record an Internal Note, so that I can share information with other Staff collaborating on the record.
 
-Input phrase:As a Staff member, I want to Assign an Application for Detailed Review, so that I can review the for compliance and subsequently approved or denied.
+Input phrase: As a Staff member, I want to Assign an Application for Detailed Review, so that I can review the for compliance and subsequently approved or denied.
 As a Staff extremity, I desire to delegate an lotion for detail reappraisal, so that I can review the for conformity and subsequently approve or deny.
 As a Staff penis, I want to impute an Application for Detailed follow-up, so that I can review the for complaisance and subsequently approved or traverse.
 As a Staff member, I want to put an Application for Detailed revue, so that I can review the for submission and subsequently approved or denied.
 As a Staff member, I want to arrogate an Application for Detailed recapitulation, so that I can review the for compliance and subsequently approved or denied.
 As a Staff member, I want to Assign an Application for Detailed inspection, so that I can review the for compliance and subsequently approved or denied.
 
-Input phrase:As a Staff member, I want to Apply a Hold, so that I can prevent progression through the workflow or other actions in the system until the issue is resolved.
-As a Staff extremity, I desire to use a clasp, so that I can prevent progress through the work_flow or other action in the arrangement until the topic is decide.
-As a Staff penis, I want to put_on a appreciation, so that I can prevent progression through the workflow or other military_action in the organization until the return is conclude.
-As a Staff member, I want to lend_oneself a delay, so that I can prevent progression through the workflow or other natural_process in the system until the consequence is purpose.
-As a Staff member, I want to give a detention, so that I can prevent progression through the workflow or other legal_action in the system until the offspring is answer.
+Input phrase: As a Staff member, I want to Apply a Hold, so that I can prevent progression through the workflow or other actions in the system until the issue is resolved.
+As a Staff extremity, I desire to use a clasp, so that I can prevent progress through the work_flow or other military_action in the arrangement until the topic is decide.
+As a Staff penis, I want to put_on a appreciation, so that I can prevent progression through the workflow or other natural_process in the organization until the return is conclude.
+As a Staff member, I want to lend_oneself a delay, so that I can prevent progression through the workflow or other legal_action in the system until the consequence is purpose.
+As a Staff member, I want to give a detention, so that I can prevent progression through the workflow or other actions in the system until the offspring is answer.
 As a Staff member, I want to practice a handle, so that I can prevent progression through the workflow or other actions in the system until the emergence is resolve.
 
-Input phrase:As a Staff member, I want to Remove a Hold, so that I can allow progression through the workflow or other actions in the system now that the issue has been resolved.
-As a Staff extremity, I desire to get_rid_of a clasp, so that I can let progress through the work_flow or other action in the arrangement now that the topic has been decide.
-As a Staff penis, I want to take_out a appreciation, so that I can permit progression through the workflow or other military_action in the organization now that the return has been conclude.
-As a Staff member, I want to absent a delay, so that I can leave progression through the workflow or other natural_process in the system now that the consequence has been purpose.
-As a Staff member, I want to murder a detention, so that I can admit progression through the workflow or other legal_action in the system now that the offspring has been answer.
+Input phrase: As a Staff member, I want to Remove a Hold, so that I can allow progression through the workflow or other actions in the system now that the issue has been resolved.
+As a Staff extremity, I desire to get_rid_of a clasp, so that I can let progress through the work_flow or other military_action in the arrangement now that the topic has been decide.
+As a Staff penis, I want to take_out a appreciation, so that I can permit progression through the workflow or other natural_process in the organization now that the return has been conclude.
+As a Staff member, I want to absent a delay, so that I can leave progression through the workflow or other legal_action in the system now that the consequence has been purpose.
+As a Staff member, I want to murder a detention, so that I can admit progression through the workflow or other actions in the system now that the offspring has been answer.
 As a Staff member, I want to Remove a handle, so that I can give_up progression through the workflow or other actions in the system now that the emergence has been resolve.
 
-Input phrase:As a Staff member, I want to Send a Formal Response to Applicant, so that I can satisfy communication and records responsibilities.
-As a Staff extremity, I desire to mail a conventional reaction to Applicant, so that I can meet communication and record duty.
-As a Staff penis, I want to transport a courtly answer to Applicant, so that I can satisfy communication and phonograph_record province.
-As a Staff member, I want to station a Formal reception to Applicant, so that I can satisfy communication and criminal_record responsibility.
+Input phrase: As a Staff member, I want to Send a Formal Response to Applicant, so that I can satisfy communication and records responsibilities.
+As a Staff extremity, I desire to mail a conventional reaction to Applicant, so that I can meet communication and phonograph_record duty.
+As a Staff penis, I want to transport a courtly answer to Applicant, so that I can satisfy communication and criminal_record province.
+As a Staff member, I want to station a Formal reception to Applicant, so that I can satisfy communication and records responsibility.
 As a Staff member, I want to commit a Formal reply to Applicant, so that I can satisfy communication and records responsibilities.
 As a Staff member, I want to air a Formal Response to Applicant, so that I can satisfy communication and records responsibilities.
 
-Input phrase:As a Staff member, I want to Track  the Draft Proffers, so that I can preserve the history of draft proffer statements submitted by the Applicant.
-As a Staff extremity, I desire to path  the conscription suggestion, so that I can continue the history of conscription suggestion statement submit by the Applicant.
-As a Staff penis, I want to lead  the gulp offer, so that I can conserve the history of gulp proffer argument present by the Applicant.
-As a Staff member, I want to racetrack  the enlist Proffers, so that I can save the history of draft proffer affirmation relegate by the Applicant.
-As a Staff member, I want to cut  the blueprint Proffers, so that I can keep the history of draft proffer instruction take by the Applicant.
+Input phrase: As a Staff member, I want to Track  the Draft Proffers, so that I can preserve the history of draft proffer statements submitted by the Applicant.
+As a Staff extremity, I desire to path  the conscription suggestion, so that I can continue the history of conscription suggestion argument submit by the Applicant.
+As a Staff penis, I want to lead  the gulp offer, so that I can conserve the history of gulp proffer affirmation present by the Applicant.
+As a Staff member, I want to racetrack  the enlist Proffers, so that I can save the history of draft proffer instruction relegate by the Applicant.
+As a Staff member, I want to cut  the blueprint Proffers, so that I can keep the history of draft proffer statements take by the Applicant.
 As a Staff member, I want to chase  the Draft Proffers, so that I can preserve the history of draft proffer statements put_in by the Applicant.
 
-Input phrase:As a Staff member, I want to Manage Approved Proffers, so that I can ensure compliance with and satisfaction of the proffer in the future.
+Input phrase: As a Staff member, I want to Manage Approved Proffers, so that I can ensure compliance with and satisfaction of the proffer in the future.
 As a Staff extremity, I desire to pull_off approve suggestion, so that I can guarantee conformity with and gratification of the suggestion in the future.
 As a Staff penis, I want to cope Approved offer, so that I can see complaisance with and atonement of the proffer in the future.
 As a Staff member, I want to oversee Approved Proffers, so that I can ensure submission with and satisfaction of the proffer in the future.
 As a Staff member, I want to wangle Approved Proffers, so that I can ensure compliance with and satisfaction of the proffer in the future.
 As a Staff member, I want to do Approved Proffers, so that I can ensure compliance with and satisfaction of the proffer in the future.
 
-Input phrase:As a Staff member, I want to Manage Ordinances, so that I can maintain accurate ordinance information in the System.
+Input phrase: As a Staff member, I want to Manage Ordinances, so that I can maintain accurate ordinance information in the System.
 As a Staff extremity, I desire to pull_off regulation, so that I can keep accurate regulation data in the arrangement.
 As a Staff penis, I want to cope ordination, so that I can conserve accurate ordination information in the organization.
-As a Staff member, I want to oversee ordination, so that I can sustain accurate ordinance information in the System.
+As a Staff member, I want to oversee Ordinances, so that I can sustain accurate ordinance information in the System.
 As a Staff member, I want to wangle Ordinances, so that I can assert accurate ordinance information in the System.
 As a Staff member, I want to do Ordinances, so that I can wield accurate ordinance information in the System.
 
-Input phrase:As a Staff member, I want to Schedule a Meeting, so that I can bring the required parties together at a specific date/time to address an issue.
+Input phrase: As a Staff member, I want to Schedule a Meeting, so that I can bring the required parties together at a specific date/time to address an issue.
 As a Staff extremity, I desire to Schedule a merging, so that I can institute the necessitate party in_concert at a specific date/clock_time to cover an topic.
 As a Staff penis, I want to Schedule a confluence, so that I can lend the ask parties together at a specific date/fourth_dimension to address an return.
 As a Staff member, I want to Schedule a Meeting, so that I can fetch the command parties together at a specific date/meter to address an consequence.
 As a Staff member, I want to Schedule a Meeting, so that I can bring the want parties together at a specific date/prison_term to address an offspring.
 As a Staff member, I want to Schedule a Meeting, so that I can bring the required parties together at a specific date/time to address an emergence.
 
-Input phrase:As a staff member, I want to denote an application with a Final Action status. So that I can finish it.
+Input phrase: As a staff member, I want to denote an application with a Final Action status. So that I can finish it.
 As a staff extremity, I desire to announce an lotion with a final_examination military_action condition. So that I can complete it.
 As a staff penis, I want to denote an application with a concluding natural_process status. So that I can finish_up it.
 As a staff member, I want to denote an application with a Final legal_action status. So that I can end it.
 As a staff member, I want to denote an application with a Final carry_through status. So that I can eat_up it.
 As a staff member, I want to denote an application with a Final Action status. So that I can finish it.
 
-Input phrase:As a Planning Staff member, I want to Conduct and Track Plan Amendments and Planning Studies, so that I can record work in process, outcome, and location-based information related to the Plan(s).
-As a plan Staff extremity, I desire to behave and path design amendment and plan survey, so that I can read employment in procedure, result, and placement-establish data associate to the design(s).
+Input phrase: As a Planning Staff member, I want to Conduct and Track Plan Amendments and Planning Studies, so that I can record work in process, outcome, and location-based information related to the Plan(s).
+As a plan Staff extremity, I desire to behave and path design Amendments and plan survey, so that I can read employment in procedure, result, and placement-establish data associate to the design(s).
 As a design Staff penis, I want to lead and lead Plan Amendments and design study, so that I can commemorate study in summons, consequence, and localization-base information refer to the Plan(s).
 As a Planning Staff member, I want to impart and racetrack Plan Amendments and Planning report, so that I can record workplace in process, outcome, and location-free-base information relate to the Plan(s).
 As a Planning Staff member, I want to Conduct and cut Plan Amendments and Planning discipline, so that I can record oeuvre in process, outcome, and location-based information related to the Plan(s).
 As a Planning Staff member, I want to Conduct and chase Plan Amendments and Planning sketch, so that I can record work in process, outcome, and location-based information related to the Plan(s).
 
-Input phrase:As a Planning Staff member, I want to Generate Planning-related Reports, so that I can access, analyze and/or export the needed information in the format I requested.
-As a plan Staff extremity, I desire to render plan-associate report, so that I can access, analyze and/or export the needed data in the format I request.
-As a design Staff penis, I want to beget design-refer report_card, so that I can access, analyze and/or export the needed information in the format I requested.
-As a Planning Staff member, I want to Generate Planning-relate composition, so that I can access, analyze and/or export the needed information in the format I requested.
-As a Planning Staff member, I want to Generate Planning-related reputation, so that I can access, analyze and/or export the needed information in the format I requested.
+Input phrase: As a Planning Staff member, I want to Generate Planning-related Reports, so that I can access, analyze and/or export the needed information in the format I requested.
+As a plan Staff extremity, I desire to render plan-associate report_card, so that I can access, analyze and/or export the needed data in the format I request.
+As a design Staff penis, I want to beget design-refer composition, so that I can access, analyze and/or export the needed information in the format I requested.
+As a Planning Staff member, I want to Generate Planning-relate reputation, so that I can access, analyze and/or export the needed information in the format I requested.
+As a Planning Staff member, I want to Generate Planning-related Reports, so that I can access, analyze and/or export the needed information in the format I requested.
 As a Planning Staff member, I want to Generate Planning-related Reports, so that I can access, analyze and/or export the needed information in the format I requested.
 
-Input phrase:As a Planning Staff member, I want to Evaluate Consistency with the Comprehensive Plan, so that I can complete my required review of a plan set and/or application.
+Input phrase: As a Planning Staff member, I want to Evaluate Consistency with the Comprehensive Plan, so that I can complete my required review of a plan set and/or application.
 As a design Staff extremity, I desire to measure Consistency with the comprehensive_examination design, so that I can dispatch my needed reappraisal of a design put and/or lotion.
 As a design Staff penis, I want to Evaluate Consistency with the Comprehensive Plan, so that I can complete my compulsory follow-up of a plan determine and/or application.
 As a Planning Staff member, I want to Evaluate Consistency with the Comprehensive Plan, so that I can complete my required revue of a plan specify and/or application.
 As a Planning Staff member, I want to Evaluate Consistency with the Comprehensive Plan, so that I can complete my required recapitulation of a plan fix and/or application.
 As a Planning Staff member, I want to Evaluate Consistency with the Comprehensive Plan, so that I can complete my required inspection of a plan arrange and/or application.
 
-Input phrase:As a Staff member, I want to Perform a Staff Review, so that I can validate compliance of an application with the Zoning Ordinance and impact approval/denial of the application accordingly.
+Input phrase: As a Staff member, I want to Perform a Staff Review, so that I can validate compliance of an application with the Zoning Ordinance and impact approval/denial of the application accordingly.
 As a Staff extremity, I desire to do a Staff reappraisal, so that I can validate conformity of an lotion with the zone regulation and impingement blessing/abnegation of the lotion consequently.
 As a Staff penis, I want to Perform a Staff follow-up, so that I can validate complaisance of an application with the partition ordination and shock approval/defense of the application accordingly.
 As a Staff member, I want to Perform a Staff revue, so that I can validate submission of an application with the Zoning Ordinance and impact approval/denial of the application accordingly.
 As a Staff member, I want to Perform a Staff recapitulation, so that I can validate compliance of an application with the Zoning Ordinance and impact approval/denial of the application accordingly.
 As a Staff member, I want to Perform a Staff inspection, so that I can validate compliance of an application with the Zoning Ordinance and impact approval/denial of the application accordingly.
 
-Input phrase:As a Zoning Staff member, I want to Process the Requests for Zoning Information, so that I can capture my response to the request in the system and also send a communication from the system to the Applicant.
-As a zone Staff extremity, I desire to action the request for zone data, so that I can get my reaction to the request in the arrangement and besides mail a communication from the arrangement to the Applicant.
+Input phrase: As a Zoning Staff member, I want to Process the Requests for Zoning Information, so that I can capture my response to the request in the system and also send a communication from the system to the Applicant.
+As a zone Staff extremity, I desire to action the Requests for zone data, so that I can get my reaction to the request in the arrangement and besides mail a communication from the arrangement to the Applicant.
 As a partition Staff penis, I want to march the Requests for partition Information, so that I can appropriate my answer to the request in the organization and also transport a communication from the organization to the Applicant.
 As a Zoning Staff member, I want to work the Requests for Zoning Information, so that I can capture my reception to the request in the system and also station a communication from the system to the Applicant.
 As a Zoning Staff member, I want to serve the Requests for Zoning Information, so that I can capture my reply to the request in the system and also commit a communication from the system to the Applicant.
 As a Zoning Staff member, I want to Process the Requests for Zoning Information, so that I can capture my response to the request in the system and also air a communication from the system to the Applicant.
 
-Input phrase:As a Zoning Staff member, I want to Issue the Zoning-Related Permits, so that I can satisfy an Applicant's request for service that has proven to be eligible and in compliance with the Zoning Ordinance.
+Input phrase: As a Zoning Staff member, I want to Issue the Zoning-Related Permits, so that I can satisfy an Applicant's request for service that has proven to be eligible and in compliance with the Zoning Ordinance.
 As a zone Staff extremity, I desire to publish the zone-associate license, so that I can meet an Applicant's request for military_service that has prove to be eligible and in conformity with the zone regulation.
-As a partition Staff penis, I want to write_out the partition-refer permit, so that I can satisfy an Applicant's request for avail that has testify to be eligible and in complaisance with the partition ordination.
-As a Zoning Staff member, I want to Issue the Zoning-relate let, so that I can satisfy an Applicant's request for servicing that has test to be eligible and in submission with the Zoning Ordinance.
-As a Zoning Staff member, I want to Issue the Zoning-Related allow, so that I can satisfy an Applicant's request for serve that has rise to be eligible and in compliance with the Zoning Ordinance.
+As a partition Staff penis, I want to write_out the partition-refer let, so that I can satisfy an Applicant's request for avail that has testify to be eligible and in complaisance with the partition ordination.
+As a Zoning Staff member, I want to Issue the Zoning-relate allow, so that I can satisfy an Applicant's request for servicing that has test to be eligible and in submission with the Zoning Ordinance.
+As a Zoning Staff member, I want to Issue the Zoning-Related Permits, so that I can satisfy an Applicant's request for serve that has rise to be eligible and in compliance with the Zoning Ordinance.
 As a Zoning Staff member, I want to Issue the Zoning-Related Permits, so that I can satisfy an Applicant's request for overhaul that has raise to be eligible and in compliance with the Zoning Ordinance.
 
-Input phrase:As a Staff member, I want to Develop a Staff Report, so that I can publish and distribute the report according to business rules.
-As a Staff extremity, I desire to evolve a Staff report_card_card, so that I can print and spread the report_card harmonize to commercial_enterprise rule.
-As a Staff penis, I want to grow a Staff composition, so that I can publish and circulate the composition accord to occupation convention.
-As a Staff member, I want to originate a Staff reputation, so that I can publish and stagger the reputation according to clientele principle.
-As a Staff member, I want to build_up a Staff Report, so that I can publish and distribute the report according to business dominion.
+Input phrase: As a Staff member, I want to Develop a Staff Report, so that I can publish and distribute the report according to business rules.
+As a Staff extremity, I desire to evolve a Staff report_card_card, so that I can print and spread the report_card harmonize to commercial_enterprise convention.
+As a Staff penis, I want to grow a Staff composition, so that I can publish and circulate the composition accord to occupation principle.
+As a Staff member, I want to originate a Staff reputation, so that I can publish and stagger the reputation according to clientele dominion.
+As a Staff member, I want to build_up a Staff Report, so that I can publish and distribute the report according to business rules.
 As a Staff member, I want to explicate a Staff Report, so that I can publish and distribute the report according to business rules.
 
-Input phrase:As a Staff member, I want to Manage Hearing Calendars, so that I can track hearing-related activities and due dates.
-As a Staff extremity, I desire to pull_off earshot calendar, so that I can chase earshot-associate activity and ascribable date.
+Input phrase: As a Staff member, I want to Manage Hearing Calendars, so that I can track hearing-related activities and due dates.
+As a Staff extremity, I desire to pull_off earshot Calendars, so that I can chase earshot-associate activity and ascribable dates.
 As a Staff penis, I want to cope listening Calendars, so that I can traverse listening-refer action and due dates.
 As a Staff member, I want to oversee hear Calendars, so that I can track hearing-relate bodily_process and due dates.
 As a Staff member, I want to wangle learn Calendars, so that I can track hearing-related natural_process and due dates.
 As a Staff member, I want to do listen Calendars, so that I can track hearing-related activeness and due dates.
 
-Input phrase:As a Staff member, I want to Assign a Hearing Date, so that I can present the application to the appropriate governing body within the timelines dictated by the relevant County rules and procedures.
-As a Staff extremity, I desire to delegate a hear Date, so that I can show the lotion to the appropriate government torso inside the timeline order by the relevant County rule and procedure.
-As a Staff penis, I want to impute a learn Date, so that I can stage the application to the appropriate governing consistency within the timelines dictate by the relevant County convention and operation.
-As a Staff member, I want to put a listen Date, so that I can award the application to the appropriate governing soundbox within the timelines dictated by the relevant County principle and routine.
-As a Staff member, I want to arrogate a Hearing Date, so that I can give the application to the appropriate governing body within the timelines dictated by the relevant County dominion and procedures.
+Input phrase: As a Staff member, I want to Assign a Hearing Date, so that I can present the application to the appropriate governing body within the timelines dictated by the relevant County rules and procedures.
+As a Staff extremity, I desire to delegate a hear Date, so that I can show the lotion to the appropriate government torso inside the timelines order by the relevant County convention and operation.
+As a Staff penis, I want to impute a learn Date, so that I can stage the application to the appropriate governing consistency within the timelines dictate by the relevant County principle and routine.
+As a Staff member, I want to put a listen Date, so that I can award the application to the appropriate governing soundbox within the timelines dictated by the relevant County dominion and procedures.
+As a Staff member, I want to arrogate a Hearing Date, so that I can give the application to the appropriate governing body within the timelines dictated by the relevant County rules and procedures.
 As a Staff member, I want to Assign a Hearing Date, so that I can deliver the application to the appropriate governing body within the timelines dictated by the relevant County rules and procedures.
 
-Input phrase:As a Staff member, I want to Manage Affidavits, so that I can ensure compliance with the requirements prior to the hearing.
-As a Staff extremity, I desire to pull_off affidavit, so that I can guarantee conformity with the requirement prior to the earshot.
-As a Staff penis, I want to cope Affidavits, so that I can see complaisance with the necessity prior to the listening.
-As a Staff member, I want to oversee Affidavits, so that I can ensure submission with the prerequisite prior to the hearing.
+Input phrase: As a Staff member, I want to Manage Affidavits, so that I can ensure compliance with the requirements prior to the hearing.
+As a Staff extremity, I desire to pull_off Affidavits, so that I can guarantee conformity with the necessity prior to the earshot.
+As a Staff penis, I want to cope Affidavits, so that I can see complaisance with the prerequisite prior to the listening.
+As a Staff member, I want to oversee Affidavits, so that I can ensure submission with the requirements prior to the hearing.
 As a Staff member, I want to wangle Affidavits, so that I can ensure compliance with the requirements prior to the hearing.
 As a Staff member, I want to do Affidavits, so that I can ensure compliance with the requirements prior to the hearing.
 
-Input phrase:As an Applicant, I want to Satisfy Hearing Requirements, so that I can ensure all pre-hearing requirements are satisfied in time for the hearing.
-As an Applicant, I desire to meet earshot requirement, so that I can guarantee all pre-earshot requirement are quenched in clock_time for the earshot.
-As an Applicant, I want to Satisfy listening necessity, so that I can see all pre-listening necessity are satisfied in fourth_dimension for the listening.
-As an Applicant, I want to Satisfy hear prerequisite, so that I can ensure all pre-hearing prerequisite are satisfied in meter for the hearing.
+Input phrase: As an Applicant, I want to Satisfy Hearing Requirements, so that I can ensure all pre-hearing requirements are satisfied in time for the hearing.
+As an Applicant, I desire to meet earshot necessity, so that I can guarantee all pre-earshot necessity are quenched in clock_time for the earshot.
+As an Applicant, I want to Satisfy listening prerequisite, so that I can see all pre-listening prerequisite are satisfied in fourth_dimension for the listening.
+As an Applicant, I want to Satisfy hear Requirements, so that I can ensure all pre-hearing requirements are satisfied in meter for the hearing.
 As an Applicant, I want to Satisfy learn Requirements, so that I can ensure all pre-hearing requirements are satisfied in prison_term for the hearing.
 As an Applicant, I want to Satisfy listen Requirements, so that I can ensure all pre-hearing requirements are satisfied in time for the hearing.
 
-Input phrase:As a Staff member, I want to Prepare for and Support Hearing Execution, so that I can ensure all pre-hearing requirements are satisfied and staff and Applicant are ready for the hearing.
-As a Staff extremity, I desire to fix for and documentation earshot performance, so that I can guarantee all pre-earshot requirement are quenched and staff and Applicant are quick for the earshot.
-As a Staff penis, I want to cook for and accompaniment listening murder, so that I can see all pre-listening necessity are satisfied and staff and Applicant are ready for the listening.
-As a Staff member, I want to organize for and back hear Execution, so that I can ensure all pre-hearing prerequisite are satisfied and staff and Applicant are ready for the hearing.
+Input phrase: As a Staff member, I want to Prepare for and Support Hearing Execution, so that I can ensure all pre-hearing requirements are satisfied and staff and Applicant are ready for the hearing.
+As a Staff extremity, I desire to fix for and documentation earshot performance, so that I can guarantee all pre-earshot necessity are quenched and staff and Applicant are quick for the earshot.
+As a Staff penis, I want to cook for and accompaniment listening murder, so that I can see all pre-listening prerequisite are satisfied and staff and Applicant are ready for the listening.
+As a Staff member, I want to organize for and back hear Execution, so that I can ensure all pre-hearing requirements are satisfied and staff and Applicant are ready for the hearing.
 As a Staff member, I want to train for and hold learn Execution, so that I can ensure all pre-hearing requirements are satisfied and staff and Applicant are ready for the hearing.
 As a Staff member, I want to Prepare for and confirm listen Execution, so that I can ensure all pre-hearing requirements are satisfied and staff and Applicant are ready for the hearing.
 
-Input phrase:As a Staff member, I want to Capture a Hearing Decision, so that I can enforce the system.
+Input phrase: As a Staff member, I want to Capture a Hearing Decision, so that I can enforce the system.
 As a Staff extremity, I desire to get a earshot decisiveness, so that I can enforce the arrangement.
 As a Staff penis, I want to appropriate a listening Decision, so that I can enforce the organization.
 As a Staff member, I want to Capture a hear Decision, so that I can enforce the system.
 As a Staff member, I want to Capture a learn Decision, so that I can enforce the system.
 As a Staff member, I want to Capture a listen Decision, so that I can enforce the system.
 
-Input phrase:As a Staff member, I want to Process the Appeals, so that I can track the outcome and record the impact on the relevant records.
+Input phrase: As a Staff member, I want to Process the Appeals, so that I can track the outcome and record the impact on the relevant records.
 As a Staff extremity, I desire to action the entreaty, so that I can chase the result and read the impingement on the relevant reads.
-As a Staff penis, I want to march the appeal, so that I can traverse the consequence and commemorate the shock on the relevant commemorates.
-As a Staff member, I want to work the solicitation, so that I can track the outcome and record the impact on the relevant criminal_record.
-As a Staff member, I want to serve the attract, so that I can track the outcome and record the impact on the relevant records.
-As a Staff member, I want to Process the invoke, so that I can track the outcome and record the impact on the relevant records.
+As a Staff penis, I want to march the solicitation, so that I can traverse the consequence and commemorate the shock on the relevant commemorates.
+As a Staff member, I want to work the attract, so that I can track the outcome and record the impact on the relevant records.
+As a Staff member, I want to serve the invoke, so that I can track the outcome and record the impact on the relevant records.
+As a Staff member, I want to Process the Appeals, so that I can track the outcome and record the impact on the relevant records.
 
-Input phrase:As a Plan Review Staff member, I want to Assign Plans for Review, so that I can ensure plans have been assigned to the appropriate Plan Reviewer.
-As a design reappraisal Staff extremity, I desire to delegate designs for reappraisal, so that I can guarantee plan have been delegate to the appropriate design reappraisaler.
-As a Plan follow-up Staff penis, I want to impute design for follow-up, so that I can see design have been assign to the appropriate Plan follow-uper.
+Input phrase: As a Plan Review Staff member, I want to Assign Plans for Review, so that I can ensure plans have been assigned to the appropriate Plan Reviewer.
+As a design reappraisal Staff extremity, I desire to delegate designs for reappraisal, so that I can guarantee design have been delegate to the appropriate design reappraisaler.
+As a Plan follow-up Staff penis, I want to impute Plans for follow-up, so that I can see plans have been assign to the appropriate Plan follow-uper.
 As a Plan revue Staff member, I want to put Plans for revue, so that I can ensure plans have been impute to the appropriate Plan revueer.
 As a Plan recapitulation Staff member, I want to arrogate Plans for recapitulation, so that I can ensure plans have been put to the appropriate Plan recapitulationer.
 As a Plan inspection Staff member, I want to Assign Plans for inspection, so that I can ensure plans have been arrogate to the appropriate Plan inspectioner.
 
-Input phrase:As a Plan Review Staff Supervisor, I want to Manage Plan Reviewer Workload, so that I can monitor and effectively adjust workload as necessary and ensure service levels are met
+Input phrase: As a Plan Review Staff Supervisor, I want to Manage Plan Reviewer Workload, so that I can monitor and effectively adjust workload as necessary and ensure service levels are met
 As a design reappraisal Staff supervisory_program, I desire to pull_off design reappraisaler Workload, so that I can monitor and efficaciously align workload as necessary and guarantee military_service degree are meet
 As a Plan follow-up Staff Supervisor, I want to cope Plan follow-uper Workload, so that I can monitor and effectively adjust workload as necessary and see avail grade are converge
-As a Plan revue Staff Supervisor, I want to oversee Plan revueer Workload, so that I can monitor and effectively adjust workload as necessary and ensure servicing level are suffer
-As a Plan recapitulation Staff Supervisor, I want to wangle Plan recapitulationer Workload, so that I can monitor and effectively adjust workload as necessary and ensure serve horizontal_surface are touch
-As a Plan inspection Staff Supervisor, I want to do Plan inspectioner Workload, so that I can monitor and effectively adjust workload as necessary and ensure overhaul floor are met
+As a Plan revue Staff Supervisor, I want to oversee Plan revueer Workload, so that I can monitor and effectively adjust workload as necessary and ensure servicing horizontal_surface are suffer
+As a Plan recapitulation Staff Supervisor, I want to wangle Plan recapitulationer Workload, so that I can monitor and effectively adjust workload as necessary and ensure serve floor are touch
+As a Plan inspection Staff Supervisor, I want to do Plan inspectioner Workload, so that I can monitor and effectively adjust workload as necessary and ensure overhaul levels are met
 
-Input phrase:As an Applicant, I want to Request a Plan Review Meeting, so that I can meet with the Plan Review Staff regarding the plan review.
+Input phrase: As an Applicant, I want to Request a Plan Review Meeting, so that I can meet with the Plan Review Staff regarding the plan review.
 As an Applicant, I desire to Request a design reappraisal merging, so that I can converge with the design reappraisal Staff see the design reappraisal.
 As an Applicant, I want to Request a Plan follow-up confluence, so that I can suffer with the Plan follow-up Staff regard the plan follow-up.
 As an Applicant, I want to Request a Plan revue touch, so that I can touch with the Plan revue Staff involve the plan revue.
 As an Applicant, I want to Request a Plan recapitulation converge, so that I can meet with the Plan recapitulation Staff regarding the plan recapitulation.
 As an Applicant, I want to Request a Plan inspection suffer, so that I can meet with the Plan inspection Staff regarding the plan inspection.
 
-Input phrase:As a Plan Review Staff member, I want to successfully Conduct a Plan Review Meeting with the Applicant and record the outcome, so that I can listen to it again.
+Input phrase: As a Plan Review Staff member, I want to successfully Conduct a Plan Review Meeting with the Applicant and record the outcome, so that I can listen to it again.
 As a design reappraisal Staff extremity, I desire to successfully behave a design reappraisal merging with the Applicant and read the result, so that I can heed to it again.
 As a Plan follow-up Staff penis, I want to successfully lead a Plan follow-up confluence with the Applicant and commemorate the consequence, so that I can listen to it again.
 As a Plan revue Staff member, I want to successfully impart a Plan revue meet with the Applicant and record the outcome, so that I can listen to it again.
 As a Plan recapitulation Staff member, I want to successfully Conduct a Plan recapitulation converge with the Applicant and record the outcome, so that I can listen to it again.
 As a Plan inspection Staff member, I want to successfully Conduct a Plan inspection suffer with the Applicant and record the outcome, so that I can listen to it again.
 
-Input phrase:As a Plan Review Staff member, I want to Review Plans, so that I can review them for compliance and either approve, or fail or deny the plans and record any conditions, clearances, or corrections needed from the Applicant.
-As a design reappraisal Staff extremity, I desire to reappraisal designs, so that I can review them for conformity and either approve, or fail or traverse the plan and read any weather, clearance, or correction necessitate from the Applicant.
-As a Plan follow-up Staff penis, I want to follow-up design, so that I can review them for complaisance and either approve, or fail or deny the design and commemorate any condition, headroom, or discipline want from the Applicant.
-As a Plan revue Staff member, I want to revue Plans, so that I can review them for submission and either approve, or fail or deny the plans and record any circumstance, clearances, or corrections need from the Applicant.
+Input phrase: As a Plan Review Staff member, I want to Review Plans, so that I can review them for compliance and either approve, or fail or deny the plans and record any conditions, clearances, or corrections needed from the Applicant.
+As a design reappraisal Staff extremity, I desire to reappraisal designs, so that I can review them for conformity and either approve, or fail or traverse the design and read any weather, headroom, or discipline necessitate from the Applicant.
+As a Plan follow-up Staff penis, I want to follow-up Plans, so that I can review them for complaisance and either approve, or fail or deny the plans and commemorate any circumstance, clearances, or corrections want from the Applicant.
+As a Plan revue Staff member, I want to revue Plans, so that I can review them for submission and either approve, or fail or deny the plans and record any conditions, clearances, or corrections need from the Applicant.
 As a Plan recapitulation Staff member, I want to recapitulation Plans, so that I can review them for compliance and either approve, or fail or deny the plans and record any conditions, clearances, or corrections needed from the Applicant.
 As a Plan inspection Staff member, I want to inspection Plans, so that I can review them for compliance and either approve, or fail or deny the plans and record any conditions, clearances, or corrections needed from the Applicant.
 
-Input phrase:As an Applicant, I want to Resubmit Plans, so that I can review revised plans.
-As an Applicant, I desire to feed_back plan, so that I can review revised plan.
-As an Applicant, I want to Resubmit design, so that I can review revised design.
+Input phrase: As an Applicant, I want to Resubmit Plans, so that I can review revised plans.
+As an Applicant, I desire to feed_back design, so that I can review revised design.
+As an Applicant, I want to Resubmit Plans, so that I can review revised plans.
 As an Applicant, I want to Resubmit Plans, so that I can review revised plans.
 As an Applicant, I want to Resubmit Plans, so that I can review revised plans.
 As an Applicant, I want to Resubmit Plans, so that I can review revised plans.
 
-Input phrase:As a Plan Review Staff Member, I want to Review the Code Modifications submitted by the Applicant, so that I can review the request and if approved, associate it with the appropriate project.
+Input phrase: As a Plan Review Staff Member, I want to Review the Code Modifications submitted by the Applicant, so that I can review the request and if approved, associate it with the appropriate project.
 As a design reappraisal Staff extremity, I desire to reappraisal the Code alteration submit by the Applicant, so that I can review the request and if approve, consort it with the appropriate undertaking.
-As a Plan follow-up Staff penis, I want to follow-up the Code modification present by the Applicant, so that I can review the request and if approved, consociate it with the appropriate project.
-As a Plan revue Staff Member, I want to revue the Code change relegate by the Applicant, so that I can review the request and if approved, associate it with the appropriate project.
+As a Plan follow-up Staff penis, I want to follow-up the Code change present by the Applicant, so that I can review the request and if approved, consociate it with the appropriate project.
+As a Plan revue Staff Member, I want to revue the Code Modifications relegate by the Applicant, so that I can review the request and if approved, associate it with the appropriate project.
 As a Plan recapitulation Staff Member, I want to recapitulation the Code Modifications take by the Applicant, so that I can review the request and if approved, associate it with the appropriate project.
 As a Plan inspection Staff Member, I want to inspection the Code Modifications put_in by the Applicant, so that I can review the request and if approved, associate it with the appropriate project.
 
-Input phrase:As a Plan Review Staff member, I want to Track the Completion of Required Plan Reviews, so that I can ensure all plan review tasks are completed, results have been sent to the Applicant and any downstream steps are initiated such has a final review or payment for permit issuance.
+Input phrase: As a Plan Review Staff member, I want to Track the Completion of Required Plan Reviews, so that I can ensure all plan review tasks are completed, results have been sent to the Applicant and any downstream steps are initiated such has a final review or payment for permit issuance.
 As a design reappraisal Staff extremity, I desire to chase the Completion of necessitate design reappraisals, so that I can guarantee all design reappraisal undertaking are complete, consequence have been send to the Applicant and any downstream stairs are originate such has a concluding reappraisal or requital for license issue.
 As a Plan follow-up Staff penis, I want to traverse the Completion of ask Plan follow-ups, so that I can see all plan follow-up job are dispatch, solution have been mail to the Applicant and any downstream measure are initiate such has a final follow-up or payment for permit issuance.
-As a Plan revue Staff member, I want to Track the Completion of command Plan revues, so that I can ensure all plan revue tasks are completed, result have been transport to the Applicant and any downstream footstep are broach such has a final revue or payment for permit issuance.
-As a Plan recapitulation Staff member, I want to Track the Completion of want Plan recapitulations, so that I can ensure all plan recapitulation tasks are completed, resultant_role have been station to the Applicant and any downstream step are lead_up such has a final recapitulation or payment for permit issuance.
-As a Plan inspection Staff member, I want to Track the Completion of needed Plan inspections, so that I can ensure all plan inspection tasks are completed, results have been commit to the Applicant and any downstream gradation are initiated such has a final inspection or payment for permit issuance.
+As a Plan revue Staff member, I want to Track the Completion of command Plan revues, so that I can ensure all plan revue tasks are completed, resultant_role have been transport to the Applicant and any downstream footstep are broach such has a final revue or payment for permit issuance.
+As a Plan recapitulation Staff member, I want to Track the Completion of want Plan recapitulations, so that I can ensure all plan recapitulation tasks are completed, results have been station to the Applicant and any downstream gradation are lead_up such has a final recapitulation or payment for permit issuance.
+As a Plan inspection Staff member, I want to Track the Completion of needed Plan inspections, so that I can ensure all plan inspection tasks are completed, results have been commit to the Applicant and any downstream footfall are initiated such has a final inspection or payment for permit issuance.
 
-Input phrase:As a Development Staff member, I want to Issue a Development-related Permit, so that I can grant the request to the Applicant to begin work
+Input phrase: As a Development Staff member, I want to Issue a Development-related Permit, so that I can grant the request to the Applicant to begin work
 As a growth Staff extremity, I desire to publish a growth-associate license, so that I can allow the request to the Applicant to get_down employment
 As a exploitation Staff penis, I want to write_out a exploitation-refer let, so that I can award the request to the Applicant to begin study
 As a Development Staff member, I want to Issue a Development-relate allow, so that I can concede the request to the Applicant to begin workplace
 As a Development Staff member, I want to Issue a Development-related Permit, so that I can accord the request to the Applicant to begin oeuvre
 As a Development Staff member, I want to Issue a Development-related Permit, so that I can grant the request to the Applicant to begin work
 
-Input phrase:As a Staff member, I want to Manage Bonds, so that I can track and manage bonds throughout the lifecycle of the project until release.
+Input phrase: As a Staff member, I want to Manage Bonds, so that I can track and manage bonds throughout the lifecycle of the project until release.
 As a Staff extremity, I desire to pull_off chemical_bond, so that I can chase and pull_off chemical_bond passim the lifecycle of the undertaking until liberation.
-As a Staff penis, I want to cope bond, so that I can traverse and cope bond throughout the lifecycle of the project until handout.
-As a Staff member, I want to oversee alliance, so that I can track and oversee alliance throughout the lifecycle of the project until dismissal.
-As a Staff member, I want to wangle bail, so that I can track and wangle bail throughout the lifecycle of the project until passing.
-As a Staff member, I want to do shackle, so that I can track and do shackle throughout the lifecycle of the project until acquittance.
+As a Staff penis, I want to cope alliance, so that I can traverse and cope alliance throughout the lifecycle of the project until handout.
+As a Staff member, I want to oversee bail, so that I can track and oversee bail throughout the lifecycle of the project until dismissal.
+As a Staff member, I want to wangle shackle, so that I can track and wangle shackle throughout the lifecycle of the project until passing.
+As a Staff member, I want to do attachment, so that I can track and do attachment throughout the lifecycle of the project until acquittance.
 
-Input phrase:As an Applicant, I want to Complete Building Development Project, so that I can receive any posted bond and/or obtain occupancy.
+Input phrase: As an Applicant, I want to Complete Building Development Project, so that I can receive any posted bond and/or obtain occupancy.
 As an Applicant, I desire to dispatch construction growth undertaking, so that I can pick_up any post chemical_bond and/or receive occupation.
 As an Applicant, I want to Complete construct exploitation stick_out, so that I can experience any station alliance and/or prevail occupancy.
 As an Applicant, I want to Complete build_up Development plan, so that I can welcome any stake bail and/or obtain occupancy.
 As an Applicant, I want to Complete build Development visualize, so that I can meet any mail shackle and/or obtain occupancy.
 As an Applicant, I want to Complete Building Development Project, so that I can get any posted attachment and/or obtain occupancy.
 
-Input phrase:As an Applicant, I want to Complete Building Development Project, so that I can receive any posted bond and/or obtain occupancy.
+Input phrase: As an Applicant, I want to Complete Building Development Project, so that I can receive any posted bond and/or obtain occupancy.
 As an Applicant, I desire to dispatch construction growth undertaking, so that I can pick_up any post chemical_bond and/or receive occupation.
 As an Applicant, I want to Complete construct exploitation stick_out, so that I can experience any station alliance and/or prevail occupancy.
 As an Applicant, I want to Complete build_up Development plan, so that I can welcome any stake bail and/or obtain occupancy.
 As an Applicant, I want to Complete build Development visualize, so that I can meet any mail shackle and/or obtain occupancy.
 As an Applicant, I want to Complete Building Development Project, so that I can get any posted attachment and/or obtain occupancy.
 
-Input phrase:As a Customer, I want to Request Inspection, so that a County inspector is assigned to perform an inspection of my project.
+Input phrase: As a Customer, I want to Request Inspection, so that a County inspector is assigned to perform an inspection of my project.
 As a Customer, I desire to Request Inspection, so that a County examiner is delegate to do an inspection of my undertaking.
 As a Customer, I want to Request Inspection, so that a County inspector is assign to perform an inspection of my project.
 As a Customer, I want to Request Inspection, so that a County inspector is impute to perform an inspection of my project.
 As a Customer, I want to Request Inspection, so that a County inspector is put to perform an inspection of my project.
 As a Customer, I want to Request Inspection, so that a County inspector is arrogate to perform an inspection of my project.
 
-Input phrase:As an Inspection Staff member, I want to Create an Inspection, so that I can schedule and assign the inspection.
+Input phrase: As an Inspection Staff member, I want to Create an Inspection, so that I can schedule and assign the inspection.
 As an Inspection Staff extremity, I desire to make an Inspection, so that I can schedule and delegate the inspection.
 As an Inspection Staff penis, I want to produce an Inspection, so that I can schedule and impute the inspection.
 As an Inspection Staff member, I want to Create an Inspection, so that I can schedule and put the inspection.
 As an Inspection Staff member, I want to Create an Inspection, so that I can schedule and arrogate the inspection.
 As an Inspection Staff member, I want to Create an Inspection, so that I can schedule and assign the inspection.
 
-Input phrase:As an Inspection Staff Supervisor, I want to Assign Inspections, so that I can make sure the appropriate Inspector receives the work.
-As an Inspection Staff supervisory_program, I desire to delegate inspection, so that I can induce certain the appropriate examiner receive the employment.
-As an Inspection Staff Supervisor, I want to impute Inspections, so that I can cause indisputable the appropriate Inspector pick_up the study.
-As an Inspection Staff Supervisor, I want to put Inspections, so that I can produce sure the appropriate Inspector experience the workplace.
-As an Inspection Staff Supervisor, I want to arrogate Inspections, so that I can draw sure the appropriate Inspector welcome the oeuvre.
-As an Inspection Staff Supervisor, I want to Assign Inspections, so that I can create sure the appropriate Inspector meet the work.
+Input phrase: As an Inspection Staff Supervisor, I want to Assign Inspections, so that I can make sure the appropriate Inspector receives the work.
+As an Inspection Staff supervisory_program, I desire to delegate Inspections, so that I can induce certain the appropriate examiner pick_up the employment.
+As an Inspection Staff Supervisor, I want to impute Inspections, so that I can cause indisputable the appropriate Inspector experience the study.
+As an Inspection Staff Supervisor, I want to put Inspections, so that I can produce sure the appropriate Inspector welcome the workplace.
+As an Inspection Staff Supervisor, I want to arrogate Inspections, so that I can draw sure the appropriate Inspector meet the oeuvre.
+As an Inspection Staff Supervisor, I want to Assign Inspections, so that I can create sure the appropriate Inspector get the work.
 
-Input phrase:As an Inspection Supervisor, I want to Manage Inspector Workload, so that I can meet service level and quality requirements.
-As an Inspection supervisory_program, I desire to pull_off examiner Workload, so that I can converge military_service degree and timbre requirement.
-As an Inspection Supervisor, I want to cope Inspector Workload, so that I can suffer avail grade and quality necessity.
-As an Inspection Supervisor, I want to oversee Inspector Workload, so that I can touch servicing horizontal_surface and quality prerequisite.
+Input phrase: As an Inspection Supervisor, I want to Manage Inspector Workload, so that I can meet service level and quality requirements.
+As an Inspection supervisory_program, I desire to pull_off examiner Workload, so that I can converge military_service degree and timbre necessity.
+As an Inspection Supervisor, I want to cope Inspector Workload, so that I can suffer avail grade and quality prerequisite.
+As an Inspection Supervisor, I want to oversee Inspector Workload, so that I can touch servicing horizontal_surface and quality requirements.
 As an Inspection Supervisor, I want to wangle Inspector Workload, so that I can meet serve floor and quality requirements.
 As an Inspection Supervisor, I want to do Inspector Workload, so that I can meet overhaul level and quality requirements.
 
-Input phrase:As an Inspector, I want to Conduct Inspections, so that I can validate Customer compliance with code and regulations and provide results of the inspection to the Customer.
-As an examiner, I desire to behave inspection, so that I can validate Customer conformity with code and regulation and supply consequence of the inspection to the Customer.
-As an Inspector, I want to lead Inspections, so that I can validate Customer complaisance with code and rule and put_up solution of the inspection to the Customer.
-As an Inspector, I want to impart Inspections, so that I can validate Customer submission with code and regulations and leave result of the inspection to the Customer.
-As an Inspector, I want to Conduct Inspections, so that I can validate Customer compliance with code and regulations and provide resultant_role of the inspection to the Customer.
+Input phrase: As an Inspector, I want to Conduct Inspections, so that I can validate Customer compliance with code and regulations and provide results of the inspection to the Customer.
+As an examiner, I desire to behave Inspections, so that I can validate Customer conformity with code and rule and supply consequence of the inspection to the Customer.
+As an Inspector, I want to lead Inspections, so that I can validate Customer complaisance with code and regulations and put_up solution of the inspection to the Customer.
+As an Inspector, I want to impart Inspections, so that I can validate Customer submission with code and regulations and leave resultant_role of the inspection to the Customer.
+As an Inspector, I want to Conduct Inspections, so that I can validate Customer compliance with code and regulations and provide results of the inspection to the Customer.
 As an Inspector, I want to Conduct Inspections, so that I can validate Customer compliance with code and regulations and provide results of the inspection to the Customer.
 
-Input phrase:As an Enforcement Staff member, I want to Issue a Notice of Violation, so that I can provide formal communication to the responsible party.
+Input phrase: As an Enforcement Staff member, I want to Issue a Notice of Violation, so that I can provide formal communication to the responsible party.
 As an Enforcement Staff extremity, I desire to publish a notification of misdemeanor, so that I can supply conventional communication to the creditworthy party.
 As an Enforcement Staff penis, I want to write_out a poster of trespass, so that I can put_up courtly communication to the responsible party.
 As an Enforcement Staff member, I want to Issue a Notice of irreverence, so that I can leave formal communication to the responsible party.
 As an Enforcement Staff member, I want to Issue a Notice of rape, so that I can provide formal communication to the responsible party.
 As an Enforcement Staff member, I want to Issue a Notice of Violation, so that I can provide formal communication to the responsible party.
 
-Input phrase:As a l Staff member, I want to search for Property information, so that I can obtain all associated current and historic owners, permits, and applications.
-As a liter Staff extremity, I desire to research for place data, so that I can receive aliterliter associate current and historic owner, license, and appliterications.
-As a fifty Staff penis, I want to search for Property information, so that I can prevail afiftyfifty consort current and historic owners, permit, and appfiftyications.
+Input phrase: As a l Staff member, I want to search for Property information, so that I can obtain all associated current and historic owners, permits, and applications.
+As a liter Staff extremity, I desire to research for place data, so that I can receive aliterliter associate current and historic owners, license, and appliterications.
+As a fifty Staff penis, I want to search for Property information, so that I can prevail afiftyfifty consort current and historic owners, permits, and appfiftyications.
 As a lambert Staff member, I want to search for Property information, so that I can obtain alambertlambert consociate current and historic owners, permits, and applambertications.
 As a l Staff member, I want to search for Property information, so that I can obtain all associated current and historic owners, permits, and applications.
 As a l Staff member, I want to search for Property information, so that I can obtain all associated current and historic owners, permits, and applications.
 
-Input phrase:As a Staff member, I need to be notified when Geospatial attributes change, so that I can ensure that I am reviewing the permit/application to the most current data and appropriate standards.
-As a Staff extremity, I necessitate to be advise when Geospatial property switch, so that I can guarantee that I am review the license/lotion to the most current datum and appropriate standard.
-As a Staff penis, I want to be notified when Geospatial attribute exchange, so that I can see that I am reviewing the permit/application to the most current data and appropriate criterion.
+Input phrase: As a Staff member, I need to be notified when Geospatial attributes change, so that I can ensure that I am reviewing the permit/application to the most current data and appropriate standards.
+As a Staff extremity, I necessitate to be advise when Geospatial property switch, so that I can guarantee that I am review the license/lotion to the most current datum and appropriate criterion.
+As a Staff penis, I want to be notified when Geospatial attributes exchange, so that I can see that I am reviewing the permit/application to the most current data and appropriate standards.
 As a Staff member, I need to be notified when Geospatial attributes transfer, so that I can ensure that I am reviewing the permit/application to the most current data and appropriate standards.
 As a Staff member, I need to be notified when Geospatial attributes deepen, so that I can ensure that I am reviewing the permit/application to the most current data and appropriate standards.
 As a Staff member, I need to be notified when Geospatial attributes change, so that I can ensure that I am reviewing the permit/application to the most current data and appropriate standards.
 
-Input phrase:As a County Staff Member, I want to create a custom query/report outside of the common querying/reporting functionality, so that I can fulfill a request.
-As a County Staff extremity, I desire to make a customs question/report_card external of the coarse questioning/report_carding functionality, so that I can carry_through a request.
+Input phrase: As a County Staff Member, I want to create a custom query/report outside of the common querying/reporting functionality, so that I can fulfill a request.
+As a County Staff extremity, I desire to make a custom question/report_card external of the coarse questioning/report_carding functionality, so that I can carry_through a request.
 As a County Staff penis, I want to produce a custom query/composition outdoor of the common querying/compositioning functionality, so that I can satisfy a request.
 As a County Staff Member, I want to create a custom query/reputation away of the common querying/reputationing functionality, so that I can meet a request.
 As a County Staff Member, I want to create a custom query/report outside of the common querying/reporting functionality, so that I can fulfill a request.
 As a County Staff Member, I want to create a custom query/report outside of the common querying/reporting functionality, so that I can fulfill a request.
 
-Input phrase:As a Staff member, I want to create each condo unit, so that I can associate it to the child parcel and address after the condominiums are recorded in the system.
+Input phrase: As a Staff member, I want to create each condo unit, so that I can associate it to the child parcel and address after the condominiums are recorded in the system.
 As a Staff extremity, I desire to make each condominium unit_of_measurement, so that I can consort it to the child package and savoir-faire after the condominiumminiums are record in the arrangement.
 As a Staff penis, I want to produce each condo whole, so that I can consociate it to the child tract and address after the condominiums are read in the organization.
 As a Staff member, I want to create each condo unit, so that I can associate it to the child parcel and address after the condominiums are commemorate in the system.
 As a Staff member, I want to create each condo unit, so that I can associate it to the child parcel and address after the condominiums are recorded in the system.
 As a Staff member, I want to create each condo unit, so that I can associate it to the child parcel and address after the condominiums are recorded in the system.
 
-Input phrase:As a Technical Staff member, I want to update the GIS Property Management, so that I can successfully update the transactional Parcel Pin to reference the GIS layer where the Split or Merged Parcel Pin exists.
-As a technical_foul Staff extremity, I desire to update the gilbert place Management, so that I can successfully update the transactional package fall to reference the gilbert level where the rip or unify package fall exist.
+Input phrase: As a Technical Staff member, I want to update the GIS Property Management, so that I can successfully update the transactional Parcel Pin to reference the GIS layer where the Split or Merged Parcel Pin exists.
+As a technical_foul Staff extremity, I desire to update the gilbert place Management, so that I can successfully update the transactional package fall to reference the gilbert level where the rip or unify package fall exists.
 As a Technical Staff penis, I want to update the g Property Management, so that I can successfully update the transactional tract peg to reference the g layer where the rent or blend tract peg exists.
 As a Technical Staff member, I want to update the GIS Property Management, so that I can successfully update the transactional Parcel personal_identification_number to reference the GIS layer where the schism or unite Parcel personal_identification_number exists.
 As a Technical Staff member, I want to update the GIS Property Management, so that I can successfully update the transactional Parcel pivot to reference the GIS layer where the Split or incorporate Parcel pivot exists.
 As a Technical Staff member, I want to update the GIS Property Management, so that I can successfully update the transactional Parcel bowling_pin to reference the GIS layer where the Split or Merged Parcel bowling_pin exists.
 
-Input phrase:As a Staff member, I want to Send or Post Citations and Fines, so that I can successfully send the Notice Of Violation document to the property owner and log information about the action.
-As a Staff extremity, I desire to mail or military_post citation and fine, so that I can successfully mail the notification Of misdemeanor text_file to the place owner and logarithm data about the military_action.
-As a Staff penis, I want to transport or position quotation and ticket, so that I can successfully transport the poster Of trespass document to the property owner and log information about the natural_process.
-As a Staff member, I want to station or mail Citations and fin, so that I can successfully station the Notice Of irreverence document to the property owner and log information about the legal_action.
+Input phrase: As a Staff member, I want to Send or Post Citations and Fines, so that I can successfully send the Notice Of Violation document to the property owner and log information about the action.
+As a Staff extremity, I desire to mail or military_post quotation and ticket, so that I can successfully mail the notification Of misdemeanor text_file to the place owner and logarithm data about the military_action.
+As a Staff penis, I want to transport or position Citations and fin, so that I can successfully transport the poster Of trespass document to the property owner and log information about the natural_process.
+As a Staff member, I want to station or mail Citations and Fines, so that I can successfully station the Notice Of irreverence document to the property owner and log information about the legal_action.
 As a Staff member, I want to commit or station Citations and Fines, so that I can successfully commit the Notice Of rape document to the property owner and log information about the action.
 As a Staff member, I want to air or stake Citations and Fines, so that I can successfully air the Notice Of Violation document to the property owner and log information about the action.
 
-Time for the single dataset = 0.9660 seconds = 0.0003 hours
+Time for the single dataset = 1.8433 seconds = 0.0307 minutes = 0.0005 hours
+
+Time for all datasets = 1.8433 seconds = 0.0307 minutes = 0.0005 hours
