@@ -82,6 +82,7 @@ def gen_eda(train_orig, output_file, alpha_sr, alpha_ri, alpha_rs, alpha_rd, num
 
     tic = time.perf_counter()
     for i, line in enumerate(lines):
+        # per vedere quali frasi davano problemi hai messo print di frase
         parts = line[:-1].split('\t')
         label = parts[0]
         sentence = parts[1]
