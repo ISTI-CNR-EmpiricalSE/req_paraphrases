@@ -41,7 +41,7 @@ def parrot_test_func():
 
     if len(sys.argv)-1 == 0:
         start_index = 1
-        end_index = 24
+        end_index = 25
     elif sys.argv[1] != "True" and sys.argv[1] != "False":
         help_message()
         return

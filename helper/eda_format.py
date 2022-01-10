@@ -12,7 +12,7 @@ def eda_format_func():
     """
 
     # since the time that it takes to do it it's very small, every time it process all the files
-    for i in range(1, 24):
+    for i in range(1, 25):
         j = 0
         src_file = open("../results/data_set_" + str(i) + "/results_1.txt", "r")
         dst_file = open("../results/data_set_" + str(i) + "/results_" + str(i) + "_EDA_input.txt", "w")
