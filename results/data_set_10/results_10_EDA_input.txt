@@ -1,3 +1,4 @@
+1	As a Publisher, I want to publish a dataset, so that I can view just the dataset with a few people.
 1	we need a dataset so we can view it with a few people as a publishing company
 1	we need a dataset so we can view it with a few people i want to publish it
 1	we need a dataset so we can view it with a few people i want to publish the dataset
@@ -12,6 +13,7 @@
 1	as a publisher i want to publish a dataset so i can view just the dataset with a few people
 1	as a publisher i want to publish a dataset so that i can view the dataset with a few people
 1	as a publisher i want to publish a dataset so that i can view just the dataset with a few people
+2	As a Publisher, I want to publish a dataset, so that I can share the dataset publicly with everyone.
 2	we need a dataset to share publicly with everyone
 2	when i publish a dataset i want to share it publicly with everyone
 2	when i publish a dataset i want to share the dataset with everyone
@@ -25,6 +27,7 @@
 2	as a publisher i want to publish a dataset so that i can share the dataset publicly with everyone else
 2	as a publisher i want to publish a dataset so that i can share the dataset publicly with everyone 
 2	as a publisher i want to publish a dataset so that i can share the dataset publicly with everyone
+3	As a Publisher, I want to sign up for an account, so that that I can publish my data package to the registry and to have a publisher account to publish my data package under.
 3	i want to register as a publisher so that i can publish my data package to the registry and have a publisher account to publish my data package
 3	i want to register as a publisher so that i can publish my data package to the registry and have a publisher account to publish my data package under
 3	in order to be a publisher i want to sign up for an account so i can publish my data package to the registry and have a publisher account under which i can publish my data
@@ -38,6 +41,7 @@
 3	as a publisher i want to sign up for an account so i can publish my data package to the registry and to have a publisher account to publish my data package under
 3	as a publisher i want to sign up for an account so that i can publish my data package to the registry and have a publisher account to publish my data package under
 3	as a publisher i want to sign up for an account so that i can publish my data package to the registry and to have a publisher account to publish my data package under
+4	As a Visitor, I want to sign up via github or google, so that that I don't have to enter lots of information and remember my password for yet another website.
 4	i would like to sign up via github or google so i don't have to enter a lot of information and remember my password for another website
 4	i would like to sign up via github or google so i don't have to enter lots of information and remember my password for another website
 4	a visitor i want to sign up via github or google to avoid having to enter lots of information and remember my password for another site
@@ -53,6 +57,7 @@
 4	a visitor i want to sign up via github or google to avoid having to enter lots of information and remember my password for yet another website 
 4	i would like to sign up via github or google so that i don't have to enter lots of information and remember my password for yet another website
 4	a visitor i want to sign up via github or google to avoid having to enter lots of information and remember my password for yet another website
+5	As a Publisher, I want to know what do next after signing up, so that that I can get going quickly.
 5	so as publisher i want to know what to do after signing up so i can start quickly
 5	so as publisher i want to know what to do after signing up so i can get started quickly
 5	so as publisher i want to know what to do after signing up so i can get going fast
@@ -68,6 +73,7 @@
 5	as a publisher i want to know what to do after signing up so that i can get going quickly
 5	if i am a publisher i want to know what to do after signing up so that i can get going quickly
 5	as a publisher i want to know what to do next after signing up so that i can get going quickly
+6	As an Admin, I want to invite someone to join the platform, so that that they can start contributing or using data.
 6	as an admin i want to invite someone to join the platform so that they can start contributing or using data to the platform
 6	as an admin i want to invite someone to join the platform so that they can start contributing or using data to the site
 6	as an administrator i want to invite someone to join the platform so that they can start contributing or using data
@@ -80,6 +86,7 @@
 6	as a admin i want to invite someone to join the platform so that they can start contributing or using data
 6	as an admin i want to invite someone to join the platform so that they can start contributing or using data
 6	as an admin i want to invite someone to join the platform so that they can start contributing or using data 
+7	As a Publisher, I want to import my data package into the registry, so that my data has a permanent online home to access. 
 7	my data package will be imported into the registry as a publisher so that i can have access to my data from anywhere in the world
 7	my data package will be imported into the registry as a publisher so that i can have access to my data on a permanent website
 7	my data package has been imported into the registry as a publisher so that i can access it permanently online
@@ -93,6 +100,7 @@
 7	as a publisher i want to import my data package into the registry so that my data has a permanent online home to access
 7	if i am a publisher i want to import my data package into the registry so that my data has a permanent online home to access
 7	as a publisher i want to import my data package into the registry so that my data has a permanent online home to access 
+8	As a Publisher, I want to configure my client, so that I can start publishing data packages.
 8	if i want to configure my client so i can start publishing data packages
 8	as the publisher i want to configure my client so i can begin publishing data packages
 8	as a publisher i want to configure my client so that i can start publishing data
@@ -102,6 +110,7 @@
 8	if i am a publisher i want to configure my client so i can start publishing data packages
 8	as publisher i want to configure my client so that i can start publishing data packages
 8	as a publisher i want to configure my client so that i can start publishing data packages
+9	As a Publisher, I want to use a publish command to update a data package that is already in the registry, so that it appears there.
 9	using the publish command i want to update a data package that is already in the registry to show up there as a publisher
 9	using the publish command i want to update a data package that is already in the registry so it appears there as a publisher
 9	using the publish command i want to update a data package that is already in the registry to show up there
@@ -114,6 +123,7 @@
 9	as a publisher i want to use a publish command to update a data package that is already in the registry so it appears there
 9	as publisher i want to use a publish command to update a data package that is already in the registry so that it appears there
 9	as a publisher i want to use a publish command to update a data package that is already in the registry so that it appears there
+10	 As a Publisher, I want to unpublish a data package, so that it is no longer visible to anyone.
 10	as the publisher i want to unpublish a data package so that no one can see the data package
 10	as the publisher i want to unpublish a data package so that no one can see it
 10	as the publisher i want to unpublish a data package so that no one can see it i want to
@@ -127,6 +137,7 @@
 10	as publisher i want to unpublish a data package so that it is no longer visible to anyone
 10	as the publisher i want to unpublish a data package so that it is no longer visible to anyone
 10	as a publisher i want to unpublish a data package so that it is no longer visible to anyone
+11	 As a Publisher, I want to permanently delete a data package, so that that it no longer takes up storage space.
 11	how do you delete data files permanently?
 11	how do you delete data packages?
 11	how do you delete a data package?
@@ -142,6 +153,7 @@
 11	how do you delete data packages permanently so that they don't take up storage space?
 11	how do you delete a data package permanently so that it doesn't take up storage space?
 11	how do you delete a data package permanently so that it no longer takes up storage space?
+12	 As a Publisher, I want to validate the data I am about to publish to the registry, so that that I publish good data and know that I am doing.
 12	as the publisher i want to validate the data i am about to publish in the registry so i publish good data and know that i'm doing it correctly
 12	as the publisher i want to validate the data i am about to publish in the registry so i publish good data and know that i'm doing it properly
 12	as the publisher i want to validate the data i am about to publish in the registry so i publish good data and know that i'm doing it right
@@ -157,6 +169,7 @@
 12	as a publisher i want to validate the data i am about to publish to the registry so that i publish good data and know what i'm doing
 12	as a publisher i want to validate the data i am about to publish to the registry so that i publish good data and know that i'm doing
 12	as a publisher i want to validate the data i am about to publish to the registry so that i publish good data and know that i am doing
+13	 As a Publisher, I want to data to be validated when I publish it, so that that I know immediately if I have accidentally broken my data or have bugs and can take action to correct.
 13	publisher i want data validation when i publish it so that i know immediately if i have accidentally broken my data or have bugs and can take action to correct the problem
 13	publisher i want data validation when i publish it so i know immediately if i have accidentally broken my data or have bugs and can take action to correct them
 13	publisher i want data validation when i publish it so that i know immediately if i have accidentally broken my data or have bugs and can take action to correct them 
@@ -172,6 +185,7 @@
 13	as a publisher i want to validate data when i publish it so that i know immediately if i have accidentally broken my data or have bugs and can take action to correct
 13	as a publisher i want data validation when i publish it so that i know immediately if i have accidentally broken my data or have bugs and can take action to correct
 13	as a publisher i want data to be validated when i publish it so that i know immediately if i accidentally broken my data or have bugs and can take action to correct
+14	 As a Consumer, I want to know that the data I am downloading is good and can be relied on, so that that I don't have to check it myself or run into annoying bugs later on.
 14	as the consumer i want to know that the data i download is good and can be trusted so that i don't have to check it myself or run into annoying bugs later
 14	as the consumer i want to know that the data i download is good and can be relied on so i don't need to check it myself or run into annoying bugs later on
 14	as the consumer i want to know that the data i download is good and can be relied on so i don't have to check myself or run into annoying bugs later on
@@ -187,6 +201,7 @@
 14	as a consumer i want to know that the data i am downloading is good and can be relied on so that i don't have to check it myself or run into annoying bugs later
 14	as a consumer i want to know that the data i'm downloading is good and can be relied on so that i don't have to check it myself or run into annoying bugs later on
 14	as a consumer i want to know that the data i am downloading is good and can be relied on so that i don't have to check it myself or run into annoying bugs later on
+15	 As a Publisher, I want to publish a data package where its resource data is stored on my servers but the registry caches a copy of that data, so that that if my data is lost or gets broken I still have a copy people can use.
 15	i want to publish a data package where its resource data is stored on my servers but the registry stores a copy of that data so that if my data is lost or broken i still have a copy that people can use
 15	i want to publish a data package where its resource data is stored on my servers but the registry stores a copy of that data so that if my data is lost or broken i still have a copy that people can use 
 15	my job is to publish a data package where its resource data is stored on my servers but the registry caches a copy of that data so if my data is lost or broken i still have a copy people can use
@@ -198,6 +213,7 @@
 15	i want to publish a data package where its resource data is stored on my servers but the registry stores a copy of that data so that if my data is lost or broken i still have a copy people can use
 15	as a publisher i want to publish a data package where its resource data is stored on my servers but the registry caches a copy of that data so if my data is lost or broken i still have a copy people can use
 15	as a publisher i want to publish a data package where its resource data is stored on my servers but the registry caches a copy of that data so that if my data is lost or broken i still have a copy people can use
+16	 As a Consumer, I want to be able to get the data for a data package even if the original data has been moved or removed, so that that I can still use is and my app or analysis keeps working.
 16	as the consumer i want to be able to get data for a package even if the original data has been moved or removed so that i can still use it and my app or analysis keeps working
 16	as the consumer i want to be able to get data for a data package even if the original data has been moved or removed so i can still use is and my app or analysis keeps working
 16	as the consumer i want to be able to get data for a package even if the original data has been moved or removed so that i can still use is and my app or analysis keeps working
@@ -211,6 +227,7 @@
 16	as a consumer i want to be able to get the data for a data package even if the original data has been moved or removed so that i can still use it and my app or analysis keeps working
 16	as a consumer i want to be able to get the data for a data package even if the original data has been moved or removed so that i can still use is and my app or analysis keeps working
 16	as a consumer i want to be able to get the data for a data package even if the original data has been moved or removed so that i can still use is and my app or analysis keeps working 
+17	 As a Publisher, I want to publish a data package in the UI, so that that it is available and published.
 17	if i want to publish a data package in the ui so that it is available and published
 17	when i publish i want to publish a data package in the ui so that he can be available and released
 17	when i publish i want to publish a data package in the ui so that the data package is available and published
@@ -223,6 +240,7 @@
 17	as a publisher i want to publish a data package in the ui so that it is available and published i
 17	as a publisher i want to publish a data package in the ui so that it is available and published 
 17	as a publisher i want to publish a data package in the ui so that it is available and published
+18	 As a Publisher, I want to create a data package in the UI so that it is available and published.
 18	as the publisher i want to create a data package in the ui so that they are available and published i
 18	as a publisher i want to create a data package in the ui so that it is available and available
 18	as the publisher i want to create a data package in the ui so that they are available and published
@@ -233,6 +251,7 @@
 18	as the publisher i want to create a data package in the ui so that it is available and published
 18	as the publisher i want to create a data package in the ui so that it is available and published 
 18	as a publisher i want to create a data package in the ui so that it is available and published
+19	 As a Publisher, I want to be able to restore the deleted data package via cli, so that that it is back visible and available to view, download.
 19	we need a way to restore the deleted data package via cli so that it is back visible and available to view download as a publisher
 19	we need a way to restore the deleted data package via cli so that it is visible and available for download
 19	we need a way to restore the deleted data package via cli so that it is back visible and available for download
@@ -245,6 +264,7 @@
 19	as a publisher i want to be able to restore the deleted data package via cli so that it is back visible and available for download
 19	as a publisher i want to be able to restore the deleted data package via cli so that it is back visible and available for viewing download
 19	as a publisher i want to be able to restore the deleted data package via cli so that it is back visible and available to view download
+20	 As a Publisher, I want to undelete the deleted data packages, so that that the deleted data packages is now visible again.
 20	as the publisher i want to delete deleted data packages so that they are now visible
 20	as the publisher i want to delete deleted data packages so that they are now visible again
 20	as the publisher i want to delete deleted data packages so that the deleted data packages are now visible again i want to delete
@@ -259,6 +279,7 @@
 20	as a publisher i want to undelete the deleted data packages so that the deleted data packages are now visible
 20	as a publisher i want to undelete deleted data packages so that the deleted data packages are now visible again
 20	as publisher i want to undelete the deleted data packages so that the deleted data packages are now visible again
+21	 As a Publisher, I want to be able to preview the views of the current data package using cli prior to publishing, so that that I can refine the json declarations of datapackage view section to achieve a great looking result.
 21	as the publisher i want to be able to preview the current data package views using cli before publishing so i can refine the json declarations of the datapackage view section to achieve a great
 21	if i want to be able to preview view of current data package using cli before publishing so that i can refine the json declarations of the datapackage view section to achieve a great
 21	if i want to be able to preview view of current data package using cli before publishing so that i can refine the json declarations of the view section to achieve a great looking
@@ -273,6 +294,7 @@
 21	if i want to be able to preview view of current data package using cli before publishing so i can refine the json declarations of datapackage view section to achieve a great looking result
 21	as the publisher i want to be able to preview the current data package views using cli before publishing so that i can refine the json declarations of datapackage view section to achieve a great looking
 21	if i want to be able to preview view of current data package using cli before publishing so that i can refine the json declarations of the datapackage view section to achieve a great looking result
+22	 As a Consumer, I want to view a data package online, so that I can get a sense of whether this is the dataset I want.
 22	when i want to view a data package online i want to know if this is the data i want
 22	when i want to view a data package online i want to know if this is the dataset i want
 22	as the consumer i want to view a dataset online so that i can see if this is the dataset i want to see
@@ -288,6 +310,7 @@
 22	as a consumer i want to view a data package online so i can get a sense if this is the dataset i want
 22	as a consumer i want to view a data package online so i can get a sense whether this is the dataset i want
 22	as a consumer i want to view a data package online so i can get a sense of whether this is the dataset i want
+23	 As a publisher, I want to show the world how my published data is, so that that it immediately catches consumer's attention. 
 23	as a publisher i want to show the world how my published data is so that it immediately catches the attention of consumers ''
 23	if i am a publisher i want to show the world how my published data is so that it immediately catches the attention of the consumer
 23	as a publisher i want to show the world how my published data is so that it immediately catches the attention of the consumer
@@ -303,6 +326,7 @@
 23	as a publisher i want to show the world how my published data is so that it immediately catches consumer's attention
 23	if i am a publisher i want to show the world how my published data is so that it immediately catches consumer's attention
 23	if i am a publisher i want to show the world how my published data is so that it immediately catches consumer's attention 
+24	 As a consumer, I want to view the data package, so that that I can get a sense of whether I want this dataset or not.
 24	the consumer wants to view the data package so i can get a sense of whether i want this dataset
 24	the consumer wants to view the data package to get a sense of whether i want this dataset or not
 24	the consumer wants to view the data package so that i can see whether i want this dataset or not
@@ -316,6 +340,7 @@
 24	as a consumer i want to view the data package so i can get a sense of whether i want this dataset or not
 24	as a consumer i want to view the data package so that i can get a sense whether i want this dataset or not
 24	as a consumer i want to view the data package so that i can get a sense of whether i want this dataset or not
+25	 As a Publisher, I want to preview a datapackage I have prepared, so that that I can check it works and share the results.
 25	as an author i want to preview a datapackage i prepared so i can check it works and share the results with other users
 25	as a publisher i want to preview a datapackage i prepared so that i can check it works and share the results with others
 25	as a publisher i want to preview a datapackage i have prepared so i can check it works and share the results with others
@@ -323,6 +348,7 @@
 25	as a publisher i want to preview a datapackage i prepared so i can check it works and share the results
 25	as a publisher i want to preview a datapackage i have prepared so i can check it works and share the results
 25	as a publisher i want to preview a datapackage i prepared so that i can check it works and share the results
+26	 As a Consumer, I want to see how much the data has been downloaded, so that that I can choose most popular in the case when there are several alternatives for my use case.
 26	if i'm a consumer i want to see how much data has been downloaded so i can choose the most popular in the case when there are several alternatives for my use case
 26	as a consumer i want to see how much data has been downloaded so i can choose the most popular in the case when there are several alternatives for my use case
 26	as a consumer i want to see how much data has been downloaded so that i can choose the most popular in the case when there are several alternative for my use case
@@ -336,6 +362,7 @@
 26	as a consumer i want to see how much the data has been downloaded so that i can choose the most popular in the case when there are several alternatives for my use case
 26	as a consumer i want to see how much data has been downloaded so that i can choose most popular in the case when there are several alternatives for my use case
 26	as a consumer i want to see how much the data has been downloaded so that i can choose the most popular in the case when there are several alternatives for my use case 
+27	 As a Publisher, I want to see real examples of published packages so that I can understand how useful and simple the datapackage format and the registry is.
 27	as the publisher i want to see real examples of published packages so i can understand how useful and simple the datapackage format and registry is '
 27	as the publisher i want to see real examples of published packages so i can understand how useful and simple the datapackage format and registry is -
 27	as the publisher i want to see real examples of published packages so i can understand how useful and simple the datapackage format and registry is
@@ -346,6 +373,7 @@
 27	as a publisher i want to see real examples of published packages so i can understand how useful and simple the datapackage format and the registry is
 27	as a publisher i want to see real examples of published packages so that i can understand how useful and simple the datapackage format and the registry are
 27	as a publisher i want to see real examples of published packages so that i can understand how useful and simple the datapackage format and the registry is
+28	 As a Consumer, I want to see some example data packages quickly, so that I get a sense of what is on this site and if it is useful to look further.
 28	if i want to see some example data packages quickly so i can get a sense of what's on this site and if it's useful to look more
 28	if i want to see some example data packages quickly so i can get a sense of what's on this website and if it's useful to look further
 28	if i want to see some example data packages quickly so i can get a sense of what's on this site and if it's useful to look further '
@@ -360,6 +388,7 @@
 28	as a consumer i want to see some example data packages quickly so i can get a sense of what is on this site and if it is useful to look further
 28	as a consumer i want to see some example data packages quickly so that i can get a sense of what is on this site and if it is useful to look further
 28	as a consumer i want to see some example data packages quickly so that i get a sense of what is on this site and if it is useful to look further
+29	 As a Consumer, I want to search data packages, so that that I can find the ones I want.
 29	as the consumer i want to search data packages so i can find them
 29	as the consumer i want to search data packages to find the ones i want
 29	as the consumer i want to search data packages so i can find the ones i want to find
@@ -375,6 +404,7 @@
 29	as the consumer i want to search data packages so i can find the ones i want
 29	as a consumer i want to search data packages so i can find the ones i want
 29	as a consumer i want to search data packages so that i can find the ones i want
+30	 As a Consumer, I want to search based on description of data package, so that that I can find package which related to some key words.
 30	if i want to search based on description of data package so that i can find the package related to some key words i'm looking for
 30	if i want to search based on description of data package so that i can find the package related to some key terms
 30	if i want to search based on description of data package so i can find package which related to certain key words
@@ -389,6 +419,7 @@
 30	as a consumer i want to search based on description of data package so that i can find package related to some key words
 30	as a consumer i want to search based on description of data package so that i can find package which related to some key terms
 30	as a consumer i want to search based on description of data package so that i can find package which related to some key words
+31	 As a Consumer, I want to download the data package in one file, so that that I don't have to download descriptor and each resource by hand.
 31	if i want to download the data package in one file so i don't have to download the descriptor and each resource by hand i have to do
 31	if i want to download the data package in one file so i don't have to download the descriptor and each resource by hand i have to
 31	if i want to download the data package in one file so i don't have to download the descriptor and each resource by hand i need to
@@ -403,6 +434,7 @@
 31	as a consumer i want to download the data package in one file so i don't have to download descriptor and each resource by hand
 31	as a consumer i want to download the data package in one file so that i don't have to download the descriptor and each resource by hand
 31	as a consumer i want to download the data package in one file so that i don't have to download descriptor and each resource by hand
+32	 As a Developer, I want to use data package as a node lib in my project, so that that I can depend on it using my normal dependency framework.
 32	the data package should be used in my project as a node library so that i can depend on it using my normal dependency framework i want to use
 32	the data package should be used in my project as a node library so that i can depend on it using my normal dependency framework i want to
 32	the data package should be used in my project as a node library so that i can depend on it using my standard dependency framework
@@ -416,6 +448,7 @@
 32	as a developer i want to use data package as a node lib in my project so that i can depend on it using my usual dependency framework
 32	as a developer i want to use data package as node lib in my project so that i can depend on it using my normal dependency framework
 32	as a developer i want to use data package as a node lib in my project so that i can depend on it using my normal dependency framework
+33	 As a Consumer, I want to load a Data Package from R, so that that I can immediately start playing with it.
 33	if you are an individual i want to load a r package so i can play with it instantly
 33	if you are an individual i want to load a r package so i can start playing with it right away
 33	if you are an individual i want to load a r package so i can start playing with it
@@ -428,6 +461,7 @@
 33	when i am a consumer i want to load a data package from r so i can immediately start playing with it
 33	as a consumer i want to load a data package from r so that i can immediately start playing with it i
 33	as a consumer i want to load a data package from r so that i can immediately start playing with it
+34	 As a Data Analyst I want to download a data package, so that that I can study it and wrangle with it to infer new data or generate new insights.
 34	if i am a data analyst i want to download a data package so that i can study it and wrangle with it to infer new data
 34	data analyst i want to download a data package so i can study it and wrangle with it to infer new data or create new insights
 34	data analyst i want to download a data package so i can study it and wrangle with it to infer new data or generate new insight
@@ -439,6 +473,7 @@
 34	as a data analyst i want to download a data package so that i can study it and wrestle with it to infer new data or generate new insights
 34	as a data analyst i want to download a data package so that i can study it and wrangle with it to infer new data or generate new insight
 34	as a data analyst i want to download a data package so that i can study it and wrangle with it to infer new data or generate new insights
+35	 As a Data Analyst, I want to update previously downloaded data package, so that that I can work with the most recent data.
 35	as a data analyst i want to update previously downloaded data packages so that i can work with the most recent data if necessary
 35	if i am a data analyst i want to update a previously downloaded data package so that i can work with the latest data
 35	as a data analyst i want to update previously downloaded data so that i can work with the most recent data
@@ -450,6 +485,7 @@
 35	as a data analyst i want to update previously downloaded data packages so that i can work with the most recent data
 35	as a data analyst i want to update previously downloaded data packages so that i can work with the most recent data 
 35	as a data analyst i want to update previously downloaded data package so that i can work with the most recent data
+36	 As a Consumer, I want to download a DataPackage's data one coherent SQLite database, so that that I can get it easily in one form.
 36	if i want to download data from a datapackage one coherent sqlite database i can get it easily in one form
 36	if i want to download a datapackage's data one coherent sqlite database i can easily get it in one form
 36	if i want to download a datapackage's data one coherent sqlite database so i can get it easily in one form i'll have
@@ -465,6 +501,7 @@
 36	as a consumer i want to download datapackage's data one coherent sqlite database so that i can get it easily in one form
 36	as a consumer i want to download a datapackage's data one coherent sqlite database so that i can get it easily in one format
 36	as a consumer i want to download a datapackage's data one coherent sqlite database so that i can get it easily in one form
+37	 As a Data Analyst, I want to compare different versions of some datapackage locally, so that that I can see schema changes clearly and adjust my analytics code to the desired schema version.
 37	if i want to compare different versions of some datapackage locally i need to see schema changes clearly and adjust my analytics code to the desired schema version i have
 37	if i want to compare different versions of some datapackage locally so i can see schema changes clearly and adjust my analytics code to the desired schema version i'm doing
 37	if i want to compare different versions of some datapackage locally so i can see schema changes clearly and adjust my analytics code to the desired schema version i'm using
@@ -479,6 +516,7 @@
 37	if i want to compare different versions of some datapackage locally so i can see schema changes clearly and adjust my analytics code to the desired schema version
 37	data analyst i want to compare different versions of some datapackage locally so i can see schema changes clearly and adjust my analytics code to the desired schema version
 37	data analyst i want to compare different versions of some datapackage locally so that i can see schema changes clearly and adjust my analytics code to the desired schema version
+38	 As a Web Developer, I want to be able to install multiple versions of the same datapackage separately, so that that all my projects could be developed independently and deployed locally.
 38	web developer i want to be able to install multiple versions of the same datapackage separately so that all my projects can be developed independently and deployed locally i
 38	web developers i want to be able to install multiple versions of the same datapackage separately so that all my projects can be developed independently and deployed locally
 38	web developer i want to be able to install multiple versions of the same datapackage separately so that all my projects can be developed independently and deployed locally 
@@ -491,6 +529,7 @@
 38	web developer i want to be able to install multiple versions of the same datapackage separately so that all my projects could be developed independently and deployed locally
 38	as a web developer i want to be able to install multiple versions of the same datapackage separately so that all my projects can be developed independently and deployed locally
 38	as a web developer i want to be able to install multiple versions of the same datapackage separately so that all my projects could be developed independently and deployed locally
+39	 As a Developer, I want to list all DataPackages requirements for my project in the file and pin the exact versions of any DataPackage that my project depends on, so that that the project can be deterministically deployed locally and won't break because of the DataPackage schema changes. 
 39	when developing a project as a developer i want to list all datapackages requirements for my project in the file and pin the exact versions of any datapackage my project depends on so that the project can be deterministically deployed locally and won'
 39	when developing a project as a developer i want to list all datapackages requirements for my project in the file and pin the exact versions of any datapackage my project depends on so that the project can be deterministically deployed locally and won't
 39	when developing a project as a developer i want to list all datapackages requirements for my project in the file and pin the exact versions of any datapackage my project depends on so that the project can be deterministically deployed locally and won't break
@@ -506,6 +545,7 @@
 39	as a developer i want to list all datapackages requirements for my project in the file and pin the exact versions of any datapackage that my project depends on so that the project can be deterministically deployed locally and won't break because of the datapackage schema
 39	as a developer i want to list all datapackages requirements for my project in the file and pin the exact versions of any datapackage that my project depends on so that the project can be deterministically deployed locally and will not break because of the datapackage schema changes
 39	as a developer i want to list all datapackages requirements for my project in the file and pin the exact versions of any datapackage that my project depends on so that the project can be deterministically deployed locally and won't break because of the datapackage schema changes
+40	 As a Publisher, I want to tag datapackage to create a snapshot of data on the registry server, so that that consumers can refer to it.
 40	as the publisher i want to tag datapackage to create a snapshot of data on the registry server so that consumers could refer to it
 40	as the publisher i want to tag datapackage to create a snapshot of data on the registry server so that customers can refer to it
 40	as the publisher i want to tag datapackage to create a snapshot of data on the registry server so that consumers can refer to them
@@ -518,6 +558,7 @@
 40	as a publisher i want to tag datapackage to create a snapshot of data on the registry server so that consumers can refer to it 
 40	as a publisher i want to tag datapackage to create a snapshot of data on the registry server so that consumers can refer to it
 40	as a publisher i want to tag datapackage to create a snapshot of data on the registry server so that the consumers can refer to it
+41	 As a Publisher, I want to be warned that a tag exists when I try to overwrite it, so that that I don't accidentally overwrite stable tagged data which is relied on by consumers.
 41	when i try to overwrite the tag i want to be warned that a tag exists so that i don't accidentally overwrite stable tagged data which is relied on by consumers
 41	as the publisher i want to be warned that when i try to overwrite a tag i don't accidentally overwrite stable tagged data which is relied on by consumers i have
 41	as the publisher i want to be warned that when i try to overwrite a tag i don't accidentally overwrite stable tagged data that is relied on by consumers ''
@@ -533,6 +574,7 @@
 41	as the publisher i want to be warned that a tag exists when i try to overwrite it to prevent accidentally overwriting stable tagged data which is relied on by consumers
 41	as the publisher i want to be warned that a tag exists when i try to overwrite it to avoid accidentally overwriting stable tagged data which is relied on by consumers
 41	as the publisher i want to be warned that a tag exists when i try to overwrite it to avoid accidentally overwriting stable tagged data which is relied on by consumers 
+42	 As a Publisher, I want to be able to overwrite the previously tagged datapackage, so that that I can fix it if I mess up.
 42	as the publisher i want to be able to overwrite the previously tagged datapackage to fix it if i get it wrong
 42	as the publisher i want to be able to overwrite the previously tagged datapackage to fix it if i mess things up
 42	as the publisher i want to be able to overwrite the previously tagged datapackage to fix it if i don't
@@ -544,6 +586,7 @@
 42	as a publisher i want to be able to overwrite the previously tagged datapackage so that i can fix it if i mess it up
 42	as publisher i want to be able to overwrite the previously tagged datapackage so that i can fix it if i mess up
 42	as a publisher i want to be able to overwrite the previously tagged datapackage so that i can fix it if i mess up
+43	 As a Publisher, I want to version my Data Package and keep multiple versions around including older versions, so that that I do not break consumer systems when I change my datapackage.
 43	publisher i want to version my data package and keep multiple versions around including older versions so i don't break consumer systems when i change my datapackage
 43	publisher i want to version my data package and keep multiple versions around including older versions so that i don't break consumer systems when i change my datapackage to
 43	publisher i want to version my data package and keep multiple versions around including older versions so that i don't break consumer systems when i change my datapackage i
@@ -555,6 +598,7 @@
 43	as a publisher i want to version my data package and keep multiple versions around including older versions so that i don't break consumer systems when i change my data package
 43	as a publisher i want to version my data package and keep multiple versions around including older versions so that i don't break consumer systems when i change my datapackage
 43	as a publisher i want to version my data package and keep multiple versions around including older versions so that i do not break consumer systems when i change my datapackage
+44	 As a Publisher, I want to be able to get access to a previous version I tagged, so that that I can return to it and review it. 
 44	in my role as publisher i want to be able to get access to previous versions i tagged so i can return and review them 
 44	in my role as publisher i want to be able to get access to previous versions i tagged so i can return and review them
 44	in my role as publisher i want to be able to get access to previous versions i tagged so i can return to them and review them
@@ -568,12 +612,14 @@
 44	as a publisher i want to be able to get access to a previous version i tagged so i can return to it and review it
 44	as a publisher i want to be able to get access to a previous version i tagged so i can return to it and review it 
 44	as a publisher i want to be able to get access to a previous version i tagged so that i can return to it and review it
+45	 As a Consumer, I want to know full details of how the data package schema has changed, so that that I can adjust my scripts to handle it.
 45	as a consumer i want to know how the data package schema has changed so that i can adjust my scripts to handle it
 45	as the consumer i want to know full details about how the data package schema has changed so i can adapt my scripts to handle it
 45	as the consumer i want to know full details about how the data package schema has changed so i can adjust my scripts to handle it
 45	as the consumer i want to know full details of how the data package schema has changed so i can adapt my scripts to handle it
 45	as the consumer i want to know full details of how the data package schema has changed so i can adjust my scripts to handle this
 45	as the consumer i want to know full details of how the data package schema has changed so i can adjust my scripts to handle it
+46	 As a Consumer, I want to get a sense of the age of the datapackage that I have downloaded before, so that that I can decide if I should update or not.
 46	if i am a consumer i want to get a sense of the age of the datapackage i've downloaded before so that i can decide whether i should update or not
 46	if i am a consumer i want to get a sense of the age of the datapackage i've downloaded before so i can decide if i should update or not
 46	as a consumer i want to know the age of the datapackage that i have downloaded before so that i can decide if i should update or not
@@ -587,6 +633,7 @@
 46	as a consumer i want to get a sense of the age of the datapackage that i have downloaded before so that i can decide if i should update or not i
 46	as a consumer i want to get a sense of the age of the datapackage that i have downloaded before so that i can decide if i should update or not 
 46	as a consumer i want to get a sense of the age of the datapackage that i have downloaded before so that i can decide if i should update or not
+47	 As a Consumer, I want to view a Datapackage at a particular version online, so that that I can present/discuss the particular data timeslice of interest with other people.
 47	as the consumer i want to view a datapackage at a particular version online so i can presentdiscuss with other people the particular data time of interest
 47	as the consumer i want to view a datapackage at a particular version online so i can presentdiscuss with other people the particular data timeslice of interest
 47	if i want to view a datapackage at a particular version online i can presentdiscuss the particular data time of interest with other people
@@ -598,6 +645,7 @@
 47	as the consumer i want to view a datapackage at a particular version online so i can presentdiscuss the particular data time of interest with other people
 47	as a consumer i want to view a datapackage at a particular version online so that i can presentdiscuss the particular data time of interest with other people
 47	as a consumer i want to view a datapackage at a particular version online so that i can presentdiscuss the particular data timeslice of interest with other people
+48	 As a Consumer, I want to download a Data package at a particular version, so that that I know it is compatible with my scripts and system.
 48	consumer i want to download a data package at a particular version so that i know it is compatible with my scripts and system i want to
 48	consumer i want to download a data package at a specific version so that i know it is compatible with my scripts and system
 48	consumer i want to download a data package at a particular version so that i know it is compatible with my scripts and system i have 
@@ -608,6 +656,7 @@
 48	consumer i want to download a data package at a particular version so that i know it is compatible with my scripts and system
 48	as a consumer i want to download a data package at a particular version so i know it is compatible with my scripts and system
 48	as a consumer i want to download a data package at a particular version so that i know it is compatible with my scripts and system
+49	 As a Consumer, I want to be notified of changes to a package I care about, so that that I can check out what has changed and take action.
 49	as an consumer i want to be notified of changes to a package i care about so i can see what has changed and take actions
 49	as an consumer i want to be notified of changes to a package i care about so i can see what has changed and take action
 49	as a consumer i want to be notified of changes to a package i care about so i can see what has changed and take action
@@ -623,6 +672,7 @@
 49	as a consumer i want to be notified of changes to a package i care about so that i can check what has changed and take action
 49	as a consumer i want to be notified of changes to a package i care about so that i can check out what has changed and take action
 49	as a consumer i want to be notified of changes to a package i care about so that i can check out what has changed and take actions
+50	 As a Consumer, I want to see how active the site is, so that I can decide if I should get involved.
 50	a customer wants to see how active the site is so i can decide if i should participate
 50	a customer wants to see how active the site is so i can decide if i should get involved in that
 50	a customer wants to see how active the site is so i can decide if i should get involved in this
@@ -638,6 +688,7 @@
 50	as a consumer i want to see how active the site is so i can decide if i should get involved
 50	as a consumer i want to see how active the site is so that i can decide if i should be involved
 50	as a consumer i want to see how active the site is so that i can decide if i should get involved
+51	 As a Consumer, I want to browse and find publishers, so that that I can find interesting publishers and their packages.
 51	as a consumer i want to browse and find publishers to find interesting publishers and their packages
 51	as a consumer i want to browse and find publishers so i can find interesting publishers and packages
 51	when i am a consumer i want to search and find publishers so i can find interesting publishers and their packages
@@ -651,6 +702,7 @@
 51	as a consumer i want to browse and find publishers so that i can find interesting publishers and their package
 51	as a consumer i want to browse and find publishers so that i can find interesting publishers and their packages
 51	as a consumer i want to browse and find publishers so that i can find interesting publishers and their packages 
+52	 As a Consumer, I want to see a publisher's profile, so that that I can discover their packages and get a sense of how active and good they are.
 52	as the consumer i want to see the profile of a publisher to discover their packages and get a sense of how active and good they are i can
 52	as the consumer i want to see the profile of a publisher to discover their packages and get a sense how active and good they are
 52	as the consumer i want to see the profile of a publisher to discover their packages and to get a sense of how active and good they are
@@ -664,6 +716,7 @@
 52	as a consumer i want to see a publisher's profile so that i can find their packages and get a sense of how active and good they are
 52	as a consumer i want to see a publisher's profile so i can discover their packages and get a sense of how active and good they are
 52	as a consumer i want to see a publisher's profile so that i can discover their packages and get a sense of how active and good they are
+53	 As a Consumer, I want to view a publisher's profile, so that that I can see who is behind a particular package or to see what other packages they produce. 
 53	consumer i want to view a publisher's profile so i can see who is behind a particular package or what other packages they produce ''
 53	consumer i want to view a publisher's profile so i can see who is behind a particular package or what other packages they produce
 53	consumer i want to view a publisher's profile so i can see who is behind a particular package or see what other packages they produce
@@ -677,6 +730,7 @@
 53	as an consumer i want to view a publisher's profile so i can see who is behind a particular package or see what other packages they produce 
 53	as a consumer i want to view a publisher's profile so that i can see who is behind a particular package or what other packages they produce
 53	as a consumer i want to view a publisher's profile so i can see who is behind a particular package or to see what other packages they produce
+54	 As a Consumer, I want to search among all data packages owned by a publisher, so that that I can easily find one data package amongst all the data packages by this publisher.
 54	as a consumer i want to search among all data packages owned by a publisher so i can easily find one data package among all data packages owned by this publisher
 54	as a consumer i want to search among all data packages owned by a publisher so that i can easily find one data package among all data packages owned by this publisher ''
 54	as a consumer i want to search among all data packages owned by a publisher so that i can easily find one data package amongst all data packages owned by this publisher ''
@@ -690,6 +744,7 @@
 54	if i am a consumer i want to search among all data packages owned by a publisher so that i can easily find one data package amongst all data packages by this publisher
 54	as a consumer i want to search among all data packages owned by a publisher so that i can easily find one data package amongst all data packages by this publisher
 54	as a consumer i want to search among all data packages owned by a publisher so that i can easily find one data package amongst all the data packages of this publisher
+55	 As an Owner, I want to edit my profile, so that that it is updated with new information.
 55	i want to edit my profile so that i can update with new information
 55	i want to edit my profile so that it is updated with new information
 55	as owner i want to edit my profile so that it is updated with new info
@@ -701,6 +756,7 @@
 55	in my role as the owner i want to edit my profile so that it is updated with new information
 55	as an owner i want to edit my profile so that it is updated with new information
 55	in my case as owner i want to edit my profile so that it is updated with new information
+56	 As an Owner, I want to invite an existing user, so that the user can become a member of my publisher.
 56	i want to invite an existing user to become a member of my publisher as an owner
 56	i want to invite an existing user to become a member of my publisher as owner
 56	i want to invite an existing user to become a member of my publisher
@@ -712,6 +768,7 @@
 56	as owner i want to invite an existing user so that the user can become a member of my publisher
 56	as a owner i want to invite an existing user so that the user can become a member of my publisher
 56	as an owner i want to invite an existing user so that the user can become a member of my publisher
+57	 As an owner, I want to invite someone using their email to sign up and become a member of my Publisher, so that that they are authorized to publish data packages under my Publisher.
 57	when i want to invite someone using their e-mail to join my publisher so that they are authorized to publish data packages under my publisher i have a
 57	when i want to invite someone using their e-mail to join my publisher so that they are authorized to publish data packages under my publisher i'm not
 57	when i want to invite someone using their e-mail to join my publisher so that they are authorized to publish data packages under my publisher i have 
@@ -725,6 +782,7 @@
 57	when i want to invite someone using their e-mail to join my publisher so that they are authorized to publish data packages under my publisher
 57	when i want to invite someone using their email address to join my publisher so that they are authorized to publish data packages under my publisher
 57	as an owner i want to invite someone using their email to sign up and become a member of my publisher so that they can publish data packages under my publisher
+58	 As an owner, I want to remove someone from membership in my publisher, so that they no longer have ability to publish or modify my data packages.
 58	how can i remove someone from my publisher so they can no longer publish or modify my data packages?
 58	how can i remove someone from my publisher so that they can no longer publish or modify my data packages?
 58	how can i remove someone from my publisher so that they can no longer publish or modify my data packages
@@ -739,6 +797,7 @@
 58	as an owner i want to remove someone from my publisher so that they no longer have the ability to publish or modify my data packages
 58	as an owner i want to remove someone from membership in my publisher so that they no longer have the ability to publish or modify my data
 58	as owner i want to remove someone from membership in my publisher so that they no longer have the ability to publish or modify my data packages
+59	 As an owner, I want to view all the people in my organization and what roles they have, so that that I can change these if I want.
 59	i want to see all the people in my organization and what roles they have so i can change them if i want
 59	i want to see all the people in my organization and what roles they have so i can change these if i want
 59	i want to see all the people in my organization and what roles they have so that i can change these if i want to
@@ -753,6 +812,7 @@
 59	as an owner i want to see all the people in my organization and what roles they have so that i can change these if i want
 59	as an owner i want to view all the people in my organization and what roles they have so that i can change these if i want to
 59	as an owner i want to view all the people in my organization and what roles they have so that i can change these if i want
+60	 As an owner, I want to make a user an owner, so that they have full control.
 60	as an owner i want to make a user an owner so that he has full control over his own business operations
 60	as an owner i want to make a user an owner so that he has full control over his own business
 60	as an owner i want to make a user an owner so that he has full control over his computer
@@ -767,6 +827,7 @@
 60	as owner i want to make a user an owner so that they have full control
 60	as an owner i want to make a user an owner so that they have full control
 60	so as a owner i want to make a user an owner so that they have full control
+61	 As an owner, I want to remove a user as an owner, so that they are just a member and no longer have full control.
 61	as an owner i want to remove a user as an owner so that they are just a member and no longer have full control over their account i
 61	as an owner i want to remove a user as an owner so that they are just a member and no longer have full control over their account 
 61	as an owner i want to remove a user as an owner so that they are just a member and no longer have full control over their account
@@ -782,6 +843,7 @@
 61	as owner i want to remove a user as an owner so that they are just a member and no longer have full control
 61	as a property owner i want to remove a user as an owner so that they are just a member and no longer have full control
 61	as an owner i want to remove a user as an owner so that they are just a member and no longer have full control
+62	 As an Admin, I want to set key configuration parameters for my site deployment, so that that I can change key information like the site title.
 62	as administrator i want to set key configuration parameters for my site deployment so i can change key information like the title of the website
 62	as administrator i want to set key configuration parameters for my site deployment so i can change key information like the title of my website
 62	as administrator i want to set key configuration parameters for my site deployment so i can change key information like the title of the site
@@ -796,6 +858,7 @@
 62	as an admin i want to set key configuration parameters for my site deployment so that i can change key information like the title of the site
 62	as an administrator i want to set key configuration parameters for my site deployment so that i can change key information like the site title
 62	as an admin i want to set key configuration parameters for my site deployment so that i can change key information like the site title
+63	 As an Admin, I want to see key metrics about usage such as users, API usage, downloads, so that that I know how things are going.
 63	as administrator i want to see key metrics about usage such as users api usage downloads so i know how things go
 63	as administrator i want to see key metrics about usage such as user api usage downloads so i know how things are going ''
 63	as administrator i want to see key metrics about usage such as users api usage downloads so i know how things are going ''
@@ -807,6 +870,7 @@
 63	as an admin i want to see key metrics about usage such as users api usage downloads so i know how things are going
 63	as an admin i want to see key metrics about usage such as users api usage downloads so that i know how things are going on
 63	as an admin i want to see key metrics about usage such as users api usage downloads so that i know how things are going
+64	 As an Admin, I want to have a pricing plan and billing system, so that that I can charge users and make my platform sustainable.
 64	as administrator i want a pricing plan and billing system so i can charge users and make my platform sustainable
 64	i want to have a pricing plan and billing system so i can charge my users and make my platform sustainable
 64	as administrator i want to have a pricing plan and billing system to charge users and make my platform sustainable
@@ -820,6 +884,7 @@
 64	as an administrator i want to have a pricing plan and billing system so that i can charge users and make my platform sustainable
 64	as an admin i want to have a pricing plan and billing system so i can charge users and make my platform sustainable
 64	as an admin i want to have a pricing plan and billing system so that i can charge users and make my platform sustainable
+65	 As a Publisher, I want to know if this site has a pricing plan and what the prices are, so that that I can work out what this will cost me in the future and have a sense that these guys are sustainable. 
 65	if this site has a pricing plan and what the prices are so that i can work out what this will cost me in the future and have a sense that these guys are sustainable i want to know
 65	in my role as publisher i want to know if this site has a pricing plan and what the prices are so that i can work out what this will cost me in the future and have 
 65	if this site has a pricing plan and what the prices are so that i can work out what this will cost me in the future and have a sense these guys are sustainable
@@ -833,6 +898,7 @@
 65	in my role as publisher i want to know if this site has a pricing plan and what the prices are so that i can work out what this will cost me in the future and have a sense that these guys
 65	as a publisher i want to know if this site has a pricing plan and what the prices are so that i can work out what this will cost me in the future and have a sense these guys are sustainable
 65	as a publisher i want to know if this site has a pricing plan and what the prices are so i can work out what this will cost me in the future and have a sense that these guys are sustainable
+66	 As a Publisher, I want to sign up for a given pricing plan, so that that I am entitled to what it allows.
 66	as a publisher i want to sign up for a given pricing plan so that i have the right to what it allows me to do
 66	as a publisher i want to sign up for a given pricing plan so that i have the right to what it allows me to
 66	as a publisher i want to sign up for a given pricing plan so that i am entitled to what it allows me to pay for
@@ -847,6 +913,7 @@
 66	as a publisher i want to sign up for a given pricing plan so that i am entitled to what it allows me
 66	in my capacity as a publisher i want to sign up for a given pricing plan so that i am entitled to what it allows
 66	as a publisher i want to sign up for a given pricing plan so that i am entitled to what it allows
+67	 As a Publisher, I want to have private data packages, so that I can share just with my team.
 67	if i want to have private data packages i can share with my team only '' -
 67	if i want to have private data packages i can share with my team only ''
 67	if i want to have private data packages i can share with my team only -

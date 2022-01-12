@@ -1,0 +1,1803 @@
+use_gpu = False
+diversity_ranker = levenshtein
+do_diverse = False
+max_return_phrases = 15
+max_length = 32
+adequacy_threshold = 0.9
+fluency_threshold = 0.1
+
+----------------------------------------------------------------------------------------------------
+1) Input_phrase: The system shall refresh the display every 60 seconds
+----------------------------------------------------------------------------------------------------
+('the system shall refresh the screen every 60 seconds', 19)
+('the system must refresh the display every 60 seconds', 17)
+('the system shall refresh the display every 60 seconds', 12)
+----------------------------------------------------------------------------------------------------
+2) Input_phrase: The application shall match the color of the schema set forth by Department of Homeland Security
+----------------------------------------------------------------------------------------------------
+('the application shall be in accordance with the colors of the dhs schematic', 67)
+('the application shall be drawn to the color of the official document presented by homeland security', 48)
+('the application shall conform to the color of the corresponding schema established by the department of homeland security', 48)
+('the application shall be in compliance with the color of the table set out by the department of homeland security', 42)
+('the application shall be the color of the standardized document set forth by the department of homeland security', 39)
+('the application must be submitted in the color of the schema specified by the department of homeland security', 39)
+('the application shall be notified according to the color of the schema set forth by the department of homeland security', 38)
+('the application shall match the color of the corresponding standard set forth by the department of homeland security', 36)
+('the application shall match the color of the schema referred to by the department of homeland security', 25)
+('the application shall match the color of the scheme outlined by the department of homeland security', 25)
+('the application shall match the color of the schema established by the department of homeland security', 25)
+('the application shall be matched to the color of the schema set forth by the department of homeland security', 24)
+('the application shall have the color of the schema set out by the department of homeland security', 23)
+('the application shall match the color of the schema specified by the department of homeland security', 23)
+('the application shall be the color of the schema set forth by the department of homeland security', 21)
+----------------------------------------------------------------------------------------------------
+3) Input_phrase: If projected  the data must be readable
+----------------------------------------------------------------------------------------------------
+('if projection data will be interpreted the data must be readable', 30)
+('if projections are possible the data must be readable', 23)
+('if the projection is expected the data must be readable', 21)
+('if projection is ordered the data must be readable', 19)
+('if projected the data must be accessible', 19)
+('if projected the data must be readable', 13)
+----------------------------------------------------------------------------------------------------
+4) Input_phrase: On a 10x10 projection screen  90% of viewers must be able to read Event / Activity data from a viewing distance of 30
+----------------------------------------------------------------------------------------------------
+('90 of viewers must be able to read the eventactivity data at a viewing distance of 30 feet on a 10 x 10 projection screen', 89)
+('90 of the spectators must be able to read eventactivity data from a viewing distance of 30 feet on a 10x10 projection screen', 82)
+('90 of the viewers must be able to read event  activity data from a viewing distance of 30 feet on a 10-inch projection screen', 79)
+('90 of the viewers must be able to read events and activity data from a viewing distance of 30 meters at the projection screen', 78)
+('90 of viewers must be able to read event and activity data from a viewing distance of 30 meters on a projection screen', 75)
+('90 of the viewers on a projection screen must be able to read eventactivity data from a viewing distance of 30m', 40)
+('on a projection screen 10x10 90 of the viewers must be able to read event and activity data from a viewing distance of 30 meters', 37)
+('on a projection screen of 10x10 90 of viewers must be able to read event and activity data from a viewing distance of 30 meters', 36)
+('90 of the viewers on a 10x10 projection screen must be able to read eventactivity data from a viewing distance of 30 m', 35)
+('on a 10x10 projection screen 90 of the viewers must be able to read eventactivity data from a viewing distance of 30 meters ', 28)
+('on a 10x10 projection screen 90 of the viewers must be able to read event and activity data from a viewing distance of 30 metres', 27)
+('on a 10x10 projection screen 90 viewers must be able to read event  activity data from a viewing distance of 30 meters', 24)
+('on a 10x10 projection screen 90 of viewers must be able to read the event  activity data at a viewing distance of 30 m', 24)
+('on a 10x10 projection screen 90 of viewers must be able to read event  activity data from a viewing distance of 30 metres', 21)
+('on a 10x10 projection screen 90 of the viewers must be able to read eventactivity data from a viewing distance of 30', 20)
+----------------------------------------------------------------------------------------------------
+5) Input_phrase: The product shall be available during normal business hours
+----------------------------------------------------------------------------------------------------
+('the product is available during normal business hours', 20)
+('the product must be available during normal business hours', 17)
+('the product shall be available during the normal business hours', 16)
+('the product shall be available during normal business hours', 12)
+----------------------------------------------------------------------------------------------------
+6) Input_phrase: As long as the user has access to the client PC  the system will be available 99% of the time during the first six months of operation
+----------------------------------------------------------------------------------------------------
+('the system will be available 99 of the time in the first six months of operation as long as the user has access to the client computer', 110)
+('as long as the user has access to the client pc the system is available 99 of the time for the first six months of operation', 24)
+('if the user has access to the client pc the system will be available 99 of the time during the first six months of operation', 23)
+('as long as the user has access to the pc client the system will be available 99 of the time during the first six months of operation', 19)
+('as long as the user has access to the client computer the system will be available 99 of the time during the first six months of operation', 19)
+('so long as the user has access to the client pc the system will be available 99 of the time in the first six months of operation', 18)
+('as long as the user has access to the client pc the system will be available 99 of the time during the first six months of the operation', 17)
+('as long as the user has access to the client pc the system will be available 99 of the time during the first six months of operation', 13)
+----------------------------------------------------------------------------------------------------
+7) Input_phrase: If projected  the data must be understandable
+----------------------------------------------------------------------------------------------------
+('if the projected data is understood then they have to be understood by some sort', 53)
+('if projected the data must be understood', 19)
+('if projected the data should be understandable', 18)
+('if the projection is projected the data must be understandable', 17)
+('if projected the data must be understandable', 13)
+----------------------------------------------------------------------------------------------------
+8) Input_phrase: On a 10x10 projection screen  90% of viewers must be able to determine that Events or Activities are occuring in current time from a viewing distance of 100
+----------------------------------------------------------------------------------------------------
+('from a viewing distance of 100 meters 90 of the viewers of a 10x10 projection screen must be able to determine that events or activities are occurring in current time', 98)
+('90 of the viewers must be able to determine that events or activities occur in the current time on a 10x10 projector from a viewing distance of 100', 72)
+('90 of viewers must be able to determine that events or activities occur in current time from a distance of 100 meters', 64)
+('90 of the viewers must be able to determine that the events or activities occurring in the current time from a viewing distance of 100 feet', 60)
+('a 10x10 projection screen must allow 90 of the viewers to determine that events or activities occur in current time from a viewing distance of 100 meters', 53)
+('90 of the viewers on a 10x10 projection screen must be able to determine that events or activities occur in the current time from a viewing distance of 100 metres', 46)
+('90 of the viewers on a 10x10 projection screen must be able to determine that events or activities occur in current time from a viewing distance of 100 meters', 44)
+('on a 10x10 projector screen 90 of viewers must be able to determine that events or activities occur in the current time from a viewing distance of 100 meters', 31)
+('on a 10x10 projection screen 90 of viewers must be able to determine that events or activities take place in current time from a viewing distance of 100 meters', 30)
+('on a 10x10 projection screen 90 of viewers must be able to determine that events or activities happen in current time from a viewing distance of 100 feet', 29)
+('on a 10x10 projection screen 90 of viewers must be able to determine that events or activities occur in current time from a viewing distance of 100 meters', 27)
+('on a 10x10 projection screen 90 of viewers must be able to determine that events or activities are happening in current time from a viewing distance of 100 meters', 26)
+('on a 10x10 projection screen 90 of viewers must be able to determine that events or activities occur in the current time from a viewing distance of 100 ', 23)
+----------------------------------------------------------------------------------------------------
+9) Input_phrase: The product shall ensure that it can only be accessed by authorized users
+----------------------------------------------------------------------------------------------------
+('the product shall ensure that the information is only accessible by authorized users', 34)
+('the product shall ensure that the product can only be accessed by authorized users', 22)
+('the product shall ensure that it can only be used by authorized users', 17)
+('the product shall ensure that it can only be accessed by authorized users', 12)
+----------------------------------------------------------------------------------------------------
+10) Input_phrase: The product will be able to distinguish between authorized and unauthorized users in all access attempts
+----------------------------------------------------------------------------------------------------
+('the software will distinguish between authorized and unauthorized users in all attempts to access the system', 49)
+('in all access attempts the product will be able to distinguish between authorised and unauthorized users', 42)
+('in all access attempts the product will be able to distinguish between authorized and unauthorised users', 42)
+('the product will distinguish between authorized and unauthorized users for all unauthorized access attempts', 39)
+('the product will distinguish between authorized and unauthorized users in all unauthorized access attempts', 36)
+('the product will differentiate between authorized and unauthorized users during all access attempts', 34)
+('this system will be able to differentiate between authorized and unauthorized users in all access attempts', 30)
+('the product will be able to distinguish between authorized and unauthorized users in all access attempts to the internet', 28)
+('the product will be able to differentiate between authorized and unauthorized users in all access attempts', 22)
+('the product will be able to distinguish between authorized and unauthorised users in all access attempts', 13)
+('the product will be able to distinguish between authorized and unauthorized users in all access attempts', 12)
+----------------------------------------------------------------------------------------------------
+11) Input_phrase: The product shall be intuitive and self-explanatory
+----------------------------------------------------------------------------------------------------
+('the product must be intuitive and self-explanatory', 17)
+('the product should be intuitive and self-explanatory', 15)
+('the product shall be intuitive and self-explanatory', 12)
+----------------------------------------------------------------------------------------------------
+12) Input_phrase: 90% of new users shall be able to start the display of Events or Activities within 90 minutes of using the product
+----------------------------------------------------------------------------------------------------
+('new users shall be able to start the presentation of events or activities within 90 minutes of using the product', 28)
+('90 new users shall be able to start the presentation of events or activities within 90 minutes of using the product', 25)
+('90 of the new users shall be able to start the display of events or activities within 90 minutes of the use of the product', 24)
+('new users shall be able to start the display of events or activities within 90 minutes of using the product', 18)
+('90 of new users shall be able to begin the display of events or activities within 90 minutes of using the product', 17)
+('90 of new users shall be able to start display of events or activities within 90 minutes of using the product', 16)
+('90 new users shall be able to start the display of events or activities within 90 minutes of using the product', 15)
+('90 of new users shall be able to start the display of events or activities within 90 minutes of using the product', 12)
+----------------------------------------------------------------------------------------------------
+13) Input_phrase: The product shall respond fast to keep up-to-date data in the display
+----------------------------------------------------------------------------------------------------
+('the product must respond quickly in order to keep a complete display of the data', 53)
+('the product shall respond quickly to maintain the most accurate data on display', 45)
+('the product shall respond quickly to maintain the most up-to-date data in the display', 35)
+('the product shall respond quickly to keep the latest data on display', 33)
+('the product shall react quickly to keep up-to-date information in the display', 32)
+('the product shall respond quickly to keep current data on the display', 29)
+('the product should respond quickly to keep updated data in the display', 27)
+('the product must respond quickly to keep up-to-date data in the display', 24)
+('the product shall respond fast to keep up-to-date information on the display', 22)
+('the product shall respond fast to keep current data in the display', 21)
+('the product shall respond quickly to keep up-to-date data in the display', 19)
+('the product shall respond fast to keep up-to-date data on the display', 13)
+----------------------------------------------------------------------------------------------------
+14) Input_phrase: The system shall have a MDI form that allows for the viewing of the graph and the data table
+----------------------------------------------------------------------------------------------------
+('the system shall have a mdi format that allows a visualisation of graphs and data table', 37)
+('the system shall have an mdi form which allows viewing of the graph and the data table', 25)
+('the system shall have a mdi form that allows the viewing of graph and data table', 24)
+('the system shall have an mdi form that permits the viewing of the graph and the data table', 23)
+('the system shall have a mdi form that permits the viewing of the graph and the data table', 22)
+('the system shall have an mdi form that allows the viewing of the graph and data table', 21)
+('the system shall have an mdi form that allows the view of the graph and the data table', 20)
+('the system shall have a mdi form that allows viewing of the graph and the data table', 20)
+('the system shall have an mdi form that allows the viewing of the graph and the data table', 17)
+('the system shall have an mdi form which allows for the viewing of the graph and the data table', 17)
+('the system shall have a mdi form that allows for viewing of the graph and the data table', 16)
+('the system shall have a mdi form that allows the viewing of the graph and the data table', 16)
+('the system shall have an mdi form that allows for the viewing of the graph and the data table', 13)
+----------------------------------------------------------------------------------------------------
+15) Input_phrase: The system shall display Events in a vertical table by time
+----------------------------------------------------------------------------------------------------
+('the system should display events by time in a vertical table', 31)
+('the system shall display the event details in a vertical table by time', 23)
+('the system shall display the events in a vertical table by time', 16)
+('the system shall display events in a vertical table by time', 12)
+----------------------------------------------------------------------------------------------------
+16) Input_phrase: The system shall display the Events in a graph by time
+----------------------------------------------------------------------------------------------------
+('the system shall display the events by time in a graph', 28)
+('the system shall display the events in time in a graph', 26)
+('the system shall display events in a graph by time', 16)
+('the system shall display the events in a graph of time', 14)
+('the system shall display the events in a graph by time', 12)
+----------------------------------------------------------------------------------------------------
+17) Input_phrase: All business rules specified in the Disputes System shall be in compliance to the guidelines of Regulation E and Regulation Z
+----------------------------------------------------------------------------------------------------
+('all business rules specified in the dispute system shall be in compliance with the guidelines of regulations e and z and shall be in accordance with the rules', 55)
+('all business rules specified in the dispute system shall be in compliance with guidelines of regulation e and regulation z of the applicable regulation', 46)
+('all business rules specified in the disputes system shall be in compliance with the guidelines of regulations e and z in the respect of both arising', 43)
+('all rules of business prescribed in the dispute system shall be in conformity with the directives of regulation e and regulation z', 39)
+('all rules of business specified in the dispute system must be in accordance with the guidelines of regulation e and regulation z', 32)
+('all business rules specified in the disputes system shall be in compliance with the guidelines of regulations e and z', 27)
+('all business rules specified in the disputes system shall be in conformity with the guidelines of regulation e and regulation z', 23)
+('all business rules specified in the disputes system shall be in compliance with the directives of regulation e and regulation z', 21)
+('all business rules specified in the disputes system shall be in accordance with the guidelines of regulation e and regulation z', 21)
+('all business rules specified in the disputes system must be in compliance with the guidelines of regulation e and regulation z', 20)
+('all business rules specified in the dispute system shall be in compliance with the guidelines of regulation e and regulation z', 16)
+----------------------------------------------------------------------------------------------------
+18) Input_phrase: The Disputes application must maintain a detailed history of every action that a user takes on a dispute case
+----------------------------------------------------------------------------------------------------
+('disputes must retain a detailed history of every action taken by the user on a dispute case', 45)
+('the disputes application must keep a detailed history of each action taken by a user in a dispute case', 37)
+('the dispute application must maintain a detailed history of every action taken on a dispute case by a user', 36)
+('the disputes application must keep a detailed history of every action taken by a user in a dispute case', 33)
+('the dispute application must keep a detailed history of every action taken by a user on a dispute case', 33)
+('the dispute application must maintain a detailed history of each action taken by a user in a dispute case', 30)
+('the application for disputes must maintain a detailed history of every action that a user takes in a dispute case', 28)
+('the dispute application must maintain a detailed record of every step that the user takes in a dispute case', 27)
+('the dispute application must have a detailed history of every action that a user takes on a dispute case', 20)
+('the disputes application must have a detailed history of every action that a user takes on a dispute case', 19)
+('the disputes application must maintain a detailed history of all actions that a user takes on a dispute case', 18)
+('the dispute application must maintain a detailed history of each action that a user takes in a dispute case', 18)
+('the dispute application must maintain a detailed history of each action that a user takes on a dispute case', 17)
+('the dispute application must maintain a detailed history of every action that a user takes on a dispute case', 13)
+----------------------------------------------------------------------------------------------------
+19) Input_phrase: This ensures a complete audit trail if questions arise later on with regard to a particular dispute case
+----------------------------------------------------------------------------------------------------
+('this allows the administration to prepare a complete audit trail if any questions arise later in the case', 70)
+('this ensures a complete audit trail if questions arise later in a dispute case', 39)
+('this ensures a complete audit trail if questions arise later in a specific dispute case', 36)
+('this ensures a complete audit trail if questions arise later in a particular dispute case if a', 33)
+('this guarantees a complete audit trail if questions arise later with respect to a particular dispute case', 26)
+('it also ensures a full audit trail if questions arise later with regard to a particular dispute case', 24)
+('this ensures a complete audit trail if questions arise later with regard to a specific dispute case', 24)
+('this guarantees a complete audit trail if questions arise later with regard to a particular dispute case', 21)
+('this ensures a complete audit trail if questions arise later with respect to a particular dispute case', 20)
+('this ensures a complete audit trail if questions arise later on with respect to a particular dispute case', 17)
+('this ensures a complete audit trail if questions arise later with regard to a particular dispute case', 15)
+('this ensures a complete audit trail if questions arise later on with regards to a particular dispute case', 13)
+----------------------------------------------------------------------------------------------------
+20) Input_phrase: All actions that modify an existing dispute case must be recorded in the case history
+----------------------------------------------------------------------------------------------------
+('all actions that modify an existing dispute case must be recorded in the case history of a proposed decision', 35)
+('any changes to an existing dispute case must be recorded in the case history', 28)
+('all actions that change an existing dispute case must be recorded in the case history', 18)
+('all actions that alter an existing dispute case must be recorded in the case history', 18)
+('all actions that modify an existing dispute case must be logged in the case history', 17)
+('all actions that modify an existing dispute case must be recorded in the case history', 12)
+----------------------------------------------------------------------------------------------------
+21) Input_phrase: The Disputes System must be accessible by both internal and external users
+----------------------------------------------------------------------------------------------------
+('the dispute management system must be available to both internal and external users', 29)
+('the disputes system must be available for both internal users and external users', 27)
+('the dispute resolution system must be accessible both to internal and external users', 24)
+('the dispute resolution system must be accessible by internal and external users', 24)
+('the disputes system must be accessible both internally and externally', 23)
+('the dispute management system must be accessible to both internal and external users', 23)
+('the dispute resolution system must be accessible to both internal and external users', 21)
+('the dispute system must be accessible both external and internal users', 20)
+('the dispute system must be accessible by both internal and external users', 13)
+('the disputes system must be accessible by both internal and external users', 12)
+----------------------------------------------------------------------------------------------------
+22) Input_phrase: The Disputes System must prevent users from accessing any dispute cases that do not belong to their cardholder base
+----------------------------------------------------------------------------------------------------
+('the disputes system should prevent users from accessing disputes that do not belong to their cardholder base or their account', 43)
+('the disputes system must prevent users from accessing disputes that are not affiliated with the cardholder base', 38)
+('the disputes system must prohibit users from accessing disputes cases that do not belong to the cardholder base', 24)
+("the disputes system must prevent users from accessing disputes cases which don't belong to their cardholder base", 23)
+('the disputes system must prevent users from accessing disputes that do not belong to the cardholder base', 23)
+('the dispute system must prevent users from accessing disputes that do not belong to their cardholder base', 22)
+('the disputes system must prevent users from accessing disputes that do not belong to their cardholder base', 21)
+('the disputes system must prevent users from accessing any disputes that do not belong to their cardholder base', 17)
+('the disputes system must prevent users from accessing disputes cases that do not belong to their cardholder base', 17)
+('the disputes system must prevent users from accessing any dispute cases which do not belong to their cardholder base', 16)
+('the dispute system must prevent users from accessing any dispute cases that do not belong to their cardholder base', 13)
+('the disputes system must prevent users from accessing any dispute cases that do not belong to their cardholder base', 12)
+----------------------------------------------------------------------------------------------------
+23) Input_phrase: The Disputes System will facilitate direct data entry of a dispute case via a user interface that supports real time responses to the users
+----------------------------------------------------------------------------------------------------
+("the system will facilitate direct data entry of a dispute case via a user interface that supports real time responses to the users' questions in a manner", 44)
+("the disputes system will allow direct data entry of a dispute case through a user interface that supports real time responses to the users' questions", 38)
+("the dispute system will facilitate the direct data entry of a dispute case through a user interface that supports real time responses to the users' queries", 33)
+("the dispute system will facilitate direct data entry of a dispute case through a user interface that supports real-time responses to the users' questions", 32)
+('the disputes system will facilitate the direct data entry of a dispute case via a user interface that supports real time responses to the users to provide the', 31)
+('the dispute system will facilitate the direct data entry of a dispute case via a user interface that supports real time responses to the users on the page', 29)
+("the disputes system will facilitate the direct data entry of a dispute case via a user interface that supports real-time responses to users' questions", 28)
+('disputes system will enable direct data entry of a dispute case via a user interface that supports real time responses to the user', 25)
+("the disputes system will facilitate direct data entry of a dispute case via a user interface that supports real time responses to the user's questions", 23)
+('the dispute system will allow direct data entry of a dispute case via a user interface that supports real time responses to the user', 22)
+('the disputes system will facilitate the direct data entry of a dispute case via a user interface that supports real time responses to the user input', 22)
+('the disputes system will facilitate direct data entry in a dispute case via a user interface that supports real-time responses to the users and a', 21)
+("the disputes system will facilitate direct data entry of a dispute case via a user interface that supports real time responses to the users' queries", 21)
+('the disputes system will facilitate direct data entry of a dispute case via a user interface that supports real-time responses to the users', 13)
+----------------------------------------------------------------------------------------------------
+24) Input_phrase: The Disputes System must provide different levels of access with regard to disputes case initiation and follow-up actions
+----------------------------------------------------------------------------------------------------
+('the disputes system must provide different levels of access regarding the initiation and follow-up of disputes cases and proceedings', 60)
+('the disputes system must provide different levels of access with regard to the determination of dispute case initiation and follow up actions in relation to the ', 55)
+('the disputes system must provide different levels of access with regards to the initiation of disputes cases and subsequent actions', 51)
+('the disputes system should provide different levels of access to the dispute processing case initiation and follow-up actions', 38)
+('the disputes system must provide different levels of access with regard to the initiation of a dispute and follow-up actions', 36)
+('the dispute system must provide different levels of access to the dispute initiation and follow-up actions', 31)
+('the dispute system must provide different levels of access for disputes cases initiation and follow-up actions', 27)
+('the dispute system must provide different levels of access to disputes case initiation and follow-up action', 26)
+('the disputes system must provide different levels of access with regard to cases initiation and follow-up actions', 22)
+('the disputes system must provide different levels of access in relation to dispute case initiation and follow-up actions', 21)
+('the dispute system must provide different levels of access with respect to dispute case initiation and follow-up actions', 19)
+('the disputes system must provide different levels of access with respect to disputes case initiation and follow-up actions', 17)
+('the dispute system must provide different levels of access with regard to disputes case initiation and follow-up actions', 13)
+('the disputes system must provide different levels of access with regard to disputes case initiation and follow-up actions', 12)
+----------------------------------------------------------------------------------------------------
+25) Input_phrase: The Disputes System shall provide view access capability for authorized users of the application
+----------------------------------------------------------------------------------------------------
+('the disputes system shall provide access to the application to the authorized users of the application to view the dispute', 56)
+('the dispute management system shall provide access to the information in the system for authorized users of the application', 52)
+('the dispute system shall provide view access to the authorized users of the application to the dispute', 40)
+('the disputes system shall provide access to the full view functionality for authorized users of the application', 40)
+("the disputes system shall provide view access to the application's users for authorized users of the application", 34)
+('the disputes system shall provide views to authorized users of the application', 30)
+('the disputes system shall provide access to view to authorized users of the application', 28)
+('the disputes system shall provide access to view capability for authorized users of the application', 24)
+('the system shall provide view access capabilities for authorized users of the application', 24)
+('the dispute system shall provide view access for authorized users of the application', 24)
+('the disputes system shall provide view access for authorized users of the application', 23)
+('the dispute systems shall provide view access capability for the authorized users of the application', 18)
+----------------------------------------------------------------------------------------------------
+26) Input_phrase: The Disputes System shall provide update access capability for authorized users of the application
+----------------------------------------------------------------------------------------------------
+('the disputes system shall provide for authorized users of the application the capability for update access', 70)
+('the disputes system shall provide to authorized users of the application updated access capability', 64)
+('the disputes system shall provide authorized users with the ability to update the app to the latest version of the application', 62)
+('the disputes system shall provide authorized users with update access to the application information', 60)
+('the disputes system shall provide a capacity to access the information about updates by authorized users of the application', 51)
+('the dispute system shall provide a capability of updating access for authorized users of the application', 40)
+('the disputes system shall provide access to the database updates for authorized users of the application', 36)
+('the disputes system shall provide access to update information for authorized users of the application', 36)
+('the disputes system shall provide access to the update for the authorized users of the application', 35)
+('the disputes system shall provide update access to authorized users of the application', 24)
+('the disputes system shall provide update access for authorized users of the application', 23)
+('the disputes system shall provide update access functionality to authorized users of the application', 22)
+('the disputes system shall provide updates access capability to authorized users of the application', 15)
+('the disputes system shall provide update access capability for authorized users of the application', 12)
+----------------------------------------------------------------------------------------------------
+27) Input_phrase: The Disputes System must allow the users to select disputable transactions (based on the age of the transaction) from a user interface and initiate a dispute (ticket retrieval request or chargeback notification) on the selected transaction
+----------------------------------------------------------------------------------------------------
+('the disputes system must allow the user to select disputable transactions from a user interface based on the age of the transaction and initiate a request for retrieval of a dispute ticket or a notification of chargeback', 111)
+('the disputes system must allow the user to select disputable transactions from a user interface based on the age of the transaction and initiate a dispute ticket retrieval request or chargeback notification', 85)
+('the system must enable users to select disputable transactions from the user interface based on the age of the transaction and initiate a dispute ticket retrieval request or chargeback notification on the selected transaction', 75)
+('the dispute system must allow users to select disputable transactions from a user interface based on the age of the transaction and initiate a dispute ticket retrieval request or chargeback notification on the selected transaction', 61)
+('the dispute system should allow the users to select disputable transactions based on age of the transaction from a user interface and initiate a dispute ticket retrieval request or chargeback notification on the selected transaction as an interim', 36)
+('the dispute system must allow users to select disputable transactions based on the age of the transaction from a user interface and initiate a dispute ticket retrieval request or a refund notification on the selected transaction', 25)
+('the dispute management system must allow the users to select disputable transactions based on age of the transaction from a user interface and initiate a dispute ticket retrieval request or chargeback notification on the selected transaction', 25)
+('the dispute system must allow users to select disputable transactions based on the age of the transaction from a user interface and initiate a dispute ticket retrieval request or chargeback notification to the selected transaction', 19)
+('the dispute system must allow users to select disputable transactions based on the age of the transaction from a user interface and initiate a dispute ticket retrieval request or chargeback notification on the selected transaction', 17)
+('the disputes system must allow the users to select disputable transactions based on the age of the transaction from a user interface and initiate a dispute ticket retrieval request or a chargeback notification for the selected transaction', 16)
+('the disputes system must allow the user to select disputable transactions based on the age of the transaction from a user interface and initiate a dispute ticket retrieval request or a chargeback notification on the selected transaction', 15)
+('the disputes system must allow the users to select disputable transactions based on the age of the transaction from a user interface and initiate a dispute ticket retrieval request or chargeback notification for the selected transaction', 14)
+('the disputes system must allow the user to select disputable transactions based on the age of the transaction from a user interface and initiate a dispute ticket retrieval request or chargeback notification on the selected transaction', 13)
+('the disputes system must allow the users to select disputable transactions based on the age of the transaction from a user interface and initiate a dispute ticket retrieval request or chargeback notification on the selected transaction', 12)
+----------------------------------------------------------------------------------------------------
+28) Input_phrase: The Disputes System must provide the user the ability to initiate a single dispute case on multiple transactions that belong to a single merchant
+----------------------------------------------------------------------------------------------------
+('the disputes system must allow a user to initiate a single dispute case on multiple transactions that belong to a single merchant', 34)
+('the disputes system must provide the user with the ability to initiate a single dispute case involving multiple transactions belonging to a single merchant', 32)
+('the disputes system must provide the user with the ability to initiate a single dispute case on multiple transactions belonging to a single merchant', 25)
+('the disputes system must give the user the ability to initiate a single dispute case on multiple transactions belonging to a single merchant', 25)
+('the dispute settlement system must provide the user the ability to initiate a single dispute case on multiple transactions which belong to a single merchant', 25)
+('the disputes system must provide the user the ability to initiate a single dispute case on multiple transactions belonging to a single merchant', 20)
+('the disputes system must provide the user with the ability to initiate a single dispute case on multiple transactions that belong to a single merchant', 17)
+('the disputes system must provide the user the ability to initiate a single dispute case on multiple transactions that belong to a single merchant', 12)
+----------------------------------------------------------------------------------------------------
+29) Input_phrase: The Disputes System will provide the user the ability to create or initiate a ticket retrieval request
+----------------------------------------------------------------------------------------------------
+('the disputes system will allow the user to create a request for ticket access or initiate a request for a', 63)
+('the disputes system will allow the user to initiate or create a retrieval request for a ticket', 55)
+('the disputes system will allow the user to create or initiate a request for a ticket retrieval', 52)
+('the disputes system will provide the user with the ability to create or initiate a retrieval request for the ticket', 39)
+('the disputes system will provide the user with the ability to create or initiate a retrieval request for a ticket', 37)
+('the disputes system will provide the user with the ability to create or initiate a request for ticket retrieval', 36)
+('the disputes system will provide the user the ability to create or initiate a request for ticket retrieval', 31)
+('the disputes system will provide the user with the ability to create or initiate a ticket request', 27)
+('the disputes system will provide the user with the ability to initiate or create a ticket retrieval request', 27)
+('disputes system provides the user the ability to create or initiate a ticket retrieval request', 22)
+('the disputes system will provide users the ability to create or initiate a ticket retrieval request', 17)
+('the disputes system will provide the user with the ability to create or initiate a ticket retrieval request', 17)
+('the dispute system will provide the user the ability to create or initiate a ticket retrieval request', 13)
+('the disputes system will provide the user the ability to create or initiate a ticket retrieval request', 12)
+----------------------------------------------------------------------------------------------------
+30) Input_phrase: As part of ticket retrieval creation process the system must prompt the user to enter all the required information to create the ticket retrieval request
+----------------------------------------------------------------------------------------------------
+('as part of the ticket retrieval process the system must prompt the user to enter all the necessary information to create the request for retrieval of ticket', 50)
+('as part of the ticket creation process the system must prompt the user to provide all the required information to create the request', 47)
+('as part of the ticket retrieval process the system must prompt the user to enter all the required information to create the request for a retrieval ticket', 41)
+('as part of the ticket retrieval process the system must ask the user to enter all the necessary information to create the ticket retrieval request', 39)
+('as part of ticket retrieval the system must prompt the user to enter all the required information in order to create the ticket retrieval request', 38)
+('as part of the ticket retrieval creation process the system must prompt the user to enter all the required information to create the request for ticket retrieval', 35)
+('as part of the ticket creation process the system must prompt the user to enter all the required information to create the ticket request', 33)
+('as part of the ticket retrieval process the system must prompt the user to enter all required information to create a ticket retrieval request', 32)
+('as part of the ticket retrieval process the system must prompt the user to enter the required information to create the ticket retrieval request', 29)
+('as part of ticket retrieval creation the system must prompt the user to enter the required information to create ticket retrieval request', 28)
+('as part of the ticket retrieval process the system must prompt the user to enter all the required information to create a ticket retrieval request', 28)
+('as part of the ticket retrieval process the system must prompt the user to enter all the required information to create the ticket retrieval request', 25)
+('as part of the ticket retrieval creation process the system must prompt the user to enter all the required information to create the ticket retrieval request', 16)
+----------------------------------------------------------------------------------------------------
+31) Input_phrase: The ticket retrieval request is a document that is sent to merchant inquiring the validity of a transaction
+----------------------------------------------------------------------------------------------------
+('the ticket retrieval request is a document sent to the merchant inquiring the validity of a transaction - for payment or payment processing', 59)
+('the ticket retrieval request is a document sent to a merchant seeking to verify the validity of a transaction', 35)
+('the ticket retrieval request is a document that is sent to the merchant in order to establish the validity of a transaction', 33)
+('a ticket retrieval request is a document that is sent to the merchant in order to verify the validity of a transaction', 32)
+('the ticket retrieval request is a document that is sent to the merchant in order to determine the validity of a transaction', 32)
+('the ticket retrieval request is a document sent to the merchant to ensure the validity of a transaction', 32)
+('the ticket retrieval request is a document that is sent to the merchant in order to check the validity of a transaction', 30)
+('the ticket retrieval request is a document sent to the merchant inquiring about the validity of a transaction', 29)
+('the ticket retrieval request is a document sent to a merchant inquiring about the validity of a transaction', 28)
+('the ticket retrieval request is a document that is sent to the merchant to verify the validity of the transaction', 26)
+('the ticket retrieval request is a document which is sent to merchant to determine the validity of a transaction', 25)
+('the ticket retrieval request is a document that is sent to the merchant inquiring about the validity of a transaction', 22)
+('the ticket retrieval request is a document that is mailed to the merchant inquiring the validity of a transaction', 21)
+----------------------------------------------------------------------------------------------------
+32) Input_phrase: The Disputes System must allow the user to create three unique types of ticket retrieval requests
+----------------------------------------------------------------------------------------------------
+('the disputes system must allow the user to create three unique types of ticket retrieval requests for any of the above documents', 43)
+('the dispute resolving system must allow the user to create three unique types of request for ticket retrieval', 39)
+('the disputes system should allow the user to create three unique kinds of ticket retrieval requests from the system', 37)
+('the system must allow the user to create three unique types of ticket retrieval requests', 21)
+('the dispute system must allow the user to create three unique types of ticket request requests', 19)
+('the disputes system must permit the user to create three unique types of ticket retrieval requests', 18)
+('the dispute system must allow the user to create three unique kinds of ticket retrieval requests', 17)
+('the disputes system must allow the user to create three unique kinds of ticket retrieval requests', 16)
+('the dispute system must allow the user to create three unique types of ticket retrieval requests', 13)
+('the disputes system must allow the user to create three unique types of ticket retrieval requests', 12)
+----------------------------------------------------------------------------------------------------
+33) Input_phrase: The three types of ticket retrieval requests are (1) Request for original receipt (2) Request for a copy of the receipt or (3) Request for a portfolio
+----------------------------------------------------------------------------------------------------
+('the three types of request for ticket retrieval are 1 request for original receipt 2 request for a copy of receipt or 3 request for portfolio of documents', 50)
+('the three types of requests for ticket retrieval are 1 request for original receipt 2 request for a copy of receipt or 3 request for a portfolio of documents', 48)
+('the three types of request for ticket retrieval are 1 request for original receipt 2 request for a copy of the receipt or 3 request for a portfolio of the ticket', 45)
+('the three types of requests for ticket retrieval are 1 request for original receipt 2 request for a copy of receipt or 3 request for a portfolio', 35)
+('the three types of request for ticket retrieval are 1 request for original receipt 2 request for a copy of the receipt or 3 request for a portfolio', 31)
+('the three kinds of ticket retrieval requests are 1 request for original receipt 2 request for a copy of receipt or 3 request for a portfolio of copies', 30)
+('the three types of ticket retrieval requests are 1 request for original receipt 2 request for a copy of the receipt or 3 request for a portfolio of the tickets', 27)
+('the three types of ticket retrieval requests are 1 request for a original receipt 2 request for a copy of receipt or 3 request for a portfolio request', 26)
+('the three types of ticket retrieval requests are 1 request for original receipt 2 request for a copy of receipt or 3 request for a portfolio ticket', 23)
+('the three types of ticket retrieval requests are 1 request for original receipt 2 request for a copy of receipt or 3 request for a portfolio or a', 21)
+('the three types of ticket retrieval requests are 1 request for original receipt 2 request for a copy of the receipt or 3 request for a portfolio request', 20)
+('the three types of tickets retrieval requests are 1 request for the original receipt 2 request for a copy of the receipt or 3 request for a portfolio', 17)
+('the three types of ticket retrieval requests are 1 request for original receipt 2 request for a copy of receipt or 3 request for a portfolio', 16)
+('the three types of ticket retrieval requests are 1 request for original receipt 2 request for a copy of the receipt or 3 request for a portfolio', 12)
+----------------------------------------------------------------------------------------------------
+34) Input_phrase: A portfolio consists of documentation that would provide proof of a purchase such as the documentation that is received from a car rental agency that is more than a sales receipt
+----------------------------------------------------------------------------------------------------
+('a portfolio consists of documentation that would provide proof of a purchase such as documentation received from a rental agency more than a sales receipt for the vehicle', 52)
+('a portfolio consists of documents that would provide proof of a purchase such as the documentation from a car rental agency that is more than a sale receipt', 35)
+('a portfolio consists of documentation that would provide proof of the purchase such as documentation received from a car rental agency which is more than a sales receipt', 31)
+('a portfolio consists of documentation that would provide proof of a purchase such as documentation received from a rental car rental agency that is more than a sales receipt', 31)
+('a portfolio consists of documents that would provide proof of a purchase such as documentation received from a car rental agency that is more than a sales receipt', 29)
+('a portfolio consists of documentation that would provide proof of a purchase such as documentation received from a rental agency that is more than a sales receipt', 28)
+('a portfolio consists of documentation that would provide proof of a purchase such as the documentation received from a rental agency which is more than a sales receipt', 28)
+('a portfolio consists of documentation that would provide proof of a purchase such as documentation that is received from a rental agency and that is more than a sales receipt', 24)
+('a portfolio consists of documentation that would provide proof of a purchase such as the documentation received from a car rental agency that is more than a sales receipt', 20)
+('a portfolio consists of documentation that would provide proof of a purchase such as documentation that is received from a car rental agency that is more than a sales receipt', 16)
+('a portfolio consists of documentation that would provide proof of a purchase such as the documentation that is received from a car rental agency that is more than a sales receipt', 12)
+----------------------------------------------------------------------------------------------------
+35) Input_phrase: The Disputes System must prevent external users from requesting original receipts
+----------------------------------------------------------------------------------------------------
+('the dispute management system must prevent external users from asking for a copy of the original receipts', 44)
+('the disputes system must prevent external users from requesting original receipts from the disputes system', 37)
+('the system must stop external users from seeking original receipts', 33)
+('the dispute system must prevent external users from requesting original receipts from the company', 30)
+('the dispute management system must prevent external users from requesting original receipts', 21)
+('the dispute system must prevent external users from seeking original receipts', 18)
+('the dispute system must prevent external users from requesting the original receipts', 17)
+('the dispute system must prevent external users from requesting original receipts', 13)
+('the disdisputes system must prevent external users from requesting original receipts', 13)
+('the disputes system must prevent external users from requesting original receipts', 12)
+----------------------------------------------------------------------------------------------------
+36) Input_phrase: Requests for original receipts are restricted to internal users
+----------------------------------------------------------------------------------------------------
+('requests for original receipts are limited to internal users', 18)
+('requests for original receipts are restricted to internal users only', 17)
+('requests for original receipts are restricted to internal users', 12)
+----------------------------------------------------------------------------------------------------
+37) Input_phrase: The Disputes System must provide a confirmation to the user upon the creation of ticket retrieval request that contains the following information; the dispute case number  the type of retrieval requested (copy  original or portfolio)  and the date that the merchant response is due
+----------------------------------------------------------------------------------------------------
+('the disputes system must provide to the user upon creation of ticket retrieval request a confirmation that contains the following information the dispute case number the type of retrieval requested copy original or portfolio and the date the merchant response is due', 54)
+('the disputes system must provide to the user a confirmation upon creation of ticket retrieval request that contains the following information the dispute case number the type of retrieval requested copy original or portfolio and the date the merchant response is due', 48)
+('the disputes system shall provide a confirmation to the user upon the creation of ticket retrieval request that contains the following information dispute case number type of retrieval requested copy original or portfolio and date the merchant response is due', 37)
+('the disputes system must provide a confirmation to the user upon creation of a ticket retrieval request which contains the following information dispute case number the type of retrieval requested copy original or portfolio and the date the merchant response is due', 34)
+('the dispute management system must provide a confirmation to the user upon the creation of ticket retrieval requests which contains the following information the dispute case number the type of retrieval requested copy original or portfolio and the date when the merchant response is due', 32)
+('disputes systems must provide a confirmation to the user upon the creation of a ticket retrieval request which contains the following information the dispute case number the type of retrieval requested copy original or portfolio and the date the merchant response is due', 31)
+('the disputes system must provide a confirmation to the user upon creation of a ticket retrieval request that contains the following information dispute case number the type of retrieval requested copy original or portfolio and the date the merchant response is due', 30)
+('the disputes system must provide a confirmation to the user upon the creation of a ticket retrieval request that contains the following information the case number the type of retrieval requested copy original or portfolio and the date the merchant response is due', 30)
+('the disputes system must provide a confirmation to the user upon creating a ticket retrieval request that contains the following information the dispute case number the type of retrieval requested copy original or portfolio and the date the merchant response is due', 28)
+('disputes system must provide a confirmation to the user upon the creation of ticket retrieval request that contains the following information dispute case number the type of retrieval requested copy original or portfolio and date that the merchant response is due', 27)
+('the dispute system must provide a confirmation to the user upon creating a ticket retrieval request that contains the following information the dispute case number the type of retrieval requested copy original or portfolio and the date that the merchant response is due', 24)
+('the disputes system must provide a confirmation to the user upon the creation of the ticket retrieval request that contains the following information the dispute case number the type of retrieval requested copy original or portfolio and the date that the merchant response is due', 19)
+('the disputes system must provide a confirmation to the user upon the creation of ticket retrieval request that contains the following information the dispute case number the type of retrieval requested copy original or portfolio and the date that the merchant response is due', 15)
+----------------------------------------------------------------------------------------------------
+38) Input_phrase: The Disputes System shall allow the user to create or initiate a chargeback request
+----------------------------------------------------------------------------------------------------
+('the disputes system shall permit the user to generate a chargeback request or initiate a charging request', 47)
+('the disputes system shall allow the user to create a chargeback request or initiate a new one', 46)
+('the disputes system shall allow the user to create or initiate a chargeback request for back payment', 29)
+('the dispute-management system shall allow the user to create or initiate a chargeback request', 22)
+('the system of disputes shall allow the user to create or initiate a chargeback request', 20)
+('the dispute system shall permit the user to create or initiate a chargeback request', 19)
+('the disputes system shall allow the user to create or initiate a chargeback request', 12)
+----------------------------------------------------------------------------------------------------
+39) Input_phrase: The system must prompt the user to enter the required information to initiate a chargeback request
+----------------------------------------------------------------------------------------------------
+('the system must prompt the user to enter the required information in order to initiate a chargeback request', 21)
+('the system must prompt the user to enter the required information to initiate a refund request', 20)
+('the system must prompt the user to input the required information to initiate a chargeback request', 16)
+('the system must prompt the user to enter the required information to initiate a chargeback request', 12)
+----------------------------------------------------------------------------------------------------
+40) Input_phrase: The chargeback request results in a printed chargeback notification that is sent to merchant indicating that their account will be charged back if no proof is provided that the disputed transaction is valid
+----------------------------------------------------------------------------------------------------
+('the chargeback request results in a printed chargeback notification sent to the merchant that their account will be charged if there is no proof of the transaction is valid', 67)
+('the chargeback request results in a printed chargeback notification which is sent to the merchant indicating that their account will be charged back if no proof of the disputed transaction is provided', 41)
+('a chargeback request results in a printed chargeback notification that is sent to the merchant indicating that their account will be charged back if there is no proof that the disputed transaction is valid', 33)
+('the request results in a printed chargeback notification which is sent to the merchant indicating that their account will be charged back if no proof is provided that the disputed transaction is valid', 31)
+('the chargeback request results in a printed chargeback notification sent to merchant which indicates that their account will be charged back if no proof is provided that the disputed transaction is valid', 29)
+('the chargeback request results in a printed chargeback notification that is sent to the merchant indicating that their account will be charged back if no proof is provided that the disputed transaction is valid', 16)
+('the chargeback request results in a printed chargeback notification that is sent to merchants indicating that their account will be charged back if no proof is provided that the disputed transaction is valid', 13)
+('the chargeback request results in a printed chargeback notification that is sent to merchant indicating that their account will be charged back if no proof is provided that the disputed transaction is valid', 12)
+----------------------------------------------------------------------------------------------------
+41) Input_phrase: The Disputes System must provide a confirmation to the user upon the creation of a chargeback request
+----------------------------------------------------------------------------------------------------
+('when a chargeback request is submitted the dispute response system must provide a confirmation to the user', 82)
+('the dispute system must provide to the user a confirmation upon creating a chargeback request for a chargeback request', 53)
+('the system must provide a confirmation to the user upon creation of a chargeback request for the chargeback request', 52)
+('the system must verify the user upon creation of a chargeback request', 46)
+('disputes system must provide to the user a confirmation confirmation on the creation of a chargeback request', 41)
+('the dispute system must provide a confirmation to the user on request of a chargeback to the user', 33)
+('the disputes system must provide a confirmation to the user when creating a chargeback request', 23)
+('disputes systems must provide a confirmation to the user on creation of a chargeback request', 23)
+('the system must provide a confirmation to the user upon the creation of a chargeback request', 21)
+('disputes systems must provide a confirmation to the user upon creation of a chargeback request', 21)
+('the dispute system must provide a confirmation to the user upon creation of a chargeback request', 17)
+('the disputes system must provide a confirmation to the user upon creation of a chargeback request', 16)
+('the disputes system must provide confirmation to the user upon the creation of a chargeback request', 14)
+('the disputes system must provide a confirmation to the user upon the creation of a chargeback request', 12)
+----------------------------------------------------------------------------------------------------
+42) Input_phrase: The confirmation must contain the following information; the dispute case number  the type of chargeback requested (pending or immediate)  and the date that the merchant response is due
+----------------------------------------------------------------------------------------------------
+('the confirmation must contain the following information the dispute case number the type of demand for chargeback pending or immediate and the date that the merchant is due to respond to the', 49)
+("the confirmation must include the following information case number dispute type of chargeback requested pending or immediate and date that the merchant's response is due", 44)
+('the confirmation must contain the following information the dispute case number the type of request pending or immediate and the date that merchant response is due', 31)
+('the confirmation must contain the following information the dispute case number the type of chargeback requested pending or immediately and the date that the merchant is due to respond', 30)
+('the confirmation must contain the following information the dispute case number the type of chargeback requested pending or immediate and the date that the merchant will respond', 27)
+('the confirmation must contain the following information dispute case number type of chargeback requested pending or immediate and the date that merchant response is due', 26)
+('the confirmation must contain the following information the dispute case number the type of chargeback requested pending or immediate and the date the merchant responds to the', 25)
+('the confirmation must contain the following information dispute case number the type of chargeback requested pending or immediate and the date the merchant response is due', 23)
+('the confirmation must contain the following information the dispute case number the type of chargeback requested pending or immediately and the date the merchant response is due', 20)
+('the confirmation should contain the following information the dispute case number the type of chargeback requested pending or immediate and the date that the merchant response is due', 19)
+('the confirmation must contain the following information the dispute case number the type of chargeback requested pending or immediate and the date the merchant response is due', 19)
+('the confirmation must contain the following information dispute case number the type of chargeback requested pending or immediate and the date that the merchant response is due', 18)
+('the confirmation must contain the following information the dispute case number the type of chargeback requested pending or immediate and the date that the merchant response is due', 14)
+----------------------------------------------------------------------------------------------------
+43) Input_phrase: The Disputes System shall prevent the creation of duplicate dispute requests 100% of the time
+----------------------------------------------------------------------------------------------------
+('the system of dispute resolution shall ensure that dispute requests can not be generated twice for a period of one hundred of the requested', 93)
+('the dispute system shall not create duplicate requests for dispute 100 of the time', 44)
+('the system of dispute resolution shall not create duplicate dispute requests up to 100 of the time', 43)
+('the disputes system shall prevent the creation of duplicate claims for dispute 100 of the time', 27)
+('the dispute system shall prevent the creation of duplicate claims up to 100 of the time', 26)
+('the dispute system shall prevent the creation of duplicate request requests in 100 of the time', 23)
+('the disputes system shall not cause the creation of duplicate dispute requests 100 of the time', 21)
+('the system shall prevent the creation of duplicate dispute requests 100 of the time', 21)
+('the disputes system shall prevent the creation of duplicate dispute requests in full 100 of the time', 20)
+('the disputes system shall prevent the creation of duplicate dispute requests for 100 of the time', 16)
+('the dispute system shall prevent the creation of duplicate dispute requests 100 of the time', 13)
+('the disputes system shall prevent the creation of duplicate dispute requests 100 of the time', 12)
+----------------------------------------------------------------------------------------------------
+44) Input_phrase: The Disputes System shall accurately provide a list of possible reason codes for a given transaction
+----------------------------------------------------------------------------------------------------
+('the disputes system shall provide a list of possible reason codes for a given transaction with a high level of accuracy', 53)
+('the disputes system shall provide a list of possible reason codes for a given transaction in a comprehensive manner', 49)
+('the disputes system shall provide a list of possible reasons for a given transaction accurately', 39)
+('the disputes system shall provide a list of possible reason codes for a given transaction with accuracy', 37)
+('the disputes system shall provide a list of possible reason codes for a given transaction accurately', 34)
+('the disputes system shall provide a correct list of possible cause codes for a given transaction', 33)
+('the disputes system shall provide a list of possible reason codes for a given transaction correctly', 33)
+('the dispute system shall provide a clear list of possible reasons codes for a given transaction', 31)
+('the dispute system shall provide accurate a list of possible reasons codes for a given transaction', 30)
+('the dispute system shall provide accurately a list of possible reason codes for a given transaction', 29)
+('the disputes system shall provide accurately a list of possible reason codes for a given transaction', 28)
+('the disputes system shall accurately provide a list of possible cause codes for a given transaction', 17)
+----------------------------------------------------------------------------------------------------
+45) Input_phrase: The list of possible reason codes must be derived based on the type of transaction and the industry that the merchant belongs to  according to the business rules defined for the Disputes System
+----------------------------------------------------------------------------------------------------
+('the list of possible reasons codes based on the type of transaction and the industry in which the merchant belongs according to the business rules defined for the dispute system must be derived', 57)
+('the list of possible reason codes must be derived from the type of transaction and the industry to which the merchant belongs according to the business rules defined in the dispute dispute system and the', 47)
+('the list of possible reason codes must be derived based on the type of transaction and industry that the merchant belongs to according to the business rules for the dispute resolution system', 35)
+('the list of possible reason codes must be derived based on the type of transaction and the industry to which the merchant belongs according to the business rules defined for the dispute settlement system', 32)
+('the list of possible reasons codes must be derived based on the type of transaction and the industry to which the merchant belongs according to the business rules defined for the disputes system and the', 31)
+('the list of possible reason codes must be derived based on the type of transaction and the industry to which the merchant belongs according to the business rules for the disputes system', 30)
+('the list of possible reason codes must be derived based on the type of transaction and the industry of the merchant according to the business rules defined for the dispute system', 29)
+("the list of possible reason codes must be determined based on the type of transaction and the industry to which the merchant belongs according to the business rules defined for the disputes system ''", 29)
+("the list of possible reason codes must be derived based on the type of transaction and the industry to which the merchant belongs according to the business rules defined in thedisputes system ''", 29)
+('the list of possible reason codes must be derived based on the type of transaction and the industry to which the merchant belongs according to business rules defined for the disputes system', 26)
+('a list of possible reason codes must be derived based on the type of transaction and the industry of which the merchant belongs according to the business rules defined for the disputes system', 25)
+('the list of possible reason codes must be derived based on the type of transaction and the industry to which the merchant belongs according to the business rules defined in the disputes system', 25)
+('the list of possible reason codes must be derived based on the type of transaction and the industry in which the merchant belongs according to the business rules defined for the disputes system', 23)
+('the list of possible reason codes must be derived based on the type of transaction and the industry that the merchant belongs according to the business rules defined in the dispute systems', 21)
+('a list of possible reason codes must be derived based on the type of transaction and the industry that the merchant belongs according to the business rules defined for thedisputes system', 19)
+----------------------------------------------------------------------------------------------------
+46) Input_phrase: The Disputes System must provide the ability to view existing dispute cases
+----------------------------------------------------------------------------------------------------
+('the disputes system should offer the ability to view existing disputes and determine new ones', 44)
+('the disputes system must provide the ability to view existing dispute cases relating to legal issues', 37)
+('the disputes system must allow the ability to view existing dispute cases in detail', 29)
+('the disputes system must provide the ability to view existing dispute cases for settlement', 27)
+('the dispute system must be able to view existing dispute cases', 27)
+('the dispute system must provide the ability to view current dispute cases', 20)
+('the dispute systems must provide the ability to view existing dispute cases', 14)
+('the dispute system must provide the ability to view existing dispute cases', 13)
+('the disputes system must provide the ability to view existing dispute cases', 12)
+----------------------------------------------------------------------------------------------------
+47) Input_phrase: The Disputes System must provide Search functionality
+----------------------------------------------------------------------------------------------------
+('the disputes system must provide search functionality to the database', 28)
+('the dispute system must provide search functionality to consumers', 26)
+('the disputes system must provide search capabilities', 23)
+('the disposition system must provide search functionality', 18)
+('the disputes system must provide search function', 17)
+('disputes system must provide search functionality', 16)
+('the dispute system must provide search functionality', 13)
+('the disputes system must provide search functionality', 12)
+----------------------------------------------------------------------------------------------------
+48) Input_phrase: The search method must include the ability to search by (1) the dispute case number  (2) the merchant account number  (3) the cardmember account number and (4) the issuer number
+----------------------------------------------------------------------------------------------------
+('the search method must include the ability to search 1 dispute case number 2 merchant account number 3 cardmember account number and 4 issuer number', 33)
+('the search method must include the ability to search by 1 the dispute case number 2 the merchant account number 3 the cardmember account number and 4 the issuer account number', 22)
+('the search method must include the ability to search by 1 the dispute case number 2 the merchant account number 3 the cardmember account number and 4 the issuer', 21)
+('the search method must include the ability to search with 1 the dispute case number 2 the merchant account number 3 the cardmember account number and 4 the issuer number', 18)
+('the search method must include the ability to search 1 the dispute case number 2 the merchant account number 3 the cardmember account number and 4 the issuer number', 17)
+('the search method must include the ability to search for 1 the dispute case number 2 the merchant account number 3 the cardmember account number and 4 the issuer number', 17)
+('the search method must include the ability to search by 1 the dispute case number 2 the merchant account number 3 the cardmember account number and 4 the issuer number', 14)
+----------------------------------------------------------------------------------------------------
+49) Input_phrase: In addition to the above criteria  the search functionality must further allow the user to limit the results of the search by a date range  the type of dispute (ticket retrieval request or chargeback notification)  the case status (open  closed or all) and the dispute reason code
+----------------------------------------------------------------------------------------------------
+('in addition to the criteria above the search functionality must also allow the user to limit the results of the search by a time range the type of ticket retrieval request or chargeback notification the case status closed or all and the dispute reason code', 49)
+('in addition to the above criteria the search function must permit the user to further limit the results of the search by a date range the type of dispute ticket retrieval request or chargeback notification the case status open closed or all and the dispute reason code', 40)
+('in addition to the above criteria the search function must allow the user to limit the results of the search by a date range the type of dispute ticket retrieval request or chargeback notification the case status closed or all and the dispute reason code', 34)
+('in addition to the above criteria the search functionality must allow the user further to limit the results of the search to a date range the type of dispute ticket retrieval request or chargeback notification the case status open closed or all and the dispute reason code', 34)
+('in addition to the above criteria the search function must permit the user to limit the results of the search by a date range the type of dispute ticket retrieval request or chargeback notification the case status open closed or all and the dispute reason code', 32)
+('in addition to the above criteria the search function further must allow the user to limit the results of the search by a date range the type of dispute ticket retrieval request or chargeback notification the case status open closed or all and the dispute reason code', 31)
+('in addition to the criteria above search functionality must further allow the user to limit the results of the search by a date range type of dispute ticket retrieval request or chargeback notification the case status open closed or all and the dispute reason code', 29)
+('in addition to the above criteria search functionality must further allow the user to limit the results of the search by a date range type of dispute ticket retrieval request or chargeback notification case status open closed or all and the dispute reason code', 28)
+('in addition to the above criteria the search functionality must further allow the user to limit the results of the search by a date range type of complaint ticket retrieval request or chargeback notification the case status open closed or all and the dispute reason code', 28)
+('in addition to the above criteria the search functionality must further allow the user to limit the results of the search by a date range the type of dispute ticket retrieval request or chargeback notification the case status closed or all and the dispute reason code', 21)
+('in addition to the above criteria the search function must further allow the user to limit the results of the search by a date range the type of dispute ticket retrieval request or chargeback notification the case status open closed or all and the dispute reason code', 21)
+('in addition to the above criteria search functionality must further allow the user to limit the results of the search by a date range the type of dispute ticket retrieval request or chargeback notification the case status open closed or all and the dispute reason code', 20)
+('in addition to the above criteria the search functionality must further allow the user to limit the results of the search by a date range the type of dispute ticket retrieval request or chargeback notification the case status open closed or all and the dispute reasons code', 17)
+('in addition to the above criteria the search functionality must further allow the user to limit the results of the search by a date range the type of dispute ticket retrieval request or chargeback notification the case status open closed or all and the dispute reason code', 16)
+----------------------------------------------------------------------------------------------------
+50) Input_phrase: A list of all disputes cases that meet the entered search criteria must be provided to the user
+----------------------------------------------------------------------------------------------------
+('the user is required to provide a list of all disputes cases that meet the search criteria entered', 59)
+('a list of all disputes cases which meet the searched criteria must be provided to the user', 26)
+('a list of all cases of dispute that meet the entered search criteria must be provided to the user', 25)
+('a list of all disputes cases which meet the search criteria must be provided to the user', 24)
+('a list of all dispute cases that meet the searched criteria must be provided to the user', 23)
+('a list of all disputes cases that meet the searched criteria must be provided to the user', 22)
+('a list of all dispute cases that meet the search criteria must be provided to the user', 21)
+('a list of all disputes cases that meet the search criteria must be provided to the user', 20)
+('a list of all disputes cases that meet the entered search criteria should be provided to the user', 17)
+('a list of all disputes cases which meet the entered search criteria must be provided to the user', 16)
+('a list of all disputes cases that meet the entered search criteria must be provided to the user', 12)
+----------------------------------------------------------------------------------------------------
+51) Input_phrase: The list of cases must differentiate the type and/or status of the case by color -coding the line item in the list
+----------------------------------------------------------------------------------------------------
+('the list of cases must determine the type andor status of the case by color coding the corresponding item in the list', 33)
+('the list of cases must distinguish the type andor status of the case by color-coding the item in the list', 29)
+('the list of cases must distinguish the type andor status of the case by color-coding each line item in the list', 28)
+('a list of cases must distinguish the type andor status of the case by color coding the line item in the list', 26)
+('the list of cases must distinguish the type andor status of the case by color-coding the line item in the list', 24)
+('the list of cases must differentiate the type andor status of the case by color-coding the line item in the list of cases', 23)
+('the list of cases must differentiate the type andor status of the case by color-coding the item on the list', 20)
+('the list of cases must differentiate the type andor status of the case by colorcoding the item in the list', 20)
+('the list of cases must differentiate the type andor status of the case by color coding the item in the list', 19)
+('the list of cases must differentiate the type andor status of the case by color-coding the line item in the list', 14)
+----------------------------------------------------------------------------------------------------
+52) Input_phrase: For example all open cases will be yellow and all closed cases will be gray
+----------------------------------------------------------------------------------------------------
+('for example all open cases will be yellow and all closed cases will be gray', 12)
+----------------------------------------------------------------------------------------------------
+53) Input_phrase: The Disputes System shall provide the users the ability to view the history of all activities that have occurred on the dispute case
+----------------------------------------------------------------------------------------------------
+('the disputes system shall provide the users with the ability to view the history of all activities that took place in a dispute case', 32)
+('the disputes system shall provide the users the ability to view the history of all activities on the dispute case', 31)
+('the dispute system shall provide the user with the ability to view the history of all activities which have occurred on a dispute case', 25)
+('the dispute system shall provide the users the ability to view the history of all actions that occurred in the dispute case', 24)
+('the disputes system shall provide the users with the ability to view the history of all activities that have happened on the dispute case', 23)
+('the disputes system shall provide the users with the ability to view the history of all activities that occurred on the dispute case', 22)
+('the disputes system shall provide the user with the ability to view the history of all activities that occurred on the dispute case', 22)
+('the disputes system shall provide the user with the ability to see the history of all activities that have occurred on the dispute case', 20)
+('the disputes system shall provide the users the ability to view the history of all activities which occurred on the dispute case', 19)
+('the dispute system shall provide the user with the ability to view the history of all activities that have occurred on the dispute case', 18)
+('the disputes system shall give the users the ability to view the history of all activities that have occurred on the dispute case', 17)
+('the disputes system shall provide the user the ability to view the history of all activities that have occurred on the dispute case', 13)
+('the dispute system shall provide the users the ability to view the history of all activities that have occurred on the dispute case', 13)
+----------------------------------------------------------------------------------------------------
+54) Input_phrase: The Dispute System shall provide the users with the ability to follow up on a dispute case via follow-up actions
+----------------------------------------------------------------------------------------------------
+('the dispute system shall provide the users the ability to follow up on a dispute case through follow-up actions in a manner that gives a', 49)
+('the dispute system shall provide the users with the ability to follow up on a dispute case via follow-up actions on the relevant documents', 38)
+('the dispute system shall provide users with the ability to follow up on a dispute case via follow-up actions as part of the', 31)
+('the dispute system shall provide users with the ability to follow up on a dispute case through follow-up actions', 23)
+('the dispute system shall provide the users with the ability to follow up on a dispute case through follow-up actions', 19)
+('the dispute system shall provide users with the ability to follow up a dispute case via follow-up actions', 19)
+('the dispute system shall provide users with the ability to follow up on a dispute case via follow-up actions', 16)
+('the dispute system shall provide the users with the ability to follow-up on a dispute case via follow-up actions', 13)
+('the dispute system shall provide the user with the ability to follow up on a dispute case via follow-up actions', 13)
+('the dispute system shall provide the users with the ability to follow up on a dispute case via follow-up actions', 12)
+----------------------------------------------------------------------------------------------------
+55) Input_phrase: The list of available follow up actions for a given dispute case must be filtered by the status of the case and the access level of the user
+----------------------------------------------------------------------------------------------------
+("the list of available follow up actions for a given dispute case must be filtered according to the status of the case and the user's access level", 42)
+('the list of available follow-up actions for a given case must be filtered by the status of the case and the access level of the user', 21)
+('the list of available follow up actions for a particular dispute case must be filtered by the status of the case and the access level of the user', 21)
+('the list of available follow up actions for a given dispute case must be filtered by status of the case and access level of the user', 20)
+('the list of available follow up actions for a given case must be filtered by the status of the case and the access level of the user', 20)
+('the list of available follow up actions for a given dispute case must be filtered by the status of the case and access level of the user', 16)
+('the list of available follow up actions for a given dispute case must be filtered by the status of the case and by the access level of the user', 15)
+('the list of available follow-up actions for a given dispute case must be filtered by the status of the case and the access level of the user', 13)
+('the list of available follow up actions for a given dispute case must be filtered by the status of the case and the access level of the user', 12)
+----------------------------------------------------------------------------------------------------
+56) Input_phrase: The Disputes System shall record the name of the user and the date for any activity that creates or modifies the disputes case in the system
+----------------------------------------------------------------------------------------------------
+('the disputes system shall record the name of the user and the date of any activity created or modified in the system for any disputes case and the information', 51)
+('the disputes system shall record the name and date of the user who created or modifies the dispute case in the system', 46)
+('the system of disputes shall record the name of the user and the date of any activity created or modified by the dispute case in the system', 33)
+('the dispute settlement system shall record the name of the user and date for any activity which creates or modifies the dispute case in the system', 30)
+('the dispute management system shall record the name of the user and date for any activity that creates or modifies a dispute case in the system', 29)
+('the disputes system shall record the name of the user and the date for all activities which create or modify disputes case in the system', 29)
+('the disputes system shall record the name of the user and the date for any activity created or modified by the dispute in the system', 28)
+('the disputes system shall record the name of the user and the date of any activity that creates or modifies the dispute in the system', 20)
+('the dispute system shall record the name of the user and the date for any activity which creates or modifies the dispute case in the system', 18)
+('the dispute system shall record the name of the user and date for any activity that creates or modifies the dispute case in the system', 18)
+('the dispute system shall record the name of the user and the date for any activity that creates or modifies a dispute case in the system', 17)
+('the dispute system shall record the name of the user and the date for any activity that creates or modifies the dispute case in the system', 14)
+('the disputes system shall record the name of the user and the date of any activity that creates or modifies the disputes case in the system', 14)
+('the disputes system shall record the name of the user and the date for any activity that creates or modifies the dispute case in the system', 13)
+----------------------------------------------------------------------------------------------------
+57) Input_phrase: A detailed history of the actions taken on the case  including the date and the user that performed the action must be maintained for auditing purposes
+----------------------------------------------------------------------------------------------------
+('an audit trail must be maintained of the actions taken in the case including the date and the user who performed the action', 74)
+('in order to be audited an audit history of the actions taken on the case including the date and the user that performed the action must be maintained', 47)
+('a detailed history of the actions taken on the case including the date and the user that performed the action for auditing purposes must be maintained', 47)
+('for audit purposes a detailed history of the actions taken on the case including the date and the user who performed the action must be maintained', 38)
+('detailed history of actions taken on the case including the date and the user that carried out the action must be maintained for audit purposes', 31)
+('a detailed record of the actions taken on the case including the date and user who performed the action must be maintained for audit purposes', 28)
+('the detailed history of actions taken in the case including date and user that performed the action must be maintained for auditing purposes', 25)
+('a detailed history of the actions taken in the case including the date and the user who conducted the action must be maintained for auditing purposes', 24)
+('a detailed history of the actions taken on the case including the date and the user that performed the action must be maintained for audit purposes', 16)
+('a detailed history of the actions taken on the case including the date and the user who performed the action must be maintained for auditing purposes', 16)
+('a detailed history of the actions taken on the case including the date and the user that performed the action must be maintained for auditing purposes', 13)
+----------------------------------------------------------------------------------------------------
+58) Input_phrase: For any systematic (non-user initiated) action that occurs on a case such as the disputes aging process  a case activity will be generated
+----------------------------------------------------------------------------------------------------
+('in the event of a systematic action initiated by a non-user - such as the dispute aging process a case activity will be generated', 47)
+('in case activity generated for any systematic non-user initiated action on a case such as the dispute aging process a case activity will be generated', 35)
+('for any systematic non-user initiated action involving a case such as the disputes aging process a case activity will be generated', 26)
+('for any systematic non-user initiated action occurring on a case such as the disputes aging process a case activity will be generated', 22)
+('for every systematic non-user initiated action that occurs in a case such as the dispute ageing process a case activity will be generated', 19)
+('for any systematic non-user initiated action that occurs on a case such as the disputes aging process a case activity is generated', 19)
+('for every systematic non-user initiated action that occurs on a case such as the dispute ageing process a case activity will be generated', 18)
+('for any systematic non-user initiated action that occurs on a case such as the disputes aging process a case activity will be generated ', 14)
+('for any systematic non-user initiated action that occurs on a case such as the dispute aging process a case activity will be generated', 14)
+('for any systematic non-user initiated action that occurs in a case such as the disputes aging process a case activity will be generated', 14)
+----------------------------------------------------------------------------------------------------
+59) Input_phrase: Upon the next logon the user that initiated the dispute case must be notified that a systematic action has occurred on the dispute case
+----------------------------------------------------------------------------------------------------
+('the user who started the dispute case must be notified that the dispute case has been sent to the systemic authorities upon the subsequent login', 90)
+('the user who initiated the dispute case should be notified that a systematic action has been taken on the dispute case upon the next login', 69)
+('the user who initiated the dispute case must be notified upon the next login that a systematic action has occurred on the dispute case', 55)
+('upon the next logon the user who initiated the dispute case must be notified that a systematic action on the dispute case has been notified', 45)
+('upon the subsequent logon the user that initiated the dispute case must be notified that a systematic action on the dispute case has occurred', 45)
+('upon the next logon the user who initiated the dispute case must be notified that a systematic action is in progress to resolve the dispute', 39)
+('upon the next logged in the user who initiated the dispute case must be notified that a systematic action has been taken to resolve the dispute case', 38)
+('on the next login the user that initiated the dispute case must be notified that a systematic action has occurred on the dispute case on which the user did', 37)
+('upon the next connection the user that initiated the dispute case must be notified that systematic actions have been taken on the dispute case', 33)
+('upon the next logon the user initiating the dispute case must be notified that a systematic action has occurred in this regard', 31)
+('upon the next logon the user who initiated the dispute must be notified that a systematic action has been taken on the dispute case', 29)
+('upon the next login the user initiated the dispute case must be notified that a systematic action was taken on the dispute case', 26)
+('on the next login the user who initiated the case must be notified that a systematic action has occurred on the dispute case', 26)
+('upon the next logon the user that initiated the dispute case must be notified that a systematic action has occurred on the dispute case', 12)
+----------------------------------------------------------------------------------------------------
+60) Input_phrase: All letter requests must be formatted according to guidelines specified by the Print Letter Utility system
+----------------------------------------------------------------------------------------------------
+('all letters will be formatted according to the guidelines set forth in the print letter utility system', 37)
+('all letters need to be formatted according to directives specified by the print letter utility system', 29)
+('all request letters must be formatted according to the guidelines specified by the print letter utility system', 24)
+('all letters demanded must be formatted according to the guidelines specified by the print letter utility system', 24)
+('all request letters must be formatted according to guidelines specified by the printing letter utility system', 23)
+('all correspondence requests must be formatted according to the guidelines specified by the print letter utility system', 22)
+('all correspondence requests must be formatted according to guidelines specified by the print letter utility system', 18)
+('all letter requests must be formatted according to the guidelines specified by the print letter utility system', 16)
+('all letter requests must be formatted according to guidelines specified by the print letter utility system', 12)
+----------------------------------------------------------------------------------------------------
+61) Input_phrase: Any disputes cases that have been closed for over 6 months must be purged from the online disputes database
+----------------------------------------------------------------------------------------------------
+('if any case is closed for more than 6 months all of the items in the online database will be wiped from the database', 83)
+('all disputes over a 6-month period must be purged from the online dispute database', 51)
+('all disputes closed for over 6 months must be removed from the online dispute database', 41)
+('any disputes that have been closed for more than 6 months must be purged from the online database of disputes', 41)
+('all disputes which have been closed for over 6 months must be removed from the online disputes database and removed', 40)
+('any cases that have been closed for more than six months must be removed from the online dispute database', 37)
+('any disputes that have been closed for more than six months must be purged from the online dispute database', 29)
+('any disputes case that have been closed for more than 6 months must be removed from the online dispute database', 26)
+('any disputes that have been closed for more than 6 months must be purged from the online dispute database', 26)
+('any dispute cases that have been closed for more than 6 months must be wiped from the online dispute database', 25)
+('any disputes that have been closed for over 6 months must be removed from the online dispute database', 24)
+('all disputes cases that have been closed for more than 6 months must be purged from the online dispute database', 22)
+('all disputes that have been closed for over 6 months must be purged from the online dispute database', 21)
+('any disputes that have been closed for over 6 months must be purged from the online dispute database', 19)
+('any disputes cases that have been closed for over 6 months must be purged from the online dispute database', 13)
+----------------------------------------------------------------------------------------------------
+62) Input_phrase: The product must support Internet Explorer 5
+----------------------------------------------------------------------------------------------------
+('the product must support internet explorer 5 as the default browser', 35)
+('the product must support internet explorer 5 users', 18)
+('the product should support internet explorer 5', 17)
+('the product must support internet explorer 5', 12)
+----------------------------------------------------------------------------------------------------
+63) Input_phrase: 5 and above
+----------------------------------------------------------------------------------------------------
+('the following criteria must be met 5 and above', 29)
+('5 or above', 15)
+('5 and above', 12)
+----------------------------------------------------------------------------------------------------
+64) Input_phrase: The product must support Mozilla Firefox 1
+----------------------------------------------------------------------------------------------------
+('it must support mozilla firefox 1', 22)
+('the product must support firefox 1', 20)
+('the product must support mozilla firefox 1 version', 20)
+('the product must support mozilla firefox 1', 12)
+----------------------------------------------------------------------------------------------------
+65) Input_phrase: 0 and above
+----------------------------------------------------------------------------------------------------
+('0 and above', 12)
+----------------------------------------------------------------------------------------------------
+66) Input_phrase: The product shall interface with the Choice Parts System
+----------------------------------------------------------------------------------------------------
+('the product must interface with the choice parts system', 17)
+('the product shall interface with choice parts system', 16)
+('the product shall interface with the choice parts system', 12)
+----------------------------------------------------------------------------------------------------
+67) Input_phrase: This provides the feed of recycled parts data
+----------------------------------------------------------------------------------------------------
+('this provides the feed of data from the data about recycled parts', 41)
+('this provides the feed of the data on the re-used components', 40)
+('this provides data indicating the data of the reused parts', 40)
+('this provides the feed of data collected from recycled parts', 37)
+('this feeds the data on recycled parts', 28)
+('this provides the feed of data for recycled parts', 26)
+('this provides the data feed of recycled parts', 22)
+('this provides the feed of repurposed parts data', 18)
+('this provides a feed of recycle parts data', 16)
+('this provides the feed of recycled parts data', 12)
+----------------------------------------------------------------------------------------------------
+68) Input_phrase: The product shall run on the existing hardware for all environments
+----------------------------------------------------------------------------------------------------
+('the product must run on existing hardware for all environments', 21)
+('the product shall run on existing hardware in all environments', 19)
+('the product shall run on the existing hardware in all environments', 15)
+('the product shall run on the existing hardware for all environments', 12)
+----------------------------------------------------------------------------------------------------
+69) Input_phrase: The product shall adhere to the corporate Architecture guidelines
+----------------------------------------------------------------------------------------------------
+('the product shall conform to corporate architecture guidelines and be compatible with the product specifications', 72)
+('the product shall follow corporate architecture guidelines and specifications', 43)
+('the product must follow corporate architecture guidelines', 29)
+('the product must comply with the corporate architecture guidelines', 26)
+('the product shall comply with corporate architecture guidelines', 22)
+('the product shall follow the corporate architecture guidelines', 21)
+('the product shall comply with the corporate architecture guidelines', 21)
+('the product shall conform to the corporate architecture guidelines', 18)
+('the product must adhere to the corporate architecture guidelines', 17)
+('the product shall adhere to corporate architecture guidelines', 16)
+('the product shall adhere to the corporate architecture guidelines', 12)
+----------------------------------------------------------------------------------------------------
+70) Input_phrase: The product shall comply with corporate User Interface Guidelines
+----------------------------------------------------------------------------------------------------
+('the product shall comply with corporate guidelines on user interfaces', 34)
+('the product shall be conforming to the corporate user interface guidelines', 26)
+('the product shall conform to the corporate user interface guidelines', 21)
+('the product must comply with corporate user interface guidelines', 17)
+('the product shall comply with the corporate user interface guidelines', 16)
+('the product shall comply with corporate user interface guidelines', 12)
+----------------------------------------------------------------------------------------------------
+71) Input_phrase: The product shall comply with corporate color scheme
+----------------------------------------------------------------------------------------------------
+('the product shall be in the color of the corporate brand', 38)
+('the product shall be consistent with the corporate color scheme', 27)
+('the product must conform to the corporate color scheme', 26)
+('the product shall be accompanied by a corporate color scheme', 26)
+('the product shall conform to the corporate colors scheme', 22)
+('the product shall be compatible with corporate colors scheme', 21)
+('the product must comply with the corporate color scheme', 21)
+('the product shall conform to the corporate color scheme', 21)
+('the product shall conform to corporate color scheme', 20)
+('the product shall comply with the corporate color scheme', 16)
+('the product shall comply with corporate color schemes', 13)
+----------------------------------------------------------------------------------------------------
+72) Input_phrase: The appearance of the product shall appear professional
+----------------------------------------------------------------------------------------------------
+('the appearance of the product must be professional', 22)
+('the appearance of the product shall look professional', 18)
+('the appearance of the product shall be professional', 17)
+('the appearance of the product must appear professional', 17)
+('the appearance of the product should appear professional', 15)
+('the appearance of the product shall appear professional', 12)
+----------------------------------------------------------------------------------------------------
+73) Input_phrase: The software product is expected to run on Windows or Linux platforms
+----------------------------------------------------------------------------------------------------
+('the software will run on windows or linux platforms', 33)
+('it is expected to run on windows or linux platforms', 31)
+('the software product is expected to run on linux or windows platforms', 22)
+('the software is expected to run on windows or linux platforms', 20)
+('software product is expected to run on windows or linux platforms', 16)
+('the software product is expected to run on windows or linux platforms', 12)
+----------------------------------------------------------------------------------------------------
+74) Input_phrase: The product shall be easy to use by Adjusters and Collision Estimators
+----------------------------------------------------------------------------------------------------
+('the product shall be easy to use by adjustment and collision estimations', 17)
+('the product shall be easy to use for adjusters and collision estimates', 17)
+('the product shall be easy to use for adjusters and collision estimators', 15)
+('the product shall be easy to use by adjusters and collision estimations', 14)
+('the product shall be easy to use by adjusters and collision estimates', 14)
+('the product shall be easy to use by adjusters and collision estimaters', 13)
+('the product shall be easy to use by adjusters and collision estimators', 12)
+----------------------------------------------------------------------------------------------------
+75) Input_phrase: 95% of Adjusters and Collision Estimators shall find the product easy to use
+----------------------------------------------------------------------------------------------------
+('95 adjusters and collision estimators shall find the product simple to use', 21)
+('95 of adjusters and collision estimators shall find the product simple to use', 18)
+('95 of adjusters and collision estimators must find the product easy to use', 17)
+('95 of adjusters and collision estimates should find the product easy to use', 17)
+('95 of the adjusters and collision estimators shall find the product easy to use', 16)
+('95 of adjusters and collision estimators will find the product easy to use', 15)
+('95 of adjusters and collision estimations shall find the product easy to use', 14)
+('95 of adjusters and collision estimators shall find the product easy to use', 12)
+----------------------------------------------------------------------------------------------------
+76) Input_phrase: The product shall increase productivity of Collision Estimators
+----------------------------------------------------------------------------------------------------
+('the product shall increase the productivity of collision estimation instruments', 28)
+('the product shall increase the performance of collision estimaters', 28)
+('the product shall increase the productivity of collision estimation machines', 26)
+('the product shall increase the productivity of collision estimation devices', 25)
+('the product shall increase the productivity of collision estimaters and', 21)
+('the product shall increase the productivity of the collision estimators', 20)
+('the product shall increase the productivity of collision estimations', 18)
+('the product shall increase the productivity of collision estimaters', 17)
+('the product shall increase the productivity of collision estimators', 16)
+('the product shall increase productivity of collision estimaters', 13)
+----------------------------------------------------------------------------------------------------
+77) Input_phrase: 80% of the Collision Estimators shall agree their productivity has increase within 1 month of using the product
+----------------------------------------------------------------------------------------------------
+('80 of the collision estimaters shall agree that their productivity has risen within 1 month of using the product in the case', 36)
+('80 of the collision estimates shall agree that their productivity has increased within one month of the use of the product', 31)
+('80 of the collision estimators shall agree that their productivity has risen within 1 month of using the product for', 27)
+('80 collision estimators shall agree that their productivity has increased within a month of using the product', 26)
+('80 of the collision estimates shall agree that their productivity has increased within one month of using the product', 23)
+('80 of the collision estimaters agree their productivity has increased within one month of using the product', 23)
+('80 of the collision estimates shall agree their productivity has increased within 1 month of the use of the product', 23)
+('80 of collision estimators shall agree that their productivity has increased within 1 month of using the product', 22)
+('80 of the collision estimates shall agree that their productivity has increased within 1 month of using the product', 20)
+('80 collision estimators shall agree their productivity has increased within 1 month of using the product', 20)
+('80 of the collision estimations shall agree that their productivity has increased within 1 month of using the product', 20)
+('80 of the collision estimaters shall agree that their productivity has increased within 1 month of using the product', 19)
+('80 of the collision estimates will agree their productivity has increased within 1 month of using the product', 18)
+('80 of the collision estimations shall agree their productivity has increased within 1 month of using the product', 15)
+----------------------------------------------------------------------------------------------------
+78) Input_phrase: Users shall feel satisfied using the product
+----------------------------------------------------------------------------------------------------
+('the users will be satisfied with the product', 19)
+('users will be satisfied using the product', 18)
+('the user should feel satisfied with the product', 17)
+('the users should feel satisfied with the product', 16)
+('users should feel satisfied using the product', 15)
+('the user shall feel satisfied with using the product', 15)
+('the user should feel satisfied using the product', 13)
+('users shall feel satisfied using the product', 12)
+('the user shall feel satisfied using the product', 10)
+----------------------------------------------------------------------------------------------------
+79) Input_phrase: 85% of all users will be satisfied with the product
+----------------------------------------------------------------------------------------------------
+('85 of all customers are happy with the product', 30)
+('85 people will be satisfied with the product', 22)
+('85 users of the product will be satisfied with the product', 22)
+('85 of the users are satisfied with the product', 21)
+('85 users will be satisfied with the product', 19)
+('85 of the customers will be satisfied with the product', 19)
+('85 of all customers will be satisfied with the product', 16)
+('85 of the users will be satisfied with the product', 15)
+('85 of all users will be satisfied with the product', 12)
+----------------------------------------------------------------------------------------------------
+80) Input_phrase: The product shall be easy to learn by Adjusters and Collision Estimators
+----------------------------------------------------------------------------------------------------
+('the product must be easy to learn by adjusters and collision estimatedors', 19)
+('the product must be easy to learn by adjusters and collision estimators', 17)
+('the product shall be easy to learn for adjusters and collision estimations', 17)
+('the product shall be easy to learn by adjusting and collision estimates', 17)
+('the product shall be easy to learn for adjusters and collision estimators', 15)
+('the product should be easy to learn by adjusters and collision estimators', 15)
+('the product shall be easy to learn by adjusters and collision estimates', 14)
+('the product shall be easy to learn by adjusters and collision estimations', 14)
+('the product shall be easy to learn by adjusters and collision estimators', 12)
+----------------------------------------------------------------------------------------------------
+81) Input_phrase: The product shall be learned with two days onsite training
+----------------------------------------------------------------------------------------------------
+('the product shall be acquired by two days of training onsite', 34)
+('the product shall be learned with two days of training in the field', 30)
+('the product shall be learnt with two days training on site', 28)
+('the product shall be learned with two days of training on site', 25)
+('the product shall be learned by two days of in-house training', 24)
+('the product shall be mastered with two days of onsite training', 21)
+('the product shall be learned by two days of onsite training', 19)
+('the product shall be learnt with two days of on-site training', 18)
+('the product shall be learned with two days of onsite training', 15)
+('the product shall be learned with two days of site training', 14)
+----------------------------------------------------------------------------------------------------
+82) Input_phrase: The user shall easily locate instructions while using the product
+----------------------------------------------------------------------------------------------------
+('the user should find instructions easily during the use of the product', 44)
+('user should be able to quickly find the instructions for use of the product', 41)
+('the user should always locate directions during the use of the product', 37)
+('the user shall find instructions easily while using the product', 31)
+('the user must find easy instructions when using the product', 30)
+('the user shall find the instructions easily while using the product', 29)
+('the user must easily locate the instruction manual while using the product', 28)
+('the user shall locate instructions easily while using the product', 26)
+('the user should easily locate the instructions while using the product', 19)
+('the user must easily locate instructions while using the product', 17)
+('the user should easily locate instruction while using the product', 16)
+('the user shall easily locate instructions while using the product', 12)
+----------------------------------------------------------------------------------------------------
+83) Input_phrase: User help can be found within 90% of the system
+----------------------------------------------------------------------------------------------------
+('help is available within 90 seconds of the system', 36)
+('on-site customer support is available within 90 of the system', 32)
+('support is available within 90 of the system', 27)
+('user support is within 90 of the system', 27)
+('users can get support in 90 of the system', 27)
+('users can find help within 90 of the system', 26)
+('the user support is located within 90 of the system', 23)
+('user support can be found in 90 of the system', 21)
+('user support can be found within 90 of the system', 17)
+('user assistance can be found within 90 of the system', 17)
+('help for users can be found within 90 of the system', 15)
+('user help can be found within 90 of the system', 12)
+----------------------------------------------------------------------------------------------------
+84) Input_phrase: The search for recycled parts shall take no longer than 15 seconds
+----------------------------------------------------------------------------------------------------
+('searching for recycled parts shall not take more than 15 seconds', 30)
+('the search of recycled parts should not take longer than 15 seconds', 24)
+('the search for recycled parts shall not take more than 15 seconds', 23)
+('the search for recycled parts shall not take longer than 15 seconds', 19)
+('the search for recycled parts must take no longer than 15 seconds', 17)
+('the search for recycled parts shall take no longer than 15 seconds', 12)
+----------------------------------------------------------------------------------------------------
+85) Input_phrase: The search results shall be returned in under 15 seconds
+----------------------------------------------------------------------------------------------------
+('the results of the search should be returned in less than 15 seconds', 32)
+('the results of the search shall be returned in less than 15 seconds', 29)
+('search results shall be returned within less than 15 seconds', 29)
+('search results will be returned in less than 15 seconds', 28)
+('the search results must be returned in less than 15 seconds', 26)
+('search results shall be returned in less than 15 seconds', 25)
+('the search results should be returned in less than 15 seconds', 24)
+('the search results shall be returned in less than 15 seconds', 21)
+('the results shall be returned in under 15 seconds', 19)
+('the search results will be returned in under 15 seconds', 15)
+----------------------------------------------------------------------------------------------------
+86) Input_phrase: The search for the preferred repair facility shall take no longer than 8 seconds
+----------------------------------------------------------------------------------------------------
+('searching for the preferred repair facility shall not take longer than 8 seconds', 26)
+('the search for the preferred repair facility shall not take more than 8 seconds', 23)
+('the search for the preferred repair facility must not take longer than 8 seconds', 22)
+('searching for the preferred repair facility shall take not longer than 8 seconds', 20)
+('the search for the preferred repair facility shall not take longer than 8 seconds', 19)
+----------------------------------------------------------------------------------------------------
+87) Input_phrase: The preferred repair facility is returned within 8 seconds
+----------------------------------------------------------------------------------------------------
+('the preferred repair facility is returned within 8 seconds', 12)
+----------------------------------------------------------------------------------------------------
+88) Input_phrase: The recycled parts audit report shall be returned to the user within 10 seconds
+----------------------------------------------------------------------------------------------------
+('the audit report shall be returned to the user within 10 seconds after receipt of the recycled part report', 69)
+('the audit report about recycled parts shall be returned to the user within 10 seconds of receipt of the audit report', 63)
+('the audit report on recycled parts shall be mailed back to the user within 10 seconds', 39)
+('the audit report on recycling of parts shall be provided to the user within 10 seconds', 39)
+('the audit report of recycled parts shall be returned to the user in 10 seconds', 33)
+('the audit report about recycled parts shall be returned to the user within 10 seconds', 32)
+('the audit report for recycled parts shall be returned to the user within 10 seconds', 30)
+('the audit report on recycled parts shall be returned to the user within 10 seconds', 29)
+('the audit report for the recycled parts shall be returned to the user within 10 seconds', 29)
+('the audit report of recycled parts shall be returned to the user within 10 seconds', 29)
+('the recycled parts audit report must be returned to the user within 10 seconds of request', 28)
+('the audit report shall be returned to the user within 10 seconds', 27)
+----------------------------------------------------------------------------------------------------
+89) Input_phrase: The audit report shall be returned within 10 seconds
+----------------------------------------------------------------------------------------------------
+("the audit report is '' returned within 10 seconds", 19)
+('the audit report shall be returned within 10 seconds', 12)
+----------------------------------------------------------------------------------------------------
+90) Input_phrase: The preferred repair facility ratings shall be saved within 5 seconds
+----------------------------------------------------------------------------------------------------
+('the preferred ratings of the repair facility must be saved within 5 seconds', 35)
+('the preferred repair facility ratings are saved within 5 seconds of the incident', 34)
+('the preferred ratings for the repair facility shall be saved within 5 seconds', 32)
+('the preferred rating of repair facility shall be saved within 5 seconds', 29)
+('ratings for the preferred repair facility shall be saved within 5 seconds', 18)
+('ratings of the preferred repair facility shall be saved within 5 seconds', 17)
+('the preferred repair facility ratings must be saved within 5 seconds', 17)
+('the preferred repair facility ratings shall be saved in 5 seconds', 16)
+('the preferred repair facilities ratings shall be saved within 5 seconds', 15)
+('the preferred repair facility rating shall be saved within 5 seconds', 13)
+('the preferred repair facility ratings shall be saved within 5 seconds', 12)
+----------------------------------------------------------------------------------------------------
+91) Input_phrase: The save shall occur within 5 seconds
+----------------------------------------------------------------------------------------------------
+('the saving is carried out within five seconds', 30)
+('the saving shall take place within five seconds', 29)
+('the save shall take place in five seconds', 27)
+('the backup must take place within 5 seconds', 26)
+('the saving shall take place within 5 seconds', 25)
+('this should occur in 5 seconds', 24)
+('the save shall take place within 5 seconds', 22)
+('the recovery shall happen within 5 seconds', 22)
+('the save shall happen within five seconds', 22)
+('the saving shall happen within 5 seconds', 21)
+('the saving shall occur within 5 seconds', 15)
+('the save shall occur within 5 seconds', 12)
+----------------------------------------------------------------------------------------------------
+92) Input_phrase: The product shall adhere to the corporate online availability schedule
+----------------------------------------------------------------------------------------------------
+('the product shall comply with the online availability schedule of the company', 45)
+('the product shall follow the corporate availability schedule for online', 39)
+('the product shall conform to the corporate availability schedule online', 32)
+('the product must comply with the corporate online availability schedule', 26)
+('the product shall comply with the corporate online availability schedule', 21)
+('the product shall follow the corporate online availability schedule', 21)
+('the product shall conform to the corporate online availability schedule', 18)
+('the product shall adhere to corporate online availability schedule', 16)
+----------------------------------------------------------------------------------------------------
+93) Input_phrase: The application is brought down only within 98% of the scheduled outages per the availability schedule
+----------------------------------------------------------------------------------------------------
+('the application is down on the basis of availability and is only canceled within 98 of the scheduled outages', 82)
+('the application is reduced by 98 of the scheduled outages per availability schedule', 36)
+('the application is brought down only after 98 of the planned outages according to the availability schedule', 35)
+('the application is closed only in 98 of scheduled outages per availability schedule', 34)
+('the application is only brought down within 98 of the scheduled outages according to the availability schedule', 33)
+('the application is only brought down within 98 of the planned outages per availability schedule', 33)
+('application is closed only within 98 of scheduled outages per the availability schedule', 30)
+('the application is brought down only in 98 of the scheduled outages according to availability schedule', 26)
+('the application is closed only within 98 of scheduled outages per the availability schedule', 26)
+('the application is blasted only within 98 of scheduled outages per the availability schedule', 25)
+('the application is only brought down within 98 of the scheduled - outages per the availability schedule', 24)
+('the application is down only within 98 of the scheduled outages per the availability schedule', 20)
+('the application is brought down within 98 of the scheduled outages per the availability schedule', 17)
+('the application is brought down only in 98 of the scheduled outages per the availability schedule', 16)
+('the application is brought down only within 98 of the scheduled outages per availability schedule', 16)
+----------------------------------------------------------------------------------------------------
+94) Input_phrase: The product shall achieve a 98% uptime
+----------------------------------------------------------------------------------------------------
+('the product shall achieve a maximum of 98 bs uptime', 26)
+('the product shall be able to achieve 98 uptime', 25)
+('the product shall reach a 98 uptime', 18)
+('the product shall have a 98 uptime', 16)
+('the product shall achieve a 98 uptime', 12)
+----------------------------------------------------------------------------------------------------
+95) Input_phrase: The product shall not fail more than 2% of the available online time
+----------------------------------------------------------------------------------------------------
+('the product shall not exceed 2 of the available time online available', 37)
+('the product shall not fail more than 2 of the online time available', 30)
+('the product shall not fail more than two of the available time online', 23)
+('the product shall not fail more than 2 of the available time online', 20)
+('the product shall not fail more than two of the available online time', 15)
+('the product should not fail more than 2 of the available online time', 15)
+('the product shall not fail more than 2 of the available online time', 12)
+----------------------------------------------------------------------------------------------------
+96) Input_phrase: The product shall be able to handle up to 1500 simultaneous users
+----------------------------------------------------------------------------------------------------
+('the device shall be able to support up to 1500 simultaneous users', 25)
+('the product shall be capable of handling up to 1500 simultaneous users', 20)
+('the product shall be able to support up to 1500 simultaneous users', 19)
+('the product shall be able to handle up to 1500 simultaneous users', 12)
+----------------------------------------------------------------------------------------------------
+97) Input_phrase: The system shall perform with 1500 users as a time
+----------------------------------------------------------------------------------------------------
+('the system shall provide a time period of 1500 users as an inbuilt capacity', 46)
+('the system shall work to a time of 1 500 users', 36)
+('the system shall be able to serve 1500 users as a time schedule', 35)
+('the system is going to be configured with 1500 users at a time', 33)
+('the system shall perform with a time of 1500 users', 31)
+('the system shall operate with 1500 users as a time of operation', 30)
+('the system shall be capable of serving 1500 users at a time', 30)
+('the system will operate with 1500 users as a timescale', 25)
+('the system shall operate with 1500 users as a timescale', 22)
+('the system shall perform at 1500 users as a time limit', 21)
+('the system shall perform with 1500 users as a time period', 19)
+('the system shall perform with 1500 users as a time-repeat', 19)
+('the system shall perform with 1500 users as a time scale', 18)
+('the system shall perform with 1500 users as a time trial', 18)
+('the system shall perform with 1500 users as a time', 12)
+----------------------------------------------------------------------------------------------------
+98) Input_phrase: The average number of recycled parts records per day shall be 50 000
+----------------------------------------------------------------------------------------------------
+('the average number of recycled parts records is 50 000 per day', 30)
+('the average number of recycled parts record pages shall be 50 000 per day', 27)
+('the average number of recycling records per day shall be 50 000', 20)
+('the average number of recycled parts registered per day shall be 50 000', 19)
+('the average number of recyclable parts records per day shall be 50 000', 16)
+('the average number of recycled part records per day shall be 50 000', 13)
+('the average number of recycled parts records per day shall be 50 000', 12)
+----------------------------------------------------------------------------------------------------
+99) Input_phrase: The product shall be able to handle 10 000 concurrent users within 2 years of the initial launch
+----------------------------------------------------------------------------------------------------
+('the product shall be capable of 10 000 concurrent users within 2 years of the initial product launch', 31)
+('the product shall be able to handle ten thousand concurrent users within two years of its initial launch', 29)
+('the product shall be able to support 10 000 concurrent users within 2 years of initial launch', 23)
+('the product shall be able to deal with 10 000 concurrent users within 2 years of the initial launch', 20)
+('the product shall be able to handle 10 000 concurrent users within two years of initial launch', 19)
+('the product shall be able to handle 10 000 concurrent users within 2 years of the initial market launch', 19)
+('the product shall be able to handle 10 000 concurrent users within two years of its initial launch', 18)
+('the product shall be able to handle up to 10 000 concurrent users within 2 years of the initial launch', 18)
+('the product shall be able to handle 10 000 concurrent users within two years of the initial launch', 15)
+('the product shall be able to handle 10 000 concurrent users within 2 years of the initial launch', 12)
+----------------------------------------------------------------------------------------------------
+100) Input_phrase: For estimators  the product shall be able to be operated in a repair facility during dirty and noisy conditions
+----------------------------------------------------------------------------------------------------
+('the product shall be able to be operated in a repair facility during dirty and noisy conditions for estimators', 43)
+('for estimators the product must be able to be operated in a factory for repair under dirty and noisy conditions', 38)
+('for estimation the product must be able to be operated in a repair facility during dirty and noisy conditions', 21)
+('for estimators the product shall be able to be operated in a repair facility under dirty and noisy conditions', 18)
+('for estimators the product shall be able to be operated in a repair facility in dirty and noisy conditions', 17)
+('for estimators the product should be able to be operated in a repair facility during dirty and noisy conditions', 16)
+('for estimators the product shall be able to be operated in a repair facility during dirty and noisy conditions', 13)
+('for the estimators the product shall be able to be operated in a repair facility during dirty and noisy conditions', 13)
+----------------------------------------------------------------------------------------------------
+101) Input_phrase: The product shall interface with the ChoiceParts system once per day at approximately 1:00 AM
+----------------------------------------------------------------------------------------------------
+None
+----------------------------------------------------------------------------------------------------
+102) Input_phrase: The maintenance of the product will fall within the established corporate maintenance windows
+----------------------------------------------------------------------------------------------------
+('the product maintenance will fall within the established corporate maintenance windows', 27)
+('maintenance of the product will be in the established corporate maintenance windows', 24)
+('maintenance of the product will be done within the established corporate maintenance windows', 23)
+('maintenance of the product will fall within established corporate maintenance windows', 20)
+('the maintenance of the product will fall under the established corporate maintenance windows', 18)
+('maintenance of the product will fall within the established corporate maintenance windows', 16)
+('the maintenance of the product will be within the established corporate maintenance windows', 16)
+('the maintenance of the product will fall within the established corporate maintenance windows', 12)
+----------------------------------------------------------------------------------------------------
+103) Input_phrase: The product shall be supported using the corporate support center
+----------------------------------------------------------------------------------------------------
+('the product shall be supported via corporate support center', 20)
+('the product is supported using the corporate support center', 20)
+("the product shall be supported using the company's support centre", 20)
+('the product shall be supported by the corporate support center', 17)
+('the product shall be supported using the corporate support center', 12)
+----------------------------------------------------------------------------------------------------
+104) Input_phrase: Product installations and upgrades shall be handled by the middleware technology team within established launch time frames
+----------------------------------------------------------------------------------------------------
+('installations and updates shall be handled by the middleware engineering team within set timeframes for the product release', 62)
+('installation and upgrades of products shall be handled by the middleware team within the established launch timeframes', 49)
+('installations and upgrades for the product shall be handled by the middleware technology team within the agreed launch time frames', 45)
+('installation and upgrade of products will be handled by the middleware technology team within established time frames', 41)
+('installation and upgrade of products shall be performed by the middleware technology team within established launch timeframes', 40)
+('installation and updates of product shall be handled by the middleware technology team within established launch timeframes', 36)
+('installations and upgrades to products shall be handled by the middleware technology team within established launch time frames', 32)
+('installations and upgrades of product shall be handled by the middleware technology team within established launch time frames', 31)
+('installation and upgrades will be handled by the middleware technology team within established launch times', 30)
+('installations and upgrades shall be handled by the middleware technology team within the established launch time frames', 24)
+('installations and upgrades shall be handled by the middleware technology team within established launch time frames', 20)
+('product installations and upgrades shall be handled by the middleware technology team within the established launch time frames', 16)
+('product installations and upgrades shall be handled by the middleware technology team within established launch time frames', 12)
+----------------------------------------------------------------------------------------------------
+105) Input_phrase: Only adjusters can request recycled parts audit reports
+----------------------------------------------------------------------------------------------------
+('only adjusters can request audit reports of the recycled parts', 36)
+('only adjusters can request audit reports on recycling parts', 36)
+('only adjusters can request audit reports of recycled parts', 34)
+('only adjusters can request audit reports on recycled parts', 34)
+('only adjusters can request audit reports about recycled parts', 33)
+('only adjusters can request recycling parts audit reports', 15)
+('only adjusters can request recycled parts audit reports', 12)
+----------------------------------------------------------------------------------------------------
+106) Input_phrase: No users without an adjuster role shall request recycled parts audits
+----------------------------------------------------------------------------------------------------
+('no user should request recycled parts audits without a role of a adjuster', 63)
+('no user should request recycled parts audits without an adjuster role', 63)
+('no users without a role of an adjuster will request recycled part audits', 31)
+('no users without an adjuster role shall request audit of recycled parts', 28)
+('no user without a role as a adjuster shall request recycled parts audits', 28)
+('no user with no adjuster role shall request recycling audits', 26)
+('no user without a role of adjuster shall request recycled parts audits', 26)
+('users with no adjuster role shall not request recycled parts audits', 24)
+('no users without an adjuster role can request recycled parts audits', 16)
+('no users without adjuster role shall request recycled parts audits', 15)
+('no users without an adjuster role shall request recycled parts audits', 12)
+----------------------------------------------------------------------------------------------------
+107) Input_phrase: Only adjusters with a supervisor role can update preferred repair facility ratings
+----------------------------------------------------------------------------------------------------
+('only adjusters who are a supervisor may update preferred repair facility ratings', 25)
+('only adjusters with supervisor status can update preferred repair facility rating', 21)
+('only adjusters with supervisor role can update preferred repair facility ratings', 14)
+('only adjusters with a supervisor role can update preferred repair facility ratings', 12)
+----------------------------------------------------------------------------------------------------
+108) Input_phrase: Users without the supervisor role cannot access the repair facility ratings
+----------------------------------------------------------------------------------------------------
+('users without supervisor status cannot access the ratings on the repair facility', 45)
+("users without supervisor role can't access the ratings for repair facilities", 37)
+('users without supervisor roles cannot access the rating of a repair facility', 37)
+('users without a supervisor role cannot access the ratings for repair facilities', 34)
+('users without supervisor status cannot access the repair facility ratings', 22)
+('users without supervisor roles cannot access repair facility ratings', 21)
+('users without supervisor role cannot access repair facility ratings', 20)
+('users without a supervisor role can not access the repair facility rating', 17)
+('users without supervisor role cannot access the repair facility ratings', 16)
+('users without the supervisor role cannot access repair facility ratings', 16)
+('user without a supervisor role cannot access the repair facility ratings', 16)
+('users without the supervisor role can not access the repair facility rating', 14)
+('users without the supervisor role cannot access the repair facility rating', 13)
+('users without the supervisor role cannot access the repair facility ratings', 12)
+----------------------------------------------------------------------------------------------------
+109) Input_phrase: Only collision estimators shall search for recycled parts
+----------------------------------------------------------------------------------------------------
+('only collision estimation technicians shall look for refurbished parts', 38)
+('only collision estimators shall seek recycling parts', 23)
+('only collision experts shall search for recovered parts', 23)
+('only collision estimators must look for recycled parts', 23)
+('only collision estimators should search for reclaimed parts', 19)
+('only collision estimators shall look for recycled parts', 18)
+('only collision estimators shall search for recovered parts', 16)
+('only collision estimators shall search for recycled parts', 12)
+----------------------------------------------------------------------------------------------------
+110) Input_phrase: Users without the collision estimator role shall not have access to the search for recycled parts
+----------------------------------------------------------------------------------------------------
+('users without the collision estimator role shall not have access to the search for reclaimed parts of vehicles or other', 37)
+('users without the collision estimation role shall not be able to search for recycled parts', 25)
+('users without the role of collision estimator shall not have access to the search for recycled parts', 25)
+('users without the collision estimator role shall not be allowed to search for recycled parts', 25)
+('users without collision estimator role shall not be allowed access to the search for recycled parts', 24)
+('users without the collision estimator role shall not be allowed access to the search for recycled parts', 20)
+('users without the collision estimate role shall not have access to the search for salvaged parts', 20)
+('users without the collision estimator role shall not have access to the search for used parts', 18)
+('users without the collision estimation role shall not have access to the search for recycled parts', 14)
+('users without the collision estimator role shall not have access to the search for recycled parts', 12)
+----------------------------------------------------------------------------------------------------
+111) Input_phrase: Only valid data shall be entered into the system
+----------------------------------------------------------------------------------------------------
+('the system shall only accept valid data', 46)
+('only valid data must be entered in the system', 19)
+('only valid data are entered into the system', 18)
+('only valid data will be entered in the system', 17)
+('only valid data will be entered into the system', 15)
+('only valid data shall be entered in the system', 14)
+('only valid data shall be entered into the system', 12)
+('upon request only valid data shall be entered into the system', 11)
+----------------------------------------------------------------------------------------------------
+112) Input_phrase: No invalid data shall be entered into the system
+----------------------------------------------------------------------------------------------------
+('in the system no invalid data shall be entered', 27)
+('no data must be entered into the system', 25)
+('there shall be no invalid data entered into the system', 21)
+('no invalid data will be entered into the system', 15)
+('no invalid data shall be entered in the system', 14)
+('no valid data shall be entered into the system', 14)
+('no invalid data shall be entered into the system', 12)
+----------------------------------------------------------------------------------------------------
+113) Input_phrase: One insurance company shall not be able to view another insurance companys claim data
+----------------------------------------------------------------------------------------------------
+('one insurer shall not be able to view the claims data of another insurer', 51)
+('one insurance company shall not be able to view the claims data of another insurance company', 43)
+('one insurance company shall not be able to view the claim data of another insurance company', 42)
+('one insurance company shall not be able to view the data of another insurance company', 36)
+("one insurance company shall not be able to view the data of another insurance company's claims", 30)
+("the insurers shall not be able to view another insurance company's claim data", 25)
+("one insurance company shall not be able to see another insurance company's claims data", 17)
+('one insurance company shall not be able to view other insurance companies claim data', 16)
+("one insurance company shall not be able to see another insurance company's claim data", 16)
+("one insurance company shall not be able to view other insurance company's claim data", 15)
+("one insurance company shall not be able to view another insurance company's claims data", 14)
+("one insurance company shall not be able to view another insurance company's claim data", 13)
+----------------------------------------------------------------------------------------------------
+114) Input_phrase: The product shall free of computer viruses
+----------------------------------------------------------------------------------------------------
+('the product shall be free of viruses or other harmful effects', 38)
+('the product shall be free of software viruses and', 26)
+('the product must not contain computer viruses', 26)
+('the product must be free from computer viruses', 21)
+('the product shall be free of any computer viruses', 19)
+('the product must be free of computer viruses', 18)
+('the product should be free of computer viruses', 18)
+('the product shall be free of computer viruses', 15)
+----------------------------------------------------------------------------------------------------
+115) Input_phrase: The system shall prevent malicious attacks including denial of service
+----------------------------------------------------------------------------------------------------
+('the system shall prevent malicious attacks including denial of service attacks including unauthorized access', 50)
+('the system shall prevent a malicious attack including a denial of service attack', 24)
+('the system shall prevent malicious attacks including denial of service attacks', 20)
+('the system shall prevent malicious attacks including denial of service', 12)
+----------------------------------------------------------------------------------------------------
+116) Input_phrase: The product must comply with Sarbanes-Oxley
+----------------------------------------------------------------------------------------------------
+('the product must comply with sarbanes-oxley and the relevant regulations', 41)
+("the product must comply with sarbanes-oxley and '' is required", 31)
+('the product must be subject to the sarbanes-oxley act', 30)
+('the product must be regulated under sarbanes-oxley', 28)
+('the product must comply with the sarbanes-oxley regulations', 28)
+("the product must comply with sarbanes-oxley's requirements", 27)
+('the product must comply with sarbanes-oxley requirements', 25)
+('the product must comply with sarbanes-oxley regulations', 24)
+('the product must comply with sarbanes-oxley guidelines', 23)
+('the product must comply with the sarbanes-oxley act', 20)
+('the product must comply with sarbanes-oxley', 12)
+----------------------------------------------------------------------------------------------------
+117) Input_phrase: The product shall comply with the estimatics laws relating to recycled parts usage
+----------------------------------------------------------------------------------------------------
+('the product shall comply with the applicable valueraiatics legislation on the use of recycled parts', 53)
+('the product shall comply with the estimatics law concerning recycling of components', 39)
+('the product shall comply with the estimatics legislation on the use of recycled parts', 36)
+('the product must comply with the estimatics laws relating to recycling of parts and their uses', 36)
+('the product shall comply with the estimatics laws concerning the use of recycled parts', 33)
+('the product shall comply with the estimatics law relating to the recycling of recycled parts usage', 30)
+('the product shall comply with the estimatics legislation relating to recycled part utilisation', 30)
+('the product shall comply with the estimatics laws relating to the use of recycled parts', 29)
+('the product shall comply with the estimatics laws relating to the recycling of part', 28)
+('the product shall comply with the evaluatics laws relating to recycling of parts', 28)
+('the product shall comply with the estimatics laws relating to reuse of recycled parts', 27)
+('the product shall comply with the estimatics laws relating to recycled parts use in the goods', 25)
+('the product shall comply with the estimatics laws relating to recycling of parts usage', 18)
+('the product shall comply with the estimatics laws relating to recycled parts use', 14)
+----------------------------------------------------------------------------------------------------
+118) Input_phrase: The product shall comply with insurance regulations regarding claims processing
+----------------------------------------------------------------------------------------------------
+('the product must comply with the insurance regulations regarding the processing of claims', 37)
+('the product shall comply with insurance regulations about the processing of claims', 36)
+('the product shall comply with insurance regulation regarding the processing of claims', 29)
+('the product shall comply with insurance regulations regarding the processing of claims', 28)
+('the product must comply with insurance regulations concerning claims processing', 23)
+('the product shall comply with insurance regulations relating to claim processing', 19)
+('the product shall comply with insurance regulations concerning claims processing', 18)
+('the product must comply with insurance regulations regarding claim processing', 18)
+('the product shall comply with insurance regulations regarding the claim processing', 17)
+('the product shall comply with the insurance regulations regarding claims processing', 16)
+('the product shall comply with insurance regulations regarding claim processing', 13)
+----------------------------------------------------------------------------------------------------
+119) Input_phrase: The user shall search for the preferred repair facility using vehicle  vehicle location  and radius in miles
+----------------------------------------------------------------------------------------------------
+('the user must look for the preferred repair facility using the location of the vehicle vehicle and the radius in miles', 51)
+('the user shall search for the preferred repair facility using the location and radius of the vehicle in miles', 42)
+('the user shall search for the preferred repair facility using location and radius in miles of vehicle', 41)
+('the user shall search for the preferred repair facility using location of the vehicle vehicle and radius in miles', 33)
+('the user shall search for the preferred repair facility by vehicle location and radius in miles', 27)
+('the user shall search for the preferred repair facility using the vehicle location and the radius in miles', 23)
+('the user shall search for the preferred repair facility using vehicle location and radius in miles', 22)
+('the user must search for the preferred repair facility using vehicle vehicle location and radius in miles', 19)
+('the user shall search for the preferred repair facility using the vehicle vehicle location and radius in miles', 18)
+('the user shall search for the preferred repair facility using vehicle vehicle location and radius in miles', 14)
+----------------------------------------------------------------------------------------------------
+120) Input_phrase: The vehicle data shall include vehicle year  make  and model
+----------------------------------------------------------------------------------------------------
+('the vehicle data shall include the year and the make and model of the vehicle', 40)
+('the vehicle data shall include year make and model of the vehicle', 37)
+('the vehicle data shall include the year make and model of the vehicle', 34)
+('the vehicle data shall include the year of the vehicle make and model', 32)
+('the vehicle data shall include a year make and model of vehicle', 32)
+('the vehicle data shall include vehicle year the model and make of', 23)
+("the vehicle's data shall include the vehicle year the make and model", 22)
+('the vehicle data shall include vehicle year model and make', 19)
+('the vehicle data shall include the vehicle year make and model', 18)
+('the vehicle data shall include vehicle year makes and models', 15)
+('the vehicle data shall include vehicle year make and model', 14)
+----------------------------------------------------------------------------------------------------
+121) Input_phrase: The vehicle location shall include street address  city  state  and zipcode
+----------------------------------------------------------------------------------------------------
+('the location of the vehicle shall include the address of the city state and zip code', 36)
+('location of the vehicle must include address city state and zip code', 34)
+('the location of the vehicle shall include the street address city state and zip code', 31)
+('the location of the vehicle must include street address city state and zipcode', 30)
+('the location of the vehicle shall include the street address city state and zipcode', 30)
+('the location of the vehicle shall include street address city state and zipcode', 26)
+('location of the vehicle shall include street address city state and zipcode', 22)
+("the vehicle's location shall include street address city state and zipcode", 17)
+('the vehicle location shall include street address city state and zip code', 16)
+('the vehicle location shall include street address city state and zipcode', 15)
+----------------------------------------------------------------------------------------------------
+122) Input_phrase: The system shall resolve the zipcode for the street address  city  and state if zipcode is unknown
+----------------------------------------------------------------------------------------------------
+('the system must find out zip code for the address of the street city and state if the zip code is unknown', 50)
+('the system shall determine the zipcode for the address of the address city and state if the zip code is unknown', 37)
+('the system shall determine the zip code for the address of the address city and state if the zipcode is unknown', 37)
+('the system shall establish the zipcode for the address of the city and state if the zipcode is unknown', 37)
+('the system shall determine the zipcode for the address city and state if the zipcode is unknown', 32)
+('the system shall define the zipcode for the address city and state if the zipcode is unknown', 30)
+('the system shall fix the zipcode of the street address city and state if the zipcode is unknown', 27)
+('the system shall specify the zip code for the street address city and state if the zip code is unknown', 27)
+('the system shall resolve the zipcode for the address city and state if the zipcode is unknown', 25)
+('the system shall determine the zipcode for the street address city and state if the zipcode is unknown', 25)
+('the system shall resolve the zipcode for the street address city and state if the zipcode is not found', 25)
+('the system shall resolve the zipcode for the address address city and state if the zipcode is unknown', 23)
+('the system shall resolve the zipcode for the street address city and state if the zipcode is unknown', 18)
+----------------------------------------------------------------------------------------------------
+123) Input_phrase: The search radius shall be between 1 and 30 miles
+----------------------------------------------------------------------------------------------------
+('the search radius shall be 1 to 30 miles', 23)
+('the radius of the search should be between 1 and 30 miles', 21)
+('the radius of the search shall be between 1 and 30 miles', 18)
+('the search radius shall be between 1 and 30 miles', 12)
+----------------------------------------------------------------------------------------------------
+124) Input_phrase: The system shall locate the preferred repair facility with the highest ratings for the input criteria
+----------------------------------------------------------------------------------------------------
+('the system shall find the preferred repair facility with the highest ratings for the input criteria', 18)
+('the system must locate the preferred repair facility with the highest rating for the input criteria', 18)
+('the system must locate the preferred repair facility with the highest ratings for the input criteria', 17)
+('the system shall locate the preferred repair facility with the highest ratings for input criteria', 16)
+('the system shall locate the preferred repair facility with the highest rating for the input criteria', 13)
+('the system shall locate the preferred repair facility with the highest ratings for the input criteria', 12)
+----------------------------------------------------------------------------------------------------
+125) Input_phrase: The adjuster shall enter the preferred repair facility on the estimate assignment
+----------------------------------------------------------------------------------------------------
+('the adjuster shall on the estimate assignment enter the preferred repair facility', 61)
+('the adjuster shall enter the preferred repair facility upon assignment of estimates', 34)
+('the adjuster shall enter the preferred repair facility when assigned the estimate', 32)
+('the adjuster shall enter the preferred repair facility on estimates for the estimate', 31)
+('the adjuster shall enter the preferred repair facility at the cost allocation', 29)
+('the adjuster must enter the preferred repair facility on estimate assignment', 21)
+('the adjuster must enter the preferred repair facility on the estimate assignment', 17)
+('the adjuster shall enter the preferred repair facility on estimate assignment', 16)
+('the adjuster will enter the preferred repair facility on the estimate assignment', 15)
+('the adjuster shall enter the preferred repair facility upon the estimate assignment', 14)
+('the adjuster shall enter the preferred repair facility on the estimate assignment', 12)
+----------------------------------------------------------------------------------------------------
+126) Input_phrase: The adjuster shall be able to override the preferred repair facitlity on the estimate assignment
+----------------------------------------------------------------------------------------------------
+('the adjuster shall be able to overcome the preferred repair facitlity on the estimate assignment and the fix', 27)
+('the adjuster shall be able to override the preferred repair facitlity during the estimated estimate assignment', 27)
+('the adjuster shall be able to override the preferred repair facitlity when the estimate is attached', 25)
+('the adjuster shall be able to cancel the preferred repair facitlity on the estimate assignment', 20)
+('the adjuster shall be able to replace the preferred repair facitlity on the estimate assignment', 18)
+('the adjuster shall be able to override the preferred repair facility on estimate assignment', 17)
+('the adjuster shall be able to override the preferred repair facitlity on estimate assignment', 16)
+('the adjuster shall be able to override the preferred repair facitlity on the estimation assignment', 15)
+('the adjuster shall be able to override the preferred repair facilty on the estimate assignment', 14)
+('the adjuster shall be able to override the preferred repair facility on the estimate assignment', 13)
+('the adjuster shall be able to override the preferred repair facitlity on the estimate assignment', 12)
+----------------------------------------------------------------------------------------------------
+127) Input_phrase: The preferred repair facility shall be returned to the user
+----------------------------------------------------------------------------------------------------
+('the preferred repair facility shall be returned to the user', 12)
+----------------------------------------------------------------------------------------------------
+128) Input_phrase: The system shall return a list of repair facilities within the radius if the preferred repair facility cannot be determined
+----------------------------------------------------------------------------------------------------
+('the system shall return a list of repair facilities within the radius if the preferred repair facility can not be determined by the user', 25)
+('the system shall return a list of the repair facilities in the radius if the preferred repair facility cannot be determined', 20)
+('the system shall return a list of repair facilities within the radius if the preferred repair facility cannot be determined in time', 20)
+('the system shall return a list of the repair facilities within the radius if the preferred repair facility cannot be determined', 16)
+('the system will return a list of repair facilities within the radius if the preferred repair facility cannot be determined', 15)
+('the system shall return a list of repair facilities within the radius if the preferred repair facility can not be determined', 13)
+('the system shall return a list of repair facilities within the radius if the preferred repair facility cannot be determined', 12)
+----------------------------------------------------------------------------------------------------
+129) Input_phrase: The estimator shall search for available recycled parts using damaged vehicle parts information
+----------------------------------------------------------------------------------------------------
+('the estimator shall look for available recycled parts using information from damaged vehicle parts', 47)
+('the estimator shall search for available recycled parts using information on broken vehicle parts', 42)
+('the estimator shall search for available recycled parts using information on damaged vehicle parts', 39)
+('the estimator shall search for recycled parts available using damaged vehicle parts information', 32)
+('the estimator shall look for available recycled parts using damaged vehicle parts information', 18)
+('the estimater shall search for available reclaimed parts using damaged vehicle parts information', 17)
+('the estimater shall search for available recycled parts using damaged vehicle part information', 14)
+('the estimater shall search for available recycled parts using damaged vehicle parts information', 13)
+('the estimator shall search for available recycled parts using damaged vehicle parts information', 12)
+----------------------------------------------------------------------------------------------------
+130) Input_phrase: The estimator shall search for available recycled parts using a list of preferred parts suppliers
+----------------------------------------------------------------------------------------------------
+('the estimator shall search for available recycled parts using a list of preferred parts suppliers for their own work', 31)
+('the estimator shall look for available recycled parts with a list of preferred parts suppliers', 22)
+('the estimator shall search for available recycled parts based on a list of preferred parts suppliers', 19)
+('the estimator shall search for available recycled parts using a list of preferred part suppliers', 13)
+('the estimator shall search for available recycled parts using a list of preferred parts suppliers', 12)
+----------------------------------------------------------------------------------------------------
+131) Input_phrase: The system shall search for available recycled parts for the supplied vehicle parts and suppliers
+----------------------------------------------------------------------------------------------------
+('the system shall search for recycled parts for vehicles supplied parts and suppliers available for the supplied vehicles', 69)
+('the system shall search for available recycled parts for vehicle parts supplied and suppliers', 34)
+("the system shall search for available recycled parts for the supplied vehicle parts and supplier's supply", 20)
+('the system will search for available recycled parts for supplied vehicle parts and suppliers', 19)
+('the system shall search for available recycled parts for the supplied vehicles and suppliers', 17)
+('the system shall search for available recovered parts for the supplied vehicle parts and suppliers', 16)
+('the system shall search for the available recycled parts for the supplied vehicle parts and suppliers', 16)
+('the system shall search for available recycled parts for the supplied vehicle parts and supplier', 13)
+('the system shall search for available recycled parts for the supplied vehicle parts and suppliers', 12)
+----------------------------------------------------------------------------------------------------
+132) Input_phrase: The estimator shall search by zipcode with a radius of 30 miles if no parts are found for the preferred parts suppliers
+----------------------------------------------------------------------------------------------------
+('the estimator shall search in a radius of 30 miles by zip code if no parts are found for the preferred part supplier', 40)
+('the estimator shall search by zip code with a radius of 30 miles if there are no parts for the preferred parts supplier', 28)
+('the estimator shall search by zip code with a radius of 30 miles if there are no parts for the preferred parts suppliers', 27)
+('the estimater shall search for a zipcode within a radius of 30 miles if no parts are found for the preferred parts suppliers', 20)
+('the estimator shall search for zipcode with a radius of 30 miles if no parts are found for the preferred parts suppliers', 15)
+('the estimater shall search by zip code with a radius of 30 miles if no parts are found for the preferred parts supplier', 15)
+('the estimator shall search by zip code with a radius of 30 miles if no parts are found for the preferred part supplier', 15)
+('the estimater shall search by zipcode with a radius of 30 miles if no parts are found for the preferred parts suppliers', 13)
+('the estimator shall search by zip code with a radius of 30 miles if no parts are found for the preferred parts suppliers', 13)
+('the estimator shall search by zipcode with a radius of 30 miles if no parts are found for the preferred parts suppliers', 12)
+----------------------------------------------------------------------------------------------------
+133) Input_phrase: The system shall retain the available recycled parts and suppliers returned from the search
+----------------------------------------------------------------------------------------------------
+('the system shall retain the available recycled parts and suppliers returned from the search for the recovered parts and suppliers returned from the search', 75)
+('the system shall retain the available recycled parts and suppliers returned from the search for the information about the search', 49)
+('the system shall retain the available recovered parts and the suppliers from the search returned to the system', 44)
+('the system shall retain the available recycled parts and suppliers retrieved from the search for the found materials', 40)
+('the system shall retain the available recycled parts and suppliers returned from the search and the recovered parts', 36)
+('the system shall retain the available recycled parts and suppliers returned from the search of the recovered parts', 35)
+('the system shall retain the available recycled parts and suppliers returned from the search that have been scanned', 35)
+('the system shall retain the available recycled parts and suppliers returned from the search on the site', 24)
+('the system shall retain the available recycled parts and suppliers returned from the search results', 20)
+('the system shall retain the available recycled parts and suppliers recovered from the search', 17)
+('the system shall retain the available recycled parts and suppliers returned from search', 16)
+('the system shall retain the available recycled parts and suppliers returned from the search', 12)
+----------------------------------------------------------------------------------------------------
+134) Input_phrase: The available recycled parts information and their suppliers shall be returned to the user
+----------------------------------------------------------------------------------------------------
+('the available information concerning recycled parts and their suppliers shall be returned to the user', 42)
+('the information about the available recycling parts and suppliers shall be returned to the user', 39)
+('the information available about the recycled parts and their suppliers shall be returned to the user', 37)
+('the available information on recycled parts and their suppliers shall be returned to the user', 35)
+('the available recycling information and their suppliers shall be returned to the user', 20)
+('the available recovered parts information and their suppliers shall be returned to the user', 16)
+('the available recycled parts information and the suppliers shall be returned to the user', 14)
+('the available recycled part information and their suppliers shall be returned to the user', 13)
+('the available recycled parts information and their suppliers shall be returned to the user', 12)
+----------------------------------------------------------------------------------------------------
+135) Input_phrase: The estimator shall apply selected recycled parts to the collision estimate
+----------------------------------------------------------------------------------------------------
+('the estimator shall apply recycled parts selected to the collision estimate', 30)
+('the estimator shall use selected recycled parts to estimate collision risk', 30)
+('the estimator shall use selected recycled parts in the collision estimate', 19)
+('the estimator shall use selected recycled parts to the collision estimate', 17)
+('the estimater shall apply selected recycled parts to the collision estimate', 13)
+('the estimator shall apply selected recycled parts to the collision estimate', 12)
+----------------------------------------------------------------------------------------------------
+136) Input_phrase: The estimator shall not apply recycled parts to the collision estimate if no available parts are returned
+----------------------------------------------------------------------------------------------------
+('the estimator shall not apply recycled parts to the collision estimate if there are no available parts returned to the vehicle', 40)
+('the estimator shall not apply recycled parts to the collision estimate if there are no available parts available', 32)
+('the estimator shall not apply recycled parts to the collision estimate if no available parts are returned in time to the re-', 31)
+('the estimator shall not apply recycled parts to the collision estimate if there are no available parts returned', 26)
+('the estimater shall not apply recycled parts to the collision estimate if no available parts are returned', 13)
+('the estimator shall not apply recycled parts to the collision estimate if no available parts are returned', 12)
+----------------------------------------------------------------------------------------------------
+137) Input_phrase: The adjuster shall review the collision estimate
+----------------------------------------------------------------------------------------------------
+('the adjuster shall consider the collision estimate of the vehicle', 33)
+('the adjuster shall review the accident estimate', 20)
+('the adjuster shall inspect the collision estimate', 18)
+('the adjuster shall examine the collision estimate', 18)
+('the adjuster shall review the collision estimate', 12)
+----------------------------------------------------------------------------------------------------
+138) Input_phrase: The adjuster shall request a recycled parts audit of the collision estimate
+----------------------------------------------------------------------------------------------------
+('the adjuster shall request an audit of recycled parts at the collision estimate', 28)
+('the adjuster shall request an audit of recycled parts of the collision estimate', 28)
+('the adjuster shall request a salvaged part audit of the collision estimate', 19)
+('the adjuster shall ask for a recycled parts audit of the collision estimate', 19)
+('the adjuster shall demand a recycled parts audit of the collision estimate', 18)
+('the adjuster shall request a recycling part audit of the collision estimate', 16)
+('the adjuster shall request a reused parts audit of the collision estimate', 16)
+('the adjuster shall request a recycled part audit of the collision estimate', 13)
+('the adjuster shall request a recycled parts audit of the collision estimate', 12)
+----------------------------------------------------------------------------------------------------
+139) Input_phrase: The recycled parts search results provided to the estimator shall be retrieved by the system
+----------------------------------------------------------------------------------------------------
+('the recycled parts search results provided to the estimator shall be retrieved by the system to retrieve the components to which they belong', 60)
+('the recovered parts search results that are provided to the estimator shall be collected by the system', 32)
+('the results of recycled parts search provided to the estimator must be retrieved by the system', 27)
+('the results of recycled part search supplied to the estimator shall be retrieved by the system', 25)
+('the recycle parts results provided to the estimator shall be retrieved by the system', 20)
+('the recovered parts search results provided to the estimator shall be returned by the system', 20)
+('the recycled parts search results transmitted to the estimator shall be retrieved by the system', 19)
+('the recycled parts search results furnished to the estimator shall be retrieved by the system', 18)
+('the recovered parts search results provided to the estimator shall be retrieved by the system', 16)
+('the recycled parts search results provided to the estimator shall be retrieved by the system', 12)
+----------------------------------------------------------------------------------------------------
+140) Input_phrase: The system shall generate an audit report based on the available recycled parts and the collision estimate
+----------------------------------------------------------------------------------------------------
+('the system shall generate an audit report based on the available recycled parts and the collision estimate of all components', 30)
+('the system shall generate a report of audit based on the available recycled parts and the collision estimate', 25)
+('the system shall generate a report for audit based on the available recycled parts and the collision estimate', 25)
+('the system shall generate an audit report based on available recycled parts and collision estimate', 20)
+('the system shall generate an audit report based on available recycled parts and the collision estimate', 16)
+('the system shall generate an audit report based on the available recycled parts and the collision estimate', 12)
+----------------------------------------------------------------------------------------------------
+141) Input_phrase: The audit report shall include the total number of recycled parts used in the estimate
+----------------------------------------------------------------------------------------------------
+('the audit report shall include the total number of recycled parts used in the estimate for the audit', 26)
+('the audit report shall include the total number of recycled parts used in the estimate of the cost', 24)
+('the audit report shall contain the total number of recycled parts used in the estimate', 19)
+('the audit report shall specify the total number of recycled parts used in the estimate', 19)
+('the audit report shall have the total number of recycled parts used in the estimate', 18)
+('the audit report shall include the total number of recycled parts used in estimate', 16)
+('the audit report shall include the total number of recycled parts used in the estimate', 12)
+----------------------------------------------------------------------------------------------------
+142) Input_phrase: The audit report shall include the number of available recycled parts from the original search results
+----------------------------------------------------------------------------------------------------
+('the audit report shall indicate the number of available recycled parts from the original search results of the original search', 40)
+('the audit report shall list the number of available reclaimed parts from the original search results', 22)
+('the audit report shall specify the number of available recycled parts from the original search results', 19)
+('the audit report shall contain the number of available recycled parts from the original search results', 19)
+('the audit report shall provide the number of available recycled parts from the original search results', 17)
+('the audit report shall include the number of available recycled parts in the original search results', 16)
+('the audit report shall disclose the number of available recycled parts from the original search results', 16)
+('the audit report shall include the number of available recycled parts from the original search results', 12)
+----------------------------------------------------------------------------------------------------
+143) Input_phrase: The audit report shall include the percentage of available recycled parts used in the estimate
+----------------------------------------------------------------------------------------------------
+('the audit report shall be accompanied by an accounting of the percentage of recycled parts used in the estimate', 52)
+('the audit report shall include the percentage of recycled parts available in estimate for the estimate', 44)
+('the audit report shall indicate the percentage of available recycled parts used in the estimate of the cost', 29)
+('the audit report shall include the percentage of available recycled parts used in the estimate', 12)
+----------------------------------------------------------------------------------------------------
+144) Input_phrase: The audit report shall include the total score of the audit which sums the indivual line items
+----------------------------------------------------------------------------------------------------
+("the report shall contain the audit report's total score which summarises the indivual line items of the report", 66)
+('the audit report shall include the total score of the audit which sums up the indivual lines of the audit report in relation to the', 51)
+('the audit report shall contain the total score of the audit which sums the indivual line items in the audit results', 40)
+('the audit report shall include the overall score of the audit which includes the indivual line items of line items', 37)
+('the audit report shall include the audit total score which sums the indivual lines item', 33)
+("the audit report shall include the audit's total score which sums the indivual lines items", 33)
+('the audit report shall include the total score of the audit which sums the indivual line items in the audit report', 32)
+('the audit report shall include the total score of audit which sums the indivual line items in the audit', 29)
+('the audit report shall include the total score of the audit which summarises the individual lines of audit', 29)
+('the audit report shall include the total score of the audit which sums the indivual line items in the report', 26)
+('the audit report shall contain the total score of the audit which sums up the indivual line items', 22)
+('the audit report shall contain the total score of the audit which sums the indivual line items', 19)
+----------------------------------------------------------------------------------------------------
+145) Input_phrase: The audit report shall be displayed to the user
+----------------------------------------------------------------------------------------------------
+('the audit report shall be presented to the user on the screen', 33)
+('the audit report shall be available to the user', 19)
+('the audit report shall be presented to the user', 19)
+('the audit report shall be displayed to the user', 12)
+----------------------------------------------------------------------------------------------------
+146) Input_phrase: The audit report shall be available to other adjusters at later points in time
+----------------------------------------------------------------------------------------------------
+('the audit report shall be accessible at later points in time to other adjusters', 50)
+('the audit report shall be accessible for other adjusters at later points', 28)
+('the audit report shall be available to other adjusters at later periods', 24)
+('the report of the audit shall be available to other adjusters at later stages of time', 24)
+('the audit report shall be available to other adjusters at later times', 23)
+('the audit report shall be available to other adjusters at later points', 20)
+('the audit report shall be available for the other adjuster at later points in time', 19)
+('the audit report shall be available to other adjusters at later points of time', 14)
+('the audit report shall be available to other adjusters at later points in time', 12)
+----------------------------------------------------------------------------------------------------
+147) Input_phrase: The user shall select to view the preferred repair facility ratings
+----------------------------------------------------------------------------------------------------
+('the user shall select to view the preferred rating of repair facilities', 29)
+("the user shall choose to view the preferred repair facility rating ''", 21)
+('the user must select to view the preferred repair facility rating', 18)
+('the user shall choose to view the preferred repair facility ratings', 18)
+('the user must select to view the preferred repair facility ratings', 17)
+('the user shall select to view the preferred repair facility rating', 13)
+('the user shall select to view the preferred repair facility ratings', 12)
+----------------------------------------------------------------------------------------------------
+148) Input_phrase: The current repair facility ratings shall be displayed to the user
+----------------------------------------------------------------------------------------------------
+('the current repair facility rating shall be displayed to the user for inspection andor repair', 41)
+('the current ratings for repair facilities shall be presented to the user', 35)
+('the current rating of the repair facility shall be displayed to the user', 30)
+('the current ratings of repair facilities shall be displayed to the user', 28)
+('the current ratings for repair facilities shall be displayed to the user', 28)
+('the current rating of repair facility shall be displayed to the user', 28)
+('the current repair facility rating shall be shown to the user', 21)
+('the current repair facility ratings must be displayed to the user', 17)
+('the current repair facility ratings shall be displayed to the user', 12)
+----------------------------------------------------------------------------------------------------
+149) Input_phrase: The system will display a blank set of ratings if there are not ratings yet defined
+----------------------------------------------------------------------------------------------------
+('if the system is not yet defined and no ratings have been defined the system will display a blank set of ratings', 82)
+("if there aren't any ratings defined yet then the system will display a blank set of ratings", 74)
+('if the ratings have not been defined yet the system will display a blank set', 73)
+('if the default ratings are not defined the system will display a blank set of ratings', 70)
+('if no ratings have yet been defined the system will display a blank set of ratings', 68)
+('if there are no ratings defined yet the system will display a blank set of ratings', 66)
+("the system will display a blank set of ratings if there aren't yet defined ratings", 28)
+('the system will display a blank set of ratings if there are not yet specified ratings', 28)
+('the system will display a blank set of ratings if there are not yet defined ratings', 26)
+('the system will display a blank set of ratings if there are no ratings yet defined', 13)
+----------------------------------------------------------------------------------------------------
+150) Input_phrase: The user shall enter new ratings based on the audit report
+----------------------------------------------------------------------------------------------------
+('users shall submit new ratings based on the audit report', 23)
+('the user shall set new ratings based on audit report', 20)
+('the user shall enter new ratings on the audit report', 18)
+('the user shall enter new rating based on audit report', 17)
+('the user must enter new ratings based on the audit report', 17)
+('user shall enter new rating based on the audit report', 17)
+('the user shall create new ratings based on the audit report', 16)
+('the user shall enter new ratings based on audit report', 16)
+('the user shall enter new ratings based on the audit report', 12)
+
+Got the paraphrases in 1226.4307 seconds

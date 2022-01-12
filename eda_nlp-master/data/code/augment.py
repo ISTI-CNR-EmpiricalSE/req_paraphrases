@@ -81,14 +81,25 @@ def gen_eda(train_orig, output_file, alpha_sr, alpha_ri, alpha_rs, alpha_rd, num
     writer.write("alpha_rs = " + str(alpha_rs) + "\n")
 
     tic = time.perf_counter()
+    j = 0
+    # we use old_label to understand when the label changes, because we have to put j to 1 when that happens
+    old_label = 0
     for i, line in enumerate(lines):
-        # per vedere quali frasi davano problemi hai messo print di frase
+        # I put print of the sentence to see which one had problems
         parts = line[:-1].split('\t')
         label = parts[0]
+        if label != old_label:
+            j = 0
+        old_label = label
         sentence = parts[1]
+        # the sentence in the format label.0) is the original sentence which is not even passed through parrot
+        writer.write(label + "." + str(j) + ") " + sentence + '\n')
+        j = j+1
         aug_sentences = eda(sentence, alpha_sr=alpha_sr, alpha_ri=alpha_ri, alpha_rs=alpha_rs, p_rd=alpha_rd, num_aug=num_aug)
+        w = 1
         for aug_sentence in aug_sentences:
-            writer.write(label + "\t" + aug_sentence + '\n')
+            writer.write(str(w) + " " + aug_sentence + '\n')
+            w = w+1
     toc = time.perf_counter()
     writer.write(f"Total time = {toc - tic:0.4f} seconds\n")
     writer.close()

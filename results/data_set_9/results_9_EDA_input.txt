@@ -1,12 +1,15 @@
+1	As a moderator, I want to create a new game by entering a name and an optional description, so that I can start inviting estimators.
 1	as moderator i want to create a new game by entering a name and optional description so i can start inviting estimators
 1	as a moderator i want to create a new game by entering a name and an optional description so i can start inviting estimates
 1	as moderator i want to create a new game by entering a name and an optional description so i can start inviting estimators
 1	as moderator i want to create a new game by entering a name and an optional description so that i can start inviting estimators
+2	As a moderator, I want to invite estimators by giving them a URL where they can access the game, so that we can start the game.
 2	as moderator i want to invite estimators by giving them a url where they can access the game to start the game
 2	as moderator i want to invite estimators by giving them a url where they can access the game so we can start the game
 2	as a moderator i want to invite estimators by giving them a url where they can access the game so we can start the game
 2	as moderator i want to invite estimators by giving them a url where they can access the game so that we can start the game
 2	as a moderator i want to invite estimators by giving them a url where they can access the game so that we can start the game
+3	As a moderator, I want to start a round by entering an item in a single multi-line text field, so that we can estimate it.
 3	as an moderator i want to start a round by entering a single multi-line text field so we can estimate it
 3	as an moderator i want to start a round by entering an item in a single text field so that we can estimate it
 3	as an moderator i want to start a round by entering a single multi-line text field so that we can estimate it
@@ -22,6 +25,7 @@
 3	as an moderator i want to start a round by entering an item in a single multiline text field so that we can estimate it
 3	as a moderator i want to start a round by entering an item in a single multiline text field so that we can estimate it
 3	as a moderator i want to start a round by entering an item in a single multi-line text field so that we can estimate it
+4	As a moderator, I want to see all items we try to estimate this session, so that I can answer questions about the current story such as "does this include ___".
 4	we try to estimate this session so i can answer questions about the current story such as does this include
 4	we try to estimate this session so that i can answer questions about the current story such as does this include
 4	please see all the items we try to estimate this session so i can answer questions about the current story such as this includes
@@ -36,6 +40,7 @@
 4	as an moderator i want to see all items we try to estimate this session so i can answer questions about the current story such as does it include
 4	as an moderator i want to see all items we try to estimate this session so i can answer questions about the current story such as does this include?
 4	as an moderator i want to see all items we try to estimate this session so i can answer questions about the current story such as does this include
+5	As a moderator, I want to select an item to be estimated or re-estimated, so that the team sees that item and can estimate it.
 5	my role is to select an item to be estimated or re-estimated so that the team can see this item and estimate it i want to select
 5	my role is to select an item to be estimated or re-estimated so that the team can see this item and estimate it i want to choose
 5	my role is to select an item to be estimated or re-estimated so the team can see this item and estimate it accordingly
@@ -50,12 +55,14 @@
 5	my role is to select an item to be estimated or re-estimated so that the team can see this item and estimate it
 5	my role is to select an item to be estimated or re-estimated so that the team sees this item and can estimate it
 5	as a moderator i want to select an item to be estimated or re-estimated so the team can see that item and estimate it
+6	As a moderator, I want to add an item to the list of items to be estimated, so that we can be flexible and accommodate situations where we think of a new story while playing.
 6	we can be flexible and accommodate situations where we think of a new story while playing as a moderator'
 6	we can be flexible and accommodate situations where we think of a new story while we play'
 6	we can be flexible and accommodate situations where we think of new stories while playing'
 6	we can be flexible and accommodate situations when we think of a new story while playing
 6	we can be flexible and accommodate situations where we think of a new story while playing
 6	as moderator i want to add an item to the list of items to be estimated so we can be flexible and accommodate situations where we think of a new story while playing
+7	As a moderator, I want to edit an item in the list of items to be estimated, so that I can make it better reflect the team's understanding of the item.
 7	please edit an item in the list of items to be estimated so i can make it reflect the team's understanding of the item more clearly and accurately
 7	please edit an item in the list of items to be estimated so i can make it reflect the team's understanding of the item more clearly and clearly
 7	please edit an item in the list of items to be estimated so that i can better reflect the team's understanding of the item i want to change this
@@ -71,6 +78,7 @@
 7	please edit an item in the list of items to be estimated so that i can better reflect the team's understanding of this item
 7	please edit an item in the list of items to be estimated so that i can better reflect the team understanding of the item
 7	please edit an item in the list of items to be estimated so that i can better reflect the team's understanding of the item
+8	As a moderator, I want to delete an item from the list of items to be estimated, so that we can remove it and not estimate it.
 8	please delete an item from the list of items to be estimated so that we can remove it and not estimate it i am a moderator
 8	please delete an item from the list of items to be estimated so that we can remove it and not estimate it i'm a moderator
 8	please remove an item from the list of items to be estimated so we can remove it and not estimate
@@ -86,6 +94,7 @@
 8	please delete an item from the list of items to be estimated so that we can remove it and not estimate it
 8	as moderator i want to delete an item from the list of items to be estimated so we can remove it and not estimate it
 8	as moderator i want to delete an item from the list of items to be estimated so that we can remove it and not estimate it
+9	As a moderator, I want to show all estimates immediately, so that I can decide to show the estimates that have been given even though not all estimators have given their estimate.
 9	for me as the moderator i want to show all estimates immediately so i can decide to show the estimates that were given even if not all estimaters gave their
 9	for me as the moderator i want to show all estimates immediately so i can decide to show the estimates that were given even if not all estimaters gave their own estimate
 9	for me as the moderator i want to show all estimates immediately so i can decide to show the estimates that were given even if not all estimaters had given their estimate
@@ -99,6 +108,7 @@
 9	as moderator i want to show all estimates immediately so that i can decide to show the estimates that have been given even though not all estimators have given their estimates
 9	as a moderator i want to show all estimates immediately so that i can decide to show the estimates that have been given even though not all estimators have given their estimates
 9	as a moderator i want to show all estimates immediately so that i can decide to show the estimates that have been given even though not all estimators have given their estimate
+10	 As a moderator, I want to accept the average of all estimates, so that we can move on to the next item when we agree.
 10	we can move on to the next item when we agree
 10	my role is to accept the average of all estimates so we can move on to the next item when we agree on it
 10	my role is to accept the average of all estimates so we can move on to the next item if we agree
@@ -114,6 +124,7 @@
 10	as moderator i want to accept the average of all estimates so that we can move on to the next item when we agree
 10	my role as a moderator is to accept the average of all estimates so that we can move on to the next item when we agree
 10	as a moderator i want to accept the average of all estimates so that we can move on to the next item when we agree
+11	 As a moderator, I want to have the "estimate" field filled in automatically if all estimators show the same card, so that I can accept it more quickly.
 11	when i am a moderator i want to have the estimate field filled in automatically if all estimaters have shown the same card so that i can
 11	when i am a moderator i want to have the estimate field filled in automatically if all estimaters have shown the same card so that i can accept
 11	as a moderator i want to have the estimate field filled in automatically if all estimators show the same card so that i can accept it faster
@@ -126,6 +137,7 @@
 11	as a moderator i want to have the estimate field filled in automatically if all estimators show the same card so that i can accept it more quickly i
 11	as a moderator i want to have the estimate field filled in automatically if all estimators show the same card so that i can accept it more quickly 
 11	as a moderator i want to have the estimate field filled in automatically if all estimators show the same card so that i can accept it more quickly
+12	 As a moderator, I want to enter the agreed-upon estimate, so that we can move on to the next item when we agree.
 12	my role as a moderator is to enter the agreed-upon estimate so that when we agree we can move on to the next item
 12	please enter the agreed estimate so that we can move on to the next point when we agree
 12	my role is to enter the agreed estimate so we can move on to the next item when we agree
@@ -141,6 +153,7 @@
 12	my role as a moderator is to enter the agreed-upon estimate so that we can move on to the next item when we agree
 12	as moderator i want to enter the agreed-upon estimate so that we can move on to the next item when we agree
 12	as a moderator i want to enter the agreed-upon estimate so that we can move on to the next item when we agree
+13	 As a moderator, I want to estimate a story we estimated earlier in the session again, so that we can give a new estimate if we feel different about the story after estimating other related stories.
 13	we estimated a story earlier in the session so we can give a new estimate if we feel different about the story after estimating other related stories i want to estimate another story
 13	we estimated the story earlier in the session so that we can give a new estimate if we feel different about the story after estimating other related stories i want to estimate the story again
 13	we estimated a story earlier in the session so we can give a new estimate if we feel different about the story after estimating other related stories as a moderator i want
@@ -156,6 +169,7 @@
 13	we estimated the story earlier in the session so that we can give a new estimate if we feel different about the story after estimating other related stories
 13	if i am a moderator i want to estimate a story we estimated earlier in the session again so that we can give a new estimate if we feel different about the story after
 13	when i am a moderator i want to estimate a story we estimated earlier in the session again so that we can give a new estimate if we feel different about the story after
+14	 As a moderator, I want to import stories from a spreadsheet, so that I don't have to copy and paste each individual story.
 14	as the moderator i want to import stories from a spreadsheet so i don't have to copy and paste each story individually
 14	as a moderator i want to import stories from a spreadsheet so i don't have to copy and paste each individual story separately
 14	as the moderator i want to import stories from a spreadsheet to avoid having to copy and paste each individual story
@@ -170,6 +184,7 @@
 14	as a moderator i want to import stories from a spreadsheet so i don't have to copy and paste each individual story
 14	as moderator i want to import stories from a spreadsheet so that i don't have to copy and paste each individual story
 14	as a moderator i want to import stories from a spreadsheet so that i don't have to copy and paste each individual story
+15	 As a moderator, I want to copy/paste stories from a spreadsheet, so that I can get started more quickly.
 15	how can i get started as a moderator?
 15	how can i get started as a moderator by copyingpaste stories from a spreadsheet?
 15	how can i get started as a moderator if i want to copy stories from a spreadsheet?
@@ -185,6 +200,7 @@
 15	as a moderator i want to copypaste stories from a spreadsheet so i can get started more quickly
 15	as a moderator i want to copypaste stories from a spreadsheet so that i can get started more rapidly
 15	as a moderator i want to copypaste stories from a spreadsheet so that i can get started more quickly
+16	 As a moderator, I want to browse through previous games, so that I can find the previous game I'm looking for.
 16	my role is to browse past games to find the game i'm looking for
 16	my role is to browse through previous games so that i can find the game i'm looking for what are some examples?
 16	my role is to browse through previous games so that i can find the game i'm looking for what are some of the
@@ -200,6 +216,7 @@
 16	as a moderator i want to browse through previous games so i can find the previous game i'm searching for
 16	as a moderator i want to browse through previous games so i can find the previous game i'm looking for
 16	as a moderator i want to browse through previous games so that i can find the previous game i'm looking
+17	 As a moderator, I want to view a transcript of a game, so that I can see the stories and estimates.
 17	my role is to view transcripts of games so i can see the stories and estimates of the game's progress
 17	my role is to view transcripts of games so i can see the stories and estimates of the game's players
 17	my role is to view transcripts of games so i can see the stories and estimates of the game's events
@@ -215,6 +232,7 @@
 17	if i want to view a transcript of a game i can see the stories and estimates
 17	my role is to view transcripts of games so that i can see the stories and estimates
 17	as moderator i want to view a transcript of a game so i can see the stories and estimates
+18	 As a moderator, I want to export a transcript of a game as a HTML file, so that I can save the stories and estimates locally.
 18	if i want to export a transcript of a game as a html file so i can save the stories and estimates locally i have to
 18	if i want to export a transcript of a game as a html file so i can save the stories and estimates locally i have a
 18	if i want to export a transcript of a game as a html file i can save stories and estimates locally
@@ -229,6 +247,7 @@
 18	as moderator i want to export a transcript of a game as a html file so i can save the stories and estimates locally
 18	as a moderator i want to export a transcript of a game as an html file so i can save the stories and estimates locally
 18	as moderator i want to export a transcript of a game as a html file so that i can save the stories and estimates locally
+19	 As a moderator, I want to export a transcript of a game as a CSV file, so that I can further process the stories and estimates.
 19	my role as moderator is to export a transcript of a game as a csv file so i can process the stories and estimates more efficiently
 19	my role as moderator is to export a transcript of a game as a csv file so i can process the stories and estimates more effectively
 19	my role as moderator is to export a transcript of a game as a csv file so i can process the stories and estimates more accurately
@@ -244,10 +263,12 @@
 19	my role as moderator is to export a transcript of a game as a csv file so i can further process the stories and estimates
 19	as moderator i want to export a transcript of a game as a csv file so i can further process the stories and estimates
 19	as moderator i want to export a transcript of a game as a csv file so that i can further process the stories and estimates
+20	 As a moderator, I want to delete a game, so that stories and estimates for this game are no longer stored.
 20	please delete a game so that the stories and estimates for this game are no longer stored
 20	as a moderator i want to delete a game so that stories and estimates for this game are not stored
 20	as moderator i want to delete a game so that the stories and estimates for this game are no longer stored
 20	as moderator i want to delete a game so that stories and estimates for this game are no longer stored
+21	 As a moderator, I want to create an account for the application by entering my name, email address, a password and a username, so that I can start using the application.
 21	as a moderator i want to create an account for the application by entering my name email address a password and a username so i can start using the app
 21	as a moderator i want to create an account for the application by entering my name email address a password and a username so that i can start using the
 21	as a moderator i want to create an account for the application by entering my email address a password and a username so i can start using the application
@@ -261,6 +282,7 @@
 21	as a moderator i want to create an account for the application by entering my name email address a password and a username so that i can start using the application i
 21	as a moderator i want to create an account for the application by entering my name email address a password and a username so that i can start using the application
 21	as a moderator i want to create an account for the application by entering my name email address a password and a username so that i can start using the application 
+22	 As a moderator, I want to log in using my account name and password, so that I can start using the application.
 22	please log in using my account name and password so that i can start using the application thank you for your help
 22	please log in using my account name and password so that i can start using the application how do i do this?
 22	please log in using my account name and password so that i can start using the application what should i do?
@@ -275,6 +297,7 @@
 22	please log in using my account name and password so that i can start using the application
 22	as a moderator i want to log in using my account name and password to start using the application
 22	as moderator i want to log in using my account name and password so i can start using the application
+23	 As a moderator, I want to change my account details, so that I can keep my account details up-to-date.
 23	please change my account details as a moderator
 23	please change my account details to keep my account details up-to-date as a moderator
 23	please change my account details to keep my account details up-to-date
@@ -288,6 +311,7 @@
 23	as a moderator i want to change my account details so i can keep my account details up-to-date
 23	as a moderator i want to change my account details so that i can keep my account details up to date
 23	as a moderator i want to change my account details so that i can keep my account details up-to-date
+24	 As a moderator, I want to delete my account, so that account information and games are no longer stored.
 24	please delete my account as a moderator
 24	please delete my account as a moderator i want to delete my account information and my games
 24	please delete my account as a moderator i want to delete my account information and the games
@@ -303,6 +327,7 @@
 24	as a moderator i want to delete my account so that my account information and games are no longer stored
 24	as moderator i want to delete my account so that account information and games are no longer stored
 24	as a moderator i want to delete my account so that account information and games are no longer stored
+25	 As a moderator, I want to see dates and times in my local timezone, so that I don't have to do timezone conversion myself.
 25	as a moderator i want to see dates and times in my local timezone so i don't have to do timezone conversion
 25	as the moderator i want to see dates and times in my local timezone so i don't have to do timezone conversion yourself
 25	as the moderator i want to see dates and hours in my local timezone so i don't have to do timezone conversion myself
@@ -315,6 +340,7 @@
 25	as the moderator i want to see dates and times in my local timezone so i don't have to do timezone conversion myself
 25	as a moderator i want to see dates and times in my local timezone so i don't have to do timezone conversion myself
 25	as a moderator i want to see dates and times in my local timezone so that i don't have to do timezone conversion myself
+26	 As a moderator, I want to get a password reminder by email, so that I can get back to using the application when I've forgotten my password.
 26	how can i reset my password as a moderator?'
 26	how do i reset my password as a moderator?'
 26	how can i reset my password as a moderator by e-mail?'
@@ -329,11 +355,13 @@
 26	i want to get a password reminder by email so i can use the application when i forgot my password
 26	i want to get a password reminder by email so i can get back to using the application if i forget my password
 26	i want to get a password reminder by email so i can get back to using the application if i forgot my password
+27	 As a moderator, I want to select whether to have the team estimate with {0, 1/2, 1, 2, 3, 5, 8, etc.} or {0, 1, 2, 4, 8, 16, 32, etc.}, so that the team can use either the modified Fibonacci sequence or powers of 2.
 27	if i am a moderator i want to select whether to have the team's estimate with 0 12 1 2 3 5 8 etc or 0 1 2 4 8 16 32 etc
 27	if i am a moderator i want to select whether to have the team's estimate with 0 12 1 2 3 5 8 etc or 0 1 2 4 8 16 32 etc so that
 27	in my role as moderator i want to select whether to have the team estimate with 0 12 1 2 3 5 8 etc or 0 1 2 4 8 16 32 etc so that the team can use either the modified fibon
 27	in my role as moderator i want to select whether to have the team estimate with 0 12 1 2 3 5 8 etc or 0 1 2 4 8 16 32 etc so that the team can use either the modified fibonacci sequence
 27	as a moderator i want to select whether to have the team estimate with 0 12 1 2 3 5 8 etc or 0 1 2 4 8 16 32 etc so the team can use the modified fibonacci sequence or powers of
+28	 As a moderator, I want to invite up to 15 estimators, so that we can play with large but not immense teams.
 28	my role is to invite 15 estimators so that we can play with large but not huge teams i want to invite up to
 28	my role is to invite up to 15 estimators so we can play with large but not huge teams i want to invite
 28	my role is to invite 15 estimators so we can play with large but not huge teams
@@ -348,6 +376,7 @@
 28	as a moderator i want to invite up to 15 estimators so we can play with large but not immense teams
 28	as moderator i want to invite up to 15 estimators so that we can play with large but not immense teams
 28	as a moderator i want to invite up to 15 estimators so that we can play with large but not immense teams
+29	 As an estimator, I want to join a game by entering my name on the page I received the URL for, so that I can participate.
 29	my name is on the page for which i received the url so i can participate i want to join a game
 29	my name is on the page for which i received the url so i can participate in a game as an estimator
 29	my name is on the page for which i received the url so i can participate in a game as an estimater
@@ -363,6 +392,7 @@
 29	as an estimater i want to join a game by entering my name on the page i received the url for so i can participate
 29	as an estimator i want to join a game by entering my name on the page i received the url for so i can participate
 29	as an estimator i want to join a game by entering my name on the page i received the url for so that i can participate
+30	 As an estimator, I want to see the item we're estimating, so that I know what I'm giving an estimate for.
 30	if i'm an estimator i want to see what we're estimating so i know what i'm estimating for
 30	so as an estimater i want to see the item we're estimating so i know what to give
 30	so as an estimater i want to see the item we're estimating so i know what we're estimating
@@ -376,6 +406,7 @@
 30	as an estimator i want to see the item we estimate so that i know what i'm giving an estimate for
 30	as an estimator i want to see the item we're estimating so i know what i'm giving an estimate for 
 30	as an estimator i want to see the item we're estimating so i know what i'm giving an estimate for
+31	 As an estimator, I want to see all items we will try to estimate this session, so that I have a feel for the sizes of the various items.
 31	if i want to see all the items we will try to estimate this session so that i can feel the sizes of the various items i want to see
 31	if i want to see all the items we will try to estimate this session so that i can feel the sizes of the different items
 31	if i want to see all the items we will try to estimate this session so i can feel the sizes of the various items
@@ -391,6 +422,7 @@
 31	as an estimator i want to see all items we will try to estimate this session so i have a feel for the sizes of the various items
 31	as an estimator i want to see all items we will try to estimate this session so that i have a feel for the sizes of various items
 31	as an estimator i want to see all items we will try to estimate this session so that i have a feel for the sizes of the various items
+32	 As a participant, I want to immediately see that an estimate has been given by a specific estimator, so that I know who has already given an estimate and who we're still waiting for.
 32	so as a participant i want to see immediately that an estimate has been given by a specific estimator so that i know who has already given an estimate and who we're still
 32	as a participant i want to see immediately that an estimate has been given by a specific estimator so i know who has already given an estimate and who we are still waiting for
 32	so as a participant i want to immediately see that an estimate has been given by a specific estimator so that i know who has already given an estimate and who we're still
@@ -404,6 +436,7 @@
 32	as a participant i want to immediately see that an estimate has been given by a specific estimator so that i know who has already given an estimate and who we are still waiting for 
 32	so as a participant i want to immediately see that an estimate has been given by a specific estimator so that i know who has already given an estimate and who we're still waiting
 32	as a participant i want to immediately see that an estimate has been given by a specific estimator so that i know who has already given an estimate and who we are still waiting for
+33	 As a participant, I want to be shown all estimates at the same time after all estimators have given their estimate, so that I can be sure estimates are independent and not influenced by other estimates given in the same draw.
 33	if i am a participant i want to be shown all estimates at the same time after all estimaters have given their estimates so i can be sure that estimates are independent and not influenced by other estimates given in the same draw
 33	as a participant i want to be shown all estimates at the same time after all estimators have given their estimates so i can be sure that estimates are independent and not influenced by other estimates given in the same draw
 33	as a participant i want to be shown all estimates at the same time after all estimators have given their estimates so that i can be sure that estimates are independent and not influenced by other estimates given in the same drawing
@@ -417,6 +450,7 @@
 33	as a participant i want to be shown all estimates at the same time after all estimaters have given their estimates so that i can be sure estimates are independent and not influenced by other estimates given in the same draw 
 33	if i am a participant i want to be shown all estimates at the same time after all estimaters have given their estimates so that i can be sure estimates are independent and not influenced by other estimates given in the same draw
 33	as a participant i want to be shown all estimates at the same time after all estimaters have given their estimates so that i can be sure estimates are independent and not influenced by other estimates given in the same draw
+34	 As a participant, I want to be able to change my estimate up until the last person selects a card and all are shown, so that I can change my mind based on information I hear.
 34	however i want to be able to change my estimate until the last person selects a card and all are shown so i can change my mind based on what i hear
 34	however i want to be able to change my estimate until the last person selects a card and all are shown so that i can change my mind based on information i hear about the
 34	however i want to be able to change my estimate until the last person selects a card and all are shown so i can change my mind based on the information i hear
@@ -432,6 +466,7 @@
 34	as a participant i want to be able to change my estimate until the last person selects a card and all are shown so i can change my mind based on information i hear
 34	as a participant i want to be able to change my estimate up until the last person selects a card and all are shown so i can change my mind based on information i hear
 34	as a participant i want to be able to change my estimate until the last person selects a card and all are shown so that i can change my mind based on information i hear
+35	 As a participant, I want to be able to see each estimator's prior estimates for the story being estimated, so that I can see how his or her opinion has changed so I can ask questions.
 35	as the participant i want to see each estimator's prior estimates for the story being estimated so i can see how his or her opinion changed so i can ask questions
 35	as the participant i want to see each estimator's prior estimates for the story being estimated so i can see how his or her opinion has changed so i can ask questions
 35	as the participant i want to be able to see each estimator's prior estimates for the story being estimated so i can see how his or her opinion has changed so i can ask
@@ -445,6 +480,7 @@
 35	as a participant i want to be able to see each estimater's prior estimates for the story being estimated so i can see how his or her opinion has changed so i can ask questions
 35	as a participant i want to be able to see each estimator's prior estimates for the story being estimated so i can see how his or her opinion has changed so i can ask questions
 35	as a participant i want to be able to see each estimator's prior estimates for the story being estimated so that i can see how his or her opinion has changed so i can ask questions
+36	 As a participant, I want to see who gave what estimates during the current round, so that I know this when we're discussing the estimates.
 36	so i want to see who gave what estimates during the current round so i know that when we discuss the estimates
 36	so i want to see who gave what estimates during the current round so i know this when we discuss the estimates
 36	so i want to see who gave what estimates during the current round so i know when we're discussing the estimates
@@ -459,6 +495,7 @@
 36	as a participant i want to see who gave what estimates during the current round so that i know this when we're discussing estimates
 36	as a participant i want to see who gave what estimates during the current round so that i know this when we're discussing the estimates
 36	as a participant i want to see who gave what estimates during the current round so that i know this when we're discussing the estimates 
+37	 As a participant, I want to be able to start a two-minute countdown timer that all participants can see, so that I can limit the time spent discussing the estimates when I think we've talked long enough.
 37	when i think we've talked long enough i want to be able to start a two minute countdown timer that all participants see"
 37	when i start a two-minute countdown timer that all participants can see so i can limit the time spent discussing the estimates if i think we've talked long enough to do so
 37	when i start a two-minute countdown timer that all participants can see so i can limit the time spent discussing the estimates if i think we've talked long enough to start
@@ -473,6 +510,7 @@
 37	when i start a two-minute countdown timer that all participants can see so i can limit the time spent discussing the estimates when we think we've talked long enough
 37	when i start a two-minute countdown timer that all participants can see so i can limit the time spent discussing the estimates when i think we've talked long enough
 37	i would like to be able to start a two-minute countdown timer that all participants can see so i can limit the time spent discussing estimates when i think we've talked long enough
+38	 As a participant, I want to have the two-minute timer reset itself as soon as we all play an estimate, so that it's ready for use on the next round.
 38	so as a participant i want the two-minute timer to reset itself so that it can be used for the next round
 38	so as a participant i want the two-minute timer to reset itself so that it can be used on the next round
 38	as a participant i want the timer to reset itself as soon as we all play an estimate so it can be used on the next round
@@ -487,6 +525,7 @@
 38	as a participant i want to have the timer reset itself as soon as we all play an estimate so that it's ready for use on the next round
 38	as a participant i want to have the two-minute timer reset itself as soon as we all play an estimate so that it's ready for use on the next
 38	as a participant i want to have the two-minute timer reset itself as soon as we all play an estimate so that it's ready for use on the next round
+39	 As a participant, I want to scroll back through the stories and estimates from prior rounds, so that I can use this information when I estimate the item of the current round.
 39	when i am a participant i want to look back at previous rounds to use this information when i estimate the item
 39	when i am a participant i want to look back at previous rounds to use this information when i estimate the item of the current round i want to scroll
 39	when i am a participant i want to look back at previous rounds to use this information when i estimate the item of the current round i want to use
@@ -502,6 +541,7 @@
 39	as a participant i want to scroll through the stories and estimates from previous rounds so that i can use this information when i estimate the item of the current round
 39	as a participant i want to scroll back through the stories and estimates from previous rounds so i can use this information when i estimate the item of the current round
 39	as a participant i want to scroll back through the stories and estimates from previous rounds so that i can use this information when i estimate the item of the current round
+40	 As a participant, I want to always have the cards in the same order across multiple draws, so that it's easy to compare estimates.
 40	we're all interested in having cards in the same order across multiple draws so we can compare estimates easily
 40	we're all interested in having cards in the same order over multiple draws so it's easy to compare estimates
 40	we're all interested in having cards in the same order for multiple draws so it's easy to compare estimates
@@ -517,6 +557,7 @@
 40	as a participant i want to always have the cards in the same order across multiple draws so that it is easy to compare estimates
 40	as a participant i want to always have the cards in the same order across multiple draws so that it's easy to compare estimates
 40	as a participant i want to always have the cards in the same order across multiple draws so that it's easy to compare estimates 
+41	 As a participant, I want to change my estimate as long as the draw has not been completed, so that I can change my mind.
 41	so long as the draw has not been completed as a participant i want to change my estimate
 41	so long as the draw has not been completed i want to change my estimate so i can change my mind
 41	so i want to change my estimate as long as the draw has not been completed so i can change my mind about the draw and the results
@@ -532,6 +573,7 @@
 41	as a participant i want to change my estimate as long as the draw has not been completed so i can change my mind
 41	as a participant i want to change my estimate as long as the drawing has not been completed so that i can change my mind
 41	as a participant i want to change my estimate as long as the draw has not been completed so that i can change my mind
+42	 As a participant, I want to have a small thumbnail photo displayed near where my cards are played, so that the game is more personal because I see who I'm estimating with.
 42	my goal is to have an image of the card near where i play so that the game is more personal because i see who i estimate with
 42	my goal is to have an image of my card near where i play so that the game is more personal because i see who i estimate with
 42	my goal is to have an image of the card near where i play so that the game is more personal because i see who i'm estimating
@@ -547,6 +589,7 @@
 42	as a participant i want to have a small thumbnail photo displayed near where my cards are played so the game is more personal because i see who i estimate with
 42	as a participant i want a small thumbnail photo displayed near where my cards are played so that the game is more personal because i see who i'm estimating with
 42	as a participant i want to have a small thumbnail photo displayed near where my cards are played so that the game is more personal because i see who i estimate with
+43	 As a developer, I want to have written a site which is compliant with XHTML and CSS standards, so that as many people as possible can access the site and view it as intended.
 43	if i wanted to have written a website which is compliant with xhtml and css standards so as many people as possible can access the site and view it as intended i would have to
 43	if i wanted to have written a website which is compliant with xhtml and css standards so as many people as possible can access the site and view it as intended i would have
 43	if i wanted to have written a website which is compliant with xhtml and css standards so as many people can access the site and view it as intended
@@ -561,6 +604,7 @@
 43	as a developer i want to have written a site that is compliant with xhtml and css standards so that as many people as possible can access the site and view it as intended
 43	as a developer i want to have written a site which is compliant with xhtml and css standards so that as many people as possible can access the site and view it as intended 
 43	as a developer i want to have written a site which is compliant with xhtml and css standards so that as many people as possible can access the site and view it as intended
+44	 As a developer, I want to have a list of definitions for commonly used terms, so that everyone working on the project can understand each other more easily.
 44	so as a developer i want a list of definitions for commonly used terms to make it easier to understand each other working on the project
 44	so as a developer i want a list of definitions for commonly used terms to make it easier to understand each other
 44	so as a developer i want a list of definitions for commonly used terms to make it easier to understand each other on the project
@@ -573,6 +617,7 @@
 44	as a developer i want to have a list of definitions of commonly used terms so that everyone working on the project can understand each other more easily
 44	as a developer i want to have a list of definitions for commonly used terms so that everyone working on the project can understand each other more easily
 44	as a developer i want to have a list of definitions for commonly used terms so that everyone working on the project can understand each other more easily 
+45	 As a developer, I want to have created database indexes, so that the queries run as fast as possible.
 45	i'm a developer and i want to have created database indexes so that queries can run as fast as possible
 45	i'm a developer and i want to have created database indexes so that the queries run as quickly as possible
 45	as a developer i want to have created database indexes so that queries run as quickly as possible
@@ -585,6 +630,7 @@
 45	as a developer i want to have created database indexes so that the queries run as fast as possible ''
 45	as a developer i want to have created database indexes so that the queries run as fast as possible
 45	as a developer i want to have created database indexes so that the queries run as fast as possible 
+46	 As a developer, I want to have the application function correctly in Internet Explorer 6 and 7, Firefox 1.5 and 2, and Safari 2, so that as many people as possible can fully use the application.
 46	if i'm a developer i want the application to function correctly in internet explorer 6 and 7 firefox 15 - and 2 and safari 2 so that as many people as possible can
 46	as a developer i want the application to function correctly in internet explorer 6 and 7 firefox 15 and 2 and safari 2 so as many people as possible can fully use the
 46	as a developer i want the application to function correctly in internet explorer 6 and 7 firefox 15 and 2 and safari 2 so that as many people as possible can fully use the
@@ -599,6 +645,7 @@
 46	as a developer i want to have the application function correctly in internet explorer 6 and 7 firefox 15 and 2 and safari 2 so as many people as possible can fully use the application
 46	as a developer i want to have the application function correctly in internet explorer 6 and 7 firefox 15 and 2 and safari 2 so that as many people as possible can fully use the application
 46	as a developer i want to have the application function correctly in internet explorer 6 and 7 firefox 15 and 2 and safari 2 so that as many people as possible can fully use the application 
+47	 As a developer, I want to have the site comply with the W3C accessibility guidelines where possible, so that people with accessibility issues can use the application.
 47	when i'm developing the site i want it to comply with the w3c accessibility guidelines where possible so that people with accessibility issues can use the application
 47	as a developer i want the site to comply with w3c accessibility guidelines where possible so that people with accessibility issues can use the application
 47	when i'm a developer i want the site to comply with w3c accessibility guidelines where possible so that people with accessibility issues can use the application
@@ -614,6 +661,7 @@
 47	as a developer i want to have the site comply with the w3c accessibility guidelines where possible so that people with accessibility issues can use the application 
 47	when i'm a developer i want to have the site comply with the w3c accessibility guidelines where possible so that people with accessibility issues can use the application
 47	as a developer i want to have the site comply with the w3c accessibility guidelines where possible so that people with accessibility issues can use the application
+48	 As a user, I want to have the application respond quickly to my actions, so that I don't get bored.
 48	when i use the application as a user i want the application to respond quickly to my actions so i don't get bored
 48	as a user i want the application to respond to my actions quickly so that i don't get bored
 48	as a user i want the application to respond quickly to my actions so that i don't get bored of it
@@ -628,6 +676,7 @@
 48	as a user i want to have the application respond quickly to my actions so that i don't get bored 
 48	when i'm a user i want to have the application respond quickly to my actions so that i don't get bored
 48	as a user i want to have the application respond quickly to my actions so that i don't get bored
+49	 As a user, I want to be able to use Unicode, so that I can use any language I like.
 49	my goal as a user is that i can use any language that i like
 49	my goal as a user is that i can use any language i like
 49	i want to be able to use unicode so i can use any language i like
@@ -642,6 +691,7 @@
 49	as a user i want to be able to use unicode so that i can use any language i like to
 49	as a user i want to be able to use unicode so that i can use any language i like
 49	so as a user i want to be able to use unicode so that i can use any language i like
+50	 As a user, I want to see sensible and predictable URLs, so that the application feels logical and transparent.
 50	as a user i want to see sensible and predictable urls so that the application feels logical and clear
 50	user i want to see sensible and predictable urls so that application feels logical and transparent
 50	as a user i want to see sensible and predictable urls to make the application feel logical and transparent
@@ -654,6 +704,7 @@
 50	as user i want to see sensible and predictable urls so that the application feels logical and transparent
 50	as a user i want to see sensible and predictable urls so that the application feels logical and transparent 
 50	as a user i want to see sensible and predictable urls so that the application feels logical and transparent
+51	 As a user, I want to have nice error pages when something goes wrong, so that I can trust the system and its developers.
 51	we all want nice error pages when something goes wrong so we can trust the system and its developers
 51	we all want nice error pages when something goes wrong so i can trust the system and its developers
 51	we all want to have good error pages when something goes wrong so i can trust the system and its developers
@@ -668,6 +719,7 @@
 51	as a user i want to have nice error pages when something goes wrong so that i can trust the system and its developers i
 51	as a user i want to have nice error pages when something goes wrong so that i can trust the system and its developers
 51	as a user i want to have nice error pages when something goes wrong so that i can trust the system and its developers 
+52	 As a Researcher, I want results to be stored in a non-identifiable way, so that I can study the data to see things like whether estimates converged around the first opinion given by "estimator A" for example.
 52	researcher wants results to be stored in a non-identifiable way so i can examine the data to see things like whether estimates converged around the first opinion given by estimator a for example
 52	researcher wants results to be stored in a non-identifiable way so i can study the data to see things like whether estimates converged around the first opinion given by estimator a for example if the
 52	a researcher wants results to be stored in a non-identifiable way so i can examine the data to see things like whether estimates converged around the first opinion given by estimator a for example
@@ -682,6 +734,7 @@
 52	a researcher wants results to be stored in a non-identifiable way so i can study the data to see things like whether estimates converged around the first opinion given by estimator a for example
 52	a researcher wants results to be stored in a non-identifiable way so i can study the data to see things like whether estimates converged around the first opinion given by estimator a for example 
 52	as a researcher i want results to be stored in a non-identifiable way so i can study the data to see things like whether estimates converged around the first opinion given by estimator a for example
+53	 As a Mike, I want to be able to see some metrics on use of the game, so that I can see how much it is being used.
 53	mike wants me to be able to see some metrics on the use of the game so that i can see how much it's used
 53	as a mike i want to see some metrics on the use of the game so i can see how much it is being used
 53	as a mike i want to see some metrics on use of the game so i can see how much it is being used

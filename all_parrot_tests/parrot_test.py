@@ -129,10 +129,10 @@ def parrot_test_func():
         do_diverse_array = [True]
         max_return_phrases_array = [15]
         max_length_array = [32]
-        adequacy_threshold_array = [0.50]
-        fluency_threshold_array = [0.1]
+        adequacy_threshold_array = [0.5]
+        fluency_threshold_array = [0.5]
 
-        dir = "../results/data_set_" + str(data_set_index)
+        dir = "../results/data_set_" + str(data_set_index) + "_first"
         if not os.path.exists(dir):
             os.makedirs(dir)
 

@@ -18,7 +18,14 @@ def eda_format_func():
         dst_file = open("../results/data_set_" + str(i) + "/results_" + str(i) + "_EDA_input.txt", "w")
         for src_line in src_file:
             if "Input_phrase" in src_line:
-                j = j+1
+                j = j + 1
+                if src_line.startswith("Input_phrase:"):
+                    # the format of the line is: Input_phrase: phrase
+                    dst_line = str(j) + "\t" + src_line[14:]
+                else:
+                    # the format of the line is: number) Input_phrase: phrase
+                    dst_line = str(j) + "\t" + src_line[17:]
+                dst_file.write(dst_line)
             if src_line.startswith("("):
                 end_index = src_line.find(")")
                 dst_line = str(j) + "\t" + src_line[2:end_index-5] + "\n"

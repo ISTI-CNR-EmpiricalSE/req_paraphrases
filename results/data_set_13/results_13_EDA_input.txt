@@ -1,3 +1,4 @@
+1	As a system administrator, I want to run a script that installs the Neurohub node onto a virgin Ubuntu operating system.
 1	my job is to run a script that installs the neurohub node on a virgin ubuntu operating system i want to run
 1	my job is to run a script that installs the neurohub node on a virgin ubuntu system
 1	my job is to run a script that installs the neurohub node on a virgin ubuntu operating system
@@ -7,6 +8,7 @@
 1	as a system administrator i want to run a script that installs the neurohub node on a virgin ubuntu operating system
 1	as a system administrator i want to run a script that installs the neurohub node on a virgin ubuntu operating system 
 1	as a system administrator i want to run a script that installs the neurohub node onto a virgin ubuntu operating system
+2	As a system administrator, I want to run a script that tests to see if a Neurohub installation is functioning correctly.
 2	as administrator i want to run a script that tests to see if a neurohub installation is working properly
 2	as administrator i want to run a script that tests to see if a neurohub installation is working correctly
 2	as administrator i want to run a script that tests to see if a neurohub installation is functioning correctly i have 
@@ -20,6 +22,7 @@
 2	as the system administrator i want to run a script that tests to see if a neurohub installation is functioning correctly
 2	as a system administrator i want to run a script that tests to see if a neurohub installation is functioning correctly
 2	as a system administrator i want to run a script that tests to see if a neurohub installation is functioning correctly 
+3	As a release engineer, I want to call a script to execute acceptance tests against a Neurohub installation and report back the results.
 3	if i am a release engineer i want to run acceptance tests against a neurohub installation and report the results
 3	when i am a release engineer i want to run acceptance tests against a neurohub installation and report the results
 3	if i am a release engineer i want to run acceptance tests against a neurohub installation and report back the results
@@ -29,6 +32,7 @@
 3	as a software release engineer i would like to call a script to execute acceptance tests against a neurohub installation and report back the results
 3	as a release engineer i want to call a script to execute acceptance tests against a neurohub installation and report the results
 3	as a release engineer i want to call a script to execute acceptance tests against a neurohub installation and report back the results
+4	As an investigator, I want to view the acceptance test results, so that I can understand how feature-complete the Neurohub node currently is.
 4	i want to see acceptance test results so i can understand how feature-complete the neurohub node is
 4	i want to see acceptance test results to understand how feature-complete the neurohub node currently is
 4	i want to see acceptance test results so i can understand how feature-complete the neurohub node is currently
@@ -44,6 +48,7 @@
 4	as an investigator i want to view the acceptance test results so that i can understand how feature-complete the neurohub node is
 4	as investigator i want to view the acceptance test results so i can understand how feature-complete the neurohub node currently is
 4	as an investigator i want to view the acceptance test results so i can understand how feature-complete the neurohub node currently is
+5	As an MRI operator, I want to digitally record the responses that subjects make when completing paper-based forms.
 5	as a mri operator i want to digitally record the responses that subjects make when completing paper-based questionnaires
 5	as an mri operator i want to digitally record the responses that subjects make when completing paper-based questionnaires
 5	as an mri operator i want to digitally record responses that subjects make when completing paper forms
@@ -58,6 +63,7 @@
 5	as a mri operator i want to digitally record the responses that subjects make when completing paper-based forms
 5	as an mri operator i want to digitally record the responses that subjects make when completing paper-based forms
 5	my role as an mri operator i want to digitally record the responses that subjects make when completing paper-based forms
+6	As a user, I want to navigate forwards and backwards between log books and log book pages without having to use my browser's back button.
 6	my browser does not have a back button as a user i want to navigate forwards and backwards between log books and log book pages
 6	as a user i want to navigate between log books and log book pages without using my browser's back button
 6	as a user i want to navigate between log books and log book pages without having to use my browser's back button
@@ -69,6 +75,7 @@
 6	as a user i want to navigate forwards and backwards between log books and log book pages without having to use my browser's back button 
 6	as a user i want to navigate forwards and backwards between log books and log book pages without having to use my browser's back button
 6	as a user i want to navigate forwards and backwards between log books and log book pages without having to use my browser's back buttons
+7	As a lab administrator, I want to theme the Web interface graphics/colours.
 7	my role is to theme the web interface graphicscolours
 7	my job is to theme the web interface graphicscolours
 7	as administrator of a lab i want to theme the web interface graphicscolors
@@ -78,12 +85,14 @@
 7	as a lab administrator i want to theme the web interface graphicscolors
 7	as a lab administrator i want to theme the web interface graphicscolour
 7	as a lab administrator i want to theme the web interface graphicscolours
+8	As a systems administrator, I want  to install Neurohub dependencies into an Ubuntu 10.04 LTS machine using the normal Ubuntu package management tools.
 8	installing neurohub dependencies into an ubuntu 1004 lts machine using the normal ubuntu package management tools is possible as a systems administrator
 8	installing neurohub dependencies into an ubuntu 1004 lts machine using the normal ubuntu package management tools is possible as a system administrator
 8	installing neurohub dependencies into an ubuntu 1004 lts machine using the normal ubuntu package management tools is a system administrator task
 8	installing neurohub dependencies into an ubuntu 1004 lts machine using the normal ubuntu package management tools is a system administrator
 8	installing neurohub dependencies into an ubuntu 1004 lts machine using the normal ubuntu package management tools is a good idea
 8	installing neurohub dependencies into an ubuntu 1004 lts machine using the normal ubuntu package management tools is possible
+9	As a researcher, I want to create a log book page for an experiment and attach a file to this page.
 9	as a researcher i want to create a log book page for an experiment and add a file to this page
 9	if i am a researcher i want to create a log book for an experiment and attach a file to this page
 9	in my role as researcher i want to create a log book page for an experiment and add a file to this page
@@ -98,6 +107,7 @@
 9	as a researcher i want to create a log book page for an experiment and attach a file to this page
 9	as a researcher i want to create a log book page for an experiment and attach a file to this page 
 9	in my role as researcher i want to create a log book page for an experiment and attach a file to this page
+10	 As a researcher, I want to create a log book page for an experiment and attach a directory that contains multiple files.
 10	if i am a researcher i want to create a log book page for an experiment and attach a folder that contains multiple files
 10	as a researcher i want to create a log book page for an experiment and attach a folder that contains multiple files
 10	as a researcher i want to create a log book page for an experiment and attach a directory that contains multiple documents
@@ -113,6 +123,7 @@
 10	as a researcher i want to create a log book page for an experiment and attach a directory that contains multiple files 
 10	if i am a researcher i want to create a log book page for an experiment and attach a directory that contains multiple files
 10	as a researcher i want to create a log book page for an experiment and attach a directory that contains multiple files
+11	 As a researcher, I want to upload files prior to having them attached to a log book page.
 11	my job is to upload a file before attaching it to a log book
 11	my job is to upload a file before attaching it to a logbook page
 11	my job is to upload a file before attaching it to a log book page
@@ -128,6 +139,7 @@
 11	as a researcher i want to upload files before having them attached to a log book page
 11	as a researcher i want to upload files prior to having them attached to a log book
 11	as a researcher i want to upload files prior to having them attached to a log book page
+12	 As a researcher, I want to upload files prior to having them attached to a log book page using the web interface.
 12	how do i upload files to a log book using the web interface?
 12	as a researcher i want to upload files using the web interface before they are attached to a log book page
 12	as a researcher i want to upload files using the web interface before having them attached to a log book page
@@ -138,6 +150,7 @@
 12	my job is as researcher to upload files before having them attached to a log book page using the web interface
 12	as a researcher i want to upload files before having them attached to a log book page using the web interface
 12	as a researcher i want to upload files before having them attached to a log book page using the web interface 
+13	 As a researcher, I want to upload files prior to having them attached to a log book page using a mapped network drive.
 13	as a researcher i want to upload files using a mapped network drive before having them attached to a log book page
 13	my research wants to upload files before they are attached to a log book page using an mapped network drive i want to upload
 13	my research wants to upload files before having them attached to a log book page using an mapped network drive i want to upload
@@ -151,6 +164,7 @@
 13	as a researcher i want to upload files prior to having them attached to a log book page using a mapped network drive i
 13	as a researcher i want to upload files prior to having them attached to a log book page using a mapped network drive 
 13	as a researcher i want to upload files prior to having them attached to a log book page using a mapped network drive
+14	 As a researcher, I want to attach currently non-attached files to a log book page.
 14	if i want to attach currently non-attached files to a log book page i have to do this
 14	as a researcher i want to attach currently non-attached files to a log book page if possible
 14	as a researcher i want to attach currently non-attached files to a log book page i have
@@ -164,6 +178,7 @@
 14	in my job as a researcher i want to attach currently non-attached files to a log book page
 14	in my role as a researcher i want to attach current non-attached files to a log book page
 14	in my role as a researcher i want to attach currently non-attached files to a log book page
+15	 As a researcher, I want to receive an alert of any unattached files that are in my workspace.
 15	i would like to receive an alert of unattached files in my workspace
 15	i would like to receive an alert of unattached files that are in my office
 15	i would like to receive an alert of any unattached files in my workspace
@@ -177,6 +192,7 @@
 15	as a researcher i want to receive an alert of any unattached files that are in my work space
 15	as a researcher i want to receive an alert of any unattached files that are in my workspace
 15	as a researcher i want to receive an alert of any unattached files that are in my workspace 
+16	 As a researcher, I want to download files attached to an experiment using my Web browser.
 16	my web browser allows me to download a file attached to a study
 16	my web browser allows me to download a file attached to a research
 16	my web browser allows me to download files associated with an experiment
@@ -189,6 +205,7 @@
 16	as researcher i want to download files attached to an experiment using my web browser
 16	as a researcher i want to download files attached to an experiment using my web browser 
 16	as a researcher i want to download files attached to an experiment using my web browser
+17	 As a researcher, I want to access files stored in my Neurohub workspace, using a network drive attached to my workstation.
 17	i want to access files stored in my neurohub workspace using a network drive attached to my workstation
 17	as a researcher i want to access files stored in my neurohub workspace using a network drive attached to my computer
 17	when i'm a researcher i want to access files in my neurohub workspace using a network drive attached to my workstation
@@ -200,6 +217,7 @@
 17	as a researcher i want to access files stored in my neurohub workspace using a network drive attached to my work station
 17	as a researcher i want to access files stored in my neurohub workspace using a network drive attached to my workstation
 17	when i am a researcher i want to access files stored in my neurohub workspace using a network drive attached to my workstation
+18	 As a researcher, I want to create a log book page.
 18	i want to create a log book page as a researcher
 18	if i want to create a log book page as a researcher
 18	as a researcher i want to create a page for the log books
@@ -213,6 +231,7 @@
 18	as researcher i want to create a log book page
 18	as a researcher i want to create a logbook page
 18	as a researcher i want to create a log book page
+19	 As a release engineer, I want to configure nightly builds that automatically perform a Neurohub installation on a virgin operating system, execute tests and report back results, without requiring any manual input/interaction.
 19	my role is to configure nightly builds that automatically perform an installation of the neurohub platform on a virgin operating system execute tests and report back results without manual input
 19	my role is to configure nightly builds that automatically perform an installation of the neurohub software on a virgin operating system execute tests and report back results without manual inputinteraction i
 19	my role is to configure nightly builds that automatically perform an installation of the neurohub software on a virgin operating system execute tests and report back results without manual inputinteractions
@@ -227,6 +246,7 @@
 19	currently i want to configure nightly builds that automatically perform a neurohub installation on a virgin operating system execute tests and report back results without requiring manual inputinteraction
 19	as a release engineer i want to configure nightly builds that automatically perform a neurohub installation on a virgin operating system execute tests and report back results without requiring manual input
 19	as a release engineer i want to configure nightly builds that automatically perform a neurohub installation on a virgin operating system execute tests and report back results without requiring any manual input
+20	 As a supervisor, I want to view what my researchers were doing on a given date or period of time.
 20	as an administrator i want to see what my researchers were doing at one time or period
 20	as the supervisor i want to see what my researchers were doing at that time
 20	as the supervisor i want to see what my researchers were doing at one time or for a given period
@@ -240,6 +260,7 @@
 20	as a supervisor i want to see what my researchers were doing on a given date or period of time
 20	as a supervisor i want to see what my researchers were doing on a given date or period of time 
 20	as a supervisor i want to view what my researchers were doing on a given date or period of time
+21	 As a user, I want to upload large files of over 1GB in size.
 21	when i upload large files of over 1gb in size as a user i want to upload
 21	when i upload large files of over 1gb in size i want to upload
 21	when i upload large files over 1gb in size as a user
@@ -254,6 +275,7 @@
 21	as a user i want to upload large files of over 1 gb in size 
 21	as a user i want to upload large files of over 1gb in size
 21	if i am a user i want to upload large files of over 1gb in size
+22	 As a user, I want to assign tags to files that I have uploaded.
 22	then as an user i want to assign tags to my uploaded files
 22	then as an user i want to assign tags to the uploaded files
 22	as a user i want to assign tags to files i uploaded
@@ -269,6 +291,7 @@
 22	then as an user i want to assign tags to the file that i have uploaded
 22	if i am a user i want to assign tags to files that i have uploaded
 22	as a user i want to assign tags to files that i have uploaded
+23	 As a user, I want to assign bespoke information to a file dependent on its type.
 23	if i want to assign a specific information to a file depending on its type as a user
 23	as a user i want to assign a file bespoke information dependent on its type
 23	in my role as user i want to assign a specific information to a file based on its type
@@ -283,6 +306,7 @@
 23	as a user i want to assign bespoke information to a file depending on its type
 23	as a user i want to assign bespoke information to a file dependent on its type ''
 23	as a user i want to assign bespoke information to a file dependent on its type
+24	 As a user, I want to filter the files I get from search results based on their  type.
 24	as a user i want to filter the files i get from the results of search based on their type ''
 24	as a user i want to filter the files i get from the results of search based on their type
 24	as a user i want to filter the files i get from the results of search based on their types
@@ -297,6 +321,7 @@
 24	in my opinion as a user i want to filter the files i get from search results based on their type
 24	in my case as a user i want to filter the files i get from the search results based on their type
 24	as a user i want to filter the files i get from search results based on their type
+25	 As a user, I want to use the tags that I use are part of a controlled vocabulary.
 25	in my opinion the tags i use are part of a controlled vocabulary
 25	as a user i want to use the tags i use are part of controlled vocabulary
 25	as a user i want to use the tags i use are part of a controlled vocabulary ''
@@ -310,6 +335,7 @@
 25	as a user i want to use the tags that i use are part of a controlled vocabulary '
 25	as a user i want to use the tags that i use are part of a controlled vocabulary
 25	if as a user i want to use the tags that i use are part of a controlled vocabulary
+26	 As a user, I want to make uploaded data files to be non-modifiable.
 26	as a user i want uploaded files to be non-modifiable
 26	as a user i want uploaded data files to be non-modifiable ''
 26	if i'm a user i want uploaded data files to be non-modifiable
@@ -322,6 +348,7 @@
 26	as a user i want the uploaded data files to be non-modifiable
 26	as a user i want to make uploaded data files to be non-modifiable
 26	as a user i want to make uploaded data files to be non-modifiable 
+27	 As a user, I want to make predicated links between files.
 27	i want to make predicated links between files as a user
 27	when i use this tool i want to make the links between files
 27	as a user i want predicated links between files
@@ -336,6 +363,7 @@
 27	as a user i want to make predicated links between file
 27	if i am a user i want to make predicated links between files
 27	as a user i want to make predicated links between files
+28	 As a user, I want to restrict what can be entered to a metadata field.
 28	the user wants to limit what can be entered in a metadata field
 28	the user wants to limit what can be entered to a metadata field
 28	as a user i want to limit what can be entered in a metadata field
@@ -351,6 +379,7 @@
 28	as a user i want to restrict what can be entered to a metadata field
 28	however as a user i want to restrict what can be entered in a metadata field
 28	however as a user i want to restrict what can be entered to a metadata field
+29	 As a user, I want to have files I might accidentally delete to be restorable.
 29	as a user i want to have files i might accidentally delete to be able to recover my data
 29	as a user i want to have files i might accidentally delete to be able to recover them
 29	as a user i want to have files i might accidentally delete to be able to restore
@@ -359,6 +388,7 @@
 29	as a user i want to have files i might accidentally delete to be re-usable
 29	as a user i want to have files i might accidentally delete to be restored
 29	as a user i want to have files i might accidentally delete to be restorable
+30	 As a user, I want to revert to an older version of an uploaded file.
 30	when i want to change the version of an uploaded file as a user
 30	as a user i want to revert to an older version of a file uploaded
 30	as a user i want to revert to an older version of an uploaded file i have
@@ -374,6 +404,7 @@
 30	in my case as a user i want to revert to an older version of the uploaded file
 30	in my case as a user i want to revert to an older version of a uploaded file
 30	in my case as a user i want to revert to an older version of an uploaded fil
+31	 As a user, I want to have a visual way of viewing particular files uploaded over a time period.
 31	if i want to have a visual way of viewing particular files uploaded over a period of time i would like to have
 31	if i want to have a visual way of viewing particular files uploaded over a period of time i would like to see
 31	if i want to have a visual way of viewing particular files uploaded over a period of time i want to have
@@ -385,6 +416,7 @@
 31	as a user i want to have a visual way of viewing particular files uploaded over a period of time 
 31	as a user i want to have a visual way of viewing particular files uploaded over a period
 31	as a user i want to have a visual way of viewing particular files uploaded over a time period
+32	 As a user, I want to associate together files involved in a experiment.
 32	if i want to associate files involved in an experiment with another user i want to associate them together
 32	as a user i want to associate files involved in an experiment
 32	as a user i want to associate together files involved in a study
@@ -400,6 +432,7 @@
 32	as a user i want to associate together files involved in a experiment
 32	in my role as a user i want to associate together files involved in an experiment
 32	in my role as a user i want to associate together files involved in a experiment
+33	 As a system administrator, I want to have a managed backup protocol for the system.
 33	as the system administrator i want a managed backup protocol
 33	as a system administrator i want to have a managed backup protocol
 33	as system administrator i want a managed backup protocol for the system
@@ -413,6 +446,7 @@
 33	as the system administrator i want to have a managed backup protocol for the system
 33	as the system administrator i want to have a managed backup protocol for the systems
 33	as a system administrator i want to have a managed backup protocol for the system
+34	 As a user, I want to enter metadata / describe an experiment protocol before a file is even created.
 34	as a user i want to enter metadata before a file is created  describe an experiment protocol
 34	as a user i want to enter metadata  describe an experiment protocol before a file is actually created
 34	in my role as user i want to enter metadata  describe an experiment protocol before a file is actually created
@@ -426,6 +460,7 @@
 34	as a user i want to enter metadata  describe an experiment protocol before a file is even created
 34	in my role as user i want to enter metadata  describe an experiment protocol before a file is even created
 34	in my case as user i want to enter metadata  describe an experiment protocol before a file is even created
+35	 As lab administrator, I want to have increased access to the system to support regular users. 
 35	i want to have more access to the system as a lab administrator for regular users
 35	i want to have more access to the system as a lab administrator for regular users -
 35	i want to have more access to the system as a lab administrator for regular users 
@@ -441,6 +476,7 @@
 35	as lab administrator i want to have increased access to the system to support regular users
 35	as a lab administrator i want to have increased access to the system to support regular users
 35	as a lab administrator i want to have increased access to the system to support regular users 
+36	 As a user, I want to link together experimental runs to build an experiment.
 36	as a user i want to link experimental runs together to build an experimental experiment
 36	if i want to link experimental runs to build an experiment as a user
 36	i'm a user who wants to link experimental runs together to build an experiment
@@ -454,6 +490,7 @@
 36	as a user i want to link experimental runs to build an experiment
 36	as a user i want to link together experimental runs to build an experiment ''
 36	as a user i want to link together experimental runs to build an experiment
+37	 As a lab administrator, I want to create page templates with bespoke metadata fields.
 37	as administrator of a lab i want to create template pages with bespoke metadata fields
 37	as administrator of a lab i want to create page templates with personalised metadata fields
 37	as administrator of a lab i want to create page templates with customised metadata fields
@@ -466,6 +503,7 @@
 37	as lab administrator i want to create page templates with bespoke metadata fields
 37	as a lab administrator i want to create page templates with bespoke metadata field
 37	as a lab administrator i want to create page templates with bespoke metadata fields
+38	 As a user, I want to capture the same metadata for each file created in an experimental run.
 38	for each file created in an experimental run i want to capture the same metadata
 38	if i want to capture the same metadata for each file created in an experimental run i want to capture the same
 38	as a user i want to capture the same metadata for each file created in a test run
@@ -480,6 +518,7 @@
 38	if i am a user i want to capture the same metadata for each file created in an experimental run
 38	as a user i want to capture the same metadata for each file created in an experimental run 
 38	as a user i want to capture the same metadata for each file created in an experimental run
+39	 As a lab administrator, I want a way of managing worm strain stocks that is integrated with Wormbase.
 39	i'd like to have a way to manage worm strain stocks that is integrated with wormbase
 39	i'd like to have a way of managing worm strain stocks that is integrated with wormbase
 39	as a lab administrator i want a way to manage worm strain stocks integrated with wormbase
@@ -492,6 +531,7 @@
 39	i'm a lab administrator i want a way of managing worm strain stocks that is integrated with wormbase
 39	as lab administrator i want a way of managing worm strain stocks that is integrated with wormbase
 39	as a lab administrator i want a way of managing worm strain stocks that is integrated with wormbase
+40	 As a user, I want to search for and download human-readable experimental protocols.
 40	as a user i want to search for and download human-readable experimental protocols i can also
 40	as a user i want to search for and download human-readable experimental protocols i have
 40	if i'm a user i want to search and download human-readable experimental protocols
@@ -504,6 +544,7 @@
 40	as a user i want to search for and download human-readable experimental protocols
 40	as a user i want to search for and download human-readable experimental protocols 
 40	if i am a user i want to search for and download human-readable experimental protocols
+41	 As a user, I want to modify or branch an experimental protocol, whilst retaining the original.
 41	in my role as a user i want to modify an experimental protocol or branch it while keeping the original
 41	in my role as a user i want to modify an experimental protocol or branch it while retaining the original
 41	as a user i want to modify or branch an experimental protocol while retaining the original protocol
@@ -519,6 +560,7 @@
 41	in my role as user i want to modify or branch an experimental protocol while retaining the original
 41	as a user i want to modify or branch an experimental protocol whilst retaining the original 
 41	as a user i want to modify or branch an experimental protocol whilst retaining the original
+42	 As a user, I want to view how an experimental protocol has evolved over time.
 42	as a user i want to see how an experimental protocol has evolved over the course of the years
 42	as a user i want to see how an experimental protocol has evolved over the course of time
 42	as a user i'd like to see how an experimental protocol has evolved over the years
@@ -532,6 +574,7 @@
 42	as a user i want to see how an experimental protocol has evolved over time
 42	as a user i want to view how an experimental protocol has evolved over time ''
 42	as a user i want to view how an experimental protocol has evolved over time
+43	 As a user, I want to create a protocol and assign metadata to any stag.
 43	as a user i want to create a protocol and assign metadata to any stag if necessary
 43	as a user i want to create a protocol and assign metadata to any stag if any
 43	as a user i want to create a protocol and assign metadata to stags
@@ -545,6 +588,7 @@
 43	in my role as a user i want to create a protocol and assign metadata to any tag
 43	in my role as a user i want to create a protocol and assign metadata to any stag
 43	in my case as a user i want to create a protocol and assign metadata to any sta
+44	 As a user, I want to prove definitively that I created a page on a certain date.
 44	i want to prove as a user if i created a page on a certain date definitively
 44	i want to prove as a user if i created a page on a particular date
 44	i want to prove as a user if i created a page on a specified date
@@ -559,6 +603,7 @@
 44	as a user i want to prove definitively that i created a page on a certain date '
 44	as a user i want to prove definitively that i created a page on a certain date 
 44	as a user i want to prove definitively that i created a page on a certain date
+45	 As a user, I want to manage the references / papers I have investigated.
 45	the user wants to manage the papers i have investigated as a reference
 45	the user wants to manage the papers i have investigated as references
 45	the user wants to manage the papers i investigated
@@ -574,6 +619,7 @@
 45	as a user i want to manage the references  papers i've investigated
 45	as a user i want to manage the referencespapers i have investigated
 45	as a user i want to manage the references  papers i have investigated
+46	 As a user, I want to search specifically for files rather than log book pages.
 46	as a user i want to search specifically for files rather than pages in the logbook ''
 46	as a user i want to search specifically for files rather than pages in the log book ''
 46	as a user i want to search specifically for files rather than pages in the log book 
@@ -588,6 +634,7 @@
 46	as a user i want to search specifically for files rather than log book pages ''
 46	as a user i want to search specifically for files rather than logbook pages
 46	as a user i want to search specifically for files rather than log book pages
+47	 As a user, I want to limit my search to a particular set of log books.
 47	my search will be limited to one set of log books as a customer
 47	my search will be limited to one set of log books as a user ''
 47	my search should be limited to one set of log books as a user
@@ -602,6 +649,7 @@
 47	as a user i want to limit my search to a certain set of log books
 47	as a user i want to limit my search to a particular set of logbooks
 47	as a user i want to limit my search to a particular set of log books
+48	 As a user, I want to limit my search results to one or more log book sections from one or more log books.
 48	when i'm searching for a log book i want to limit my results to one or more log books
 48	when i'm searching for a log book i want to limit my results to one or more log book sections
 48	my search results should be limited to one or more log book sections of one or more log books
@@ -616,6 +664,7 @@
 48	as a user i want to limit my search results to one or more log books sections from one or more log books
 48	as a user i want to limit my search results to one or more log book sections from one or more log books
 48	as a user i want to limit my search results to one or more log book sections from one or more log books 
+49	 As a user, I want to download files directly from the search results page.
 49	my request is to download files directly from the search results page
 49	as a user i want to download the files directly from the search results
 49	as a user i want to download files directly from the results page
@@ -630,6 +679,7 @@
 49	as a user i want to download files directly from the search results page
 49	in my case as a user i want to download files directly from the search result page
 49	in my case as a user i want to download files directly from the search results pag
+50	 As a user, I want to see the provenance of the page as part of the search results.
 50	as a user i want to see the provenance of the page as part of the results of the google search
 50	as a user i want to see the provenance of the page as part of the results of the search engine
 50	as a user i want to see the provenance of the page as part of the results of a search engine
@@ -644,6 +694,7 @@
 50	as a user i want to see the provenance of the page as part of search results
 50	as a user i want to see the provenance of the page as a part of the search results
 50	as a user i want to see the provenance of the page as part of the search results
+51	 As a user, I want to attach multiple files at once to a log book page.
 51	my goal is to attach multiple files at the same time to a log book
 51	in my log book page i want to attach multiple files at once
 51	my goal is to attach multiple files at the same time to a logbook page
@@ -659,6 +710,7 @@
 51	as a user i want to attach multiple files at once to a log book
 51	as a user i want to attach multiple files at once to a logbook page
 51	as a user i want to attach multiple files at once to a log book page
+52	 As a user, I want to download multiple files from the search results in one go.
 52	i want to download multiple files in a single go from google search results
 52	i want to download multiple files in a single click from the search results
 52	i want to download multiple files in a single go from a search results
@@ -673,6 +725,7 @@
 52	can i download multiple files from the search results in one go?
 52	as a user i want to download multiple files from search results in one go
 52	as a user i want to download multiple files from the search results in one go
+53	 As a user, I want to draw tables using HTML tags as part of the content of a log book page.
 53	as a user i want to draw tables using html tags as part of a log book page
 53	as a user i want to draw tables using html tags as part of the content of a log book page i have
 53	as an user i want to draw tables using html tags as part of the content of a log book page i have
@@ -686,6 +739,7 @@
 53	as an user i want to draw tables using html tags as part of the content of a logbook page
 53	as a user i want to draw tables using html tags as part of the content of a log book page
 53	as an user i want to draw tables using html tags as part of the content of a log book page
+54	 As a lab member, I want to view events and equipment bookings within the group.
 54	i want to view events and equipment bookings in the group as a member of the laboratory
 54	i want to view events and equipment bookings within the group as a member of the laboratory
 54	i want to view events and equipment bookings in the group as a member of the lab
@@ -699,6 +753,7 @@
 54	as a lab member i want to view events and equipment bookings within the group ''
 54	as a lab member i want to view events and equipment bookings within the group 
 54	as a lab member i want to view events and equipment bookings within the group
+55	 As a user, I want to store worm behaviour videos with an encoding that can be analysed by the worm analysis software written by Christopher James.
 55	i want to store video clips of worm behaviour which can be analysed by the worm analysis software written by christopher james
 55	i want to store video clips of worm behaviour that can be analysed by the worm analysis software written by christopher james
 55	i want to store video clips of worm behaviour with encoding that can be analysed by the worm analysis software by christopher james
@@ -712,6 +767,7 @@
 55	if i want to store worm behaviour videos with an encoder that can be analysed by worm analysis software written by christopher james
 55	as a user i want to store worm behaviour videos with an encoding that can be analysed by worm analysis software written by christopher james
 55	as a user i want to store worm behaviour videos with an encoder that can be analysed by the worm analysis software written by christopher james
+56	 As a system administrator, I want to migrate data from an older version of NeuroHub to the current version.
 56	i want to migrate data from an older version of neurohub to the current version as a system administrator
 56	as administrator i want to migrate data from an older version of neurohub to the current version of neurohub
 56	as administrator i want to migrate data from an older version of neurohub to the new version
@@ -724,6 +780,7 @@
 56	as system administrator i want to migrate data from an older version of neurohub to the current version
 56	if i am a system administrator i want to migrate data from an older version of neurohub to the current version
 56	as a system administrator i want to migrate data from an older version of neurohub to the current version
+57	 As a user, I want to have the system to also forward important news items to an external mailing list.
 57	if i'm a user i want the system to also forward important news articles to an external mailing list
 57	as a user i want the system to forward important news items to an external mailing list
 57	as a user i want to have the system also forward important news items to an external list
@@ -736,6 +793,7 @@
 57	as a user i want to have the system also forward important news items to an external mailing list
 57	as a user i want to have the system to also forward important news items to an external mailing list
 57	as a user i want to have the system to also forward important news items to an external mailing list 
+58	 As a user, I want to view and update an inventory of of the equipment and consumables that are present in the centre.
 58	if i want to view and update an inventory of the equipment and consumables present in the centre i want to view and update it
 58	if i want to view and update an inventory of the equipment and consumables present in the center i want to view and update it
 58	if i want to view and update an inventory of the equipment and consumables present in the centre i want to view and update
@@ -751,6 +809,7 @@
 58	as a user i want to view and update an inventory of the equipment and consumables that are present in the center
 58	as a user i want to view and update an inventory of the equipment and consumables that are present in the centre
 58	in my role as a user i want to view and update an inventory of the equipment and consumables that are present in the centre
+59	 As a user, I want to have a spreadsheet hosted within the Neurohub Web page, so that I can edit and calculate costs collaboratively with others while working on the proposal.
 59	if i want a spreadsheet hosted on the neurohub web page i can edit and calculate costs collaboratively with others while working on the proposal
 59	if i want to have a spreadsheet hosted on the neurohub web page i can edit and calculate costs collaboratively with others while working on the project
 59	if i want to have a spreadsheet hosted on the neurohub web page i can edit and calculate costs collaboratively with others while i work on the proposal
@@ -766,6 +825,7 @@
 59	if i want to have a spreadsheet hosted within the neurohub web page i can edit and calculate costs collaboratively with others while working on the proposal 
 59	as a user i want a spreadsheet hosted on the neurohub web page so that i can edit and calculate costs collaboratively with others while working on the proposal
 59	as a user i want to have a spreadsheet hosted on the neurohub web page so i can edit and calculate costs collaboratively with others while working on the proposal
+60	 As a supervisor, I want to create feedback forms within Neurohub, that my students can fill in and submit, in order to provide me with feedback about the course that they attended.
 60	as the supervisor i want to create feedback forms within neurohub that my students can fill out and submit in order to provide feedback about the course
 60	as the supervisor i want to create feedback forms within neurohub that my students can fill out and submit in order to provide feedback about the course they attended i also
 60	as the supervisor i want to create feedback forms within neurohub that my students can fill out and submit in order to provide feedback about the course they attended ''
@@ -780,6 +840,7 @@
 60	as a supervisor i want to create feedback forms within neurohub that my students can fill in and submit in order to provide me feedback about the course they attended
 60	as a supervisor i want to create feedback forms within neurohub that my students can fill in and submit in order to provide me with feedback about the course they attended
 60	as a supervisor i want to create feedback forms within neurohub that my students can fill in and submit in order to provide me feedback about the course that they attended
+61	 As a user, I want to have the option to tell Neurohub to push posted content to my Twitter feed at the same time.
 61	can you tell me how to push a post on your twitter feed?
 61	can you tell me how to push a post on your twitter feed at the same time
 61	can you tell me how to push a post on your twitter feed at the same time?
@@ -795,6 +856,7 @@
 61	as a user i want the option to tell neurohub to push posted content to my twitter feed at the same time
 61	as a user i want to have the option to tell neurohub to push posted content to my twitter feed at the same
 61	as a user i want to have the option to tell neurohub to push posted content to my twitter feed at the same time
+62	 As a user, I want to either keep a logbook entry private or share it with individuals rather than groups.
 62	a logbook entry can be kept private by the user or shared with individuals rather than groups of people
 62	a logbook entry can be kept private by the user or shared with individuals rather than groups of users
 62	a logbook entry can be kept private or shared with individual users rather than groups of users
@@ -810,6 +872,7 @@
 62	as a user i want either to keep a logbook entry private or share it with individuals rather than groups
 62	as a user i want to either keep a logbook entry private or share it with individuals rather than groups
 62	as a user i want to either keep a logbook entry private or share it with individuals rather than groups 
+63	 As a user, I want to have the details of the workflow execution to be recorded in a neurohub log book while executing a workflow.
 63	i want details of workflow execution to be recorded in a neurohub log book while executing a workflow as an user
 63	i want details of workflow execution to be recorded in a neurohub log book while executing a workflow as user
 63	as user i want details of workflow execution to be recorded in a neurohub log book while executing a workflow i want to have
@@ -823,6 +886,7 @@
 63	as a user i want the details of workflow execution to be recorded in a neurohub log book while executing a workflow
 63	as a user i want the details of the workflow execution to be recorded in a neurohub log book while executing a workflow
 63	as a user i want to have the details of the workflow execution recorded in a neurohub log book while executing a workflow
+64	 As a user, I want to have that my Twitter Tweets to appear in Neurohub, so that other researchers in the centre can see what I am up to.
 64	i want that my twitter tweets appear in neurohub so that other researchers can see what i'm up to
 64	i want that my twitter tweets appear in neurohub so that other researchers in the centre can see what i'm doing
 64	i want that my twitter tweets appear in neurohub so that other researchers in the centre can see what i am doing
@@ -836,6 +900,7 @@
 64	as a user i want my twitter tweets to appear in neurohub so that other researchers in the centre can see what i'm up to
 64	as a user i want my twitter tweets to appear in neurohub so that other researchers in the centre can see what i am up to
 64	in my opinion as a user i want that my twitter tweets appear in neurohub so that other researchers in the centre can see what i am up to
+65	 As a user, I want to view the group's shared calendars via the Neurohub Nodes' Web page as well as on my mobile device.
 65	my mobile device has shared calendars with neurohub nodes as a user i want to view them via the neurohub nodes web page as well
 65	my mobile device has shared calendars with neurohub nodes and i want to view them
 65	as a user i want to view the shared calendars of the group via the web page of neurohub nodes as well as on my mobile device i
@@ -848,6 +913,7 @@
 65	as a user i want to view the shared calendars of the group via neurohub nodes' web page as well as on my mobile device
 65	if i am a user i want to view the group's shared calendars via the web page of neurohub nodes as well as on my mobile device
 65	as a user i want to view the group's shared calendars via the neurohub nodes web page as well as on my mobile device
+66	 As a user, I want to sync events created in NeuroHub with a web-based Calendar such as Google Calendar.
 66	i want to sync events created in neurohub with a web-based calendar such as google calendar
 66	if i'm a user i want to sync events created in neurohub with a web calendar such as google calendar
 66	as a user i want to sync events created in neurohub with a web-based calendar like google calendar
@@ -859,6 +925,7 @@
 66	if i am a user i want to sync events created in neurohub with a web-based calendar such as google calendar
 66	as a user i want to sync events created in neurohub with a web-based calendar such as google calendar
 66	as a user i want to sync events created in neurohub with a web-based calendar such as google calendar 
+67	 As a researcher, I want to have the ability to insert Greek symbols into my logbook entries.
 67	the ability to insert greek symbols into my logbook is important as a researcher i want to have the
 67	the ability to insert greek symbols into my logbook is important as a researcher i want to have
 67	the ability to insert greek symbols into my logbook would be a good feature as a researcher
@@ -874,6 +941,7 @@
 67	as a researcher i want to have the ability to insert greek symbols in my logbook entries
 67	as a researcher i want to have the ability to insert greek symbols into my logbook entries
 67	if i am a researcher i want to have the ability to insert greek symbols into my logbook entries
+68	 As a user, I want to have the ability to move multiple files around and rearrange them using the Neurohub file browser while processing data.
 68	my goal is for users to have the ability to move multiple files around and rearrange them using the file browser neurohub
 68	my goal is for users to have the ability to move multiple files around and rearrange them using the file browser neurohub when processing data
 68	my goal is for users to have the ability to move multiple files around using the neurohub file browser while processing data
@@ -886,6 +954,7 @@
 68	as a user i want to have the ability to move multiple files around and rearrange them using the neurohub file browser while processing the data
 68	as a user i want to have the ability to move multiple files around and rearrange them using the neurohub file browser while processing data
 68	as a user i want to have the ability to move multiple files around and rearrange them using the neurohub file browser while processing data 
+69	 As a researcher, I want to point my Mendeley client at a group-wide shared repository of research papers and get notifications via Mendeley when new content is added.
 69	i want to point my client mendeley to a group-wide shared repository of research papers and get notifications via mendeley when new content is added to the repository
 69	i want to point my client mendeley to a group-wide shared repository of research papers and get notifications via mendeley when new content is added to the database
 69	i want to point my client mendeley to a group-wide shared repository of research papers and receive notifications via mendeley when new content is added
@@ -901,6 +970,7 @@
 69	as a researcher i want to point my mendeley client at a group-wide shared repository of research papers and receive notifications via mendeley when new content is added
 69	as a researcher i want to point my mendeley client to a group-wide shared repository of research papers and get notifications via mendeley when new content is added
 69	as a researcher i want to point my mendeley client at a group-wide shared repository of research papers and get notifications via mendeley when new content is added
+70	 As a researcher, I want to have electronic support for keeping track of which data sets were used/output/modified as part of a particular experiment.
 70	if i want to keep track of which data sets were usedoutputmodified as part of a particular experiment i want to have electronic support
 70	as researcher i want electronic support for keeping track of which data sets were usedoutputmodified as part of a specific experiment
 70	as researcher i want electronic support for keeping track of which data sets were usedoutput or modified as part of a particular experiment
@@ -916,6 +986,7 @@
 70	as research researcher i want electronic support for keeping track of which data sets were usedoutputmodified as part of a particular experiment
 70	as research researcher i want electronic support for keeping track of which data sets were usedoutputmodified as part of a particular experiment 
 70	as a researcher i want to have electronic support for keeping track of which data sets were usedoutputmodified as part of a particular experiment
+71	 As a user, I want a mechanism for electronically sharing papers and notes with other researchers, so that we can collaborate effectively.
 71	if i want a mechanism for electronically sharing papers and notes with other researchers so that we can effectively collaborate
 71	as a user i want a mechanism for electronically sharing papers and notes with other researchers so we can effectively collaborate
 71	as a user i want a mechanism for electronically sharing papers and notes with other researchers so that we can effectively collaborate with each other'
@@ -929,6 +1000,7 @@
 71	as a user i want a mechanism for electronically sharing papers and notes with other researchers so that we can collaborate effectively ''
 71	as a user i want a mechanism for electronically sharing papers and notes with other researchers so that we can collaborate effectively -
 71	as a user i want a mechanism for electronically sharing papers and notes with other researchers so that we can collaborate effectively
+72	 As a researcher, I want to have services to support the long term curation of data, so that I can be sure that data will not get 'lost' with the passage of time.
 72	researchers want services that support the long term curation of data so i can be sure that data won't be lost with the passage of time
 72	researchers want services that support the long term curation of data so i can be sure that the data will not be lost with the passage of time
 72	researchers want services that support the long term curation of data so i can be sure that data won't get lost with the passage of time
@@ -942,6 +1014,7 @@
 72	as a researcher i want to have services to support the long term curation of data so i can be sure that data will not be lost with the passage of time
 72	as a researcher i want to have services to support the long term curation of data so i can be sure that data will not get lost with the passage of time
 72	as a researcher i want to have services to support the long term curation of data so that i can be sure that data will not be lost with the passage of time
+73	 As a researcher, I want to have a timeline display of multiple data files and their associated images, so that I can compare the data taken from experiments on particular dates.
 73	if i want to compare data taken from experiments on specific dates i want a timeline display of multiple data files and their associated images'
 73	if i want to display multiple data files and their associated images as a researcher i want to compare the data taken from experiments on specific dates to a timeline
 73	if i want to display multiple data files and their associated images as a researcher i want to compare the data taken from experiments on specific dates i also want
@@ -957,6 +1030,7 @@
 73	as a researcher i want to have a timeline display of multiple data files and their associated images so i can compare the data taken from experiments on specific dates
 73	as a researcher i want a timeline display of multiple data files and their associated images so i can compare the data taken from experiments on particular dates
 73	as a researcher i want to have a timeline display of multiple data files and their associated images so that i can compare the data taken from experiments on particular dates
+74	 As a researcher, I want to have remote access to my data for off-site working , so that I can still work effectively while away from the lab.
 74	as a researcher i want remote access to my data for off-site work so that i can still work effectively while away from the lab
 74	my goal as a researcher is to have remote access to my data for off-site work so that i can still work efficiently while away from the lab
 74	as a researcher i want to have remote access to my data for off-site work so that i can still work effectively while away from the laboratory
@@ -971,6 +1045,7 @@
 74	as a researcher i want to have remote access to my data for off-site work so that i can still work effectively while away from the lab
 74	as a researcher i want to have remote access to my data for off-site working so that i can still work effectively while away from the lab 
 74	as a researcher i want to have remote access to my data for off-site working so that i can still work effectively while away from the lab
+75	 As a researcher, I want to share post-experiment write-ups with other researchers, so that others can more easily replicate my work.
 75	my goal is to share my research post-experiment write-ups with other researchers so that others can easily replicate my research
 75	my goal is to share my research post-experiment write-ups with other researchers so that others can easily reproduce my work
 75	my goal is to share post-experiment writings with other researchers so that others can easily replicate my work
@@ -986,6 +1061,7 @@
 75	as a researcher i want to share post-experiment write-ups with other researchers so that others can more easily reproduce my work
 75	as a researcher i want to share post experiment write-ups with other researchers so that others can more easily replicate my work
 75	as a researcher i want to share post-experiment write-ups with other researchers so that others can more easily replicate my work
+76	 As a researcher, I want to collect data as a library of data, which can then be used by one or multiple experiments that are defined at a later stage.
 76	if i want to collect data as a library of data that can then be used by one or multiple experiments defined at a later stage i want to collect data
 76	if i want to collect data as a library of data which can then be used by one or multiple experiments defined at a later stage i want to collect data
 76	if i want to collect data as a library of data that can then be used by one or multiple experiments defined at a later stage i want to collect
@@ -999,6 +1075,7 @@
 76	as a researcher i want to collect data as a library of data which can then be used by one or multiple experiments that are defined at a later phase
 76	as a researcher i want to collect data as a library of data which can then be used in one or multiple experiments that are defined at a later stage
 76	as a researcher i want to collect data as a library of data which can then be used by one or multiple experiments that are defined at a later stage
+77	 As a researcher, I want to indicate within my electronic log book which experimental data is good/bad, hide the bad data, but still keep it in the system just in case it is useful in the future.
 77	as researcher i want to indicate in my electronic log book which experimental data are goodbad hide the bad data but still keep them in the system just in case they are useful
 77	as researcher i want to indicate in my electronic log book which experimental data is goodbad hide the bad data but still keep them in the system just in case they are useful
 77	as researcher i want to indicate in my electronic log book which experimental data is goodbad hide the bad data but still keep them in the system just in case they are useful in the
@@ -1014,6 +1091,7 @@
 77	as a researcher i want to indicate in my electronic logbook which experimental data is goodbad hide the bad data but still keep it in the system just in case it is useful in the future
 77	as a researcher i want to indicate in my electronic log book which experimental data is goodbad hide the bad data but still keep it in the system just in case it is useful in the future
 77	as a researcher i want to indicate within my electronic log book which experimental data is goodbad hide the bad data but still keep it in the system just in case it is useful in the future
+78	 As a researcher, I want to have the system to provide standard metadata, that all researchers in the centre (and beyond) can use, so that we can better understand each others' data.
 78	a researcher wants the system to provide standard metadata that all researchers can use in the centre and beyond to better understand each other's data
 78	a researcher wants the system to provide standard metadata that all researchers can use in the centre and beyond so that we could better understand each other's information
 78	a researcher wants the system to provide standard metadata that all researchers can use in the centre and beyond to better understand each others data
@@ -1028,6 +1106,7 @@
 78	as researcher i want to have the system to provide standard metadata that all researchers in the centre and beyond can use to better understand each other's data
 78	as researcher i want to have the system to provide standard metadata that all researchers in the centre and beyond can use to better understand each others data
 78	as researcher i want to have the system to provide standard metadata that all researchers in the centre and beyond can use to better understand each others' data
+79	 As a researcher, I want to have physiology images to be annotated with standard meta data, so that my data can later be searched for and understood.
 79	as researcher i want the physiology images to be annotated with standard meta data so my data can be searched for and understood later on
 79	as researcher i want the physiology images to be annotated with standard meta data so my data can be searched for and understood later ''
 79	as researcher i want the physiology images to be annotated with standard meta data so my data can be searched for and understood later '
@@ -1042,6 +1121,7 @@
 79	as a researcher i want to have physiology images to be annotated with standard meta data so that my data can be searched for and understood later
 79	as a researcher i want physiology images to be annotated with standard meta data so that my data can later be searched for and understood
 79	as a researcher i want to have physiology images to be annotated with standard meta data so that my data can be searched for and understood
+80	 As a researcher, I want to have the ability to attach standard meta data for behavioural observations (and video), so that my data can later be searched for and understood.
 80	the ability to attach standard meta-data for behavioural observations and video so that my data can later be searched for and understood is important as a researcher
 80	the ability to attach standard meta data for behavioural observations and video so that my data can later be searched for and understood is important as a researcher
 80	the ability to attach standard meta data for behavioural observations and video so that my data can later be searched for and understood is a key feature
@@ -1056,6 +1136,7 @@
 80	as a researcher i want the ability to attach standard meta data for behavioural observations and video so that my data can later be searched for and understood
 80	as a researcher i want to have the ability to attach standard meta data for behavioural observations and video so that my data can be searched for and understood
 80	as a researcher i want to have the ability to attach standard meta data for behavioural observations and video so that my data can later be searched and understood
+81	 As a researcher,  I want to have the ability to attach standard meta data for drug responses, so that my data can later be searched for and understood.
 81	the ability to attach standard meta data for drug responses is important as a researcher to be able to search for and understand my data later on
 81	the ability to attach standard meta data for drug responses is important as a researcher to be able to search and understand my data later
 81	the ability to attach standard meta data for drug responses is important as a researcher to be able to search for and understand my data later
@@ -1070,6 +1151,7 @@
 81	as a researcher i want to have the ability to attach standard meta data for drug responses so that my data can later be searched and understood
 81	as a researcher i want to have the ability to attach standard meta data for drug responses so that my data can later be searched for and understood 
 81	as a researcher i want to have the ability to attach standard meta data for drug responses so that my data can later be searched for and understood
+82	 As a researcher, I want to have the ability to search for images of cells using standard meta data.
 82	the ability to search for images of cells using standard meta data is important as a researcher
 82	as researcher i want the ability to search for images of cells using standard meta data ''
 82	as researcher i want the ability to search for images of cells using standard metadata
@@ -1083,6 +1165,7 @@
 82	as a researcher i want to have the ability to search for images of cells using standard metadata
 82	as a researcher i want to have the ability to search for images of cells using standard meta data 
 82	as a researcher i want to have the ability to search for images of cells using standard meta data
+83	 As a researcher, I want to have at least some meta data to be automatically inserted when new data is added to the system.
 83	when new data is added to the system as a researcher i would like at least some meta data automatically inserted
 83	when new data is added to the system as a researcher i would like at least some meta data to automatically be inserted
 83	when new data is added to the system as a researcher i would like at least some meta data to be automatically inserted
@@ -1095,6 +1178,7 @@
 83	as a researcher i want to have at least some meta data to be automatically inserted when new data is added to the system if
 83	as a researcher i want to have at least some meta data to be automatically inserted when new data is added in the system
 83	as a researcher i want to have at least some meta data to be automatically inserted when new data is added to the system
+84	 As a researcher,  I want to have the ability to attach detailed meta data to the data and entries that I create.
 84	the ability to attach detailed meta data to data and entries that i create as a researcher is a must for me
 84	the ability to attach detailed meta data to data and entries that i create as a researcher is important
 84	the ability to attach detailed meta data to data and entries that i create as a researcher is a must
@@ -1110,6 +1194,7 @@
 84	as a researcher i want to have the ability to attach detailed meta data to the data and entries that i created
 84	as a researcher i want to have the ability to attach detailed meta data to the data and entries that i create 
 84	however as a researcher i want to have the ability to attach detailed meta data to the data and entries that i create
+85	 As a researcher, I want to have the ability to select a partially pre-populated template that already contains commonly entered meta data while adding new data to the system, so that I do not waste time repeatedly inserting the same meta data over and over again for each individual file or log book entry.
 85	my research needs the ability to select a partially pre-populated template that already contains commonly entered meta data while adding new data to the system so i do not waste time repeating the same meta data for each individual file
 85	my research wants the ability to select a partially pre-populated template that already contains commonly entered meta data while adding new data to the system so i do not waste time repeating the same meta data for each individual file
 85	my research needs the ability to select a partially pre-populated template that already contains commonly entered meta data while adding new data to the system so i do not waste time repeating the same meta data for each individual file or log
@@ -1124,6 +1209,7 @@
 85	my research wants the ability to select a partially pre-populated template that already contains commonly entered meta data while adding new data to the system so i do not waste time repeating the same meta data for each individual file or logbook entry
 85	my research wants the ability to select a partially pre-populated template that already contains commonly entered meta data while adding new data to the system so i do not waste time repeating the same meta data for each individual file or log book entry
 85	if i want to have the ability to select a partially pre-populated template that already contains commonly entered meta data while adding new data to the system i do not waste time repeatedly inserting the same meta data for each individual file or log book entry
+86	 As a user, I want to be sure that existing metadata corresponding to the file is not lost when moving a file to a new location.
 86	if i want to be sure that existing metadata corresponding to the file is not lost when i move a file to a new location i want to be
 86	if i want to be sure that existing metadata corresponding to the file is not lost when i move a file to a new location i want to
 86	as a user i want to be sure that the metadata corresponding to the file is not lost when a file is moved to a new location
@@ -1137,6 +1223,7 @@
 86	as a user i want to be sure that the existing metadata corresponding to the file is not lost when moving a file to a new location 
 86	as a user i want to be sure that the existing metadata corresponding to the file is not lost when moving a file to a new location
 86	as a user i want to be sure that existing metadata corresponding to the file is not lost when moving a file to a new location
+87	 As a researcher, I want to have the ability to form links between objects, for example File A is an analysis of File B, so that data can be searched by type and by association.
 87	for example file a is an analysis of file b so that data can be searched by type and association as a researcher i want to have the ability to form links between objects'
 87	for example file a is an analysis of file b so that data can be searched by type and by association as a researcher i want the ability to form links between objects'
 87	for example file a is an analysis of file b so that data can be searched by type and association as a researcher i want to have the ability to form links'
@@ -1152,6 +1239,7 @@
 87	for example file a is an analysis of file b so that data can be searched by type and by association
 87	as a researcher i want the ability to form links between objects for example file a is an analysis of file b so that data can be searched by type and association
 87	as a researcher i want the ability to form links between objects for example file a is an analysis of file b so that data can be searched by type and by association
+88	 As a researcher, I want to have the ability to locate experiment files using meta data, regardless of where those files are located.
 88	however as researcher i want to have the ability to locate experiment files using meta-data wherever they are
 88	however as researcher i want to have the ability to locate experiment files using meta-data wherever they are located
 88	however as researcher i want to have the ability to locate experiment files using meta-data wherever those files are
@@ -1167,6 +1255,7 @@
 88	as a researcher i want to have the ability to locate experiment files using meta data regardless where those files are located
 88	as a researcher i want to have the ability to locate experiment files using meta data regardless of where these files are located
 88	as a researcher i want to have the ability to locate experiment files using meta data regardless of where those files are located
+89	 As a researcher, I want to have any data that I have written to the VRE to be protected from modification or deletion, so that original data can always be traced back to an experiment and a point in time.
 89	as a researcher i want any data i have written to the vre to be protected from modification or deletion so that the original data can always be traced back to an experiment and a point in time 
 89	in my role as a researcher i want to have any data that i have written to the vre to be protected from modification or deletion so that the original data can always be traced back to an experiment and
 89	as a researcher i want any data i have written to the vre to be protected from modification or deletion so that the original data can always be traced back to an experiment and a point in time
@@ -1179,6 +1268,7 @@
 89	as a researcher i want any data that i have written to the vre to be protected from modification or deletion so that the original data can always be traced back to an experiment and a point in time 
 89	for me as a researcher i want to have any data i have written to the vre protected from modification or deletion so that the original data can always be traced back to an experiment and a point in time
 89	as a researcher i want any data that i have written to the vre to be protected from modification or deletion so that original data can always be traced back to an experiment and a point in time
+90	 As a user,  I want to have the ability to keep my data private on the system, and only share data that I deem should be shared.
 90	my data should be kept private on the system as a user and only shared if i feel it should be shared with other users
 90	my data should be kept private on the system as a user and only shared if i feel it should be shared with others
 90	my data should be kept private on the system as a user and only shared if i feel it should be
@@ -1194,6 +1284,7 @@
 90	as a user i want to have the ability to keep my data private on the system and only share data that i believe should be shared
 90	as a user i want to have the ability to keep my data private on the system and only share data i deem should be shared
 90	as a user i want to have the ability to keep my data private on the system and only share data that i think should be shared
+91	 As a researcher,  I want to have the ability to store all the inputs for an experiment so that the provenance of the results can be verified.
 91	a researcher wants to have the ability to store all inputs for an experiment to verify the provenance of the results
 91	a researcher wants to have the ability to store all inputs for an experiment so that the provenance of the results can be confirmed
 91	a researcher wants to have the ability to store all inputs for an experiment so the provenance of the results can be verified
@@ -1208,6 +1299,7 @@
 91	as a researcher i want to have the ability to store all the inputs for an experiment so the provenance of the results can be verified
 91	as a researcher i want to have the ability to store all inputs for an experiment so that the provenance of the results can be verified
 91	as a researcher i want to have the ability to store all the inputs for an experiment so that the provenance of the results can be verified
+92	 As a researcher, I want to have the ability to search for files by file type and format.
 92	my job is to have the ability to search for files by file format and type
 92	my job is to be able to search for files by file type and format
 92	my job is to have the ability to search for files by type and format
@@ -1221,6 +1313,7 @@
 92	as a researcher i want to have the ability to search for files by file type and by format
 92	as a researcher i want to have the ability to search for files by file type and format 
 92	as a researcher i want to have the ability to search for files by file type and format
+93	 As a researcher,  I want to have the ability to bulk upload directories and files with minimal effort.
 93	as a researcher i want to have the ability to upload directories and files in bulk with minimum effort
 93	as a researcher i want the ability to upload directories and files with minimal effort
 93	as a researcher i want to have the ability to upload directories and files in bulk with minimal effort 
@@ -1235,6 +1328,7 @@
 93	as a researcher i want to have the ability to bulk upload directories and files with minimal effort -
 93	as a researcher i want to have the ability to bulk upload directories and files with minimal effort
 93	as a researcher i want to have the ability to bulk upload directories and files with minimal effort 
+94	 As a researcher, I want to associate meta data to the group as a whole at some point in time after the bulk upload has completed, so that I have a period of time to reflect on suitable values for the meta data.
 94	as researcher i want to associate meta data to the group as a whole at some point in time after the bulk upload has completed so i can reflect on suitable values for the meta data
 94	as researcher i want to associate meta data to the group as a whole at some point in time after the bulk upload has completed so i have a period of time to reflect on suitable values
 94	as researcher i want to associate meta data to the group as a whole at some point in time after the bulk upload has completed so i have a period of time to reflect on appropriate values for the meta data
@@ -1250,6 +1344,7 @@
 94	as a researcher i want to associate meta data to the group as a whole at some point in time after the bulk upload has completed so i have a period of time to reflect on suitable values for the meta data
 94	as a researcher i want to associate meta data with the group as a whole at some point in time after the bulk upload has completed so that i have a period of time to reflect on suitable values for the meta data
 94	as a researcher i want to associate meta data to the group as a whole at some point in time after the bulk upload has completed so that i have a period of time to reflect on suitable values for the meta data
+95	 As a user,  I want to have the ability to change the sharing and ownership of multiple files.
 95	my wish is that as a user i be able to change the share and ownership of multiple files
 95	as a user i want to have the ability to change the ownership and sharing of multiple files
 95	my wish is that as a user i have the ability to change the share and ownership of multiple files
@@ -1264,6 +1359,7 @@
 95	in my opinion as a user i want to have the ability to change the sharing and ownership of multiple files
 95	as a user i want to have the ability to change the sharing and ownership of multiple files 
 95	as a user i want to have the ability to change the sharing and ownership of multiple files
+96	 As a researcher,  I want to have the ability to restrict the data I share to certain researchers or groups of researchers.
 96	the ability to restrict data i share to certain researchers or groups of researchers is important for me as a researcher
 96	the ability to restrict data i share to certain researchers or groups of researchers is important as a researcher
 96	as a researcher i want to have the ability to limit the data i share to certain researchers or groups of scientists
@@ -1275,6 +1371,7 @@
 96	as a researcher i want to have the ability to limit the data i share to certain researchers or groups of researchers
 96	as a researcher i want to have the ability to restrict the data i share to certain researchers or groups of researchers
 96	as a researcher i want to have the ability to restrict the data i share to certain researchers or groups of researchers 
+97	 As a researcher,  I want to have the ability to locate and access data that colleagues want to share.
 97	researchers want the ability to locate and access data that colleagues want to share with others
 97	researchers want to have the ability to find and access data that colleagues want to share with others
 97	researchers want to have the ability to find and access data that colleagues want to share with them
@@ -1290,6 +1387,7 @@
 97	as a researcher i want to have the ability to locate and access data colleagues want to share
 97	as a researcher i want to have the ability to locate and access data that my colleagues want to share
 97	as a researcher i want to have the ability to locate and access data that colleagues want to share
+98	 As a researcher,  I want to have the ability to interact with a revision control system so that I can keep track of changes to files over time.
 98	a researcher wants to have the ability to interact with a revision control system so i can keep track of changes to files over the long term
 98	a researcher wants to have the ability to interact with a revision control system to keep track of changes to files over time
 98	a researcher wants to have the ability to interact with a revision control system so i can keep track of changes to files over the years
@@ -1305,6 +1403,7 @@
 98	as a researcher i want to have the ability to interact with a revision control system so i can keep track of changes to files over time
 98	as a researcher i want to have the ability to interact with a revision control system so that i can keep track of changes in files over time
 98	as a researcher i want to have the ability to interact with a revision control system so that i can keep track of changes to files over time
+99	 As a JuniorResearcher,  I want to have the ability to harvest knowledge from within the group, so that I can learn from more experienced researchers.
 99	as a junior researcher i want to have the ability to harvest knowledge from within the group so that i can learn from more experienced researchers i have
 99	as a junior researcher i want to have the ability to collect knowledge from within the group so that i can learn from more experienced researchers
 99	as a junior researcher i want to have the ability to harvest knowledge from within the group so i can learn from more experienced researchers
@@ -1316,6 +1415,7 @@
 99	as a junior researcher i want to have the ability to harvest knowledge from within the group so that i can learn from more experienced researchers
 99	as a junior researcher i want to have the ability to harvest knowledge from within the group so that i can learn from more experienced researchers 
 99	as a juniorresearcher i want to have the ability to harvest knowledge from within the group so that i can learn from more experienced researchers
+100	: As a researcher, I want to secure remote access to the Neurohub node when working away from the laboratory
 100	the neurohub node can be accessed remotely by a researcher working away from the lab
 100	the neurohub node can be accessed remotely by a researcher working away from the laboratory
 100	my job as a researcher is to secure remote access to the neurohub node when i work away from the lab
@@ -1326,6 +1426,7 @@
 100	as a researcher i want to secure remote access to the neurohub node when i work away from the laboratory
 100	as a researcher i want to secure remote access to the neurohub node when working away from the laboratory i
 100	as a researcher i want to secure remote access to the neurohub node when working away from the laboratory
+101	: As a researcher, I want to have a group-level repository for sharing papers/reviews/comments with other researchers.
 101	in my research i want a group repository for sharing papersreviewscomments with other researchers
 101	as a researcher i want a group repository for sharing papersreviewscomments with other researchers
 101	in my role as researcher i want a group repository for sharing papersreviewscomments with other researchers
@@ -1340,6 +1441,7 @@
 101	as a researcher i want to have a group-level repository for sharing papersreviewscomments with other research
 101	as a researcher i want to have a group-level repository for sharing papersreviewscomments with others researchers
 101	as a researcher i want to have a group-level repository for sharing papersreviewscomments with other researchers
+102	: As a researcher, I want to have the details of the workflow plan as well as the execution history and results recorded in Neurohub while executing a workflow
 102	the details of the workflow plan as well as execution history and results should be recorded in neurohub as a researcher while executing a workflow plan as well
 102	the details of the workflow plan as well as execution history and results should be recorded in neurohub as a researcher while executing a workflow plan in the
 102	the details of the workflow plan as well as execution history and results should be recorded in neurohub as a researcher while executing a workflow plan as 

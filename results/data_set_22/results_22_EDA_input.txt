@@ -1,3 +1,4 @@
+1	As a user, I want to search and discover music using content identification or fingerprinting.	
 1	my goal is to search for music and find it using content identification or fingerprinting
 1	my intention is to search for music and discover it using content identification or fingerprinting
 1	my intent is to search for music and discover it using content identification or fingerprinting
@@ -13,6 +14,7 @@
 1	if i'm a user i want to search and discover music using content identification or fingerprinting
 1	in my opinion as a user i want to search and discover music using content identification or fingerprinting
 1	as a user i want to search and discover music using content identification or fingerprinting
+2	As a user, I want to search and discover music based on my profile.	
 2	when i use my profile as a user i want to search for music and discover it
 2	i want to search and discover music based on my profile
 2	as a user i want to search and find music based on my profile
@@ -24,6 +26,7 @@
 2	as a user i want to search and discover music based on my profile 
 2	as a user i want to search and discover music based on my profiles
 2	as a user i want to search and discover music based on my profile
+3	As a user, I want to search and discover music based on other users similar to myself.	
 3	my goal is to discover music from other users similar to me
 3	my goal is to discover music based on other people similar to me
 3	my goal is to discover music based on other users similar to me as a user
@@ -37,6 +40,7 @@
 3	as a user i want to search and discover music based on others similar to myself
 3	as a user i want to search and discover music based on other users similar to me
 3	as a user i want to search and discover music based on other users similar to myself
+4	As a user, I want to search and discover music or ringback tones similar to a given music video based on content similarity.	
 4	my goal is to search for similar music or ringback tones to music videos based on the similarity of the content i want to discover
 4	my goal is to search for similar music or ringback tones to music videos based on the similarity of the content i want to search
 4	my goal is to search for similar music or ringback tones to music videos based on the similarity of the content to the video
@@ -52,6 +56,7 @@
 4	my goal is to search for similar music or ringback tones to music videos based on content similarity
 4	as a user i want to search and find music or ringback tones similar to a given music video based on content similarity
 4	as a user i want to search and discover music or ringback tones similar to a given music video based on content similarity
+5	As a user, I want to search and discover music by exploiting enriched metadata and image tags, so that I find related artists, new genre, or other relevant listening path.
 5	if i want to search and discover music by exploiting enriched metadata and image tags so i can find related artists new genre or other relevant listening path i want to find
 5	if i want to search and discover music by exploiting enriched metadata and image tags so i can find related artists new genre or other relevant listening path i'm interested
 5	if i want to search and discover music by exploiting enriched metadata and image tags so i can find related artists new genre or other relevant listening path i'm looking
@@ -67,6 +72,7 @@
 5	as a user i want to search and discover music by exploiting enriched metadata and image tags so i can find related artists new genre or other relevant listening path
 5	as a user i want to search and discover music by exploiting enriched metadata and image tags so i can find related artists new genre or other relevant listening paths
 5	as a user i want to search and discover music by exploiting enriched metadata and image tags so that i find related artists new genre or other relevant listening path
+6	As a user, I want to upload tagged videos and have tags available for all further processing steps.	
 6	as a user i want to upload tagged videos and have tags available for all the further processing steps if necessary
 6	as a user i want to upload tagged videos and have tags available for all the further processing steps if possible
 6	as a user i want to upload tagged videos and have tags available for all the further processing
@@ -81,6 +87,7 @@
 6	if i'm a user i want to upload tagged videos and have tags available for all further processing steps
 6	if i am a user i want to upload tagged videos and have tags available for all further processing steps
 6	as a user i want to upload tagged videos and have tags available for all further processing steps
+7	As a user, I want to view thumbnail sequences of video segments.	
 7	i want to view thumbnail sequences of video segments
 7	if i'm a user i want to view thumbnail sequences of videos
 7	as a user i want to view thumbnails of video segments
@@ -95,6 +102,7 @@
 7	as a user i want to view thumbnail sequences of video segment
 7	as a user i want to view thumbnail sequences of video segments
 7	if i am a user i want to view thumbnail sequences of video segments
+8	As a user, I want to get info about similar video items and segments.	
 8	in my opinion as a user i want to get information about similar videos and segments
 8	as a user i want to get information about similar videos and segments
 8	in my opinion as a user i want information about similar video items and segments
@@ -109,6 +117,7 @@
 8	in my opinion as a user i want to get info about similar video items and segments
 8	if i am a user i want to get info about similar video items and segments
 8	as a user i want to get info about similar video items and segments
+9	As a user, I want to get info about perceptually similar video items and segments.	
 9	if i want to get info about perceptually similar video items and segments as a user
 9	in my opinion as a user i want information about perceptually similar video items and segments
 9	as a user i want information about perceptually similar video items and segments
@@ -123,6 +132,7 @@
 9	as a user i want to get info about perceptually similar video items and segment
 9	as a user i want to get info about perceptually similar video items and segments
 9	as a user i want to get info about perceptually similar video items and segments 
+10	 As a user, I want to receive content recommendations from similar profiles.
 10	i want to receive content recommendations from similar profiles as a user
 10	if i'm a user i want to receive recommendations from similar profiles
 10	as a user i want to receive recommendations from similar profiles
@@ -136,6 +146,7 @@
 10	if you are a user i want to receive content recommendations from similar profiles
 10	as a user i want to receive content recommendations from similar profiles 
 10	if i am a user i want to receive content recommendations from similar profiles
+11	 As a user, I want to receive content recommendations based on most relevant news events in my area.	
 11	user i want to receive content recommendations based on most relevant news events in my area i want to receive
 11	user i want to receive content recommendations based on most relevant news events in my locality
 11	user i want to receive content recommendations based on most relevant news events in my area i am a
@@ -151,6 +162,7 @@
 11	as user i want to receive content recommendations based on most relevant news events in my area
 11	as a user i want to receive content recommendation based on most relevant news events in my area
 11	as a user i want to receive content recommendations based on most relevant news events in my area
+12	 As a user, I want to identify persons in videos, and receive related information about them.	
 12	my goal is as a user to identify persons in videos and to get related information about them
 12	if i'm a user i want to identify people in videos and get related information about them
 12	my goal is as a user to identify persons in videos and to receive related information about them
@@ -166,6 +178,7 @@
 12	as a user i want to identify persons in videos and receive related information about them 
 12	as a user i want to identify persons in videos and receive related information about them
 12	if i am a user i want to identify persons in videos and receive related information about them
+13	 As a user, I want to identify products in videos, and receive related information about them.	
 13	my goal is for users to identify products in videos and receive related information about them for example
 13	my goal is for users to identify products in videos and receive related information
 13	my goal is for users to identify products in videos and get related information about them
@@ -181,6 +194,7 @@
 13	as a user i want to identify products in videos and receive related information about them '
 13	as a user i want to identify products in videos and receive related information about them
 13	as a user i want to identify products in videos and receive related information about them 
+14	 As a user, I want to identify broadcaster logos in videos, and receive related information about them.	
 14	as a user i want to identify the logos of broadcasters in videos and receive related information about these
 14	as a user i want to identify the logos of broadcasters in videos and receive related information about them 
 14	my goal is to identify broadcaster logos in videos and get related information about them
@@ -195,6 +209,7 @@
 14	as a user i want to identify broadcaster logos in videos and receive related information about them ''
 14	as a user i want to identify broadcaster logos in video and receive related information about them
 14	as a user i want to identify broadcaster logos in videos and receive related information about them
+15	 As a user, I want to identify brands in videos, and receive related information about them.	
 15	my goal is as a user to identify brands in videos and get related information
 15	my goal is as a user to identify brands in videos and get related information about these brands
 15	my goal is as a user to identify brands in videos and get relevant information about them
@@ -210,6 +225,7 @@
 15	if i am a user i want to identify brands in videos and receive related information about them
 15	as a user i want to identify brands in videos and receive related information about them 
 15	as a user i want to identify brands in videos and receive related information about them
+16	 As a user, I want to take a picture or upload an image, so that I am recommended with videos related to that picture or image.	
 16	as a user i want to take a picture or upload an image so that i can be recommended with videos related to that picture or picture
 16	as a user i want to take a picture or upload an image so that i can be recommended with videos related to this picture or image
 16	when i am a user i want to take a picture or upload an image so i can be recommended with videos related to that picture or image
@@ -225,6 +241,7 @@
 16	when i am a user i want to take a picture or upload an image so that i am recommended with videos related to this picture or image
 16	as a user i want to take a picture or upload an image so that i am recommended with videos related to that picture or image
 16	when i am a user i want to take a picture or upload an image so that i am recommended with videos related to that picture or image
+17	 As a user, I want to walk around, access content using a geographical map and be informed if there are videos covering the area, monuments or any other relevant point of interest.	
 17	in as a user i want to walk around accessing content using a geographic map and be informed if there are videos covering the region monuments or other relevant points of interest
 17	if i want to walk around access content using a geographical map and be informed if there are videos covering the area monuments or other relevant points of interest
 17	in as a user i want to walk around accessing content using a geographical map and be informed if there are videos covering the region monuments or other relevant points of interest
@@ -236,6 +253,7 @@
 17	as a user i want to walk around access content using a geographical map and be informed if there are videos covering the area monuments or other relevant point of interest
 17	as a user i want to walk around accessing content using a geographical map and be informed if there are videos covering the area monuments or any other relevant point of interest
 17	as a user i want to walk around access content using a geographical map and be informed if there are videos covering the area monuments or any other relevant point of interest
+18	 As a user, I want to search content items using automatic speech recognition.	
 18	how do i search content using automatic speech recognition? i want to search content items
 18	using automatic speech recognition as a user i want to search content items
 18	how do i search for a content using automatic speech recognition
@@ -250,6 +268,7 @@
 18	as a user i want to search the content items using automatic speech recognition
 18	as a user i want to search content items using automated speech recognition
 18	as a user i want to search content items using automatic speech recognition
+19	 As an admin, I want to see, validate and edit segmentation of videos.	
 19	my role is to see validation and edit segmentation of videos
 19	my role is to see validate and edit segmentation of video
 19	my role is to see validate and edit segmentation of videos
@@ -263,6 +282,7 @@
 19	as a admin i want to see validate and edit segmentation of video
 19	as a admin i want to see validate and edit segmentation of videos
 19	as an admin i want to see validate and edit segmentation of videos
+20	 As an admin, I want to annotate news video segments and extract a topic for each segment.	
 20	how do you annotate news video segments?
 20	how do you annotate news video segments and extract a topic for each segment? as an admin
 20	how do you annotate news videos and extract a topic for each segment?
@@ -276,6 +296,7 @@
 20	as administrator i want to annotate news video segments and extract a topic for each segment
 20	as admin i want to annotate news video segments and extract a topic for each segment
 20	as an admin i want to annotate news video segments and extract a topic for each segment
+21	 As an admin, I want to filter and rank videos based on A/V quality aspects.	
 21	my role is to filter and rank videos based on the quality of the av audio and video
 21	my role is to filter and rank videos based on the quality of the av audiovideo
 21	my role is to filter and rank videos based on the quality of the av video
@@ -290,6 +311,7 @@
 21	as an admin i want to filter and rank videos based on quality aspects
 21	as an admin i want to filter and rank videos based on av quality aspects ''
 21	as an admin i want to filter and rank videos based on av quality aspects
+22	 As an admin, I want to get a quick assessment of whether audio material has been edited before the upload.	
 22	as a admin i want to get a quick assessment of whether the audio material has been edited before uploading
 22	as an admin i want to get a quick assessment of whether the audio material has been edited before uploading
 22	as an admin i want to get a quick assessment of whether the audio material has been edited before upload
@@ -301,6 +323,7 @@
 22	as admin i want to get a quick assessment of whether audio material has been edited before the upload
 22	as a admin i want to get a quick assessment of whether audio material has been edited before the upload
 22	as an admin i want to get a quick assessment of whether audio material has been edited before the upload
+23	 As an admin, I want to prefilter nudity content.	
 23	i want to prefilter nudity content as an admin
 23	i want to prefilter nudity content
 23	if i'm an admin i want to prefilter nudity
@@ -315,6 +338,7 @@
 23	as an admin i want to prefilter nudity content ''
 23	as an admin i want to prefilter nudity content
 23	if i am an admin i want to prefilter nudity content
+24	 As an admin, I want to prefilter content using search based on low level asset information.
 24	admin can prefilter content based on low level asset information using search
 24	admin can prefilter content using search based on low-level asset information
 24	admin can prefilter content using search based on low level asset information
@@ -329,6 +353,7 @@
 24	as a admin i want to prefilter content using search based on low level asset information
 24	as an admin i want to prefilter content using search based on low-level asset information
 24	as an admin i want to prefilter content using search based on low level asset information
+25	 As an admin, I want to automatically validated the ingested contents for copyright infringement.	
 25	my role is to validate the ingested contents for copyright infringement automatically
 25	a user wants to validate the ingested contents for copyright infringement automatically
 25	as admin i want to validate the ingested contents for copyright infringement automatically
@@ -341,6 +366,7 @@
 25	as an admin i want to automatically validate the ingested contents for copyright infringements
 25	as an admin i want to automatically validate the ingested contents for copyright infringement 
 25	as an admin i want to automatically validate the ingested contents for copyright infringement
+26	 As an admin, I want to prefilter the content using search on high level asset information such as metadata and tags either recognized by the system of provided by the user.
 26	if i want to prefilter the content using search on high level asset information such as metadata and tags either recognized by the system or provided by the user i can do this
 26	if i want to prefilter the content using search on high level asset information such as metadata and tags either recognized by the system or provided by the user i need to use
 26	if i want to prefilter the content using search on high level asset information such as metadata and tags either recognized by the system or provided by the user i need to do
@@ -354,6 +380,7 @@
 26	as an admin i want to prefilter the content using search on high level asset information such as metadata and tags either recognized by the system or provided by the user
 26	as an admin i want to prefilter the content using search on high-level asset information such as metadata and tags either recognized by the system of provided by the user
 26	as an admin i want to prefilter the content using search on high level asset information such as metadata and tags either recognized by the system of provided by the user
+27	 As a Zooniverse admin, I want to assess how interesting or appealing or complex a picture is based on automated analysis, citizen annotations, and comments on Talk.	
 27	my job is to assess how interesting or appealing or complex a picture is based on automated analysis of citizen annotations and comments on talk zooniverse is
 27	my job is to assess how interesting or appealing or complex a picture is based on automated analysis of citizen annotations and comments on talk zooniverse
 27	my job is to assess how interesting or appealing or complex a picture is based on automated analysis of citizen annotations and comments on talk i want to
@@ -366,6 +393,7 @@
 27	as a zooniverse admin i want to assess how interesting or attractive or complex a picture is based on automated analysis citizen annotations and comments on talk
 27	as zooniverse admin i want to assess how interesting or appealing or complex a picture is based on automated analysis citizen annotations and comments on talk
 27	as a zooniverse admin i want to assess how interesting or appealing or complex a picture is based on automated analysis citizen annotations and comments on talk
+28	 As a Zooniverse admin, I want to detect when a scientist should be prompted to look at a subject, based on annotations and information from Talk comments.	
 28	my job is to detect when scientists should be prompted to look at a subject based on annotations and information from talk comments i also want to detect when
 28	my job is to detect when a scientist should be prompted by annotations and information from talk comments
 28	my job is to detect when scientists should be prompted to look at a subject based on annotations and information from talk comments i also want to detect
@@ -377,6 +405,7 @@
 28	my job is to detect when scientists should be prompted to look at a topic based on annotations and information from talk comments
 28	my job is to detect when scientists should be prompted to look at a subject based on annotations and information from talk comments
 28	my job is to detect when scientist should be prompted to look at a subject based on annotations and information from talk comments
+29	 As a Zooniverse admin, I want to identify volunteer types.
 29	zooniverse admin i want to identify volunteer types what are some examples?
 29	zooniverse admin i want to identify volunteers
 29	zooniverse admin wants to identify volunteer types
@@ -391,6 +420,7 @@
 29	as a zooniverse admin i want to identify volunteers types
 29	as a zooniverse admin i want to identify volunteer types
 29	when i am a zooniverse admin i want to identify volunteer types
+30	 As a Zooniverse admin, I want to preclassify the Galaxy Zoo images using simple low level image features.
 30	if i want to preclassify the galaxy zoo images using simple low level image features i want to do this
 30	if i want to preclassify the galaxy zoo images using simple low level image features i want to do so
 30	as a zooniverse admin i want to preclassify the images of galaxy zoo using simple low level image features ''
@@ -406,6 +436,7 @@
 30	as a zooniverse admin i want to pre-classify the galaxy zoo images using simple low level image features
 30	as a zooniverse admin i want to preclassify the galaxy zoo images using simple low-level image features
 30	as a zooniverse admin i want to preclassify the galaxy zoo images using simple low level image features
+31	 As a Zooniverse admin, I want to automatically detect Snapshot Serengeti images with no classifiable animals in them.
 31	admins on zooniverse want to automatically detect snapshot images of the serengeti that do not have any classifiable animals in
 31	admins on zooniverse want to automatically detect snapshot images of the serengeti that have no classifiable animals in
 31	admins on zooniverse want to automatically detect snapshot images of the serengeti that have no classifiable animals in it
@@ -415,6 +446,7 @@
 31	as a zooniverse admin i want to automatically detect snapshot serengeti images with no classifiable animals in
 31	as a zooniverse admin i want to automatically detect snapshot serengeti images without classifiable animals in them
 31	as a zooniverse admin i want to automatically detect snapshot serengeti images with no classifiable animals in them
+32	 As a Zooniverse admin, I want to perform automatic image series detection for the case of timestamping malfunction in Snapshot Serengeti images.	
 32	my role is to perform automatic image series detection for the case of timestamping in snapshot serengeti images
 32	my role is to perform automatic image series detection for the case of time stamping malfunction in snapshot serengeti images
 32	my role is to perform automatic image series detection for the case of timestamping malfunction in snapshot serengeti images
@@ -425,6 +457,7 @@
 32	as a zooniverse admin i want to perform automatic image series detection for the case of timestamping malfunction in snapshot serengeti images i
 32	as a zooniverse admin i want to perform automatic image series detection for the case of timestamping malfunction in snapshot serengeti images
 32	as a zooniverse admin i want to perform automatic image series detection for the case of timestamping malfunction in snapshot serengeti images 
+33	 As a Zooniverse admin, I want to perform automatic animal species preclassification in Snapshot Serengeti.	
 33	my role is to perform automatic animal species pre-classification in snapshot serengeti i want to do this automatically
 33	my role is to perform automatic preclassification of animal species in snapshot serengeti
 33	my role is to perform automatic pre-classification of animals in snapshot serengeti
@@ -436,6 +469,7 @@
 33	as zooniverse admin i want to perform automatic animal species preclassification in snapshot serengeti
 33	as a zooniverse admin i want to perform automatic animal species pre-classification in snapshot serengeti
 33	as a zooniverse admin i want to perform automatic animal species preclassification in snapshot serengeti
+34	 As a Zooniverse admin, I want to perform automatic animal attribute preclassification in Snapshot Serengeti.	
 34	my role is to perform automatic preclassification of animal attributes in snapshot serengeti
 34	my role is to perform automatic animal attribute preclassification in snapshot serengeti i am a zooniverse admin
 34	my role is to perform automatic animal attribute preclassification in snapshot serengeti i want to do this
@@ -447,6 +481,7 @@
 34	as zooniverse admin i want to perform automatic animal attribute preclassification in snapshot serengeti
 34	as a zooniverse admin i want to perform automatic animal attributes preclassification in snapshot serengeti
 34	as a zooniverse admin i want to perform automatic animal attribute preclassification in snapshot serengeti
+35	 As a Zooniverse admin, I want to perform automatic animal number detection in Snapshot Serengeti.	
 35	my role is to perform automatic animal number detection in snapshot serengeti i am a zooniverse admin
 35	my role is to perform automatic animal number detection in snapshot serengeti as a zooniverse admin i
 35	my role is to perform automatic animal number detection in snapshot serengeti as a zooniverse admin
@@ -459,6 +494,7 @@
 35	if i'm zooniverse admin i want to perform automatic animal number detection in snapshot serengeti
 35	as zooniverse admin i want to perform automatic animal number detection in snapshot serengeti
 35	as a zooniverse admin i want to perform automatic animal number detection in snapshot serengeti
+36	 As a Zooniverse admin, I want to perform automatic segmentation or localization of plankton in Plankton Portal.	
 36	zooniverse admin i want to perform automatic segmentation or localization of plankton in plankton portal i want to use
 36	zooniverse administrator i want to perform automatic segmentation or localization of plankton in the plankton portal
 36	zooniverse administrator i want to perform automatic segmentation or localization of plankton in plankton portal
@@ -469,6 +505,7 @@
 36	as a zooniverse admin i want to perform automatic segmentation or localization of plankton in the plankton portal
 36	as zooniverse admin i want to perform automatic segmentation or localization of plankton in plankton portal
 36	as a zooniverse admin i want to perform automatic segmentation or localization of plankton in plankton portal
+37	 As a Zooniverse admin, I want to automatically detect Plankton Portal images with no classifiable plankton in them.	
 37	for my zooniverse admin i want to automatically detect plankton-portal images that do not have classifiable plankton in
 37	for my zooniverse admin i want to automatically detect plankton-portal-images with no classifiable plankton in
 37	if i am a zooniverse admin i want to automatically detect plankton portal images with no classifiable plankton in
@@ -478,6 +515,7 @@
 37	as a zooniverse admin i want to automatically detect plankton portal images with no classifiable plankton in them i
 37	as a zooniverse admin i want to automatically detect plankton portal images with no classifiable plankton in them 
 37	as a zooniverse admin i want to automatically detect plankton portal images with no classifiable plankton in them
+38	 As a Zooniverse admin, I want to perform automatic detection of plankton size or orientation in Plankton Portal images.	
 38	zooniverse admin i want to perform automatic detection of plankton size or orientation in plankton portal images i have a
 38	zooniverse admin i want to perform automatic detection of plankton size or orientation in plankton portal images i have
 38	zooniverse admin wants to perform automatic detection of plankton size or orientation in plankton portal images
@@ -485,6 +523,7 @@
 38	zooniverse admin i want to perform automatic detection of plankton size or orientation in plankton portal images
 38	as zooniverse admin i want to perform automatic detection of plankton size or orientation in plankton portal images
 38	as a zooniverse admin i want to perform automatic detection of plankton size or orientation in plankton portal images
+39	 As a Zooniverse admin, I want to perform automatic preclassification of plankton species in Plankton Portal images.	
 39	my role is to perform automatic preclassification of plankton species in plankton portal images as a zooniverse admin
 39	my role is to perform automatic preclassification of plankton species in plankton portal images
 39	zooniverse admin i want to perform automatic preclassification of plankton species in the plankton portal image
@@ -493,6 +532,7 @@
 39	as a zooniverse admin i want to perform automatic preclassification of plankton species in the plankton portal images
 39	as a zooniverse admin i want to perform automatic pre-classification of plankton species in plankton portal images
 39	as a zooniverse admin i want to perform automatic preclassification of plankton species in plankton portal images
+40	 As a Zooniverse admin, I want to perform automatic worm motion analysis to reduce video duration in Worm Watch Lab.	
 40	zooniverse admin i want to perform automatic worm motion analysis in worm watch lab to reduce video duration
 40	as a zooniverse admin i want to perform automatic worm motion analysis in worm watch lab to reduce video duration
 40	zooniverse admin i want to perform automatic worm motion analysis to reduce video duration in worm watch lab i want to
@@ -506,6 +546,7 @@
 40	as a zooniverse admin i want to perform automatic worm motion analysis to reduce video duration in the worm watch lab
 40	as a zooniverse admin i want to perform automatic worm motion analysis to reduce the video duration in worm watch lab
 40	as a zooniverse admin i want to perform automatic worm motion analysis to reduce video duration in worm watch lab
+41	 As a Zooniverse admin, I want to automatically detect the time in a Worm Watch Lab video where the worm lays an egg.	
 41	how do i detect the time in a worm watch lab video where the worm lays an egg? i want to do this automatically
 41	how can i detect the time in a worm watch lab video where the worm lays an egg? i want to do this automatically
 41	how can i detect the time in a worm watch lab video where the worm lays an egg automatically?
@@ -521,6 +562,7 @@
 41	zooniverse admin i want to automatically detect time in a worm watch lab video where the worm lays an egg
 41	zooniverse admin i want to automatically detect the time in a worm watch lab video where the worm lay an egg
 41	zooniverse admin i want to automatically detect the time in a worm watch lab video where the worm lays an egg
+42	 As a Zooniverse admin, I want to detect important features such as areas of flooding, damage, temporary shelters, blocked roads etc in the satellite images.	
 42	as zooniverse admin i want to detect important features in the satellite images such as areas of flooding damage temporary shelters blocked roads etc
 42	as a zooniverse admin i want to detect important features in the satellite images such as areas of flooding damage temporary shelters blocked roads etc
 42	as a zooniverse admin i want to detect important features such as flood damage temporary shelters blocked roads etc in the satellite images
@@ -533,6 +575,7 @@
 42	as a zooniverse admin i want to detect important features such as areas of flooding damaged temporary shelters blocked roads etc in the satellite images
 42	as a zooniverse admin i want to detect important features such as areas of flooding damage temporary shelters blocked roads etc in the satellite images 
 42	as a zooniverse admin i want to detect important features such as areas of flooding damage temporary shelters blocked roads etc in the satellite images
+43	 As a Zooniverse admin, I want to assess the probability/weight of a volunteers classification based on their experience.
 43	the probabilityweight of a volunteer classification based on their experience will be assessed as an admin on zooniverse
 43	the probabilityweight of a volunteer classification based on their experience will be assessed by zooniverse admins
 43	the probabilityweight of a volunteer classification based on their experience will be assessed by zooniverse admin
@@ -548,6 +591,7 @@
 43	as a zooniverse admin i want to assess the probabilityweight of a volunteer classification based on their experiences
 43	as a zooniverse admin i want to assess the probabilityweight of a volunteer classification based on their experience
 43	as a zooniverse admin i want to assess the probabilityweight of a volunteers classification based on their experience
+44	 As a Zooniverse admin, I want to perform prefiltering of the images to remove artefacts such as bright stars and camera read errors.	
 44	zooniverse admin i want to perform prefiltering of the images to remove artefacts such as bright stars and camera read errors i have
 44	zooniverse admin i want to do prefiltering of the images to remove artefacts such as bright stars and camera read errors
 44	zooniverse admin i want to perform prefiltering of images to remove artefacts such as bright stars and camera read errors
@@ -563,6 +607,7 @@
 44	as zooniverse admin i want to perform prefiltering of the images to remove artefacts such as bright stars and camera read errors
 44	as a zooniverse admin i want to perform prefiltering of the images to remove artefacts such as bright stars and camera read error
 44	as a zooniverse admin i want to perform prefiltering of the images to remove artefacts such as bright stars and camera read errors
+45	 As a Zooniverse admin, I want to detect moving and transient objects in the images.	
 45	my role is to detect moving and transient objects in the images as a zooniverse admin
 45	my role is to detect moving and transient objects in the images of the zooniverse
 45	my role is to detect moving and transient objects in the images of zooniverse
@@ -576,6 +621,7 @@
 45	as a zooniverse admin i want to detect moving and transient objects in the images
 45	my role as a zooniverse admin i want to detect moving and transient objects in the image
 45	my role as a zooniverse admin i want to detect moving and transient objects in the images
+46	 As a Zooniverse admin, I want to remove background noise and distracting sounds from the audio files.	
 46	please remove background noise from the audio files as a zooniverse admin
 46	please remove background noise and distracting sounds from the audio files as a zooniverse administrator
 46	please remove background noise and distracting sounds from audio files as a zooniverse admin
@@ -590,6 +636,7 @@
 46	zooniverse admin i want to remove background noise and distracting sounds from the audio files
 46	as a zooniverse admin i want to remove background noise and distracting sounds from audio files
 46	as zooniverse admin i want to remove background noise and distracting sounds from the audio files
+47	 As a Zooniverse admin, I want to group whale calls that are similar.	
 47	admin of zooniverse i want to group calls of whales that are similar to one another
 47	admin of zooniverse i want to group calls of whales that are similar to each other
 47	admin of zooniverse i want to group calls of whales that are similar to eachother
@@ -603,6 +650,7 @@
 47	as a zooniverse admin i want to group whale calls that are similar to me
 47	as a zooniverse admin i want to group whale calls that are similar
 47	if i am a zooniverse admin i want to group whale calls that are similar
+48	 As a Zooniverse admin, I want to identify the number of whales heard in a single audio file.	
 48	the number of whales that can be heard in a single audio file is important to zooniverse admin
 48	the number of whales that can be heard in a single audio file is important as a zooniverse admin
 48	the number of whales heard in a single audio file is important as a zooniverse admin i want to identify
@@ -614,6 +662,7 @@
 48	as zooniverse admin i want to identify the number of whales heard in a single audio file
 48	as a zooniverse admin i want to identify the number of whales heard in a single audio file
 48	if i am a zooniverse admin i want to identify the number of whales heard in a single audio file
+49	 As a Zooniverse admin, I want to know when I should interrupt a volunteer.	
 49	my job is to know when i should interrupt a volunteer on the zooniverse
 49	my job is to know when i should interrupt a volunteer on zooniverse
 49	my job is to know when i should interrupt a volunteer in zooniverse
@@ -628,6 +677,7 @@
 49	zooniverse admin i want to know when i should interrupt a volunteer
 49	as zooniverse admin i want to know when i should interrupt a volunteer
 49	as a zooniverse admin i want to know when i should interrupt a volunteer
+50	 As a Zooniverse admin, I want to know whether I should interrupt a volunteer with text, an image, or a video.	
 50	how do i interrupt a volunteer with text an image or video?
 50	how do i interrupt a volunteer with text an image or a video?
 50	zooniverse admin wants to know if i should interrupt a volunteer with text an image or video
@@ -640,6 +690,7 @@
 50	as zooniverse admin i want to know whether i should interrupt a volunteer with text an image or a video
 50	as a zooniverse admin i want to know whether i should interrupt a volunteer with text an image or video
 50	as a zooniverse admin i want to know whether i should interrupt a volunteer with text an image or a video
+51	 As a Zooniverse admin, I want to know when I should educate a volunteer.	
 51	my job is to know when to educate volunteers on zooniversecom
 51	my job is to know when to educate volunteers on zooniverse
 51	my job is to know when to educate a volunteer zooniverse admin
@@ -653,6 +704,7 @@
 51	as a zooniverse administrator i want to know when i should educate a volunteer
 51	as zooniverse admin i want to know when i should educate a volunteer
 51	as a zooniverse admin i want to know when i should educate a volunteer
+52	 As a Zooniverse admin, I want to know whether I should educate a volunteer with text, an image, or a video.	
 52	zooniverse admins want to know whether they should teach volunteers with text an image or video
 52	zooniverse admins want to know whether they should educate volunteers with text an image or video
 52	zooniverse admins want to know whether they should educate volunteers with text an image or a video
@@ -667,6 +719,7 @@
 52	as zooniverse admin i want to know whether i should educate a volunteer with text an image or a video
 52	as a zooniverse admin i want to know whether i should educate a volunteer with text an image or video
 52	as a zooniverse admin i want to know whether i should educate a volunteer with text an image or a video
+53	 As a Zooniverse admin,I want to know which piece of education I should give to a volunteer.	
 53	what education should i give a volunteer as a zooniverse administrator?
 53	what education should i give a volunteer as a zooniverse admin?
 53	what education should i give a volunteer?
@@ -682,6 +735,7 @@
 53	as a zooniverse admini want to know which piece of education i should give a volunteer
 53	as a zooniverse admin i want to know which piece of education i should give to a volunteer
 53	as a zooniverse admini want to know which piece of education i should give to a volunteer
+54	 As a Zooniverse admin, I want to know when a volunteer has made an interesting comment on a subject.	
 54	zooniverse admin i want to know when a volunteer has made an interesting comment on a topic i don't
 54	as a zooniverse admin i want to know if a volunteer has made an interesting comment on a particular topic
 54	zooniverse admin i want to know when a volunteer made an interesting comment on a topic
@@ -697,6 +751,7 @@
 54	as a zooniverse admin i want to know when a volunteer made an interesting comment on a subject
 54	as a zooniverse admin i want to know if a volunteer has made an interesting comment on a subject
 54	as a zooniverse admin i want to know when a volunteer has made an interesting comment on a subject
+55	 As a Zooniverse admin, I want to know when Zoonibot should comment on a subject.
 55	how do i find out when a zooniverse admin comments on a topic?
 55	how can i find out when a zooniverse admin comments on a topic?
 55	how can i find out when a zooniverse admin comments on a topic
@@ -712,6 +767,7 @@
 55	as a zooniverse admin i want to know when zoonibot should comment on a topic
 55	zooniverse admin i want to know when zoonibot should comment on a subject
 55	as a zooniverse admin i want to know when zoonibot should comment on a subject
+56	 As a Zooniverse admin, I want to know when Zoonibot should give an explanation.	
 56	zooniverse admin i want to know when zoonibot should explain something
 56	zooniverse admin i want to know when zoonibot should explain why
 56	zooniverse admin i want to know when zoonibot should explain things
@@ -726,6 +782,7 @@
 56	as a zooniverse admin i want to know when zoonibot should give an explanation ''
 56	as a zooniverse admin i want to know when zoonibot should give an explanation
 56	in my role as zooniverse admin i want to know when zoonibot should give an explanation
+57	 As a Zooniverse admin, I want to know what Zoonibot should say to a volunteer.	
 57	if i'm a member of zooniverse i'd like to know what zoonibot should tell a volunteer
 57	if i'm a member of zooniverse i would like to know what zoonibot should say to a volunteer
 57	as a zooniverse admin i would like to know what zoonibot should say to a volunteer
@@ -738,6 +795,7 @@
 57	in my role as a zooniverse admin i want to know what zoonibot should say to a volunteer why?
 57	as a zooniverse admin i want to know what zoonibot should say to a volunteer
 57	in my role as a zooniverse admin i want to know what zoonibot should say to a volunteer
+58	 As a Zooniverse admin, I want to group subjects by similarity.	
 58	as admin of zooniverse i want to group topics by similarity
 58	admin of zooniverse i want to group subjects by similarity ''
 58	as admin of zooniverse i want to group subjects by similarity ''
@@ -750,6 +808,7 @@
 58	as zooniverse admin i want to group subjects by similarity
 58	if i am a zooniverse admin i want to group subjects by similarity
 58	as a zooniverse admin i want to group subjects by similarity
+59	 As a Zooniverse admin, I want to recommend different projects to volunteers based on their previous experiences.	
 59	since i am an admin on zoonix i want to recommend a variety of different projects to volunteers based on previous experiences
 59	since i am an admin on zoonix i want to recommend a variety of projects to volunteers based on their previous experience
 59	since i am an admin on zoonix i want to recommend a variety of projects to volunteers based on their previous experiences
@@ -765,6 +824,7 @@
 59	as a zooniverse admin i want to recommend different projects to volunteers based on their previous experience
 59	as a zooniverse admin i want to recommend different projects to volunteers based on their previous experiences 
 59	as a zooniverse admin i want to recommend different projects to volunteers based on their previous experiences
+60	 As an admin, I want to see a summary of articles, so that I reuse them.	
 60	as an admin i would like to see a summary of articles so that i can reuse them
 60	as an administrator i want to see a summary of articles so i can reuse them
 60	as an admin i want to see a summary of articles so i can reuse them again

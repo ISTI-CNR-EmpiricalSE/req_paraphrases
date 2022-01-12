@@ -1,3 +1,4 @@
+1	As a PI, I want to properly record all metadata, so that I can ensure proper running of the project in case of staff changes.
 1	as a pi i want to properly record all metadata so i can ensure the proper running of the project in case of staff changes to the project
 1	as a pi i want to correctly record all metadata so that i can ensure the proper running of the project in the event of staff changes
 1	as a pi i want to correctly record all metadata so that i can ensure the proper operation of the project in case of staff changes
@@ -13,6 +14,7 @@
 1	as a pi i want to properly record all metadata so that i can ensure the proper running of the project in case of staff changes
 1	as a pi i want to properly record all metadata so that i can ensure the proper running of the project in case of staff changes 
 1	as a pi i want to properly record all metadata so that i can ensure proper running of the project in case of staff changes
+2	As a researcher, I want to indicate where my data will be stored during the project and where after the project, so that it remains accessible during all stages of the data lifecycle.
 2	the researcher wants to indicate where my data will be stored during the project and after the project so that it remains accessible throughout the data lifecycle
 2	the researcher wants to indicate where my data will be stored during the project and after the project so that it remains accessible throughout all stages of the data lifecycle
 2	as a researcher i want to indicate where my data will be stored during and after the project so that it remains accessible during all stages of the data lifecycle
@@ -28,6 +30,7 @@
 2	the researcher wants to indicate where my data will be stored during the project and after the project so that it remains accessible during all stages of the data lifecycle 
 2	the researcher wants to indicate where my data will be stored during the project and after the project so that it remains accessible during all stages of the data lifecycle
 2	as a researcher i want to indicate where my data will be stored during the project and after the project so that it remains accessible during all stages of the data lifecycle
+3	As a researcher, I want to import metadata that I captured with a metadata tool, so that I do not have to capture it again in a DMP.
 3	as an academic i want to import metadata that i captured with a metadata tool so i do not have to capture it again in a dmp for this
 3	as an academic i want to import metadata that i captured using a metadata tool so i do not have to capture it again in a dmp i
 3	as an academic i want to import metadata that i captured using a metadata tool so i do not have to capture it again in a dmp
@@ -42,6 +45,7 @@
 3	as a researcher i want to import metadata that i captured with a metadata tool so i don't have to capture it again in a dmp
 3	as a researcher i want to import metadata that i captured with a metadata tool so that i don't have to capture it again in a dmp
 3	as a researcher i want to import metadata that i captured with a metadata tool so that i do not have to capture it again in a dmp
+4	As a data manager, I want to know how the data is used, so that I can develop more detailed usage and support scenarios with researchers.
 4	as a data management professional i want to know how the data is used so that i can develop more detailed use and support scenarios with the researchers
 4	as a data management professional i want to know how the data is used so that i can develop more detailed usage and support scenarios with the researcher
 4	as a data management professional i want to know how the data is used so that i can develop more detailed usage and support scenarios with the researchers
@@ -55,6 +59,7 @@
 4	as a data manager i want to know how the data is used so that i can develop more detailed use and support scenarios with researchers
 4	as a data manager i want to know how the data is used so that i can develop more detailed usage and support scenarios with researchers 
 4	as a data manager i want to know how the data is used so that i can develop more detailed usage and support scenarios with researchers
+5	As a repository owner, I want to be able to check the planned provenance of the data that will be submitted at the end of a project, so that I can calculate necessary submission fees and check whether it belongs to our target group.
 5	as a repository owner i want to be able to check the planned provenance of the data that will be submitted at the end of a project so i can calculate the necessary submission fees and check whether it belongs to our target group
 5	as a repository owner i want to be able to check the planned provenance of the data that will be submitted at the end of a project so i can calculate the necessary submission fees and check whether it belongs to our target group 
 5	as repository owner i want to be able to check the planned provenance of the data that will be submitted at the end of a project so i can calculate necessary submission fees and check whether it belongs to our target group
@@ -65,6 +70,7 @@
 5	as a repository owner i want to be able to check the planned provenance of the data that will be submitted at the end of a project so that i can calculate necessary submission fees and check whether it belongs to our target group '
 5	as a repository owner i want to be able to check the planned provenance of the data that will be submitted at the end of a project so that i can calculate necessary submission fees and check whether it belongs to our target group
 5	as a repository owner i want to be able to check the planned provenance of the data that will be submitted at the end of a project so that i can calculate necessary submission fees and check whether it belongs to our target group 
+6	As an IT manager, I want to know about IT resource requirements early in the project lifecycle, so that I can enable resource acquisition planning.
 6	a manager wants to know about it resource requirements early on in the project lifecycle so i can enable resource acquisition planning
 6	a manager wants to know about it resource requirements early on in the project lifecycle so that i can enable resource acquisition planning
 6	a manager i want to know about it resource requirements early in the project lifecycle so i can enable resource acquisition planning
@@ -79,6 +85,7 @@
 6	as an it manager i want to know about it resource requirements early in the project lifecycle so that i can enable resource acquisition planning
 6	when i am an it manager i want to know about it resource requirements early in the project life cycle so that i can enable resource acquisition planning
 6	when i am an it manager i want to know about it resource requirements early in the project lifecycle so that i can enable resource acquisition planning
+7	As a PI, I want to plan what kind of data I want to record/store, so that I can ensure it will possible to store it.
 7	what data i want to recordstore so that i can ensure it will be possible to store is a pi's responsibility
 7	what data i want to recordstore so that i can ensure it will be possible to store is pi's responsibility
 7	what data i want to recordstore so that i can ensure that it will be possible to store it as a pi?
@@ -94,6 +101,7 @@
 7	what data i want to recordstore so that i can ensure it will be possible to store is pi
 7	what data i want to recordstore so that i can ensure it will be possible to store
 7	if i want to plan what kind of data i want to recordstore so that i can ensure it will be possible to store it
+8	As an IT staff member, I want to know the security requirements of the data, so that I know which kind of security measures to apply.
 8	i want to know the security requirements of data so i know what kind of security measures to apply
 8	it staff want to know the security requirements of data so that i can know what kind of security measures to apply ''
 8	it staff want to know the security requirements of data so that i can know what kind of security measures to apply 
@@ -109,6 +117,7 @@
 8	as an it staff member i want to know the security requirements of the data so i know which kind of security measures to apply
 8	as an it staff member i want to know the security requirements of the data so that i know what kind of security measures to apply
 8	as an it staff member i want to know the security requirements of the data so that i know which kind of security measures to apply
+9	As a data manager, I want to have the description of collected data sets that are used or updated throughout the project lifecycle, so that I can ensure the descriptions are current and add detail as the study proceeds.
 9	as the data manager i want to have the description of collected data sets used or updated throughout the project lifecycle so i can ensure the descriptions are current and add detail as the study continues
 9	as the data manager i want to have the description of collected data sets used or updated throughout the project lifecycle so i can ensure the descriptions are current and add detail as the study progresses ''
 9	as the data manager i want to have the description of collected data sets used or updated throughout the project lifecycle so i can ensure the descriptions are current and add detail as the study goes on
@@ -123,6 +132,7 @@
 9	as a data manager i want to have the description of collected data sets that are used or updated throughout the project lifecycle so i can ensure the descriptions are current and add detail as the study proceeds
 9	as a data manager i want to have the description of collected data sets that are used or updated throughout the project lifecycle so that i can ensure the descriptions are current and add detail as the study progresse
 9	as a data manager i want to have the description of collected data sets that are used or updated throughout the project lifecycle so that i can ensure the descriptions are current and add detail as the study proceeds
+10	 As a researcher, I want to know which topics are mandatory and similar in all DMPs, so that I can save time through quickly writing it.
 10	if i want to know which topics are mandatory and similar in all dmps i can save time by quickly writing it
 10	as a researcher i want to know which topics are mandatory and similar in all dmps so i can save time by quickly writing them ''
 10	if i'm a researcher i want to know which topics are mandatory and similar in all dmps so i can save time by quickly writing them
@@ -138,6 +148,7 @@
 10	as a researcher i want to know which topics are mandatory and similar in all dmps so that i can save time by quickly writing it
 10	as a researcher i want to know which topics are mandatory and similar in all dmps so that i can save time by quickly writing it 
 10	as a researcher i want to know which topics are mandatory and similar in all dmps so i can save time through quickly writing it
+11	 As a data manager, I want to know what the content of the data is, so that I can decide to which collection or repository the data fits.
 11	as the data manager i want to know what the data is so that i can decide which collection or repository the data belongs to ''
 11	as the data manager i want to know what the data is so that i can decide which collection or repository the data belongs to
 11	as the data manager i want to know what the data is so i can decide which collection or repository the data fits
@@ -153,6 +164,7 @@
 11	as a data manager i want to know what the content of the data is so i can decide which collection or repository the data fits
 11	as a data manager i want to know what the content of the data is so i can decide to which collection or repository the data fits
 11	as a data manager i want to know what the content of the data is so that i can decide which collection or repository the data fits
+12	 As a PI, I want to record information about my DMP, so that an Ethics Committee can review this for compliance with ethical standards.
 12	as a pi i want to record information about my dmp so that an ethics committee can review this for compliance with ethical standards if necessary
 12	as a pi i want to record information about my dmp so that an ethics committee can review this for compliance with ethical standards if required
 12	as a pi i want to record information about my dmp so that an ethics committee can review this for compliance with ethical standards if needed
@@ -163,6 +175,7 @@
 12	as a pi i want to record information about my dmp so that an ethics committee can review this for compliance with ethical standards
 12	if i am a pi i want to record information about my dmp so that an ethics committee can review this for compliance with ethical standards
 12	as a pi i want to record information about my dmp so that an ethics committee can review this for compliance with ethical standards 
+13	 As a legalofficer, I want to know about data sensitivity, so that I can establish sharing options.
 13	the law office wants to know about data sensitivity so that i can establish sharing options for my clients
 13	the law office wants to know about data sensitivity so that i can set sharing options
 13	the law office wants to know about data sensitivity so that i can determine sharing options
@@ -177,6 +190,7 @@
 13	as a legal officer i want to know about data sensitivity so that i can establish sharing options
 13	as a legalofficer i want to know about data sensitivity so that i can establish sharing options 
 13	as a legalofficer i want to know about data sensitivity so that i can establish sharing options
+14	 As a data librarian, I want to extract pointers from the DMP to metadata held in other systems, so that I can import this metadata into a data catalogue.
 14	if i am a data librarian i want to extract pointers from dmp to metadata held in other systems to import this metadata to a data catalog
 14	if i am a data librarian i want to extract pointers from dmp to metadata held in other systems to import this metadata into a data catalog
 14	if i am a data librarian i want to extract pointers from dmp to metadata held in other systems to import this metadata into a data catalog i
@@ -192,6 +206,7 @@
 14	as a data librarian i want to extract pointers from the dmp to metadata held in other systems so i can import this metadata into a data catalogue
 14	as a data librarian i want to extract pointers from the dmp to metadata held in other systems so that i can import this metadata into a data catalog
 14	as a data librarian i want to extract pointers from the dmp to metadata held in other systems so that i can import this metadata into a data catalogue
+15	 As an IT staff member, I want to have an estimate of the produced data volume, so that I can plan the overall storage consumption.
 15	as an it staff member i want to have an estimate of the produced data volume so i can plan the overall storage usage
 15	as an it employee i want to have an estimate of the produced data volume so i can plan the overall storage consumption
 15	as an it staff member i want to have an estimate of the produced data volume so that i can plan the overall storage consumption of the system
@@ -207,6 +222,7 @@
 15	as an it - staff member i want to have an estimate of the produced data volume so that i can plan the overall storage consumption
 15	as an it staff member i want to have an estimate of the produced data volume so that i can plan the overall storage consumption
 15	as an it staff member i want to have an estimate of the produced data volume so that i can plan the overall storage consumption 
+16	 As an administrator, I want to know who funded the project and their requirements, so that I can track the funder specific obligations.
 16	administrator i want to know who funded the project and their requirements so i can track the specific obligations of the funder
 16	as an administrator i want to know who funded the project and their requirements so i can track the specific obligations of the funder ''
 16	as administrator i want to know who funded the project and their requirements so i can track the specific obligations of the funder
@@ -222,6 +238,7 @@
 16	as an administrator i want to know who funded the project and their requirements so that i can track the specific obligations of the funder
 16	administrator i want to know who funded the project and their requirements so i can track the funder's specific obligations
 16	as an administrator i want to know who funded the project and their requirements so i can track the funder specific obligations
+17	 As an archivemanager, I want to know the legal status of data, so that I can apply the legal requirements accordingly.
 17	as archivist i want to know the legal status of data to apply the relevant legal requirements
 17	as archivemanager i want to know the legal status of data to apply the relevant legal requirements
 17	as archivist i want to know the legal status of data to apply the legal requirements accordingly ''
@@ -237,6 +254,7 @@
 17	as an archive manager i want to know the legal status of data so that i can apply the legal requirements appropriately
 17	as an archive manager i want to know the legal status of data so i can apply the legal requirements accordingly
 17	as an archive manager i want to know the legal status of data so that i can apply the legal requirements accordingly
+18	 As a data manager, I want to know which kind of data types will be produced or collected, so that I can determine what basic support services and functionalities are required.
 18	as the data manager i want to know which type of data types will be produced or collected so i can determine which basic support services and functionalities are required
 18	as the data manager i want to know which type of data types will be produced or collected so i can determine what basic support services and functionalities are required i
 18	as the data manager i want to know which type of data types will be produced or collected so i can determine what basic support services and functionalities are required
@@ -252,6 +270,7 @@
 18	as a data manager i want to know which kind of data types will be produced or collected so i can determine what basic support services and functionalities are required
 18	as a data manager i want to know which type of data types will be produced or collected so that i can determine what basic support services and functionalities are required
 18	as a data manager i want to know which kind of data types will be produced or collected so that i can determine what basic support services and functionalities are required
+19	 As an IT staff member, I want to know which kind of data types will be produced or collected, so that I can determine what basic support services and functionalities are required.
 19	if i want to know what kind of data types will be produced or collected so that i can determine what basic support services and functionalities are required i need to know
 19	if i want to know what kind of data types will be produced or collected so that i can determine what basic support services and functionalities are required i want to know
 19	if i want to know what kind of data types will be produced or collected so that i can determine what basic support services and functionalities are required i need to do
@@ -267,6 +286,7 @@
 19	as an it staff member i want to know which kind of data types will be produced or collected so i can determine what basic support services and functionalities are required
 19	as an it staff member i want to know which type of data types will be produced or collected so that i can determine what basic support services and functionalities are required
 19	as an it staff member i want to know which kind of data types will be produced or collected so that i can determine what basic support services and functionalities are required
+20	 As an archivemanager, I want to know in advance the conservation period of data, so that I can better organize the service by adapting the preservation actions.
 20	if i want to know the conservation period of data i can better organize the service by adapting preservation actions
 20	if i want to know in advance the conservation period of data so that i can better organize the service by adapting preservation actions i need to do this
 20	if i want to know in advance the conservation period of data i can better organize service by adapting preservation actions
@@ -282,6 +302,7 @@
 20	as an archive manager i want to know in advance the conservation period of data so that i can better organize the service by adapting the preservation actions
 20	as an archive manager i want to know in advance the conservation period of data so that i can better organize the service by adapting the preservation actions 
 20	as an archivemanager i want to know in advance the conservation period of data so that i can better organize the service by adapting the preservation actions
+21	 As a data manager, I want to document all rights necessary for managing the data, so that I can curate and preserve the data.
 21	data managers want to document all rights necessary for managing data so i can curate and preserve the data for future reference
 21	data managers want to document all rights necessary for managing data so i can curate and preserve the data for future use
 21	data managers want to document all rights necessary for managing data so i can curate and maintain the data
@@ -296,6 +317,7 @@
 21	as a data manager i want to document all rights necessary for managing the data so i can curate and preserve the data
 21	as a data manager i want to document all rights necessary for managing the data so that i can curate and preserve the data 
 21	as a data manager i want to document all rights necessary for managing the data so that i can curate and preserve the data
+22	 As a data manager, I want to know what the content of the data is, so that I can check whether the necessary expertise for maintaining intellectual reusability is available.
 22	data managers want to know what the data is so i can check whether the necessary expertise is available to maintain intellectual reusability i want to know whether
 22	data managers want to know what the data is so i can check whether the necessary expertise is available to maintain intellectual reusability i want to know what
 22	data managers want to know what the data is so i can check whether the necessary expertise is available to maintain intellectual reusability
@@ -311,6 +333,7 @@
 22	as the data manager i want to know what data is so that i can check whether the necessary expertise for maintaining intellectual reusability is available
 22	as the data manager i want to know what the data is so that i can check whether the necessary expertise for maintaining intellectual reusability is available 
 22	as the data manager i want to know what the data is so that i can check whether the necessary expertise for maintaining intellectual reusability is available
+23	 As a research head, I want to access to the persistent identifiers of datasets provided in the DMP, so that I can check that the DMP has been implemented.
 23	when i'm a research head i want to access the persistent identifiers of the datasets provided in the dmp so i can check if the
 23	as a research head i want to access the persistent identifiers of the datasets provided in the dmp so i can check that the dmp has been implemented
 23	as a researcher i want to access the persistent identifiers of datasets provided in the dmp so i can check that the dmp has been implemented
@@ -322,6 +345,7 @@
 23	as a research head i want to access the persistent identifiers of datasets provided in the dmp so that i can check that the dmp has been implement
 23	as a research head i want to access the persistent identifiers of datasets provided in the dmp so that i can check that the dmp has been implemented
 23	as a research head i want to access the persistent identifiers of datasets provided in the dmp so that i can check that the dmp has been implemented 
+24	 As a funder, I want to be able to read the costs for data management from the DMP, so that I can check whether our policies work as intended.
 24	as a grantee i want to read the costs for data management from the dmp so i can check whether our policies work as intended
 24	if i am a funder i want to be able to read the costs for data management from the dmp so that i can check if our policies work
 24	as a funder i want to be able to read the costs for data management from the dmp so i can check if our policies work as intended
@@ -334,6 +358,7 @@
 24	as a grantee i want to be able to read the costs for data management from the dmp so that i can check whether our policies work as intended
 24	as a funder i want to be able to read the costs for data management from the dmp so that i can check whether our policies work as intended 
 24	as a funder i want to be able to read the costs for data management from the dmp so that i can check whether our policies work as intended
+25	 As a researcher, I want the DMP to prepopulate information that I have already entered in other institutional systems, so that I do not have to re-enter information ensuring the DMP contains accurate and standardized information.
 25	we need to prepopulate information that i have already entered in other institutional systems to ensure that i don't have to re-enter information"
 25	we need to prepopulate information that i have already entered in other institutional systems to ensure that i do not have to re-enter information'
 25	if i am a researcher i want the dmp to prepopulate information that i have already entered in other institutional systems so that i do not have to re-enter information
@@ -347,6 +372,7 @@
 25	we need to prepopulate information that i have already entered in other institutional systems to ensure that i don't have to re-enter information ensuring the dmp contains accurate and standard information
 25	we need to prepopulate information that i have already entered in other institutional systems to ensure that i don't have to re-enter information ensuring the dmp contains accurate and standardized information
 25	if i want the dmp to prepopulate information that i have already entered in other institutional systems so that i do not have to re-enter information ensuring the dmp contains accurate and standardized information
+26	 As a stakeholder, I want to know when the data management plan was created or updated, so that I know how up-to-date the plan is or whether it needs to be updated.
 26	so i want to know when a data management plan was created or updated so i know how current the plan is or if it needs updating i have
 26	so i want to know when a data management plan was created or updated so i know how current the plan is or if it needs updating i
 26	so i want to know when a data management plan was created or updated so i know how current the plan is or if it needs updating
@@ -361,6 +387,7 @@
 26	so i want to know when a data management plan was created or updated so i know how current the plan is or whether it needs to be updated
 26	for me as a stakeholder i want to know when the data management plan was created or updated so i know how current the plan is or whether it needs updating
 26	for me as a stakeholder i want to know when the data management plan was created or updated so that i know how current the plan is or whether it needs updating
+27	 As a stakeholder, I want to know who is responsible for the DMP, so that I can ask them about further details.
 27	the dmp is responsible for the dmp so i can ask them about further details as a stakeholder
 27	the dmp is responsible for the dmp so that i can ask them about further details about the dmp
 27	the dmp is responsible for the dmp so that i can ask them about further details about it
@@ -369,6 +396,7 @@
 27	as a stakeholder i want to know who is responsible for dmp so i can ask them about further details
 27	as a stakeholder i want to know who is responsible for the dmp so i can ask them about further details
 27	as a stakeholder i want to know who is responsible for the dmp so that i can ask them about further details
+28	 As a stakeholder, I want to have references to the project proposal, so that I can look up further general information.
 28	so i want references to the project proposal so i can look up more general information about the project
 28	so i want references to the project proposal so i can look up further general information about the project
 28	so i want references to the project proposal so i can look up more general information about it
@@ -383,6 +411,7 @@
 28	as a stakeholder i want to have references to the project proposal so i can look for further general information
 28	as a stakeholder i want to have references to the project proposal so that i can look up further information
 28	as a stakeholder i want to have references to the project proposal so i can look up further general information
+29	 As a metadata manager, I want to have a short description of project, so that I can be informed about the metadata description.
 29	as metadata manager i want a short description of the project so i can be informed about the metadata description
 29	as a metadata manager i want a short description of the project so i can be informed about the metadata description
 29	as a metadata manager i want to have a short description of the project so that i can be informed about the metadata
@@ -397,6 +426,7 @@
 29	as a metadata manager i want to have a short description of the project so that i can be informed about the metadata description 
 29	as a metadata manager i want to have a short description of the project so that i can be informed about the metadata description
 29	ideally as a metadata manager i want to have a short description of the project so that i can be informed about the metadata description
+30	 As a rector, I want to know how many data will be stored, so that I can plan long term resources.
 30	how many data will be stored as a rector so that i can plan long term resources
 30	how many data will be stored so i can plan long term resources?
 30	how many data will be stored so that i can plan long term resources?
@@ -412,6 +442,7 @@
 30	as a rector i want to know how much data will be stored so i can plan long term resources
 30	as rector i want to know how many data will be stored so i can plan long term resources
 30	as a rector i want to know how many data will be stored so i can plan long term resources
+31	 As a data manager, I want to know the time plan for collecting data, so that I can plan the data management.
 31	data manager i want to know the time plan for collecting data so i can plan the data management process
 31	data manager i want to know the time plan for collecting data so i can plan the data management ''
 31	as a data manager i want to know the time plan for collecting data to plan the data management
@@ -423,6 +454,7 @@
 31	as a data manager i want to know the time plan for collecting data so i can plan the data management
 31	as a data manager i want to know the time plan for collecting data so that i can plan data management
 31	as a data manager i want to know the time plan for collecting data so that i can plan the data management
+32	 As a data librarian, I want to import administrative information regarding a project into DMP, so that I can prepopulate the DMP.
 32	if i want to import administrative information about a project into dmp i need to prepopulate the dmp
 32	if i want to import administrative information regarding a project into dmp i need to prepopulate dmp
 32	if i want to import administrative information regarding a project into dmp i need to prepopulate the dmp
@@ -437,6 +469,7 @@
 32	as a data librarian i want to import administrative information regarding a project into dmp so that i can prepopulate the dmp i
 32	as a data librarian i want to import administrative information regarding a project into dmp so that i can prepopulate the dmp 
 32	as a data librarian i want to import administrative information regarding a project into dmp so that i can prepopulate the dmp
+33	 As a manager, I want to know about all resources and services used for the data, so that I can estimate the true cost of the project.
 33	as the manager i want to know about all resources used for data so i can estimate the true cost of the project ''
 33	as the manager i want to know about all resources used for data so i can estimate the true cost of the project
 33	as the manager i want to know about all services used for the data so i can estimate the true cost of the project ''
@@ -452,6 +485,7 @@
 33	as a manager i want to know about all resources and services used for data so i can estimate the true cost of the project
 33	as a manager i want to know about all resources and services used for the data so i can estimate the true cost of the project
 33	as a manager i want to know about all resources and services used for the data so that i can estimate the true cost of the project
+34	 As an archivemanager, I want to reuse the information regarding file format, so that I can apply automated checks for the file validation.
 34	if i want to reuse the information regarding file format so that i can apply automated checks for file validation i need to do this
 34	if i want to reuse the information regarding file format so that i can apply automated checks for file validation i have to do this
 34	if i want to reuse the information about file format i can apply automated checks for file validation
@@ -467,6 +501,7 @@
 34	as an archive manager i want to reuse the information regarding the file format so that i can apply automated checks for the file validation
 34	as an archivemanager i want to reuse the information regarding the file format so that i can apply automated checks for the file validation
 34	as an archive manager i want to reuse the information regarding file format so that i can apply automated checks for the file validation
+35	 As a researcher, I want to know how many resources are needed during the project, so that I can calculate costs.
 35	how many resources are needed during the project so i can calculate costs
 35	how many resources are needed during the project so that i can calculate the costs
 35	how many resources are needed during the project so that i can calculate the costs?
@@ -482,6 +517,7 @@
 35	so as researcher i want to know how many resources are needed during the project so i can calculate costs
 35	as a researcher i want to know how much resources are needed during the project so that i can calculate costs
 35	as a researcher i want to know how many resources are needed during the project so that i can calculate costs
+36	 As a researcher, I want to extract the description of the data collected, so that I can reuse it for the writing of a data paper.
 36	a researcher wants to extract the description of the data collected so that i can reuse it for the writing of a paper on a data collection
 36	a researcher wants to extract the description of the data collected so that i can reuse it for the writing of a paper on a data set
 36	a researcher wants to extract the description of the collected data so i can reuse it for the writing of a data paper
@@ -496,6 +532,7 @@
 36	a researcher wants to extract the description of the data collected so that i can reuse it for the writing of a data paper
 36	as a researcher i want to extract the description of the data collected so i can reuse it for the writing of a data paper
 36	as a researcher i want to extract the description of the data collected so that i can reuse it for the writing of a data paper
+37	 As a researcher, I want to record research publications in the institutional repository or CRIS with DMP records, so that I can generate reports of research output resulting from a project.
 37	research publications should be recorded in the institutional repository or cris with dmp records so i can generate reports of research output resulting from a project i want to record
 37	research publications should be recorded in the institutional repository or cris with dmp records so that i can generate reports of the research output resulting from a project for example
 37	research publications should be recorded in the institutional repository or cris with dmp records so i can generate reports of research output resulting from a project i want to
@@ -510,6 +547,7 @@
 37	research publications can be recorded in the institutional repository or cris with dmp records so that i can generate reports of research output resulting from a project
 37	if i am a researcher i want to record research publications in the institutional repository or cris with dmp records so that i can generate reports of research output resulting
 37	if i am a researcher i want to record research publications in the institutional repository or cris with dmp records so that i can generate reports of research output resulting from
+38	 As a researcher, I want to link research publications in the institutional repository or CRIS with DMP records, so that I can generate reports of research output resulting from a project.
 38	research publications in the institutional repository or cris need to be linked with dmp records so that i can generate reports of research output resulting from a project for example
 38	research publications in the institutional repository or cris should be linked with dmp records so that i can generate reports of the research output resulting from a project i
 38	research publications in the institutional repository or cris should be linked with dmp records so i can generate reports of research output resulting from a project
@@ -524,6 +562,7 @@
 38	as a researcher i want to link research publications in the institutional repository or cris with dmp records so that i can generate reports of research output from a project
 38	as a researcher i want to link research publications in the institutional repository or cris with dmp records so i can generate reports of research output resulting from a project
 38	as a researcher i want to link research publications in the institutional repository or cris with dmp records so that i can generate reports of research output resulting from a project
+39	 As a researcher, I want to store agreements relating to third party data used in a project, so that the data can be cited, attributed and used correctly.
 39	a researcher wants to store agreements relating to third party data used in a project so the data can be cited attributed and correctly used
 39	a researcher wants to store agreements relating to third party data used in a project so the data can be cited attributed and used correctly ''
 39	a researcher wants to store agreements relating to third party data used in a project so that data can be cited attributed and used correctly ''
@@ -538,6 +577,7 @@
 39	as a researcher i want to store agreements relating to third party data used in a project so that data can be cited attributed and used correctly
 39	as a researcher i want to store agreements relating to third party data used in a project so that the data can be cited attributed and used correct
 39	as a researcher i want to store agreements relating to third party data used in a project so that the data can be cited attributed and used correctly
+40	 As an ethics manager, I want to be informed about the data, so that I can check for sensitivity of data.
 40	my role is to be informed about the data so i can check for sensitivity of data
 40	my job is to be informed about the data so that i can check for sensitivity of data
 40	my role is to be informed about the data so that i can check for sensitivity of data
@@ -552,6 +592,7 @@
 40	as an ethics manager i want to be informed about the data so that i can check for sensitivity of data 
 40	as an ethics manager i want to be informed about the data so that i can check for sensitivity of data
 40	when i am an ethics manager i want to be informed about the data so that i can check for sensitivity of data
+41	 As a repository operator, I want to know about the kind of data, so that I can evaluate the storage size and system.
 41	as a repository operator i want to know about the type of data so i can evaluate the storage size and the system's configuration
 41	as a repository operator i want to know about the type of data so i can evaluate the storage size and the system's performance '
 41	as a repository operator i want to know about the type of data so i can evaluate the storage size and the system's performance
@@ -564,6 +605,7 @@
 41	as a repository operator i want to know about the type of data so i can evaluate the storage size and system
 41	as a repository operator i want to know about the type of data so that i can evaluate the storage size and the system
 41	as a repository operator i want to know about the kind of data so that i can evaluate the storage size and the system
+42	 As a researcher, I want to know about costs, so that I can plan my research.
 42	the researchers want to know about the cost of research
 42	if i want to know about the cost i can plan my research
 42	as a researcher i want to know about costs to plan my research
@@ -578,6 +620,7 @@
 42	as a researcher i want to know about costs so that i can plan my research '
 42	as a researcher i want to know about costs so that i can plan my research
 42	when i am a researcher i want to know about costs so that i can plan my research
+43	 As a repository manager, I need details on the type of data, so that I can check if the archiving can be arranged.
 43	as repository manager i need details on the type of data so i can check if archiving is possible
 43	as repository manager i need details on the type of data so i can check if archiving can be arranged i have
 43	as repository manager i need details on the type of data so i can check if the storage can be arranged
@@ -593,6 +636,7 @@
 43	as a repository manager i need details on the type of data so i can check if the archiving can be arranged
 43	as a repository manager i need details on the type of data so that i can check if the archiving can be arranged
 43	as a repository manager i need details on the type of data so that i can check if the archiving can be arranged 
+44	 As an IT officer, I want to know how secure data is, so that I can ensure legal compliance.
 44	my job as an it officer is to understand the security of my data
 44	how secure is data so that i can ensure legal compliance?
 44	my job as an it officer is to understand the security of my data in order to ensure legal compliance
@@ -607,6 +651,7 @@
 44	as an it officer i want to know how secure data is so that i can ensure compliance
 44	as an it officer i want to know how secure data is so i can ensure legal compliance
 44	as an it officer i want to know how secure data is so that i can ensure legal compliance
+45	 As a funder, I want to know how secure data is, so that I can ensure legal compliance.
 45	a funder wants to know how secure data is so i can ensure compliance with the laws
 45	a funder wants to know how secure data is so i can ensure compliance with the law
 45	as a funder i want to know how secure data is so that i can ensure compliance with legal requirements
@@ -622,6 +667,7 @@
 45	as a funder i want to know how secure data is so i can ensure legal compliance
 45	as a funder i want to know how secure the data is so that i can ensure legal compliance
 45	as a funder i want to know how secure data is so that i can ensure legal compliance
+46	 As a Research Centre Director, I want to receive regular summary reports of research data, so that I understand trends in data use among staff and postgraduate students.
 46	i want to receive regular summary reports of research data so that i understand trends in data use among staff and postgraduate students as a research centre director
 46	i want to receive regular summary reports of research data so that i understand trends in the use of data among staff and postgraduate students
 46	i want to receive regular summary reports of research data to understand trends in data use among staff and postgraduate students
@@ -636,6 +682,7 @@
 46	as research centre director i want to receive regular summary reports of research data so that i understand trends in data use among staff and postgraduate students
 46	as a research centre director i want to receive regular summary reports of research data so that i understand trends in data use among staff and postgraduate student
 46	as a research centre director i want to receive regular summary reports of research data so that i understand trends in data use among staff and postgraduate students
+47	 As a Postgraduate Convenor, I want to receive regular summary reports of research data, so that I understand trends in data use among staff and postgraduate students.
 47	as the postgraduate coordinator i want to receive regular summary reports of research data so i understand trends in data use among staff and students
 47	as the postgraduate coordinator i want to receive regular summary reports of research data so i understand trends in data use among staff and postgraduate students for example
 47	as the postgraduate coordinator i want to receive regular summary reports of research data so i understand trends in data use between staff and postgraduate students
@@ -651,6 +698,7 @@
 47	as a postgraduate convenor i want to receive regular summary reports of research data to understand trends in data use among staff and postgraduate students
 47	as a postgraduate convenor i want to receive regular summary reports of research data so i understand trends in data use among staff and postgraduate students
 47	as a postgraduate convenor i want to receive regular summary reports of research data so that i understand trends in data use among staff and postgraduate students
+48	 As a research support officer, I want to ensure compliance to the funders’ rules, so that I can ensure all costs will be accepted.
 48	as support officer i want to ensure compliance with the funders rules so i can ensure all costs are accepted
 48	as a research support officer i want to ensure compliance to the rules of the funders so i can ensure all costs will be approved
 48	as support officer i want to ensure compliance with the funders rules so that i can ensure that all costs will be approved
@@ -666,6 +714,7 @@
 48	as a research support officer i want to ensure compliance to the funders rules so i can ensure all costs will be accepted
 48	as a research support officer i want to ensure compliance with the funders rules so that i can ensure all costs will be accepted
 48	as a research support officer i want to ensure compliance to the funders rules so that i can ensure all costs will be accepted
+49	 As a funder, I want to be able to check all the repositories mentioned in a DMP, so that I can verify whether the project has followed our funding rules.
 49	we have a funder who wants to check all repositories mentioned in a dmp so i can verify if the project has followed our funding rules
 49	we have a funder who wants to check all repositories mentioned in a dmp so i can verify whether the project has followed our funding guidelines
 49	we have a funder who wants to check all repositories mentioned in a dmp so i can verify whether the project has followed our funding rules ''
@@ -677,6 +726,7 @@
 49	as a funder i want to be able to check all the repositories mentioned in a dmp so i can verify whether the project has followed our funding rules
 49	as a funder i want to be able to check all repositories mentioned in a dmp so that i can verify whether the project has followed our funding rules
 49	as a funder i want to be able to check all the repositories mentioned in a dmp so that i can verify whether the project has followed our funding rules
+50	 As a PI, I want to plan what kind of data I want to store, so that I can ensure it will be possible to store it.
 50	the data i want to store should be planned so i can ensure that it is possible for me to store this data
 50	the data i want to store should be planned so i can ensure that it is possible for me to store the data
 50	the data i want to store should be planned so i can ensure that it is possible for me to store them
@@ -691,6 +741,7 @@
 50	as a pi i want to plan what kind of data i want to store so that i can ensure it is possible to store it
 50	as a pi i want to plan what kind of data i want to store so i can ensure it will be possible to store it
 50	as a pi i want to plan what kind of data i want to store so that i can ensure it will be possible to store
+51	 As a PI, I want to know how secure data is, so that I can ensure legal compliance.
 51	how secure is data?
 51	how secure is your data?
 51	how secure is your data so that you can ensure compliance with legal requirements?
@@ -706,6 +757,7 @@
 51	as a pi i want to know how secure the data is so that i can ensure legal compliance
 51	as pi i want to know how secure data is so that i can ensure legal compliance
 51	as a pi i want to know how secure data is so that i can ensure legal compliance
+52	 As a Director of Research Integrity, I want to access reports containing details of research projects in which data are classified as sensitive or highly sensitive, so that I can confirm security protocols are applied to these data.
 52	as research integrity director i want access to reports containing details of research projects where data are classified as highly sensitive so that i can confirm security protocols are applied to these data
 52	as research integrity director i want access to reports containing details of research projects where data is classified as sensitive or highly sensitive so i can confirm security protocols are applied to these data
 52	as research integrity director i want access to reports containing details of research projects where data are classified as sensitive or highly sensitive so i can confirm security protocols are applied to these data
@@ -717,6 +769,7 @@
 52	as a director of research integrity i want to access reports containing details of research projects in which data are classified as sensitive or highly sensitive so i can confirm security protocols are applied to these data
 52	as director of research integrity i want to access reports containing details of research projects in which data are classified as sensitive or highly sensitive so that i can confirm security protocols are applied to these data
 52	as a director of research integrity i want to access reports containing details of research projects in which data are classified as sensitive or highly sensitive so that i can confirm security protocols are applied to these data
+53	 As an archive, I want to get information about the volume of data to preserve at an early stage, so that I can provide the adequate storage infrastructure.
 53	as an archive i want to get information about the volume of data to preserve at an early stage so that i can provide the appropriate storage infrastructure for this purpose
 53	as an archive i want to get information about the volume of data to preserve at an early stage so that i can provide the appropriate storage infrastructure for the data to
 53	as an archive i want to get information about the volume of data to preserve at an early stage so that i can provide the appropriate storage infrastructure to the archive
@@ -732,6 +785,7 @@
 53	as an archive i want to get information about the volume of data to preserve at an early stage so that i can provide the appropriate storage infrastructure
 53	as an archive i want to get information about the volume of data to preserve at an early stage so i can provide the adequate storage infrastructure
 53	as an archive i want to get information about the volume of data to preserve at an early stage so that i can provide the adequate storage infrastructure
+54	 As a researcher, I want to know how long it will take to archive, so that I can plan further steps.
 54	so as researcher i want to know how long it will take for archiving
 54	if i want to know how long it will take to archive so i can plan further steps
 54	so as researcher i want to know how long it will take for archiving so i can plan the next step
@@ -747,6 +801,7 @@
 54	as a researcher i want to know how long it will take to archive so that i can plan further steps -
 54	as a researcher i want to know how long it will take to archive so that i can plan further steps 
 54	as a researcher i want to know how long it will take to archive so that i can plan further steps
+55	 As a PI, I want to know who owns the data, so that I know what I am allowed to do with it.
 55	so i want to know who owns the data and what i can do with it
 55	so i want to know who owns the data so i know what i can do with it
 55	so i want to know who owns the data so i can know what i am allowed to do
@@ -762,6 +817,7 @@
 55	so i want to know who owns the data so that i know what i am allowed to do with it ''
 55	so i want to know who owns the data so that i know what i am allowed to do with it
 55	as a pi i want to know who owns the data so i know what i am allowed to do with it
+56	 As a data manager, I want to have references to documentation of the data and its creation process, so that the data can be re-used and managed.
 56	i want references to documentation of the data and its creation process to be able to re-use and manage the data as a data manager
 56	i want references to documentation of the data and its creation process to be able to re-use and manage the data as data manager
 56	i want references to documentation of the data and its creation process to be able to re-use and manage the data as data managers
@@ -776,6 +832,7 @@
 56	as a data manager i want to have references to documentation of the data and its creation process so the data can be re-used and managed
 56	as a data manager i want to have references to documentation of the data and its creation process so that data can be re-used and managed
 56	as a data manager i want to have references to documentation of the data and its creation process so that the data can be re-used and managed
+57	 As an archivemanager, I want to make sure that detailed metadata are associated to data so that it will be understandable by future users.
 57	i want to make sure that detailed metadata are associated to data so that it can be understandable by future users as an archivemanager
 57	i want to make sure that detailed metadata are associated to data so that it will be understandable by future users as a archive manager
 57	i want to make sure that detailed metadata are associated to data so that it will be understandable by future users as an archivemanager
@@ -791,6 +848,7 @@
 57	as an archive manager i want to make sure that detailed metadata is associated to data so that it can be understandable by future users
 57	as an archive manager i want to make sure that detailed metadata are associated to data so that it can be understandable by future users
 57	as an archive manager i want to make sure that detailed metadata are associated to data so that it will be understandable by future users
+58	 As a data manager, I want to know which kind of data types will be produced or collected, so that I can ensure that the necessary technical resources and technical know-how is available.
 58	as the data manager i want to know which type of data types will be produced or collected so i can ensure that the necessary technical resources and technical know-how are available to the
 58	as the data manager i want to know which type of data types will be produced or collected so i can ensure that the necessary technical resources and technical know how are available
 58	as the data manager i want to know which type of data types will be produced or collected so i can ensure that the necessary technical resources and technical know-how are available
@@ -806,6 +864,7 @@
 58	as a data manager i want to know what kind of data types will be produced or collected so that i can ensure that the necessary technical resources and technical know-how are available
 58	as the data manager i want to know which kind of data types will be produced or collected so i can ensure that the necessary technical resources and technical know-how is available
 58	as a data manager i want to know which kind of data types will be produced or collected so that i can ensure that the necessary technical resources and technical know-how are available
+59	 As an IT staff member, I want to know which kind of data types will be produced or collected, so that I can ensure that the necessary technical resources and technical know-how is available.
 59	as an it - staff member i want to know which type of data types will be produced or collected so i can ensure that the necessary technical resources and technical know-how are available
 59	as an it staff member i want to know which type of data types will be produced or collected so that i can ensure that the necessary technical resources and technical know-how are available to them
 59	as an it - staff member i want to know which type of data types will be produced or collected so i can ensure that the necessary technical resources and technical know-how are available 
@@ -821,6 +880,7 @@
 59	as an it staff member i want to know which type of data types will be produced or collected so that i can ensure that the necessary technical resources and technical know-how are available
 59	as an it staff member i want to know what kind of data types will be produced or collected so that i can ensure that the necessary technical resources and technical know-how are available
 59	as an it staff member i want to know which kind of data types will be produced or collected so that i can ensure that the necessary technical resources and technical know-how are available
+60	 As an IT staff member, I want to know how the data is used, so that I can determine what kind of basic services and functionalities are required.
 60	how data is used to determine what kind of basic services and functionalities are required as an it staff member i want to know'
 60	how the data is used to determine what kind of basic services and functionalities are required as an it staff member i want to know
 60	how data is used to determine what kind of basic services and functionalities are required as an it staff member?
@@ -834,6 +894,7 @@
 60	as an it staff member i want to know how data is used so i can determine what kind of basic services and functionalities are required
 60	as an it staff member i want to know how the data is used so i can determine what kind of basic services and functionalities are required
 60	as an it staff member i want to know how data is used so that i can determine what kind of basic services and functionalities are required
+61	 As a data manager, I want to know whether the collected data depends on other data sets from my own or other institutions, so that I can ensure that these dependencies are maintained.
 61	as a data manager i want to know if the collected data depends on other data sets from my own or other institutions so that i can ensure that these dependencies are kept
 61	as a data manager i want to know whether the collected data depends on other data sets from my own or other institutions to ensure that these dependencies are maintained
 61	if i am a data manager i want to know if the collected data depends on other data sets from my own or other institutions so i can ensure that these dependencies are maintained
@@ -849,6 +910,7 @@
 61	as a data manager i want to know whether the collected data depends on other data sets from my own or other institutions so that i can ensure that these dependencies are maintained
 61	if i am a data manager i want to know whether the collected data depends on other data sets from my own or other institutions so that i can ensure that these dependencies are maintained
 61	as a data manager i want to know whether the collected data depends on other data sets from my own or other institutions so that i can ensure that these dependencies are maintained 
+62	 As an IT staff member, I want to know which formats are used, so that I can determine what kind of technical services and functionalities are required.
 62	how can i determine what kind of technical services and functionalities i need as an it staff member?'
 62	how do i determine what kind of technical services and functionalities are required as an it staff member?'
 62	how can i determine what kind of technical services and functionalities are required as an it staff member?'
@@ -864,6 +926,7 @@
 62	as an it staff member i want to know what formats are used so i can determine what kind of technical services and functionalities are required
 62	as an it staff member i want to know which formats are used so that i can determine what technical services and functionalities are required
 62	as an it staff member i want to know which formats are used so i can determine what kind of technical services and functionalities are required
+63	 As an IT staff member, I want to know with which software or technology the data is produced or used, so that I can determine what kind of technical services and functionalities are required.
 63	how can i determine what kind of technical services and functionalities are required as an it staff member to know which software or technology data is produced or used?'
 63	how can i determine what kind of technical services and functionalities are required as an it staff member to know which software or technology data is produced or used'
 63	how can i determine what kind of technical services and functionalities are required as a it staff member to produce or use the data?'
@@ -878,6 +941,7 @@
 63	how can i determine what kind of technical services and functionalities are required as a it staff member?'
 63	how can i determine what kind of technical services and functionalities are required as an it employee?'
 63	how can i determine what kind of technical services and functionalities are required as an it worker?'
+64	 As a data manager, I want to know which information is necessary to re-use the data, so that it can be checked whether all necessary information is available for researchers interested in re-using the data.
 64	data manager i want to know which information is necessary to re-use the data so that it can be checked whether all necessary information is available for researchers interested in re-using
 64	data manager i want to know which information is necessary for re-using the data so that it can be checked whether all necessary information is available for researchers interested in re-using the data
 64	data manager i want to know which information is necessary to re-use the data so that it can be checked whether all necessary information is available for researchers interested in re-using the data the
@@ -889,6 +953,7 @@
 64	data manager i want to know which information is necessary to re-use the data so that it can be checked whether all necessary information is available for researchers interested in re-using the data 
 64	as data manager i want to know which information is necessary to re-use the data so that it can be checked whether all necessary information is available for researchers interested in re-using the data
 64	as a data manager i want to know which information is necessary to re-use the data so that it can be checked whether all necessary information is available for researchers interested in re-using the data
+65	 As a data manager, I want to know which formats are used, so that I know what technology or background information might be necessary to use the data.
 65	as the data manager i want to know which formats are used so i know what technology or background information might be needed to use the data ''
 65	as the data manager i want to know which formats are used so i know what technology or background information might be needed to use the data
 65	as a data manager i want to know which formats are used so i know what technology or background information might be needed to use the data
@@ -904,6 +969,7 @@
 65	as a data manager i want to know which formats are used so i know what technology or background information might be necessary to use the data
 65	as a data manager i want to know which formats are used so that i know what technology or background information might be necessary to use the data
 65	as a data manager i want to know which formats are used so that i know what technology or background information might be necessary to use the data 
+66	 As a data manager, I want to know whether the data can be reproduced efficiently, so that I can determine whether and how the data has to be stored.
 66	as the data manager i want to know whether the data is reproducible efficiently so i can determine whether and how the data has to be stored in a database
 66	as the data manager i want to know whether the data is reproducible efficiently so i can determine whether and how the data has to be stored i also want
 66	as the data manager i want to know whether the data is reproducible efficiently to determine whether and how the data has to be stored
@@ -919,6 +985,7 @@
 66	as a data manager i want to know whether the data can be reproduced efficiently so i can determine whether and how the data has to be stored
 66	as a data manager i want to know whether the data can be reproduced efficiently so that i can determine whether and how the data needs to be stored
 66	as a data manager i want to know whether the data can be reproduced efficiently so that i can determine whether and how the data has to be stored
+67	 As a data manager, I want to know with which software or technology the data is produced or used, so that I know what technology or background information might be necessary to (re-)use the data.
 67	data manager i want to know with which software or technology the data is produced or used so i can know what technology or background information might be necessary to re-use the data and how to
 67	data manager i want to know with which software or technology the data is produced or used so i know what technology or background information might be needed to re-use the data
 67	data manager i want to know with which software or technology the data is produced or used so i can know what technology or background information might be necessary to re-use the data '
@@ -931,6 +998,7 @@
 67	as a data manager i want to know with which software or technology the data is produced or used so that i know what technology or background information might be needed to re-use the data
 67	as a data manager i want to know with which software or technology the data is produced or used so i know what technology or background information might be necessary to re-use the data
 67	as a data manager i want to know with which software or technology the data is produced or used so that i know what technology or background information might be necessary to re-use the data
+68	 As a research evaluation manager, I want to ensure all data are quoted correctly with our affiliation, so that they are counted towards our citation counts.
 68	my role as a research evaluation manager is to ensure that all data are properly quoted with our affiliation so that they are counted towards our citation counts
 68	as a research evaluation manager i want to ensure that all data are quoted correctly with our affiliation so that they are counted as citations
 68	as a research evaluation manager i want to ensure that all data are quoted correctly with our affiliation so that they are counted in our citation counts
@@ -944,6 +1012,7 @@
 68	as a research evaluation manager i want to ensure all data are quoted correctly with our affiliation so that they are counted towards our citation counts ''
 68	as a research evaluation manager i want to ensure all data are quoted correctly with our affiliation so that they are counted towards our citation counts
 68	as a research evaluation manager i want to ensure all data are quoted correctly with our affiliation so that they are counted towards our citation counts 
+69	 As an administrator, I want to check that all data has the appropriate security level, so that I can demonstrate compliance.
 69	as an administrator i want to check that all data has the appropriate security level so that i can demonstrate compliance with the rules and regulations
 69	as an administrator i want to check that all data has the appropriate security level so that i can demonstrate compliance with the rules and procedures
 69	as an administrator i want to check that all data has the appropriate security level so that i can demonstrate compliance with the rules and policies
@@ -959,6 +1028,7 @@
 69	as an administrator i want to check that all data has the appropriate security level so i can demonstrate compliance
 69	as administrator i want to check that all data has the appropriate security level so that i can demonstrate compliance
 69	as an administrator i want to check that all data has the appropriate security level so that i can demonstrate compliance
+70	 As a data manager, I want to know the security requirements of the data, so that I can check whether the data can be kept secure.
 70	the security requirements of the data i want to know so that i can check if the data can be kept secure are met
 70	the security requirements of the data i want to know so that i can check if the data can be kept safe
 70	the security requirements of the data i want to know so i can check if the data can be kept secure
@@ -974,6 +1044,7 @@
 70	as a data manager i want to know the security requirements of the data so that i can check if the data can be kept secure
 70	as a data manager i want to know the security requirements of the data so i can check whether the data can be kept secure
 70	as a data manager i want to know the security requirements of the data so that i can check whether the data can be kept secure
+71	 As a institutional data steward, I want to be able to extract the data sets that are submitted to external repositories, so that I can add them to an institutional data catalogue.
 71	as data steward i want to be able to extract the data sets submitted to external repositories so i can add them to an institutional data catalogue
 71	as data steward i want to be able to extract data sets submitted to external repositories so that i can add them to an institutional data catalogue
 71	as data steward i want to be able to extract data sets that are submitted to external repositories so that i can add them to an institutional data database
@@ -988,6 +1059,7 @@
 71	as an institutional data steward i want to be able to extract the data sets that are submitted to external repositories so i can add them to an institutional data catalogue
 71	as a institutional data steward i want to be able to extract the data sets that are submitted to external repositories so that i can add them to an institutional data catalogue
 71	as an institutional data steward i want to be able to extract the data sets that are submitted to external repositories so that i can add them to an institutional data catalogue
+72	 As an institutional data manager, I want to know about the privacy and security requirements of the data, so that I can plan the right storage system and sharing permissions.
 72	as data manager i want to know about privacy and security requirements of the data so i can plan the right storage system and share permissions
 72	as data manager i want to know about the privacy and security requirements of the data so i can plan the right storage system and share permissions ''
 72	als data manager i want to know about the privacy and security requirements of the data so i can plan the right storage system and share permissions ''
@@ -1003,6 +1075,7 @@
 72	as an institutional data manager i want to know about the privacy and security requirements of the data so i can plan the right storage system and sharing permissions
 72	as an institutional data manager i want to know about the privacy and security requirements of the data so that i can plan the right storage system and share permissions
 72	as an institutional data manager i want to know about the privacy and security requirements of the data so that i can plan the right storage system and sharing permissions
+73	 As a researcher, I want to see the sections on costing by other researchers in my department, so that I can see if we could share data manager posts.
 73	i would like to see the sections on costing by other researchers in my department so that i can see if we could share data manager posts with other researchers
 73	i would like to see the sections on costing by other researchers in my department so that i can see if we could share data manager posts with each other
 73	i would like to see the sections on costing by other researchers in my department so i could see if we could share data manager posts
@@ -1018,6 +1091,7 @@
 73	as a researcher i want to see the sections on costing by other researchers in my department so i can see if we could share data manager posts
 73	as a researcher i want to see the sections on costing by other researchers in my department so that i can see if we could share data manager posts with
 73	as a researcher i want to see the sections on costing by other researchers in my department so that i can see if we could share data manager posts
+74	 As a researcher, I want to see the sections on roles submitted by other researchers in my department, so that I can see if we could share data manager posts.
 74	the section on roles submitted by other researchers in my department i want to see if we could share data manager posts i want to see the sections on
 74	the section on roles submitted by other researchers in my department i want to see if we could share data manager posts i'm a researcher
 74	the sections on roles submitted by other researchers in my department i want to see if we could share data manager posts i'm a researcher
@@ -1031,6 +1105,7 @@
 74	i would like to see the sections on roles submitted by other researchers in my department so i can see if we could share data manager posts
 74	as a researcher i want to see the sections on roles submitted by other researchers in my department so i can see if we can share data manager posts
 74	as a researcher i want to see the sections on roles submitted by other researchers in my department so i can see if we could share data manager posts
+75	 As a researcher, I want to see the sections on responsibilities submitted by other researchers in my department, so that I can see if we could share data manager posts.
 75	the section on responsibilities submitted by other researchers in my department i want to see if we could share data manager posts with other researchers in my department
 75	the section on responsibilities submitted by other researchers in my department i want to see if we could share data manager posts with other researchers
 75	the sections on responsibilities submitted by other researchers in my department i want to see if we could share data manager posts with other researchers
@@ -1045,6 +1120,7 @@
 75	as a researcher i want to see the sections on responsibilities submitted by other researchers in my department so i can see if we can share data manager posts
 75	as a researcher i want to see the sections on responsibilities submitted by other researchers in my department so i can see if we could share data managers posts
 75	as a researcher i want to see the sections on responsibilities submitted by other researchers in my department so i can see if we could share data manager posts
+76	 As a faculty data steward, I want to see the sections on costing, so that I can ensure sufficient expertise on data management to support the project.
 76	data steward i want to see sections on costing so i can ensure sufficient expertise on data management to support the project
 76	as data steward i want to see sections on costing so i can ensure sufficient expertise on data management to support the project ''
 76	data steward of faculty i want to see the sections on costing so i can ensure sufficient expertise on data management to support this project
@@ -1060,6 +1136,7 @@
 76	data steward of faculty i want to see the sections on costing so that i can ensure sufficient expertise on data management to support the project
 76	as a data steward i want to see the sections on costing so i can ensure sufficient expertise on data management to support the project
 76	data steward at faculty i want to see the sections on costing so that i can ensure sufficient expertise on data management to support the project
+77	 As a faculty data steward, I want to see the sections on roles, so that I can ensure sufficient expertise on data management to support the project.
 77	data steward i want to see sections on roles so i can ensure sufficient expertise in data management for the project ''
 77	data steward i want to see sections on roles so i can ensure enough expertise in data management to support the project
 77	data steward i want to see sections on roles so i can ensure adequate expertise in data management to support the project
@@ -1075,6 +1152,7 @@
 77	as data steward i want to see sections on roles so i can ensure sufficient expertise on data management to support the project
 77	as data steward i want to see sections on roles so that i can ensure sufficient expertise in data management to support the project
 77	as data steward i want to see sections on roles so that i can ensure sufficient expertise on data management to support the project
+78	 As a faculty data steward, I want to see the sections on responsibilities, so that I can ensure sufficient expertise on data management to support the project.
 78	as data steward i want to see sections on responsibilities so that i can ensure sufficient expertise on data management to support the project's implementation
 78	as data steward i want to see sections on responsibilities so that i can ensure sufficient expertise on data management to support the project's success
 78	as data steward i want to see sections on responsibilities so i can ensure sufficient expertise on data management to support the project ''
@@ -1090,6 +1168,7 @@
 78	as a data steward i want to see the sections on responsibilities so i can ensure sufficient expertise on data management to support the project
 78	as a faculty data steward i want to see the sections on responsibilities so i can ensure sufficient expertise in data management to support the project
 78	as a faculty data steward i want to see the sections on responsibilities so i can ensure sufficient expertise on data management to support the project
+79	 As a data manager, I want to clarify the necessary rights for re-using the data, so that it is legal to reuse the data.
 79	as the data manager i want to clarify the necessary rights for re-using data so it is legal to reuse
 79	as the data manager i want to clarify the necessary rights for re-using data to make it legal to reuse data
 79	as the data manager i want to clarify the necessary rights for re-using data to make it legal to reuse the data ''
@@ -1103,6 +1182,7 @@
 79	as data manager i want to clarify the necessary rights for re-using the data so that it is legal to reuse the data
 79	as a data manager i want to clarify the necessary rights for reusing the data so that it is legal to reuse the data
 79	as a data manager i want to clarify the necessary rights for re-using the data so that it is legal to reuse the data
+80	 As a researcher, I want to record my intention to share data I have collected under terms of a particular licence, so that other researchers who use the data understand the rights of use.
 80	if i want to share data collected under a particular licence i want to record my intention so that other researchers who use the data understand the rights of using them
 80	if i want to share data collected under a particular licence i want to record my intention so that other researchers who use the data understand the rights of using it
 80	if i want to share data collected under a particular licence i want to record my intention so that other researchers who use the data understand the rights of usage
@@ -1116,6 +1196,7 @@
 80	however i want to record my intention to share data i collected under a particular licence so that other researchers who use the data understand the rights of use
 80	as a researcher i want to record my intention to share data i collected under a specific licence so that other researchers who use the data understand the rights of use
 80	as a researcher i want to record my intention to share data i collected under a particular licence so that other researchers who use the data understand the rights of use
+81	 As a data manager, I want to plan the anonymization of data, so that we protect the privacy of the people participating in the research as good as possible and still ensure reusability of data.
 81	my job as a data manager is to plan the anonymization of data so that we can as best as possible protect the privacy of the people participating in the research
 81	as the data manager i want to plan the anonymization of data so that we protect the privacy of the participants as good as possible and still ensure the reusability of data for future research
 81	as the data manager i want to plan the anonymization of data so that we protect the privacy of the participants as good as possible and still ensure the reusability of data for future use
@@ -1130,6 +1211,7 @@
 81	as the data manager i want to plan the anonymization of data so that we protect the privacy of the participants as good as possible and still ensure the reusability of data 
 81	as the data manager i want to plan the anonymization of data so that we protect the privacy of the participants as good as possible and still ensure reusability of data ''
 81	as the data manager i want to plan the anonymization of data so that we protect the privacy of the participants as good as possible and still ensure reusability of data
+82	 As a repository manager, I want to have metadata in additional languages, so that I can allow for multilingual data archive.
 82	as repository manager i want metadata in additional languages so i can allow multilingual data archives ''
 82	as repository manager i want metadata in additional languages so i can allow multilingual data archive ''
 82	as repository manager i want metadata in additional languages so i can allow multilingual data archive '
@@ -1145,6 +1227,7 @@
 82	as repository manager i want to have metadata in additional languages so i can allow for multilingual data archive
 82	as a repository manager i want to have metadata in additional languages so i can allow for multilingual data archives
 82	as a repository manager i want to have metadata in additional languages so i can allow for multilingual data archive
+83	 As a data manager, I want to know whether the DMP was approved, so that I can proceed with the required next steps.
 83	as a data manager i want to know if the dmp has been approved so that i can proceed with the required next step
 83	data manager i want to know whether the dmp was approved so that i can proceed with the necessary next steps
 83	as a data manager i want to know if the dmp has been approved so that i can proceed with the required next steps

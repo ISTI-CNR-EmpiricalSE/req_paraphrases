@@ -84,26 +84,42 @@ def wordnet_test_func():
 
     for data_set_index in data_set_index_list:
         tic1 = time.perf_counter()  # time for the single dataset
-        input_file = open("data_sets/data_set_" + str(data_set_index) + ".txt", "r")
-        # input_file = open("data_sets/data_set_23.txt", "r")
+        # TODO: take parrot file as input
+        input_file = open("results/data_set_" + str(data_set_index) + "/results_1.txt", "r")
         output_file = open("results/data_set_" + str(data_set_index) + "/results_" + str(data_set_index) +
                            "_wordnet.txt", "w")
-        # output_file = open("results/data_set_23/results_23_wordnet.txt","w")
         output_file.write("data_set_number:" + str(data_set_index) + "\n")
         output_file.write("\n")
-        phrases = input_file.read().splitlines()
-
-        for phrase in phrases:
+        dirty_phrases = input_file.read().splitlines()
+        clean_phrase = ""
+        j = 0
+        c = 0
+        for dirty_phrase in dirty_phrases:
+            if "Input_phrase" in dirty_phrase:
+                j = j + 1
+                c = 0
+                if dirty_phrase.startswith("Input_phrase:"):
+                    # the format of the line is: Input_phrase: phrase
+                    clean_phrase = dirty_phrase[14:]
+                else:
+                    # the format of the line is: number) Input_phrase: phrase
+                    clean_phrase = dirty_phrase[17:]
+            elif dirty_phrase.startswith("("):
+                c = c + 1
+                end_index = dirty_phrase.find(")")
+                clean_phrase = dirty_phrase[2:end_index-5]
+            else:
+                continue
 
             # for each input phrase: 5 output phrases maximum
-            phrase1 = phrase
-            phrase2 = phrase
-            phrase3 = phrase
-            phrase4 = phrase
-            phrase5 = phrase
+            phrase1 = clean_phrase
+            phrase2 = clean_phrase
+            phrase3 = clean_phrase
+            phrase4 = clean_phrase
+            phrase5 = clean_phrase
 
-            output_file.write("Input phrase: " + phrase + "\n")
-            doc = nlp(phrase)
+            output_file.write(str(j) + "." + str(c) + ") " + "Input phrase: " + clean_phrase + "\n")
+            doc = nlp(clean_phrase)
 
             for token in doc:
                 # replace synonym only of words that are not stopwords
@@ -123,15 +139,15 @@ def wordnet_test_func():
 
                         # insert synonym in final list only if :
                         # it's different from original word
-                        # it's different from the plural of the original word (synonym different from token + s)
-                        # it's different from the singular of the original word (synonym + s different from token)
+                        # synonym different from token + 1
+                        # synonym + 1 different from token
                         # and if absent from the final list
                         found = False
                         if synonym == token.text.lower():
                             found = True
-                        if synonym == token.text.lower() + "s":
+                        if synonym[:len(synonym)-1] == token.text.lower():
                             found = True
-                        if synonym + "s" == token.text.lower():
+                        if synonym == token.text.lower()[:len(token.text)-1]:
                             found = True
                         if synonym in syns_clean:
                             found = True

@@ -1,3 +1,4 @@
+1	﻿As a camp administrator, I want to be able to add campers, so that I can keep track of each individual camper.
 1	my job is to be able to add campers so i can keep track of each camper individually
 1	my job is to be able to add campers so i can keep track of each camper
 1	my job is to be able to add campers so i can track each individual camper
@@ -13,6 +14,7 @@
 1	as a camp administrator i want to be able to add campers so i can keep track of each individual camper
 1	as camp administrator i want to be able to add campers so that i can keep track of each individual camper
 1	as a camp administrator i want to be able to add campers so that i can keep track of each individual camper
+2	As a camp administrator, I want to be able to remove campers if they don't attend the camp anymore, so that I can keep the records organized.
 2	as a camp administrator i want to be able to remove campers if they don't attend the camp anymore to keep the records organized
 2	as a camp administrator i want to be able to remove campers if they don't go to the camp anymore so i can keep the records organized
 2	as a camp administrator i would like to be able to remove campers if they don't attend the camp anymore so that i can keep the records organized
@@ -25,6 +27,7 @@
 2	as a camp administrator i want to be able to remove campers if they don't attend the camp anymore so that i can keep the records organised
 2	as a camp administrator i want to be able to remove campers if they don't attend the camp anymore so that i can keep the records organized
 2	as a camp administrator i want to be able to remove campers if they don't attend the camp anymore so that i can keep the records organized 
+3	As a camp administrator, I want to be able to keep camper records from previous years, so that the amount of work I need to do is lowered. 
 3	we want to keep camper records from previous years so that i don't have to do much work
 3	when i work as camp administrator i want to keep camper records from previous years so that the amount of work i have to do is reduced
 3	when i work as camp administrator i want to keep camper records from previous years so that the amount of work i have to do is less
@@ -40,6 +43,7 @@
 3	as a camp administrator i want to be able to keep camper records from previous years so that the amount of work i have to do is lowered
 3	as a camp administrator i want to be able to keep camper records from previous years so that the amount of work i need to do is reduced 
 3	as a camp administrator i want to be able to keep camper records from previous years so that the amount of work i need to do is lowered
+4	As a camp administrator, I want to be able to upload consent forms, so that campers or their parents can easily access the forms.
 4	as administrator i want to upload consent forms so that campers or their parents can easily access them
 4	as administrator i want to upload consent forms so that campers or their parents can easily access the forms
 4	as administrator i want to be able to upload consent forms so that campers or parents can easily access the forms
@@ -54,6 +58,7 @@
 4	as camp administrator i want to be able to upload consent forms so that campers or their parents can easily access the forms
 4	as a camp administrator i want to be able to upload consent forms so that campers or their parents can easily access the form
 4	as a camp administrator i want to be able to upload consent forms so that campers or their parents can easily access the forms
+5	As a camp administrator, I want to be able to keep track of which camper submitted which forms, so that legal issues are avoided.
 5	my job as a camp administrator is to keep track of which camper submitted which form so that legal issues are avoided
 5	my job as a camp administrator is to keep track of which camper submitted which forms so that legal issues are avoided
 5	as a camp administrator i want to be able to keep track of which camper submitted which forms so that legal problems are prevented
@@ -66,6 +71,7 @@
 5	as a camp administrator i want to be able to keep track of which camper submitted which forms so that legal issues are avoided i
 5	as a camp administrator i want to be able to keep track of which camper submitted which forms so that legal issues are avoided 
 5	as a camp administrator i want to be able to keep track of which camper submitted which forms so that legal issues are avoided
+6	As a camp administrator, I want to be able to schedule activities for campers, so that camp workers can easily keep track of who is where at all times.
 6	my job is to schedule activities for campers so that camp workers can easily keep track of who is where and when
 6	my job is to schedule activities for campers so that camp workers can easily keep track of who is where at all times
 6	my job as a camp administrator is to schedule activities for campers so that camp workers can easily keep track of who is there at all times
@@ -78,6 +84,7 @@
 6	as a camp administrator i want to be able to schedule activities for campers so that camp workers can easily keep track of who is where at all times i
 6	as a camp administrator i want to be able to schedule activities for campers so that camp workers can easily keep track of who is where at all times 
 6	as a camp administrator i want to be able to schedule activities for campers so that camp workers can easily keep track of who is where at all times
+7	As a camp administrator, I want to be able to automatically create nametags for campers, so that I can lower the amount of work I need to do.
 7	my job is to create automatic nametags for campers so i can reduce the amount of work i have to do i also want to be able
 7	my job is to create automatic nametags for campers so i can reduce the amount of work i have to do i want to be able to
 7	my job is to create nametags for campers so that i can reduce the amount of work i have to do i want to be able
@@ -93,6 +100,7 @@
 7	as a camp administrator i want to be able to automatically create nametags for campers so i can reduce the amount of work i have to do
 7	as a camp administrator i want to be able to automatically create nametags for campers so i can reduce the amount of work i need to do
 7	as a camp administrator i want to be able to automatically create nametags for campers so i can lower the amount of work i need to do
+8	As a camp administrator, I want to be able to suspend a camper who had behavioral problems.
 8	as administrator i want to be able to suspend a camper who had behavioral problems with the camper
 8	as administrator i want to be able to suspend a camper who had behavioral problems with himher
 8	as administrator i want to be able to suspend a camper who had behavioral issues
@@ -108,6 +116,7 @@
 8	as a camp administrator i want to be able to suspend a camper who has behavioral problems
 8	as a camp administrator i want to be able to suspend a camper who had behavioral problems
 8	as a camp administrator i want to be able to suspend a camper who had behavioral problems 
+9	As a camp administrator, I want to be able to set a reminders related to specific tasks that has to be done.
 9	as camp administrator i would like to have reminders for specific tasks that have to be done to be done
 9	as camp administrator i would like to have reminders for specific tasks to be done
 9	as camp administrator i would like to have reminders for specific tasks that have to be done
@@ -123,6 +132,7 @@
 9	as a camp administrator i want to be able to set reminders related to specific tasks that need to be done
 9	as camp administrator i want to be able to set reminders related to specific tasks that have to be done
 9	as a camp administrator i want to be able to set reminders related to specific tasks that have to be done
+10	 As a camp administrator, I want to be able to assign different positions to the staff members, so that it is possible to organize activities in terms of responsibilities.
 10	however as a camp administrator i would like the possibility of assigning different positions to the staff to allow for the organization of the activities according to the roles and
 10	however as a camp administrator i would like the possibility of assigning different positions to the staff to allow for the organization of the activities according to the assigned duties
 10	however as a camp administrator i would like the possibility of assigning different positions to the staff to allow for the organization of the activities according to the roles and the
@@ -136,6 +146,7 @@
 10	as a camp administrator i want to be able to assign different positions to staff members so that it is possible to organize activities in terms of responsibilities 
 10	as a camp administrator i want to be able to assign different positions to staff members so that it is possible to organize activities in terms of responsibilities
 10	as a camp administrator i want to be able to assign different positions to the staff members so that it is possible to organize activities in terms of responsibilities
+11	 As a camp administrator, I want to be able to warn a camp worker who I think did his/her job inappropriate.
 11	my job as a camp administrator is to be able to warn a camp worker who i think has done hisher job improperly
 11	my job as a camp administrator is to warn a camp worker who i think did hisher job inappropriately
 11	my job as a camp administrator is to be able to warn a camp worker who i think has done his or her job inappropriately
@@ -149,6 +160,7 @@
 11	as a camp administrator i want to be able to warn a camp worker who i think did hisher job inappropriately 
 11	as a camp administrator i want to be able to warn a camp worker who i think did hisher job inappropriately
 11	as a camp administrator i want to be able to warn a camp worker who i think did hisher job inappropriate
+12	 As a camp administrator, I want to be able to create, modify rules that campers and camp workers has to follow.
 12	as administrator of a camp i want to be able to create and modify rules that must be followed by campers and camp staff
 12	as administrator of a camp i want to be able to create and modify rules that must be followed by campers and camp workers
 12	as administrator of a camp i want to be able to create and modify rules that must be followed by campers and campers
@@ -163,6 +175,7 @@
 12	as a camp administrator i want to be able to create and modify rules that campers and camp workers has to follow
 12	as a camp administrator i want to be able to create modify rules that campers and camp workers must follow
 12	as a camp administrator i want to be able to create modify rules that campers and camp workers have to follow
+13	 As a camp administrator, I want to keep track of the usage of internal camp facilities, so that I don't create conflicting schedules for the different camp groups.
 13	as a camp administrator i want to keep track of the use of internal camp facilities so i don't create conflicting schedules for different camp groups
 13	as a camp administrator i want to keep track of the use of internal camp facilities so i don't create conflicting schedules for the different camp groups
 13	as a camp administrator i want to keep track of the usage of internal camp facilities so i don't create conflicting schedules for the different camp groups
@@ -175,6 +188,7 @@
 13	as a camp administrator i want to keep track of the usage of internal camp facilities so that i don't create conflicting schedules for the different camp groups 
 13	in my role as the camp administrator i want to keep track of the usage of internal camp facilities so that i don't create conflicting schedules for the different camp groups
 13	as a camp administrator i want to keep track of the usage of internal camp facilities so that i don't create conflicting schedules for the different camp groups
+14	 As a camp administrator, I want to create an avenue so parents can submit feedback and general concerns, so that I can keep improving the services I provide.
 14	as camp administrator i want to create a way for parents to submit feedback and general concerns so i can improve the services i provide
 14	as camp administrator i want to create a way for parents to submit feedback and general concerns so i can continue improving the services i provide
 14	as camp administrator i want to create a way for parents to submit feedback and general concerns so i can keep improving the services i provide ''
@@ -190,6 +204,7 @@
 14	as a camp administrator i want to create an avenue so that parents can submit feedback and general concerns so that i can keep improving the services i provide 
 14	as a camp administrator i want to create an avenue so parents can submit feedback and general concerns so that i can keep improving the services i provide 
 14	as a camp administrator i want to create an avenue so parents can submit feedback and general concerns so that i can keep improving the services i provide
+15	 As a camp administrator, I want to store campers' emergency information in a database, so that I can easily notify the necessary parties in case of an emergency.
 15	my job is to store emergency information about campers in a database so i can easily notify the necessary parties in case of an emergency situation
 15	my job is to store emergency information about campers in a database so i can notify the necessary parties in case of an emergency
 15	my job is to store emergency information about campers in a database so that i can easily notify the necessary parties in case of an emergency i am also
@@ -205,6 +220,7 @@
 15	my job is to store emergency information for campers in a database so that i can easily notify the necessary parties in case of an emergency
 15	as a camp administrator i want to store emergency information about campers in a database so i can easily notify the necessary parties in case of an emergency
 15	as a camp administrator i want to store campers' emergency information in a database so i can easily notify the necessary parties in case of an emergency
+16	 As a camp administrator, I want to store camper's immediate parent/guardian's information, so that I can easily call to notify them in case a grossly unacceptable behavior.
 16	as a camp administrator i want to store the information of the camper's immediate parentguardian so i can easily call them to notify them in case a grossly unacceptable behavior occurs
 16	as a camp administrator i want to store the information of the camper's immediate parentguardian so i can easily call them to notify them in case of grossly unacceptable behavior
 16	as a camp administrator i want to store the information of the camper's immediate parentguardian so that i can easily call them to notify them in case a grossly unacceptable behavior occurs
@@ -219,6 +235,7 @@
 16	my job as a camp administrator is to store the immediate parentguardian information so i can easily contact them in case of grossly unacceptable behavior
 16	my job as a camp administrator is to store the immediate parentguardian information so i can easily call them in case a grossly unacceptable behavior is
 16	my job as a camp administrator is to store the immediate parentguardian information so i can easily call them in case a grossly unacceptable behavior
+17	 As a camp administrator, I want to provide bi-weekly feedback to camper's parents, so that they can be aware of their child's behavior and performance at camp.
 17	camp administrator i want to provide bi-weekly feedback to parents so that they can be aware of their child's behavior at camp
 17	camp administrator i want to provide bi-weekly feedback to parents so that they can be aware of their child's behaviour and performance at camp
 17	camp administrator i want to provide bi-weekly feedback to parents so that they can be aware of their child's behavior and performance at camp
@@ -230,6 +247,7 @@
 17	camp administrator i want to provide bi-weekly feedback to camper parents so that they can be aware of their child's behavior and performance at camp i
 17	camp administrator i want to provide bi-weekly feedback to camper parents so that they can be aware of their child's behavior and performance at camp
 17	camp administrator i want to provide bi-weekly feedback to camper parents so that they can be aware of their child's behavior and performance at camp 
+18	 As a camp administrator, I want to be able to make nametags faster, so that I don't have to spend two hours making 200+ nametags
 18	if i want to make nametags faster so that i don't have to spend two hours making 200 nametags i don't want to
 18	if i want to make nametags faster so that i don't have to spend two hours making 200 nametags i'll be able to
 18	if i want to make nametags faster so that i don't have to spend two hours making 200 nametags i don't have to
@@ -243,6 +261,7 @@
 18	as camp administrator i want to be able to make nametags faster so i don't have to spend two hours making 200 nametags
 18	as a camp administrator i want to be able to make nametags faster so i don't have to spend two hours making 200 nametags
 18	as camp administrator i want to be able to make nametags faster so that i don't have to spend two hours making 200 nametags
+19	 As a camp administrator, I want to be able to create a registration form for both staff and kids, so that I can keep organized.
 19	as camp administrator i want to create a registration form for both staff and kids so i can keep things organized and organized
 19	as camp administrator i want to create a registration form for both staff and kids so that i can keep things organized and organized
 19	as camp administrator i want to create a registration form for both staff and kids so i can keep things organized ''
@@ -258,6 +277,7 @@
 19	as a camp administrator i want to be able to create a registration form for both staff and children so i can keep organized
 19	as a camp administrator i want to be able to create a registration form for staff and kids so i can keep organized
 19	as a camp administrator i want to be able to create a registration form for both staff and kids so i can keep organized
+20	 As a camp administrator, I want to be able to keep my information in one place, so that the admins next year can improve on the previous years.
 20	i want to keep my information in one place so that the admins can improve on the previous years next year
 20	i want to keep my information in one place so that the admins can improve on the previous year
 20	i want to keep my information in one place so that the admins can improve on the previous years
@@ -273,6 +293,7 @@
 20	i want to be able to keep my information in one place so that the admins next year can improve on the previous years'
 20	as a camp administrator i want to be able to keep my information in one place so that the administrators next year can improve on the previous years
 20	as a camp administrator i want to be able to keep my information in one place so the admins next year can improve on the previous years
+21	 As a camp administrator, I want to be able to see medical forms, so that we can be prepared for an allergy attack
 21	i want to see medical forms so we can be prepared for an allergy attack as a camp administrator
 21	i want to see medical forms so that we can be prepared for an allergy attack as a camp administrator
 21	i want to see medical forms so that we can be prepared for an allergy attack as camp administrator
@@ -285,6 +306,7 @@
 21	as a camp administrator i want to be able to see medical forms so we can be prepared for an allergy attack
 21	as camp administrator i want to be able to see medical forms so that we can be prepared for an allergy attack
 21	as a camp administrator i want to be able to see medical forms so that we can be prepared for an allergy attack
+22	 As a camp administrator, I want to be able to notify parents all at once, so that they can be notified of any upcoming events.
 22	if i am a camp administrator i would like to be able to notify parents of all upcoming events at once
 22	as a camp administrator i would like to be able to notify parents all at once so that they can be notified of any upcoming events
 22	as a camp administrator i want to be able to notify parents all at once so they can be notified of upcoming events
@@ -296,6 +318,7 @@
 22	as a camp administrator i want to be able to notify parents all at once so that they can be notified of all upcoming events
 22	as a camp administrator i want to be able to notify parents all at once so that they can be notified of any upcoming events 
 22	as a camp administrator i want to be able to notify parents all at once so that they can be notified of any upcoming events
+23	 As a camp administrator, I want to be quickly log attendance everyday, so that I can track which kids are coming in.
 23	as a camp administrator i want to be able to quickly log attendance every day so i can track which kids are coming into the camp
 23	as a camp administrator i want to be able to quickly log attendance every day so i can track which kids come in
 23	as a camp administrator i want to be able to quickly log attendance every day so i can track which kids are coming in to camp
@@ -311,6 +334,7 @@
 23	as a camp administrator i want to be quick to log attendance every day so i can track which kids are coming in
 23	as a camp administrator i want to be quick to log attendance everyday so i can track which kids are coming in
 23	when i am a camp administrator i want to be able to quickly log attendance everyday so that i can track which kids are coming in
+24	 As a camp administrator, I want to be able to add parents, so that they can enroll their kids at camp.
 24	my job as a camp administrator is to be able to add parents to the camp so that they can enroll their kids
 24	my job as a camp administrator is to add parents so they can enroll their kids in camp
 24	my job as a camp administrator is to add parents so they can enroll their kids at camp
@@ -326,6 +350,7 @@
 24	as a camp administrator i want to be able to add parents so that they can enroll their kids in camp
 24	as a camp administrator i want to be able to add parents so that they can enroll their kids at camp 
 24	as a camp administrator i want to be able to add parents so that they can enroll their kids at camp
+25	 As a camp administrator, I want to be able to create groups and add campers to the groups, so that I can easily organize the campers.
 25	as a camp administrator i want to be able to create groups and add campers to the groups so i can easily organize the campers' activities
 25	as a camp administrator i want to be able to create groups and add campers to the groups so i can easily organize them
 25	if i am a camp administrator i would like to be able to create groups and add campers to the groups so that i can easily organize the camp
@@ -340,6 +365,7 @@
 25	as a camp administrator i want to be able to create groups and add campers to the groups so that i can easily organize the campers 
 25	as a camp administrator i want to be able to create groups and add campers to the groups so that i can easily organize the campers'
 25	in my role as the camp administrator i want to be able to create groups and add campers to the groups so that i can easily organize the campers
+26	 As a camp administrator, I want to be able to see all my camp groups and the events scheduled for each camp group, so that I can notify counselor of what their group will be doing for the day.
 26	my job as a camp administrator is to be able to see all of my camp groups and the events scheduled for each camp group so i can notify the counselor of what their group will do for the day
 26	my job as a camp administrator is to be able to see all of my camp groups and the events scheduled for each camp group so that i can notify the counselor what their group will do for the day
 26	as a camp administrator i want to be able to see all my camp groups and the events scheduled for each camp group so i can notify the counselor what their group will do for the day
@@ -352,6 +378,7 @@
 26	as a camp administrator i want to be able to see all my camp groups and the events scheduled for each camp group so that i can notify the counselor of what their group will do for the day 
 26	as a camp administrator i want to be able to see all my camp groups and the events scheduled for each camp group so that i can notify counselor of what their group will do for the day
 26	as a camp administrator i want to be able to see all my camp groups and the events scheduled for each camp group so that i can notify counselor of what their group will do for the day 
+27	 As a camp administrator, I want to be able to schedule tasks/activities for a specific camp group, so that I can track each groups daily/weekly and monthly activities.
 27	if i am a camp administrator i would like to have a way to schedule tasksactivities for a specific camp group to track each group's daily activities
 27	as a camp administrator i want to be able to schedule tasksactivities for a specific camp group so i can track each group's dailyweekly and monthly activity
 27	as a camp administrator i want to be able to schedule tasksactivities for a specific camp group so i can track each group's daily  weekly and monthly activities
@@ -364,6 +391,7 @@
 27	as a camp administrator i want to be able to schedule tasksactivities for a specific camp group so that i can track each group's dailyweekly and monthly activities 
 27	as a camp administrator i want to be able to schedule tasksactivities for a specific camp group so that i can track each group dailyweekly and monthly activities
 27	as a camp administrator i want to be able to schedule tasksactivities for a specific camp group so that i can track each group's dailyweekly and monthly activities
+28	 As a camp administrator, I want to be able to delete tasks/activities I scheduled, so that I can keep the schedule clean of unneeded activities.
 28	the administrator of the camp wants to be able to delete tasksactivities i scheduled to keep the schedule clean of unneeded activities i want to
 28	the administrator of the camp wants to be able to delete tasksactivities i scheduled to keep the schedule clean of unnecessary activities
 28	the administrator of the camp wants to be able to delete tasksactivities i scheduled to keep the schedule clean of unneeded activities i have
@@ -378,6 +406,7 @@
 28	as camp administrator i want to be able to delete tasksactivities i scheduled so i can keep the schedule clean of unneeded activities
 28	as a camp administrator i want to be able to delete tasksactivities i scheduled so i can keep the schedule clean of unneeded activities
 28	as a camp administrator i want to be able to delete tasksactivities i scheduled so that i can keep the schedule clean of unneeded activities
+29	 As a camp administrator, I want to be able to modify tasks/events I scheduled in case there is a change, so that I can always keep the schedule up to date.
 29	i want to be able to modify tasksevents i scheduled in case of a change so i can always keep the schedule up to date
 29	i want to be able to modify tasksevents i scheduled in case there is a change so that i can always keep the schedule up to date if there is
 29	i want to be able to modify tasksevents i scheduled in case there's a change so i can always keep the schedule up to date
@@ -390,6 +419,7 @@
 29	as a camp administrator i want to be able to modify tasksevents i scheduled in case of a change so i can always keep the schedule up to date
 29	as camp administrator i want to be able to modify tasksevents i scheduled in case there is a change so i can always keep the schedule up to date
 29	as a camp administrator i want to be able to modify tasksevents i scheduled in case there is a change so i can always keep the schedule up to date
+30	 As a camp administrator, I want to be able to modify the information of enrolled campers, so that I can keep the campers information up to date.
 30	if i'm a camp administrator i want to be able to modify the information of the enrolled campers so that i can keep the campers information up to
 30	as a camp administrator i want to be able to change the information of enrolled campers so i can keep the campers information up to date
 30	as a camp administrator i want to be able to modify the information of the enrolled campers so i can keep the campers' information up to date
@@ -401,6 +431,7 @@
 30	as a camp administrator i want to be able to modify the information of enrolled campers so that i can keep the campers' information up to date 
 30	as a camp administrator i want to be able to modify the information of enrolled campers so that i can keep the campers information up to date
 30	as a camp administrator i want to be able to modify the information of enrolled campers so that i can keep the campers information up to date 
+31	 As a camp administrator, I want to be able to delete campers from the database, so that I can keep my pages free of clutter.
 31	i want to delete campers from the database so i can keep my pages free of clutter as a camp administrator
 31	i want to delete campers from the database so i can keep my pages free of clutter as an administrator
 31	i want to delete campers from the database so that i can keep my pages free of clutter as a camp administrator
@@ -416,6 +447,7 @@
 31	as a camp administrator i want to be able to delete campers from the database so that i can keep my pages clean
 31	as a camp administrator i want to be able to delete campers from the database so that i can keep my pages free
 31	as camp administrator i want to be able to delete campers from the database so i can keep my pages free of clutter
+32	 As a camp administrator, I want to be able to modify the information of added parents, so that I can keep parent's information up to date.
 32	if i want to change the information of added parents so that i can keep parent's information up to date i need a camp administrator
 32	if i want to change the information of added parents i want to be able to keep parent information up to date
 32	if i want to change the information of added parents i want to keep the information up to date
@@ -431,6 +463,7 @@
 32	as administrator i want to be able to modify the information of added parents so i can keep parent's information up to date
 32	as administrator i want to be able to modify the information of added parents so i can keep parent's information up to date 
 32	as a camp administrator i want to be able to modify the information of added parents so i can keep parent's information up to date
+33	 As a camp administrator, I want to be able to delete parents from the database, so that I can keep my pages free of unneeded clutter.
 33	the administrator of the camp wants to be able to delete parents from the database to keep my pages free of unnecessary clutter
 33	as administrator i want to be able to delete parents from the database so i can keep my pages free of unnecessary clutter i have
 33	as administrator i want to be able to delete parents from the database so i can keep my pages free from unnecessary clutter
@@ -445,6 +478,7 @@
 33	as a camp administrator i want to be able to delete parents from the database so that i can keep my pages free of unnecessary clutter
 33	as a camp administrator i want to be able to delete parents from the database so i can keep my pages free of unneeded clutter
 33	as a camp administrator i want to be able to delete parents from the database so that i can keep my pages free of unneeded clutter
+34	 As a camp administrator, I want to be able to modify a group's information, so that I can keep the groups up to date.
 34	as the camp administrator i want to be able to modify the information of a group so i can keep the groups up to date
 34	as a camp administrator i want to be able to modify the information of a group so i can keep the groups up to date
 34	as a camp administrator i want to be able to modify the information of a group so that i can keep the groups up to date
@@ -459,6 +493,7 @@
 34	as a camp administrator i want to be able to modify a group's information so that i can keep the groups up-to-date
 34	as a camp administrator i want to be able to modify a group's information so that i can keep the groups up to date
 34	as a camp administrator i want to be able to modify a group's information so that i can keep the groups up to date 
+35	 As a camp administrator, I want to be able to see only events for a specific group/groups on the event calendar, so that I can easily read the data on the calendar without too much clutter.
 35	my job is to see only events for a specific groupgroups on the event calendar so that i can easily read the data on the calendar without too much clutter i want to be
 35	my job is to see only events for a specific groupgroups on the event calendar so that i can easily read the data on the calendar without clutter
 35	my job is to see only events for a specific groupgroups on the event calendar so that i can easily read the data on the calendar without too much confusion
@@ -473,6 +508,7 @@
 35	in my role as camp administrator i want to see only events for a specific group on the event calendar so i can easily read the data on the calendar without too much clutter
 35	in my role as camp administrator i want to see only events for a specific group on the event calendar so that i can easily read the data on the calendar without too much clutter
 35	as a camp administrator i want to be able to see only events for a specific group on the event calendar so i can easily read the data on the calendar without too much clutter
+36	 As a parent, I want to be able to see which consent forms I have submitted, so that I can know what I still need to do.
 36	for my parents i want to know which forms i have submitted so that i know what to do
 36	for my parents i want to see which forms i have submitted so that i know what to do
 36	for my parents i want to see which forms i have submitted so they can know what they need to do next
@@ -484,6 +520,7 @@
 36	as a parent i want to see which consent forms i have submitted so i can know what i still need to do
 36	when i am a parent i want to see which consent forms i have submitted so i can know what i still need to do
 36	as a parent i want to see which consent forms i have submitted so that i can know what i still need to do
+37	 As a parent, I want to be able to track my child's activity and schedule at camp, so that I can have peace of mind.
 37	in my opinion i want to track my child's activities at camp so i can have peace of mind
 37	in my opinion i want to track my child's activity and schedule at camp so i can have a sense of security
 37	in my opinion i want to track my child's activity and schedule at camp so i can have a sense of peace of mind
@@ -499,6 +536,7 @@
 37	as a parent i want to be able to track my child's activity and schedule at camp so i can have peace of mind
 37	as a parent i want to be able to track my child's activities and schedule at camp so that i can have peace of mind
 37	as a parent i want to be able to track my child's activity and schedule at camp so that i can have peace of mind
+38	 As a parent, I want to be able to submit various type of forms to the camp management.
 38	parents i want to be able to submit various types of forms to the management of camps
 38	as the parent i want to be able to submit various types of forms to the management of the camps
 38	as the parent i want to be able to submit various types of forms to the management of the camp
@@ -513,6 +551,7 @@
 38	parents i want to be able to submit various type of forms to the camp management
 38	as a parent i want to be able to submit various types of forms to the camp management
 38	as a parent i want to be able to submit various type of forms to the camp management
+39	 As a parent, I want to be able to create an account, so that I can sign up my kids for camp online.
 39	how do you register your child online?
 39	how do you register your kids online?
 39	how do you register your kids for camp online as parents?
@@ -528,6 +567,7 @@
 39	how do you register your children for camp online?
 39	how do you register your child for camp online?
 39	how do you register your kids for camp online?
+40	 As a parent, I want to see which counselors are assigned to my kids, so that I can have peace of mind.
 40	what counselors are assigned to my kids?
 40	what counselors are assigned to my kids so that i can have peace of mind for my children?
 40	what counselors are assigned to my kids so that i can have peace of mind for my children
@@ -543,6 +583,7 @@
 40	what counselors are assigned to my kids so that i can have peace of mind? ''
 40	what counselors are assigned to my kids so that i can have peace of mind?
 40	what counselors are assigned to my kids so that i can have peace of mind
+41	 As a parent, I want to be able to message my child's counselors, so that I can voice my concerns or check on my child's progress.
 41	in my opinion i want to be able to message my child's counselors so i can voice my concerns or check on his progress
 41	if i want to be able to message my child's counselors so that i can voice my concerns or check on my child's progress i have to
 41	in my opinion i want to be able to message my child's counselor so that i can voice my concerns or check on my child's development
@@ -556,6 +597,7 @@
 41	in my opinion i want to be able to message my child's counselor so that i can voice my concerns or check on my child's progress
 41	in my opinion i want to be able to message my child's counselor so that i can voice my concerns or check on my child's progress 
 41	as a parent i want to be able to message my child's counselors so i can voice my concerns or check on my child's progress
+42	 As a parent, I want to be able to sign and submit consent forms online, so that I don't have to deal with my child losing a consent form.
 42	how can a parent sign consent forms online?'
 42	how do you sign and submit consent forms online?'
 42	how can a parent sign and submit online consent forms?'
@@ -571,6 +613,7 @@
 42	how do you sign and submit consent forms online so that you don't have to deal with your child losing a consent form?
 42	how do you sign and submit consent forms online so that you don't have to deal with your child losing a consent form
 42	i want to be able to sign and submit consent forms online so that i don't have to deal with my child losing a consent form
+43	 As a parent, I want to be able to see if I made all the necessary payments.
 43	in my role as parent i want to see if i've paid everything i needed to do
 43	in my role as parent i want to see if i've paid everything i need to do
 43	in my role as parent i want to see if i've paid everything i need to
@@ -586,6 +629,7 @@
 43	as a parent i want to be able to see if i made all necessary payments
 43	as a parent i want to be able to see if i made the necessary payments
 43	as a parent i want to be able to see if i made all the necessary payments
+44	 As a parent, I want to be able to share any photos the camp has taken of my child.
 44	in my opinion i want to be able share any photos that the camp took of my son or daughter
 44	in my opinion i want to be able share any photos that the camp took of my son
 44	in my opinion i want to be able share any photos that the camp took of my child ''
@@ -597,6 +641,7 @@
 44	as a parent i want to be able to share any pictures the camp has taken of my child
 44	as a parent i want to be able to share any photos that the camp has taken of my child
 44	as a parent i want to be able to share any photos the camp has taken of my child
+45	 As a parent, I want to be able to connect with the staff in case of an emergency.
 45	as the parent i want to connect with the staff in case of a situation
 45	as the parent i want to connect with the staff in case of a disaster
 45	as the parent i want to connect with the staff in case of a crisis
@@ -611,6 +656,7 @@
 45	as a parent i want to be able to contact the staff in case of an emergency
 45	as a parent i want to be able to connect with staff in case of an emergency
 45	as a parent i want to be able to connect with the staff in case of an emergency
+46	 As a parent, I want to be able to enroll my children, so that they can be admitted to camp.
 46	if i'm a parent i want to be able to enroll my children to camp
 46	as a parent i want to be able to enroll my children to camp
 46	if i'm a parent i want to be able to enroll my children so that they can go to camp
@@ -625,6 +671,7 @@
 46	as a parent i want to be able to enroll my children so that they can be admitted into camp
 46	as a parent i want to be able to enroll my children so that they can be admitted to camp '
 46	as a parent i want to be able to enroll my children so that they can be admitted to camp
+47	 As a parent, I want to be able to see and edit my enrolled children to the camp year, so that I can know who I already enrolled to camp, who is still pending admission etc.
 47	in my opinion i want to be able to see and edit my enrolled children to the camp year so i can know who i already enrolled to camp who is still awaiting admission etc
 47	in my opinion i want to be able to see and edit my enrolled children in the camp year so i can know who i already enrolled in camp who is still pending admission etc
 47	in my opinion i want to be able to see and edit my enrolled children in the camp year so i can know who i already enrolled to camp who is still pending admission etc
@@ -639,6 +686,7 @@
 47	as a parent i want to be able to see and edit my enrolled children to the camp year so that i can know who i already enrolled to camp who is still pending admission etc i
 47	as a parent i want to be able to see and edit my enrolled children to the camp year so that i can know who i already enrolled to camp who is still pending admission etc 
 47	as a parent i want to be able to see and edit my enrolled children to the camp year so that i can know who i already enrolled to camp who is still pending admission etc
+48	 As a parent, I want to be able to see a schedule of the activities my children are involved in at camp, so that I can be more informed as to what they are doing at camp.
 48	parents i want to see a schedule of the activities my children are involved in at camp so i can be more informed about what they are doing at camp
 48	if i am a parent i want to see a schedule of the activities my children are involved in at camp so that i can be more informed about what they are doing
 48	in my opinion i want to be able to see a schedule of the activities my children are involved in at camp so that i can be more informed about what they're doing
@@ -654,6 +702,7 @@
 48	as a parent i want to see a schedule of the activities my children are involved in at camp so that i can be more informed as to what they are doing at camp
 48	as a parent i want to be able to see a schedule of the activities my children are involved in at camp so that i can be more informed as to what they are doing
 48	as a parent i want to be able to see a schedule of the activities my children are involved in at camp so i can be more informed as to what they are doing at camp
+49	 As a camp worker, I want to be able to see which campers I am in charge of and where, so that I can make sure I am doing my job properly.
 49	as a camp worker i want to see which campers i am in charge of and where so i can make sure i am doing my job properly
 49	for me as a camp worker i want to see which campers i am in charge of and where so i can make sure i'm doing my job properly
 49	as a camp worker i want to be able to see which campers i am in charge of and where so i can make sure i am doing my job correctly
@@ -669,6 +718,7 @@
 49	as a camp worker i want to be able to see which campers i am in charge of and where so that i can make sure i'm doing my job properly 
 49	as a camp worker i want to be able to see which campers i am in charge of and where so that i can make sure i am doing my job properly
 49	for me as a camp worker i want to be able to see which campers i am in charge of and where so that i can make sure i am doing my job properly
+50	 As a camp worker, I would be able to submit a completion report for the tasks which was assigned to me.
 50	my job would be to submit a completion report for the tasks assigned to me as a camp employee
 50	my job would be to submit a completion report for the tasks that were assigned to me as a camp worker
 50	my job would be to submit a completion report for the tasks assigned to me as a camp worker
@@ -683,6 +733,7 @@
 50	as a camp worker i would be able to submit a completion report for the tasks assigned to me
 50	as a camp worker i would be able to submit a completion report for the tasks assigned to me 
 50	as a camp worker i would be able to submit a completion report for the tasks which were assigned
+51	 As a camp worker, I'm able to report a camper to the manager with an inappropriate behavior.
 51	my job is to report an inappropriate behavior to the manager
 51	my job is to report inappropriate behavior to the manager
 51	when i work at a camp i can report a camper with inappropriate behavior to the manager
@@ -698,6 +749,7 @@
 51	when i work at a camp i can report a camper to the manager with inappropriate behavior
 51	as a camp worker i can report a camper to the manager with inappropriate behavior
 51	as a camp worker i can report a camper to the manager with an inappropriate behavior
+52	 As a camp worker, I'm able to report a list of supplies to the manager that the camp is short of.
 52	i'm able to report to the manager a list of supplies that the camp lacks
 52	my job is to report a list of supplies that the camp lacks to the management
 52	my job is to report a list of supplies that the camp lacks to the manager
@@ -713,6 +765,7 @@
 52	as a camp worker i can report a list of supplies that the camp is short of
 52	as a camp worker i can report a list of supplies to the manager that the camp is short
 52	as a camp worker i can report a list of supplies to the manager that the camp is short of
+53	 As a camp worker, I'm able to report necessary repairs to the manager that the camp is needed of.
 53	when i work at a camp i can report necessary repairs to the manager of the camp
 53	as a camp worker i can report necessary repairs to the manager of the camp
 53	when i work at a camp i can report necessary repairs to the manager that the camp needs
@@ -728,6 +781,7 @@
 53	as a camp worker i'm able to report necessary repairs to the manager that the camp is needed
 53	as a camp worker i am able to report necessary repairs to the manager that the camp is needed of
 53	as a camp worker i'm able to report necessary repairs to the manager that the camp is needed of
+54	 As a camp worker, I want to be able to see which campers I am in charge of and where, so that I can make sure I am doing my job properly.
 54	as a camp worker i want to see which campers i am in charge of and where so i can make sure i am doing my job properly
 54	for me as a camp worker i want to see which campers i am in charge of and where so i can make sure i'm doing my job properly
 54	as a camp worker i want to be able to see which campers i am in charge of and where so i can make sure i am doing my job correctly
@@ -743,6 +797,7 @@
 54	as a camp worker i want to be able to see which campers i am in charge of and where so that i can make sure i'm doing my job properly 
 54	as a camp worker i want to be able to see which campers i am in charge of and where so that i can make sure i am doing my job properly
 54	for me as a camp worker i want to be able to see which campers i am in charge of and where so that i can make sure i am doing my job properly
+55	 As a camp counselor, I want to be able to take attendance of my assigned kids, so that I can make ensure everybody is accounted for.
 55	camp counselor i want to be able to take attendance of my assigned children so i can make sure everyone is accounted for
 55	as a camp counselor i want to be able to take care of my assigned kids so i can make sure everyone is accounted for
 55	camp counselor i want to be able to take attendance of my assigned kids so that i can make sure everyone is accounted for properly
