@@ -1,0 +1,40 @@
+use_gpu = False
+diversity_ranker = levenshtein
+do_diverse = True
+max_return_phrases = 10
+max_length = 32
+adequacy_threshold = 0.5
+fluency_threshold = 0.5
+
+----------------------------------------------------------------------------------------------------
+1) Input_phrase: The system shall refresh the display every 60 seconds.
+----------------------------------------------------------------------------------------------------
+('every 60 seconds the display shall be re-generated', 47)
+('every 60 seconds the display should be refreshed', 46)
+('every 60 seconds the display shall be refreshed', 45)
+('every 60 seconds the display is refreshed', 44)
+('the display shall be refreshed every 60 seconds', 32)
+('the system shall refresh the screen every 60 seconds', 20)
+('the system must refresh the display every 60 seconds', 18)
+('the system should refresh the display every 60 seconds', 16)
+('the system shall refresh the display every 60 seconds', 13)
+----------------------------------------------------------------------------------------------------
+2) Input_phrase: The application shall match the color of the schema set forth by Department of Homeland Security
+----------------------------------------------------------------------------------------------------
+('applicant shall conform to the color of the schema set out by the department of homeland security', 35)
+('applicant shall conform to the color of the schema set forth by the department of homeland security', 32)
+('the application shall comply with the color of the schema set forth by the department of homeland security', 25)
+('the application shall match the color of the schema established by the department of homeland security', 25)
+('the application shall conform to the color of the schema set forth by the department of homeland security', 25)
+('the application shall match the color of the schema set out by the department of homeland security', 19)
+('the application shall match the color of the schema set forth by the department of homeland security', 16)
+----------------------------------------------------------------------------------------------------
+3) Input_phrase: If projected  the data must be readable
+----------------------------------------------------------------------------------------------------
+('if projected the data must be able to read', 23)
+('if projected data must be readable', 17)
+('if projection the data must be readable', 15)
+('if it is projected the data must be readable', 13)
+('if projected the data must be readable', 13)
+
+Got the paraphrases in 14.1423 seconds

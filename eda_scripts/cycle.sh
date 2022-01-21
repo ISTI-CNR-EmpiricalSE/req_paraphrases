@@ -11,24 +11,21 @@ cd ../eda_nlp-master/data
 # best asset found = 9_0.1_0_0_0
 
 # cycle on all datasets
-for i in {23..24}
+for i in {24..24}
 do
-  for na in {5..15..5}:
+  for na in 3 9
   do
-    for sr in {1..9..4}:
+    for sr in 0 1 9
     do
-      for rd in {1..9..4}:
+      for rd in 0 1 9
       do
-        for ri in {1..9..4}:
+        for ri in 0 1 9
         do
-          for rs in {1..9..4}:
+          for rs in 0 1 9
           do
             if [[ ${sr} == 1 ]]
             then
               sr=0.1
-            elif [[ ${sr} == 5 ]]
-            then
-              sr=0.5
             elif [[ ${sr} == 9 ]]
             then
               sr=0.9
@@ -36,9 +33,6 @@ do
             if [[ ${rd} == 1 ]]
             then
               rd=0.1
-            elif [[ ${rd} == 5 ]]
-            then
-              rd=0.5
             elif [[ ${rd} == 9 ]]
             then
               rd=0.9
@@ -46,9 +40,6 @@ do
             if [[ ${ri} == 1 ]]
             then
               ri=0.1
-            elif [[ ${ri} == 5 ]]
-            then
-              ri=0.5
             elif [[ ${ri} == 9 ]]
             then
               ri=0.9
@@ -56,14 +47,11 @@ do
             if [[ ${rs} == 1 ]]
             then
               rs=0.1
-            elif [[ ${rs} == 5 ]]
-            then
-              rs=0.5
             elif [[ ${rs} == 9 ]]
             then
               rs=0.9
             fi
-            python code/augment.py --input=../../results/data_set_${i}/results_${i}_EDA_input.txt --output=../../results/data_set_${i}/EDA_outputs/results_${i}_EDA_output_9_0.1_0_0_0.txt --num_aug=${na} --alpha_sr=${sr} --alpha_rd=${rd} --alpha_ri=${ri} --alpha_rs=${rs}
+            python code/augment.py --input=../../results/data_set_${i}/results_${i}_EDA_input.txt --output=../../results/data_set_${i}/EDA_outputs_2/results_${i}_EDA_output_${na}_${sr}_${rd}_${ri}_${rs}.txt --num_aug=${na} --alpha_sr=${sr} --alpha_rd=${rd} --alpha_ri=${ri} --alpha_rs=${rs}
           done
         done
       done

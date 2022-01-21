@@ -132,7 +132,7 @@ def parrot_test_func():
         adequacy_threshold_array = [0.5]
         fluency_threshold_array = [0.5]
 
-        dir = "../results/data_set_" + str(data_set_index) + "_first"
+        dir = "../results/data_set_" + str(data_set_index)
         if not os.path.exists(dir):
             os.makedirs(dir)
 
@@ -149,7 +149,7 @@ def parrot_test_func():
 
                                     # examples
                                     # results/data_set_1_second/results_1.txt
-                                    # results/data_set_1_second/results_2.txt
+                                    # results/data_set_1_second/diversity_ranker_2.txt
                                     f = open(dir + "/" + "results_" + str(file_index) + ".txt", "w")
                                     file_index = file_index + 1
                                     f.write("use_gpu = " + str(a) + "\n")

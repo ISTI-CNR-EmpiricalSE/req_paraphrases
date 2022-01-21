@@ -154,6 +154,7 @@ Input_phrase: As a Website user, I want to access published FABS files, so that 
 ----------------------------------------------------------------------------------------------------
 Input_phrase: As an owner, I want to be sure that USAspending only send grant records to my system.
 ----------------------------------------------------------------------------------------------------
+('as a user i want to be sure that usaspending only sends grants records to my system', 19) !
 ('as a shareholder i want to be sure that usaspending only sends grant records to my system', 18)
 ('as owner i want to be sure that usaspending only sends grant records to my system', 17)
 ('as an owner i want to be sure that usaspending only sends grants records to my system', 15)

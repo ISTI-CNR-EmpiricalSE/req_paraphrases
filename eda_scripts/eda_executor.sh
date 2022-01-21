@@ -11,7 +11,7 @@ cd ../eda_nlp-master/data
 # best asset found = 9_0.1_0_0_0
 
 # cycle on all datasets
-for i in {1..24}
+for i in {1..1}
 do
-  python code/augment.py --input=../../results/data_set_${i}/results_${i}_EDA_input.txt --output=../../results/data_set_${i}/EDA_outputs/results_${i}_EDA_output_9_0.1_0_0_0.txt --num_aug=9 --alpha_sr=0.1 --alpha_rd=0 --alpha_ri=0 --alpha_rs=0
+  python code/augment.py --input=../../results/data_set_${i}/results_${i}_EDA_input.txt --output=../../results/data_set_${i}/EDA_outputs/results_${i}_EDA_output_9_0.5_0_0_0.txt --num_aug=9 --alpha_sr=0.5 --alpha_rd=0 --alpha_ri=0 --alpha_rs=0
 done

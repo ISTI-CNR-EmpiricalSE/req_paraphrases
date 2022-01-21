@@ -12,7 +12,7 @@ def eda_format_func():
     """
 
     # since the time that it takes to do it it's very small, every time it process all the files
-    for i in range(1, 25):
+    for i in range(24, 25):
         j = 0
         src_file = open("../results/data_set_" + str(i) + "/results_1.txt", "r")
         dst_file = open("../results/data_set_" + str(i) + "/results_" + str(i) + "_EDA_input.txt", "w")
@@ -25,13 +25,30 @@ def eda_format_func():
                 else:
                     # the format of the line is: number) Input_phrase: phrase
                     dst_line = str(j) + "\t" + src_line[17:]
+                # fix tab + space
+                if "\t " in dst_line:
+                    dst_line = dst_line.replace("\t ", "\t", 1)
+                # fix space instead of tab
+                if j >= 100:
+                    if dst_line[3] == " ":
+                        dst_line = dst_line.replace(" ", "\t", 1)
                 dst_file.write(dst_line)
             if src_line.startswith("("):
                 end_index = src_line.find(")")
                 dst_line = str(j) + "\t" + src_line[2:end_index-5] + "\n"
+                # fix tab + space
+                if "\t " in dst_line:
+                    dst_line = dst_line.replace("\t ", "\t", 1)
+                if dst_line[3] == " ":
+                    dst_line = dst_line.replace(" ", "\t", 1)
+                # fix space instead of tab
+                if j >= 100:
+                    if dst_line[3] == " ":
+                        dst_line = dst_line.replace(" ", "\t", 1)
                 dst_file.write(dst_line)
         src_file.close()
         dst_file.close()
+
 
 
 if __name__ == '__main__':

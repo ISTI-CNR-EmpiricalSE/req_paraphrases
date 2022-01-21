@@ -85,8 +85,10 @@ def gen_eda(train_orig, output_file, alpha_sr, alpha_ri, alpha_rs, alpha_rd, num
     # we use old_label to understand when the label changes, because we have to put j to 1 when that happens
     old_label = 0
     for i, line in enumerate(lines):
-        # I put print of the sentence to see which one had problems
+        # print(line) debug
         parts = line[:-1].split('\t')
+        # print(parts[0]) debug
+        # print(parts[1]) debug
         label = parts[0]
         if label != old_label:
             j = 0

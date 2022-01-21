@@ -3,9 +3,12 @@ import os
 import sys
 
 import spacy
-from spacy_wordnet.wordnet_annotator import WordnetAnnotator
 import nltk
+from nltk.tokenize import word_tokenize
+from nltk import map_tag
 from nltk.corpus import stopwords
+from nltk.corpus import wordnet
+from spacy_wordnet.wordnet_annotator import WordnetAnnotator
 
 
 def help_message():
@@ -17,7 +20,7 @@ def help_message():
 
 
 def wordnet_test_func():
-    """Function that replaces the non stop words found in each sentence with the synonyms found with worndet
+    """Function that replaces the non stop words found in each sentence with the all synonyms found with worndet
         Produce an output file that is put inside the directory results, inside the directory of the relative dataset
         Format of the input file: results_file_index.txt (which was the output of parrot_test_func)
         Format of the output file: results_data_set_index_wordnet.txt
@@ -36,22 +39,22 @@ def wordnet_test_func():
     end_index = None
     data_set_list = []
 
-    if len(sys.argv)-1 == 0:
+    if len(sys.argv) - 1 == 0:
         start_index = 1
-        end_index = 24
+        end_index = 25
     elif sys.argv[1] != "True" and sys.argv[1] != "False":
         help_message()
         return
     else:
         if sys.argv[1] == "True":
-            if len(sys.argv)-2 != 2:
+            if len(sys.argv) - 2 != 2:
                 help_message()
                 return
             else:
                 start_index = int(sys.argv[2])
                 end_index = int(sys.argv[3])
         elif sys.argv[1] == "False":
-            if len(sys.argv)-2 == 0:
+            if len(sys.argv) - 2 == 0:
                 help_message()
                 return
             else:
@@ -84,7 +87,6 @@ def wordnet_test_func():
 
     for data_set_index in data_set_index_list:
         tic1 = time.perf_counter()  # time for the single dataset
-        # TODO: take parrot file as input
         input_file = open("results/data_set_" + str(data_set_index) + "/results_1.txt", "r")
         output_file = open("results/data_set_" + str(data_set_index) + "/results_" + str(data_set_index) +
                            "_wordnet.txt", "w")
@@ -107,27 +109,49 @@ def wordnet_test_func():
             elif dirty_phrase.startswith("("):
                 c = c + 1
                 end_index = dirty_phrase.find(")")
-                clean_phrase = dirty_phrase[2:end_index-5]
+                clean_phrase = dirty_phrase[2:end_index - 5]
             else:
                 continue
 
-            # for each input phrase: 5 output phrases maximum
-            phrase1 = clean_phrase
-            phrase2 = clean_phrase
-            phrase3 = clean_phrase
-            phrase4 = clean_phrase
-            phrase5 = clean_phrase
-
             output_file.write(str(j) + "." + str(c) + ") " + "Input phrase: " + clean_phrase + "\n")
-            doc = nlp(clean_phrase)
+            tokens = word_tokenize(clean_phrase)
+            print(tokens)
+            tagged_tokens = nltk.pos_tag(tokens)
+            print(tagged_tokens)
+            simplified_tagged_tokens = [(word, map_tag('en-ptb', 'universal', tag)) for word, tag in tagged_tokens]
+            print(simplified_tagged_tokens)
 
-            for token in doc:
+            phrases_list = []
+            for s_tagged_token in simplified_tagged_tokens:
                 # replace synonym only of words that are not stopwords
-                if token.text.lower() not in stpwrd:
-                    # wordnet object link spacy token with nltk wordnet interface by giving access to synonyms
-                    syns_dirty = token._.wordnet.synsets()
+                token_text = s_tagged_token[0]
+                print(token_text)
+                token_pos = s_tagged_token[1]
+                print(token_pos)
 
-                    syns_clean = []
+                if (token_text.lower() not in stpwrd) and \
+                    (token_pos == "NOUN" or token_pos == "VERB" or token_pos == "ADJ" or token_pos == "ADV"):
+                    # wordnet object link spacy token with nltk wordnet interface by giving access to synonyms
+
+                    if token_pos == "NOUN":
+                        syn_pos = 'n'
+                    elif token_pos == "VERB":
+                        syn_pos = 'v'
+                    elif token_pos == "ADJ":
+                        syn_pos = 'a'
+                    elif token_pos == "ADV":
+                        syn_pos = 'r'
+
+                    print(syn_pos)
+
+                    # we want that the synonym has the same pos that the one of the original
+                    # syns_dirty = wordnet.synsets(token_text, pos=syn_pos)
+                    syns_dirty = wordnet.synsets(token_text)
+
+                    print(syns_dirty)
+                    print("\n")
+
+                    syns_clean =[]
 
                     for i in syns_dirty:
                         # format: synonym.stuff
@@ -143,60 +167,60 @@ def wordnet_test_func():
                         # synonym + 1 different from token
                         # and if absent from the final list
                         found = False
-                        if synonym == token.text.lower():
+                        if synonym == token_text.lower():
                             found = True
-                        if synonym[:len(synonym)-1] == token.text.lower():
+                        if synonym[:len(synonym) - 1] == token_text.lower():
                             found = True
-                        if synonym == token.text.lower()[:len(token.text)-1]:
+                        if synonym == token_text.lower()[:len(token_text) - 1]:
                             found = True
                         if synonym in syns_clean:
                             found = True
                         if found is False:
                             syns_clean.append(synonym)
 
-                    print(token.text)
+                    print(token_text)
                     print(syns_clean)
                     print("\n")
+                    # it returns as many phrases as many synonyms have the word that has more synonyms in the phrase
+                    # until it finds synonyms it keeps substituting them
+                    phrases_list_tmp = []
+                    phrases_list_iterator = []
+                    for phrase_iter in phrases_list:
+                        phrases_list_iterator.append(phrase_iter)
+                    for old_phrase in phrases_list_iterator:
+                        if len(syns_clean) > 0:
+                            old_phrase_tmp = old_phrase
+                            new_phrase = old_phrase_tmp.replace(token_text, syns_clean[0])
+                            phrases_list_tmp.append(new_phrase)
+                            phrases_list.remove(old_phrase_tmp)
+                            syns_clean.pop(0)
+                    if phrases_list_tmp:
+                        if len(phrases_list) == 0:
+                            phrases_list = phrases_list_tmp
+                        else:
+                            phrases_list = phrases_list + phrases_list_tmp
+                    while syns_clean:
+                        phrase = clean_phrase.replace(token_text, syns_clean[0])
+                        phrases_list.append(phrase)
+                        syns_clean.pop(0)
 
-                    # it returns 5 phrases that at the beginning are identical to the original
-                    # until it finds (maximum 5) synonyms in the list it keeps substituting it
-                    # when pop occurs the list change and element that is index 1 will become index 0
-                    if syns_clean:
-                        phrase1 = phrase1.replace(token.text, syns_clean[0])
-                        syns_clean.pop(0)
-                    if syns_clean:
-                        phrase2 = phrase2.replace(token.text, syns_clean[0])
-                        syns_clean.pop(0)
-                    if syns_clean:
-                        phrase3 = phrase3.replace(token.text, syns_clean[0])
-                        syns_clean.pop(0)
-                    if syns_clean:
-                        phrase4 = phrase4.replace(token.text, syns_clean[0])
-                        syns_clean.pop(0)
-                    if syns_clean:
-                        phrase5 = phrase5.replace(token.text, syns_clean[0])
-                        syns_clean.pop(0)
+            for phrase in phrases_list:
+                output_file.write(phrase)
+                output_file.write("\n")
 
-            output_file.write(phrase1 + "\n")
-            output_file.write(phrase2 + "\n")
-            output_file.write(phrase3 + "\n")
-            output_file.write(phrase4 + "\n")
-            output_file.write(phrase5 + "\n")
-            output_file.write("\n")
+
 
         toc1 = time.perf_counter()
-        output_file.write(f"Time for the single dataset = {toc1 - tic1:0.4f} seconds = {(toc1 - tic1)/60:0.4f} "
-                          f"minutes = {((toc1 - tic1)/60/60):0.4f} hours" + "\n")
+        output_file.write("\n")
+        output_file.write(f"Time for the single dataset = {toc1 - tic1:0.4f} seconds = {(toc1 - tic1) / 60:0.4f} "
+                          f"minutes = {((toc1 - tic1) / 60 / 60):0.4f} hours" + "\n")
 
     toc0 = time.perf_counter()
     output_file.write("\n")
     # if you execute the script only on one data set total time will be equal to single time
-    output_file.write(f"Time for all datasets = {toc0 - tic0:0.4f} seconds = {(toc0 - tic0)/60:0.4f} "
-                      f"minutes = {((toc0 - tic0)/60/60):0.4f} hours")
+    output_file.write(f"Time for all datasets = {toc0 - tic0:0.4f} seconds = {(toc0 - tic0) / 60:0.4f} "
+                      f"minutes = {((toc0 - tic0) / 60 / 60):0.4f} hours")
 
 
 if __name__ == '__main__':
     wordnet_test_func()
-
-
-
