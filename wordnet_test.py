@@ -68,7 +68,7 @@ def wordnet_test_func():
     nlp.add_pipe(WordnetAnnotator(nlp.lang), after='tagger')
 
     stpwrd = nltk.corpus.stopwords.words('english')
-    new_stopwords = ["an", "ss", "I", "to", "in", "so", "that", "and"]
+    new_stopwords = ["an", "ss", "I", "to", "in", "so", "that", "and", "-", "_", ",", ";", ".", ":", "?", "!"]
     stpwrd.extend(new_stopwords)
 
     data_set_index_list = []
@@ -130,7 +130,8 @@ def wordnet_test_func():
                 print(token_pos)
 
                 if (token_text.lower() not in stpwrd) and \
-                    (token_pos == "NOUN" or token_pos == "VERB" or token_pos == "ADJ" or token_pos == "ADV"):
+                    (token_pos == "NOUN" or token_pos == "VERB" or token_pos == "ADJ" or token_pos == "ADV") and \
+                        not token_text.isnumeric():
                     # wordnet object link spacy token with nltk wordnet interface by giving access to synonyms
 
                     if token_pos == "NOUN":

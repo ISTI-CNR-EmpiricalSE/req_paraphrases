@@ -2,89 +2,113 @@ import nltk
 import spacy
 from nltk.corpus import wordnet
 from spacy_wordnet.wordnet_annotator import WordnetAnnotator
-from nltk.corpus import wordnet_ic
+
+stpwrd = nltk.corpus.stopwords.words('english')
+new_stopwords = ["an", "ss", "I", "to", "in", "so", "that", "and", "-", "_", ",", ";", ".", ":", "?", "!", "1", "2", "3", "4", "5", "6", "7", "8", "9", "0" ]
+stpwrd.extend(new_stopwords)
 
 nlp = spacy.load('en')
 nlp.add_pipe(WordnetAnnotator(nlp.lang), after='tagger')
 
-tokens = nlp("user")
-brown_ic = wordnet_ic.ic('ic-brown.dat') # how do you create a context file from your file?
-# token_slap = nlp("drug_user")
-# hit = wordnet.synset('hit.v.01')
-# slap = wordnet.synset('slap.v.01')
-for token in tokens:
-    syns = token._.wordnet.synsets()
-# for token in token_slap:
-    # slap = token._.wordnet.synsets()
-    print("Synonyms of the token: " + token.text)
-    token_syn_format = syns[0]
-    syns.pop(0)
-    print(syns)
-    print("\n")
-    # print(slap)
-    max = 0
-    best_syn = None
-    for syn in syns:
-        print("Comparing " + str(token_syn_format) + " with " + str(syn))
-        similarity = syn.res_similarity(token_syn_format, brown_ic)
-        print(similarity)
-        if similarity > max:
-            max = similarity
-            best_syn = syn
-        print("\n")
+phrase = "As a Data user, I want to have the 12-19-2017 deletions processed."
+tokens = nlp(phrase)
+# everything is a token apart from space
 
-print(best_syn)
-print(max)
+synset_dict = {}
+for token in tokens:
+    if token.text.lower() not in stpwrd and not token.text.isnumeric():
+        synset = wordnet.synsets(token.text)
+        synset_dict[token.text] = synset
+
+# print(synset_dict)
+
+# clean synset
+for token in tokens:
+    done = False
+    if token.text.lower() not in stpwrd and not token.text.isnumeric():
+        tmp = []
+        for copy in synset_dict[token.text]:
+            tmp.append(copy)
+        for syn in tmp:
+            syn_name = syn.name()
+            index = syn_name.find(".")
+            synonym = syn_name[:index]
+            # remove synonym equal to original or too similar (plural, singular, past participle ...)
+            if synonym == token.text.lower() or synonym[:len(synonym)-1] == token.text.lower() or synonym == token.text.lower()[:len(token.text)-1] or \
+                    synonym[:len(synonym)-2] == token.text.lower() or synonym == token.text.lower()[:len(token.text)-2]:
+                synset_dict[token.text].remove(syn)
+                # put the equal one in front cause you'll need this to compare, but do this just once
+                if synonym == token.text.lower() and not done:
+                    done = True
+                    synset_dict[token.text].insert(0, syn)
+
+# print(synset_dict)
+best_syn_list = []
+
+for token in tokens:
+    if token.text.lower() not in stpwrd and not token.text.isnumeric():
+        synonyms = synset_dict[token.text]
+        scoring_dict = {}
+        if synonyms:
+            synonyms.pop(0)
+        for syn in synonyms:
+            scoring = 0
+            for compare_token in tokens:
+                if compare_token.text != token.text and compare_token.text.lower() not in stpwrd and not compare_token.text.isnumeric():
+                    word_synset = synset_dict[compare_token.text]
+                    if word_synset:
+                        token_syn_format = word_synset[0]
+                        sim = syn.wup_similarity(token_syn_format)
+                        if sim:
+                            scoring = scoring + sim
+            scoring_dict[syn] = scoring
+        # save the synonym with higher score
+        max = 0
+        for syn in scoring_dict.keys():
+            if scoring_dict[syn] > max:
+                max = scoring_dict[syn]
+                best_syn = syn
+        if max != 0:
+            print(best_syn)
+            best_syn_list.append(best_syn)
+            best_syn_name = best_syn.name()
+            index = best_syn_name.find(".")
+            best_syn_name_final = best_syn_name[:index]
+            phrase = phrase.replace(token.text, best_syn_name_final)
+
+print(phrase)
+
+
+
+
+
 
 
 '''
 path similarity
-
-Synonyms of the token: user
-[Synset('user.n.01'), Synset('exploiter.n.01'), Synset('drug_user.n.01')]
-
-
-Comparing Synset('user.n.01') with Synset('user.n.01')
-1.0
-
-
-Comparing Synset('user.n.01') with Synset('exploiter.n.01')
-0.16666666666666666
-
-
-Comparing Synset('user.n.01') with Synset('drug_user.n.01')
-0.3333333333333333
+Synset('datum.n.01')
+Synset('drug_user.n.01')
+Synset('desire.v.01')
+Synset('march.v.01')
+As a datum drug_user, I desire to have the 12-19-2017 deletions march.
 '''
 
 '''
 lch_similarity
-
-Synonyms of the token: user
-[Synset('user.n.01'), Synset('exploiter.n.01'), Synset('drug_user.n.01')]
-
-
-Comparing Synset('user.n.01') with Synset('user.n.01')
-3.6375861597263857
-
-
-Comparing Synset('user.n.01') with Synset('exploiter.n.01')
-1.845826690498331
-
-
-Comparing Synset('user.n.01') with Synset('drug_user.n.01')
-2.538973871058276
+Traceback (most recent call last):
+  File "/home/isabella/PycharmProjects/req_paraphrases/best_synonym.py", line 61, in <module>
+    sim = syn.lch_similarity(token_syn_format)
+  File "/home/isabella/anaconda3/envs/req_paraphrases/lib/python3.9/site-packages/nltk/corpus/reader/wordnet.py", line 835, in lch_similarity
+    raise WordNetError(
+nltk.corpus.reader.wordnet.WordNetError: Computing the lch similarity requires Synset('datum.n.01') and Synset('want.v.02') to have the same part of speech.
+non posso confrontare cose che hanno diverso pos ?????????????????????????????
 '''
 
 '''
 wup_similarity
-Synonyms of the token: user
-[Synset('exploiter.n.01'), Synset('drug_user.n.01')]
-
-
-Comparing Synset('user.n.01') with Synset('exploiter.n.01')
-0.631578947368421
-
-
-Comparing Synset('user.n.01') with Synset('drug_user.n.01')
-0.75
+Synset('datum.n.01')
+Synset('drug_user.n.01')
+Synset('desire.v.01')
+Synset('march.v.01')
+As a datum drug_user, I desire to have the 12-19-2017 deletions march.
 '''
