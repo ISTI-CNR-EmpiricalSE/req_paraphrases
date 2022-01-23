@@ -37,31 +37,41 @@ for token in tokens:
             if synonym == token.text.lower() or synonym[:len(synonym)-1] == token.text.lower() or synonym == token.text.lower()[:len(token.text)-1] or \
                     synonym[:len(synonym)-2] == token.text.lower() or synonym == token.text.lower()[:len(token.text)-2]:
                 synset_dict[token.text].remove(syn)
-                # put the equal one in front cause you'll need this to compare, but do this just once
+                # put the equal one in front, but do this just once
                 if synonym == token.text.lower() and not done:
                     done = True
                     synset_dict[token.text].insert(0, syn)
 
-# print(synset_dict)
+print(synset_dict)
 best_syn_list = []
 
 for token in tokens:
     if token.text.lower() not in stpwrd and not token.text.isnumeric():
-        synonyms = synset_dict[token.text]
+        synsets = synset_dict[token.text]
+        # for each token i have a dictionary to save the scoring of each of his synonym
+        # scoring is similarity calculated summing single similarities of the synonym
+        # with all (not his original) the synsets of other words
         scoring_dict = {}
-        if synonyms:
-            synonyms.pop(0)
-        for syn in synonyms:
+        for synset in synsets:
             scoring = 0
             for compare_token in tokens:
+                # i'm not comparing a synonym with the original word of him
+                # because often in the synonyms there is also the original word, it is obvious that it would win
                 if compare_token.text != token.text and compare_token.text.lower() not in stpwrd and not compare_token.text.isnumeric():
-                    word_synset = synset_dict[compare_token.text]
-                    if word_synset:
-                        token_syn_format = word_synset[0]
-                        sim = syn.wup_similarity(token_syn_format)
-                        if sim:
-                            scoring = scoring + sim
-            scoring_dict[syn] = scoring
+                    compare_synsets = synset_dict[compare_token.text]
+                    if compare_synsets:
+                        for compare_synset in compare_synsets:
+                            print(synset)
+                            print(compare_token.text)
+                            print(compare_synset)
+                            # with lch you need to have synset pos = compare_synset pos
+                            sim = synset.lch_similarity(compare_synset)
+                            print(sim)
+                            # it could not exists a path that connects, if you put simulate root true it always exists
+                            if sim:
+                                scoring = scoring + sim
+            scoring_dict[synset] = scoring
+        print(scoring_dict)
         # save the synonym with higher score
         max = 0
         for syn in scoring_dict.keys():
@@ -79,22 +89,22 @@ for token in tokens:
 print(phrase)
 
 
-
-
-
-
+'''
+putting (if exists FIX THIS) the equal to original (eto) synonym in front
+comparing all synonyms of a word (ALSO the eto) with all synonyms of all other words (not his original word)
+'''
 
 '''
 path similarity
-Synset('datum.n.01')
-Synset('drug_user.n.01')
-Synset('desire.v.01')
-Synset('march.v.01')
-As a datum drug_user, I desire to have the 12-19-2017 deletions march.
+simulate root = true
+As a data user, I desire to have the 12-19-2017 omission march.
+simulate root = false
+As a data user, I need to have the 12-19-2017 omission processed.
 '''
 
 '''
 lch_similarity
+simulate root = true
 Traceback (most recent call last):
   File "/home/isabella/PycharmProjects/req_paraphrases/best_synonym.py", line 61, in <module>
     sim = syn.lch_similarity(token_syn_format)
@@ -102,13 +112,20 @@ Traceback (most recent call last):
     raise WordNetError(
 nltk.corpus.reader.wordnet.WordNetError: Computing the lch similarity requires Synset('datum.n.01') and Synset('want.v.02') to have the same part of speech.
 non posso confrontare cose che hanno diverso pos ?????????????????????????????
+simulate root = false
+uguale
 '''
 
 '''
-wup_similarity
-Synset('datum.n.01')
-Synset('drug_user.n.01')
-Synset('desire.v.01')
-Synset('march.v.01')
-As a datum drug_user, I desire to have the 12-19-2017 deletions march.
+wup similarity
+simulate root = true
+As a data user, I desire to have the 12-19-2017 omission march.
+simulate root = false
+As a data user, I need to have the 12-19-2017 omission processed.
+'''
+
+'''
+putting (if exists FIX THIS) the equal to original (eto) synonym in front
+comparing all synonyms of a word (NOT the eto) with all synonyms of all other words (not his original word)
+drug user wins on exploiter -> compare also the eto (if the original was better just don't change it)
 '''
