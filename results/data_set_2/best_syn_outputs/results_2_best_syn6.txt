@@ -1,0 +1,964 @@
+data_set_number:2
+similarity:path
+simulate_root:False
+
+1.0) Input phrase: As a Public User, I want to Search for Information, so that I can obtain publicly available information concerning properties, County services, processes and other general information.
+As a populace User, I need to search for Information, so that I can obtain publicly available data concerning properties, county services, procedure and other general information.
+1.1) Input phrase: as a public user i want to search for information so that i can obtain publicly available information about properties county services processes and other general information about the property
+as a populace user i need to search for data so that i can obtain publicly available data about property county military_service procedure and other general data about the property
+1.2) Input phrase: as a public user i want to search for information so that i can obtain publicly available information regarding properties county services processes and other general information about the property
+as a populace user i need to search for data so that i can obtain publicly available data regarding property county military_service procedure and other general data about the property
+1.3) Input phrase: as a public user i want to search for information so i can obtain publicly available information about properties county services processes and other general information
+as a populace user i need to search for data so i can obtain publicly available data about property county military_service procedure and other general information
+1.4) Input phrase: as a public user i want to search for information so that i can obtain publicly available information about properties county services processes and other general information ''
+as a populace user i need to search for data so that i can obtain publicly available data about property county military_service procedure and other general data ''
+1.5) Input phrase: as a public user i want to search for information so i can obtain publicly available information regarding properties county services processes and other general information
+as a populace user i need to search for data so i can obtain publicly available data regarding property county military_service procedure and other general information
+1.6) Input phrase: as a public user i want to search for information so that i can obtain publicly available information about properties county services processes and other general information
+as a populace user i need to search for data so that i can obtain publicly available data about property county military_service procedure and other general information
+1.7) Input phrase: as a public user i want to search for information so that i can obtain publicly available information regarding properties county services processes and other general information ''
+as a populace user i need to search for data so that i can obtain publicly available data regarding property county military_service procedure and other general data ''
+1.8) Input phrase: as a public user i want to search for information so that i can obtain publicly available information regarding properties county services processes and other general information
+as a populace user i need to search for data so that i can obtain publicly available data regarding property county military_service procedure and other general information
+1.9) Input phrase: as a public user i want to search for information so that i can obtain publicly available information concerning properties county services processes and other general information ''
+as a populace user i need to search for data so that i can obtain publicly available data concerning property county military_service procedure and other general data ''
+1.10) Input phrase: as a public user i want to search for information so that i can obtain publicly available information concerning properties county services processes and other general information
+as a populace user i need to search for data so that i can obtain publicly available data concerning property county military_service procedure and other general information
+2.0) Input phrase: As a ProspectiveApplicant, I want to research requirements and to select a service, so that I can find the relevant service and/or application type to initiate via the online portal.
+As a ProspectiveApplicant, I need to research necessity and to select a service, so that I can discovery the relevant service and/or application character to novice via the online portal.
+2.1) Input phrase: as the prospective applicant i want to research requirements and select a service so i can find the appropriate service andor application type to initiate via the online portal
+as the prospective applicant i need to research necessity and select a service so i can discovery the appropriate service andor application character to novice via the online portal
+2.2) Input phrase: as the prospective applicant i want to research requirements and select a service so i can find the relevant service andor application type to initiate through the online portal
+as the prospective applicant i need to research necessity and select a service so i can discovery the relevant service andor application character to novice through the online portal
+2.3) Input phrase: as the prospective applicant i want to research requirements and select a service so i can find the relevant service andor application type to start via the online portal
+as the prospective applicant i need to research necessity and select a service so i can discovery the relevant service andor application character to beginning via the online portal
+2.4) Input phrase: as the prospective applicant i want to research requirements and choose a service so i can find the relevant service andor application type to initiate via the online portal
+as the prospective applicant i need to research necessity and choose a service so i can discovery the relevant service andor application character to novice via the online portal
+2.5) Input phrase: as the prospective applicant i want to research requirements and select a service so i can find the relevant service andor application type to initiate via the online portal i
+as the prospective applicant i need to research necessity and select a service so i can discovery the relevant service andor application character to novice via the online portal i
+2.6) Input phrase: as the prospective applicant i want to research requirements and select a service so i can find the relevant service andor application type to initiate via the online portal 
+as the prospective applicant i need to research necessity and select a service so i can discovery the relevant service andor application character to novice via the online portal 
+2.7) Input phrase: as the prospective applicant i want to research requirements and select a service so i can find the relevant service andor application type to initiate via the online portal
+as the prospective applicant i need to research necessity and select a service so i can discovery the relevant service andor application character to novice via the online portal
+2.8) Input phrase: as a prospective applicant i want to research requirements and select a service so i can find the relevant service andor application type to initiate via the online portal
+as a prospective applicant i need to research necessity and select a service so i can discovery the relevant service andor application character to novice via the online portal
+2.9) Input phrase: as a prospective applicant i want to research requirements and to select a service so i can find the relevant service andor application type to initiate via the online portal
+as a prospective applicant i need to research necessity and to select a service so i can discovery the relevant service andor application character to novice via the online portal
+2.10) Input phrase: as a prospective applicant i want to research requirements and select a service so that i can find the relevant service andor application type to initiate via the online portal
+as a prospective applicant i need to research necessity and select a service so that i can discovery the relevant service andor application character to novice via the online portal
+3.0) Input phrase: As an Applicant, I want to Request PreApplication Assistance, so that I can receive a response to a request for a meeting or information that is a result of the preapplication assistance.
+As an Applicant, I need to request PreApplication Assistance, so that I can meet a answer to a request for a meeting or information that is a solution of the preapplication assistance.
+3.1) Input phrase: i want to request preapplication assistance so that i can receive a response to a request for a meeting or information that is a result of the preapplication
+i need to request preapplication aid so that i can meet a answer to a request for a meeting or information that is a solution of the preapplication
+3.2) Input phrase: i want to request preapplication assistance so that i can receive a response to a request for a meeting or information that is a result of the preapplication support
+i need to request preapplication aid so that i can meet a answer to a request for a meeting or information that is a solution of the preapplication support
+3.3) Input phrase: as an applicant i want to request pre-application assistance so that i can receive a response to a request for a meeting or information that is a result of the pre-
+as an applicant i need to request pre-application aid so that i can meet a answer to a request for a meeting or information that is a solution of the pre-
+3.4) Input phrase: i want to request preapplication assistance so that i can receive a response to a request for meetings or information that is a result of the preapplication assistance
+i need to request preapplication aid so that i can meet a answer to a request for confluence or information that is a solution of the preapplication assistance
+3.5) Input phrase: i want to request preapplication assistance so that i can receive a response to a request for meeting or information that is a result of the preapplication assistance
+i need to request preapplication aid so that i can meet a answer to a request for meeting or information that is a solution of the preapplication assistance
+3.6) Input phrase: i want to request preapplication assistance so that i can receive a response to my request for a meeting or information that is a result of the preapplication assistance
+i need to request preapplication aid so that i can meet a answer to my request for a meeting or information that is a solution of the preapplication assistance
+3.7) Input phrase: i want to request preapplication assistance so that i can receive a response to a request for a meeting or information that is a result of the preapplication assistance
+i need to request preapplication aid so that i can meet a answer to a request for a meeting or information that is a solution of the preapplication assistance
+3.8) Input phrase: as an applicant i want to request pre application assistance so that i can receive a response to a request for a meeting or information that is a result of the pre application assistance
+as an applicant i need to request pre application aid so that i can meet a answer to a request for a meeting or information that is a solution of the pre application assistance
+3.9) Input phrase: as an applicant i want to request preapplication assistance so that i can receive a response to a request for a meeting or information that is a result of the preapplication assistance
+as an applicant i need to request preapplication aid so that i can meet a answer to a request for a meeting or information that is a solution of the preapplication assistance
+4.0) Input phrase: As a Customer, I want to Create a Customer Portal User Account, so that I can log on to the Customer Portal and perform transactions that first require user authentication.
+As a Customer, I need to make a customer portal user Account, so that I can log on to the customer portal and do minutes that beginning want user authentication.
+4.1) Input phrase: i would like to create a customer portal user account so i can log into the customer portal and perform transactions that require user authentication first i
+i would like to make a customer portal user account so i can log into the customer portal and do minutes that require user authentication beginning i
+4.2) Input phrase: i would like to create a customer portal user account so i can log into the customer portal and perform transactions that require user authentication first
+i would like to make a customer portal user account so i can log into the customer portal and do minutes that require user authentication first
+4.3) Input phrase: i would like to create a customer portal user account so that i can log on to the customer portal and perform transactions that require user authentication first i
+i would like to make a customer portal user account so that i can log on to the customer portal and do minutes that require user authentication beginning i
+4.4) Input phrase: i would like to create a customer portal user account so that i can log on to the customer portal and perform transactions that require user authentication before
+i would like to make a customer portal user history so that i can log on to the customer portal and do minutes that require user authentication before
+4.5) Input phrase: i would like to create a customer portal user account so that i can log on to the customer portal and perform transactions that require user authentication first
+i would like to make a customer portal user account so that i can log on to the customer portal and do minutes that require user authentication first
+4.6) Input phrase: i would like to create a customer portal user account so that i can log into the customer portal and perform transactions that require user authentication
+i would like to make a customer portal user history so that i can log into the customer portal and do minutes that require user authentication
+4.7) Input phrase: i would like to create a customer portal user account so that i can log on to the customer portal and perform transactions that require user authentication i
+i would like to make a customer portal user history so that i can log on to the customer portal and do minutes that require user authentication i
+4.8) Input phrase: i would like to create a customer portal user account so that i can log on to the customer portal and perform transactions that require user authentication
+i would like to make a customer portal user history so that i can log on to the customer portal and do minutes that require user authentication
+5.0) Input phrase: As an Applicant, I want to Submit Application, so that I can provide my information, plans and/or documents to initiate a transaction with the County.
+As an Applicant, I need to present Application, so that I can provide my information, design and/or text_file to novice a transaction with the County.
+5.1) Input phrase: as a applicant i want to submit an application so that i can provide my information plans andor documents to initiate a transaction with the county i
+as a applicant i need to present an application so that i can provide my information design andor text_file to novice a transaction with the county i
+5.2) Input phrase: as a applicant i want to submit an application so that i can provide my information plans andor documents to initiate a transaction with the county
+as a applicant i need to present an application so that i can provide my information design andor text_file to novice a transaction with the county
+5.3) Input phrase: as an applicant i want to submit an application so that i can provide my information plans andor documents to initiate a transaction with the county i
+as an applicant i need to present an application so that i can provide my information design andor text_file to novice a transaction with the county i
+5.4) Input phrase: as a applicant i want to submit an application so that i can provide my information plans andor documents to initiate a transaction with the county 
+as a applicant i need to present an application so that i can provide my information design andor text_file to novice a transaction with the county 
+5.5) Input phrase: as an applicant i want to submit an application so that i can provide my information plans andor documents to initiate a transaction with the county
+as an applicant i need to present an application so that i can provide my information design andor text_file to novice a transaction with the county
+6.0) Input phrase: As an Applicant, I want to Submit Supporting Documentation, so that I can satisfy documentation requirements for my application.
+As an Applicant, I need to present support Documentation, so that I can meet documentation necessity for my application.
+6.1) Input phrase: as an applicant i want to submit supporting documentation so that i can satisfy the documentation requirements for my application i have
+as an applicant i need to present support documentation so that i can meet the documentation necessity for my application i have
+6.2) Input phrase: as an applicant i want to submit supporting documentation so i can satisfy the documentation requirements for my application
+as an applicant i need to present support documentation so i can meet the documentation necessity for my application
+6.3) Input phrase: as an applicant i want to submit supporting documentation so that i can satisfy the documentation requirements for my application form
+as an applicant i need to present support documentation so that i can meet the documentation necessity for my application form
+6.4) Input phrase: as an applicant i want to submit supporting documentation so that i can meet documentation requirements for my application
+as an applicant i need to present support documentation so that i can meet documentation necessity for my application
+6.5) Input phrase: as an applicant i want to submit supporting documentation so that i can satisfy the documentation requirements for my application i
+as an applicant i need to present support documentation so that i can meet the documentation necessity for my application i
+6.6) Input phrase: as an applicant i want to submit supporting documentation so that i can satisfy the documentation requirements for my application
+as an applicant i need to present support documentation so that i can meet the documentation necessity for my application
+6.7) Input phrase: as an applicant i want to submit supporting documentation so that i can satisfy documentation requirements for my application
+as an applicant i need to present support documentation so that i can meet documentation necessity for my application
+7.0) Input phrase: As an Applicant, I want to Pay Fee, so that I can satisfy outstanding charge associated with the service requested or received from the County.
+As an Applicant, I need to wage Fee, so that I can meet outstanding care consort with the service requested or welcome from the County.
+7.1) Input phrase: as a solicitant i want to pay a fee so that i can pay the outstanding charge associated with the service requested or received from the county
+as a solicitant i wish to wage a fee so that i can wage the outstanding care consort with the service requested or welcome from the county
+7.2) Input phrase: as a applicant i want to pay a fee so that i can pay the outstanding charge associated with the service requested or received from the county
+as a applicant i need to wage a fee so that i can wage the outstanding care consort with the service requested or welcome from the county
+7.3) Input phrase: as a applicant i want to pay a fee so that i can pay the outstanding charge associated with the service requested or received from the county 
+as a applicant i need to wage a fee so that i can wage the outstanding care consort with the service requested or welcome from the county 
+7.4) Input phrase: as an applicant i want to pay a fee so that i can pay the outstanding charge associated with the service requested or received from the county
+as an applicant i need to wage a fee so that i can wage the outstanding care consort with the service requested or welcome from the county
+7.5) Input phrase: as a applicant i want to pay a fee so that i can satisfy the outstanding charge associated with the service requested or received from the county
+as a applicant i need to wage a fee so that i can meet the outstanding care consort with the service requested or welcome from the county
+7.6) Input phrase: as an applicant i want to pay a fee so that i can satisfy the outstanding charge associated with the service requested or received from the county
+as an applicant i need to wage a fee so that i can meet the outstanding care consort with the service requested or welcome from the county
+7.7) Input phrase: as a applicant i want to pay fees so that i can satisfy the outstanding charge associated with the service requested or received from the county
+as a applicant i need to wage fees so that i can meet the outstanding care consort with the service requested or welcome from the county
+8.0) Input phrase: As an Applicant, I want to Check the Status of a transaction, so that I can understand where the provisioning of my service is in the process, such as information related to service levels, fees, plan review, permit, or inspection results.
+As an Applicant, I lack to arrest the condition of a transaction, so that I can understand where the provisioning of my service is in the process, such as information related to service levels, fees, plan review, permit, or inspection results.
+8.1) Input phrase: if i want to check the status of a transaction i want to understand where the provisioning of my service is in the process such as information related to service levels fees plan review permit or inspection results
+if i lack to arrest the condition of a transaction i lack to understand where the provisioning of my service is in the process such as information related to service degree fees plan inspection license or inspection results
+8.2) Input phrase: as a applicant i want to check the status of a transaction so i can understand where the provisioning of my service is in the process such as information related to service levels fees plan review permit or inspection results
+as a applicant i lack to arrest the condition of a transaction so i can understand where the provisioning of my service is in the process such as information related to service degree fees plan inspection license or inspection results
+8.3) Input phrase: as an applicant i want to check the status of a transaction so i can understand where the provisioning of my service is in the process such as information related to service levels fees plan review permit or inspection results
+as an applicant i lack to arrest the condition of a transaction so i can understand where the provisioning of my service is in the process such as information related to service degree fees plan inspection license or inspection results
+8.4) Input phrase: as an applicant i want to check the status of a transaction so that i can understand where the provision of my service is in the process such as information related to service levels fees plan review permit or inspection results
+as an applicant i lack to arrest the condition of a transaction so that i can understand where the planning of my service is in the process such as information related to service degree fees plan inspection license or inspection results
+8.5) Input phrase: as a applicant i want to check the status of a transaction so that i can understand where the provisioning of my service is in the process such as information related to service levels fees plan review permit or inspection result
+as a applicant i lack to arrest the condition of a transaction so that i can understand where the provisioning of my service is in the process such as information related to service degree fees plan inspection license or inspection result
+8.6) Input phrase: as a applicant i want to check the status of a transaction so that i can understand where the provisioning of my service is in the process such as information related to service levels fees plan review permit or inspection results
+as a applicant i lack to arrest the condition of a transaction so that i can understand where the provisioning of my service is in the process such as information related to service degree fees plan inspection license or inspection results
+8.7) Input phrase: as an applicant i want to check the status of a transaction so that i can understand where the provisioning of my service is in the process such as information related to service levels fees plan review permit or inspection results 
+as an applicant i lack to arrest the condition of a transaction so that i can understand where the provisioning of my service is in the process such as information related to service degree fees plan inspection license or inspection solution 
+8.8) Input phrase: as an applicant i want to check the status of a transaction so that i can understand where the provisioning of my service is in the process such as information related to service levels fees plan review permit or inspection results
+as an applicant i lack to arrest the condition of a transaction so that i can understand where the provisioning of my service is in the process such as information related to service degree fees plan inspection license or inspection results
+9.0) Input phrase: As an Applicant, I want to Modify my Application, so that I can successfully change information on an application.
+As an Applicant, I need to modify my Application, so that I can successfully change information on an application.
+9.1) Input phrase: as an applicant i want to modify my application so that i can change information on an application successfully
+as an applicant i need to modify my application so that i can change information on an application successfully
+9.2) Input phrase: when i apply as an applicant i want to modify my application so that i can change information on an application successfully
+when i give as an applicant i need to modify my application so that i can change information on an application successfully
+9.3) Input phrase: as a candidate i want to modify my application so that i can successfully change information on an application ''
+as a candidate i need to modify my application so that i can successfully change information on an application ''
+9.4) Input phrase: as a candidate i want to modify my application so that i can successfully change information on an application
+as a candidate i need to modify my application so that i can successfully change information on an application
+9.5) Input phrase: as an applicant i want to modify my application so i can successfully change information on an application
+as an applicant i need to modify my application so i can successfully change information on an application
+9.6) Input phrase: when i apply as an applicant i want to modify my application so i can successfully change information on an application
+when i give as an applicant i need to modify my application so i can successfully change information on an application
+9.7) Input phrase: as an applicant i want to modify my application so that i can successfully change information on an application
+as an applicant i need to modify my application so that i can successfully change information on an application
+9.8) Input phrase: when i apply as an applicant i want to modify my application so that i can successfully change information on an application
+when i give as an applicant i need to modify my application so that i can successfully change information on an application
+10.0) Input phrase: As a Staff member, I want to Perform a Completeness Review, so that I can validate when an application is complete and eligible for further technical review.
+As a staff member, I need to do a completeness Review, so that I can validate when an application is complete and eligible for further technical_foul review.
+10.1) Input phrase: as employee i want to perform a completeness review so i can validate when an application is complete and eligible for technical review
+as employee i need to do a completeness review so i can validate when an application is complete and eligible for technical_foul review
+10.2) Input phrase: as employee i want to perform a completeness review so i can validate when an application is completed and eligible for further technical review
+as employee i need to do a completeness review so i can validate when an application is dispatch and eligible for further technical_foul review
+10.3) Input phrase: as employee i want to perform a completeness review so i can validate when an application is complete and eligible for further technical review 
+as employee i need to do a completeness review so i can validate when an application is complete and eligible for further technical_foul review 
+10.4) Input phrase: as employee i want to perform a completeness review so i can validate when an application is complete and eligible for further technical reviews
+as employee i need to do a completeness follow-up so i can validate when an application is complete and eligible for further technical_foul reviews
+10.5) Input phrase: as employee i want to perform a completeness review so i can validate when an application is complete and eligible for further technical review
+as employee i need to do a completeness review so i can validate when an application is complete and eligible for further technical_foul review
+10.6) Input phrase: as employee i want to perform a completeness review so that i can validate if an application is complete and eligible for further technical review
+as employee i need to do a completeness review so that i can validate if an application is complete and eligible for further technical_foul review
+10.7) Input phrase: as employee i want to perform a completeness review so that i can validate if an application is complete and eligible for further technical reviews
+as employee i need to do a completeness follow-up so that i can validate if an application is complete and eligible for further technical_foul reviews
+10.8) Input phrase: as a staff member i want to perform a completeness review to validate when an application is complete and eligible for further technical review
+as a staff extremity i need to do a completeness review to validate when an application is complete and eligible for further technical_foul review
+10.9) Input phrase: as a staff member i want to perform a completeness review so i can validate when an application is complete and eligible for further technical review
+as a staff extremity i need to do a completeness review so i can validate when an application is complete and eligible for further technical_foul review
+11.0) Input phrase: As a Staff member, I want to Record an Internal Note, so that I can share information with other Staff collaborating on the record.
+As a staff member, I need to record an Internal Note, so that I can share information with other staff collaborating on the record.
+11.1) Input phrase: as a staff member i want to record an internal note so that i can share information with other staff members who are collaborating on the document
+as a staff extremity i need to record an internal note so that i can share information with other staff extremity who are collaborating on the document
+11.2) Input phrase: as a staff member i want to record an internal note so that i can share information with other staff members who are collaborating on the record
+as a staff extremity i need to record an internal note so that i can share information with other staff extremity who are collaborating on the record
+11.3) Input phrase: as a staff member i want to record an internal note so that i can share information with other staff members who are collaborating on the record 
+as a staff extremity i need to record an internal note so that i can share information with other staff extremity who are collaborating on the record 
+11.4) Input phrase: as a staff member i want to record an internal note so that i can share information with other staff who are collaborating on the document
+as a staff extremity i need to record an internal note so that i can share information with other staff who are collaborating on the document
+11.5) Input phrase: as a staff member i want to record an internal note so that i can share information with other staff who are collaborating on the recording
+as a staff extremity i need to record an internal note so that i can share information with other staff who are collaborating on the recording
+11.6) Input phrase: as a staff member i want to record an internal note so that i can share information with other staff who are collaborating on the record '
+as a staff extremity i need to record an internal note so that i can share information with other staff who are collaborating on the record '
+11.7) Input phrase: as a staff member i want to record an internal note so that i can share information with other staff who are collaborating on the record
+as a staff extremity i need to record an internal note so that i can share information with other staff who are collaborating on the record
+11.8) Input phrase: as a staff member i want to record an internal note so that i can share information with other staff who collaborate on the record
+as a staff extremity i need to record an internal note so that i can share information with other staff who collaborate on the record
+11.9) Input phrase: as a staff member i want to record an internal note so i can share information with other staff collaborating on the record
+as a staff extremity i need to record an internal note so i can share information with other staff collaborating on the record
+11.10) Input phrase: as a staff member i want to record an internal note so that i can share information with other staff collaborating on the record
+as a staff extremity i need to record an internal note so that i can share information with other staff collaborating on the record
+12.0) Input phrase: As a Staff member, I want to Assign an Application for Detailed Review, so that I can review the for compliance and subsequently approved or denied.
+As a staff member, I need to impute an application for Detailed Review, so that I can follow-up the for submission and subsequently approved or denied.
+12.1) Input phrase: as a staff member i want to assign an application for detailed review so i can review the application for compliance and subsequently approved or denied
+as a staff member i need to impute an application for detailed revue so i can revue the application for submission and subsequently approved or denied
+12.2) Input phrase: as a staff member i want to assign an application for detailed review so that i can review the for compliance and subsequently approved or denied the application
+as a staff member i need to impute an application for detailed revue so that i can revue the for submission and subsequently approved or deny the application
+12.3) Input phrase: as a staff member i want to assign an application for detailed review so that i can review the application for compliance and subsequently approved or denied 
+as a staff member i need to impute an application for detailed revue so that i can revue the application for submission and subsequently approved or deny 
+12.4) Input phrase: as a staff member i want to assign an application for detailed review so that i can review the application for compliance and subsequently approved or denied
+as a staff member i need to impute an application for detailed revue so that i can revue the application for submission and subsequently approved or denied
+12.5) Input phrase: as a staff member i want to assign an application for detailed review so that i can review the for compliance and subsequently approved or denied the request
+as a staff extremity i need to impute an application for detailed review so that i can review the for submission and subsequently approved or deny the request
+12.6) Input phrase: as a staff member i want to assign an application for detailed review so i can review the for compliance and subsequently approved or denied
+as a staff extremity i need to impute an application for detailed revue so i can revue the for submission and subsequently approved or denied
+12.7) Input phrase: as a staff member i want to assign an application for detailed review so that i can review the for compliance and subsequently approved or denied
+as a staff extremity i need to impute an application for detailed revue so that i can revue the for submission and subsequently approved or denied
+13.0) Input phrase: As a Staff member, I want to Apply a Hold, so that I can prevent progression through the workflow or other actions in the system until the issue is resolved.
+As a staff member, I need to apply a Hold, so that I can prevent progress through the work_flow or other natural_process in the arrangement until the issue is resolved.
+13.1) Input phrase: as a staff member i want to apply a hold so i can prevent progression through the workflow or other actions in the system until the issue is resolved
+as a staff member i need to apply a delay so i can prevent progress through the work_flow or other natural_process in the arrangement until the issue is resolved
+13.2) Input phrase: as a staff member i want to apply a hold so that i can prevent progress through the workflow or other actions in the system until the issue is resolved
+as a staff member i need to apply a handle so that i can prevent advancement through the work_flow or other natural_process in the arrangement until the issue is resolved
+13.3) Input phrase: as a staff member i want to apply a hold so that i can prevent progression through the workflow or other actions in the system until the issue is resolved '
+as a staff member i need to apply a delay so that i can prevent progress through the work_flow or other natural_process in the arrangement until the issue is conclude '
+13.4) Input phrase: as a staff member i want to apply a hold so that i can prevent progression through the workflow or other actions in the system until the issue is resolved i
+as a staff member i need to apply a delay so that i can prevent progress through the work_flow or other natural_process in the arrangement until the issue is conclude i
+13.5) Input phrase: as a staff member i want to apply a hold so that i can prevent progression through the workflow or other actions in the system until the issue is resolved
+as a staff member i need to apply a delay so that i can prevent progress through the work_flow or other natural_process in the arrangement until the issue is resolved
+13.6) Input phrase: as a staff member i want to apply a hold so that i can prevent progression through the workflow or other actions in the system until the issue is resolved 
+as a staff member i need to apply a delay so that i can prevent progress through the work_flow or other natural_process in the arrangement until the issue is conclude 
+14.0) Input phrase: As a Staff member, I want to Remove a Hold, so that I can allow progression through the workflow or other actions in the system now that the issue has been resolved.
+As a staff member, I need to remove a Hold, so that I can permit progress through the work_flow or other natural_process in the arrangement now that the issue has been resolved.
+14.1) Input phrase: as a staff member i want to remove a hold so i can allow progress through the workflow or other actions in the system now that the issue has been resolved
+as a staff member i need to remove a delay so i can permit advancement through the work_flow or other natural_process in the arrangement now that the issue has been resolved
+14.2) Input phrase: as a staff member i want to remove a hold so i can allow progression through the workflow or other actions in the system now that the issue has been resolved
+as a staff member i need to remove a delay so i can permit progress through the work_flow or other natural_process in the arrangement now that the issue has been resolved
+14.3) Input phrase: as a staff member i want to remove a hold so that i can allow progress through the workflow or other actions in the system now that the issue has been resolved
+as a staff member i need to remove a delay so that i can permit advancement through the work_flow or other natural_process in the arrangement now that the issue has been resolved
+14.4) Input phrase: as a staff member i want to remove a hold so that i can allow progression through the workflow or other actions in the system now that the issue has been resolved the
+as a staff member i need to remove a delay so that i can permit progress through the work_flow or other natural_process in the arrangement now that the issue has been conclude the
+14.5) Input phrase: as a staff member i want to remove a hold so that i can allow progression through the workflow or other actions in the system now that the issue has been resolved i
+as a staff member i need to remove a delay so that i can permit progress through the work_flow or other natural_process in the arrangement now that the issue has been conclude i
+14.6) Input phrase: as a staff member i want to remove a hold so that i can allow progression through the workflow or other actions in the system now that the issue has been resolved '
+as a staff member i need to remove a delay so that i can permit progress through the work_flow or other natural_process in the arrangement now that the issue has been conclude '
+14.7) Input phrase: as a staff member i want to remove a hold so that i can allow progression through the workflow or other actions in the system now that the issue has been resolved
+as a staff member i need to remove a delay so that i can permit progress through the work_flow or other natural_process in the arrangement now that the issue has been resolved
+14.8) Input phrase: as a staff member i want to remove a hold so that i can allow progression through the workflow or other actions in the system now that the issue has been resolved 
+as a staff member i need to remove a delay so that i can permit progress through the work_flow or other natural_process in the arrangement now that the issue has been conclude 
+15.0) Input phrase: As a Staff member, I want to Send a Formal Response to Applicant, so that I can satisfy communication and records responsibilities.
+As a staff member, I need to air a ball reply to Applicant, so that I can satisfy communication and criminal_record responsibilities.
+15.1) Input phrase: as a staff member i want to send a formal response to the applicant so that i can fulfill my responsibilities in communication and documentation
+as a staff member i need to send a ball reply to the applicant so that i can fulfill my responsibility in communication and documentation
+15.2) Input phrase: as a staff member i want to send a formal response to the applicant so that i can fulfill my responsibilities in communication and records
+as a staff member i need to air a ball reply to the applicant so that i can fulfill my responsibility in communication and records
+15.3) Input phrase: as a staff member i want to send a formal response to the applicant so that i can fulfill my responsibilities in communication and records '
+as a staff member i need to air a ball reply to the applicant so that i can fulfill my responsibility in communication and criminal_record '
+15.4) Input phrase: as a staff member i want to send a formal response to the applicant so that i can fulfill my responsibilities in communication and record keeping
+as a staff member i need to air a ball reply to the applicant so that i can carry_through my duty in communication and record keeping
+15.5) Input phrase: as a staff member i want to send a formal response to the applicant so that i can fulfill my responsibilities in communication and records management
+as a staff member i need to air a ball reply to the applicant so that i can fulfill my duty in communication and criminal_record management
+15.6) Input phrase: as a staff member i want to send a formal response to the applicant so i can fulfill my communication and records responsibilities
+as a staff member i need to air a ball reply to the applicant so i can fulfill my communication and criminal_record responsibilities
+15.7) Input phrase: as a staff member i want to send a formal response to the applicant so that i can fulfill my communication and records responsibilities
+as a staff member i need to air a ball reply to the applicant so that i can fulfill my communication and criminal_record responsibilities
+15.8) Input phrase: as a staff member i want to send a formal response to the applicant so i can satisfy my communication and records responsibilities
+as a staff member i need to air a ball reply to the applicant so i can satisfy my communication and criminal_record responsibilities
+15.9) Input phrase: as a staff member i want to send a formal response to the applicant so that i can satisfy my communication and records responsibilities
+as a staff member i need to air a ball reply to the applicant so that i can satisfy my communication and criminal_record responsibilities
+16.0) Input phrase: As a Staff member, I want to Track  the Draft Proffers, so that I can preserve the history of draft proffer statements submitted by the Applicant.
+As a staff member, I need to track  the conscription Proffers, so that I can preserve the history of conscription suggestion argument present by the Applicant.
+16.1) Input phrase: in my role as a staff member i want to track draft proffers so i can preserve the history of the draft proffer statements submitted by the applicant
+in my function as a staff member i need to lead conscription suggestion so i can preserve the history of the conscription suggestion affirmation present by the applicant
+16.2) Input phrase: as a staff member i want to track draft proffers so i can preserve the history of draft proffer statements submitted by the applicant
+as a staff member i need to track conscription suggestion so i can preserve the history of conscription suggestion argument present by the applicant
+16.3) Input phrase: as a staff member i want to track the draft proffers so i can preserve the history of the draft proffer statements submitted by the applicant
+as a staff member i need to track the conscription suggestion so i can preserve the history of the conscription suggestion argument present by the applicant
+16.4) Input phrase: as a staff member i want to track the draft proffers so that i can preserve the history of the draft proffer statements submitted by the applicant
+as a staff member i need to track the conscription suggestion so that i can preserve the history of the conscription suggestion argument present by the applicant
+16.5) Input phrase: as a staff member i want to track draft proffers so that i can preserve the history of draft proffer statements submitted by the applicant
+as a staff member i need to track conscription suggestion so that i can preserve the history of conscription suggestion argument present by the applicant
+17.0) Input phrase: As a Staff member, I want to Manage Approved Proffers, so that I can ensure compliance with and satisfaction of the proffer in the future.
+As a staff member, I wish to Manage Approved Proffers, so that I can ensure submission with and satisfaction of the suggestion in the future.
+17.1) Input phrase: as employee i want to manage approved proffers so i can ensure compliance and satisfaction of the proffer in the future
+as employee i wish to manage approved suggestion so i can ensure submission and satisfaction of the suggestion in the future
+17.2) Input phrase: as employee i want to manage approved proffers so i can ensure compliance with and the satisfaction of the proffer in the future
+as employee i wish to manage approved suggestion so i can ensure submission with and the satisfaction of the suggestion in the future
+17.3) Input phrase: as employee i want to manage approved proffers so i can ensure compliance with and satisfaction of the proffer in future
+as employee i wish to manage approved suggestion so i can ensure submission with and satisfaction of the suggestion in future
+17.4) Input phrase: as employee i want to manage approved proffers so i can ensure compliance with and the satisfaction of the proffer in the future 
+as employee i wish to manage approved suggestion so i can ensure submission with and the satisfaction of the suggestion in the future 
+17.5) Input phrase: as employee i want to manage approved proffers so i can ensure compliance with and satisfaction of the proffers in the future 
+as employee i wish to manage approved suggestion so i can ensure submission with and satisfaction of the suggestion in the future 
+17.6) Input phrase: as employee i want to manage approved proffers so i can ensure compliance with and satisfaction of the proffers in the future
+as employee i wish to manage approved suggestion so i can ensure submission with and satisfaction of the suggestion in the future
+17.7) Input phrase: as employee i want to manage approved proffers so i can ensure compliance with and satisfaction of the proffer in the future
+as employee i wish to manage approved suggestion so i can ensure submission with and satisfaction of the suggestion in the future
+17.8) Input phrase: as a staff member i want to manage approved proposals so that i can ensure compliance with and satisfaction of the proffer in the future
+as a staff extremity i wish to manage approved marriage_proposal so that i can ensure submission with and satisfaction of the suggestion in the future
+17.9) Input phrase: as a staff member i want to manage approved proffers so i can ensure compliance with and satisfaction of the proffer in the future
+as a staff extremity i wish to manage approved suggestion so i can ensure submission with and satisfaction of the suggestion in the future
+18.0) Input phrase: As a Staff member, I want to Manage Ordinances, so that I can maintain accurate ordinance information in the System.
+As a staff member, I need to Manage Ordinances, so that I can maintain accurate regulation information in the System.
+18.1) Input phrase: as a staff member i want to manage ordinances to maintain accurate ordinance information in the system
+as a staff extremity i need to manage regulation to maintain accurate regulation information in the system
+18.2) Input phrase: as a staff member i want to manage the ordinances so i can maintain accurate ordinance information in the system
+as a staff extremity i need to manage the regulation so i can maintain accurate regulation information in the system
+18.3) Input phrase: as a staff member i want to manage ordinances so i can maintain accurate ordinance information in the system ''
+as a staff extremity i need to manage regulation so i can maintain accurate regulation information in the arrangement ''
+18.4) Input phrase: as a staff member i want to manage ordinances so i can maintain accurate ordinance information in the system
+as a staff extremity i need to manage regulation so i can maintain accurate regulation information in the system
+18.5) Input phrase: as a staff member i want to manage ordinances so that i can maintain accurate ordinance information in the system '
+as a staff extremity i need to manage regulation so that i can maintain accurate regulation information in the arrangement '
+18.6) Input phrase: as a staff member i want to manage ordinances so that i can maintain accurate ordinance information in the system i
+as a staff extremity i need to manage regulation so that i can maintain accurate regulation information in the arrangement i
+18.7) Input phrase: as a staff member i want to manage ordinances so that i can maintain accurate ordinance information in the system 
+as a staff extremity i need to manage regulation so that i can maintain accurate regulation information in the arrangement 
+18.8) Input phrase: as a staff member i want to manage ordinances so that i can maintain accurate ordinance information in the system
+as a staff extremity i need to manage regulation so that i can maintain accurate regulation information in the system
+19.0) Input phrase: As a Staff member, I want to Schedule a Meeting, so that I can bring the required parties together at a specific date/time to address an issue.
+As a staff member, I need to agenda a Meeting, so that I can bring the want party together at a particular date/time to address an issue.
+19.1) Input phrase: as a staff member i want to schedule a meeting so i can bring together the required parties at a specific datetime to address an issue
+as a staff member i need to agenda a meeting so i can bring together the want party at a particular datetime to address an issue
+19.2) Input phrase: as a staff member i want to schedule a meeting so that i can bring together the required parties at a specific datetime to address an issue 
+as a staff member i need to agenda a meeting so that i can bring together the want party at a particular datetime to address an issue 
+19.3) Input phrase: as a staff member i want to schedule a meeting so that i can bring together the required parties at a specific datetime to address an issue
+as a staff member i need to agenda a meeting so that i can bring together the want party at a particular datetime to address an issue
+19.4) Input phrase: as a staff member i want to schedule a meeting so i can bring the required parties together at a specific datetime to address an issue
+as a staff member i need to agenda a meeting so i can bring the want party together at a particular datetime to address an issue
+19.5) Input phrase: as a staff member i want to schedule a meeting so that i can bring the required parties together at a specific datetime to discuss an issue
+as a staff member i need to agenda a meeting so that i can bring the want party together at a particular datetime to hash_out an issue
+19.6) Input phrase: as a staff member i want to schedule a meeting so that i can bring the required parties together at a specific datetime to address an issue '
+as a staff member i need to agenda a meeting so that i can bring the want party together at a particular datetime to address an issue '
+19.7) Input phrase: as a staff member i want to schedule a meeting so that i can bring the required parties together at a specific datetime to address an issue i
+as a staff member i need to agenda a meeting so that i can bring the want party together at a particular datetime to address an issue i
+19.8) Input phrase: as a staff member i want to schedule a meeting so that i can bring the required parties together at a specific datetime to address an issue 
+as a staff member i need to agenda a meeting so that i can bring the want party together at a particular datetime to address an issue 
+19.9) Input phrase: as a staff member i want to schedule a meeting so that i can bring the required parties together at a specific datetime to address an issue
+as a staff member i need to agenda a meeting so that i can bring the want party together at a particular datetime to address an issue
+20.0) Input phrase: As a staff member, I want to denote an application with a Final Action status. So that I can finish it.
+As a staff member, I lack to announce an application with a final_examination action status. So that I can polish it.
+20.1) Input phrase: so as a staff member i want to denote an application with a final action status so that i can complete it
+so as a staff extremity i lack to denote an application with a final_examination action condition so that i can complete it
+20.2) Input phrase: as a staff member i want to denote an application with a final action status so i can finish it
+as a staff extremity i lack to announce an application with a final_examination action condition so i can polish it
+20.3) Input phrase: as a staff member i want to denote an application with a final action status so that i can finish it
+as a staff extremity i lack to announce an application with a final_examination action condition so that i can polish it
+20.4) Input phrase: so as a staff member i want to denote an application with a final action status so that i can finish it
+so as a staff extremity i lack to announce an application with a final_examination action condition so that i can polish it
+21.0) Input phrase: As a Planning Staff member, I want to Conduct and Track Plan Amendments and Planning Studies, so that I can record work in process, outcome, and location-based information related to the Plan(s).
+As a planning staff member, I need to behavior and lead plan Amendments and planning Studies, so that I can record work in process, outcome, and location-based information associate to the Plan(s).
+21.1) Input phrase: as the planning staff member i want to conduct and track plan amendments and planning studies so i can record work in process outcome and location-based information related to plans
+as the planning staff member i need to behavior and lead design amendments and planning study so i can record work in process result and location-based information associate to plans
+21.2) Input phrase: as the planning staff member i want to conduct and track plan amendments and planning studies so i can record work in process outcomes and location-based information related to the plans
+as the planning staff member i need to behavior and lead design amendments and planning study so i can record work in process result and location-based information associate to the plans
+21.3) Input phrase: as the planning staff member i want to conduct and track plan amendments and planning studies so i can record work in process outcome and location based information related to the plans
+as the planning staff member i need to behavior and lead design amendments and planning study so i can record work in process result and placement based information associate to the plans
+21.4) Input phrase: as the planning staff member i want to conduct and track plan amendments and planning studies so i can record work in process outcome and location-based information related to the plans
+as the planning staff member i need to behavior and lead design amendments and planning study so i can record work in process result and location-based information associate to the plans
+21.5) Input phrase: as a planning staff member i want to conduct and track plan amendments and planning studies so i can record work in process outcome and location-based information related to the plans
+as a planning staff member i need to behavior and lead design amendments and planning study so i can record work in process result and location-based information associate to the plans
+21.6) Input phrase: as a planning staff member i want to conduct and track plan amendments and planning studies so that i can record work in process outcome and location-based information related to the plans
+as a planning staff member i need to behavior and lead design amendments and planning study so that i can record work in process result and location-based information associate to the plans
+22.0) Input phrase: As a Planning Staff member, I want to Generate Planning-related Reports, so that I can access, analyze and/or export the needed information in the format I requested.
+As a planning staff member, I need to generate Planning-related Reports, so that I can access, analyze and/or export the want information in the format I requested.
+22.1) Input phrase: i want to generate planning related reports so that i can access analyze andor export the needed information in the format i requested as a planning staff member
+i need to generate planning associate report_card so that i can access analyze andor export the want information in the format i requested as a planning staff member
+22.2) Input phrase: i want to generate planning related reports so that i can access analyze andor export the needed information in the format i requested as a planning employee
+i need to generate planning associate report_card so that i can access analyze andor export the want information in the format i requested as a planning employee
+22.3) Input phrase: i want to generate planning related reports so that i can access analyze andor export the needed information in the format i requested as a planner
+i need to generate planning associate report_card so that i can access analyze andor export the want information in the format i requested as a planner
+22.4) Input phrase: i want to generate planning related reports so that i can access analyze andor export the necessary information in the format i requested
+i need to generate planning associate report_card so that i can access analyze andor export the necessity information in the format i requested
+22.5) Input phrase: i want to generate planning related reports so that i can access analyze andor export the required information in the format i requested
+i want to generate planning associate report_card so that i can access analyze andor export the want information in the format i requested
+22.6) Input phrase: i want to generate planning related reports so that i can access analyze andor export the needed information in the format i requested
+i want to generate planning associate report_card so that i can access analyze andor export the want information in the format i requested
+22.7) Input phrase: i want to generate planning-related reports so that i can access analyze andor export the needed information in the format i requested
+i want to generate planning-related report_card so that i can access analyze andor export the want information in the format i requested
+22.8) Input phrase: as a planning staff member i want to generate planning related reports so i can access analyze andor export the needed information in the format i requested
+as a planning staff extremity i need to generate planning associate report_card so i can access analyze andor export the want information in the format i requested
+23.0) Input phrase: As a Planning Staff member, I want to Evaluate Consistency with the Comprehensive Plan, so that I can complete my required review of a plan set and/or application.
+As a design staff member, I need to evaluate consistency with the comprehensive_examination Plan, so that I can dispatch my want revue of a plan set and/or application.
+23.1) Input phrase: as the planning staff member i want to evaluate the compatibility with the comprehensive plan so that i can complete the required review of a plan set andor application
+as the design staff extremity i need to evaluate the compatibility with the comprehensive_examination plan so that i can dispatch the want revue of a plan set andor application
+23.2) Input phrase: as the planning staff member i want to evaluate the compatibility with the comprehensive plan so that i can complete my required review of a plan set andor application
+as the design staff extremity i need to evaluate the compatibility with the comprehensive_examination plan so that i can dispatch my want revue of a plan set andor application
+23.3) Input phrase: as the planning staff member i want to evaluate the consistency with the comprehensive plan so that i can complete the required review of a plan set andor application
+as the design staff extremity i need to evaluate the consistency with the comprehensive_examination plan so that i can dispatch the want revue of a plan set andor application
+23.4) Input phrase: as the planning staff member i want to evaluate consistency with the comprehensive plan so i can complete my required review of a plan set andor application
+as the design staff extremity i need to evaluate consistency with the comprehensive_examination plan so i can dispatch my want revue of a plan set andor application
+23.5) Input phrase: as a planning staff member i want to evaluate consistency with the comprehensive plan so i can complete my required review of a plan set andor application
+as a design staff extremity i need to evaluate consistency with the comprehensive_examination plan so i can dispatch my want revue of a plan set andor application
+23.6) Input phrase: as the planning staff member i want to evaluate the consistency with the comprehensive plan so that i can complete my required review of a plan set andor application
+as the design staff extremity i need to evaluate the consistency with the comprehensive_examination plan so that i can dispatch my want revue of a plan set andor application
+23.7) Input phrase: as a planning staff member i want to evaluate consistency with the comprehensive plan so that i can complete the required review of a plan set andor application
+as a design staff extremity i need to evaluate consistency with the comprehensive_examination plan so that i can dispatch the want revue of a plan set andor application
+23.8) Input phrase: as a planning staff member i want to evaluate consistency with the comprehensive plan so that i can complete my required review of a plan set andor application
+as a design staff extremity i need to evaluate consistency with the comprehensive_examination plan so that i can dispatch my want revue of a plan set andor application
+24.0) Input phrase: As a Staff member, I want to Perform a Staff Review, so that I can validate compliance of an application with the Zoning Ordinance and impact approval/denial of the application accordingly.
+As a staff member, I need to do a staff Review, so that I can validate submission of an application with the zoning ordination and impingement approval/denial of the application accordingly.
+24.1) Input phrase: as a staff member i want to perform a staff review to validate compliance of an application with the zoning ordinance and impact approvaldenial of the application accordingly
+as a staff member i need to do a staff revue to validate submission of an application with the zoning regulation and impact approvaldenial of the application accordingly
+24.2) Input phrase: as a staff member i want to perform a staff review so i can validate compliance of an application with the zoning ordinance and impact approvaldenial of the application accordingly
+as a staff member i need to do a staff revue so i can validate submission of an application with the zoning regulation and impact approvaldenial of the application accordingly
+24.3) Input phrase: as a staff member i want to perform a staff review so that i can validate compliance of an application with the zoning ordinance and impact the approvaldenial of the application accordingly
+as a staff member i need to do a staff revue so that i can validate submission of an application with the zoning regulation and impact the approvaldenial of the application accordingly
+24.4) Input phrase: as a staff member i want to perform a staff review so that i can validate compliance of an application with the zoning ordinance and impact the approvaldenial of the application accordingly 
+as a staff member i need to do a staff revue so that i can validate submission of an application with the zoning regulation and impact the approvaldenial of the application accordingly 
+24.5) Input phrase: as a staff member i want to perform a staff review so that i can validate compliance of an application with the zoning ordinance and impact approvaldenial of the application accordingly 
+as a staff member i need to do a staff revue so that i can validate submission of an application with the zoning regulation and impact approvaldenial of the application accordingly 
+24.6) Input phrase: as a staff member i want to perform a staff review so that i can validate compliance of an application with the zoning ordinance and impact approvaldenial of the application accordingly
+as a staff member i need to do a staff revue so that i can validate submission of an application with the zoning regulation and impact approvaldenial of the application accordingly
+25.0) Input phrase: As a Zoning Staff member, I want to Process the Requests for Zoning Information, so that I can capture my response to the request in the system and also send a communication from the system to the Applicant.
+As a zoning staff member, I need to process the Requests for zoning Information, so that I can capture my reply to the request in the arrangement and also send a communication from the arrangement to the Applicant.
+25.1) Input phrase: as a zoning staff member i want to process the requests for zoning information so i can capture my response to the request in the system and also send a communication from the system to the applicant
+as a zoning staff member i need to process the requests for zoning information so i can capture my reply to the request in the arrangement and also send a communication from the arrangement to the applicant
+25.2) Input phrase: as a zoning staff member i want to process the requests for zoning information so that i can capture my response to the request in the system and also send a communication from the system to the applicant's
+as a zoning staff member i need to process the requests for zoning information so that i can capture my reply to the request in the arrangement and also send a communication from the arrangement to the applicant's
+25.3) Input phrase: as a zoning staff member i want to process the requests for zoning information so that i can capture my response to the request in the system and also send a communication from the system to the applicant'
+as a zoning staff member i need to process the requests for zoning information so that i can capture my reply to the request in the arrangement and also send a communication from the arrangement to the applicant'
+25.4) Input phrase: as a zoning staff member i want to process the requests for zoning information so that i can capture my response to the request in the system and also send a communication from the system to the applicant 
+as a zoning staff member i need to process the requests for zoning information so that i can capture my reply to the request in the arrangement and also send a communication from the arrangement to the applicant 
+25.5) Input phrase: as a zoning staff member i want to process the requests for zoning information so that i can capture my response to the request in the system and also send a communication from the system to the applicant
+as a zoning staff member i need to process the requests for zoning information so that i can capture my reply to the request in the arrangement and also send a communication from the arrangement to the applicant
+26.0) Input phrase: As a Zoning Staff member, I want to Issue the Zoning-Related Permits, so that I can satisfy an Applicant's request for service that has proven to be eligible and in compliance with the Zoning Ordinance.
+As a zoning staff member, I need to issue the Zoning-Related Permits, so that I can satisfy an Applicant's request for military_service that has testify to be eligible and in submission with the zoning Ordinance.
+26.1) Input phrase: in my capacity as a zoning staff member i want to issue the zoning-related permits so that i can satisfy an applicant's request for service that has proven eligible and in compliance with the z
+in my capability as a zoning staff member i need to emergence the zoning-related license so that i can satisfy an applicant's request for military_service that has testify eligible and in submission with the z
+26.2) Input phrase: in my capacity as a zoning staff member i want to issue the zoning-related permits so that i can satisfy an applicant's request for service that has proven to be eligible and in compliance with the z
+in my capability as a zoning staff member i need to emergence the zoning-related license so that i can satisfy an applicant's request for military_service that has testify to be eligible and in submission with the z
+26.3) Input phrase: as a zoning staff member i want to issue the zoning-related permits so that i can satisfy an applicant's request for service that has proven to be eligible and in compliance with the zoning
+as a zoning staff member i need to issue the zoning-related license so that i can satisfy an applicant's request for military_service that has testify to be eligible and in submission with the zoning
+26.4) Input phrase: as a zoning staff member i want to issue the zoning-related permits so that i can satisfy an applicant's request for service that has proven eligible and in compliance with the zoning ordinance
+as a zoning staff member i need to issue the zoning-related license so that i can satisfy an applicant's request for military_service that has testify eligible and in submission with the zoning ordinance
+26.5) Input phrase: as a zoning staff member i want to issue the zoning-related permits so that i can satisfy an applicant's request for service that has proven to be eligible and in compliance with the zoning ordin
+as a zoning staff member i need to issue the zoning-related license so that i can satisfy an applicant's request for military_service that has testify to be eligible and in submission with the zoning ordin
+26.6) Input phrase: as a zoning staff member i want to issue the zoning-related permits so that i can satisfy an applicant's request for service that has proven to be eligible and in compliance with the zoning ordinance
+as a zoning staff member i need to issue the zoning-related license so that i can satisfy an applicant's request for military_service that has testify to be eligible and in submission with the zoning ordinance
+27.0) Input phrase: As a Staff member, I want to Develop a Staff Report, so that I can publish and distribute the report according to business rules.
+As a staff member, I need to train a staff Report, so that I can publish and circulate the report_card accord to clientele rules.
+27.1) Input phrase: as a member of staff i want to develop a staff report so that i can publish and distribute the report according to business rules and procedures
+as a extremity of staff i need to train a staff report_card so that i can publish and circulate the report_card accord to clientele convention and procedures
+27.2) Input phrase: as a staff member i want to develop a staff report so that i can publish and distribute the report according to business rules and procedures
+as a staff extremity i need to train a staff report_card so that i can publish and circulate the report_card accord to clientele convention and procedures
+27.3) Input phrase: as a member of staff i want to develop a staff report so that i can publish and distribute the report according to business rules
+as a extremity of staff i need to train a staff report_card so that i can publish and circulate the report_card accord to clientele rules
+27.4) Input phrase: as a staff member i want to develop a staff report so that i can publish and distribute the report according to business rules i have
+as a staff extremity i need to train a staff report_card so that i can publish and circulate the report_card accord to clientele convention i have
+27.5) Input phrase: as a staff member i want to develop a staff report so i can publish and distribute the report according to business rules
+as a staff extremity i need to train a staff report_card so i can publish and circulate the report_card accord to clientele rules
+27.6) Input phrase: as a staff member i want to develop a staff report so that i can publish and distribute the report according to business rules ''
+as a staff extremity i need to train a staff report_card so that i can publish and circulate the report_card accord to clientele convention ''
+27.7) Input phrase: as a staff member i want to develop a staff report so that i can publish and distribute the report according to business rules 
+as a staff extremity i need to train a staff report_card so that i can publish and circulate the report_card accord to clientele convention 
+27.8) Input phrase: as a staff member i want to develop a staff report so that i can publish and distribute the report according to business rules
+as a staff extremity i need to train a staff report_card so that i can publish and circulate the report_card accord to clientele rules
+28.0) Input phrase: As a Staff member, I want to Manage Hearing Calendars, so that I can track hearing-related activities and due dates.
+As a staff member, I need to cope hearing Calendars, so that I can path hearing-related activity and due dates.
+28.1) Input phrase: as a employee i want to manage hearing calendars so i can track hearing related activities and due dates i have
+as a employee i need to cope hearing calendars so i can path hearing associate activity and due go_steady i have
+28.2) Input phrase: as a employee i want to manage hearing calendars so i can track hearing related activities and deadlines
+as a employee i need to manage hearing calendars so i can path hearing associate activity and deadlines
+28.3) Input phrase: as a employee i want to manage hearing calendars so i can track hearing related activities and due date
+as a employee i need to cope hearing calendars so i can path hearing associate activity and due date
+28.4) Input phrase: as a manager i want to manage hearing calendars so i can track hearing related activities and due date
+as a coach i need to cope hearing calendars so i can path hearing associate activity and due date
+28.5) Input phrase: as a employee i want to manage hearing calendars so i can track hearing related activities and due dates
+as a employee i need to cope hearing calendars so i can path hearing associate activity and due dates
+28.6) Input phrase: as a manager i want to manage hearing calendars so i can track hearing related activities and due dates
+as a coach i need to cope hearing calendars so i can path hearing associate activity and due dates
+28.7) Input phrase: as a staff member i want to manage hearing calendars so i can track hearing related activities and due dates
+as a staff extremity i need to cope hearing calendars so i can path hearing associate activity and due dates
+28.8) Input phrase: as a staff member i want to manage hearing calendars so i can track hearing-related activities and due dates
+as a staff extremity i need to cope hearing calendars so i can path hearing-related activity and due dates
+28.9) Input phrase: as a staff member i want to manage hearing calendars so that i can track hearing related activities and due dates
+as a staff extremity i need to cope hearing calendars so that i can path hearing associate activity and due dates
+29.0) Input phrase: As a Staff member, I want to Assign a Hearing Date, so that I can present the application to the appropriate governing body within the timelines dictated by the relevant County rules and procedures.
+As a staff member, I need to assign a hearing Date, so that I can present the application to the allow government consistency within the timelines order by the relevant county dominion and procedures.
+29.1) Input phrase: as a staff member i want to assign a hearing date so i can present the application to the appropriate governing body within the timelines dictated by the relevant county rules and procedures
+as a staff extremity i need to assign a hearing date so i can present the application to the allow government consistency within the timelines order by the relevant county dominion and procedures
+29.2) Input phrase: as a staff member i want to assign a hearing date so that i can present the application to the appropriate governing body within the timelines dictated by the relevant county rules and procedures 
+as a staff extremity i need to assign a hearing date so that i can present the application to the allow government consistency within the timelines order by the relevant county dominion and operation 
+29.3) Input phrase: as a staff member i want to assign a hearing date so that i can present the application to the appropriate governing body within the timelines dictated by the relevant county rules and procedures
+as a staff extremity i need to assign a hearing date so that i can present the application to the allow government consistency within the timelines order by the relevant county dominion and procedures
+30.0) Input phrase: As a Staff member, I want to Manage Affidavits, so that I can ensure compliance with the requirements prior to the hearing.
+As a staff member, I need to Manage Affidavits, so that I can ensure submission with the necessity prior to the hearing.
+30.1) Input phrase: i want to manage affidavits to ensure compliance with the requirements prior to the hearing
+i need to manage affidavits to ensure submission with the necessity prior to the hearing
+30.2) Input phrase: i want to manage affidavits so that i can ensure compliance with the requirements before the hearing
+i need to manage affidavits so that i can ensure submission with the necessity before the hearing
+30.3) Input phrase: i want to manage affidavits so i can ensure compliance with the requirements prior to the hearing
+i need to manage affidavits so i can ensure submission with the necessity prior to the hearing
+30.4) Input phrase: as a employee i want to manage affidavits so i can ensure compliance with the requirements before the hearing
+as a employee i need to manage affidavits so i can ensure submission with the necessity before the hearing
+30.5) Input phrase: as a employee i want to manage affidavits so i can ensure compliance with the requirements prior to hearing
+as a employee i need to manage affidavits so i can ensure submission with the necessity prior to hearing
+30.6) Input phrase: as a employee i want to manage affidavits so i can ensure compliance with the requirements prior to hearings
+as a employee i need to manage affidavits so i can ensure submission with the necessity prior to hearings
+30.7) Input phrase: as a employee i want to manage affidavits so i can ensure compliance with the requirements prior to hearing 
+as a employee i need to manage affidavits so i can ensure submission with the necessity prior to hearing 
+30.8) Input phrase: i want to manage affidavits so that i can ensure compliance with the requirements prior to the hearing
+i need to manage affidavits so that i can ensure submission with the necessity prior to the hearing
+30.9) Input phrase: as a employee i want to manage affidavits so i can ensure compliance with the requirements prior to the hearing
+as a employee i need to manage affidavits so i can ensure submission with the necessity prior to the hearing
+30.10) Input phrase: as a staff member i want to manage affidavits so i can ensure compliance with the requirements before the hearing
+as a staff extremity i need to manage affidavits so i can ensure submission with the necessity before the hearing
+31.0) Input phrase: As an Applicant, I want to Satisfy Hearing Requirements, so that I can ensure all pre-hearing requirements are satisfied in time for the hearing.
+As an Applicant, I need to satisfy hearing Requirements, so that I can ensure all pre-hearing necessity are satisfy in time for the hearing.
+31.1) Input phrase: as an applicant i want to satisfy the hearing requirements so that i can ensure that all pre-hearing requirements are satisfied in time for the hearing hearing
+as an applicant i need to satisfy the hearing necessity so that i can ensure that all pre-hearing necessity are satisfy in time for the hearing hearing
+31.2) Input phrase: as an applicant i want to satisfy hearing requirements so that i can ensure that all pre-hearing requirements are satisfied in time for the hearing hearing
+as an applicant i need to satisfy hearing necessity so that i can ensure that all pre-hearing necessity are satisfy in time for the hearing hearing
+31.3) Input phrase: as an applicant i want to satisfy the hearing requirements so that i can ensure that all pre-hearing requirements are satisfied in time for the hearing
+as an applicant i need to satisfy the hearing necessity so that i can ensure that all pre-hearing necessity are satisfy in time for the hearing
+31.4) Input phrase: as an applicant i want to satisfy the hearing requirements so that i can ensure that all pre-hearing requirements are satisfied in time for the hearing 
+as an applicant i need to satisfy the hearing necessity so that i can ensure that all pre-hearing necessity are satisfy in time for the hearing 
+31.5) Input phrase: as an applicant i want to meet hearing requirements so that i can ensure all pre-hearing requirements are satisfied in time for the hearing
+as an applicant i need to meet hearing necessity so that i can ensure all pre-hearing necessity are satisfied in time for the hearing
+31.6) Input phrase: as an applicant i want to satisfy hearing requirements so that i can ensure that all pre-hearing requirements are satisfied in time for the hearing
+as an applicant i need to satisfy hearing necessity so that i can ensure that all pre-hearing necessity are satisfy in time for the hearing
+31.7) Input phrase: as an applicant i want to satisfy hearing requirements so that i can ensure that all pre-hearing requirements are satisfied in time for the hearing 
+as an applicant i need to satisfy hearing necessity so that i can ensure that all pre-hearing necessity are satisfy in time for the hearing 
+31.8) Input phrase: as an applicant i want to satisfy the hearing requirements so that i can ensure all pre-hearing requirements are satisfied in time for the hearing
+as an applicant i need to satisfy the hearing necessity so that i can ensure all pre-hearing necessity are satisfy in time for the hearing
+31.9) Input phrase: as an applicant i want to satisfy hearing requirements so that i can ensure all pre-hearing requirements are satisfied in time for the hearing
+as an applicant i need to satisfy hearing necessity so that i can ensure all pre-hearing necessity are satisfy in time for the hearing
+32.0) Input phrase: As a Staff member, I want to Prepare for and Support Hearing Execution, so that I can ensure all pre-hearing requirements are satisfied and staff and Applicant are ready for the hearing.
+As a staff member, I need to cook for and support hearing Execution, so that I can see all pre-hearing necessity are satisfy and staff and applicant are ready for the hearing.
+32.1) Input phrase: as a staff member i want to prepare for and support hearing execution so i can ensure all pre-hearing requirements are satisfied and staff and applicant are ready for the hearing
+as a staff member i need to cook for and support hearing performance so i can see all pre-hearing necessity are satisfy and staff and applicant are ready for the hearing
+32.2) Input phrase: as a staff member i want to prepare for and support hearing execution so that i can ensure all pre-hearing requirements are satisfied and staff and applicant are ready for the hearing
+as a staff member i need to cook for and support hearing performance so that i can see all pre-hearing necessity are satisfy and staff and applicant are ready for the hearing
+33.0) Input phrase: As a Staff member, I want to Capture a Hearing Decision, so that I can enforce the system.
+As a staff member, I need to capture a hearing Decision, so that I can enforce the system.
+33.1) Input phrase: as a supervisor i want to capture a hearing decision so i can implement the system
+as a supervisor i need to capture a hearing decisiveness so i can implement the system
+33.2) Input phrase: as a staff member i want to capture a hearing decision to enforce the system
+as a staff extremity i need to capture a hearing decisiveness to enforce the system
+33.3) Input phrase: as a staff member i want to capture a hearing decision so i can enforce the system
+as a staff extremity i need to capture a hearing decisiveness so i can enforce the system
+33.4) Input phrase: as a staff member i want to capture a hearing decision so that i can enforce the system
+as a staff extremity i need to capture a hearing decisiveness so that i can enforce the system
+34.0) Input phrase: As a Staff member, I want to Process the Appeals, so that I can track the outcome and record the impact on the relevant records.
+As a staff member, I need to process the Appeals, so that I can lead the result and criminal_record the impact on the relevant records.
+34.1) Input phrase: i want to process the appeals so i can track the outcome and record the impact on the relevant records as a staff member
+i need to process the solicitation so i can lead the result and criminal_record the impact on the relevant criminal_record as a staff member
+34.2) Input phrase: i want to process the appeals so i can track the outcome and record the impact on the appropriate records
+i need to process the solicitation so i can lead the result and criminal_record the impact on the appropriate records
+34.3) Input phrase: i want to process the appeals so i can track the outcome and record the impact on relevant records
+i need to process the solicitation so i can lead the result and criminal_record the impact on relevant records
+34.4) Input phrase: i want to process the appeals so i can track the outcome and record the impact on the relevant records
+i need to process the solicitation so i can lead the result and criminal_record the impact on the relevant records
+34.5) Input phrase: as a staff member i want to process the appeals so i can track the outcome and record the impact on the relevant records
+as a staff extremity i need to process the solicitation so i can lead the result and criminal_record the impact on the relevant records
+35.0) Input phrase: As a Plan Review Staff member, I want to Assign Plans for Review, so that I can ensure plans have been assigned to the appropriate Plan Reviewer.
+As a design reappraisal staff member, I need to delegate design for Review, so that I can ensure design have been delegate to the allow design Reviewer.
+35.1) Input phrase: as a plan review staff member i want to assign plans for review so i can ensure that the plans have been assigned to the appropriate plan reviewer 
+as a design reappraisal staff member i need to delegate design for reappraisal so i can ensure that the design have been delegate to the allow design commentator 
+35.2) Input phrase: as a plan review staff member i want to assign plans for review so i can ensure that the plans have been assigned to the appropriate plan reviewers
+as a design reappraisal staff member i need to delegate design for reappraisal so i can ensure that the design have been delegate to the allow design reviewers
+35.3) Input phrase: as a plan review staff member i want to assign plans for review so i can ensure that the plans have been assigned to the appropriate plan reviewer
+as a design reappraisal staff member i need to delegate design for reappraisal so i can ensure that the design have been delegate to the allow design reviewer
+35.4) Input phrase: as a plan review staff member i want to assign plans for review so that i can ensure that the plans have been assigned to the appropriate plan reviewers
+as a design reappraisal staff member i need to delegate design for reappraisal so that i can ensure that the design have been delegate to the allow design reviewers
+35.5) Input phrase: as a plan review staff member i want to assign plans for review so that i can ensure that the plans have been assigned to the appropriate plan reviewer
+as a design reappraisal staff member i need to delegate design for reappraisal so that i can ensure that the design have been delegate to the allow design reviewer
+35.6) Input phrase: as a plan review staff member i want to assign plans for review so i can ensure the plans have been assigned to the appropriate plan reviewer
+as a design reappraisal staff member i need to delegate design for reappraisal so i can ensure the design have been delegate to the allow design reviewer
+35.7) Input phrase: as a plan review staff member i want to assign plans for review so i can ensure plans have been assigned to the appropriate plan reviewer
+as a design reappraisal staff member i need to delegate design for reappraisal so i can ensure design have been delegate to the allow design reviewer
+35.8) Input phrase: as a plan review staff member i want to assign plans for review so that i can ensure plans have been assigned to the appropriate plan reviewer
+as a design reappraisal staff member i need to delegate design for reappraisal so that i can ensure design have been delegate to the allow design reviewer
+36.0) Input phrase: As a Plan Review Staff Supervisor, I want to Manage Plan Reviewer Workload, so that I can monitor and effectively adjust workload as necessary and ensure service levels are met
+As a plan review staff Supervisor, I need to cope plan commentator Workload, so that I can proctor and effectively align workload as necessity and ensure service degree are met
+36.1) Input phrase: as the supervisor of the plan review staff i want to manage plan reviewer workload so that i can monitor and effectively adjust workload as necessary and ensure service levels are met
+as the supervisor of the plan review staff i need to cope plan commentator workload so that i can proctor and effectively align workload as necessity and ensure service degree are met
+36.2) Input phrase: as a plan review staff supervisor i want to manage plan reviewer workload so that i can monitor and effectively adjust workload as necessary and ensure service levels are met and exceeded
+as a plan review staff supervisor i need to cope plan commentator workload so that i can proctor and effectively align workload as necessity and ensure service degree are meet and exceeded
+36.3) Input phrase: as a plan review staff supervisor i want to manage plan reviewer workload so that i can monitor and effectively adjust workload as necessary and ensure service levels are met as well
+as a plan review staff supervisor i need to cope plan commentator workload so that i can proctor and effectively align workload as necessity and ensure service degree are meet as well
+36.4) Input phrase: as a plan review staff supervisor i want to manage plan reviewer workload so that i can monitor and effectively adjust workload as needed and ensure service levels are met
+as a plan review staff supervisor i need to cope plan commentator workload so that i can proctor and effectively align workload as want and ensure service degree are met
+36.5) Input phrase: as a plan review staff supervisor i want to manage plan reviewer workload so i can monitor and effectively adjust workload as necessary and ensure service levels are met
+as a plan review staff supervisor i need to cope plan commentator workload so i can proctor and effectively align workload as necessity and ensure service degree are met
+36.6) Input phrase: as a plan review staff supervisor i want to manage plan reviewer workload so that i can monitor and effectively adjust workload as necessary and ensure service levels are met as
+as a plan review staff supervisor i need to cope plan commentator workload so that i can proctor and effectively align workload as necessity and ensure service degree are meet as
+36.7) Input phrase: as a plan review staff supervisor i want to manage plan reviewer workload so that i can monitor and effectively adjust workload as necessary and ensure service levels are met
+as a plan review staff supervisor i need to cope plan commentator workload so that i can proctor and effectively align workload as necessity and ensure service degree are met
+37.0) Input phrase: As an Applicant, I want to Request a Plan Review Meeting, so that I can meet with the Plan Review Staff regarding the plan review.
+As an Applicant, I need to request a plan revue Meeting, so that I can meet with the plan revue staff regarding the plan review.
+37.1) Input phrase: i would like to request a plan review meeting so i can meet with the plan review staff regarding the plan review
+i would like to request a plan revue meeting so i can meet with the plan revue staff regarding the plan review
+37.2) Input phrase: as a candidate i want to request a plan review meeting so i can meet with the plan review staff regarding the plan review
+as a candidate i need to request a plan revue meeting so i can meet with the plan revue staff regarding the plan review
+37.3) Input phrase: as a applicant i want to request a plan review meeting so that i can meet with the plan review staff regarding the plan review process
+as a applicant i need to request a plan revue meeting so that i can meet with the plan revue staff regarding the plan revue process
+37.4) Input phrase: as a applicant i want to request a plan review meeting so that i can meet with the plan review staff regarding the plan review request
+as a applicant i need to request a plan review meeting so that i can meet with the plan review staff regarding the plan review request
+37.5) Input phrase: as an applicant i want to request a plan review meeting so that i can meet with the plan review staff regarding the plan review process
+as an applicant i need to request a plan revue meeting so that i can meet with the plan revue staff regarding the plan revue process
+37.6) Input phrase: as a applicant i want to request a plan review meeting so i can meet with the plan review staff regarding the plan review
+as a applicant i need to request a plan revue meeting so i can meet with the plan revue staff regarding the plan review
+37.7) Input phrase: as an applicant i want to request a plan review meeting so i can meet with the plan review staff regarding the plan review
+as an applicant i need to request a plan revue meeting so i can meet with the plan revue staff regarding the plan review
+37.8) Input phrase: as a applicant i want to request a plan review meeting so that i can meet with the plan review staff regarding the plan review
+as a applicant i need to request a plan revue meeting so that i can meet with the plan revue staff regarding the plan review
+37.9) Input phrase: as a applicant i want to request a plan review meeting so that i can meet with the plan review staff regarding the plan review 
+as a applicant i need to request a plan revue meeting so that i can meet with the plan revue staff regarding the plan revue 
+37.10) Input phrase: as an applicant i want to request a plan review meeting so that i can meet with the plan review staff regarding the plan review
+as an applicant i need to request a plan revue meeting so that i can meet with the plan revue staff regarding the plan review
+38.0) Input phrase: As a Plan Review Staff member, I want to successfully Conduct a Plan Review Meeting with the Applicant and record the outcome, so that I can listen to it again.
+As a plan review staff member, I need to successfully behavior a plan review meeting with the applicant and record the outcome, so that I can heed to it again.
+38.1) Input phrase: as the plan review staff member i want to successfully conduct a plan review meeting with the applicant and record the result so i can listen to it again
+as the plan review staff member i need to successfully demeanor a plan review meeting with the applicant and record the solution so i can heed to it again
+38.2) Input phrase: as the plan review staff member i want to successfully conduct a plan review meeting with the applicant and record the outcome so i can listen to it again
+as the plan review staff member i need to successfully behavior a plan review meeting with the applicant and record the result so i can heed to it again
+38.3) Input phrase: as a plan review staff member i want to successfully conduct a plan review meeting with the applicant and record the outcome so i can listen to it again
+as a plan review staff member i need to successfully behavior a plan review meeting with the applicant and record the result so i can heed to it again
+39.0) Input phrase: As a Plan Review Staff member, I want to Review Plans, so that I can review them for compliance and either approve, or fail or deny the plans and record any conditions, clearances, or corrections needed from the Applicant.
+As a design revue staff member, I need to revue Plans, so that I can inspection them for submission and either approve, or fail or deny the design and record any conditions, clearances, or discipline want from the Applicant.
+39.1) Input phrase: as the plan review staff member i want to review plans so i can review them for compliance and either approve or fail the plans and record any conditions clearances or corrections needed from the applicant
+as the design revue staff member i need to revue design so i can revue them for submission and either approve or fail the design and record any circumstance headroom or discipline want from the applicant
+39.2) Input phrase: as a plan review staff member i want to review plans so i can review them for compliance and either approve or fail or deny the plans and record any conditions clearances or corrections needed from the applicant
+as a design revue staff member i need to revue design so i can revue them for submission and either approve or fail or deny the design and record any circumstance headroom or discipline want from the applicant
+39.3) Input phrase: as a plan review staff member i want to review plans so that i can review them for compliance and either approve or fail or deny the plans and record any conditions clearances or corrections needed from the applicant
+as a design revue staff member i need to revue design so that i can revue them for submission and either approve or fail or deny the design and record any circumstance headroom or discipline want from the applicant
+39.4) Input phrase: as a plan review staff member i want to review plans so that i can review them for compliance and either approve or fail or deny the plans and record any conditions clearances or corrections needed from the applicant'
+as a design revue staff member i need to revue design so that i can revue them for submission and either approve or fail or deny the design and record any circumstance headroom or discipline want from the applicant'
+40.0) Input phrase: As an Applicant, I want to Resubmit Plans, so that I can review revised plans.
+As an Applicant, I need to Resubmit Plans, so that I can review revised plans.
+40.1) Input phrase: as an applicant i want to submit plans again so that i can review revised plans
+as an applicant i need to submit design again so that i can review revised plans
+40.2) Input phrase: as a applicant i want to resubmit plans so i can review revised plans ''
+as a applicant i need to resubmit design so i can review revised design ''
+40.3) Input phrase: as a applicant i want to resubmit plans so i can review revised plans
+as a applicant i need to resubmit design so i can review revised plans
+40.4) Input phrase: as an applicant i want to resubmit plans so i can review revised plans
+as an applicant i need to resubmit design so i can review revised plans
+40.5) Input phrase: as a applicant i want to resubmit plans so that i can review the revised plans
+as a applicant i need to resubmit design so that i can review the revised plans
+40.6) Input phrase: as a applicant i want to resubmit plans so that i can review revised plans '
+as a applicant i need to resubmit design so that i can review revised design '
+40.7) Input phrase: as an applicant i want to resubmit plans so that i can review revised plans ''
+as an applicant i need to resubmit design so that i can review revised design ''
+40.8) Input phrase: as a applicant i want to resubmit plans so that i can review revised plans 
+as a applicant i need to resubmit design so that i can review revised design 
+40.9) Input phrase: as a applicant i want to resubmit plans so that i can review revised plans
+as a applicant i need to resubmit design so that i can review revised plans
+40.10) Input phrase: as an applicant i want to resubmit plans so that i can review revised plans
+as an applicant i need to resubmit design so that i can review revised plans
+41.0) Input phrase: As a Plan Review Staff Member, I want to Review the Code Modifications submitted by the Applicant, so that I can review the request and if approved, associate it with the appropriate project.
+As a plan inspection staff Member, I need to inspection the code change present by the Applicant, so that I can inspection the request and if approved, associate it with the allow project.
+41.1) Input phrase: as the plan review staff member i want to review the code modifications submitted by the applicant so that i can review the request and if approved affix
+as the plan review staff member i need to review the code change submitted by the applicant so that i can review the request and if approved affix
+41.2) Input phrase: as a plan review staff member i want to review the code modifications submitted by the applicant so i can review the request and if approved associate it with the relevant project
+as a plan review staff member i need to review the code change submit by the applicant so i can review the request and if approved associate it with the relevant project
+41.3) Input phrase: as the plan review staff member i want to review the code modifications submitted by the applicant so that i can review the request and if approved affix it to the appropriate project
+as the plan review staff member i need to review the code change present by the applicant so that i can review the request and if approved affix it to the allow project
+41.4) Input phrase: as a plan review staff member i want to review the code modifications submitted by the applicant so that i can review the request and if approved associate it with the relevant project
+as a plan review staff member i need to review the code change submit by the applicant so that i can review the request and if approved associate it with the relevant project
+41.5) Input phrase: as a plan review staff member i want to review the code modifications submitted by the applicant so i can review the request and if approved associate it with the appropriate project
+as a plan review staff member i need to review the code change present by the applicant so i can review the request and if approved associate it with the allow project
+41.6) Input phrase: as a plan review staff member i want to review the code modifications submitted by the applicant so that i can review the request and if approved associate it with the appropriate project
+as a plan review staff member i need to review the code change present by the applicant so that i can review the request and if approved associate it with the allow project
+42.0) Input phrase: As a Plan Review Staff member, I want to Track the Completion of Required Plan Reviews, so that I can ensure all plan review tasks are completed, results have been sent to the Applicant and any downstream steps are initiated such has a final review or payment for permit issuance.
+As a plan follow-up staff member, I need to lead the completion of want plan Reviews, so that I can ensure all plan inspection undertaking are completed, solution have been sent to the applicant and any downstream footstep are originate such has a final_examination inspection or requital for license issuance.
+42.1) Input phrase: as the plan review staff member i want to track the completion of required plan reviews so i can ensure all plan review tasks are completed results have been sent to the applicant and any downstream steps such as final review or payment for permit issuance are initiated
+as the plan revue staff member i need to lead the completion of want plan inspection so i can ensure all plan revue undertaking are dispatch solution have been sent to the applicant and any downstream footstep such as final_examination revue or requital for license issue are initiated
+42.2) Input phrase: as the plan review staff member i want to track the completion of required plan reviews so i can ensure all plan review tasks are completed results have been sent to the applicant and any downstream steps such as a final review or payment for permit issuance are initiated
+as the plan revue staff member i need to lead the completion of want plan inspection so i can ensure all plan revue undertaking are dispatch solution have been sent to the applicant and any downstream footstep such as a final_examination revue or requital for license issue are initiated
+42.3) Input phrase: as the plan review staff member i want to track the completion of required plan reviews so i can ensure all plan review tasks are completed results have been sent to the applicant and any downstream steps such as a final review or payment for permit issuance are taken
+as the plan revue staff member i need to lead the completion of want plan inspection so i can ensure all plan revue undertaking are dispatch solution have been sent to the applicant and any downstream footstep such as a final_examination revue or requital for license issue are taken
+42.4) Input phrase: as the plan review staff member i want to track the completion of required plan reviews so i can ensure all plan review tasks are completed results have been sent to the applicant and any downstream steps such as final review or payment for permit issuance
+as the plan revue staff member i need to lead the completion of want plan inspection so i can ensure all plan revue undertaking are dispatch solution have been sent to the applicant and any downstream footstep such as final_examination revue or requital for license issuance
+42.5) Input phrase: as the plan review staff member i want to track the completion of required plan reviews so i can ensure all plan review tasks are completed results have been sent to the applicant and any downstream steps such as a final review or payment for permit issuance
+as the plan revue staff member i need to lead the completion of want plan inspection so i can ensure all plan revue undertaking are dispatch solution have been sent to the applicant and any downstream footstep such as a final_examination revue or requital for license issuance
+42.6) Input phrase: as a plan review staff member i want to track the completion of required plan reviews so that i can ensure all plan review tasks are completed results have been sent to the applicant and any downstream steps such as a final review or payment for permit issuance
+as a plan revue staff member i need to lead the completion of want plan inspection so that i can ensure all plan revue undertaking are dispatch solution have been sent to the applicant and any downstream footstep such as a final_examination revue or requital for license issuance
+43.0) Input phrase: As a Development Staff member, I want to Issue a Development-related Permit, so that I can grant the request to the Applicant to begin work
+As a growth staff member, I need to consequence a Development-related Permit, so that I can concession the request to the applicant to begin work
+43.1) Input phrase: as the development staff i want to issue a development permit so that i can grant the request to the applicant to begin work on a new project
+as the exploitation staff i need to issue a exploitation license so that i can concession the request to the applicant to begin work on a new project
+43.2) Input phrase: as the development staff i want to issue a development permit so that i can grant the request to the applicant to begin work on a new product
+as the growth staff i need to consequence a growth license so that i can concession the request to the applicant to begin work on a new product
+43.3) Input phrase: as the development staff i want to issue a development permit so that i can grant the request to the applicant to begin work on the project
+as the exploitation staff i need to issue a exploitation license so that i can concession the request to the applicant to begin work on the project
+43.4) Input phrase: as the development staff i want to issue a development permit so that i can grant the request to the applicant to start work
+as the growth staff i need to emergence a growth license so that i can concession the request to the applicant to starting_signal work
+43.5) Input phrase: as the development staff i want to issue a development permit so that i can grant the request to the applicant to begin work
+as the growth staff i need to consequence a growth license so that i can concession the request to the applicant to begin work
+43.6) Input phrase: as a development staff member i want to issue a development permit so that i can grant the request to the applicant to start work
+as a growth staff member i need to emergence a growth license so that i can concession the request to the applicant to starting_signal work
+43.7) Input phrase: as a development staff member i want to issue a development permit so that i can grant the request to the applicant to begin work
+as a growth staff member i need to consequence a growth license so that i can concession the request to the applicant to begin work
+43.8) Input phrase: as a development staff member i want to issue a development-related permit so that i can grant the request to the applicant to begin work
+as a growth staff member i need to consequence a development-related license so that i can concession the request to the applicant to begin work
+44.0) Input phrase: As a Staff member, I want to Manage Bonds, so that I can track and manage bonds throughout the lifecycle of the project until release.
+As a staff member, I need to cope Bonds, so that I can track and cope alliance throughout the lifecycle of the undertaking until release.
+44.1) Input phrase: as a staff i want to manage bonds so i can track and manage bonds throughout the lifecycle of the project until release i have
+as a staff i need to cope alliance so i can track and cope alliance throughout the lifecycle of the undertaking until release i have
+44.2) Input phrase: as a staff i want to manage bonds so i can track and manage bonds throughout the life cycle of the project until release
+as a staff i need to cope alliance so i can track and cope alliance throughout the life cycle of the undertaking until release
+44.3) Input phrase: as a staff i want to manage bonds so i can track and manage bonds throughout the lifecycle of the project until release
+as a staff i need to cope alliance so i can track and cope alliance throughout the lifecycle of the undertaking until release
+44.4) Input phrase: as a staff member i want to manage bonds so i can track and manage bonds throughout the life cycle of the project until release
+as a staff member i need to cope alliance so i can track and cope alliance throughout the life cycle of the undertaking until release
+44.5) Input phrase: as a staff member i want to manage bonds so i can track and manage bonds throughout the lifecycle of the project until release
+as a staff member i need to cope alliance so i can track and cope alliance throughout the lifecycle of the undertaking until release
+44.6) Input phrase: as a staff member i want to manage bonds so that i can track and manage bonds throughout the life cycle of the project until release
+as a staff member i need to cope alliance so that i can track and cope alliance throughout the life cycle of the undertaking until release
+44.7) Input phrase: as a staff member i want to manage bonds so that i can track and manage bonds throughout the lifecycle of the project until release
+as a staff member i need to cope alliance so that i can track and cope alliance throughout the lifecycle of the undertaking until release
+45.0) Input phrase: As an Applicant, I want to Complete Building Development Project, so that I can receive any posted bond and/or obtain occupancy.
+As an Applicant, I need to dispatch construction exploitation Project, so that I can experience any stake alliance and/or receive occupancy.
+45.1) Input phrase: as a applicant i want to complete the building development project so that i can receive any posted bond andor obtain occupancy i have
+as a applicant i need to dispatch the construction exploitation undertaking so that i can experience any stake alliance andor receive occupancy i have
+45.2) Input phrase: as a applicant i want to complete the building development project so that i can receive any posted bond andor get the occupancy
+as a applicant i need to dispatch the construction exploitation undertaking so that i can experience any stake alliance andor experience the occupancy
+45.3) Input phrase: as a applicant i want to complete the building development project so that i can receive any posted bond andor get occupancy
+as a applicant i need to dispatch the construction exploitation undertaking so that i can experience any stake alliance andor experience occupancy
+45.4) Input phrase: as a applicant i want to complete the building development project so that i can receive any posted bond andor obtain the occupancy
+as a applicant i need to dispatch the construction exploitation undertaking so that i can experience any stake alliance andor receive the occupancy
+45.5) Input phrase: as an applicant i want to complete the building development project so i can receive any posted bond andor obtain occupancy
+as an applicant i need to dispatch the construction exploitation undertaking so i can experience any stake alliance andor receive occupancy
+45.6) Input phrase: as a applicant i want to complete the building development project so that i can receive any posted bond andor obtain occupancy
+as a applicant i need to dispatch the construction exploitation undertaking so that i can experience any stake alliance andor receive occupancy
+45.7) Input phrase: as an applicant i want to complete building development project so i can receive any posted bond andor obtain occupancy
+as an applicant i need to dispatch construction exploitation undertaking so i can experience any stake alliance andor receive occupancy
+45.8) Input phrase: as a applicant i want to complete the building development project so that i can receive any posted bond andor obtain occupancy 
+as a applicant i need to dispatch the construction exploitation undertaking so that i can experience any stake alliance andor receive occupancy 
+45.9) Input phrase: as an applicant i want to complete the building development project so that i can receive any posted bond andor obtain occupancy
+as an applicant i need to dispatch the construction exploitation undertaking so that i can experience any stake alliance andor receive occupancy
+45.10) Input phrase: as an applicant i want to complete building development project so that i can receive any posted bond andor obtain occupancy
+as an applicant i need to dispatch construction exploitation undertaking so that i can experience any stake alliance andor receive occupancy
+46.0) Input phrase: As an Applicant, I want to Complete Building Development Project, so that I can receive any posted bond and/or obtain occupancy.
+As an Applicant, I need to dispatch construction exploitation Project, so that I can experience any stake alliance and/or receive occupancy.
+46.1) Input phrase: as a applicant i want to complete the building development project so that i can receive any posted bond andor obtain occupancy i have
+as a applicant i need to dispatch the construction exploitation undertaking so that i can experience any stake alliance andor receive occupancy i have
+46.2) Input phrase: as a applicant i want to complete the building development project so that i can receive any posted bond andor get the occupancy
+as a applicant i need to dispatch the construction exploitation undertaking so that i can experience any stake alliance andor experience the occupancy
+46.3) Input phrase: as a applicant i want to complete the building development project so that i can receive any posted bond andor get occupancy
+as a applicant i need to dispatch the construction exploitation undertaking so that i can experience any stake alliance andor experience occupancy
+46.4) Input phrase: as a applicant i want to complete the building development project so that i can receive any posted bond andor obtain the occupancy
+as a applicant i need to dispatch the construction exploitation undertaking so that i can experience any stake alliance andor receive the occupancy
+46.5) Input phrase: as an applicant i want to complete the building development project so i can receive any posted bond andor obtain occupancy
+as an applicant i need to dispatch the construction exploitation undertaking so i can experience any stake alliance andor receive occupancy
+46.6) Input phrase: as a applicant i want to complete the building development project so that i can receive any posted bond andor obtain occupancy
+as a applicant i need to dispatch the construction exploitation undertaking so that i can experience any stake alliance andor receive occupancy
+46.7) Input phrase: as an applicant i want to complete building development project so i can receive any posted bond andor obtain occupancy
+as an applicant i need to dispatch construction exploitation undertaking so i can experience any stake alliance andor receive occupancy
+46.8) Input phrase: as a applicant i want to complete the building development project so that i can receive any posted bond andor obtain occupancy 
+as a applicant i need to dispatch the construction exploitation undertaking so that i can experience any stake alliance andor receive occupancy 
+46.9) Input phrase: as an applicant i want to complete the building development project so that i can receive any posted bond andor obtain occupancy
+as an applicant i need to dispatch the construction exploitation undertaking so that i can experience any stake alliance andor receive occupancy
+46.10) Input phrase: as an applicant i want to complete building development project so that i can receive any posted bond andor obtain occupancy
+as an applicant i need to dispatch construction exploitation undertaking so that i can experience any stake alliance andor receive occupancy
+47.0) Input phrase: As a Customer, I want to Request Inspection, so that a County inspector is assigned to perform an inspection of my project.
+As a Customer, I need to request Inspection, so that a county examiner is assigned to do an inspection of my project.
+47.1) Input phrase: as the customer i want to request inspection so that an inspector from the county will be assigned to my project
+as the customer i need to request inspection so that an examiner from the county will be assigned to my project
+47.2) Input phrase: as the customer i want to request inspection so that an inspector is assigned to my project
+as the customer i need to request inspection so that an examiner is assigned to my project
+47.3) Input phrase: as the customer i want to request inspection so that an inspector is assigned to perform inspection of my project
+as the customer i need to request inspection so that an examiner is assigned to do inspection of my project
+47.4) Input phrase: as the customer i want to request inspection so that an inspector is assigned to perform an inspection on my project
+as the customer i need to request inspection so that an examiner is assigned to do an inspection on my project
+47.5) Input phrase: as the customer i want to request inspection so that an inspector is assigned to perform an inspection of my project
+as the customer i need to request inspection so that an examiner is assigned to do an inspection of my project
+47.6) Input phrase: as a customer i want to request inspection so that a county inspector is assigned to perform an inspection on my project
+as a customer i need to request inspection so that a county examiner is assigned to do an inspection on my project
+47.7) Input phrase: as a customer i want to request inspection so that a county inspector is assigned to perform an inspection of my project
+as a customer i need to request inspection so that a county examiner is assigned to do an inspection of my project
+48.0) Input phrase: As an Inspection Staff member, I want to Create an Inspection, so that I can schedule and assign the inspection.
+As an inspection staff member, I need to Create an Inspection, so that I can agenda and assign the inspection.
+48.1) Input phrase: as inspector i want to create an inspection so i can schedule and assign inspection
+as examiner i need to create an inspection so i can agenda and assign inspection
+48.2) Input phrase: as inspector i want to create an inspection so i can schedule and assign an inspection
+as examiner i need to create an inspection so i can agenda and assign an inspection
+48.3) Input phrase: as inspector i want to create an inspection so i can schedule and assign the inspection
+as examiner i need to create an inspection so i can agenda and assign the inspection
+48.4) Input phrase: as a inspector i want to create an inspection so i can schedule and assign the inspection
+as a examiner i need to create an inspection so i can agenda and assign the inspection
+48.5) Input phrase: as an inspector i want to create an inspection so i can schedule and assign the inspection
+as an examiner i need to create an inspection so i can agenda and assign the inspection
+48.6) Input phrase: as an inspector i want to create an inspection so that i can schedule and assign the inspection
+as an examiner i need to create an inspection so that i can agenda and assign the inspection
+48.7) Input phrase: as an inspection staff member i want to create an inspection so i can schedule and assign the inspection
+as an inspection staff extremity i need to create an inspection so i can agenda and assign the inspection
+48.8) Input phrase: as an inspection staff member i want to create an inspection so that i can schedule and assign inspection
+as an inspection staff extremity i need to create an inspection so that i can agenda and assign inspection
+49.0) Input phrase: As an Inspection Staff Supervisor, I want to Assign Inspections, so that I can make sure the appropriate Inspector receives the work.
+As an inspection staff Supervisor, I need to put Inspections, so that I can brand sure the allow examiner welcome the work.
+49.1) Input phrase: i want to assign inspections as a supervisor of inspection staff so i can make sure the appropriate inspector receives the work
+i need to put inspections as a supervisor of inspection staff so i can brand sure the allow examiner welcome the work
+49.2) Input phrase: as an inspector i want to assign inspections so i can make sure the appropriate inspector receives the work
+as an examiner i need to put inspections so i can brand sure the allow examiner welcome the work
+49.3) Input phrase: as an inspection staff supervisor i want to assign inspections so i can make sure the appropriate inspector gets the work
+as an inspection staff supervisor i need to put inspections so i can cause sure the allow examiner beget the work
+49.4) Input phrase: as an inspection staff supervisor i want to assign inspections so that i can make sure the appropriate inspector receives the work properly
+as an inspection staff supervisor i need to put inspections so that i can brand sure the allow examiner welcome the bring properly
+49.5) Input phrase: as an inspection staff supervisor i want to assign inspections so i can make sure the appropriate inspector receives the work
+as an inspection staff supervisor i need to put inspections so i can brand sure the allow examiner welcome the work
+49.6) Input phrase: as an inspection staff supervisor i want to assign inspections so that i can make sure the appropriate inspector receives work
+as an inspection staff supervisor i need to put inspections so that i can brand sure the allow examiner welcome work
+49.7) Input phrase: as an inspection staff supervisor i want to assign inspections so that i can make sure the appropriate inspector receives the job
+as an inspection staff supervisor i lack to assign inspections so that i can brand sure the allow examiner welcome the job
+49.8) Input phrase: as an inspection staff supervisor i want to assign inspections so that i can make sure the appropriate inspector receives the work
+as an inspection staff supervisor i need to put inspections so that i can brand sure the allow examiner welcome the work
+49.9) Input phrase: as an inspection staff supervisor i want to assign inspections so that i can make sure the appropriate inspector receives the work 
+as an inspection staff supervisor i need to put inspections so that i can brand sure the allow examiner welcome the bring 
+50.0) Input phrase: As an Inspection Supervisor, I want to Manage Inspector Workload, so that I can meet service level and quality requirements.
+As an inspection Supervisor, I need to Manage examiner Workload, so that I can meet avail degree and quality requirements.
+50.1) Input phrase: i want to manage inspector workload so that i can meet service level and quality requirements as an inspection supervisor
+i need to manage examiner workload so that i can meet avail degree and quality necessity as an inspection supervisor
+50.2) Input phrase: i want to manage inspector workload so that i can meet service level and quality requirements
+i need to manage examiner workload so that i can meet avail degree and quality requirements
+50.3) Input phrase: as inspector i want to manage inspector workload so i can meet service level and quality requirements
+as examiner i need to manage examiner workload so i can meet avail degree and quality requirements
+50.4) Input phrase: as an inspection supervisor i want to manage the inspector workload so i can meet service level and quality requirements
+as an inspection supervisor i need to manage the examiner workload so i can meet avail degree and quality requirements
+50.5) Input phrase: as an inspection supervisor i want to manage inspector workload so that i can meet service level and quality demands
+as an inspection supervisor i lack to manage examiner workload so that i can meet avail degree and quality demands
+50.6) Input phrase: as inspection supervisor i want to manage inspector workload so i can meet service level and quality requirements
+as inspection supervisor i need to manage examiner workload so i can meet avail degree and quality requirements
+50.7) Input phrase: as an inspection supervisor i want to manage inspector workload so i can meet service level and quality requirements
+as an inspection supervisor i need to manage examiner workload so i can meet avail degree and quality requirements
+50.8) Input phrase: as an inspection supervisor i want to manage inspector workload so that i can meet service level and quality requirements
+as an inspection supervisor i need to manage examiner workload so that i can meet avail degree and quality requirements
+51.0) Input phrase: As an Inspector, I want to Conduct Inspections, so that I can validate Customer compliance with code and regulations and provide results of the inspection to the Customer.
+As an Inspector, I need to demeanor Inspections, so that I can validate customer submission with code and rule and provide consequence of the inspection to the Customer.
+51.1) Input phrase: as an inspector i want to conduct inspections so that i can validate customer compliance with code and regulations and provide customer with results of the inspection
+as an examiner i need to demeanor inspections so that i can validate customer submission with code and rule and provide customer with consequence of the inspection
+51.2) Input phrase: as an inspector i want to conduct inspections so i can validate customer compliance with code and regulations and provide the results of the inspection to the customer
+as an examiner i need to demeanor inspections so i can validate customer submission with code and rule and provide the consequence of the inspection to the customer
+51.3) Input phrase: as an inspector i want to conduct inspections so that i can validate customer compliance with code and regulations and provide the results of the inspection to the customer's
+as an examiner i need to demeanor inspections so that i can validate customer submission with code and rule and provide the consequence of the inspection to the customer's
+51.4) Input phrase: as an inspector i want to conduct inspections so i can validate customer compliance with code and regulations and provide results of the inspection to the customer
+as an examiner i need to demeanor inspections so i can validate customer submission with code and rule and provide consequence of the inspection to the customer
+51.5) Input phrase: as an inspector i want to conduct inspections so that i can validate customer compliance with code and regulations and provide the results of the inspection to the customers
+as an examiner i need to demeanor inspections so that i can validate customer submission with code and rule and provide the solution of the inspection to the customers
+51.6) Input phrase: as an inspector i want to conduct inspections so that i can validate customer compliance with code and regulations and provide the results of the inspection to the customer
+as an examiner i need to demeanor inspections so that i can validate customer submission with code and rule and provide the consequence of the inspection to the customer
+51.7) Input phrase: as an inspector i want to conduct inspections so that i can validate customer compliance with code and regulations and provide the results of the inspection to the customer 
+as an examiner i need to demeanor inspections so that i can validate customer submission with code and rule and provide the consequence of the inspection to the customer 
+51.8) Input phrase: as an inspector i want to conduct inspections so that i can validate customer compliance with code and regulations and provide results of the inspection to the customer
+as an examiner i need to demeanor inspections so that i can validate customer submission with code and rule and provide consequence of the inspection to the customer
+52.0) Input phrase: As an Enforcement Staff member, I want to Issue a Notice of Violation, so that I can provide formal communication to the responsible party.
+As an enforcement staff member, I need to emergence a poster of Violation, so that I can provide ball communication to the responsible party.
+52.1) Input phrase: as a enforcement staff member i want to issue a notice of violation so that i can provide formal communication to the liable party
+as a enforcement staff member i need to emergence a poster of violation so that i can provide ball communication to the liable party
+52.2) Input phrase: as a enforcement staff member i want to issue a notice of violation so i can provide formal communication to the responsible party
+as a enforcement staff member i need to emergence a poster of violation so i can provide ball communication to the responsible party
+52.3) Input phrase: as an enforcement staff member i want to issue a notice of violation so i can provide formal communication to the responsible party
+as an enforcement staff member i need to emergence a poster of violation so i can provide ball communication to the responsible party
+52.4) Input phrase: as a enforcement staff member i want to issue a notice of violation so that i can provide formal communication to the responsible parties
+as a enforcement staff member i need to emergence a poster of violation so that i can provide ball communication to the responsible parties
+52.5) Input phrase: as an enforcement staff member i want to issue a notice of violation so that i can provide formal communication to the responsible party ''
+as an enforcement staff member i need to emergence a poster of violation so that i can provide ball communication to the responsible party ''
+52.6) Input phrase: as a enforcement staff member i want to issue a notice of violation so that i can provide formal communication to the responsible party 
+as a enforcement staff member i need to emergence a poster of violation so that i can provide ball communication to the responsible party 
+52.7) Input phrase: as a enforcement staff member i want to issue a notice of violation so that i can provide formal communication to the responsible party
+as a enforcement staff member i need to emergence a poster of violation so that i can provide ball communication to the responsible party
+52.8) Input phrase: as an enforcement staff member i want to issue a notice of violation so that i can provide formal communication to the responsible party
+as an enforcement staff member i need to emergence a poster of violation so that i can provide ball communication to the responsible party
+53.0) Input phrase: As a l Staff member, I want to search for Property information, so that I can obtain all associated current and historic owners, permits, and applications.
+As a liter staff member, I need to search for property information, so that I can obtain all consort stream and historic owners, permits, and applications.
+53.1) Input phrase: as an employee i want to search for property information so that i can obtain all associated current and historic owners permits and applications
+as an employee i need to search for property information so that i can obtain all consort stream and historic owners license and applications
+53.2) Input phrase: as a staff member i want to search for property information so i can obtain all associated current and historic owners permits and applications
+as a staff extremity i need to search for property data so i can obtain all consort stream and historic owners license and applications
+53.3) Input phrase: as a l staff member i want to search for property information so i can obtain all associated current and historic owners permits and application
+as a liter staff extremity i need to search for property data so i can obtain all consort stream and historic owners license and application
+53.4) Input phrase: as a l staff member i want to search for property information so i can obtain all associated current and historic owners permits and applications
+as a liter staff extremity i need to search for property data so i can obtain all consort stream and historic owners license and applications
+53.5) Input phrase: as a staff member i want to search for property information so that i can obtain all associated current and historic owners permits and applications
+as a staff extremity i need to search for property data so that i can obtain all consort stream and historic owners license and applications
+53.6) Input phrase: as a l staff member i want to search for property information so that i can obtain all associated current and historic owners permits and application
+as a liter staff extremity i need to search for property data so that i can obtain all consort stream and historic owners license and application
+53.7) Input phrase: as a l staff member i want to search for property information so that i can obtain all associated current and historic owners permits and applications
+as a liter staff extremity i need to search for property data so that i can obtain all consort stream and historic owners license and applications
+53.8) Input phrase: as a l staff member i want to search for property information so that i can obtain all associated current and historic owners permits and applications 
+as a liter staff extremity i need to search for property data so that i can obtain all consort stream and historic owners license and lotion 
+54.0) Input phrase: As a Staff member, I need to be notified when Geospatial attributes change, so that I can ensure that I am reviewing the permit/application to the most current data and appropriate standards.
+As a staff member, I motivation to be advise when Geospatial property change, so that I can ensure that I am review the permit/application to the most stream data and allow standards.
+54.1) Input phrase: as a staff member i need to be notified when geospatial attributes change so i can ensure that i review the permitapplication to the most current data and appropriate standards
+as a staff member i motivation to be notified when geospatial property change so i can ensure that i revue the permitapplication to the most stream datum and allow standards
+54.2) Input phrase: as a staff member i need to be notified when geospatial attributes change so that i can ensure that i review the permitapplication to the most current data and appropriate standards
+as a staff member i motivation to be notified when geospatial property change so that i can ensure that i revue the permitapplication to the most stream datum and allow standards
+54.3) Input phrase: as a staff member i need to be notified when geospatial attributes change so that i can ensure that i am reviewing the permitapplication to the most current data and appropriate standard
+as a staff member i motivation to be notified when geospatial property change so that i can ensure that i am review the permitapplication to the most stream data and allow standard
+54.4) Input phrase: as a staff member i need to be notified when geospatial attributes change so that i can ensure that i am reviewing the permitapplication to the most current data and appropriate standards 
+as a staff member i motivation to be notified when geospatial property change so that i can ensure that i am review the permitapplication to the most stream data and allow criterion 
+54.5) Input phrase: as a staff member i need to be notified when geospatial attributes change so that i can ensure that i am reviewing the permitapplication to the most current data and appropriate standards
+as a staff member i motivation to be notified when geospatial property change so that i can ensure that i am review the permitapplication to the most stream data and allow standards
+55.0) Input phrase: As a County Staff Member, I want to create a custom query/report outside of the common querying/reporting functionality, so that I can fulfill a request.
+As a county staff Member, I need to make a custom query/report outside of the park querying/reporting functionality, so that I can carry_through a request.
+55.1) Input phrase: as a county staff member i want to create a custom queryreport outside the common queryingreporting functionality so i can fulfill a request
+as a county staff extremity i need to make a custom queryreport outside the park queryingreporting functionality so i can carry_through a request
+55.2) Input phrase: as a county staff member i want to create a custom queryreport outside of the common queryreporting functionality so i can fulfill a request
+as a county staff extremity i need to make a custom queryreport outside of the park queryreporting functionality so i can carry_through a request
+55.3) Input phrase: as a county staff member i want to create a custom queryreport outside of the common queryingreporting functionality so i can fulfill a request 
+as a county staff extremity i need to make a custom queryreport outside of the park queryingreporting functionality so i can carry_through a request 
+55.4) Input phrase: as a county staff member i want to create a custom queryreport outside of the common queryingreporting functionality so i can fulfill a request
+as a county staff extremity i need to make a custom queryreport outside of the park queryingreporting functionality so i can carry_through a request
+55.5) Input phrase: as a county staff member i want to create a custom queryreport outside of the common queryingreporting functionality so that i can fulfill a request i
+as a county staff extremity i need to make a custom queryreport outside of the park queryingreporting functionality so that i can carry_through a request i
+55.6) Input phrase: as a county staff member i want to create a custom queryreport outside of the common queryingreporting functionality so that i can fulfill a request
+as a county staff extremity i need to make a custom queryreport outside of the park queryingreporting functionality so that i can carry_through a request
+55.7) Input phrase: as a county staff member i want to create a custom queryreport outside of the common queryingreporting functionality so that i can fulfill a request 
+as a county staff extremity i need to make a custom queryreport outside of the park queryingreporting functionality so that i can carry_through a request 
+56.0) Input phrase: As a Staff member, I want to create each condo unit, so that I can associate it to the child parcel and address after the condominiums are recorded in the system.
+As a staff member, I need to create each condominium unit, so that I can associate it to the child package and address after the condominiums are read in the system.
+56.1) Input phrase: as a staff member i want to create each condominium unit so i can associate it with the child parcel and address after the condominiums are recorded in the system
+as a staff member i need to create each condominium whole so i can associate it with the child package and address after the condominiums are read in the system
+56.2) Input phrase: as a staff member i want to create each condo unit so i can associate it with the child parcel and address after the condominiums are recorded in the system ''
+as a staff member i need to create each condominium whole so i can associate it with the child package and address after the condominiums are read in the system ''
+56.3) Input phrase: as a staff member i want to create each condo unit so i can associate it with the child parcel and address after the condominiums are recorded in the system
+as a staff member i need to create each condominium whole so i can associate it with the child package and address after the condominiums are read in the system
+56.4) Input phrase: as a staff member i want to create each condo unit so i can associate it to the child parcel and address after the condominiums are recorded in the system
+as a staff member i need to create each condominium whole so i can associate it to the child package and address after the condominiums are read in the system
+56.5) Input phrase: as a staff member i want to create each condo unit so that i can associate it with the child parcel and address after the condominiums are recorded in the system '
+as a staff member i need to create each condominium whole so that i can associate it with the child package and address after the condominiums are read in the system '
+56.6) Input phrase: as a staff member i want to create each condo unit so that i can associate it with the child parcel and address after the condominiums are recorded in the system
+as a staff member i need to create each condominium whole so that i can associate it with the child package and address after the condominiums are read in the system
+56.7) Input phrase: as a staff member i want to create each condo unit so that i can associate it to the child parcel and address after the condominiums are recorded in the system '
+as a staff member i need to create each condominium whole so that i can associate it to the child package and address after the condominiums are read in the system '
+56.8) Input phrase: as a staff member i want to create each condo unit so that i can associate it to the child parcel and address after the condominiums are recorded in the system
+as a staff member i need to create each condominium whole so that i can associate it to the child package and address after the condominiums are read in the system
+57.0) Input phrase: As a Technical Staff member, I want to update the GIS Property Management, so that I can successfully update the transactional Parcel Pin to reference the GIS layer where the Split or Merged Parcel Pin exists.
+As a technical staff member, I need to update the gilbert property Management, so that I can successfully update the transactional package peg to reference_point the gilbert layer where the rip or blend package peg exists.
+57.1) Input phrase: as a technical staff member i want to update the gis property management so i can successfully update the transactional parcel pin to reference the gis layer where the split or merged parcel pin exists
+as a technical staff member i need to update the gilbert property management so i can successfully update the transactional package peg to reference_point the gilbert layer where the rip or blend package peg exists
+57.2) Input phrase: as technical staff member i want to update the gis property management so that i can successfully update the transactional parcel pin to reference the gis layer where the split or merged parcel pin exist
+as technical staff member i need to update the gilbert property management so that i can successfully update the transactional package peg to reference_point the gilbert layer where the rip or blend package peg exist
+57.3) Input phrase: as technical staff member i want to update the gis property management so that i can successfully update the transactional parcel pin to reference the gis layer where the split or merged parcel pin exists i
+as technical staff member i need to update the gilbert property management so that i can successfully update the transactional package peg to reference_point the gilbert layer where the rip or blend package peg exists i
+57.4) Input phrase: as technical staff member i want to update the gis property management so that i can successfully update the transactional parcel pin to reference the gis layer where the split or merged parcel pin exists
+as technical staff member i need to update the gilbert property management so that i can successfully update the transactional package peg to reference_point the gilbert layer where the rip or blend package peg exists
+57.5) Input phrase: as technical staff member i want to update the gis property management so that i can successfully update the transactional parcel pin to reference the gis layer where the split or merged parcel pin exists 
+as technical staff member i need to update the gilbert property management so that i can successfully update the transactional package peg to reference_point the gilbert layer where the rip or blend package peg exists 
+58.0) Input phrase: As a Staff member, I want to Send or Post Citations and Fines, so that I can successfully send the Notice Of Violation document to the property owner and log information about the action.
+As a staff member, I need to station or station quotation and Fines, so that I can successfully station the poster Of violation document to the property owner and log information about the action.
+58.1) Input phrase: if i want to send or post citations and fines i need to send the notice of violation document to the property owner and log information about the action
+if i lack to mail or station quotation and fines i motivation to mail the poster of violation document to the property owner and log information about the action
+58.2) Input phrase: if i want to send or post citations and fines so that i can successfully send the notice of violation document to the property owner and log information about the action i have taken
+if i need to station or station quotation and ticket so that i can successfully station the poster of violation document to the property owner and log information about the action i have taken
+58.3) Input phrase: if i want to send or post citations and fines so that i can successfully send the notice of violation document to the property owner and log information about the action i have
+if i need to mail or station quotation and fines so that i can successfully mail the poster of violation document to the property owner and log information about the action i have
+58.4) Input phrase: if i want to send or post citations and fines so that i can successfully send the notice of violation document to the property owner and record information about the action
+if i need to mail or station quotation and fines so that i can successfully mail the poster of violation document to the property owner and record information about the action
+58.5) Input phrase: if i want to send or post citations and fines so that i can successfully send the notice of violation document to the property owner and log information about the action
+if i need to mail or station quotation and fines so that i can successfully mail the poster of violation document to the property owner and log information about the action
+58.6) Input phrase: as a staff member i want to send or post citations and fines so i can successfully send the notice of violation document to the property owner and log information about the action
+as a staff member i need to mail or station quotation and fines so i can successfully mail the poster of violation document to the property owner and log information about the action
+
+Time for single file = 73.9921 seconds = 1.2332 minutes = 0.0206 hours

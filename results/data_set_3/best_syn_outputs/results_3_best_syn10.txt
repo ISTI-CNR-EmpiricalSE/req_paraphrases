@@ -1,0 +1,1024 @@
+data_set_number:3
+similarity:path
+simulate_root:False
+
+1.0) Input phrase: As a user, I want to click on the address, so that it takes me to a new tab with Google Maps.
+As a user, I need to chink on the address, so that it return me to a new tab with google Maps.
+1.1) Input phrase: as a user i want to click on the address so that i can go to a new tab with google maps
+as a user i need to chink on the address so that i can crack to a new tab with google maps
+1.2) Input phrase: as a user i want to click on the address so it takes me to a new tab with google maps
+as a user i need to chink on the address so it return me to a new tab with google maps
+1.3) Input phrase: as a user i want to click on the address so that it takes me to a new tab on google maps
+as a user i need to chink on the address so that it return me to a new tab on google maps
+1.4) Input phrase: as a user i want to click on the address so that it takes me to a new tab in google maps
+as a user i need to chink on the address so that it return me to a new tab in google maps
+1.5) Input phrase: as a user i want to click on the address so that it takes me to a new tab with google maps ''
+as a user i need to chink on the address so that it return me to a new tab with google function ''
+1.6) Input phrase: in my case as a user i want to click on the address so it takes me to a new tab with google maps
+in my subject as a user i need to chink on the address so it return me to a new tab with google maps
+1.7) Input phrase: as a user i want to click on the address so that it takes me to a new tab with google maps i
+as a user i need to chink on the address so that it return me to a new tab with google function i
+1.8) Input phrase: as a user i want to click on the address so that it takes me to a new tab with google maps
+as a user i need to chink on the address so that it return me to a new tab with google maps
+2.0) Input phrase: As a user, I want to be able to anonymously view public information, so that I know about recycling centers near me before creating an account.
+As a user, I need to be able to anonymously opinion populace information, so that I know about recycling kernel near me before create an account.
+2.1) Input phrase: as a user i want to be able to view public information anonymously so that i know about recycling centers near me before creating an account i
+as a user i need to be able to opinion populace information anonymously so that i know about recycling kernel near me before create an explanation i
+2.2) Input phrase: as a user i want to be able to view public information anonymously so i know about recycling centers near me before creating an account
+as a user i need to be able to opinion populace information anonymously so i know about recycling kernel near me before create an account
+2.3) Input phrase: as a user i want to be able to view public information anonymously so that i know about recycling centers near me before creating an account
+as a user i need to be able to opinion populace information anonymously so that i know about recycling kernel near me before create an account
+2.4) Input phrase: as a user i want to be able to anonymously view public information to know about recycling centers near me before creating an account
+as a user i need to be able to anonymously opinion populace information to know about recycling kernel near me before create an account
+2.5) Input phrase: as a user i want to be able to anonymously view public information so i know about recycling centers near me before creating an account
+as a user i need to be able to anonymously opinion populace information so i know about recycling kernel near me before create an account
+2.6) Input phrase: as a user i want to be able to anonymously view public information so that i know about recycling centers near me before creating an account
+as a user i need to be able to anonymously opinion populace information so that i know about recycling kernel near me before create an account
+3.0) Input phrase: As a user, I want to be able to enter my zip code and get a list of nearby recycling facilities, so that I can determine which ones I should consider.
+As a user, I need to be able to figure my nothing code and get a tilt of nearby recycling facilities, so that I can determine which ones I should consider.
+3.1) Input phrase: i would like to be able to enter my zip code and get a list of nearby recycling facilities so i can determine which ones to consider
+i would like to be able to embark my nothing code and get a tilt of nearby recycling adeptness so i can determine which ones to consider
+3.2) Input phrase: i would like to be able to enter my zip code and get a list of nearby recycling facilities so i can decide which ones i should consider
+i would like to be able to embark my nothing code and get a tilt of nearby recycling adeptness so i can decide which ones i should consider
+3.3) Input phrase: i would like to be able to enter my zip code and get a list of nearby recycling facilities so i could determine which ones i should consider
+i would like to be able to embark my nothing code and get a tilt of nearby recycling adeptness so i could determine which ones i should consider
+3.4) Input phrase: i would like to be able to enter my zip code and get a list of nearby recycling facilities so i can determine which ones i should consider if i
+i would like to be able to embark my nothing code and get a tilt of nearby recycling adeptness so i can determine which ones i should consider if i
+3.5) Input phrase: i would like to be able to enter my zip code and get a list of nearby recycling facilities so i can determine which ones i should consider if
+i would like to be able to embark my nothing code and get a tilt of nearby recycling adeptness so i can determine which ones i should consider if
+3.6) Input phrase: i would like to be able to enter my zip code and get a list of nearby recycling facilities so i can determine which one i should consider
+i would like to be able to embark my nothing code and get a tilt of nearby recycling adeptness so i can determine which one i should consider
+3.7) Input phrase: i would like to be able to enter my zip code and get a list of nearby recycling facilities so i can determine which ones i should consider
+i would like to be able to embark my nothing code and get a tilt of nearby recycling adeptness so i can determine which ones i should consider
+3.8) Input phrase: i would like to be able to enter my zip code and get a list of nearby recycling facilities so i can determine which ones i should consider 
+i would like to be able to embark my nothing code and get a tilt of nearby recycling adeptness so i can determine which ones i should consider 
+3.9) Input phrase: as a user i want to be able to enter my zip code and get a list of nearby recycling facilities so i can determine which ones to consider
+as a user i need to be able to figure my nothing code and get a tilt of nearby recycling adeptness so i can determine which ones to consider
+4.0) Input phrase: As a user, I want to be able to get the hours of each recycling facility, so that I can arrange drop-offs on my off days or during after-work hours.
+As a user, I need to be able to get the hours of each recycling facility, so that I can format drop-offs on my off sidereal_day or during after-work hours.
+4.1) Input phrase: as a user i want to be able to get hours of each recycling facility so i can arrange drop-offs on my off days or during after-work hours
+as a user i need to be able to get hours of each recycling facility so i can format drop-offs on my off sidereal_day or during after-work hours
+4.2) Input phrase: as a user i want to be able to get the hours of each recycling facility so i can arrange drop offs on my off days or during after-work hours
+as a user i need to be able to get the hours of each recycling facility so i can format cliff offs on my off sidereal_day or during after-work hours
+4.3) Input phrase: if i am a user i want to be able to get the hours of each recycling facility so i can arrange drop-offs on my off days or during after-work hours
+if i am a user i need to be able to get the hours of each recycling facility so i can format drop-offs on my off sidereal_day or during after-work hours
+4.4) Input phrase: as a user i want to be able to get the hours of each recycling facility so i can arrange drop-offs on my off days or during after-work hours
+as a user i need to be able to get the hours of each recycling facility so i can format drop-offs on my off sidereal_day or during after-work hours
+4.5) Input phrase: as a user i want to be able to get hours of each recycling facility so that i can arrange drop-offs on my off days or during after-work hours
+as a user i need to be able to get hours of each recycling facility so that i can format drop-offs on my off sidereal_day or during after-work hours
+4.6) Input phrase: as a user i want to be able to get the hours of each recycling facility so that i can arrange drop-offs on my off days or during after-work days
+as a user i need to be able to get the hours of each recycling adeptness so that i can format drop-offs on my off sidereal_day or during after-work days
+4.7) Input phrase: as a user i want to be able to get the hours of each recycling facility so that i can arrange drop-offs on my off days or during after-work hours 
+as a user i need to be able to get the hours of each recycling facility so that i can format drop-offs on my off sidereal_day or during after-work hours 
+4.8) Input phrase: as a user i want to be able to get the hours of each recycling facility so that i can arrange drop-offs on my off days or during after-work hours
+as a user i need to be able to get the hours of each recycling facility so that i can format drop-offs on my off sidereal_day or during after-work hours
+5.0) Input phrase: As a user, I want to have a flexible pick up time, so that I can more conveniently use the website.
+As a user, I need to have a flexible choice up time, so that I can more conveniently function the website.
+5.1) Input phrase: i would like a flexible pickup time so i could use the website more conveniently
+i would like a flexible tone_arm time so i could function the web_site more conveniently
+5.2) Input phrase: i would like a flexible pick up time so i could use the website more conveniently
+i would like a flexible choice up time so i could use the web_site more conveniently
+5.3) Input phrase: i would like a flexible pick up time so i can use the website more conveniently
+i would like a flexible choice up time so i can use the web_site more conveniently
+5.4) Input phrase: i would like a flexible pick up time so that i can use the website more easily and efficiently
+i would like a flexible choice up time so that i can use the web_site more easily and efficiently
+5.5) Input phrase: i would like a flexible pick up time so that i could use the website more conveniently
+i would like a flexible choice up time so that i could use the web_site more conveniently
+5.6) Input phrase: i would like a flexible pick up time so that i can use the website more easily and easily
+i would like a flexible choice up time so that i can use the web_site more easily and easily
+5.7) Input phrase: i would like a flexible pick up time so that i can use the website more conveniently
+i would like a flexible choice up time so that i can use the web_site more conveniently
+5.8) Input phrase: i would like a flexible pick up time so that i can use the website more conveniently and easily
+i would like a flexible choice up time so that i can use the web_site more conveniently and easily
+5.9) Input phrase: i would like a flexible pick up time so that i can use the website more easily
+i would like a flexible choice up time so that i can use the web_site more easily
+5.10) Input phrase: as a user i want a flexible pick up time so i can use the website more conveniently
+as a user i need a flexible choice up time so i can function the web_site more conveniently
+6.0) Input phrase: As a user, I want to be able to select different types of recyclable waste, so I have and get a list of facilities that accept each type and their opening hours, so that I can find an optimal route and schedule.
+As a user, I need to be able to select different character of recyclable waste, so I have and receive a tilt of facility that accept each character and their opening hours, so that I can discovery an optimal road and schedule.
+6.1) Input phrase: as a user i want to be able to select different types of recyclable waste so i have a list of facilities that accept each type and their opening hours so i can find an optimal route and schedule
+as a user i need to be able to select different character of recyclable waste so i have a tilt of facility that accept each character and their opening hours so i can discovery an optimal road and schedule
+6.2) Input phrase: as a user i want to be able to choose different types of recyclable waste so i have and get a list of facilities that accept each type and their opening hours so i can find an optimal route and schedule
+as a user i need to be able to choose different character of recyclable waste so i have and receive a tilt of facility that accept each character and their opening hours so i can discovery an optimal road and schedule
+6.3) Input phrase: as a user i want to be able to select different types of recyclable waste so that i have and get a list of facilities that accept each type and their opening hours so i can find an optimal route and schedule
+as a user i need to be able to select different character of recyclable waste so that i have and receive a tilt of facility that accept each character and their opening hours so i can discovery an optimal road and schedule
+6.4) Input phrase: as a user i want to be able to select different types of recyclable waste so i have and get a list of facilities that accept each type and their opening hours so i can find an optimal route and a schedule
+as a user i need to be able to select different character of recyclable waste so i have and receive a tilt of facility that accept each character and their opening hours so i can discovery an optimal road and a schedule
+6.5) Input phrase: as a user i want to be able to select different types of recyclable waste so i have and get a list of facilities that accept each type and their opening hours so i can find an optimal route and schedule
+as a user i need to be able to select different character of recyclable waste so i have and receive a tilt of facility that accept each character and their opening hours so i can discovery an optimal road and schedule
+6.6) Input phrase: as a user i want to be able to select different types of recyclable waste so i have and get a list of facilities that accept each type and their opening hours so that i can find an optimal route and schedule
+as a user i need to be able to select different character of recyclable waste so i have and receive a tilt of facility that accept each character and their opening hours so that i can discovery an optimal road and schedule
+6.7) Input phrase: as a user i want to be able to select different types of recyclable waste so i have and get a list of facilities that accept each type and their opening hours so that i can find an optimal route and schedule 
+as a user i need to be able to select different character of recyclable waste so i have and receive a tilt of facility that accept each character and their opening hours so that i can discovery an optimal road and schedule 
+7.0) Input phrase: As a user, I want to add donation centers as favorites on my profile, so that I can view them later.
+As a user, I need to attention_deficit_disorder contribution kernel as darling on my profile, so that I can opinion them later.
+7.1) Input phrase: as a user i want to add donation centers to my profile as favorites so i can view them later
+as a user i need to attention_deficit_disorder contribution kernel to my profile as darling so i can opinion them later
+7.2) Input phrase: i want to add donation centers as favorites on my profile so i can see them later
+i need to attention_deficit_disorder contribution kernel as darling on my profile so i can see them later
+7.3) Input phrase: i want to add donation centers as favorites on my profile so i can view them later
+i need to attention_deficit_disorder contribution kernel as darling on my profile so i can opinion them later
+7.4) Input phrase: i want to add donation centers as favorites on my profile so that i can see them later
+i need to attention_deficit_disorder contribution kernel as darling on my profile so that i can see them later
+7.5) Input phrase: i want to add donation centers as favorites on my profile so that i can view them later on
+i need to attention_deficit_disorder contribution kernel as darling on my profile so that i can opinion them later on
+7.6) Input phrase: i want to add donation centers as favorites on my profile so that i can view them later
+i need to attention_deficit_disorder contribution kernel as darling on my profile so that i can opinion them later
+7.7) Input phrase: as a user i want to add donation centers as favorites on my profile so i can see them later
+as a user i need to attention_deficit_disorder contribution kernel as darling on my profile so i can see them later
+7.8) Input phrase: as a user i want to add donation centers as favorites on my profile so i can view them later
+as a user i need to attention_deficit_disorder contribution kernel as darling on my profile so i can opinion them later
+7.9) Input phrase: as a user i want to add donation centers as favorites on my profile so that i can see them later
+as a user i need to attention_deficit_disorder contribution kernel as darling on my profile so that i can see them later
+7.10) Input phrase: as a user i want to add donation centers as favorites on my profile so that i can view them later
+as a user i need to attention_deficit_disorder contribution kernel as darling on my profile so that i can opinion them later
+8.0) Input phrase: As a user, I want to be able to give my email ID, so that I can receive notifications for new events as they are posted.
+As a user, I need to be able to give my electronic_mail ID, so that I can experience presentment for new consequence as they are posted.
+8.1) Input phrase: as a user i want to be able to give my email id so that i can receive notifications for new events as they are posted on the website
+as a user i need to be able to give my electronic_mail id so that i can experience presentment for new consequence as they are posted on the website
+8.2) Input phrase: as a user i want to be able to give my email id to receive notifications for new events as they are posted
+as a user i need to be able to give my electronic_mail id to experience presentment for new consequence as they are posted
+8.3) Input phrase: as a user i want to be able to give my email id so that i can receive notifications for new events as they are posted on the site
+as a user i need to be able to give my electronic_mail id so that i can experience presentment for new consequence as they are station on the site
+8.4) Input phrase: as a user i want to be able to give my email id so that i can receive notifications for new events as they are posted on my site
+as a user i need to be able to give my electronic_mail id so that i can experience presentment for new consequence as they are station on my site
+8.5) Input phrase: as a user i want to be able to give my email address so that i can receive notifications for new events as they are posted
+as a user i need to be able to give my electronic_mail address so that i can experience presentment for new consequence as they are posted
+8.6) Input phrase: as a user i want to be able to give my email id so i can receive notifications for new events as they are posted
+as a user i need to be able to give my electronic_mail id so i can experience presentment for new consequence as they are posted
+8.7) Input phrase: as a user i want to be able to give my email id so that i can receive notifications for new events as they are posted ''
+as a user i need to be able to give my electronic_mail id so that i can experience presentment for new consequence as they are posted ''
+8.8) Input phrase: as a user i want to be able to give my email id so that i can receive notifications for new events as they're posted
+as a user i need to be able to give my electronic_mail id so that i can experience presentment for new consequence as they're posted
+8.9) Input phrase: as a user i want to be able to give my email id so that i can receive notifications of new events as they are posted
+as a user i need to be able to give my electronic_mail id so that i can experience presentment of new consequence as they are posted
+8.10) Input phrase: as a user i want to be able to give my email id so that i can receive notifications for new events as they are posted
+as a user i need to be able to give my electronic_mail id so that i can experience presentment for new consequence as they are posted
+9.0) Input phrase: As a user, I want to be able to view a map display of the public recycling bins around my area.
+As a user, I need to be able to opinion a function display of the populace recycling bank_identification_number around my area.
+9.1) Input phrase: in my opinion as a user i want to be able to view a map of public recycling bins around my area
+in my opinion as a user i need to be able to opinion a function of populace recycling bank_identification_number around my area
+9.2) Input phrase: as a user i want to be able to view a map of the public recycling bins in my area
+as a user i need to be able to opinion a function of the populace recycling bank_identification_number in my area
+9.3) Input phrase: as a user i want to be able to view a map of public recycling bins around my area
+as a user i need to be able to opinion a function of populace recycling bank_identification_number around my area
+9.4) Input phrase: as a user i want to be able to view a map of the public recycling bins around my area '
+as a user i need to be able to opinion a function of the populace recycling bank_identification_number around my sphere '
+9.5) Input phrase: as a user i want to be able to view a map of the public recycling bins around my area
+as a user i need to be able to opinion a function of the populace recycling bank_identification_number around my area
+9.6) Input phrase: as a user i want to be able to view a map display of public recycling bins around my area
+as a user i need to be able to opinion a function display of populace recycling bank_identification_number around my area
+9.7) Input phrase: as a user i want to be able to view a map display of the public recycling bins around my region
+as a user i need to be able to opinion a function display of the populace recycling bank_identification_number around my region
+9.8) Input phrase: as a user i want to be able to view a map display of the public recycling bins around my area
+as a user i need to be able to opinion a function display of the populace recycling bank_identification_number around my area
+9.9) Input phrase: as a user i want to be able to view a map display of the public recycling bins around my area 
+as a user i need to be able to opinion a function display of the populace recycling bank_identification_number around my sphere 
+10.0) Input phrase:  As a user, I want to be able to view a map display of the special waste drop off sites around my area.
+ As a user, I need to be able to opinion a function display of the special waste cliff off web_site around my area.
+10.1) Input phrase: i want to see a map of the special waste drop off sites in my area as a user
+i need to see a function of the special waste cliff off web_site in my area as a user
+10.2) Input phrase: i want to see a map of the special waste drop-off sites around my area as a customer
+i need to see a function of the special waste drop-off web_site around my area as a customer
+10.3) Input phrase: i want to see a map of the special waste drop off sites around my area as a customer
+i need to see a function of the special waste cliff off web_site around my area as a customer
+10.4) Input phrase: i want to see a map of the special waste drop off sites around my area as an user
+i need to see a function of the special waste cliff off web_site around my area as an user
+10.5) Input phrase: i want to see a map of the special waste drop-off sites around my area as a user
+i need to see a function of the special waste drop-off web_site around my area as a user
+10.6) Input phrase: i want to see a map of the special waste drop off sites around my area as a user
+i need to see a function of the special waste cliff off web_site around my area as a user
+10.7) Input phrase: i want to see a map of the special waste drop off sites in my area
+i need to see a function of the special waste cliff off web_site in my area
+10.8) Input phrase: i want to see a map of special waste drop off sites around my area
+i need to see a function of special waste cliff off web_site around my area
+10.9) Input phrase: i want to see a map of the special waste drop-off sites around my area
+i need to see a function of the special waste drop-off web_site around my area
+10.10) Input phrase: i want to see a map of the special waste drop off sites around my area
+i need to see a function of the special waste cliff off web_site around my area
+11.0) Input phrase:  As a user, I want to be able to view the safe disposal events currently being organised around my area.
+ As a user, I need to be able to opinion the condom disposal consequence currently being mastermind around my area.
+11.1) Input phrase: as a user i want to be able to view the safe disposal events that are currently being organised around my neighborhood
+as a user i need to be able to opinion the condom disposal consequence that are currently being mastermind around my neighborhood
+11.2) Input phrase: as a user i want to be able to view the safe disposal events that are currently being organised around my community
+as a user i need to be able to opinion the condom disposal consequence that are currently being mastermind around my community
+11.3) Input phrase: as a user i want to be able to view the safe disposal events that are currently being organised around my locality
+as a user i need to be able to opinion the condom disposal consequence that are currently being mastermind around my locality
+11.4) Input phrase: as a user i want to be able to view the safe disposal events that are currently being organised around my region
+as a user i need to be able to opinion the condom disposal consequence that are currently being mastermind around my region
+11.5) Input phrase: as a user i want to be able to view the safe disposal events that are currently being organised around my area
+as a user i need to be able to opinion the condom disposal consequence that are currently being mastermind around my area
+11.6) Input phrase: as a user i want to be able to view the safe disposal events currently being organised in my area
+as a user i need to be able to opinion the condom disposal consequence currently being mastermind in my area
+11.7) Input phrase: as a user i want to be able to see the safe disposal events currently being organised around my area
+as a user i need to be able to see the condom disposal consequence currently being form around my area
+11.8) Input phrase: as a user i want to be able to view the safe disposal events currently being organized around my area
+as a user i need to be able to opinion the condom disposal consequence currently being mastermind around my area
+11.9) Input phrase: as a user i want to be able to view the safe disposal events currently being organised around my area
+as a user i need to be able to opinion the condom disposal consequence currently being mastermind around my area
+12.0) Input phrase:  As a user, I want to choose a flexible pick up time, so that I can more conveniently use the website.
+ As a user, I need to choose a flexible choice up time, so that I can more conveniently function the website.
+12.1) Input phrase: the user wants to choose a flexible pickup time so i can use the website more conveniently
+the user need to choose a flexible tone_arm time so i can function the web_site more conveniently
+12.2) Input phrase: the user wants to choose a flexible pick up time so i can use the website more conveniently
+the user need to choose a flexible choice up time so i can function the web_site more conveniently
+12.3) Input phrase: the user wants to choose a flexible pickup time so i can use the website more easily
+the user need to choose a flexible tone_arm time so i can function the web_site more easily
+12.4) Input phrase: the user wants to choose a flexible pick up time so i can use the website more easily
+the user need to choose a flexible choice up time so i can function the web_site more easily
+12.5) Input phrase: as a user i want to choose a flexible pickup time so i can use the website more conveniently
+as a user i need to choose a flexible tone_arm time so i can function the web_site more conveniently
+12.6) Input phrase: the user wants to choose a flexible pick up time so that i can use the website more efficiently
+the user need to choose a flexible choice up time so that i can function the web_site more efficiently
+12.7) Input phrase: as a user i want to choose a flexible pick up time so i can use the website more conveniently
+as a user i need to choose a flexible choice up time so i can function the web_site more conveniently
+12.8) Input phrase: the user wants to choose a flexible pick up time so that i can use the website more conveniently
+the user need to choose a flexible choice up time so that i can function the web_site more conveniently
+12.9) Input phrase: the user wants to choose a flexible pick up time so that i can use the website more easily
+the user need to choose a flexible choice up time so that i can function the web_site more easily
+12.10) Input phrase: as a user i want to choose a flexible pickup time so that i can use the website more conveniently
+as a user i need to choose a flexible tone_arm time so that i can function the web_site more conveniently
+13.0) Input phrase:  As a user, I want to view user documentation for the website, so that I know how to use the web app.
+ As a user, I need to opinion user documentation for the website, so that I know how to function the web app.
+13.1) Input phrase: if i am a user i want to see the user documentation for the website so i know how to use the web app
+if i am a user i need to see the user documentation for the web_site so i know how to consumption the web app
+13.2) Input phrase: as a user i want to view the user documentation for the website so that i know how to use the web application
+as a user i need to opinion the user documentation for the web_site so that i know how to use the web application
+13.3) Input phrase: if i am a user i want to view the user documentation for the website so i know how to use the web app
+if i am a user i need to opinion the user documentation for the web_site so i know how to function the web app
+13.4) Input phrase: as a user i want to view the user documentation for the website so i know how to use the web app
+as a user i need to opinion the user documentation for the web_site so i know how to function the web app
+13.5) Input phrase: as a user i want to see user documentation for the website so i know how to use the web app
+as a user i need to see user documentation for the web_site so i know how to consumption the web app
+13.6) Input phrase: as a user i want to view user documentation for the website so i know how to use the web app
+as a user i need to opinion user documentation for the web_site so i know how to function the web app
+13.7) Input phrase: as a user i want to view the user documentation for the website so that i know how to use the webapp
+as a user i need to opinion the user documentation for the web_site so that i know how to function the webapp
+13.8) Input phrase: as a user i want to view the user documentation for the website so that i know how to use the web app
+as a user i need to opinion the user documentation for the web_site so that i know how to function the web app
+13.9) Input phrase: as a user i want to view user documentation for the website so that i know how to use the web app
+as a user i need to opinion user documentation for the web_site so that i know how to function the web app
+13.10) Input phrase: if i am a user i want to view user documentation for the website so that i know how to use the web app
+if i am a user i need to opinion user documentation for the web_site so that i know how to function the web app
+14.0) Input phrase:  As a user, I want to get feedback when I enter an invalid zip code.
+ As a user, I need to get feedback when I figure an invalid nothing code.
+14.1) Input phrase: i want feedback when i enter an invalid zip code
+i need feedback when i figure an invalid nothing code
+14.2) Input phrase: as a user i want feedback when i enter an invalid zip code
+as a user i need feedback when i figure an invalid nothing code
+14.3) Input phrase: as a user i want to receive feedback when i enter an invalid zip code
+as a user i need to welcome feedback when i figure an invalid nothing code
+14.4) Input phrase: in my case i want to get feedback when i enter an invalid zip code
+in my event i need to get feedback when i figure an invalid nothing code
+14.5) Input phrase: as a user i want to get feedback if i enter an invalid zip code
+as a user i need to get feedback if i figure an invalid nothing code
+14.6) Input phrase: as a user i want to get feedback when i enter an invalid zipcode
+as a user i need to get feedback when i figure an invalid zipcode
+14.7) Input phrase: as a user i want to get feedback when i enter an invalid zip code
+as a user i need to get feedback when i figure an invalid nothing code
+15.0) Input phrase:  As a user, I want to be able to create an acocunt, so that I can create my own profile.
+ As a user, I need to be able to create an acocunt, so that I can create my own profile.
+15.1) Input phrase: as a user i want to be able to create an account so i can create my own account
+as a user i lack to be able to create an account so i can create my own account
+15.2) Input phrase: as a user i want to be able to create an account to create my own profile
+as a user i need to be able to create an account to create my own profile
+15.3) Input phrase: as a user i want to be able to create an acocunt so i can make my own profile
+as a user i need to be able to produce an acocunt so i can produce my own profile
+15.4) Input phrase: as a user i want to be able to create an account so i can create my own profile
+as a user i need to be able to create an account so i can create my own profile
+15.5) Input phrase: as a user i want to be able to create an acocunt so i can create my own profile
+as a user i need to be able to create an acocunt so i can create my own profile
+15.6) Input phrase: as a user i want to be able to create an acocunt so that i can make my own profile
+as a user i need to be able to produce an acocunt so that i can produce my own profile
+15.7) Input phrase: as a user i want to be able to create an acocunt so that i could create my own profile
+as a user i need to be able to create an acocunt so that i could create my own profile
+15.8) Input phrase: in my opinion as a user i want to be able to create an account so that i can create my own profile
+in my opinion as a user i need to be able to create an account so that i can create my own profile
+15.9) Input phrase: as a user i want to be able to create an account so that i can create my own profile
+as a user i need to be able to create an account so that i can create my own profile
+15.10) Input phrase: as a user i want to be able to create an acocunt so that i can create my own profile
+as a user i need to be able to create an acocunt so that i can create my own profile
+16.0) Input phrase:  As an admin, I want to be able to add or remove recycling facilities' information, so that users get the most recent information.
+ As an admin, I need to be able to attention_deficit_disorder or remove recycling facilities' information, so that drug_user get the most holocene information.
+16.1) Input phrase: as an admin i want to be able to add or remove recycling facilities' information so that users get the most recent information available
+as an admin i need to be able to attention_deficit_disorder or remove recycling facilities' information so that drug_user get the most holocene information available
+16.2) Input phrase: as an admin i want to be able to add or remove recycling facilities' information so that users get the most recent information possible
+as an admin i need to be able to attention_deficit_disorder or remove recycling facilities' information so that drug_user get the most holocene information possible
+16.3) Input phrase: if i am an administrator i want to be able to add or remove recycling facilities' information so that users get the most recent information
+if i am an administrator i need to be able to attention_deficit_disorder or remove recycling facilities' information so that drug_user get the most holocene information
+16.4) Input phrase: as an administrator i want to be able to add or remove recycling facilities' information so that users get the most recent information
+as an administrator i need to be able to attention_deficit_disorder or remove recycling facilities' information so that drug_user get the most holocene information
+16.5) Input phrase: as an admin i want to be able to add or remove recycling facility information so that users get the most recent information
+as an admin i need to be able to attention_deficit_disorder or remove recycling adeptness information so that drug_user get the most holocene information
+16.6) Input phrase: as admin i want to be able to add or remove recycling facilities' information so that users get the most recent information
+as admin i need to be able to attention_deficit_disorder or remove recycling facilities' information so that drug_user get the most holocene information
+16.7) Input phrase: as an admin i want to be able to add or remove recycling facilities information so that users get the most recent information
+as an admin i need to be able to attention_deficit_disorder or remove recycling adeptness information so that drug_user get the most holocene information
+16.8) Input phrase: if i am an admin i want to be able to add or remove recycling facilities information so that users get the most recent information
+if i am an admin i need to be able to attention_deficit_disorder or remove recycling adeptness information so that drug_user get the most holocene information
+16.9) Input phrase: if i am an admin i want to be able to add or remove recycling facilities' information so that users get the most recent information
+if i am an admin i need to be able to attention_deficit_disorder or remove recycling facilities' information so that drug_user get the most holocene information
+16.10) Input phrase: as an admin i want to be able to add or remove recycling facilities' information so that users get the most recent information
+as an admin i need to be able to attention_deficit_disorder or remove recycling facilities' information so that drug_user get the most holocene information
+17.0) Input phrase:  As an admin, I want to be able to read users' feedback and complaints, so that we can add more features and keep improving the service we provide to them.
+ As an admin, I need to be able to read users' feedback and complaints, so that we can attention_deficit_disorder more feature_of_speech and support better the avail we provide to them.
+17.1) Input phrase: as an admin i want to be able to read users' feedback and complaints so that we can add more features and keep improving the service we provide to these customers
+as an admin i need to be able to read users' feedback and ailment so that we can attention_deficit_disorder more feature_of_speech and support better the avail we provide to these customers
+17.2) Input phrase: as an admin i want to be able to read users' feedback and complaints so that we can add more features and keep improving the service we provide
+as an admin i need to be able to read users' feedback and ailment so that we can attention_deficit_disorder more feature_of_speech and support better the avail we provide
+17.3) Input phrase: as an admin i want to be able to read users' feedback and complaints so that we can add more features and improve the service we provide to them
+as an admin i need to be able to read users' feedback and ailment so that we can attention_deficit_disorder more feature_of_speech and better the avail we provide to them
+17.4) Input phrase: as an admin i want to be able to read users' feedback and complaints so that we can add more features and keep improving the service we provide to these users
+as an admin i need to be able to read users' feedback and ailment so that we can attention_deficit_disorder more feature_of_speech and support better the avail we provide to these users
+17.5) Input phrase: as an admin i want to be able to read users' feedback and complaints so we can add more features and keep improving the service we provide to them
+as an admin i need to be able to read users' feedback and ailment so we can attention_deficit_disorder more feature_of_speech and support better the avail we provide to them
+17.6) Input phrase: as admin i want to be able to read users' feedback and complaints so that we can add more features and keep improving the service we provide to them
+as admin i need to be able to read users' feedback and ailment so that we can attention_deficit_disorder more feature_of_speech and support better the avail we provide to them
+17.7) Input phrase: as an admin i want to be able to read users' feedback and complaints so that we can add more features and keep improving the service we provide to them 
+as an admin i need to be able to read users' feedback and ailment so that we can attention_deficit_disorder more feature_of_speech and support better the avail we provide to them 
+17.8) Input phrase: as an admin i want to be able to read users' feedback and complaints so that we can add more features and keep improving the service we provide to them
+as an admin i need to be able to read users' feedback and ailment so that we can attention_deficit_disorder more feature_of_speech and support better the avail we provide to them
+18.0) Input phrase:  As a user, I want to be able to check transaction history and keep a record of it, so that I can go back when needed.
+ As a user, I need to be able to arrest transaction history and support a record of it, so that I can crack back when needed.
+18.1) Input phrase: as a user i want to be able to check transaction history and keep a record of it so i can go back when i need to go
+as a user i lack to be able to arrest transaction history and support a record of it so i can crack back when i motivation to go
+18.2) Input phrase: as a user i want to be able to check transaction history and keep a record of it so i can go back when i need it
+as a user i lack to be able to arrest transaction history and support a record of it so i can crack back when i motivation it
+18.3) Input phrase: as a user i want to be able to check the transaction history and keep a record of it so i can go back when needed
+as a user i need to be able to arrest the transaction history and support a record of it so i can crack back when needed
+18.4) Input phrase: as a user i want to be able to check transaction history and keep a record of it so i can go back when i need to
+as a user i lack to be able to arrest transaction history and support a record of it so i can crack back when i motivation to
+18.5) Input phrase: as a user i want to be able to check transaction history and keep a record of it so i can go back when needed
+as a user i need to be able to arrest transaction history and support a record of it so i can crack back when needed
+18.6) Input phrase: as a user i want to be able to check the transaction history and keep a record of it so that i can go back when needed i
+as a user i need to be able to arrest the transaction history and support a record of it so that i can crack back when want i
+18.7) Input phrase: as a user i want to be able to check the transaction history and keep a record of it so that i can go back when needed 
+as a user i need to be able to arrest the transaction history and support a record of it so that i can crack back when want 
+18.8) Input phrase: as a user i want to be able to check the transaction history and keep a record of it so that i can go back when needed
+as a user i need to be able to arrest the transaction history and support a record of it so that i can crack back when needed
+18.9) Input phrase: as a user i want to be able to check transaction history and keep a record of it so that i can go back when needed
+as a user i need to be able to arrest transaction history and support a record of it so that i can crack back when needed
+19.0) Input phrase:  As a user, I want to have a great UI and UX from the sites, so that I have a pleasant experience when navigating through them.
+ As a user, I need to have a great UI and UX from the sites, so that I have a pleasant experience when navigating through them.
+19.1) Input phrase: user i want to have a great ux from the sites so that i have a pleasant experience when using them
+user i need to have a great ux from the web_site so that i have a pleasant experience when exploitation them
+19.2) Input phrase: user i want to have a great ux from the sites so that i have a pleasant experience when browsing them
+user i need to have a great ux from the web_site so that i have a pleasant experience when browse them
+19.3) Input phrase: user i want to have a great ux from the sites so that i have a pleasant experience when i navigate them
+user i need to have a great ux from the web_site so that i have a pleasant experience when i navigate them
+19.4) Input phrase: user i want to have a great ux from the sites so that i have a pleasant experience when i navigate through them i have
+user i need to have a great ux from the web_site so that i have a pleasant experience when i navigate through them i have
+19.5) Input phrase: user i want to have a great ux from the sites so that i have a pleasant experience when i navigate through
+user i need to have a great ux from the web_site so that i have a pleasant experience when i navigate through
+19.6) Input phrase: user i want to have a great ux from the sites so that i have a pleasant experience when i navigate through it
+user i need to have a great ux from the web_site so that i have a pleasant experience when i navigate through it
+19.7) Input phrase: user i want to have a great ux from the sites so that i have a pleasant experience when i navigate through them i
+user i need to have a great ux from the web_site so that i have a pleasant experience when i navigate through them i
+19.8) Input phrase: user i want to have a great ux from the sites so i have a pleasant experience when navigating through them
+user i need to have a great ux from the web_site so i have a pleasant experience when navigating through them
+19.9) Input phrase: user i want to have a great ux from the sites so that i have a pleasant experience when i navigate through them
+user i need to have a great ux from the web_site so that i have a pleasant experience when i navigate through them
+19.10) Input phrase: as a user i want a great ui and ux from the sites so that i have a pleasant experience when navigating through them
+as a user i need a great ui and ux from the web_site so that i have a pleasant experience when navigating through them
+20.0) Input phrase:  As a user, I want to be able to access the site and do all the other stuffs on all of my electronic devices.
+ As a user, I need to be able to access the site and do all the other material on all of my electronic devices.
+20.1) Input phrase: as a user i want to be able to access the site and do all the other things on my electronic devices
+as a user i need to be able to access the site and do all the other things on my electronic devices
+20.2) Input phrase: as a user i want to be able to access the site and do all the other stuffs on all my electronic gadgets
+as a user i need to be able to access the web_site and do all the other material on all my electronic gadgets
+20.3) Input phrase: as a user i want to be able to access the site and do all the other things on all my electronic devices
+as a user i need to be able to access the site and do all the other things on all my electronic devices
+20.4) Input phrase: as a user i want to be able to access the site and do all the other stuffs on all of my electronic gadgets
+as a user i need to be able to access the web_site and do all the other material on all of my electronic gadgets
+20.5) Input phrase: as a user i want to be able to access the site and do all the other things on all of my electronic devices
+as a user i need to be able to access the site and do all the other things on all of my electronic devices
+20.6) Input phrase: as a user i want to be able to access the site and do all the other stuffs on all my electronic devices '
+as a user i need to be able to access the site and do all the other material on all my electronic devices '
+20.7) Input phrase: as a user i want to be able to access the site and do all the other stuffs on all my electronic devices
+as a user i need to be able to access the site and do all the other material on all my electronic devices
+20.8) Input phrase: for me as a user i want to be able to access the site and do all the other things on all of my electronic devices
+for me as a user i need to be able to access the site and do all the other things on all of my electronic devices
+20.9) Input phrase: as a user i want to be able to access the site and do all the other stuffs on all of my electronic devices
+as a user i need to be able to access the site and do all the other material on all of my electronic devices
+20.10) Input phrase: for me as a user i want to be able to access the site and do all the other stuffs on all my electronic devices
+for me as a user i need to be able to access the site and do all the other material on all my electronic devices
+21.0) Input phrase:  As an admin, I want to be able to block specific users based on IP address, so that I can prevent spamming on the websites.
+ As an admin, I need to be able to block specific drug_user based on information_science address, so that I can prevent spamming on the websites.
+21.1) Input phrase: as an administrator i want to be able to block specific users based on ip address so i can prevent spamming on the websites
+as an administrator i need to be able to block specific drug_user based on information_science address so i can prevent spamming on the websites
+21.2) Input phrase: as an admin i want to be able to block specific users based on ip address so i can prevent spamming on websites
+as an admin i need to be able to block specific drug_user based on information_science address so i can prevent spamming on websites
+21.3) Input phrase: as admin i want to be able to block specific users based on ip address so i can prevent spamming on the websites
+as admin i need to be able to block specific drug_user based on information_science address so i can prevent spamming on the websites
+21.4) Input phrase: as an admin i want to be able to block specific users based on ip address so i can prevent spamming on the websites
+as an admin i need to be able to block specific drug_user based on information_science address so i can prevent spamming on the websites
+21.5) Input phrase: as an admin i want to be able to block specific users based on ip address so that i can prevent spamming on the sites
+as an admin i need to be able to block specific drug_user based on information_science address so that i can prevent spamming on the sites
+21.6) Input phrase: as an admin i want to be able to block specific users based on ip address so that i can prevent spamming on the website
+as an admin i need to be able to block specific drug_user based on information_science address so that i can prevent spamming on the website
+21.7) Input phrase: as an admin i want to be able to block specific users based on ip address so that i can prevent spamming on the websites i
+as an admin i need to be able to block specific drug_user based on information_science address so that i can prevent spamming on the web_site i
+21.8) Input phrase: as an admin i want to be able to block specific users based on ip address so that i can prevent spamming on the websites 
+as an admin i need to be able to block specific drug_user based on information_science address so that i can prevent spamming on the web_site 
+21.9) Input phrase: as an admin i want to be able to block specific users based on ip address so that i can prevent spamming on the websites
+as an admin i need to be able to block specific drug_user based on information_science address so that i can prevent spamming on the websites
+22.0) Input phrase:  As an admin, I want to view a dashboard that monitors all the sites' statuses, so that I can have a sense of what people are doing on our sites and know the service status.
+ As an admin, I lack to opinion a splashboard that admonisher all the sites' statuses, so that I can have a sense of what people are doing on our web_site and know the avail status.
+22.1) Input phrase: as an admin i want to view a dashboard that monitors all the statuses of the sites so i can have a sense of what people are doing on our sites and know the status of the
+as an admin i lack to opinion a splashboard that admonisher all the condition of the web_site so i can have a sense of what people are doing on our web_site and know the condition of the
+22.2) Input phrase: as an admin i want to view a dashboard that monitors all the statuses of the sites so i can have a sense of what people are doing on our sites and know the service status
+as an admin i lack to opinion a splashboard that admonisher all the condition of the web_site so i can have a sense of what people are doing on our web_site and know the avail status
+22.3) Input phrase: as an admin i want to view a dashboard that monitors all site statuses so i can have a sense of what people are doing on our sites and know the service status
+as an admin i lack to opinion a splashboard that admonisher all web_site condition so i can have a sense of what people are doing on our web_site and know the avail status
+22.4) Input phrase: as an admin i want to view a dashboard that monitors all sites' statuses so i can have a sense of what people are doing on our sites and know the service status
+as an admin i lack to opinion a splashboard that admonisher all sites' condition so i can have a sense of what people are doing on our web_site and know the avail status
+22.5) Input phrase: as a admin i want to view a dashboard that monitors all the sites' statuses so i can have a sense of what people are doing on our sites and know the service status
+as a admin i lack to opinion a splashboard that admonisher all the sites' condition so i can have a sense of what people are doing on our web_site and know the avail status
+22.6) Input phrase: as an admin i want to view a dashboard that monitors all the sites' statuses so i can have a sense of what people are doing on our sites and know the service status
+as an admin i lack to opinion a splashboard that admonisher all the sites' condition so i can have a sense of what people are doing on our web_site and know the avail status
+22.7) Input phrase: as an admin i want to view a dashboard that monitors all the sites' statuses so that i can have a sense of what people are doing on our sites and know the service status
+as an admin i lack to opinion a splashboard that admonisher all the sites' condition so that i can have a sense of what people are doing on our web_site and know the avail status
+23.0) Input phrase:  As an admin, I want to have all data encrypted, so that important information will not be stolen during a server breach or an attack.
+ As an admin, I need to have all data encrypted, so that important data will not be stolen during a server rupture or an attack.
+23.1) Input phrase: as an administrator i want to have all data encrypted so that important information will not be stolen during a server breach or an attack
+as an administrator i need to have all data encrypted so that important data will not be stolen during a server rupture or an attack
+23.2) Input phrase: as an admin i want to have all data encrypted so that important information won't be stolen during a server breach or an attack
+as an admin i need to have all data encrypted so that important data won't be stolen during a server rupture or an attack
+23.3) Input phrase: as an admin i want to have all data encrypted so that important information won't be stolen during a server breach or an attack 
+as an admin i need to have all data encrypted so that important data won't be stolen during a server rupture or an fire 
+23.4) Input phrase: as an admin i want to have all data encrypted so that important information will not be stolen during a server breach or attack
+as an admin i need to have all data encrypted so that important data will not be stolen during a server rupture or attack
+23.5) Input phrase: as admin i want to have all data encrypted so that important information will not be stolen during a server breach or an attack
+as admin i need to have all data encrypted so that important data will not be stolen during a server rupture or an attack
+23.6) Input phrase: as an admin i want to have all data encrypted so that important information will not be stolen during a server breach or an attack if
+as an admin i need to have all data encrypted so that important data will not be stolen during a server rupture or an fire if
+23.7) Input phrase: as a admin i want to have all data encrypted so that important information will not be stolen during a server breach or an attack
+as a admin i need to have all data encrypted so that important data will not be stolen during a server rupture or an attack
+23.8) Input phrase: as an admin i want to have all data encrypted so that important information will not be stolen during a server breach or an attack 
+as an admin i need to have all data encrypted so that important data will not be stolen during a server rupture or an fire 
+23.9) Input phrase: as an admin i want to have all data encrypted so that important information will not be stolen during a server breach or an attack
+as an admin i need to have all data encrypted so that important data will not be stolen during a server rupture or an attack
+24.0) Input phrase:  As an executive, I want to have full access to data related to my company, so that I can have a sense of my company's performance.
+ As an executive, I need to have full_moon access to data related to my company, so that I can have a sense of my company's performance.
+24.1) Input phrase: as an executive i want to have full access to data related to my company so i can have a sense of the performance of my company
+as an administrator i need to have full_moon access to data related to my party so i can have a sense of the operation of my company
+24.2) Input phrase: as an executive i want to have full access to data related to my company to have a sense of my company's performance
+as an administrator i need to have full_moon access to data related to my party to have a sense of my company's performance
+24.3) Input phrase: as an executive i want full access to data related to my company so that i can have a sense of my company's performance
+as an administrator i need full_moon access to data related to my party so that i can have a sense of my company's performance
+24.4) Input phrase: as an executive i want to have full access to data related to my company so i can have a sense of my company's performance
+as an administrator i need to have full_moon access to data related to my party so i can have a sense of my company's performance
+24.5) Input phrase: as an executive i want to have full access to data related to my company so that i can have a sense of my company's performance i
+as an administrator i need to have full_moon access to data related to my party so that i can have a sense of my company's operation i
+24.6) Input phrase: as an executive i want to have full access to data related to my company so that i can have a sense of my company's performance 
+as an administrator i need to have full_moon access to data related to my party so that i can have a sense of my company's operation 
+24.7) Input phrase: as an executive i want to have full access to data related to my company so that i can have a sense of my company's performance
+as an administrator i need to have full_moon access to data related to my party so that i can have a sense of my company's performance
+24.8) Input phrase: as an executive i want to have full access to data related to my company so that i can have a sense of my company's performances
+as an administrator i need to have full_moon access to data related to my party so that i can have a sense of my company's performances
+25.0) Input phrase:  As an employee, I want to access the route planning system during work, so that I can be guided through the neighbourhood.
+ As an employee, I need to access the path planning arrangement during work, so that I can be guided through the neighbourhood.
+25.1) Input phrase: my job is to access the route planning system during work so i can be guided through the neighborhood
+my occupation is to access the path planning arrangement during work so i can be guided through the neighborhood
+25.2) Input phrase: my job is to access the route planning system during work so that i can be guided through the neighborhood
+my occupation is to access the path planning arrangement during work so that i can be guided through the neighborhood
+25.3) Input phrase: my job is to access the route planning system during work so that i can be guided through the neighbourhood
+my occupation is to access the path planning arrangement during work so that i can be guided through the neighbourhood
+25.4) Input phrase: as an employee i want to access the route planning system during my work so that i can be guided through the community
+as an employee i need to access the path planning arrangement during my work so that i can be guided through the community
+25.5) Input phrase: as an employee i want to access the route planning system during work so i can be guided through the neighborhood
+as an employee i need to access the path planning arrangement during work so i can be guided through the neighborhood
+25.6) Input phrase: as an employee i want to access the route planning system during work so i can be guided through the neighbourhood
+as an employee i need to access the path planning arrangement during work so i can be guided through the neighbourhood
+25.7) Input phrase: as an employee i want to access the route planning system during my work so that i can be guided through the neighborhood
+as an employee i need to access the path planning arrangement during my work so that i can be guided through the neighborhood
+25.8) Input phrase: as an employee i want to access the route planning system during my work so that i can be guided through the neighbourhood
+as an employee i need to access the path planning arrangement during my work so that i can be guided through the neighbourhood
+25.9) Input phrase: as an employee i want to access the route planning system during work so that i can be guided through the neighborhood
+as an employee i need to access the path planning arrangement during work so that i can be guided through the neighborhood
+25.10) Input phrase: as an employee i want to access the route planning system during work so that i can be guided through the neighbourhood
+as an employee i need to access the path planning arrangement during work so that i can be guided through the neighbourhood
+26.0) Input phrase:  As an employee from the HR department, I want to have access to the full information of all employees working for this business.
+ As an employee from the hour department, I need to have access to the full_moon data of all employees working for this business.
+26.1) Input phrase: i would like to have full access to all employees working for this business as an employee of the hr department'
+i would like to have full_moon access to all employees working for this clientele as an employee of the hour department'
+26.2) Input phrase: i would like to have full access to the information of all employees working for this business
+i would like to have full_moon access to the data of all employees working for this business
+26.3) Input phrase: i would like to have full access to the full information of all employees working for this business
+i would like to have full_moon access to the full_moon data of all employees working for this business
+26.4) Input phrase: as an employee of the hr department i want to have access to all employees working for this business
+as an employee of the hour department i need to have access to all employees working for this business
+26.5) Input phrase: as an employee of the hr department i want access to the full information of all employees working for this business
+as an employee of the hour department i need access to the full_moon data of all employees working for this business
+26.6) Input phrase: as an employee of the hr department i want to have access to the full information of all employees working for this company
+as an employee of the hour department i need to have access to the full_moon data of all employees working for this company
+26.7) Input phrase: as an employee of the hr department i want to have access to the full information of all employees working in this business
+as an employee of the hour department i need to have access to the full_moon data of all employees working in this business
+26.8) Input phrase: as an employee in the hr department i want to have access to the full information of all employees working for this business
+as an employee in the hour department i need to have access to the full_moon data of all employees working for this business
+26.9) Input phrase: as an employee of the hr department i want to have access to the full information of all employees working for this business
+as an employee of the hour department i need to have access to the full_moon data of all employees working for this business
+26.10) Input phrase: as an employee from the hr department i want to have access to the full information of all employees working for this business
+as an employee from the hour department i need to have access to the full_moon data of all employees working for this business
+27.0) Input phrase:  As a developer, I want to access an API from the website, so that I can integrate it and implement certain features in my own iOS application.
+ As a developer, I need to access an API from the website, so that I can integrate it and implement certain feature_of_speech in my own iOS application.
+27.1) Input phrase: as a developer i want to access an api from the website so i can integrate it and implement certain features in my own ios app
+as a developer i need to access an api from the web_site so i can integrate it and implement certain feature_of_speech in my own ios app
+27.2) Input phrase: as a developer i want to access an api from the website so i can integrate and implement certain features in my own ios application
+as a developer i need to access an api from the web_site so i can integrate and implement certain feature_of_speech in my own ios application
+27.3) Input phrase: as a developer i want to access an api from the website so that i can integrate it and implement certain features in my own ios app
+as a developer i need to access an api from the web_site so that i can integrate it and implement certain feature_of_speech in my own ios app
+27.4) Input phrase: as a developer i want to access an api from the website so i can integrate it and implement certain features in my own ios application ''
+as a developer i need to access an api from the web_site so i can integrate it and implement certain feature_of_speech in my own ios application ''
+27.5) Input phrase: as a developer i want to access an api from the website so i can integrate it and implement certain features in my own ios application
+as a developer i need to access an api from the web_site so i can integrate it and implement certain feature_of_speech in my own ios application
+27.6) Input phrase: as a developer i want to access an api from the website so that i can integrate and implement certain features in my own ios application
+as a developer i need to access an api from the web_site so that i can integrate and implement certain feature_of_speech in my own ios application
+27.7) Input phrase: as a developer i want to access an api from the website so that i can integrate it and implement certain features in my own ios application i
+as a developer i need to access an api from the web_site so that i can integrate it and implement certain feature_of_speech in my own ios application i
+27.8) Input phrase: as a developer i want to access an api from the website so that i can integrate it and implement certain features in my own ios application
+as a developer i need to access an api from the web_site so that i can integrate it and implement certain feature_of_speech in my own ios application
+27.9) Input phrase: as a developer i want to access an api from the website so that i can integrate it and implement certain features in my own ios application 
+as a developer i need to access an api from the web_site so that i can integrate it and implement certain feature_of_speech in my own ios application 
+28.0) Input phrase:  As a user, I want to be able to receive tempting rewards, so that I have a reason to use the website.
+ As a user, I need to be able to receive tempting rewards, so that I have a reason to function the website.
+28.1) Input phrase: as a user i want to receive tempting rewards so i have a reason to use the website
+as a user i need to receive tempting advantage so i have a reason to function the website
+28.2) Input phrase: as a user i want to receive tempting rewards so that i have a reason to use the website
+as a user i need to receive tempting advantage so that i have a reason to function the website
+28.3) Input phrase: as a user i want to be able to receive tempting rewards so i have a reason to use the site
+as a user i need to be able to receive tempt advantage so i have a reason to function the site
+28.4) Input phrase: as a user i want to be able to receive tempting rewards so i can have a reason to use the website
+as a user i need to be able to receive tempting advantage so i can have a reason to function the website
+28.5) Input phrase: as a user i want to be able to receive tempting rewards so i have a reason to use the website
+as a user i need to be able to receive tempting advantage so i have a reason to function the website
+28.6) Input phrase: as a user i want to be able to receive tempting rewards so that i have a reason to use the site
+as a user i need to be able to receive tempt advantage so that i have a reason to function the site
+28.7) Input phrase: as a user i want to be able to receive tempting rewards so that i have a reason to use the website i
+as a user i need to be able to receive tempting advantage so that i have a reason to function the web_site i
+28.8) Input phrase: as a user i want to be able to receive tempting rewards so that i have a reason to use the website
+as a user i need to be able to receive tempting advantage so that i have a reason to function the website
+28.9) Input phrase: as a user i want to be able to receive tempting rewards so that i have a reason to use the website 
+as a user i need to be able to receive tempting advantage so that i have a reason to function the web_site 
+29.0) Input phrase:  As a user, I want to have my personal information kept securely in the database of the website, so that I will not suffer from identity theft or telephone harassment.
+ As a user, I need to have my personal information continue securely in the database of the website, so that I will not digest from identity larceny or telephone harassment.
+29.1) Input phrase: as a user i want to have my personal information stored securely in the database of the website so that i won't suffer identity theft or telephone harassment
+as a user i need to have my personal information stored securely in the database of the web_site so that i won't digest identity larceny or telephone harassment
+29.2) Input phrase: as a user i want to have my personal information stored securely in the database of the website so that i won't suffer identity theft or telephone harassment 
+as a user i need to have my personal information stored securely in the database of the web_site so that i won't digest identity larceny or telephone harassment 
+29.3) Input phrase: as a user i want to have my personal information kept securely in the database of the website so that i won't suffer identity theft or telephone harassment if
+as a user i need to have my personal information continue securely in the database of the web_site so that i won't digest identity larceny or telephone harassment if
+29.4) Input phrase: as a user i want to have my personal information stored securely in the database of the website so that i will not suffer identity theft or telephone harassment
+as a user i need to have my personal information stored securely in the database of the web_site so that i will not digest identity larceny or telephone harassment
+29.5) Input phrase: as a user i want to have my personal information kept securely in the database of the website so that i won't suffer identity theft or telephone harassment 
+as a user i need to have my personal information continue securely in the database of the web_site so that i won't digest identity larceny or telephone harassment 
+29.6) Input phrase: as a user i want to have my personal information kept securely in the database of the website so that i won't suffer identity theft or telephone harassment
+as a user i need to have my personal information continue securely in the database of the web_site so that i won't digest identity larceny or telephone harassment
+29.7) Input phrase: as a user i want to have my personal information kept securely in the database of the website so that i do not suffer identity theft or telephone harassment
+as a user i need to have my personal information continue securely in the database of the web_site so that i do not digest identity larceny or telephone harassment
+29.8) Input phrase: as a user i want to have my personal information kept securely in the database of the website so that i will not suffer identity theft or telephone harassment
+as a user i need to have my personal information continue securely in the database of the web_site so that i will not digest identity larceny or telephone harassment
+30.0) Input phrase:  As an admin, I want to handle all users' activities, so that I can manage more efficiently.
+ As an admin, I need to manage all users' activities, so that I can manage more efficiently.
+30.1) Input phrase: as admin i want to handle all users' activities so i can manage more efficiently
+as admin i need to manage all users' action so i can manage more efficiently
+30.2) Input phrase: as an admin i want to handle all user activities so i can manage more efficiently
+as an admin i need to handle all user action so i can manage more efficiently
+30.3) Input phrase: as an admin i want to handle all users' activities so that i can manage more easily
+as an admin i need to manage all users' action so that i can manage more easily
+30.4) Input phrase: as an admin i want to handle all users activities so i can manage more efficiently
+as an admin i need to manage all drug_user action so i can manage more efficiently
+30.5) Input phrase: as a user admin i want to handle all users' activities so i can manage more efficiently
+as a drug_user admin i need to handle all users' natural_process so i can manage more efficiently
+30.6) Input phrase: as an admin i want to handle all users' activities so that i can manage more effectively
+as an admin i need to manage all users' action so that i can manage more effectively
+30.7) Input phrase: as an admin i want to handle all users' activities so i can manage more efficiently
+as an admin i need to manage all users' action so i can manage more efficiently
+30.8) Input phrase: as an admin i want to handle all users' activities so that i can manage more efficient
+as an admin i need to manage all users' action so that i can manage more efficient
+30.9) Input phrase: as an admin i want to handle all users' activities so that i can manage more efficiently
+as an admin i need to manage all users' action so that i can manage more efficiently
+31.0) Input phrase:  As a company, I want to have a website that is easy to use, so that I can upload or delete stuff step by step.
+ As a company, I need to have a web_site that is easy to use, so that I can upload or delete stuff footstep by step.
+31.1) Input phrase: as an employer i want a website that is easy to use so i can upload or delete stuff step by step
+as an employer i need a web_site that is easy to use so i can upload or delete stuff footstep by step
+31.2) Input phrase: as a company i want a website that is easy to use so i can upload or delete things step by step
+as a party i lack a web_site that is easy to use so i can upload or delete things footstep by step
+31.3) Input phrase: as a company i want a website that is easy to use so i can upload or delete stuff step by step
+as a party i need a web_site that is easy to use so i can upload or delete stuff footstep by step
+31.4) Input phrase: ideally as a company i want to have a website that is easy to use so i can upload or delete things step by step
+ideally as a party i lack to have a web_site that is easy to use so i can upload or delete things footstep by step
+31.5) Input phrase: as a company i want a website that is easy to use so that i can upload or delete stuff step by step
+as a party i need a web_site that is easy to use so that i can upload or delete stuff footstep by step
+31.6) Input phrase: as a company i want to have a website that is easy to use so i can upload or delete stuff step by step
+as a party i need to have a web_site that is easy to use so i can upload or delete stuff footstep by step
+31.7) Input phrase: ideally as a company i want to have a website that is easy to use so i can upload or delete stuff step by step
+ideally as a party i need to have a web_site that is easy to use so i can upload or delete stuff footstep by step
+31.8) Input phrase: as a company i want to have a website that is easy to use so that i can upload or delete stuff step by step
+as a party i need to have a web_site that is easy to use so that i can upload or delete stuff footstep by step
+32.0) Input phrase:  As an employee, I want to get quick notifications, so that I can process cases the first time.
+ As an employee, I need to get quick notifications, so that I can process event the beginning time.
+32.1) Input phrase: as an employee i want to get quick notifications so i can process the first time cases
+as an employee i need to get quick presentment so i can process the beginning time cases
+32.2) Input phrase: as an employee i want quick notifications so i can process cases the first time
+as an employee i need quick presentment so i can process event the beginning time
+32.3) Input phrase: as an employee i want to get quick notifications so i can process the first time
+as an employee i need to get quick presentment so i can process the beginning time
+32.4) Input phrase: as a company employee i want to get quick notifications so that i can process the first time
+as a party employee i need to get quick presentment so that i can process the beginning time
+32.5) Input phrase: as a company employee i want to get quick notification so i can process cases the first time
+as a party employee i need to get quick presentment so i can process subject the beginning time
+32.6) Input phrase: as an employee i want to get quick notifications so i can process cases the first time ''
+as an employee i need to get quick presentment so i can process event the beginning time ''
+32.7) Input phrase: as a company employee i want to get quick notifications so i can process cases the first time
+as a party employee i need to get quick presentment so i can process subject the beginning time
+32.8) Input phrase: as an employee i want to get quick notification so i can process cases the first time
+as an employee i need to get quick presentment so i can process event the beginning time
+32.9) Input phrase: as an employee i want to get quick notifications so i can process cases the first time
+as an employee i need to get quick presentment so i can process event the beginning time
+32.10) Input phrase: as an employee i want to get quick notifications so that i can process cases the first time
+as an employee i need to get quick presentment so that i can process event the beginning time
+33.0) Input phrase:  As a company accountant, I want to view all available activity fees online, so that I can easily create a bill statement.
+ As a party accountant, I need to opinion all available action fees online, so that I can easily create a poster statement.
+33.1) Input phrase: if i want to view all available activity fees online i can easily create a bill statement
+if i need to opinion all available action fees online i can easily create a poster statement
+33.2) Input phrase: my accountant wants to view all available activity fees online so i can easily create a bill statement
+my accountant need to opinion all available action fees online so i can easily create a poster statement
+33.3) Input phrase: if i'm a company accountant i want to view all available activity fees online so i can quickly create a bill statement
+if i'm a party accountant i need to opinion all available action fees online so i can quickly create a poster statement
+33.4) Input phrase: as a company accountant i want to view all the available activity fees online so i can easily create a bill statement
+as a party accountant i need to opinion all the available action fees online so i can easily create a poster statement
+33.5) Input phrase: as a company accountant i want to see all available activity fees online so i can easily create a bill statement
+as a party accountant i need to see all available action fees online so i can easily make a poster statement
+33.6) Input phrase: if i'm a company accountant i want to view all available activity fees online so i can easily create a bill statement
+if i'm a party accountant i need to opinion all available action fees online so i can easily create a poster statement
+33.7) Input phrase: as a company accountant i want to view all available activity fees online so that i can easily create a bill statement online
+as a party accountant i need to opinion all available action fees online so that i can easily create a poster statement online
+33.8) Input phrase: as a company accountant i want to view all available activity fees online so i can easily create a bill statement
+as a party accountant i need to opinion all available action fees online so i can easily create a poster statement
+33.9) Input phrase: as a company accountant i want to view all the available activity fees online so that i can easily create a bill statement
+as a party accountant i need to opinion all the available action fees online so that i can easily create a poster statement
+33.10) Input phrase: as a company accountant i want to view all available activity fees online so that i can easily create a bill statement
+as a party accountant i need to opinion all available action fees online so that i can easily create a poster statement
+34.0) Input phrase:  As a developer, I want to use bootstrap in the process of developing, so that I can easily design my website.
+ As a developer, I need to use bootstrap in the process of developing, so that I can easily design my website.
+34.1) Input phrase: as a developer i want to use bootstrap in the development process so i can easily design my website
+as a developer i need to use bootstrap in the exploitation procedure so i can easily design my website
+34.2) Input phrase: as a developer i want to use bootstrap in the development process so that i can easily design my website
+as a developer i need to use bootstrap in the exploitation procedure so that i can easily design my website
+34.3) Input phrase: as a developer i want to use bootstrap in the process of developing so i can easily design my website
+as a developer i need to use bootstrap in the process of development so i can easily design my website
+34.4) Input phrase: as a developer i want to use bootstrap in the process of developing so that i can easily design my site
+as a developer i need to use bootstrap in the process of development so that i can easily design my site
+34.5) Input phrase: as a developer i want to use bootstrap in the process of developing so that i can easily design my website 
+as a developer i need to use bootstrap in the process of development so that i can easily design my web_site 
+34.6) Input phrase: as a developer i want to use bootstrap in the process of developing so that i can easily design my website
+as a developer i need to use bootstrap in the process of development so that i can easily design my website
+35.0) Input phrase:  As a developer, I want to attend some UI/UX lessons, so that I can develop an awesome and beautiful features website.
+ As a developer, I need to attend some UI/UX lessons, so that I can develop an awesome and beautiful feature_of_speech website.
+35.1) Input phrase: if i want to develop an awesome and beautiful features website i want to attend uiux lessons
+if i need to develop an awesome and beautiful feature_of_speech web_site i need to attend uiux lessons
+35.2) Input phrase: if i want to develop an awesome and beautiful feature website i want to attend some uiux lessons
+if i need to develop an awesome and beautiful feature web_site i need to attend some uiux lessons
+35.3) Input phrase: if i want to develop an awesome and beautiful features website i want to attend some uiux lessons
+if i need to develop an awesome and beautiful feature_of_speech web_site i need to attend some uiux lessons
+35.4) Input phrase: as a developer i want to attend some uiux lessons to develop an awesome and beautiful features website
+as a developer i need to attend some uiux moral to develop an awesome and beautiful feature_of_speech website
+35.5) Input phrase: as a developer i want to attend uiux lessons so i can develop an awesome and beautiful features website
+as a developer i need to attend uiux moral so i can develop an awesome and beautiful feature_of_speech website
+35.6) Input phrase: as a developer i want to attend some uiux lessons so i can develop an awesome and beautiful features website
+as a developer i need to attend some uiux moral so i can develop an awesome and beautiful feature_of_speech website
+35.7) Input phrase: as a developer i want to attend uiux lessons so that i can develop an awesome and beautiful features website
+as a developer i need to attend uiux moral so that i can develop an awesome and beautiful feature_of_speech website
+35.8) Input phrase: as a developer i want to attend some uiux lessons so that i can develop an awesome and beautiful features site
+as a developer i need to attend some uiux moral so that i can develop an awesome and beautiful feature_of_speech site
+35.9) Input phrase: as a developer i want to attend some uiux lessons so that i can develop an awesome and beautiful feature website
+as a developer i need to attend some uiux moral so that i can develop an awesome and beautiful feature website
+35.10) Input phrase: as a developer i want to attend some uiux lessons so that i can develop an awesome and beautiful features website
+as a developer i need to attend some uiux moral so that i can develop an awesome and beautiful feature_of_speech website
+36.0) Input phrase:  As a user, I want to view all locations of recycling centers on a map, so that I can check which routes to take to drop off waste.
+ As a user, I need to opinion all placement of recycling kernel on a map, so that I can arrest which path to take to cliff off waste.
+36.1) Input phrase: i want to see all recycling centers on a map so i can check which routes to take to drop off waste
+i need to see all recycling kernel on a function so i can arrest which path to take to cliff off waste
+36.2) Input phrase: i want to see all the locations of recycling centers on a map so i can see which routes to take to drop off waste
+i need to see all the placement of recycling kernel on a function so i can see which path to take to cliff off waste
+36.3) Input phrase: i want to see all the locations of recycling centers on a map so i can check which routes to take to drop off the waste
+i need to see all the placement of recycling kernel on a function so i can arrest which path to take to cliff off the waste
+36.4) Input phrase: i want to see all the locations of recycling centers on a map so i can check which routes to take to drop off waste ''
+i need to see all the placement of recycling kernel on a function so i can arrest which path to take to cliff off waste ''
+36.5) Input phrase: i want to view all the locations of recycling centers on a map so i can see which routes to take to drop off waste
+i need to opinion all the placement of recycling kernel on a function so i can see which path to take to cliff off waste
+36.6) Input phrase: i want to see all the locations of recycling centers on a map so i can check which routes to take to drop off waste
+i need to see all the placement of recycling kernel on a function so i can arrest which path to take to cliff off waste
+36.7) Input phrase: i want to view all the locations of recycling centers on a map so i can check which routes to take to drop off waste
+i need to opinion all the placement of recycling kernel on a function so i can arrest which path to take to cliff off waste
+36.8) Input phrase: as a user i want to view all locations of recycling centers on a map so i can see which routes to take to drop off waste
+as a user i need to opinion all placement of recycling kernel on a function so i can see which path to take to cliff off waste
+36.9) Input phrase: as a user i want to see all locations of recycling centers on a map so i can check which routes to take to drop off waste
+as a user i need to see all placement of recycling kernel on a function so i can arrest which path to take to cliff off waste
+36.10) Input phrase: as a user i want to view all locations of recycling centers on a map so i can check which routes to take to drop off waste
+as a user i need to opinion all placement of recycling kernel on a function so i can arrest which path to take to cliff off waste
+37.0) Input phrase:  As a user, I want to upload my week's schedule, so that I can get recommendations for recycling centers that best fit my availability.
+ As a user, I need to upload my week's schedule, so that I can get recommendations for recycling kernel that best burst my availability.
+37.1) Input phrase: my schedule is uploaded as a user so i can get recommendations for recycling centers that fit my availability
+my agenda is uploaded as a user so i can get recommendations for recycling kernel that burst my availability
+37.2) Input phrase: my schedule for the week i want to upload so that i can get recommendations for recycling centers that best fit my schedule
+my agenda for the week i wish to upload so that i can get recommendations for recycling kernel that best burst my schedule
+37.3) Input phrase: my schedule for the week i want to upload so i can get recommendations for recycling centers that best fit my available time
+my agenda for the week i wish to upload so i can get recommendations for recycling kernel that best burst my available time
+37.4) Input phrase: my schedule for the week i want to upload so i can get recommendations for recycling centers that fit my availability
+my agenda for the week i wish to upload so i can get recommendations for recycling kernel that burst my availability
+37.5) Input phrase: my schedule is uploaded as a user so i can get recommendations for recycling centers that best fit my availability
+my agenda is uploaded as a user so i can get recommendations for recycling kernel that best burst my availability
+37.6) Input phrase: my schedule for the week i want to upload so i can get recommendations for recycling centers that best fit my availability
+my agenda for the week i wish to upload so i can get recommendations for recycling kernel that best burst my availability
+37.7) Input phrase: my schedule for the week i want to upload so that i can get recommendations for recycling centers that best fit my availability
+my agenda for the week i wish to upload so that i can get recommendations for recycling kernel that best burst my availability
+37.8) Input phrase: as a user i want to upload my week schedule so i can get recommendations for recycling centers that best fit my availability
+as a user i need to upload my week agenda so i can get recommendations for recycling kernel that best burst my availability
+37.9) Input phrase: as a user i want to upload my weekly schedule so i can get recommendations for recycling centers that best fit my availability
+as a user i need to upload my weekly agenda so i can get recommendations for recycling kernel that best burst my availability
+38.0) Input phrase:  As a user, I want to link my email account to my profile, so that I can get a temporary password in case I forget my own one.
+ As a user, I need to connection my electronic_mail account to my profile, so that I can get a temp password in subject I forget my own one.
+38.1) Input phrase: i want to link my email account to my profile so that i can get a temporary password if i forget my own
+i lack to connection my electronic_mail account to my profile so that i can get a temp password if i forget my own
+38.2) Input phrase: i want to link my email account to my profile so i can get a temporary password in case i forget my own
+i lack to connection my electronic_mail account to my profile so i can get a temp password in event i forget my own
+38.3) Input phrase: i want to link my email account to my profile so that i can get a temporary password if i forget my own one
+i lack to connection my electronic_mail account to my profile so that i can get a temp password if i forget my own one
+38.4) Input phrase: i want to link my email account to my profile so i can get a temporary password in case i forget my own one
+i lack to connection my electronic_mail account to my profile so i can get a temp password in event i forget my own one
+38.5) Input phrase: as a user i want to link my email account to my profile so i can get a temporary password if i forget my own one
+as a user i lack to connection my electronic_mail account to my profile so i can get a temp password if i forget my own one
+38.6) Input phrase: as a user i want to link my email account to my profile so that i can get a temporary password if i forget my own
+as a user i lack to connection my electronic_mail account to my profile so that i can get a temp password if i forget my own
+38.7) Input phrase: i want to link my email account to my profile so that i can get a temporary password in case i forget my own one
+i lack to connection my electronic_mail account to my profile so that i can get a temp password in event i forget my own one
+38.8) Input phrase: as a user i want to link my email account to my profile so i can get a temporary password in case i forget my own
+as a user i need to connection my electronic_mail account to my profile so i can get a temp password in subject i forget my own
+38.9) Input phrase: as a user i want to link my email account to my profile so i can get a temporary password in case i forget my own one
+as a user i need to connection my electronic_mail account to my profile so i can get a temp password in subject i forget my own one
+38.10) Input phrase: as a user i want to link my email account to my profile so that i can get a temporary password in case i forget my own
+as a user i need to connection my electronic_mail account to my profile so that i can get a temp password in subject i forget my own
+39.0) Input phrase:  As a user, I want to contact the administrators, so that I can give feedback or ask for help.
+ As a user, I need to contact the administrators, so that I can give feedback or ask for help.
+39.1) Input phrase: as a user i want to contact the administrators so i can give feedback or ask for assistance
+as a user i need to contact the administrators so i can give feedback or ask for assistance
+39.2) Input phrase: as a user i want to contact the administrators to give feedback or ask for help
+as a user i need to contact the administrators to give feedback or ask for help
+39.3) Input phrase: as a user i want to contact the administrators so that i can give feedback or ask for assistance
+as a user i need to contact the administrators so that i can give feedback or ask for assistance
+39.4) Input phrase: as a user i want to contact administrators so i can give feedback or ask for help
+as a user i need to contact administrators so i can give feedback or ask for help
+39.5) Input phrase: as a user i want to contact the administrators so i can give feedback or ask for help ''
+as a user i need to contact the administrators so i can give feedback or ask for assistant ''
+39.6) Input phrase: as a member of the user i want to contact the administrators so i can give feedback or ask for help
+as a member of the user i need to contact the administrators so i can give feedback or ask for help
+39.7) Input phrase: as a user i want to contact the administrators so i can give feedback or ask for help
+as a user i need to contact the administrators so i can give feedback or ask for help
+39.8) Input phrase: as a user i want to contact administrators so that i can give feedback or ask for help
+as a user i need to contact administrators so that i can give feedback or ask for help
+39.9) Input phrase: as a user i want to contact the administrators so that i can give feedback or ask for help
+as a user i need to contact the administrators so that i can give feedback or ask for help
+40.0) Input phrase:  As an admin, I want to add recycling center information, so that I can keep the database up-to-date over time.
+ As an admin, I need to attention_deficit_disorder recycling kernel information, so that I can support the database up-to-date over time.
+40.1) Input phrase: as an administrator i want to add recycling center information so i can keep the database up-to-date over time
+as an administrator i need to attention_deficit_disorder recycling kernel information so i can support the database up-to-date over time
+40.2) Input phrase: as an admin i want to add recycling center information so i can keep the database up-to-date over the years
+as an admin i need to attention_deficit_disorder recycling kernel information so i can support the database up-to-date over the years
+40.3) Input phrase: as an admin i want to add recycling center information so i can keep the database updated over time
+as an admin i need to attention_deficit_disorder recycling kernel information so i can support the database updated over time
+40.4) Input phrase: as an admin i want to add recycling center information so that i can keep the database up-to-date over the long term
+as an admin i need to attention_deficit_disorder recycling kernel information so that i can support the database up-to-date over the hanker term
+40.5) Input phrase: as admin i want to add recycling center information so i can keep the database up-to-date over time
+as admin i need to attention_deficit_disorder recycling kernel information so i can support the database up-to-date over time
+40.6) Input phrase: as an admin i want to add recycling center information so that i can keep the database up-to-date over time i have
+as an admin i need to attention_deficit_disorder recycling kernel information so that i can support the database up-to-date over time i have
+40.7) Input phrase: as an admin i want to add recycling center information so that i can keep the database up-to-date over the years
+as an admin i need to attention_deficit_disorder recycling kernel information so that i can support the database up-to-date over the years
+40.8) Input phrase: as an admin i want to add recycling center information so i can keep the database up-to-date over time
+as an admin i need to attention_deficit_disorder recycling kernel information so i can support the database up-to-date over time
+40.9) Input phrase: as an admin i want to add recycling center information so that i can keep the database up-to-date over the time
+as an admin i need to attention_deficit_disorder recycling kernel information so that i can support the database up-to-date over the time
+40.10) Input phrase: as an admin i want to add recycling center information so that i can keep the database up-to-date over time
+as an admin i need to attention_deficit_disorder recycling kernel information so that i can support the database up-to-date over time
+41.0) Input phrase:  As an admin, I want to view user error logs, so that I can fix or review any issues that are being faced by users of the system.
+ As an admin, I need to opinion drug_user mistake logs, so that I can fix or review any topic that are being confront by drug_user of the system.
+41.1) Input phrase: as a system administrator i want to view user error logs so that i can fix or review any issues that are being faced by users
+as a arrangement administrator i need to opinion drug_user erroneousness logarithm so that i can fix or review any topic that are being confront by users
+41.2) Input phrase: as an admin i want to view user error logs so i can fix or review any issues faced by users of the system
+as an admin i need to opinion drug_user mistake logarithm so i can fix or review any topic confront by drug_user of the system
+41.3) Input phrase: as an admin i want to view user error logs so that i can fix or review any issues faced by users of the system
+as an admin i need to opinion drug_user mistake logarithm so that i can fix or review any topic confront by drug_user of the system
+41.4) Input phrase: as an admin i want to view user error logs so i can fix or review any issues that are being faced by users of the system
+as an admin i need to opinion drug_user mistake logarithm so i can fix or review any topic that are being confront by drug_user of the system
+41.5) Input phrase: as an admin i want to view the user error logs so that i can fix or review any issues that are being faced by users of the system
+as an admin i need to opinion the drug_user mistake logarithm so that i can fix or review any topic that are being confront by drug_user of the system
+41.6) Input phrase: as an admin i want to view user error logs so that i can fix or review any issues that are being faced by users of the system i
+as an admin i need to opinion drug_user mistake logarithm so that i can fix or review any topic that are being confront by drug_user of the arrangement i
+41.7) Input phrase: as an admin i want to view user error logs so that i can fix or review any issues that are being faced by users of the system
+as an admin i need to opinion drug_user mistake logarithm so that i can fix or review any topic that are being confront by drug_user of the system
+41.8) Input phrase: as an admin i want to view user error logs so that i can fix or review any issues that are being faced by users of the system 
+as an admin i need to opinion drug_user mistake logarithm so that i can fix or review any topic that are being confront by drug_user of the arrangement 
+42.0) Input phrase:  As an admin, I want to onboard recycling centers on the platform, so that I can increase information accuracy.
+ As an admin, I need to onboard recycling kernel on the platform, so that I can addition information accuracy.
+42.1) Input phrase: as an admin i want to onboard recycling centers on the platform so i can increase the accuracy of information
+as an admin i need to onboard recycling kernel on the platform so i can addition the accuracy of information
+42.2) Input phrase: as an admin i want to onboard recycling centers on the platform so i can increase the accuracy of data
+as an admin i need to onboard recycling kernel on the platform so i can addition the accuracy of data
+42.3) Input phrase: as an admin i want to onboard recycling centers on the platform so i can improve information accuracy
+as an admin i need to onboard recycling kernel on the platform so i can improve information accuracy
+42.4) Input phrase: as admin i want to onboard recycling centers on the platform so i can increase information accuracy
+as admin i need to onboard recycling kernel on the platform so i can addition information accuracy
+42.5) Input phrase: as a administrator i want to onboard recycling centers on the platform so that i can increase information accuracy
+as a administrator i need to onboard recycling kernel on the platform so that i can addition information accuracy
+42.6) Input phrase: as a admin i want to onboard recycling centers on the platform so that i can improve information accuracy
+as a admin i need to onboard recycling kernel on the platform so that i can improve information accuracy
+42.7) Input phrase: as a admin i want to onboard recycling centers on the platform so i can increase information accuracy
+as a admin i need to onboard recycling kernel on the platform so i can addition information accuracy
+42.8) Input phrase: as an admin i want to onboard recycling centers on the platform so i can increase information accuracy
+as an admin i need to onboard recycling kernel on the platform so i can addition information accuracy
+42.9) Input phrase: as a admin i want to onboard recycling centers on the platform so that i can increase information accuracy
+as a admin i need to onboard recycling kernel on the platform so that i can addition information accuracy
+42.10) Input phrase: as an admin i want to onboard recycling centers on the platform so that i can increase information accuracy
+as an admin i need to onboard recycling kernel on the platform so that i can addition information accuracy
+43.0) Input phrase:  As a superuser, I want to update the recycling center information, so that I can provide the latest information about the recycling center.
+ As a superuser, I need to update the recycling kernel information, so that I can provide the latest information about the recycling center.
+43.1) Input phrase: as a superuser i want to update the information about the recycling center so i can provide the latest information about the recycling centre
+as a superuser i need to update the information about the recycling kernel so i can provide the latest information about the recycling centre
+43.2) Input phrase: as a superuser i want to update the information about the recycling center so i can provide the latest information about the recycling center
+as a superuser i need to update the information about the recycling kernel so i can provide the latest information about the recycling center
+43.3) Input phrase: as a superuser i want to update the information about the recycling center so that i can provide the latest information about the recycle center
+as a superuser i need to update the information about the recycling kernel so that i can provide the latest information about the recycle center
+43.4) Input phrase: as a superuser i want to update the information about the recycling center so that i can provide the latest information about the recycling centre
+as a superuser i need to update the information about the recycling kernel so that i can provide the latest information about the recycling centre
+43.5) Input phrase: as a superuser i want to update the information about the recycling center so that i can provide the latest information about the recycling center
+as a superuser i need to update the information about the recycling kernel so that i can provide the latest information about the recycling center
+43.6) Input phrase: as a superuser i want to update the information about the recycling center so that i can provide the latest information about the recycling center 
+as a superuser i need to update the information about the recycling kernel so that i can provide the latest information about the recycling kernel 
+43.7) Input phrase: as a superuser i want to update the recycling center information so i can provide the latest information about the recycling center
+as a superuser i need to update the recycling kernel information so i can provide the latest information about the recycling center
+43.8) Input phrase: as a superuser i want to update the recycling center information so that i can provide the latest information about the recycling center
+as a superuser i need to update the recycling kernel information so that i can provide the latest information about the recycling center
+44.0) Input phrase:  As a superuser, I want to view users' stats, so that I can view in real-time how many users have visited my recycling center information and their recyclable waste.
+ As a superuser, I need to opinion users' stats, so that I can opinion in real-time how many drug_user have inflict my recycling kernel information and their recyclable waste.
+44.1) Input phrase: i want to view users' stats so i can see in real time how many users have visited my recycling center information and their recyclable waste
+i need to opinion users' stats so i can see in real_number fourth_dimension how many drug_user have inflict my recycling kernel information and their recyclable waste
+44.2) Input phrase: i want to view users' stats so i can see in real-time how many users have visited my recycling center information and their recyclable waste
+i need to opinion users' stats so i can see in real-time how many drug_user have inflict my recycling kernel information and their recyclable waste
+44.3) Input phrase: currently as a superuser i want to view users' stats so that i can view in real-time how many users have visited my recycling center information and
+currently as a superuser i need to opinion users' stats so that i can opinion in real-time how many drug_user have inflict my recycling kernel information and
+44.4) Input phrase: i want to view users' stats so i can view in real-time how many users have visited my recycling center information and their recyclable waste
+i need to opinion users' stats so i can opinion in real-time how many drug_user have inflict my recycling kernel information and their recyclable waste
+44.5) Input phrase: as a superuser i want to view users' stats so i can see in real-time how many users have visited my recycling center information and their recyclable waste
+as a superuser i need to opinion users' stats so i can see in real-time how many drug_user have inflict my recycling kernel information and their recyclable waste
+44.6) Input phrase: as a superuser i want to view users' stats so i can view in real time how many users have visited my recycling center information and their recyclable waste
+as a superuser i need to opinion users' stats so i can opinion in real_number fourth_dimension how many drug_user have inflict my recycling kernel information and their recyclable waste
+44.7) Input phrase: as a superuser i want to view users' stats so i can view in real-time how many users have visited my recycling center information and their recyclable waste
+as a superuser i need to opinion users' stats so i can opinion in real-time how many drug_user have inflict my recycling kernel information and their recyclable waste
+44.8) Input phrase: as a superuser i want to view users' stats so that i can see in real-time how many users have visited my recycling center information and their recyclable waste
+as a superuser i need to opinion users' stats so that i can see in real-time how many drug_user have inflict my recycling kernel information and their recyclable waste
+44.9) Input phrase: as a superuser i want to view users' stats so that i can view in real-time how many users have visited my recycling center information and their recyclable waste
+as a superuser i need to opinion users' stats so that i can opinion in real-time how many drug_user have inflict my recycling kernel information and their recyclable waste
+45.0) Input phrase:  As a superuser, I want to reply to user questions, so that I can answer any questions about my recycling center.
+ As a superuser, I need to answer to user questions, so that I can answer any motion about my recycling center.
+45.1) Input phrase: i want to reply to the user questions so i can answer any questions about my recycling center
+i need to answer to the user motion so i can answer any motion about my recycling center
+45.2) Input phrase: i want to reply to user questions so i can answer any question about my recycling center
+i need to answer to user motion so i can answer any motion about my recycling center
+45.3) Input phrase: i want to reply to user questions so i can answer any questions about my recycling center
+i need to answer to user motion so i can answer any motion about my recycling center
+45.4) Input phrase: i want to reply to user questions so that i can answer questions about my recycling center
+i need to answer to user motion so that i can answer motion about my recycling center
+45.5) Input phrase: as a superuser i want to answer user questions so i can answer questions about my recycling center
+as a superuser i need to answer user motion so i can answer motion about my recycling center
+45.6) Input phrase: i want to reply to user questions so that i can answer any questions about my recycling center
+i need to answer to user motion so that i can answer any motion about my recycling center
+45.7) Input phrase: as a superuser i want to answer user questions so i can answer any questions about my recycling center
+as a superuser i need to answer user motion so i can answer any motion about my recycling center
+45.8) Input phrase: as a superuser i want to answer user questions so that i can answer any questions about my recycling center
+as a superuser i need to answer user motion so that i can answer any motion about my recycling center
+45.9) Input phrase: as a superuser i want to reply to user questions so i can answer any questions about my recycling centre
+as a superuser i need to answer to user motion so i can answer any motion about my recycling centre
+45.10) Input phrase: as a superuser i want to reply to user questions so i can answer any questions about my recycling center
+as a superuser i need to answer to user motion so i can answer any motion about my recycling center
+46.0) Input phrase:  As an admin, I want to be able to have a dashboard that shows usage stats and locations, so that I can identify the neighbourhoods with the largest number of drop-offs and to try getting more facilities involved.
+ As an admin, I need to be able to have a splashboard that display use stats and locations, so that I can identify the neighborhood with the largest phone_number of drop-offs and to attempt acquiring more adeptness involved.
+46.1) Input phrase: as an admin i want to have a dashboard that shows usage stats and locations so i can identify the neighbourhoods with the largest number of drop-offs and try to get more facilities involved
+as an admin i need to have a splashboard that display use stats and placement so i can identify the neighborhood with the largest phone_number of drop-offs and attempt to get more adeptness involved
+46.2) Input phrase: as an admin i want to be able to have a dashboard that shows usage stats and locations so i can identify the neighbourhoods with the largest number of drop-offs and to try to get more facilities involved in the
+as an admin i need to be able to have a splashboard that display use stats and placement so i can identify the neighborhood with the largest phone_number of drop-offs and to attempt to get more adeptness involved in the
+46.3) Input phrase: as an admin i want to be able to have a dashboard that shows usage stats and locations so i can identify the neighbourhoods with the largest number of drop-offs and to try to get more facilities involved in
+as an admin i need to be able to have a splashboard that display use stats and placement so i can identify the neighborhood with the largest phone_number of drop-offs and to attempt to get more adeptness involved in
+46.4) Input phrase: as an admin i want to be able to have a dashboard that shows usage stats and locations so i can identify the neighbourhoods with the largest number of drop-offs and try to get more facilities involved
+as an admin i need to be able to have a splashboard that display use stats and placement so i can identify the neighborhood with the largest phone_number of drop-offs and attempt to get more adeptness involved
+46.5) Input phrase: as an admin i want to be able to have a dashboard that shows usage stats and locations so i can identify the neighbourhoods with the largest number of drop-offs and to try to get more facilities involved
+as an admin i need to be able to have a splashboard that display use stats and placement so i can identify the neighborhood with the largest phone_number of drop-offs and to attempt to get more adeptness involved
+46.6) Input phrase: as an admin i want to be able to have a dashboard that shows usage stats and locations so that i can identify the neighbourhoods with the largest number of drop-offs and to try to get more facilities involved in
+as an admin i need to be able to have a splashboard that display use stats and placement so that i can identify the neighborhood with the largest phone_number of drop-offs and to attempt to get more adeptness involved in
+46.7) Input phrase: as an admin i want to be able to have a dashboard that shows usage stats and locations so that i can identify the neighbourhoods with the largest number of drop-offs and try to get more facilities involved
+as an admin i need to be able to have a splashboard that display use stats and placement so that i can identify the neighborhood with the largest phone_number of drop-offs and attempt to get more adeptness involved
+46.8) Input phrase: as an admin i want to be able to have a dashboard that shows usage stats and locations so that i can identify the neighbourhoods with the largest number of drop-offs and to try to get more facilities involved
+as an admin i need to be able to have a splashboard that display use stats and placement so that i can identify the neighborhood with the largest phone_number of drop-offs and to attempt to get more adeptness involved
+46.9) Input phrase: as an admin i want to be able to have a dashboard that shows usage stats and locations so that i can identify the neighbourhoods with the largest number of drop-offs and to try getting more facilities involved
+as an admin i need to be able to have a splashboard that display use stats and placement so that i can identify the neighborhood with the largest phone_number of drop-offs and to attempt acquiring more adeptness involved
+47.0) Input phrase:  As an admin, I want to be able to communicate directly with facilities, so that I can keep them updated about features we have on our website.
+ As an admin, I need to be able to communicate directly with facilities, so that I can keep them updated about feature_of_speech we have on our website.
+47.1) Input phrase: as an admin i want to be able to communicate directly with facilities so i can keep them updated about the features we have on our website
+as an admin i need to be able to communicate directly with facility so i can keep them updated about the feature_of_speech we have on our website
+47.2) Input phrase: as an admin i want to be able to communicate directly with facilities so that i can keep them updated about the features we have on our site
+as an admin i need to be able to communicate directly with facility so that i can keep them updated about the feature_of_speech we have on our site
+47.3) Input phrase: as an admin i want to be able to communicate directly with facilities so that i can keep them updated about the features we have on our website i
+as an admin i need to be able to communicate directly with facility so that i can keep them updated about the feature_of_speech we have on our web_site i
+47.4) Input phrase: as an admin i want to be able to communicate directly with facilities so that i can keep them updated about the features we have on our web site
+as an admin i need to be able to communicate directly with facility so that i can keep them updated about the feature_of_speech we have on our web site
+47.5) Input phrase: as an admin i want to be able to communicate directly with facilities so i can keep them updated about features we have on our website
+as an admin i need to be able to communicate directly with facility so i can keep them updated about feature_of_speech we have on our website
+47.6) Input phrase: as an admin i want to be able to communicate directly with facilities so that i can keep them updated about the features we have on our website
+as an admin i need to be able to communicate directly with facility so that i can keep them updated about the feature_of_speech we have on our website
+47.7) Input phrase: as admin i want to be able to communicate directly with facilities so that i can keep them updated about features we have on our website
+as admin i need to be able to communicate directly with facility so that i can keep them updated about feature_of_speech we have on our website
+47.8) Input phrase: as an admin i want to be able to communicate directly with facilities so that i can keep them updated about features we have on our website
+as an admin i need to be able to communicate directly with facility so that i can keep them updated about feature_of_speech we have on our website
+48.0) Input phrase:  As a user, I want to be able to browse through the list of facolities and see which ones are environment-friendly, so that I can know for sure my waste is not going to leave a negative ecological footprint.
+ As a user, I need to be able to browse through the tilt of facolities and see which ones are environment-friendly, so that I can know for sure my waste is not departure to farewell a negative ecological footprint.
+48.1) Input phrase: as a user i want to be able to browse through the list of facolities and see which ones are environmentally friendly so i can know for sure that my waste will not leave a negative ecological footprint
+as a user i need to be able to browse through the tilt of facolities and see which ones are environmentally friendly so i can know for sure that my waste will not farewell a negative ecological footprint
+48.2) Input phrase: as a user i want to be able to browse through the list of facolities and see which ones are environmentally friendly so that i can know for sure that my waste is not going to leave a negative environmental footprint
+as a user i need to be able to browse through the tilt of facolities and see which ones are environmentally friendly so that i can know for sure that my waste is not departure to farewell a negative environmental footprint
+48.3) Input phrase: as a user i want to be able to browse through the list of facolities and see which ones are environmentally friendly so that i can know for sure that my waste is not going to leave a negative ecological impact
+as a user i need to be able to browse through the tilt of facolities and see which ones are environmentally friendly so that i can know for sure that my waste is not departure to farewell a negative ecological impact
+48.4) Input phrase: as a user i want to be able to browse through the list of facolities and see which ones are environmentally friendly so i can know for sure that my waste is not going to leave a negative ecological footprint
+as a user i need to be able to browse through the tilt of facolities and see which ones are environmentally friendly so i can know for sure that my waste is not departure to farewell a negative ecological footprint
+48.5) Input phrase: as a user i want to be able to browse through the list of facolities and see which ones are environment-friendly so i can know for sure that my waste is not going to leave a negative ecological footprint
+as a user i need to be able to browse through the tilt of facolities and see which ones are environment-friendly so i can know for sure that my waste is not departure to farewell a negative ecological footprint
+48.6) Input phrase: as a user i want to be able to browse through the list of facolities and see which ones are environmentally friendly so that i can know for sure that my waste is not going to leave a negative ecological footprint
+as a user i need to be able to browse through the tilt of facolities and see which ones are environmentally friendly so that i can know for sure that my waste is not departure to farewell a negative ecological footprint
+48.7) Input phrase: as a user i want to be able to browse through the list of facolities and see which ones are environmentally friendly so i can know for sure my waste is not going to leave a negative ecological footprint
+as a user i need to be able to browse through the tilt of facolities and see which ones are environmentally friendly so i can know for sure my waste is not departure to farewell a negative ecological footprint
+49.0) Input phrase:  As a recyclingfacility representative, I want to be able to update my information and the type of material I accept, so that I can avoid any miscommunication with users.
+ As a recyclingfacility representative, I need to be able to update my information and the character of material I accept, so that I can invalidate any miscommunication with users.
+49.1) Input phrase: as recyclingfacility representative i want to be able to update my information and the type of material i accept so that i can avoid misunderstandings with users
+as recyclingfacility spokesperson i need to be able to update my information and the character of material i accept so that i can invalidate mistake with users
+49.2) Input phrase: as recyclingfacility representative i want to be able to update my information and the type of material i accept so that i can avoid misunderstanding with users
+as recyclingfacility spokesperson i need to be able to update my information and the character of material i accept so that i can invalidate mistake with users
+49.3) Input phrase: as recyclingfacility representative i want to be able to update my information and the type of material i accept so that i can avoid any miscommunication
+as recyclingfacility spokesperson i need to be able to update my information and the character of material i accept so that i can invalidate any miscommunication
+49.4) Input phrase: as recyclingfacility representative i want to be able to update my information and the type of material i accept so that i can avoid any confusion with users
+as recyclingfacility spokesperson i need to be able to update my information and the character of material i accept so that i can invalidate any confusion with users
+49.5) Input phrase: as a recyclingfacility representative i want to be able to update my information and the type of material i accept so i can avoid miscommunication with users
+as a recyclingfacility spokesperson i need to be able to update my information and the character of material i accept so i can invalidate miscommunication with users
+49.6) Input phrase: as recyclingfacility representative i want to be able to update my information and the type of material i accept so that i can avoid any miscommunication with
+as recyclingfacility spokesperson i need to be able to update my information and the character of material i accept so that i can invalidate any miscommunication with
+49.7) Input phrase: as a recycling facility representative i want to be able to update my information and the type of material i accept so i can avoid any miscommunication with users
+as a recycling facility spokesperson i need to be able to update my information and the character of fabric i accept so i can invalidate any miscommunication with users
+49.8) Input phrase: as recyclingfacility representative i want to be able to update my information and the type of material i accept so that i can avoid any miscommunication with users
+as recyclingfacility spokesperson i need to be able to update my information and the character of material i accept so that i can invalidate any miscommunication with users
+49.9) Input phrase: as a recycling facility representative i want to be able to update my information and the type of material i accept so that i can avoid any miscommunication with users
+as a recycling facility spokesperson i need to be able to update my information and the character of fabric i accept so that i can invalidate any miscommunication with users
+50.0) Input phrase:  As a recyclingfacility representative, I want to have access to user stats and schedules, so that I can adjust my hours and/or upgrade equipment and capacity in order to be able to accomodate larger amounts of recyclable materials.
+ As a recyclingfacility representative, I need to have access to user stats and schedules, so that I can align my hours and/or ascent equipment and capability in orderliness to be able to accomodate larger measure of recyclable materials.
+50.1) Input phrase: i want access to user stats and schedules so i can adjust my hours andor upgrade equipment and capacity to be able to accommodate larger amounts of recyclable materials
+i need access to user stats and agenda so i can align my hours andor ascent equipment and capability to be able to oblige larger measure of recyclable materials
+50.2) Input phrase: i want access to user statistics and schedules so i can adjust my hours andor upgrade equipment and capacity in order to be able to accommodate larger amounts of recyclable materials
+i lack access to user statistics and agenda so i can align my hours andor ascent equipment and capability in orderliness to be able to oblige larger measure of recyclable materials
+50.3) Input phrase: i want access to user stats and schedules so that i can adjust my hours andor upgrade equipment and capacity in order to be able to accommodate larger amounts of recyclables
+i lack access to user stats and agenda so that i can align my hours andor ascent equipment and capability in orderliness to be able to oblige larger measure of recyclables
+50.4) Input phrase: i want access to user stats and schedules so that i can adjust my hours andor upgrade equipment and capacity to be able to accommodate larger amounts of recyclable materials
+i need access to user stats and agenda so that i can align my hours andor ascent equipment and capability to be able to oblige larger measure of recyclable materials
+50.5) Input phrase: i want access to user stats and schedules so i can adjust my hours andor upgrade equipment and capacity in order to be able to accommodate larger amounts of recyclable material
+i lack access to user stats and agenda so i can align my hours andor ascent equipment and capability in orderliness to be able to oblige larger measure of recyclable material
+50.6) Input phrase: i want access to user stats and schedules so i can adjust my hours andor upgrade equipment and capacity in order to be able to accommodate larger amounts of recyclable materials
+i lack access to user stats and agenda so i can align my hours andor ascent equipment and capability in orderliness to be able to oblige larger measure of recyclable materials
+50.7) Input phrase: i want access to user stats and schedules so that i can adjust my hours andor upgrade equipment and capacity in order to be able to accommodate larger amounts of recyclable materials in
+i lack access to user stats and agenda so that i can align my hours andor ascent equipment and capability in orderliness to be able to oblige larger measure of recyclable fabric in
+50.8) Input phrase: i want access to user stats and schedules so that i can adjust my hours andor upgrade equipment and capacity in order to be able to accommodate larger amounts of recyclable materials i
+i lack access to user stats and agenda so that i can align my hours andor ascent equipment and capability in orderliness to be able to oblige larger measure of recyclable fabric i
+50.9) Input phrase: i want access to user stats and schedules so that i can adjust my hours andor upgrade equipment and capacity in order to be able to accommodate larger amounts of recyclable material
+i lack access to user stats and agenda so that i can align my hours andor ascent equipment and capability in orderliness to be able to oblige larger measure of recyclable material
+50.10) Input phrase: i want access to user stats and schedules so that i can adjust my hours andor upgrade equipment and capacity in order to be able to accommodate larger amounts of recyclable materials
+i lack access to user stats and agenda so that i can align my hours andor ascent equipment and capability in orderliness to be able to oblige larger measure of recyclable materials
+51.0) Input phrase:  As a recyclingfacility, I want to be able to communicate directly with the site admin and convey any issues or concerns I have, so that they fix them.
+ As a recyclingfacility, I need to be able to bring directly with the locate admin and bring any topic or business I have, so that they fix them.
+51.1) Input phrase: as recycler i want to be able to communicate with the site admin and convey any issues or concerns i have so that they can fix them immediately
+as recycler i need to be able to bring with the locate admin and bring any topic or business i have so that they can fix them immediately
+51.2) Input phrase: as recycler i want to be able to contact the site admin and convey any issues or concerns i have so that they can fix them
+as recycler i need to be able to contact the site admin and carry any topic or business i have so that they can fix them
+51.3) Input phrase: as recycler i want to be able to communicate directly with site admin and convey any issues or concerns i have so that they can fix them immediately
+as recycler i need to be able to bring immediately with locate admin and bring any topic or business i have so that they can fix them immediately
+51.4) Input phrase: as recycler i want to be able to communicate with the site admin and convey any issues or concerns i have so that they can fix them
+as recycler i need to be able to bring with the locate admin and bring any topic or business i have so that they can fix them
+51.5) Input phrase: as recycler i want to be able to communicate directly with site admin and convey any issues or concerns i have so they can fix them
+as recycler i need to be able to bring directly with locate admin and bring any topic or business i have so they can fix them
+51.6) Input phrase: as recycler i want to be able to communicate directly with site admin and convey any issues or concerns i have so that they can fix them 
+as recycler i need to be able to bring directly with locate admin and bring any topic or business i have so that they can fix them 
+51.7) Input phrase: as recycler i want to be able to communicate directly with site admin and convey any issues or concerns i have so that they can fix them
+as recycler i need to be able to bring directly with locate admin and bring any topic or business i have so that they can fix them
+51.8) Input phrase: as recycler i want to be able to communicate directly with site admin and convey any issues or concerns i have so that they fix them
+as recycler i need to be able to bring directly with locate admin and bring any topic or business i have so that they fix them
+51.9) Input phrase: as a recycling facility i want to be able to communicate directly with the site admin and convey any issues or concerns i have so they can fix them
+as a recycling adeptness i need to be able to bring directly with the site admin and bring any exit or business i have so they can fix them
+51.10) Input phrase: as a recycling facility i want to be able to communicate directly with the site admin and convey any issues or concerns i have so that they fix them
+as a recycling adeptness i need to be able to bring directly with the site admin and bring any exit or business i have so that they fix them
+
+Time for single file = 68.6811 seconds = 1.1447 minutes = 0.0191 hours

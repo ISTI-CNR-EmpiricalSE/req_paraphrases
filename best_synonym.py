@@ -2,6 +2,8 @@ import nltk
 import spacy
 from nltk.corpus import wordnet
 from spacy_wordnet.wordnet_annotator import WordnetAnnotator
+import os
+import time
 
 stpwrd = nltk.corpus.stopwords.words('english')
 new_stopwords = ["an", "ss", "I", "to", "in", "so", "that", "and", "-", "_", ",", ";", ".", ":", "?", "!", "1", "2", "3", "4", "5", "6", "7", "8", "9", "0" ]
@@ -10,83 +12,150 @@ stpwrd.extend(new_stopwords)
 nlp = spacy.load('en')
 nlp.add_pipe(WordnetAnnotator(nlp.lang), after='tagger')
 
-phrase = "As a Data user, I want to have the 12-19-2017 deletions processed."
-tokens = nlp(phrase)
-# everything is a token apart from space
+similarity_array = ["path", "wup"]
+simulate_root_array = [True, False]
 
-synset_dict = {}
-for token in tokens:
-    if token.text.lower() not in stpwrd and not token.text.isnumeric():
-        synset = wordnet.synsets(token.text)
-        synset_dict[token.text] = synset
+tic0 = time.perf_counter()  # time for all datasets
 
-# print(synset_dict)
+for data_set_index in range(1, 25):
+    file_index = 1
+    for similarity in similarity_array:
+        for simulate_root in simulate_root_array:
 
-# clean synset
-for token in tokens:
-    done = False
-    if token.text.lower() not in stpwrd and not token.text.isnumeric():
-        tmp = []
-        for copy in synset_dict[token.text]:
-            tmp.append(copy)
-        for syn in tmp:
-            syn_name = syn.name()
-            index = syn_name.find(".")
-            synonym = syn_name[:index]
-            # remove synonym equal to original or too similar (plural, singular, past participle ...)
-            if synonym == token.text.lower() or synonym[:len(synonym)-1] == token.text.lower() or synonym == token.text.lower()[:len(token.text)-1] or \
-                    synonym[:len(synonym)-2] == token.text.lower() or synonym == token.text.lower()[:len(token.text)-2]:
-                synset_dict[token.text].remove(syn)
-                # put the equal one in front, but do this just once
-                if synonym == token.text.lower() and not done:
-                    done = True
-                    synset_dict[token.text].insert(0, syn)
+            tic1 = time.perf_counter()  # time for single file
 
-print(synset_dict)
-best_syn_list = []
+            input_file = open("results/data_set_" + str(data_set_index) + "/results_1.txt", "r")
+            dir = "results/data_set_" + str(data_set_index) + "/best_syn_outputs"
+            if not os.path.exists(dir):
+                os.makedirs(dir)
+            output_file = open("results/data_set_" + str(data_set_index) + "/best_syn_outputs/results_" + str(data_set_index) + "_best_syn" + str(file_index) + ".txt", "w")
+            file_index = file_index + 1
+            output_file.write("data_set_number:" + str(data_set_index) + "\n")
+            output_file.write("similarity:" + similarity + "\n")
+            output_file.write("simulate_root:" + str(simulate_root) + "\n")
+            output_file.write("\n")
+            dirty_phrases = input_file.read().splitlines()
+            clean_phrase = ""
+            j = 0
+            c = 0
+            for dirty_phrase in dirty_phrases:
+                if "Input_phrase" in dirty_phrase:
+                    j = j + 1
+                    c = 0
+                    if dirty_phrase.startswith("Input_phrase:"):
+                        # the format of the line is: Input_phrase: phrase
+                        clean_phrase = dirty_phrase[14:]
+                    else:
+                        # the format of the line is: number) Input_phrase: phrase
+                        clean_phrase = dirty_phrase[17:]
+                elif dirty_phrase.startswith("("):
+                    c = c + 1
+                    end_index = dirty_phrase.find(")")
+                    clean_phrase = dirty_phrase[2:end_index - 5]
+                else:
+                    continue
+                phrase = clean_phrase
+                output_file.write(str(j) + "." + str(c) + ") " + "Input phrase: " + phrase + "\n")
+                tokens = nlp(phrase)
+                # everything is a token apart from space
 
-for token in tokens:
-    if token.text.lower() not in stpwrd and not token.text.isnumeric():
-        synsets = synset_dict[token.text]
-        # for each token i have a dictionary to save the scoring of each of his synonym
-        # scoring is similarity calculated summing single similarities of the synonym
-        # with all (not his original) the synsets of other words
-        scoring_dict = {}
-        for synset in synsets:
-            scoring = 0
-            for compare_token in tokens:
-                # i'm not comparing a synonym with the original word of him
-                # because often in the synonyms there is also the original word, it is obvious that it would win
-                if compare_token.text != token.text and compare_token.text.lower() not in stpwrd and not compare_token.text.isnumeric():
-                    compare_synsets = synset_dict[compare_token.text]
-                    if compare_synsets:
-                        for compare_synset in compare_synsets:
-                            print(synset)
-                            print(compare_token.text)
-                            print(compare_synset)
-                            # with lch you need to have synset pos = compare_synset pos
-                            sim = synset.lch_similarity(compare_synset)
-                            print(sim)
-                            # it could not exists a path that connects, if you put simulate root true it always exists
-                            if sim:
-                                scoring = scoring + sim
-            scoring_dict[synset] = scoring
-        print(scoring_dict)
-        # save the synonym with higher score
-        max = 0
-        for syn in scoring_dict.keys():
-            if scoring_dict[syn] > max:
-                max = scoring_dict[syn]
-                best_syn = syn
-        if max != 0:
-            print(best_syn)
-            best_syn_list.append(best_syn)
-            best_syn_name = best_syn.name()
-            index = best_syn_name.find(".")
-            best_syn_name_final = best_syn_name[:index]
-            phrase = phrase.replace(token.text, best_syn_name_final)
+                synset_dict = {}
+                for token in tokens:
+                    if token.text.lower() not in stpwrd and not token.text.isnumeric():
+                        synset = wordnet.synsets(token.text)
+                        synset_dict[token.text] = synset
 
-print(phrase)
+                # print(synset_dict)
+
+                # clean synset
+                for token in tokens:
+                    done = False
+                    if token.text.lower() not in stpwrd and not token.text.isnumeric():
+                        tmp = []
+                        for copy in synset_dict[token.text]:
+                            tmp.append(copy)
+                        for syn in tmp:
+                            syn_name = syn.name()
+                            index = syn_name.find(".")
+                            synonym = syn_name[:index]
+                            # remove synonym equal to original or too similar (plural, singular, past participle ...)
+                            if synonym == token.text.lower() or synonym[:len(synonym)-1] == token.text.lower() or synonym == token.text.lower()[:len(token.text)-1] or \
+                                    synonym[:len(synonym)-2] == token.text.lower() or synonym == token.text.lower()[:len(token.text)-2]:
+                                synset_dict[token.text].remove(syn)
+                                # put the equal one in front, but do this just once
+                                if synonym == token.text.lower() and not done:
+                                    done = True
+                                    synset_dict[token.text].insert(0, syn)
+
+                print(synset_dict)
+                best_syn_list = []
+
+                for token in tokens:
+                    if token.text.lower() not in stpwrd and not token.text.isnumeric():
+                        synsets = synset_dict[token.text]
+                        # for each token i have a dictionary to save the scoring of each of his synonym
+                        # scoring is similarity calculated summing single similarities of the synonym
+                        # with all (not his original) the synsets of other words
+                        scoring_dict = {}
+                        for synset in synsets:
+                            scoring = 0
+                            for compare_token in tokens:
+                                # i'm not comparing a synonym with the original word of him
+                                # because often in the synonyms there is also the original word, it is obvious that it would win
+                                if compare_token.text != token.text and compare_token.text.lower() not in stpwrd and not compare_token.text.isnumeric():
+                                    compare_synsets = synset_dict[compare_token.text]
+                                    if compare_synsets:
+                                        for compare_synset in compare_synsets:
+                                            print(synset)
+                                            print(compare_token.text)
+                                            print(compare_synset)
+                                            # with lch you need to have synset pos = compare_synset pos
+                                            if similarity == "path" and simulate_root is True:
+                                                sim = synset.path_similarity(compare_synset, simulate_root=True)
+                                            elif similarity == "path" and simulate_root is False:
+                                                sim = synset.path_similarity(compare_synset, simulate_root=False)
+                                            elif similarity == "wup" and simulate_root is True:
+                                                sim = synset.wup_similarity(compare_synset, simulate_root=True)
+                                            elif similarity == "wup" and simulate_root is False:
+                                                sim = synset.wup_similarity(compare_synset, simulate_root=False)
+                                            print(sim)
+                                            # it could not exists a path that connects, if you put simulate root true it always exists
+                                            if sim:
+                                                scoring = scoring + sim
+                            scoring_dict[synset] = scoring
+                        print(scoring_dict)
+                        # save the synonym with higher score
+                        max = 0
+                        for syn in scoring_dict.keys():
+                            if scoring_dict[syn] > max:
+                                max = scoring_dict[syn]
+                                best_syn = syn
+                        if max != 0:
+                            print(best_syn)
+                            best_syn_list.append(best_syn)
+                            best_syn_name = best_syn.name()
+                            index = best_syn_name.find(".")
+                            best_syn_name_final = best_syn_name[:index]
+                            # you don't want to substitute parts of words
+                            # (example of wrong behaviour: if design substituted with plan -> redesign is substituted with replan)
+                            if " " + token.text + " " in phrase:
+                                phrase = phrase.replace(" " + token.text + " ", " " + best_syn_name_final + " ")
+                            elif " " + token.text + "\n" in phrase:
+                                phrase = phrase.replace(" " + token.text + "\n", " " + best_syn_name_final + "\n")
+
+                output_file.write(phrase + "\n")
+            output_file.write("\n")
+            toc1 = time.perf_counter() # time for single file
+            output_file.write(f"Time for single file = {toc1 - tic1:0.4f} seconds = {(toc1 - tic1) / 60:0.4f} "
+                              f"minutes = {((toc1 - tic1) / 60 / 60):0.4f} hours")
+
+
+
+toc0 = time.perf_counter()  # time for all datasets
+output_file.write("\n")
+# if you execute the script only on one data set total time will be equal to single time
+output_file.write(f"Time for all datasets = {toc0 - tic0:0.4f} seconds = {(toc0 - tic0) / 60:0.4f} "
+                  f"minutes = {((toc0 - tic0) / 60 / 60):0.4f} hours")
 
 
 '''
@@ -96,10 +165,22 @@ comparing all synonyms of a word (ALSO the eto) with all synonyms of all other w
 
 '''
 path similarity
-simulate root = true
+
+- simulate root = true (default)
+input : "As a Data user, I want to have the 12-19-2017 deletions processed."
 As a data user, I desire to have the 12-19-2017 omission march.
-simulate root = false
+input : "As a UI designer, I want to redesign the Resources page, so that it matches the new Broker design styles."
+As a UI designer, I desire to redesign the Resources page, so that it equal the new broker plan styles.
+input : "The system shall refresh the display every 60 seconds"
+The system shall review the expose every 60 seconds
+
+- simulate root = false
+input : "As a Data user, I want to have the 12-19-2017 deletions processed."
 As a data user, I need to have the 12-19-2017 omission processed.
+input : "As a UI designer, I want to redesign the Resources page, so that it matches the new Broker design styles."
+As a UI designer, I need to redesign the Resources page, so that it peer the new agent purpose styles.
+input : "The system shall refresh the display every 60 seconds"
+The system shall refresh the display every 60 seconds
 '''
 
 '''
@@ -118,10 +199,21 @@ uguale
 
 '''
 wup similarity
-simulate root = true
+
+- simulate root = true (default)
 As a data user, I desire to have the 12-19-2017 omission march.
-simulate root = false
+input : "As a UI designer, I want to redesign the Resources page, so that it matches the new Broker design styles."
+As a UI designer, I desire to redesign the Resources page, so that it equal the new agent plan styles.
+input : "The system shall refresh the display every 60 seconds"
+The system shall review the expose every 60 seconds
+
+- simulate root = false
+input : "As a Data user, I want to have the 12-19-2017 deletions processed."
 As a data user, I need to have the 12-19-2017 omission processed.
+input : "As a UI designer, I want to redesign the Resources page, so that it matches the new Broker design styles."
+As a UI designer, I need to redesign the Resources page, so that it peer the new agent purpose styles.
+input : "The system shall refresh the display every 60 seconds"
+The system shall refresh the display every 60 seconds
 '''
 
 '''

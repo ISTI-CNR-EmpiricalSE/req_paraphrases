@@ -1,0 +1,1350 @@
+data_set_number:17
+similarity:path
+simulate_root:True
+
+1.0) Input phrase: As a researcher, I want to be able to view a finding aid for a particular collection/Resource.
+As a researcher, I desire to be able to watch a find help for a detail collection/Resource.
+1.1) Input phrase: my job is to be able to view a particular collectionresource if i want to be able to
+my subcontract is to be able to watch a detail collectionresource if i desire to be able to
+1.2) Input phrase: my job is to be able to view a particular collectionresource a finding aid for
+my subcontract is to be able to watch a detail collectionresource a find help for
+1.3) Input phrase: my job is to be able to view a particular collectionresource '' finding aids
+my subcontract is to be able to watch a detail collectionresource '' find aids
+1.4) Input phrase: my job is to be able to view a particular collectionresource '' finding aid
+my subcontract is to be able to watch a detail collectionresource '' find aid
+1.5) Input phrase: my job is to be able to view a particular collectionresource a finding aid
+my subcontract is to be able to watch a detail collectionresource a find aid
+1.6) Input phrase: my job is to be able to view a particular collectionresource if i want to
+my subcontract is to be able to watch a detail collectionresource if i desire to
+1.7) Input phrase: my job is to be able to view a particular collectionresource
+my subcontract is to be able to watch a particular collectionresource
+1.8) Input phrase: as a researcher i want to be able to see a finding aid for a particular collectionresource
+as a research_worker i desire to be able to learn a find help for a detail collectionresource
+1.9) Input phrase: as a researcher i want to be able to view a finding aid for a particular collection or resource
+as a research_worker i desire to be able to watch a find help for a detail collection or resource
+1.10) Input phrase: as a researcher i want to be able to view a finding aid for a particular collectionresource i
+as a research_worker i desire to be able to watch a find help for a detail collectionresource i
+1.11) Input phrase: as a researcher i want to be able to view a finding aid for a particular collection  resource
+as a research_worker i desire to be able to watch a find help for a detail collection  resource
+1.12) Input phrase: as a researcher i want to be able to view a finding aid for a particular collectionresource 
+as a research_worker i desire to be able to watch a find help for a detail collectionresource 
+1.13) Input phrase: as a researcher i want to be able to view a finding aid for a particular collectionresource
+as a research_worker i desire to be able to watch a find help for a detail collectionresource
+1.14) Input phrase: as a researcher i want to be able to view a finding aid for a particular collectionresources
+as a research_worker i desire to be able to watch a find help for a detail collectionresources
+2.0) Input phrase: As an Application Administrator, I want to be able to reset a User's password for them.
+As an lotion Administrator, I desire to be able to readjust a User's password for them.
+2.1) Input phrase: how do i reset my password for an application?
+how do i readjust my password for an application?
+2.2) Input phrase: how do i reset my password for an application administrator?
+how do i readjust my password for an lotion administrator?
+2.3) Input phrase: how do i reset my user's password as an application administrator?
+how do i readjust my user's password as an lotion administrator?
+2.4) Input phrase: how do i reset my user's password as an application administrator
+how do i readjust my user's password as an lotion administrator
+2.5) Input phrase: how do i reset my user's password as an administrator?
+how do i reset my user's password as an administrator?
+2.6) Input phrase: how do i reset my user's password as a administrator?
+how do i reset my user's password as a administrator?
+2.7) Input phrase: how do i reset my user's password as administrator?
+how do i reset my user's password as administrator?
+2.8) Input phrase: how do i reset my user's password?
+how do i reset my user's password?
+2.9) Input phrase: admins want to reset the user's password
+admins desire to readjust the user's password
+2.10) Input phrase: admins want to be able to reset their user's password
+admins desire to be able to readjust their user's password
+2.11) Input phrase: admins want to be able to reset the user's password
+admins desire to be able to readjust the user's password
+2.12) Input phrase: admins want to be able to reset their password for them
+admins desire to be able to readjust their password for them
+2.13) Input phrase: admins want to be able to reset their user password for them
+admins desire to be able to readjust their user password for them
+3.0) Input phrase: As a user, I want backend changes for managing enum lists.
+As a user, I desire backend switch for do enum lists.
+3.1) Input phrase: i want changes to the enum list management backend
+i desire switch to the enum number management backend
+3.2) Input phrase: i want changes to the enum management backend
+i desire switch to the enum management backend
+3.3) Input phrase: i want changes to the enum list as a user
+i desire switch to the enum number as a user
+3.4) Input phrase: user i want backend changes for managing enums
+user i desire backend switch for do enums
+3.5) Input phrase: user i want backend changes to manage enum lists
+user i desire backend switch to do enum lists
+3.6) Input phrase: user i want back end changes for managing enum lists
+user i desire second goal switch for do enum lists
+3.7) Input phrase: user i want backend changes for managing enum list
+user i desire backend switch for do enum list
+3.8) Input phrase: user i want backend changes for managing enum lists
+user i desire backend switch for do enum lists
+3.9) Input phrase: as a user i want backend changes to manage enum lists
+as a user i desire backend switch to do enum lists
+3.10) Input phrase: as user i want backend changes for managing enum lists
+as user i desire backend switch for do enum lists
+3.11) Input phrase: as a user i want backend changes for managing enum list
+as a user i desire backend switch for do enum list
+3.12) Input phrase: as a user i want back end changes for managing enum lists
+as a user i desire second goal switch for do enum lists
+3.13) Input phrase: as a user i want backend changes for managing enum lists
+as a user i desire backend switch for do enum lists
+4.0) Input phrase: As an Archivist, I want to import EAD files that were exported by Archon.
+As an Archivist, I desire to spell EAD charge that were exported by Archon.
+4.1) Input phrase: if i want to import ead files from archon i have to do so as an archivist
+if i desire to spell ead charge from archon i have to do so as an archivist
+4.2) Input phrase: if i want to import ead files from archon i have to do so as archivist
+if i desire to spell ead charge from archon i have to do so as archivist
+4.3) Input phrase: if i want to import ead files from archon i have to do this
+if i desire to spell ead charge from archon i have to do this
+4.4) Input phrase: as an archivist i want to import ead files that archon exported
+as an archivist i desire to spell ead charge that archon exported
+4.5) Input phrase: as an archiver i want to import ead files exported by archon
+as an archiver i desire to spell ead charge exported by archon
+4.6) Input phrase: as an archivist i want to import ead files exported by archon
+as an archivist i desire to spell ead charge exported by archon
+4.7) Input phrase: as an archivist i want to import ead files that were exported by archon i have
+as an archivist i desire to spell ead charge that were exported by archon i have
+4.8) Input phrase: as an archiver i want to import ead files that were exported by archon
+as an archiver i desire to spell ead charge that were exported by archon
+4.9) Input phrase: as archivist i want to import ead files that were exported by archon
+as archivist i desire to spell ead charge that were exported by archon
+4.10) Input phrase: as an archivist i want to import ead files that were exported by archon
+as an archivist i desire to spell ead charge that were exported by archon
+4.11) Input phrase: in my role as archivist i want to import ead files that were exported by archon
+in my function as archivist i desire to meaning ead charge that were exported by archon
+4.12) Input phrase: as an archivist i want to import ead files that were exported by archon 
+as an archivist i desire to spell ead charge that were exported by archon 
+5.0) Input phrase: As an Archivist, I want to assign a component unique identifier to a Resource Component.
+As an Archivist, I desire to delegate a part unique identifier to a resource Component.
+5.1) Input phrase: i want to assign a unique component id to a resource component as an archivist
+i desire to delegate a unique part id to a resource part as an archivist
+5.2) Input phrase: i want to assign a unique component identification to a resource component as an archivist
+i desire to delegate a unique part identification to a resource part as an archivist
+5.3) Input phrase: as archivist i want to assign a unique identifier to a component of a resource
+as archivist i desire to delegate a unique identifier to a part of a resource
+5.4) Input phrase: as archivist i want to assign a unique identifier to a component of a resource component
+as archivist i desire to delegate a unique identifier to a part of a resource component
+5.5) Input phrase: as archivist i want to assign a unique identifier to a component resource component
+as archivist i desire to delegate a unique identifier to a part resource component
+5.6) Input phrase: as an archiver i want to assign a unique component identifier to a resource component
+as an archiver i desire to delegate a unique part identifier to a resource component
+5.7) Input phrase: as an archivist i want to assign a unique component identifier to a resource component ''
+as an archivist i desire to delegate a unique part identifier to a resource part ''
+5.8) Input phrase: as an archivist i want to assign a unique component identifier to a resource component
+as an archivist i desire to delegate a unique part identifier to a resource component
+5.9) Input phrase: as archivist i want to assign a unique identifier to a resource component
+as archivist i desire to delegate a unique identifier to a resource component
+5.10) Input phrase: as an archiver i want to assign a component unique identifier to a resource component
+as an archiver i desire to delegate a part unique identifier to a resource component
+5.11) Input phrase: as an archivist i want to assign a component unique identifier to a resource component ''
+as an archivist i desire to delegate a part unique identifier to a resource part ''
+5.12) Input phrase: as an archivist i want to assign a component unique identifier to a resource component
+as an archivist i desire to delegate a part unique identifier to a resource component
+6.0) Input phrase: As a User , I want to authenticate using LDAP.
+As a user , I desire to authenticate use LDAP.
+6.1) Input phrase: how do i authenticate myself using ldap as a user?
+how do i authenticate myself use ldap as a user?
+6.2) Input phrase: how do i authenticate myself using ldap as user?
+how do i authenticate myself use ldap as user?
+6.3) Input phrase: how do i authenticate myself with ldap?
+how do i authenticate myself with ldap?
+6.4) Input phrase: how do i authenticate myself as a user using ldap?
+how do i authenticate myself as a user use ldap?
+6.5) Input phrase: how do i authenticate myself as a user using ldap
+how do i authenticate myself as a user use ldap
+6.6) Input phrase: how do i authenticate myself using ldap
+how do i authenticate myself use ldap
+6.7) Input phrase: how do i authenticate myself using ldap?
+how do i authenticate myself use ldap?
+6.8) Input phrase: i want to authenticate using ldap as a user
+i desire to authenticate use ldap as a user
+6.9) Input phrase: i want to authenticate using ldap
+i desire to authenticate use ldap
+6.10) Input phrase: as user i want to authenticate using ldap
+as user i desire to authenticate use ldap
+6.11) Input phrase: as a user i want to authenticate using ldap
+as a user i desire to authenticate use ldap
+6.12) Input phrase: when i am a user i want to authenticate using ldap
+when i am a user i desire to authenticate use ldap
+7.0) Input phrase: As a migration specialist, I want to store the AT or Archon source record ids in each ASpace record
+As a migration specialist, I desire to memory the AT or Archon reservoir commemorate idaho in each ASpace record
+7.1) Input phrase: the at or archon source record ids are stored in each aspace record as a migration specialist i want to
+the at or archon reservoir commemorate idaho are stored in each aspace commemorate as a migration specialist i desire to
+7.2) Input phrase: the at or archon source record ids should be stored in each aspace record as a migration specialist
+the at or archon reservoir commemorate idaho should be stored in each aspace commemorate as a migration specialist
+7.3) Input phrase: the at or archon source record ids are stored in each aspace record as a migration specialist
+the at or archon reservoir commemorate idaho are stored in each aspace commemorate as a migration specialist
+7.4) Input phrase: the at or archon source record ids will be stored in each aspace record as a migration specialist
+the at or archon reservoir commemorate idaho will be stored in each aspace commemorate as a migration specialist
+7.5) Input phrase: the at or archon source record ids should be stored in each aspace record
+the at or archon reservoir commemorate idaho should be stored in each aspace record
+7.6) Input phrase: if i am a migration specialist i want to store the at or archon source ids in each aspace record
+if i am a migration specialist i desire to memory the at or archon reservoir idaho in each aspace record
+7.7) Input phrase: as a migration specialist i want to store at or archon source record ids in each aspace record
+as a migration specialist i desire to memory at or archon reservoir commemorate idaho in each aspace record
+7.8) Input phrase: as a migration specialist i want to store the at or archon source record ids in every aspace record
+as a migration specialist i desire to memory the at or archon reservoir commemorate idaho in every aspace record
+7.9) Input phrase: as a migration specialist i want to store the at or archon source record ids in each aspace record
+as a migration specialist i desire to memory the at or archon reservoir commemorate idaho in each aspace record
+8.0) Input phrase: to support data migration integrity testing.
+to hold datum migration integrity testing.
+8.1) Input phrase: to support the integrity testing of the data migrations
+to hold the integrity test of the datum migrations
+8.2) Input phrase: to support the integrity testing of the migration data
+to hold the integrity test of the migration data
+8.3) Input phrase: to support the integrity testing of the data migration process
+to hold the integrity test of the datum migration process
+8.4) Input phrase: to support the integrity testing of the data migration
+to hold the integrity test of the datum migration
+8.5) Input phrase: a test of the integrity of a data migration
+a examination of the integrity of a datum migration
+8.6) Input phrase: to support the integrity testing of data migration
+to hold the integrity test of datum migration
+8.7) Input phrase: to support the integrity testing of data migrations
+to hold the integrity test of datum migrations
+8.8) Input phrase: to support integrity testing of data migrations
+to hold integrity test of datum migrations
+8.9) Input phrase: to support integrity testing of data migration
+to hold integrity test of datum migration
+8.10) Input phrase: a test of data migration integrity
+a examination of datum migration integrity
+8.11) Input phrase: for data migration integrity testing
+for datum migration integrity testing
+8.12) Input phrase: i support data migration integrity testing ''
+i hold datum migration integrity test ''
+8.13) Input phrase: to support data migration integrity tests
+to hold datum migration integrity tests
+8.14) Input phrase: i support data migration integrity testing
+i hold datum migration integrity testing
+8.15) Input phrase: to support data migration integrity testing
+to hold datum migration integrity testing
+9.0) Input phrase: As an Archivist, I want to associate a standard identifier string with a Subject heading.
+As an Archivist, I desire to consort a standard identifier string with a subjugate heading.
+9.1) Input phrase: i want to associate a standard identifier string with a subject heading as an archivist
+i desire to consort a standard identifier string with a subjugate head as an archivist
+9.2) Input phrase: i want to associate a standard identifier string with the subject heading
+i desire to consort a standard identifier string with the subjugate heading
+9.3) Input phrase: i want to associate a standard identifier string with a subject heading
+i desire to consort a standard identifier string with a subjugate heading
+9.4) Input phrase: as an archiver i want to associate a standard identifier string with a subject heading
+as an archiver i desire to consort a standard identifier string with a subjugate heading
+9.5) Input phrase: as archivist i want to associate a standard identifier string with a subject heading
+as archivist i desire to consort a standard identifier string with a subjugate heading
+9.6) Input phrase: as an archivist i want to associate a standard identifier string with a subject heading ''
+as an archivist i desire to consort a standard identifier string with a subjugate head ''
+9.7) Input phrase: as an archivist i want to associate a standard identifier string with a subject heading '
+as an archivist i desire to consort a standard identifier string with a subjugate head '
+9.8) Input phrase: as an archivist i want to associate a standard identifier string with a subject heading
+as an archivist i desire to consort a standard identifier string with a subjugate heading
+10.0) Input phrase:  As an Archivist, I want to be able to understand that an error occurred during import and why it might have occurred.
+ As an Archivist, I desire to be able to understand that an erroneousness happen during spell and why it might have occurred.
+10.1) Input phrase: my job is to understand why an error occurred during import
+my subcontract is to understand why an mistake happen during import
+10.2) Input phrase: as archivist i want to understand why an error occurred during import
+as archivist i desire to understand why an erroneousness happen during import
+10.3) Input phrase: my job is to understand that an error occurred during import and why it might have happened
+my subcontract is to understand that an mistake happen during spell and why it might have happened
+10.4) Input phrase: my job is to understand that an error occurred during import and why it may have occurred
+my subcontract is to understand that an mistake happen during spell and why it may have occurred
+10.5) Input phrase: my job is to understand that an error occurred during the import and why it might have occurred
+my subcontract is to understand that an mistake happen during the spell and why it might have occurred
+10.6) Input phrase: my job is to understand why an error occurred during import and why it might have occurred
+my subcontract is to understand why an mistake happen during spell and why it might have occurred
+10.7) Input phrase: my job is to understand that an error occurred during import and why it might have occurred
+my subcontract is to understand that an mistake happen during spell and why it might have occurred
+10.8) Input phrase: as archivist i want to understand that an error occurred during import and why it might have happened
+as archivist i desire to understand that an erroneousness happen during spell and why it might have happened
+10.9) Input phrase: as archivist i want to understand that an error occurred during import and why it could have occurred
+as archivist i desire to understand that an erroneousness happen during spell and why it could have occurred
+10.10) Input phrase: as archivist i want to understand that an error occurred during import and why it may have occurred
+as archivist i desire to understand that an erroneousness happen during spell and why it may have occurred
+10.11) Input phrase: as an archivist i want to understand that an error occurred during import and why it might have happened
+as an archivist i desire to understand that an erroneousness happen during spell and why it might have happened
+10.12) Input phrase: as an archivist i want to understand that an error occurred during import and why it may have occurred
+as an archivist i desire to understand that an erroneousness happen during spell and why it may have occurred
+10.13) Input phrase: as archivist i want to understand that an error occurred during import and why it might have occurred
+as archivist i desire to understand that an erroneousness happen during spell and why it might have occurred
+10.14) Input phrase: as an archiver i want to understand that an error occurred during import and why it might have occurred
+as an archiver i desire to understand that an erroneousness happen during spell and why it might have occurred
+10.15) Input phrase: as an archivist i want to understand that an error occurred during import and why it might have occurred
+as an archivist i desire to understand that an erroneousness happen during spell and why it might have occurred
+11.0) Input phrase:  As an Archivist, I want to import Accessions data in CSV.
+ As an Archivist, I desire to meaning entree data in CSV.
+11.1) Input phrase: if i want to import accessions data in csv as an archivist
+if i desire to meaning entree data in csv as an archivist
+11.2) Input phrase: if i want to import accessions data in csv as a archivist
+if i desire to meaning entree data in csv as a archivist
+11.3) Input phrase: i want to import accessions data in csv
+i desire to meaning entree data in csv
+11.4) Input phrase: as an archivist i want to import accessions data in csv format
+as an archivist i desire to meaning entree data in csv format
+11.5) Input phrase: as an archiver i want to import accessions data in csv
+as an archiver i desire to meaning entree data in csv
+11.6) Input phrase: as archivist i want to import accessions data in csv
+as archivist i desire to meaning entree data in csv
+11.7) Input phrase: as an archivist i want to import accessions data in csv ''
+as an archivist i desire to meaning entree data in csv ''
+11.8) Input phrase: as an archivist i want to import accessions data in csv
+as an archivist i desire to meaning entree data in csv
+12.0) Input phrase:  As an Archivist, I want to import Resources from MARCXML records.
+ As an Archivist, I desire to spell Resources from MARCXML records.
+12.1) Input phrase: i want to import resources from marcxml records as an archivist
+i desire to spell resources from marcxml commemorate as an archivist
+12.2) Input phrase: i want to import resources from marcxml records
+i desire to spell resources from marcxml records
+12.3) Input phrase: if i'm an archivist i want to import resources from marcxml
+if i'm an archivist i desire to meaning resources from marcxml
+12.4) Input phrase: as archivist i want to import resources from marcxml records
+as archivist i desire to spell resources from marcxml records
+12.5) Input phrase: as an archiver i want to import resources from marcxml records
+as an archiver i desire to spell resources from marcxml records
+12.6) Input phrase: if i'm an archivist i want to import resources from marcxml records
+if i'm an archivist i desire to spell resources from marcxml records
+12.7) Input phrase: as an archivist i want to import resources from marcxml records
+as an archivist i desire to spell resources from marcxml records
+13.0) Input phrase:  As a user, I want frontend changes for managing enum lists.
+ As a user, I desire frontend switch for do enum lists.
+13.1) Input phrase: i want a user to change the frontend to manage enum lists
+i desire a user to switch the frontend to do enum lists
+13.2) Input phrase: i want a user to change the frontend of managing enum lists
+i desire a user to switch the frontend of do enum lists
+13.3) Input phrase: i want a user to change the frontend for managing enum lists
+i desire a user to switch the frontend for do enum lists
+13.4) Input phrase: user i want front end changes for managing enum lists
+user i desire movement end switch for do enum lists
+13.5) Input phrase: user i want frontend changes for managing enum lists
+user i desire frontend switch for do enum lists
+13.6) Input phrase: as a user i want frontend changes to manage enum lists
+as a user i desire frontend switch to do enum lists
+13.7) Input phrase: as user i want frontend changes for managing enum lists
+as user i desire frontend switch for do enum lists
+13.8) Input phrase: as a user i want front end changes for managing enum lists
+as a user i desire movement end switch for do enum lists
+13.9) Input phrase: as a user i want frontend changes for managing enum list
+as a user i desire frontend switch for do enum list
+13.10) Input phrase: as a user i want frontend changes for managing enum lists
+as a user i desire frontend switch for do enum lists
+14.0) Input phrase:  As an Authenticated User, I want to get access to links to contextual help.
+ As an Authenticated User, I desire to arrive access to connect to contextual help.
+14.1) Input phrase: as an authenticated user i want to get access to links to context-sensitive support
+as an authenticated user i desire to arrive access to connect to context-sensitive support
+14.2) Input phrase: when i am an authenticated user i want to get access to links to context-sensitive support
+when i am an authenticated user i desire to arrive access to connect to context-sensitive support
+14.3) Input phrase: as a logged in user i want to get access to links to contextual help
+as a log in user i desire to arrive access to connect to contextual help
+14.4) Input phrase: as an authenticated user i want to get access to links to context-sensitive help
+as an authenticated user i desire to arrive access to connect to context-sensitive help
+14.5) Input phrase: when i am an authenticated user i want to get access to links to context-sensitive help
+when i am an authenticated user i desire to arrive access to connect to context-sensitive help
+14.6) Input phrase: as an authenticated user i want access to links to contextual help
+as an authenticated user i desire access to connect to contextual help
+14.7) Input phrase: as a authenticated user i want to get access to links to contextual support
+as a authenticated user i desire to arrive access to connect to contextual support
+14.8) Input phrase: when i am an authenticated user i want to get access to links to context-based help
+when i am an authenticated user i desire to arrive access to connect to context-based help
+14.9) Input phrase: as a authenticated user i want to get access to links to contextual help ''
+as a authenticated user i desire to arrive access to connect to contextual help ''
+14.10) Input phrase: when i am an authenticated user i want to get access to the links to contextual help
+when i am an authenticated user i desire to arrive access to the connect to contextual help
+14.11) Input phrase: when i am an authentified user i want to get access to links to contextual help
+when i am an authentified user i desire to arrive access to connect to contextual help
+14.12) Input phrase: as a authenticated user i want to get access to links to contextual help
+as a authenticated user i desire to arrive access to connect to contextual help
+14.13) Input phrase: as an authenticated user i want to get access to links to contextual help
+as an authenticated user i desire to arrive access to connect to contextual help
+14.14) Input phrase: when i am an authenticated user i want to get access to links to contextual help
+when i am an authenticated user i desire to arrive access to connect to contextual help
+15.0) Input phrase:  As an Archivist, I want to see Dates and Extents displayed in both the read and edit views for Accessions and/or Resources before the list of Subjects.
+ As an Archivist, I desire to watch go_steady and Extents expose in both the learn and edit watch for entree and/or Resources before the number of Subjects.
+15.1) Input phrase: please see dates and extents displayed in both the view read and edit for accessions andor resources before the list of subjects as an archivist
+please watch go_steady and extents expose in both the watch learn and edit for entree andor resources before the number of subjugate as an archivist
+15.2) Input phrase: please see dates and extents displayed in both the read and edit views for accessions andor resources before the list of subjects as an archivist i
+please watch go_steady and extents expose in both the learn and edit watch for entree andor resources before the number of subjugate as an archivist i
+15.3) Input phrase: please see dates and extents displayed in both the read and edit views for accessions andor resources before the list of subjects as an archivist
+please watch go_steady and extents expose in both the learn and edit watch for entree andor resources before the number of subjugate as an archivist
+15.4) Input phrase: please see dates and extents displayed in both the view read and edit for accessions andor resources before the list of subjects
+please watch go_steady and extents expose in both the watch learn and edit for entree andor resources before the number of subjects
+15.5) Input phrase: please see dates and extents displayed in both the read and edit views for accessions andor resources before the list of subject
+please watch go_steady and extents expose in both the learn and edit watch for entree andor resources before the number of subject
+15.6) Input phrase: please see dates and extents displayed in both the read and edit views for accessions andor resources before the list of subjects
+please watch go_steady and extents expose in both the learn and edit watch for entree andor resources before the number of subjects
+15.7) Input phrase: as an archivist i want to see dates and extents displayed in both read and edit views for accessions andor resources before the list of subjects
+as an archivist i desire to watch go_steady and extents expose in both learn and edit watch for entree andor resources before the number of subjects
+15.8) Input phrase: as an archivist i want to see dates and extents displayed in both the read and edit views for accessions andor resources before the list of subjects
+as an archivist i desire to watch go_steady and extents expose in both the learn and edit watch for entree andor resources before the number of subjects
+16.0) Input phrase:  As an Archivist, I want to import Agent information from EAC-CPF records.
+ As an Archivist, I desire to meaning agent information from EAC-CPF records.
+16.1) Input phrase: currently i want to import agent information from eac-cpf records as an archivist
+currently i desire to meaning agent information from eac-cpf commemorate as an archivist
+16.2) Input phrase: currently i want to import agent information from eac-cpf records as an archiver
+currently i desire to meaning agent information from eac-cpf commemorate as an archiver
+16.3) Input phrase: currently i want to import agent information from eac-cpf records as archivist
+currently i desire to meaning agent information from eac-cpf commemorate as archivist
+16.4) Input phrase: currently i want to import agent information from eac-cpf records
+currently i desire to meaning agent information from eac-cpf records
+16.5) Input phrase: in my role as an archivist i want to import agent information from eac-cpf
+in my function as an archivist i desire to meaning agent information from eac-cpf
+16.6) Input phrase: as an archiver i want to import agent information from eac-cpf records ''
+as an archiver i desire to meaning agent information from eac-cpf commemorate ''
+16.7) Input phrase: as an archiver i want to import agent information from eac-cpf records
+as an archiver i desire to meaning agent information from eac-cpf records
+16.8) Input phrase: as archivist i want to import agent information from eac-cpf records
+as archivist i desire to meaning agent information from eac-cpf records
+16.9) Input phrase: as an archivist i want to import agent information from eac-cpf records ''
+as an archivist i desire to meaning agent information from eac-cpf commemorate ''
+16.10) Input phrase: as an archivist i want to import agent information from eac-cpf records
+as an archivist i desire to meaning agent information from eac-cpf records
+17.0) Input phrase:  As a user, I want backend changes to support loading enum value lists from the database.
+ As a user, I desire backend switch to hold load enum measure number from the database.
+17.1) Input phrase: the backend should support loading enum value lists from the database as a user
+the backend should hold load enum measure number from the database as a user
+17.2) Input phrase: the backend needs to support loading enum value lists from the database as the user
+the backend necessitate to hold load enum measure number from the database as the user
+17.3) Input phrase: the backend needs to support loading enum value lists from the database as an user
+the backend necessitate to hold load enum measure number from the database as an user
+17.4) Input phrase: the backend needs to support loading enum value lists from the database as a user
+the backend necessitate to hold load enum measure number from the database as a user
+17.5) Input phrase: the backend needs to support loading enum value lists from the database as user
+the backend necessitate to hold load enum measure number from the database as user
+17.6) Input phrase: the backend changes should support loading enum value lists from the database
+the backend switch should hold load enum measure number from the database
+17.7) Input phrase: the backend needs to support loading enum value lists from the database
+the backend necessitate to hold load enum measure number from the database
+17.8) Input phrase: the backend changes to support loading enum value lists from the database
+the backend switch to hold load enum measure number from the database
+17.9) Input phrase: as a user i want the backend changes to support loading enum value lists from the database
+as a user i desire the backend switch to hold load enum measure number from the database
+17.10) Input phrase: as a user i want backend changes to support loading enum value lists from database
+as a user i desire backend switch to hold load enum measure number from database
+17.11) Input phrase: as a user i want backend changes to support loading of enum value lists from the database
+as a user i desire backend switch to hold load of enum measure number from the database
+17.12) Input phrase: as a user i want backend changes to support loading enum values lists from the database
+as a user i desire backend switch to hold load enum measure number from the database
+17.13) Input phrase: if i am a user i want backend changes to support loading enum value lists from the database
+if i am a user i desire backend switch to hold load enum measure number from the database
+17.14) Input phrase: as a user i want backend changes to support loading enum value lists from the database
+as a user i desire backend switch to hold load enum measure number from the database
+18.0) Input phrase:  As a user, I want backend changes for bulk updating one enum value to another.
+ As a user, I desire backend switch for bulge update one enum measure to another.
+18.1) Input phrase: the user wants backend changes for bulk updating enum values
+the user desire backend switch for bulge update enum values
+18.2) Input phrase: the user wants backend changes for bulk updating enum values to another
+the user desire backend switch for bulge update enum measure to another
+18.3) Input phrase: the user wants backend changes for bulk updating enum value to another
+the user desire backend switch for bulge update enum measure to another
+18.4) Input phrase: as a user i want backend changes for bulk updating an enum value to another value
+as a user i desire backend switch for bulge update an enum measure to another value
+18.5) Input phrase: the user wants backend changes for bulk updating one enum value in another
+the user desire backend switch for bulge update one enum measure in another
+18.6) Input phrase: the user wants backend changes for bulk updating one enum value to another ''
+the user desire backend switch for bulge update one enum measure to another ''
+18.7) Input phrase: as a user i want backend changes for bulk updating one enum to another
+as a user i desire backend switch for bulge update one enum to another
+18.8) Input phrase: the user wants backend changes for bulk updating one enum value to another
+the user desire backend switch for bulge update one enum measure to another
+18.9) Input phrase: as a user i want backend changes for bulk updating one enum value to another value
+as a user i desire backend switch for bulge update one enum measure to another value
+18.10) Input phrase: as a user i want backend changes to bulk update one enum value to another
+as a user i desire backend switch to bulge update one enum measure to another
+18.11) Input phrase: as a user i want backend changes for bulk updating an enum value to another
+as a user i desire backend switch for bulge update an enum measure to another
+18.12) Input phrase: as a user i want backend changes for bulk updating one enum value to another 
+as a user i desire backend switch for bulge update one enum measure to another 
+18.13) Input phrase: as a user i want backend changes for bulk updating one enum value to another
+as a user i desire backend switch for bulge update one enum measure to another
+19.0) Input phrase:  As an Archivist, I want to export agent records as EAC-CPF.
+ As an Archivist, I desire to export agent commemorate as EAC-CPF.
+19.1) Input phrase: i want to export agent records as eac-cpf as an archivist
+i desire to export agent commemorate as eac-cpf as an archivist
+19.2) Input phrase: i want to export agent records as eac-cpf as archivist
+i desire to export agent commemorate as eac-cpf as archivist
+19.3) Input phrase: my job is to export agent records as eac-cpf
+my subcontract is to export agent commemorate as eac-cpf
+19.4) Input phrase: my role is to export agent records as eac-cpf
+my function is to export agent commemorate as eac-cpf
+19.5) Input phrase: i want to export agent records as eac-cpf
+i desire to export agent commemorate as eac-cpf
+19.6) Input phrase: as archivist i want to export agent records as eac cpf
+as archivist i desire to export agent commemorate as eac cpf
+19.7) Input phrase: as archivist i want to export agent records as eac-cpf
+as archivist i desire to export agent commemorate as eac-cpf
+19.8) Input phrase: as an archiver i want to export agent records as eac-cpf
+as an archiver i desire to export agent commemorate as eac-cpf
+19.9) Input phrase: as a archivist i want to export agent records as eac-cpf
+as a archivist i desire to export agent commemorate as eac-cpf
+19.10) Input phrase: as an archivist i want to export agent records as eac-cpf
+as an archivist i desire to export agent commemorate as eac-cpf
+20.0) Input phrase:  As an Archivist, I want to import only Agent and Subject information from MARCXML records.
+ As an Archivist, I desire to meaning only agent and subjugate information from MARCXML records.
+20.1) Input phrase: please import only agent and subject information from marcxml records as an archivist
+please meaning only agent and subject information from marcxml commemorate as an archivist
+20.2) Input phrase: please import only agent and subject information from marcxml records as an archiver
+please meaning only agent and subject information from marcxml commemorate as an archiver
+20.3) Input phrase: i want to import only agent and subject information from marcxml records as an archivist '
+i desire to meaning only agent and subjugate information from marcxml commemorate as an archivist '
+20.4) Input phrase: i want to import only agent and subject information from marcxml records as an archivist
+i desire to meaning only agent and subjugate information from marcxml commemorate as an archivist
+20.5) Input phrase: please import only agent and subject information from marcxml records
+please meaning only agent and subject information from marcxml records
+20.6) Input phrase: i want to import only agent and subject information from marcxml records
+i desire to meaning only agent and subjugate information from marcxml records
+20.7) Input phrase: as archivist i want to import only agent and subject information from marcxml records ''
+as archivist i desire to meaning only agent and subjugate information from marcxml commemorate ''
+20.8) Input phrase: as archivist i want to import only agent and subject information from marcxml records
+as archivist i desire to meaning only agent and subjugate information from marcxml records
+20.9) Input phrase: as an archiver i want to import only agent and subject information from marcxml records
+as an archiver i desire to meaning only agent and subjugate information from marcxml records
+20.10) Input phrase: as an archivist i want to import only agent and subject information from marcxml records
+as an archivist i desire to meaning only agent and subjugate information from marcxml records
+21.0) Input phrase:  As an Application Administrator, I want to assign Users to an Advanced Data Entry and ensure that the appropriate permissions are enforced.
+ As an application Administrator, I desire to delegate drug_user to an gain data submission and guarantee that the appropriate license are enforced.
+21.1) Input phrase: i want to assign users to an advanced data entry and ensure that the appropriate permissions are enforced
+i desire to delegate drug_user to an gain data submission and guarantee that the appropriate license are enforced
+21.2) Input phrase: as administrator of an application i want to assign users to an advanced data entry and ensure that the appropriate permissions are enforceable
+as administrator of an application i desire to delegate drug_user to an gain data submission and guarantee that the appropriate license are enforceable
+21.3) Input phrase: as administrator of an application i want to assign users to an advanced data entry and ensure that the appropriate permissions are enforced
+as administrator of an application i desire to delegate drug_user to an gain data submission and guarantee that the appropriate license are enforced
+21.4) Input phrase: as administrator i want to assign users to an advanced data entry and ensure that the appropriate permissions are enforced
+as administrator i desire to delegate drug_user to an gain data submission and guarantee that the appropriate license are enforced
+21.5) Input phrase: as an application administrator i want to assign users to an advanced data entry and ensure that the appropriate permissions are enforced for example
+as an application administrator i desire to delegate drug_user to an gain datum submission and guarantee that the appropriate license are enforced for example
+21.6) Input phrase: as an application administrator i want to assign users to advanced data entry and ensure that the appropriate permissions are enforced
+as an application administrator i desire to delegate drug_user to gain data submission and guarantee that the appropriate license are enforced
+21.7) Input phrase: as an application administrator i want to assign users to an advanced data entry and ensure that the appropriate permissions are enforced
+as an application administrator i desire to delegate drug_user to an gain data submission and guarantee that the appropriate license are enforced
+21.8) Input phrase: as an application administrator i want to assign users to an advanced data entry and ensure that the appropriate permissions are enforced 
+as an application administrator i desire to delegate drug_user to an gain data submission and guarantee that the appropriate license are enforced 
+22.0) Input phrase:  As an Application Administrator , I want to be able to configure the help center URL and topic mappings.
+ As an application administrator , I desire to be able to configure the help focus_on url and topic mappings.
+22.1) Input phrase: i want to configure the help center url and topic mappings as an application administrator
+i desire to configure the help focus_on url and topic function as an application administrator
+22.2) Input phrase: i want to be able to configure the help center url and topic mappings as an application administrator
+i desire to be able to configure the help focus_on url and topic function as an application administrator
+22.3) Input phrase: i want to configure the help center url and topic mapping
+i desire to configure the help focus_on url and topic mapping
+22.4) Input phrase: i want to configure the help center url and topic mappings
+i desire to configure the help focus_on url and topic mappings
+22.5) Input phrase: i want to be able to configure the help center url and topic mapping
+i desire to be able to configure the help focus_on url and topic mapping
+22.6) Input phrase: i want to be able to configure the help center url and topic mappings
+i desire to be able to configure the help focus_on url and topic mappings
+22.7) Input phrase: as an application administrator i want to be able to configure help center url and topic mappings
+as an application administrator i desire to be able to configure help focus_on url and topic mappings
+22.8) Input phrase: as an application administrator i want to be able to configure the help center url and topic mappings
+as an application administrator i desire to be able to configure the help focus_on url and topic mappings
+23.0) Input phrase:  As a user, I want to add additional properties for repositories.
+ As a user, I desire to lend additional property for repositories.
+23.1) Input phrase: as a user i want to add additional property for repositories
+as a user i desire to lend additional property for repositories
+23.2) Input phrase: as a user i want to add additional properties for repository
+as a user i desire to lend additional property for repository
+23.3) Input phrase: as a user i want to add additional properties for repositories ''
+as a user i desire to lend additional property for repository ''
+23.4) Input phrase: as user i want to add additional properties for repositories
+as user i desire to lend additional property for repositories
+23.5) Input phrase: as a user i want to add additional properties to repositories
+as a user i desire to lend additional property to repositories
+23.6) Input phrase: then as an user i want to add additional properties for repository
+then as an user i desire to lend additional property for repository
+23.7) Input phrase: if i am a user i want to add additional properties for repositories
+if i am a user i desire to lend additional property for repositories
+23.8) Input phrase: as a user i want to add additional properties for repositories
+as a user i desire to lend additional property for repositories
+23.9) Input phrase: then as an user i want to add additional properties for repositories
+then as an user i desire to lend additional property for repositories
+24.0) Input phrase:  As an Archivist, I want to add Notes to other record types.
+ As an Archivist, I desire to lend notice to other commemorate types.
+24.1) Input phrase: please add notes to other record types as an archivist
+please lend notice to other commemorate character as an archivist
+24.2) Input phrase: please add notes to other record types as an archiver
+please lend notice to other commemorate character as an archiver
+24.3) Input phrase: please add notes to other records as an archivist
+please lend notice to other commemorate as an archivist
+24.4) Input phrase: please add notes to other record types as archivists
+please lend notice to other commemorate character as archivists
+24.5) Input phrase: please add notes to other record types as archivist
+please lend notice to other commemorate character as archivist
+24.6) Input phrase: i want to add notes to other record types as an archivist
+i desire to lend notice to other commemorate character as an archivist
+24.7) Input phrase: i want to add notes to other records as an archivist
+i desire to lend notice to other commemorate as an archivist
+24.8) Input phrase: i want to add notes to other record types as an archiver
+i desire to lend notice to other commemorate character as an archiver
+24.9) Input phrase: please add notes to other record types
+please lend notice to other commemorate types
+24.10) Input phrase: i want to add notes to other record types
+i desire to lend notice to other commemorate types
+24.11) Input phrase: as an archiver i want to add notes to other record types
+as an archiver i desire to lend notice to other commemorate types
+24.12) Input phrase: as archivist i want to add notes to other record types
+as archivist i desire to lend notice to other commemorate types
+24.13) Input phrase: as an archivist i want to add notes to other record types
+as an archivist i desire to lend notice to other commemorate types
+25.0) Input phrase:  As an Administrator, I want to create a new User account for someone else.
+ As an Administrator, I desire to create a new user report for person else.
+25.1) Input phrase: can i create a new account for someone else as an administrator?
+can i create a new report for person else as an administrator?
+25.2) Input phrase: i want to create a user account for another person as administrator
+i desire to create a user report for another person as administrator
+25.3) Input phrase: can i create a new account for someone else as administrator?
+can i create a new report for person else as administrator?
+25.4) Input phrase: can i create a user account for someone else as administrator?
+can i create a user report for person else as administrator?
+25.5) Input phrase: can i create a new account for someone else as an admin?
+can i create a new report for person else as an admin?
+25.6) Input phrase: i want to create a user account for another administrator
+i desire to create a user report for another administrator
+25.7) Input phrase: can i create a user account for another person?
+can i create a user report for another person?
+25.8) Input phrase: i want to create a user account for someone else as administrator
+i desire to create a user report for person else as administrator
+25.9) Input phrase: i want to create a user account for another person
+i desire to create a user report for another person
+25.10) Input phrase: can i create a new account for someone else?
+can i create a new report for person else?
+25.11) Input phrase: can i create a user account for someone else?
+can i create a user report for person else?
+25.12) Input phrase: i want to create a user account for someone else
+i desire to create a user report for person else
+25.13) Input phrase: i want to create a new user account for someone else
+i desire to create a new user report for person else
+26.0) Input phrase:  As an Archivist, I want to add administrative data about the archival description and finding aid-related data to a top-level Resource.
+ As an Archivist, I desire to lend administrative data about the archival description and determine aid-related data to a top-level Resource.
+26.1) Input phrase: as an archivist i want to add administrative data about archival description and finding aid-related data to a top-level resource
+as an archivist i desire to lend administrative data about archival description and determine aid-related data to a top-level resource
+26.2) Input phrase: as an archivist i want to add administrative data about the archival description and the finding aid-related data to a top-level resource
+as an archivist i desire to lend administrative data about the archival description and the determine aid-related data to a top-level resource
+26.3) Input phrase: as an archivist i want to add administrative data about the archival description and the finding aid-related data to a top-level resource 
+as an archivist i desire to lend administrative data about the archival description and the determine aid-related data to a top-level resource 
+26.4) Input phrase: as an archiver i want to add administrative data about the archival description and finding aid-related data to a top-level resource
+as an archiver i desire to lend administrative data about the archival description and determine aid-related data to a top-level resource
+26.5) Input phrase: as an archivist i want to add administrative data about the archival description and finding aid-related data to a top-level resource ''
+as an archivist i desire to lend administrative data about the archival description and determine aid-related data to a top-level resource ''
+26.6) Input phrase: as an archivist i want to add administrative data about the archival description and finding aid related data to a top-level resource
+as an archivist i desire to lend administrative data about the archival description and determine help refer data to a top-level resource
+26.7) Input phrase: as an archivist i want to add administrative data about the archival description and finding aid-related data to a top-level resource '
+as an archivist i desire to lend administrative data about the archival description and determine aid-related data to a top-level resource '
+26.8) Input phrase: as an archivist i want to add administrative data about the archival description and finding aid-related data to a top-level resource i
+as an archivist i desire to lend administrative data about the archival description and determine aid-related data to a top-level resource i
+26.9) Input phrase: as an archivist i want to add administrative data about the archival description and finding aid-related data to a top-level resource 
+as an archivist i desire to lend administrative data about the archival description and determine aid-related data to a top-level resource 
+26.10) Input phrase: in my role as archivist i want to add administrative data about the archival description and finding aid-related data to a top-level resource
+in my function as archivist i desire to lend administrative data about the archival description and determine aid-related data to a top-level resource
+26.11) Input phrase: as an archivist i want to add administrative data about the archival description and finding aid-related data to a top-level resource
+as an archivist i desire to lend administrative data about the archival description and determine aid-related data to a top-level resource
+26.12) Input phrase: in my role as an archivist i want to add administrative data about the archival description and finding aid related data to a top-level resource
+in my function as an archivist i desire to lend administrative data about the archival description and determine help refer data to a top-level resource
+27.0) Input phrase:  As an Archivist, I want to assign a Level of description to a Resource or Resource Component and optionally specify another value if the Level is not in a predefined list.
+ As an Archivist, I desire to delegate a flush of description to a resource or resource part and optionally intend another measure if the flush is not in a predefined list.
+27.1) Input phrase: when i'm an archivist i want to assign a level of description to a resource or a resource component and optionally specify another value if the level is not in
+when i'm an archivist i desire to delegate a flush of description to a resource or a resource part and optionally intend another measure if the flush is not in
+27.2) Input phrase: as an archivist i want to assign a level of description to a resource or a resource component and optionally specify another value if the level is not in a predefined list if
+as an archivist i desire to delegate a flush of description to a resource or a resource part and optionally intend another measure if the flush is not in a predefined number if
+27.3) Input phrase: as an archiver i want to assign a level of description to a resource or resource component and optionally specify another value if the level is not in a predefined list
+as an archiver i desire to delegate a flush of description to a resource or resource part and optionally intend another measure if the flush is not in a predefined list
+27.4) Input phrase: as an archivist i want to assign a level of description to a resource or a resource component and optionally specify another value if the level is not in a predefined list '
+as an archivist i desire to delegate a flush of description to a resource or a resource part and optionally intend another measure if the flush is not in a predefined number '
+27.5) Input phrase: as an archivist i want to assign a level of description to a resource or a resource component and optionally specify another value if the level is not in a predefined list 
+as an archivist i desire to delegate a flush of description to a resource or a resource part and optionally intend another measure if the flush is not in a predefined number 
+27.6) Input phrase: as an archivist i want to assign a level of description to a resource or a resource component and optionally specify another value if the level is not in a predefined list
+as an archivist i desire to delegate a flush of description to a resource or a resource part and optionally intend another measure if the flush is not in a predefined list
+27.7) Input phrase: as an archivist i want to assign a level of description to a resource or resource component and optionally specify another value if the level is not in a predefined list
+as an archivist i desire to delegate a flush of description to a resource or resource part and optionally intend another measure if the flush is not in a predefined list
+27.8) Input phrase: in my role as an archivist i want to assign a level of description to a resource or resource component and optionally specify another value if the level is not in a predefined list
+in my function as an archivist i desire to delegate a flush of description to a resource or resource part and optionally intend another measure if the flush is not in a predefined list
+28.0) Input phrase:  As a developer, I want to use a configuration that is not prepackaged within a built version of application.
+ As a developer, I desire to practice a shape that is not prepackaged within a construct adaptation of application.
+28.1) Input phrase: developer i want to use configuration that is not prepackaged in a built version of application
+developer i desire to practice shape that is not prepackaged in a construct adaptation of application
+28.2) Input phrase: as the developer i want to use a configuration that is not prepackaged within a built version of the app
+as the developer i desire to practice a shape that is not prepackaged within a construct adaptation of the app
+28.3) Input phrase: as a developer i want to use a configuration that is not prepackaged in a built version of the application
+as a developer i desire to practice a shape that is not prepackaged in a construct adaptation of the application
+28.4) Input phrase: developer i want to use configuration that is not prepackaged within a built version of application
+developer i desire to practice shape that is not prepackaged within a construct adaptation of application
+28.5) Input phrase: as the developer i want to use a configuration that is not prepackaged in a built version of application
+as the developer i desire to practice a shape that is not prepackaged in a construct adaptation of application
+28.6) Input phrase: as a developer i want to use a configuration that is not prepackaged within a built version of the application
+as a developer i desire to practice a shape that is not prepackaged within a construct adaptation of the application
+28.7) Input phrase: as a developer i want to use a configuration that is not prepackaged within a built version of the application 
+as a developer i desire to practice a shape that is not prepackaged within a construct adaptation of the application 
+28.8) Input phrase: as a developer i want to use a configuration that is not prepackaged in a built version of application
+as a developer i desire to practice a shape that is not prepackaged in a construct adaptation of application
+28.9) Input phrase: as the developer i want to use a configuration that is not prepacked within a built version of application
+as the developer i desire to practice a shape that is not prepacked within a construct adaptation of application
+28.10) Input phrase: as a developer i want to use a configuration that is not prepackaged within a built version of an application
+as a developer i desire to practice a shape that is not prepackaged within a construct adaptation of an application
+28.11) Input phrase: as the developer i want to use a configuration that is not prepackaged within a built version of application 
+as the developer i desire to practice a shape that is not prepackaged within a construct adaptation of application 
+28.12) Input phrase: as the developer i want to use a configuration that is not prepackaged within a built version of application
+as the developer i desire to practice a shape that is not prepackaged within a construct adaptation of application
+28.13) Input phrase: as a developer i want to use a configuration that is not prepackaged within a built version of application
+as a developer i desire to practice a shape that is not prepackaged within a construct adaptation of application
+29.0) Input phrase:  As an Archivist, I want to import EAD files that were exported by the Archivists' Toolkit.
+ As an Archivist, I desire to spell EAD charge that were exported by the Archivists' Toolkit.
+29.1) Input phrase: as an archivist i want to import ead files exported by the archivist toolkit
+as an archivist i desire to meaning ead charge exported by the archivist toolkit
+29.2) Input phrase: as an archivist i want to import ead files exported by the archivists toolkit
+as an archivist i desire to spell ead charge exported by the archivists toolkit
+29.3) Input phrase: as an archivist i want to import ead files that were exported by the archivists' toolkit i have
+as an archivist i desire to spell ead charge that were exported by the archivists' toolkit i have
+29.4) Input phrase: as an archiver i want to import ead files that were exported by the archivists toolkit
+as an archiver i desire to spell ead charge that were exported by the archivists toolkit
+29.5) Input phrase: as an archivist i want to import ead files that were exported by the archivists toolkit ''
+as an archivist i desire to spell ead charge that were exported by the archivists toolkit ''
+29.6) Input phrase: in my capacity as an archivist i want to import ead files that were exported by the archivist toolkit
+in my capability as an archivist i desire to meaning ead charge that were exported by the archivist toolkit
+29.7) Input phrase: as an archivist i want to import ead files that were exported by the archivist toolkit
+as an archivist i desire to meaning ead charge that were exported by the archivist toolkit
+29.8) Input phrase: as an archivist i want to import ead files that were exported by the archivists'toolkit
+as an archivist i desire to spell ead charge that were exported by the archivists'toolkit
+29.9) Input phrase: as an archivist i want to import ead files that were exported by the archivists toolkit
+as an archivist i desire to spell ead charge that were exported by the archivists toolkit
+29.10) Input phrase: in my role as archivist i want to import ead files that were exported by the archivists toolkit
+in my function as archivist i desire to meaning ead charge that were exported by the archivists toolkit
+29.11) Input phrase: as an archivist i want to import ead files that were exported by the archivists' toolkit
+as an archivist i desire to spell ead charge that were exported by the archivists' toolkit
+29.12) Input phrase: as an archivist i want to import ead files that were exported by the archivists' toolkit 
+as an archivist i desire to spell ead charge that were exported by the archivists' toolkit 
+29.13) Input phrase: in my role as an archivist i want to import ead files that were exported by the archivist toolkit
+in my function as an archivist i desire to meaning ead charge that were exported by the archivist toolkit
+30.0) Input phrase:  As a systems administrator, I want to be able to control the location of the demo database and I want it to be backed up.
+ As a arrangement administrator, I desire to be able to master the location of the show database and I desire it to be second up.
+30.1) Input phrase: as the system administrator i want to control the location of the demo database and i want it backed up
+as the arrangement administrator i desire to master the location of the show database and i desire it second up
+30.2) Input phrase: as the system administrator i want to control the location of the demo database and i want it to be backed up
+as the arrangement administrator i desire to master the location of the show database and i desire it to be second up
+30.3) Input phrase: as the systems administrator i want to control the location of the demo database and i want it to be backed up
+as the arrangement administrator i desire to master the location of the show database and i desire it to be second up
+30.4) Input phrase: as a system administrator i want to control the location of the demo database and i want it to be backed up
+as a arrangement administrator i desire to master the location of the show database and i desire it to be second up
+30.5) Input phrase: as the system administrator i want to be able to control the location of the demo database and i want it to be stored
+as the arrangement administrator i desire to be able to master the location of the show database and i desire it to be stored
+30.6) Input phrase: as the system administrator i want to be able to control the location of the demo database and i want it backed up
+as the arrangement administrator i desire to be able to master the location of the show database and i desire it second up
+30.7) Input phrase: as a system administrator i want to be able to control the location of the demo database and i want it backed up
+as a arrangement administrator i desire to be able to master the location of the show database and i desire it second up
+30.8) Input phrase: as a systems administrator i want to be able to control the location of the demo database and i want it backed up
+as a arrangement administrator i desire to be able to master the location of the show database and i desire it second up
+30.9) Input phrase: as the system administrator i want to be able to control the location of the demo database and i want it to be backup
+as the arrangement administrator i desire to be able to master the location of the show database and i desire it to be backup
+30.10) Input phrase: as a system administrator i want to be able to control the location of the demo database and i want it to be backed
+as a arrangement administrator i desire to be able to master the location of the show database and i desire it to be backed
+30.11) Input phrase: as a system administrator i want to be able to control the location of the demo database and i want it to be back up
+as a arrangement administrator i desire to be able to master the location of the show database and i desire it to be second up
+30.12) Input phrase: as the system administrator i want to be able to control the location of the demo database and i want it to be backed up
+as the arrangement administrator i desire to be able to master the location of the show database and i desire it to be second up
+30.13) Input phrase: as a system administrator i want to be able to control the location of the demo database and i want it to be backed up
+as a arrangement administrator i desire to be able to master the location of the show database and i desire it to be second up
+30.14) Input phrase: as a systems administrator i want to be able to control the location of the demo database and i want it to be backed up
+as a arrangement administrator i desire to be able to master the location of the show database and i desire it to be second up
+31.0) Input phrase:  As an archivist, I want to search within a repository for resource and accession and digital object records.
+ As an archivist, I desire to research within a depository for resource and accession and digital object records.
+31.1) Input phrase: the archivist i want to search for resource and accession and digital object records in a repository i have
+the archivist i desire to research for resource and accession and digital object commemorate in a depository i have
+31.2) Input phrase: the archivist i want to search for resource and accession and digital object records within a repository
+the archivist i desire to research for resource and accession and digital object commemorate within a repository
+31.3) Input phrase: the archivist i want to search for resource and accession and digital object records within a library
+the archivist i desire to research for resource and accession and digital object commemorate within a library
+31.4) Input phrase: the archivist i want to search for resource and accession and digital object records in a repository
+the archivist i desire to research for resource and accession and digital object commemorate in a repository
+31.5) Input phrase: the archivist i want to search for resource and accession and digital object records in a library
+the archivist i desire to research for resource and accession and digital object commemorate in a library
+31.6) Input phrase: my job is to search within a repository for resource and accession and digital objects
+my subcontract is to research within a repository for resource and accession and digital objects
+31.7) Input phrase: my job is to search in a repository for resource and accession and digital object records
+my subcontract is to research in a depository for resource and accession and digital object records
+31.8) Input phrase: my job is to search within a repository for resource and accession and digital object records
+my subcontract is to research within a depository for resource and accession and digital object records
+31.9) Input phrase: as an archivist i want to search in a repository for resource and accession and digital object records
+as an archivist i desire to research in a depository for resource and accession and digital object records
+31.10) Input phrase: as an archivist i want to search within a repository for resource and access and digital object records
+as an archivist i desire to research within a depository for resource and access and digital object records
+31.11) Input phrase: as archivist i want to search within a repository for resource and accession and digital object records
+as archivist i desire to research within a depository for resource and accession and digital object records
+31.12) Input phrase: as an archivist i want to search within a repository for resource and accession and digital objects records
+as an archivist i desire to research within a repository for resource and accession and digital aim records
+31.13) Input phrase: as an archivist i want to search within a repository for resource and accession and digital object records 
+as an archivist i desire to research within a depository for resource and accession and digital object commemorate 
+31.14) Input phrase: as an archivist i want to search within a repository for resource and accession and digital object records
+as an archivist i desire to research within a depository for resource and accession and digital object records
+32.0) Input phrase:  As an archivist, I want to create and edit a Collection Management subrecord.
+ As an archivist, I desire to create and edit a collection management subrecord.
+32.1) Input phrase: i want to create and edit a collection management sub-record as an archivist
+i desire to create and edit a collection management sub-record as an archivist
+32.2) Input phrase: i want to create and edit a collection management subrecord as an archivist
+i desire to create and edit a collection management subrecord as an archivist
+32.3) Input phrase: i want to create and edit a collection management subrecord as archivist
+i desire to create and edit a collection management subrecord as archivist
+32.4) Input phrase: i want to create and edit a collection management subrecord
+i desire to create and edit a collection management subrecord
+32.5) Input phrase: as an archivist i want to create and edit a collection management subrecord i have
+as an archivist i desire to create and edit a collection management subrecord i have
+32.6) Input phrase: as archivist i want to create and edit a collection management subrecord
+as archivist i desire to create and edit a collection management subrecord
+32.7) Input phrase: as a archivist i want to create and edit a collection management subrecord
+as a archivist i desire to create and edit a collection management subrecord
+32.8) Input phrase: as an archivist i want to create and edit a collection management sub-record
+as an archivist i desire to create and edit a collection management sub-record
+32.9) Input phrase: as an archivist i want to create and edit a collection management sub-record 
+as an archivist i desire to create and edit a collection management sub-record 
+32.10) Input phrase: as an archivist i want to create and edit a collection management subrecord
+as an archivist i desire to create and edit a collection management subrecord
+32.11) Input phrase: as an archivist i want to create and edit a collection management subrecord 
+as an archivist i desire to create and edit a collection management subrecord 
+33.0) Input phrase:  As an Archivist, I want to rearrange the Resource and/or Digital Object hierarchy using keyboard-based navigation.
+ As an Archivist, I desire to rearrange the resource and/or Digital object hierarchy use keyboard-based navigation.
+33.1) Input phrase: using keyboard-based navigation as an archivist i want to rearrange the resource andor digital object hierarchy
+using keyboard-based navigation as an archivist i desire to rearrange the resource andor digital object hierarchy
+33.2) Input phrase: using keyboard navigation as an archivist i want to rearrange the resource andor digital object hierarchy
+using keyboard navigation as an archivist i desire to rearrange the resource andor digital object hierarchy
+33.3) Input phrase: my role is to rearrange the resource andor digital object hierarchy using keyboard navigation
+my role is to rearrange the resource andor digital object hierarchy use keyboard navigation
+33.4) Input phrase: my job is to rearrange the resource andor digital object hierarchy using keyboard-based navigation
+my subcontract is to rearrange the resource andor digital object hierarchy use keyboard-based navigation
+33.5) Input phrase: my role is to rearrange the resource andor digital object hierarchy using keyboard-based navigation
+my role is to rearrange the resource andor digital object hierarchy use keyboard-based navigation
+33.6) Input phrase: as an archivist i want to rearrange the resource andor digital object hierarchy using keyboard navigation
+as an archivist i desire to rearrange the resource andor digital object hierarchy use keyboard navigation
+33.7) Input phrase: as an archiver i want to rearrange the resource andor digital object hierarchy using keyboard-based navigation
+as an archiver i desire to rearrange the resource andor digital object hierarchy use keyboard-based navigation
+33.8) Input phrase: as an archivist i want to rearrange the resource andor digital object hierarchy using keyboard-based navigation
+as an archivist i desire to rearrange the resource andor digital object hierarchy use keyboard-based navigation
+34.0) Input phrase:  As an Archivist, I want to rearrange the resource description hierarchy by dragging an archival object to a different position in the hierarchy.
+ As an Archivist, I desire to rearrange the resource description hierarchy by drag an archival object to a different put in the hierarchy.
+34.1) Input phrase: a resource description hierarchy is rearranged by dragging an archival object in the hierarchy to another position
+a resource description hierarchy is rearranged by drag an archival object in the hierarchy to another position
+34.2) Input phrase: a resource description hierarchy is rearranged by dragging an archival object in the hierarchy
+a resource description hierarchy is rearranged by drag an archival object in the hierarchy
+34.3) Input phrase: a resource description hierarchy is rearranged by dragging an archival object to another position in the hierarchy as an archivist
+a resource description hierarchy is rearranged by drag an archival object to another put in the hierarchy as an archivist
+34.4) Input phrase: a resource description hierarchy is rearranged by dragging an archival object to another position in the hierarchy as an archiver
+a resource description hierarchy is rearranged by drag an archival object to another put in the hierarchy as an archiver
+34.5) Input phrase: a resource description hierarchy is rearranged by dragging an archival object to another position in hierarchy
+a resource description hierarchy is rearranged by drag an archival object to another put in hierarchy
+34.6) Input phrase: a resource description hierarchy is rearranged by dragging an archival object to another position in the hierarchy
+a resource description hierarchy is rearranged by drag an archival object to another put in the hierarchy
+34.7) Input phrase: as archivist i want to rearrange the resource description hierarchy by dragging archival objects in the hierarchy to a different position
+as archivist i desire to rearrange the resource description hierarchy by drag archival aim in the hierarchy to a different position
+34.8) Input phrase: as archivist i want to rearrange the resource description hierarchy by moving an archive object to a different place in the hierarchy
+as archivist i desire to rearrange the resource description hierarchy by move an archive object to a different put in the hierarchy
+34.9) Input phrase: as archivist i want to rearrange the resource description hierarchy by dragging an archive object to another position in the hierarchy
+as archivist i desire to rearrange the resource description hierarchy by drag an archive object to another put in the hierarchy
+34.10) Input phrase: as archivist i want to rearrange the resource description hierarchy by moving an archive object to a different position in the hierarchy
+as archivist i desire to rearrange the resource description hierarchy by move an archive object to a different put in the hierarchy
+34.11) Input phrase: as archivist i want to rearrange the resource description hierarchy by dragging an archive object to a different position in the hierarchy
+as archivist i desire to rearrange the resource description hierarchy by drag an archive object to a different put in the hierarchy
+35.0) Input phrase:  As an Archivist, I would like to indicate an Agent is either the creator or source or subject of an Accession or Resource or Resource Component.
+ As an Archivist, I would wish to argue an agent is either the creator or reservoir or subjugate of an accession or resource or resource Component.
+35.1) Input phrase: if i am an archiver i would like to indicate an agent is either the creator or the source or subject of an accession  resource  component
+if i am an archiver i would wish to argue an agent is either the creator or the reservoir or subjugate of an accession  resource  component
+35.2) Input phrase: as an archivist i would like to indicate that an agent is either the creator or the source or subject of an accession or resource or resource component 
+as an archivist i would wish to argue that an agent is either the creator or the reservoir or subjugate of an accession or resource or resource part 
+35.3) Input phrase: as an archivist i would like to indicate that an agent is either the creator or the source or subject of an accession or resource or resource component
+as an archivist i would wish to argue that an agent is either the creator or the reservoir or subjugate of an accession or resource or resource component
+35.4) Input phrase: as an archivist i would like to indicate that an agent is either the creator or source or subject of an accession or resource or resource component ''
+as an archivist i would wish to argue that an agent is either the creator or reservoir or subjugate of an accession or resource or resource part ''
+35.5) Input phrase: in my opinion as an archivist i would like to indicate that an agent is either the creator or source or subject of an accession or resource or resource component
+in my impression as an archivist i would wish to argue that an agent is either the creator or reservoir or subjugate of an accession or resource or resource component
+35.6) Input phrase: as an archivist i would like to indicate that an agent is either the creator or source or subject of an accession or resource or resource component
+as an archivist i would wish to argue that an agent is either the creator or reservoir or subjugate of an accession or resource or resource component
+35.7) Input phrase: as an archivist i would like to indicate that an agent is either the creator or source or subject of an accession or resource or resource components
+as an archivist i would wish to argue that an agent is either the creator or informant or subjugate of an accession or resource or resource components
+35.8) Input phrase: in my role as an archivist i would like to indicate that an agent is either the creator or source or subject of an accession or resource or resource component
+in my function as an archivist i would wish to argue that an agent is either the creator or reservoir or subjugate of an accession or resource or resource component
+35.9) Input phrase: as an archivist i would like to indicate an agent is either the creator or source or subject of an accession or resource or resource component
+as an archivist i would wish to argue an agent is either the creator or reservoir or subjugate of an accession or resource or resource component
+36.0) Input phrase:  As an Archivist, I want to export a description as EAD.
+ As an Archivist, I desire to export a description as EAD.
+36.1) Input phrase: my job is to export a description as an archivist
+my subcontract is to export a description as an archivist
+36.2) Input phrase: my job is to export a description as an archiver
+my subcontract is to export a description as an archiver
+36.3) Input phrase: my job is to export a description as an archive
+my subcontract is to export a description as an archive
+36.4) Input phrase: my job is to export a description in ead
+my subcontract is to export a description in ead
+36.5) Input phrase: my job is to export a description as ead
+my subcontract is to export a description as ead
+36.6) Input phrase: as an archivist i want to export a description as an ead
+as an archivist i desire to export a description as an ead
+36.7) Input phrase: as archivist i want to export a description as ead
+as archivist i desire to export a description as ead
+36.8) Input phrase: as an archiver i want to export a description as ead
+as an archiver i desire to export a description as ead
+36.9) Input phrase: as an archive i want to export a description as ead
+as an archive i desire to export a description as ead
+36.10) Input phrase: as a archivist i want to export a description as ead
+as a archivist i desire to export a description as ead
+36.11) Input phrase: as an archivist i want to export a description as ead
+as an archivist i desire to export a description as ead
+37.0) Input phrase:  As an Archivist, I want to create and edit Event records.
+ As an Archivist, I desire to create and edit event records.
+37.1) Input phrase: my job is to create and edit events records
+my subcontract is to create and edit consequence records
+37.2) Input phrase: my job is to create and edit event records
+my subcontract is to create and edit event records
+37.3) Input phrase: as an archiver i want to create and edit event records ''
+as an archiver i desire to create and edit event commemorate ''
+37.4) Input phrase: as archivist i want to create and edit event records
+as archivist i desire to create and edit event records
+37.5) Input phrase: as an archiver i want to create and edit event records
+as an archiver i desire to create and edit event records
+37.6) Input phrase: as a archivist i want to create and edit events records
+as a archivist i desire to create and edit consequence records
+37.7) Input phrase: as an archivist i want to create and edit event records ''
+as an archivist i desire to create and edit event commemorate ''
+37.8) Input phrase: as a archivist i want to create and edit event records
+as a archivist i desire to create and edit event records
+37.9) Input phrase: as an archivist i want to create and edit events records
+as an archivist i desire to create and edit consequence records
+37.10) Input phrase: as an archivist i want to create and edit event records
+as an archivist i desire to create and edit event records
+38.0) Input phrase:  As an Archivist, I want to manage Digital Objects.
+ As an Archivist, I desire to do Digital Objects.
+38.1) Input phrase: i want to manage digital objects as an archivist
+i desire to do digital aim as an archivist
+38.2) Input phrase: i want to manage digital objects as an archiver
+i desire to do digital aim as an archiver
+38.3) Input phrase: as archivist i want to manage digital objects
+as archivist i desire to do digital objects
+38.4) Input phrase: as an archiver i want to manage digital objects
+as an archiver i desire to do digital objects
+38.5) Input phrase: as an archivist i want to manage digital object
+as an archivist i desire to do digital object
+38.6) Input phrase: as an archivist i want to manage digital objects
+as an archivist i desire to do digital objects
+39.0) Input phrase:  As an Archivist, I want to associate an Instance with a Resource and/or Resource Component.
+ As an Archivist, I desire to consort an example with a resource and/or resource Component.
+39.1) Input phrase: as archivist i want to associate an instance with a resource andor component of a resource
+as archivist i desire to consort an example with a resource andor part of a resource
+39.2) Input phrase: as an archivist i want to associate an instance with a resource andor a component of resource
+as an archivist i desire to consort an example with a resource andor a part of resource
+39.3) Input phrase: as an archivist i want to associate an instance with a resource andor a component resource
+as an archivist i desire to consort an example with a resource andor a part resource
+39.4) Input phrase: as archivist i want to associate an instance with a resource andor resource component '' in
+as archivist i desire to consort an example with a resource andor resource part '' in
+39.5) Input phrase: as archivist i want to associate an instance with a resource andor a resource component
+as archivist i desire to consort an example with a resource andor a resource component
+39.6) Input phrase: as archivist i want to associate an instance with a resource andor resource component ''
+as archivist i desire to consort an example with a resource andor resource part ''
+39.7) Input phrase: as an archiver i want to associate an instance with a resource andor a resource component
+as an archiver i desire to consort an example with a resource andor a resource component
+39.8) Input phrase: as an archive i want to associate an instance with a resource andor resource component
+as an archive i desire to consort an example with a resource andor resource component
+39.9) Input phrase: as archivist i want to associate an instance with a resource andor resource components
+as archivist i desire to consort an case with a resource andor resource components
+39.10) Input phrase: as an archiver i want to associate an instance with a resource andor resource component
+as an archiver i desire to consort an example with a resource andor resource component
+39.11) Input phrase: as archivist i want to associate an instance with a resource andor resource component
+as archivist i desire to consort an example with a resource andor resource component
+39.12) Input phrase: as an archivist i want to associate an instance with a resource andor a resource component
+as an archivist i desire to consort an example with a resource andor a resource component
+39.13) Input phrase: as an archivist i want to associate an instance with a resource andor resource component
+as an archivist i desire to consort an example with a resource andor resource component
+40.0) Input phrase:  As an Archivist, I don't want to inadvertently overwrite someone else's changes to a record that I'm editing.
+ As an Archivist, I don't desire to inadvertently overwrite person else's switch to a commemorate that I'm editing.
+40.1) Input phrase: i don't want to accidentally overwrite someone else's changes to a record i'm editing
+i don't desire to accidentally overwrite person else's switch to a commemorate i'm editing
+40.2) Input phrase: if i'm an archivist i don't want to accidentally overwrite someone else's changes to a record i'm editing
+if i'm an archivist i don't desire to accidentally overwrite person else's switch to a commemorate i'm editing
+40.3) Input phrase: i don't want to inadvertently overwrite someone else's changes to a record that i'm editing
+i don't desire to inadvertently overwrite person else's switch to a commemorate that i'm editing
+40.4) Input phrase: as an archivist i don't want to accidentally overwrite someone else's changes to a record i'm editing
+as an archivist i don't desire to accidentally overwrite person else's switch to a commemorate i'm editing
+40.5) Input phrase: if i'm an archivist i don't want to accidentally overwrite someone else's changes to a record that i'm editing
+if i'm an archivist i don't desire to accidentally overwrite person else's switch to a commemorate that i'm editing
+41.0) Input phrase:  As an Archivist, I want to create and edit Rights Management statements.
+ As an Archivist, I desire to create and edit correct management statements.
+41.1) Input phrase: my role is to create and edit rights management statements
+my role is to create and edit correct management statements
+41.2) Input phrase: as an archiver i want to create and edit rights management statements ''
+as an archiver i desire to create and edit correct management affirmation ''
+41.3) Input phrase: as an archiver i want to create and edit rights management statements
+as an archiver i desire to create and edit correct management statements
+41.4) Input phrase: as archivist i want to create and edit rights management statements
+as archivist i desire to create and edit correct management statements
+41.5) Input phrase: if i am an archiver i want to create and edit rights management statements
+if i am an archiver i desire to create and edit correct management statements
+41.6) Input phrase: as an archivist i want to create and edit rights management statements ''
+as an archivist i desire to create and edit correct management affirmation ''
+41.7) Input phrase: as an archivist i want to create and edit rights management statements
+as an archivist i desire to create and edit correct management statements
+41.8) Input phrase: if i am an archivist i want to create and edit rights management statements
+if i am an archivist i desire to create and edit correct management statements
+42.0) Input phrase:  As an Archivist, I want to upload an EAD for import from within the frontend application.
+ As an Archivist, I desire to upload an EAD for spell from within the frontend application.
+42.1) Input phrase: my role is to upload an ead for import from within the frontend application
+my role is to upload an ead for meaning from within the frontend application
+42.2) Input phrase: i want to upload an ead for import from within the frontend application
+i desire to upload an ead for spell from within the frontend application
+42.3) Input phrase: in my role as an archivist i want to upload an ead for import from within the frontend
+in my function as an archivist i desire to upload an ead for meaning from within the frontend
+42.4) Input phrase: as an archiver i want to upload an ead for import from within the frontend application ''
+as an archiver i desire to upload an ead for spell from within the frontend application ''
+42.5) Input phrase: if i am an archiver i want to upload an ead for import from within the front end application
+if i am an archiver i desire to upload an ead for meaning from within the movement goal application
+42.6) Input phrase: as an archiver i want to upload an ead for import from within the frontend application
+as an archiver i desire to upload an ead for spell from within the frontend application
+42.7) Input phrase: if i am an archiver i want to upload an ead for import from within the frontend application
+if i am an archiver i desire to upload an ead for spell from within the frontend application
+42.8) Input phrase: as archivist i want to upload an ead for import from within the frontend application
+as archivist i desire to upload an ead for spell from within the frontend application
+42.9) Input phrase: as an archivist i want to upload an ead to import from within the frontend application
+as an archivist i desire to upload an ead to spell from within the frontend application
+42.10) Input phrase: as an archivist i want to upload an ead for import from within the frontend application ''
+as an archivist i desire to upload an ead for spell from within the frontend application ''
+42.11) Input phrase: as an archivist i want to upload an ead for import from within the front end application
+as an archivist i desire to upload an ead for meaning from within the movement goal application
+42.12) Input phrase: as an archivist i want to upload an ead for import from within the frontend application
+as an archivist i desire to upload an ead for spell from within the frontend application
+43.0) Input phrase:  As an Archivist, I want to import EAD data.
+ As an Archivist, I desire to meaning EAD data.
+43.1) Input phrase: i want to import ead data as an archivist
+i desire to meaning ead data as an archivist
+43.2) Input phrase: i'd like to import ead data as an archiver
+i'd wish to spell ead datum as an archiver
+43.3) Input phrase: i'd like to import ead data as an archivist
+i'd wish to spell ead datum as an archivist
+43.4) Input phrase: i'd like to import ead data
+i'd wish to spell ead data
+43.5) Input phrase: as a archivist i want to import ead information
+as a archivist i desire to meaning ead information
+43.6) Input phrase: the archivist wants to import ead data
+the archivist desire to meaning ead data
+43.7) Input phrase: as a archivist i want to import ead
+as a archivist i desire to meaning ead
+43.8) Input phrase: as archivist i want to import ead data
+as archivist i desire to meaning ead data
+43.9) Input phrase: as an archiver i want to import ead data
+as an archiver i desire to meaning ead data
+43.10) Input phrase: the archivist i want to import ead data
+the archivist i desire to meaning ead data
+43.11) Input phrase: as a archivist i want to import ead data
+as a archivist i desire to meaning ead data
+43.12) Input phrase: as an archivist i want to import ead data
+as an archivist i desire to meaning ead data
+44.0) Input phrase:  As a Repository Manager , I want to create, update and delete archival descriptions in my repository.
+ As a repository coach , I desire to create, update and delete archival descriptions in my repository.
+44.1) Input phrase: as a repository manager i want to create update and delete archival descriptions in my repository i have a
+as a repository coach i desire to create update and delete archival descriptions in my repository i have a
+44.2) Input phrase: as a repository manager i want to create update and delete archival descriptions in my repository i have
+as a repository coach i desire to create update and delete archival descriptions in my repository i have
+44.3) Input phrase: as a repository manager i want to create update and delete archive descriptions in my repository
+as a depository coach i desire to create update and delete archive descriptions in my repository
+44.4) Input phrase: as a repository manager i want to create update and delete archival descriptions in my repositories
+as a repository coach i desire to create update and delete archival descriptions in my repositories
+44.5) Input phrase: if i'm a repository manager i want to create update and delete archival descriptions in my repository
+if i'm a repository coach i desire to create update and delete archival descriptions in my repository
+44.6) Input phrase: as repository manager i want to create update and delete archival descriptions in my repository
+as repository coach i desire to create update and delete archival descriptions in my repository
+44.7) Input phrase: as a repository manager i want to create update and delete archival descriptions in my repositorie
+as a repository coach i desire to create update and delete archival descriptions in my repositorie
+44.8) Input phrase: if i am a repository manager i want to create update and delete archival descriptions in my repository
+if i am a repository coach i desire to create update and delete archival descriptions in my repository
+44.9) Input phrase: as a repository manager i want to create update and delete archival descriptions in my repository
+as a repository coach i desire to create update and delete archival descriptions in my repository
+45.0) Input phrase:  As a Developer , I want to develop a custom importer.
+ As a developer , I desire to develop a custom importer.
+45.1) Input phrase: i want to develop a custom importer as a developer
+i desire to develop a custom importer as a developer
+45.2) Input phrase: if i want to develop a custom importer as a developer
+if i desire to develop a custom importer as a developer
+45.3) Input phrase: if i want to develop a custom importer as developer
+if i desire to develop a custom importer as developer
+45.4) Input phrase: if i want to develop a custom importer
+if i desire to develop a custom importer
+45.5) Input phrase: i am a developer and i want to build a custom importer
+i am a developer and i desire to build a custom importer
+45.6) Input phrase: i am a developer and i want to create a custom importer
+i am a developer and i desire to create a custom importer
+45.7) Input phrase: i am a developer and i want to develop a custom importer
+i am a developer and i desire to develop a custom importer
+45.8) Input phrase: as a developer i want to develop a custom importer ''
+as a developer i desire to develop a custom importer ''
+45.9) Input phrase: as a developer i want to develop custom importer
+as a developer i desire to develop custom importer
+45.10) Input phrase: i am a developer i want to develop a custom importer
+i am a developer i desire to develop a custom importer
+45.11) Input phrase: as a developer i want to develop a custom importer
+as a developer i desire to develop a custom importer
+46.0) Input phrase:  As a Basic Data Entry user , I want to create and update basic archival description information.
+ As a basic data submission user , I desire to create and update basic archival description information.
+46.1) Input phrase: as the basic data entry user i want to create and update basic archival descriptions
+as the basic data submission user i desire to create and update basic archival descriptions
+46.2) Input phrase: as the basic data entry user i want to create and update basic archival description data
+as the basic data submission user i desire to create and update basic archival description data
+46.3) Input phrase: as a user of basic data entry i want to create and update basic archival description information
+as a user of basic data submission i desire to create and update basic archival description information
+46.4) Input phrase: as a user of basic data entry i want to create and update basic archival description information 
+as a user of basic data submission i desire to create and update basic archival description data 
+46.5) Input phrase: as basic data entry user i want to create and update basic archive description information
+as basic data submission user i desire to create and update basic archive description information
+46.6) Input phrase: as the basic data entry user i want to create and update basic archive description information
+as the basic data submission user i desire to create and update basic archive description information
+46.7) Input phrase: as basic data entry user i want to create and update basic archival description information
+as basic data submission user i desire to create and update basic archival description information
+46.8) Input phrase: as the basic data entry user i want to create and update basic archival descriptions information
+as the basic data submission user i desire to create and update basic archival descriptions information
+46.9) Input phrase: as the basic data entry user i want to create and update basic archival description information 
+as the basic data submission user i desire to create and update basic archival description data 
+46.10) Input phrase: as a basic data entry user i want to create and update basic archival descriptions information
+as a basic data submission user i desire to create and update basic archival descriptions information
+46.11) Input phrase: as the basic data entry user i want to create and update basic archival description information
+as the basic data submission user i desire to create and update basic archival description information
+46.12) Input phrase: as a basic data entry user i want to create and update basic archival description information
+as a basic data submission user i desire to create and update basic archival description information
+47.0) Input phrase:  As a Repository Manager , I want to create, update and delete any records in my repository.
+ As a repository coach , I desire to create, update and delete any commemorate in my repository.
+47.1) Input phrase: as an administrator of a repository i want to create update and delete all records in my repository
+as an administrator of a repository i desire to create update and delete all commemorate in my repository
+47.2) Input phrase: as an administrator of a repository i want to create update and delete any record in my repository
+as an administrator of a repository i desire to create update and delete any commemorate in my repository
+47.3) Input phrase: as an administrator of a repository i want to create update and delete any records in my repository
+as an administrator of a repository i desire to create update and delete any commemorate in my repository
+47.4) Input phrase: repository manager as a repository manager i want to create update and delete records in my repository
+repository coach as a repository coach i desire to create update and delete commemorate in my repository
+47.5) Input phrase: as a repository manager i want to create update and delete records in my repository
+as a repository coach i desire to create update and delete commemorate in my repository
+47.6) Input phrase: repository manager as a repository manager i want to create update and delete all records in my repository
+repository coach as a repository coach i desire to create update and delete all commemorate in my repository
+47.7) Input phrase: as a repository manager i want to create update and delete any records in my repository ''
+as a repository coach i desire to create update and delete any commemorate in my repository ''
+47.8) Input phrase: as repository manager i want to create update and delete any records in my repository
+as repository coach i desire to create update and delete any commemorate in my repository
+47.9) Input phrase: as a repository manager i want to create update and delete any records in my repositories
+as a repository coach i desire to create update and delete any commemorate in my repositories
+47.10) Input phrase: repository manager as a repository manager i want to create update and delete any records in my repository
+repository coach as a repository coach i desire to create update and delete any commemorate in my repository
+47.11) Input phrase: as a repository manager i want to create update and delete all records in my repository
+as a repository coach i desire to create update and delete all commemorate in my repository
+47.12) Input phrase: as a repository manager i want to create update and delete any records in my repositorie
+as a repository coach i desire to create update and delete any commemorate in my repositorie
+47.13) Input phrase: as a repository manager i want to create update and delete any records in my repository
+as a repository coach i desire to create update and delete any commemorate in my repository
+48.0) Input phrase:  As a ReadOnly user , I want to view archival descriptions in my repository.
+ As a ReadOnly user , I desire to watch archival descriptions in my repository.
+48.1) Input phrase: can i view archival descriptions in my repository as read only user?
+can i watch archival descriptions in my repository as learn only user?
+48.2) Input phrase: can i view archival descriptions in my repository as readonly user?
+can i watch archival descriptions in my repository as readonly user?
+48.3) Input phrase: can i view archival descriptions in my repositories?
+can i watch archival descriptions in my repositories?
+48.4) Input phrase: can i view the archive descriptions in my repository?
+can i scene the archive descriptions in my repository?
+48.5) Input phrase: can i view archive descriptions in my repository?
+can i scene archive descriptions in my repository?
+48.6) Input phrase: can i view archival descriptions in my repository?
+can i watch archival descriptions in my repository?
+48.7) Input phrase: can i view the archival descriptions in my repository?
+can i watch the archival descriptions in my repository?
+48.8) Input phrase: as user readonly i want to view the archive descriptions in my repository
+as user readonly i desire to watch the archive descriptions in my repository
+48.9) Input phrase: as user readonly i want to see archival descriptions in my repository
+as user readonly i desire to understand archival descriptions in my repository
+48.10) Input phrase: as user readonly i want to view archival descriptions of my repository
+as user readonly i desire to watch archival descriptions of my repository
+48.11) Input phrase: as user readonly i want to view archive descriptions in my repository
+as user readonly i desire to watch archive descriptions in my repository
+48.12) Input phrase: as user readonly i want to view archival descriptions in my repositorie
+as user readonly i desire to watch archival descriptions in my repositorie
+48.13) Input phrase: as user readonly i want to view archival descriptions in my repository
+as user readonly i desire to watch archival descriptions in my repository
+48.14) Input phrase: as a readonly user i want to view archive descriptions in my repository
+as a readonly user i desire to watch archive descriptions in my repository
+49.0) Input phrase:  As an System Administrator, I want to declare that a user is has the Repository Manager role for a given Repository.
+ As an system Administrator, I desire to declare that a user is has the repository director function for a grant Repository.
+49.1) Input phrase: as the system administrator i want to declare that a user has the role of repository manager for a given repository the role is
+as the arrangement administrator i desire to declare that a user has the function of repository director for a grant repository the function is
+49.2) Input phrase: as the system administrator i want to declare that a user has the role of repository manager for a given repository the role
+as the arrangement administrator i desire to declare that a user has the function of repository director for a grant repository the role
+49.3) Input phrase: as the system administrator i want to declare that a user has the role of repository manager for a given repository i have
+as the system administrator i desire to declare that a user has the function of repository director for a grant repository i have
+49.4) Input phrase: as the system administrator i want to declare that a user has the role of repository manager in a given repository
+as the system administrator i desire to declare that a user has the function of repository director in a grant repository
+49.5) Input phrase: as the system administrator i want to declare that a user has the role of repository manager for a given repository ''
+as the system administrator i desire to declare that a user has the function of repository director for a grant repository ''
+49.6) Input phrase: as a system administrator i want to declare that a user has the role of the repository manager for a given repository
+as a system administrator i desire to declare that a user has the function of the repository director for a grant repository
+49.7) Input phrase: as the system administrator i want to declare that a user has the role of repository manager for a given repository 
+as the system administrator i desire to declare that a user has the function of repository director for a grant repository 
+49.8) Input phrase: as the system administrator i want to declare that a user has the role of repository manager for a given repository
+as the system administrator i desire to declare that a user has the function of repository director for a grant repository
+49.9) Input phrase: as a system administrator i want to declare that a user has the role of repository manager for a given repository
+as a system administrator i desire to declare that a user has the function of repository director for a grant repository
+49.10) Input phrase: as an system administrator i want to declare that a user has the role of repository manager for a given repository
+as an system administrator i desire to declare that a user has the function of repository director for a grant repository
+49.11) Input phrase: as the system administrator i want to declare that a user is the repository manager role for a given repository
+as the system administrator i desire to declare that a user is the repository director function for a grant repository
+50.0) Input phrase:  As an Archivist, I want to specify the Source for a Name Form of an Agent and add new Sources and edit existing Sources.
+ As an Archivist, I desire to intend the reservoir for a identify shape of an agent and lend new reservoir and edit exist Sources.
+50.1) Input phrase: if i want to specify the source for a name form of an agent i can add new sources and edit existing sources
+if i desire to intend the reservoir for a identify shape of an agent i can lend new reservoir and edit exist sources
+50.2) Input phrase: as archivist i want to specify the source for a name form of an agent and add new sources and edit existing sources i have
+as archivist i desire to intend the reservoir for a identify shape of an agent and lend new reservoir and edit exist reservoir i have
+50.3) Input phrase: as archivist i want to specify the source for a name form of an agent and add new sources and modify existing sources
+as archivist i desire to intend the reservoir for a identify shape of an agent and lend new reservoir and change exist sources
+50.4) Input phrase: as archivist i want to specify the source for a name form of an agent and add new sources and edit existing sources ''
+as archivist i desire to intend the reservoir for a identify shape of an agent and lend new reservoir and edit exist reservoir ''
+50.5) Input phrase: as archivist i want to specify the source for a name form of an agent and add new sources and edit existing sources
+as archivist i desire to intend the reservoir for a identify shape of an agent and lend new reservoir and edit exist sources
+50.6) Input phrase: as an archiver i want to specify the source for a name form of an agent and add new sources and edit existing sources
+as an archiver i desire to intend the reservoir for a identify shape of an agent and lend new reservoir and edit exist sources
+50.7) Input phrase: as an archivist i want to specify the source for a name form of an agent and add new sources and edit existing sources
+as an archivist i desire to intend the reservoir for a identify shape of an agent and lend new reservoir and edit exist sources
+51.0) Input phrase:  As an Archivist, I want to create and edit Agent records.
+ As an Archivist, I desire to create and edit agent records.
+51.1) Input phrase: if i'm an archiver i want to create and edit agent records
+if i'm an archiver i desire to create and edit agent records
+51.2) Input phrase: as archivist i want to create and edit agents records
+as archivist i desire to create and edit agentive_role records
+51.3) Input phrase: if i'm an archivist i want to create and edit agents records
+if i'm an archivist i desire to create and edit agentive_role records
+51.4) Input phrase: as archivist i want to create and edit agent records
+as archivist i desire to create and edit agent records
+51.5) Input phrase: as an archiver i want to create and edit agent records
+as an archiver i desire to create and edit agent records
+51.6) Input phrase: as an archivist i want to create and edit agent records ''
+as an archivist i desire to create and edit agent commemorate ''
+51.7) Input phrase: if i'm an archivist i want to create and edit agent records
+if i'm an archivist i desire to create and edit agent records
+51.8) Input phrase: as an archivist i want to create and edit agents records
+as an archivist i desire to create and edit agentive_role records
+51.9) Input phrase: as an archivist i want to create and edit agent records
+as an archivist i desire to create and edit agent records
+52.0) Input phrase:  As an Archivist, I want to create and edit a Resource record.
+ As an Archivist, I desire to create and edit a resource record.
+52.1) Input phrase: a resource record is created and edited by an archivist
+a resource commemorate is make and edited by an archivist
+52.2) Input phrase: my job is to create and edit a resource record as an archivist
+my subcontract is to create and edit a resource commemorate as an archivist
+52.3) Input phrase: my job is to create and edit a resource record as an archiver
+my subcontract is to create and edit a resource commemorate as an archiver
+52.4) Input phrase: my role is to create and edit a resource record as an archivist
+my function is to create and edit a resource commemorate as an archivist
+52.5) Input phrase: my job is to create and edit a resource record
+my subcontract is to create and edit a resource record
+52.6) Input phrase: my role is to create and edit a resource record
+my function is to create and edit a resource record
+52.7) Input phrase: as archivist i want to create and edit a resource record
+as archivist i desire to create and edit a resource record
+52.8) Input phrase: as an archiver i want to create and edit a resource record
+as an archiver i desire to create and edit a resource record
+52.9) Input phrase: if i am an archiver i want to create and edit a resource record
+if i am an archiver i desire to create and edit a resource record
+52.10) Input phrase: as an archivist i want to create and edit a resource record
+as an archivist i desire to create and edit a resource record
+52.11) Input phrase: if i am an archivist i want to create and edit a resource record
+if i am an archivist i desire to create and edit a resource record
+53.0) Input phrase:  As an Archivist, I want to associate a Subject record with a Resource description.
+ As an Archivist, I desire to consort a subjugate commemorate with a resource description.
+53.1) Input phrase: as archivist i want to associate a subject record with a description of the resource
+as archivist i desire to consort a subjugate commemorate with a description of the resource
+53.2) Input phrase: as archivist i want to associate a subject record with a description of a resource
+as archivist i desire to consort a subjugate commemorate with a description of a resource
+53.3) Input phrase: as archivist i want to associate a subject record with a description of a source
+as archivist i desire to consort a subjugate commemorate with a description of a source
+53.4) Input phrase: as an archivist i want to associate a subject record with a description of a resource
+as an archivist i desire to consort a subjugate commemorate with a description of a resource
+53.5) Input phrase: as archivist i want to associate a subject with a resource description
+as archivist i desire to consort a subjugate with a resource description
+53.6) Input phrase: as an archiver i want to associate a subject record with a resource description
+as an archiver i desire to consort a subjugate commemorate with a resource description
+53.7) Input phrase: as archivist i want to associate a subject record with a resource description
+as archivist i desire to consort a subjugate commemorate with a resource description
+53.8) Input phrase: as an archivist i want to associate a subject record with a resource description
+as an archivist i desire to consort a subjugate commemorate with a resource description
+54.0) Input phrase:  As a User, I want to authenticate locally.
+ As a User, I desire to authenticate locally.
+54.1) Input phrase: i want to authenticate as a user locally
+i desire to authenticate as a user locally
+54.2) Input phrase: i want to authenticate locally as a user
+i desire to authenticate locally as a user
+54.3) Input phrase: as the user i want to authenticate in the local area
+as the user i desire to authenticate in the local_anesthetic area
+54.4) Input phrase: as the user i want to authenticate in the local
+as the user i desire to authenticate in the local
+54.5) Input phrase: as the user i want to authenticate locally ''
+as the user i desire to authenticate locally ''
+54.6) Input phrase: as the user i want to authenticate local
+as the user i desire to authenticate local
+54.7) Input phrase: as user i want to authenticate locally
+as user i desire to authenticate locally
+54.8) Input phrase: as a user i want to authenticate local
+as a user i desire to authenticate local
+54.9) Input phrase: as the user i want to authenticate locally
+as the user i desire to authenticate locally
+54.10) Input phrase: as a user i want to authenticate locally
+as a user i desire to authenticate locally
+55.0) Input phrase:  As User, I want to be able to log in.
+ As User, I desire to be able to log in.
+55.1) Input phrase: i'd like to log in as user
+i'd wish to log in as user
+55.2) Input phrase: i'd like to log in as a user
+i'd wish to log in as a user
+55.3) Input phrase: i'd like to log in as a user to my account
+i'd wish to logarithm in as a user to my account
+55.4) Input phrase: i'd like to log into my account
+i'd wish to logarithm into my account
+55.5) Input phrase: i'd like to log in as a user to the site
+i'd wish to log in as a user to the site
+55.6) Input phrase: i want to be able to log in as a user
+i desire to be able to log in as a user
+55.7) Input phrase: as user i want to be able to login
+as user i desire to be able to login
+55.8) Input phrase: as user i want to be able to log in
+as user i desire to be able to log in
+55.9) Input phrase: as a user i want to be able to log in to
+as a user i desire to be able to log in to
+55.10) Input phrase: as a user i want to be able to log into
+as a user i desire to be able to log into
+55.11) Input phrase: as a user i want to be able to log on
+as a user i desire to be able to log on
+55.12) Input phrase: as a user i want to be able to login
+as a user i desire to be able to login
+55.13) Input phrase: as a user i want to be able to log in
+as a user i desire to be able to log in
+56.0) Input phrase:  As an Archivist, I want to associate an Instance with a Container.
+ As an Archivist, I desire to consort an exemplify with a Container.
+56.1) Input phrase: i want to associate an instance with a container
+i desire to consort an exemplify with a container
+56.2) Input phrase: as an archive i want to associate an instance with a container
+as an archive i desire to consort an exemplify with a container
+56.3) Input phrase: if i am an archiver i want to associate an instance with a container
+if i am an archiver i desire to consort an exemplify with a container
+56.4) Input phrase: as archivist i want to associate an instance with a container
+as archivist i desire to consort an exemplify with a container
+56.5) Input phrase: as an archiver i want to associate an instance with a container
+as an archiver i desire to consort an exemplify with a container
+56.6) Input phrase: when i am an archiver i want to associate an instance with a container
+when i am an archiver i desire to consort an exemplify with a container
+56.7) Input phrase: as an archivist i want to associate an instance with a container
+as an archivist i desire to consort an exemplify with a container
+56.8) Input phrase: if i am an archivist i want to associate an instance with a container
+if i am an archivist i desire to consort an exemplify with a container
+57.0) Input phrase:  As an Archivist, I want to assign Location information to a Container.
+ As an Archivist, I desire to delegate location information to a Container.
+57.1) Input phrase: my job is to assign location information to a container as an archivist
+my subcontract is to delegate placement information to a container as an archivist
+57.2) Input phrase: my job is to assign location information to a container as an archiver
+my subcontract is to delegate placement information to a container as an archiver
+57.3) Input phrase: my job is to assign location information to a container
+my subcontract is to delegate placement information to a container
+57.4) Input phrase: my role is to assign location information to a container
+my role is to delegate placement information to a container
+57.5) Input phrase: the archivist wants to assign location information in a container
+the archivist desire to delegate location information in a container
+57.6) Input phrase: as an archiver i want to assign location information to a container ''
+as an archiver i desire to delegate location information to a container ''
+57.7) Input phrase: as an archiver i want to assign location information to a container
+as an archiver i desire to delegate location information to a container
+57.8) Input phrase: if i am an archiver i want to assign location information to a container
+if i am an archiver i desire to delegate location information to a container
+57.9) Input phrase: as an archivist i want to assign location information to a container ''
+as an archivist i desire to delegate location information to a container ''
+57.10) Input phrase: if i am an archivist i want to assign location information to a container
+if i am an archivist i desire to delegate location information to a container
+57.11) Input phrase: as an archivist i want to assign location information to a container
+as an archivist i desire to delegate location information to a container
+
+Time for single file = 33.7111 seconds = 0.5619 minutes = 0.0094 hours
