@@ -17,7 +17,7 @@ simulate_root_array = [True, False]
 
 tic0 = time.perf_counter()  # time for all datasets
 
-for data_set_index in range(1, 25):
+for data_set_index in range(1, 2):
     file_index = 1
     for similarity in similarity_array:
         for simulate_root in simulate_root_array:
@@ -25,10 +25,10 @@ for data_set_index in range(1, 25):
             tic1 = time.perf_counter()  # time for single file
 
             input_file = open("results/data_set_" + str(data_set_index) + "/results_1.txt", "r")
-            dir = "results/data_set_" + str(data_set_index) + "/best_syn_outputs"
+            dir = "results/data_set_" + str(data_set_index) + "/best_syn_outputs_not_eto"
             if not os.path.exists(dir):
                 os.makedirs(dir)
-            output_file = open("results/data_set_" + str(data_set_index) + "/best_syn_outputs/results_" + str(data_set_index) + "_best_syn" + str(file_index) + ".txt", "w")
+            output_file = open("results/data_set_" + str(data_set_index) + "/best_syn_outputs_not_eto/results_" + str(data_set_index) + "_best_syn" + str(file_index) + ".txt", "w")
             file_index = file_index + 1
             output_file.write("data_set_number:" + str(data_set_index) + "\n")
             output_file.write("similarity:" + similarity + "\n")
@@ -96,6 +96,8 @@ for data_set_index in range(1, 25):
                         # for each token i have a dictionary to save the scoring of each of his synonym
                         # scoring is similarity calculated summing single similarities of the synonym
                         # with all (not his original) the synsets of other words
+                        if synsets:
+                            synsets.pop(0)  # comment this to compare the eto, uncomment to not compare
                         scoring_dict = {}
                         for synset in synsets:
                             scoring = 0
