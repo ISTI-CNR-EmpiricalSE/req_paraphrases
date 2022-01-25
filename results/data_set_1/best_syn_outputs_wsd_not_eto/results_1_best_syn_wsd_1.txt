@@ -1,0 +1,99 @@
+data_set_number:1
+
+1.0) Input phrase: As a Data user, I want to have the 12-19-2017 deletions processed.
+As a datum drug_user, I need to have the 12-19-2017 deletions processed.
+1.1) Input phrase: as user i want to have the deletions processed on 19 december 2017
+as drug_user i need to have the deletions march on 19 december 2017
+1.2) Input phrase: as user i want to have the deletions processed from 12-19-2017
+as drug_user i need to have the deletions action from 12-19-2017
+1.3) Input phrase: as user i want to have the deletions processed on 12-19-2017
+as drug_user i need to have the deletions action on 12-19-2017
+1.4) Input phrase: as a data user i want to have the deletions processed on 19 december 2017
+as a datum drug_user i need to have the deletions march on 19 december 2017
+1.5) Input phrase: as a data user i want to have the deletions processed from 12-19-2017
+as a datum drug_user i need to have the deletions action from 12-19-2017
+1.6) Input phrase: as a data user i want to have the deletions processed on 12-19-2017
+as a datum drug_user i need to have the deletions action on 12-19-2017
+2.0) Input phrase: As a UI designer, I want to redesign the Resources page, so that it matches the new Broker design styles.
+As a UI architect, I need to redesign the Resources page, so that it peer the modern agent purpose styles.
+2.1) Input phrase: i would like to redesign the resources page as a ui designer so that it matches the new broker design styles
+i would wish to redesign the resources page as a ui architect so that it peer the modern agent purpose styles
+2.2) Input phrase: the resources page should be redesigned as a ui designer so that it matches the new broker design styles
+the resources page should be redesigned as a ui architect so that it peer the modern agent purpose styles
+2.3) Input phrase: i would like to redesign the resources page so that it matches the new broker design styles
+i would wish to redesign the resources page so that it meet the raw agent purpose styles
+2.4) Input phrase: as a ui designer i want to redesign the resources page so it matches the new broker design styles
+as a ui architect i need to redesign the resources page so it peer the modern agent purpose styles
+2.5) Input phrase: as a ui designer i want to redesign the resources page so that it matches the new broker design style
+as a ui architect i need to redesign the resources page so that it peer the modern agent purpose style
+2.6) Input phrase: as a ui designer i want to redesign the resources page so that it matches the new broker design styles 
+as a ui architect i need to redesign the resources page so that it peer the modern agent purpose stylus 
+2.7) Input phrase: as a ui designer i want to redesign the resources page so that it matches the new broker design styles
+as a ui architect i need to redesign the resources page so that it peer the modern agent purpose styles
+3.0) Input phrase: As a UI designer, I want to report to the Agencies about user testing, so that they are aware of their contributions to making Broker a better UX.
+As a UI architect, I need to reputation to the representation about drug_user quiz, so that they are aware of their contributions to take agent a bettor UX.
+3.1) Input phrase: as a ui designer i want to report to the agencies about user testing so that they are aware of their contributions to making broker a better ux experience
+as a ui architect i need to reputation to the representation about drug_user quiz so that they are aware of their contributions to take agent a bettor ux experience
+3.2) Input phrase: as a ui designer i want to report to the agencies about user testing so they are aware of their contributions to making broker a better ux
+as a ui architect i need to reputation to the representation about drug_user quiz so they are aware of their contributions to take agent a bettor ux
+3.3) Input phrase: as a ui designer i want to report to the agencies about user testing so that they are aware of their contributions to make broker a better ux
+as a ui architect i need to reputation to the representation about drug_user quiz so that they are aware of their contributions to take agent a bettor ux
+3.4) Input phrase: as a ui designer i want to report to the agencies about user testing so that they are aware of their contributions to making broker a better ux 
+as a ui architect i need to reputation to the representation about drug_user quiz so that they are aware of their contributions to take agent a bettor ux 
+3.5) Input phrase: as a ui designer i want to report to the agencies about user testing so that they are aware of their contributions to making broker a better ux
+as a ui architect i need to reputation to the representation about drug_user quiz so that they are aware of their contributions to take agent a bettor ux
+4.0) Input phrase: As a UI designer, I want to move on to round 2 of DABS or FABS landing page edits, so that I can get approvals from leadership.
+As a UI architect, I need to go on to beat 2 of DABS or FABS bring page edits, so that I can bring approvals from leadership.
+4.1) Input phrase: i would like to move on to round 2 of dabs or fabs landing page edits so that i can get approvals from the management
+i would wish to go on to beat 2 of dabs or fabs bring page edits so that i can bring approvals from the management
+4.2) Input phrase: i'd like to move onto round 2 of dabs or fabs landing page edits so i can get approval from leadership
+i'd wish to go onto beat 2 of dabs or fabs bring page edits so i can bring blessing from leadership
+4.3) Input phrase: i'd like to move onto round 2 of dabs or fabs landing page edits so i can get approvals from leadership
+i'd wish to go onto beat 2 of dabs or fabs bring page edits so i can bring approvals from leadership
+4.4) Input phrase: i would like to move on to round 2 of dabs or fabs landing page edits so i can get approvals from leadership
+i would wish to go on to beat 2 of dabs or fabs bring page edits so i can bring approvals from leadership
+4.5) Input phrase: i would like to move on to round 2 of dabs or fabs landing page edits so that i can get approvals from the leadership i
+i would wish to go on to beat 2 of dabs or fabs bring page edits so that i can bring approvals from the leadership i
+4.6) Input phrase: i would like to move on to round 2 of dabs or fabs landing page edits so that i can get approvals from the leadership
+i would wish to go on to beat 2 of dabs or fabs bring page edits so that i can bring approvals from the leadership
+4.7) Input phrase: i'd like to move onto round 2 of dabs or fabs landing page edits so that i can get approvals from leadership
+i'd wish to go onto beat 2 of dabs or fabs bring page edits so that i can bring approvals from leadership
+4.8) Input phrase: i would like to move on to round 2 of dabs or fabs landing page edits so that i can get approvals from leadership i
+i would wish to go on to beat 2 of dabs or fabs bring page edits so that i can bring approvals from leadership i
+4.9) Input phrase: i would like to move on to round 2 of dabs or fabs landing page edits so that i can get approvals from leadership
+i would wish to go on to beat 2 of dabs or fabs bring page edits so that i can bring approvals from leadership
+5.0) Input phrase: As a UI designer, I want to move on to round 2 of Homepage edits, so that I can get approvals from leadership.
+As a UI architect, I need to go on to beat 2 of Homepage edits, so that I can perplex approvals from leadership.
+5.1) Input phrase: as a ui designer i want to move on to round 2 of homepage edits so i can get approvals from the leadership team
+as a ui architect i need to go on to beat 2 of homepage edits so i can perplex approvals from the leadership team
+5.2) Input phrase: as a ui designer i want to move on to round 2 of homepage edits so i can get approvals from the leadership
+as a ui architect i need to go on to beat 2 of homepage edits so i can perplex approvals from the leadership
+5.3) Input phrase: if i'm a ui designer i want to move on to round 2 of homepage edits so i can get approvals from leadership
+if i'm a ui architect i need to go on to beat 2 of homepage edits so i can perplex approvals from leadership
+5.4) Input phrase: as a ui designer i want to move on to round 2 of homepage edits so that i can get approvals from leadership i have
+as a ui architect i need to go on to beat 2 of homepage edits so that i can perplex approvals from leadership i have
+5.5) Input phrase: as a ui designer i want to move on to round 2 of homepage edits so i can get approvals from leadership
+as a ui architect i need to go on to beat 2 of homepage edits so i can perplex approvals from leadership
+5.6) Input phrase: as a ui designer i want to move on to round 2 of homepage edits so that i can get approvals from leadership i
+as a ui architect i need to go on to beat 2 of homepage edits so that i can perplex approvals from leadership i
+5.7) Input phrase: as a ui designer i want to move on to round 2 of homepage edits so that i can get approvals from leadership
+as a ui architect i need to go on to beat 2 of homepage edits so that i can perplex approvals from leadership
+6.0) Input phrase: As a UI designer, I want to move on to round 3 of the Help page edits, so that I can get approvals from leadership.
+As a UI architect, I need to go on to beat 3 of the serve page edits, so that I can perplex approvals from leadership.
+6.1) Input phrase: i want to move on to round 3 of the help page edits so i can get approval from the leadership
+i need to go on to beat 3 of the serve page edits so i can perplex blessing from the leadership
+6.2) Input phrase: i want to move on to round 3 of help page edits so i can get approval from leadership
+i need to go on to beat 3 of serve page edits so i can perplex blessing from leadership
+6.3) Input phrase: i want to move on to round 3 of the help page edits so i can get approval from leadership
+i need to go on to beat 3 of the serve page edits so i can perplex blessing from leadership
+6.4) Input phrase: i want to move on to round 3 of the help page edits so that i can get approval from the leadership
+i need to go on to beat 3 of the serve page edits so that i can perplex blessing from the leadership
+6.5) Input phrase: i want to move on to round 3 of the help page edits so that i can get approvals from the leadership
+i need to go on to beat 3 of the serve page edits so that i can perplex approvals from the leadership
+6.6) Input phrase: i want to move on to round 3 of the help page edits so that i can get approval from leadership
+i need to go on to beat 3 of the serve page edits so that i can perplex blessing from leadership
+6.7) Input phrase: i want to move on to round 3 of the help page edits so that i can get approvals from leadership
+i need to go on to beat 3 of the serve page edits so that i can perplex approvals from leadership
+6.8) Input phrase: as a ui designer i want to move on to round 3 of help page edits so i can get approvals from leadership
+as a ui architect i need to go on to beat 3 of serve page edits so i can perplex approvals from leadership
+6.9) Input phrase: as a ui designer i want to move on to round 3 of the help page edits so i can get approval from leadership

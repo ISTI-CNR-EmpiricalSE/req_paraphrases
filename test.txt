@@ -1,0 +1,1790 @@
+/home/isabella/anaconda3/envs/req_paraphrases/bin/python /home/isabella/PycharmProjects/req_paraphrases/best_synonym_wsd.py
+{'Data': [Synset('data.n.01'), Synset('datum.n.01')], 'user': [Synset('user.n.01'), Synset('exploiter.n.01'), Synset('drug_user.n.01')], 'want': [Synset('want.v.02'), Synset('privation.n.01'), Synset('lack.n.01'), Synset('need.n.02'), Synset('wish.n.01'), Synset('desire.v.01')], 'deletions': [Synset('omission.n.03')], 'processed': [Synset('processed.s.01'), Synset('action.v.01'), Synset('march.v.01'), Synset('work.v.05'), Synset('serve.v.11'), Synset('refined.a.02')]}
+As a Data user, I want to have the 12-19-2017 deletions processed.
+data
+Simple first filter...
+['Data', 'user', 'want', '12-19-2017', 'deletion', 'processed']
+['data']
+
+
+As a Data user, I want to have the 12-19-2017 deletions processed.
+data
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', '12-19-2017', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed']
+['data', 'data', 'information', 'datum', 'data_point']
+
+
+As a Data user, I want to have the 12-19-2017 deletions processed.
+datum
+Simple first filter...
+['Data', 'user', 'want', '12-19-2017', 'deletion', 'processed']
+['datum']
+
+
+As a Data user, I want to have the 12-19-2017 deletions processed.
+datum
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', '12-19-2017', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed']
+['datum', 'datum', 'data_point']
+
+
+{Synset('data.n.01'): 8.68951048951049, Synset('datum.n.01'): 3.9978354978354975}
+Synset('data.n.01')
+As a data user, I want to have the 12-19-2017 deletions processed.
+user
+Simple first filter...
+['data', 'user', 'want', '12-19-2017', 'deletion', 'processed']
+['user']
+
+
+As a data user, I want to have the 12-19-2017 deletions processed.
+user
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', '12-19-2017', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed']
+['user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user']
+
+
+As a data user, I want to have the 12-19-2017 deletions processed.
+exploiter
+Simple first filter...
+['data', 'user', 'want', '12-19-2017', 'deletion', 'processed']
+['exploiter']
+
+
+As a data user, I want to have the 12-19-2017 deletions processed.
+exploiter
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', '12-19-2017', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed']
+['exploit', 'exploiter', 'user']
+
+
+As a data user, I want to have the 12-19-2017 deletions processed.
+drug_user
+Simple first filter...
+['data', 'user', 'want', '12-19-2017', 'deletion', 'processed']
+['drug_user']
+
+
+As a data user, I want to have the 12-19-2017 deletions processed.
+drug_user
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', '12-19-2017', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed']
+['drug_us', 'drug_user', 'substance_abuser', 'user']
+
+
+{Synset('user.n.01'): 20.467482517482516, Synset('exploiter.n.01'): 6.196139386928861, Synset('drug_user.n.01'): 7.467482517482518}
+Synset('user.n.01')
+As a data user, I want to have the 12-19-2017 deletions processed.
+want
+Simple first filter...
+['data', 'user', 'want', '12-19-2017', 'deletion', 'processed']
+['want']
+
+
+As a data user, I want to have the 12-19-2017 deletions processed.
+want
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', '12-19-2017', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed']
+['want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want']
+
+
+As a data user, I want to have the 12-19-2017 deletions processed.
+privation
+Simple first filter...
+['data', 'user', 'want', '12-19-2017', 'deletion', 'processed']
+['privation']
+
+
+As a data user, I want to have the 12-19-2017 deletions processed.
+privation
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', '12-19-2017', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed']
+['privat', 'privation', 'want', 'deprivation', 'neediness', 'privation', 'deprivation']
+
+
+As a data user, I want to have the 12-19-2017 deletions processed.
+lack
+Simple first filter...
+['data', 'user', 'want', '12-19-2017', 'deletion', 'processed']
+['lack']
+
+
+As a data user, I want to have the 12-19-2017 deletions processed.
+lack
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', '12-19-2017', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed']
+['lack', 'lack', 'deficiency', 'want', 'miss', 'lack']
+
+
+As a data user, I want to have the 12-19-2017 deletions processed.
+need
+Simple first filter...
+['data', 'user', 'want', '12-19-2017', 'deletion', 'processed']
+['need']
+
+
+As a data user, I want to have the 12-19-2017 deletions processed.
+need
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', '12-19-2017', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed']
+['need', 'need', 'demand', 'need', 'want', 'motivation', 'motive', 'need', 'indigence', 'need', 'penury', 'pauperism', 'pauperization', 'necessitate', 'ask', 'postulate', 'need', 'require', 'take', 'involve', 'call_for', 'demand', 'want', 'need', 'require', 'need']
+
+
+As a data user, I want to have the 12-19-2017 deletions processed.
+wish
+Simple first filter...
+['data', 'user', 'want', '12-19-2017', 'deletion', 'processed']
+['wish']
+
+
+As a data user, I want to have the 12-19-2017 deletions processed.
+wish
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', '12-19-2017', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed']
+['wish', 'wish', 'wishing', 'want', 'wish', 'indirect_request', 'regard', 'wish', 'compliments', 'wish', 'wish', 'wish', 'care', 'like', 'wish', 'wish', 'wish_well', 'wish', 'wish', 'bid']
+
+
+As a data user, I want to have the 12-19-2017 deletions processed.
+desire
+Simple first filter...
+['data', 'user', 'want', '12-19-2017', 'deletion', 'processed']
+['desire']
+
+
+As a data user, I want to have the 12-19-2017 deletions processed.
+desire
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', '12-19-2017', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed']
+['desir', 'desire', 'desire', 'desire', 'desire', 'want', 'hope', 'trust', 'desire', 'desire']
+
+
+{Synset('want.v.02'): 114.6043956043956, Synset('privation.n.01'): 16.604395604395606, Synset('lack.n.01'): 15.320512820512821, Synset('need.n.02'): 39.426406926406926, Synset('wish.n.01'): 23.18717948717949, Synset('desire.v.01'): 17.283549783549784}
+Synset('want.v.02')
+As a data user, I want to have the 12-19-2017 deletions processed.
+omission
+Simple first filter...
+['data', 'user', 'want', '12-19-2017', 'deletion', 'processed']
+['omission']
+
+
+As a data user, I want to have the 12-19-2017 deletions processed.
+omission
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', '12-19-2017', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed']
+['omiss', 'omission', 'skip', 'omission', 'omission', 'deletion', 'omission']
+
+
+{Synset('omission.n.03'): 8.854395604395604}
+Synset('omission.n.03')
+As a data user, I want to have the 12-19-2017 omission processed.
+processed
+Simple first filter...
+['data', 'user', 'want', '12-19-2017', 'omission', 'processed']
+['processed']
+
+
+As a data user, I want to have the 12-19-2017 omission processed.
+processed
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', '12-19-2017', 'omiss', 'omission', 'skip', 'omission', 'omission', 'deletion', 'omission', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed']
+['process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed']
+
+
+As a data user, I want to have the 12-19-2017 omission processed.
+action
+Simple first filter...
+['data', 'user', 'want', '12-19-2017', 'omission', 'processed']
+['action']
+
+
+As a data user, I want to have the 12-19-2017 omission processed.
+action
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', '12-19-2017', 'omiss', 'omission', 'skip', 'omission', 'omission', 'deletion', 'omission', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed']
+['action', 'action', 'action', 'activity', 'activeness', 'military_action', 'action', 'natural_process', 'natural_action', 'action', 'activity', 'action', 'action', 'action', 'action_mechanism', 'legal_action', 'action', 'action_at_law', 'action', 'action', 'action', 'sue', 'litigate', 'process', 'carry_through', 'accomplish', 'execute', 'carry_out', 'action', 'fulfill', 'fulfil']
+
+
+As a data user, I want to have the 12-19-2017 omission processed.
+march
+Simple first filter...
+['data', 'user', 'want', '12-19-2017', 'omission', 'processed']
+['march']
+
+
+As a data user, I want to have the 12-19-2017 omission processed.
+march
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', '12-19-2017', 'omiss', 'omission', 'skip', 'omission', 'omission', 'deletion', 'omission', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed']
+['march', 'March', 'Mar', 'march', 'marching', 'march', 'march', 'borderland', 'border_district', 'march', 'marchland', 'marching_music', 'march', 'Master_of_Architecture', 'MArch', 'march', 'process', 'march', 'march', 'demonstrate', 'march', 'parade', 'exhibit', 'march', 'march', 'border', 'adjoin', 'edge', 'abut', 'march', 'butt', 'butt_against', 'butt_on']
+
+
+As a data user, I want to have the 12-19-2017 omission processed.
+work
+Simple first filter...
+['data', 'user', 'want', '12-19-2017', 'omission', 'processed']
+['work']
+
+
+As a data user, I want to have the 12-19-2017 omission processed.
+work
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', '12-19-2017', 'omiss', 'omission', 'skip', 'omission', 'omission', 'deletion', 'omission', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed']
+['work', 'work', 'work', 'piece_of_work', 'employment', 'work', 'study', 'work', 'work', 'workplace', 'work', 'oeuvre', 'work', 'body_of_work', 'work', 'work', 'do_work', 'work', 'act', 'function', 'work', 'operate', 'go', 'run', 'work', 'work_on', 'process', 'exercise', 'work', 'work_out', 'make', 'work', 'work', 'work', 'work', 'bring', 'work', 'play', 'wreak', 'make_for', 'work', 'put_to_work', 'cultivate', 'crop', 'work', 'work', 'influence', 'act_upon', 'work', 'work', 'work', 'work', 'work', 'shape', 'form', 'work', 'mold', 'mould', 'forge', 'work', 'knead', 'work', 'exploit', 'work', 'solve', 'work_out', 'figure_out', 'puzzle_out', 'lick', 'work', 'ferment', 'work', 'sour', 'turn', 'ferment', 'work', 'work']
+
+
+As a data user, I want to have the 12-19-2017 omission processed.
+serve
+Simple first filter...
+['data', 'user', 'want', '12-19-2017', 'omission', 'processed']
+['serve']
+
+
+As a data user, I want to have the 12-19-2017 omission processed.
+serve
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', '12-19-2017', 'omiss', 'omission', 'skip', 'omission', 'omission', 'deletion', 'omission', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed']
+['serv', 'serve', 'service', 'serve', 'function', 'serve', 'serve', 'service', 'serve', 'serve', 'help', 'serve', 'serve_up', 'dish_out', 'dish_up', 'dish', 'serve', 'serve', 'serve_well', 'serve', 'do', 'serve', 'attend_to', 'wait_on', 'attend', 'assist', 'serve', 'process', 'swear_out', 'suffice', 'do', 'answer', 'serve', 'serve', 'serve', 'service', 'serve']
+
+
+As a data user, I want to have the 12-19-2017 omission processed.
+refined
+Simple first filter...
+['data', 'user', 'want', '12-19-2017', 'omission', 'processed']
+['refined']
+
+
+As a data user, I want to have the 12-19-2017 omission processed.
+refined
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', '12-19-2017', 'omiss', 'omission', 'skip', 'omission', 'omission', 'deletion', 'omission', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed']
+['refin', 'polish', 'refine', 'fine-tune', 'down', 'complicate', 'refine', 'rarify', 'elaborate', 'refine', 'refine', 'rectify', 'refine', 'refine', 'refined', 'refined', 'processed', 'polished', 'refined', 'svelte', 'urbane', 'elegant', 'graceful', 'refined', 'neat', 'refined', 'tasteful']
+
+
+{Synset('processed.s.01'): 83, Synset('action.v.01'): 24.545454545454547, Synset('march.v.01'): 21.96153846153846, Synset('work.v.05'): 45.43333333333333, Synset('serve.v.11'): 26.05294117647059, Synset('refined.a.02'): 8}
+Synset('processed.s.01')
+{'user': [Synset('user.n.01'), Synset('exploiter.n.01'), Synset('drug_user.n.01')], 'want': [Synset('want.v.02'), Synset('privation.n.01'), Synset('lack.n.01'), Synset('need.n.02'), Synset('wish.n.01'), Synset('desire.v.01')], 'deletions': [Synset('omission.n.03')], 'processed': [Synset('processed.s.01'), Synset('action.v.01'), Synset('march.v.01'), Synset('work.v.05'), Synset('serve.v.11'), Synset('refined.a.02')], 'december': [Synset('december.n.01')]}
+as user i want to have the deletions processed on 19 december 2017
+user
+Simple first filter...
+['user', 'want', 'deletion', 'processed', 'december']
+['user']
+
+
+as user i want to have the deletions processed on 19 december 2017
+user
+Second filter...
+['user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', 'decemb', 'December', 'Dec']
+['user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user']
+
+
+as user i want to have the deletions processed on 19 december 2017
+exploiter
+Simple first filter...
+['user', 'want', 'deletion', 'processed', 'december']
+['exploiter']
+
+
+as user i want to have the deletions processed on 19 december 2017
+exploiter
+Second filter...
+['user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', 'decemb', 'December', 'Dec']
+['exploit', 'exploiter', 'user']
+
+
+as user i want to have the deletions processed on 19 december 2017
+drug_user
+Simple first filter...
+['user', 'want', 'deletion', 'processed', 'december']
+['drug_user']
+
+
+as user i want to have the deletions processed on 19 december 2017
+drug_user
+Second filter...
+['user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', 'decemb', 'December', 'Dec']
+['drug_us', 'drug_user', 'substance_abuser', 'user']
+
+
+{Synset('user.n.01'): 20.42132867132867, Synset('exploiter.n.01'): 6.167293233082707, Synset('drug_user.n.01'): 7.421328671328672}
+Synset('user.n.01')
+as user i want to have the deletions processed on 19 december 2017
+want
+Simple first filter...
+['user', 'want', 'deletion', 'processed', 'december']
+['want']
+
+
+as user i want to have the deletions processed on 19 december 2017
+want
+Second filter...
+['user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', 'decemb', 'December', 'Dec']
+['want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want']
+
+
+as user i want to have the deletions processed on 19 december 2017
+privation
+Simple first filter...
+['user', 'want', 'deletion', 'processed', 'december']
+['privation']
+
+
+as user i want to have the deletions processed on 19 december 2017
+privation
+Second filter...
+['user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', 'decemb', 'December', 'Dec']
+['privat', 'privation', 'want', 'deprivation', 'neediness', 'privation', 'deprivation']
+
+
+as user i want to have the deletions processed on 19 december 2017
+lack
+Simple first filter...
+['user', 'want', 'deletion', 'processed', 'december']
+['lack']
+
+
+as user i want to have the deletions processed on 19 december 2017
+lack
+Second filter...
+['user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', 'decemb', 'December', 'Dec']
+['lack', 'lack', 'deficiency', 'want', 'miss', 'lack']
+
+
+as user i want to have the deletions processed on 19 december 2017
+need
+Simple first filter...
+['user', 'want', 'deletion', 'processed', 'december']
+['need']
+
+
+as user i want to have the deletions processed on 19 december 2017
+need
+Second filter...
+['user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', 'decemb', 'December', 'Dec']
+['need', 'need', 'demand', 'need', 'want', 'motivation', 'motive', 'need', 'indigence', 'need', 'penury', 'pauperism', 'pauperization', 'necessitate', 'ask', 'postulate', 'need', 'require', 'take', 'involve', 'call_for', 'demand', 'want', 'need', 'require', 'need']
+
+
+as user i want to have the deletions processed on 19 december 2017
+wish
+Simple first filter...
+['user', 'want', 'deletion', 'processed', 'december']
+['wish']
+
+
+as user i want to have the deletions processed on 19 december 2017
+wish
+Second filter...
+['user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', 'decemb', 'December', 'Dec']
+['wish', 'wish', 'wishing', 'want', 'wish', 'indirect_request', 'regard', 'wish', 'compliments', 'wish', 'wish', 'wish', 'care', 'like', 'wish', 'wish', 'wish_well', 'wish', 'wish', 'bid']
+
+
+as user i want to have the deletions processed on 19 december 2017
+desire
+Simple first filter...
+['user', 'want', 'deletion', 'processed', 'december']
+['desire']
+
+
+as user i want to have the deletions processed on 19 december 2017
+desire
+Second filter...
+['user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', 'decemb', 'December', 'Dec']
+['desir', 'desire', 'desire', 'desire', 'desire', 'want', 'hope', 'trust', 'desire', 'desire']
+
+
+{Synset('want.v.02'): 114.5467032967033, Synset('privation.n.01'): 16.546703296703296, Synset('lack.n.01'): 15.253846153846155, Synset('need.n.02'): 39.34848484848485, Synset('wish.n.01'): 23.120512820512822, Synset('desire.v.01'): 17.205627705627705}
+Synset('want.v.02')
+as user i want to have the deletions processed on 19 december 2017
+omission
+Simple first filter...
+['user', 'want', 'deletion', 'processed', 'december']
+['omission']
+
+
+as user i want to have the deletions processed on 19 december 2017
+omission
+Second filter...
+['user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', 'decemb', 'December', 'Dec']
+['omiss', 'omission', 'skip', 'omission', 'omission', 'deletion', 'omission']
+
+
+{Synset('omission.n.03'): 8.796703296703297}
+Synset('omission.n.03')
+as user i want to have the omission processed on 19 december 2017
+processed
+Simple first filter...
+['user', 'want', 'omission', 'processed', 'december']
+['processed']
+
+
+as user i want to have the omission processed on 19 december 2017
+processed
+Second filter...
+['user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'omiss', 'omission', 'skip', 'omission', 'omission', 'deletion', 'omission', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', 'decemb', 'December', 'Dec']
+['process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed']
+
+
+as user i want to have the omission processed on 19 december 2017
+action
+Simple first filter...
+['user', 'want', 'omission', 'processed', 'december']
+['action']
+
+
+as user i want to have the omission processed on 19 december 2017
+action
+Second filter...
+['user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'omiss', 'omission', 'skip', 'omission', 'omission', 'deletion', 'omission', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', 'decemb', 'December', 'Dec']
+['action', 'action', 'action', 'activity', 'activeness', 'military_action', 'action', 'natural_process', 'natural_action', 'action', 'activity', 'action', 'action', 'action', 'action_mechanism', 'legal_action', 'action', 'action_at_law', 'action', 'action', 'action', 'sue', 'litigate', 'process', 'carry_through', 'accomplish', 'execute', 'carry_out', 'action', 'fulfill', 'fulfil']
+
+
+as user i want to have the omission processed on 19 december 2017
+march
+Simple first filter...
+['user', 'want', 'omission', 'processed', 'december']
+['march']
+
+
+as user i want to have the omission processed on 19 december 2017
+march
+Second filter...
+['user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'omiss', 'omission', 'skip', 'omission', 'omission', 'deletion', 'omission', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', 'decemb', 'December', 'Dec']
+['march', 'March', 'Mar', 'march', 'marching', 'march', 'march', 'borderland', 'border_district', 'march', 'marchland', 'marching_music', 'march', 'Master_of_Architecture', 'MArch', 'march', 'process', 'march', 'march', 'demonstrate', 'march', 'parade', 'exhibit', 'march', 'march', 'border', 'adjoin', 'edge', 'abut', 'march', 'butt', 'butt_against', 'butt_on']
+
+
+as user i want to have the omission processed on 19 december 2017
+work
+Simple first filter...
+['user', 'want', 'omission', 'processed', 'december']
+['work']
+
+
+as user i want to have the omission processed on 19 december 2017
+work
+Second filter...
+['user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'omiss', 'omission', 'skip', 'omission', 'omission', 'deletion', 'omission', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', 'decemb', 'December', 'Dec']
+['work', 'work', 'work', 'piece_of_work', 'employment', 'work', 'study', 'work', 'work', 'workplace', 'work', 'oeuvre', 'work', 'body_of_work', 'work', 'work', 'do_work', 'work', 'act', 'function', 'work', 'operate', 'go', 'run', 'work', 'work_on', 'process', 'exercise', 'work', 'work_out', 'make', 'work', 'work', 'work', 'work', 'bring', 'work', 'play', 'wreak', 'make_for', 'work', 'put_to_work', 'cultivate', 'crop', 'work', 'work', 'influence', 'act_upon', 'work', 'work', 'work', 'work', 'work', 'shape', 'form', 'work', 'mold', 'mould', 'forge', 'work', 'knead', 'work', 'exploit', 'work', 'solve', 'work_out', 'figure_out', 'puzzle_out', 'lick', 'work', 'ferment', 'work', 'sour', 'turn', 'ferment', 'work', 'work']
+
+
+as user i want to have the omission processed on 19 december 2017
+serve
+Simple first filter...
+['user', 'want', 'omission', 'processed', 'december']
+['serve']
+
+
+as user i want to have the omission processed on 19 december 2017
+serve
+Second filter...
+['user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'omiss', 'omission', 'skip', 'omission', 'omission', 'deletion', 'omission', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', 'decemb', 'December', 'Dec']
+['serv', 'serve', 'service', 'serve', 'function', 'serve', 'serve', 'service', 'serve', 'serve', 'help', 'serve', 'serve_up', 'dish_out', 'dish_up', 'dish', 'serve', 'serve', 'serve_well', 'serve', 'do', 'serve', 'attend_to', 'wait_on', 'attend', 'assist', 'serve', 'process', 'swear_out', 'suffice', 'do', 'answer', 'serve', 'serve', 'serve', 'service', 'serve']
+
+
+as user i want to have the omission processed on 19 december 2017
+refined
+Simple first filter...
+['user', 'want', 'omission', 'processed', 'december']
+['refined']
+
+
+as user i want to have the omission processed on 19 december 2017
+refined
+Second filter...
+['user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'omiss', 'omission', 'skip', 'omission', 'omission', 'deletion', 'omission', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', 'decemb', 'December', 'Dec']
+['refin', 'polish', 'refine', 'fine-tune', 'down', 'complicate', 'refine', 'rarify', 'elaborate', 'refine', 'refine', 'rectify', 'refine', 'refine', 'refined', 'refined', 'processed', 'polished', 'refined', 'svelte', 'urbane', 'elegant', 'graceful', 'refined', 'neat', 'refined', 'tasteful']
+
+
+{Synset('processed.s.01'): 83, Synset('action.v.01'): 24.467532467532468, Synset('march.v.01'): 22.528846153846153, Synset('work.v.05'): 45.36666666666667, Synset('serve.v.11'): 26.017647058823528, Synset('refined.a.02'): 8}
+Synset('processed.s.01')
+as user i want to have the omission processed on 19 december 2017
+december
+Simple first filter...
+['user', 'want', 'omission', 'processed', 'december']
+['december']
+
+
+as user i want to have the omission processed on 19 december 2017
+december
+Second filter...
+['user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'omiss', 'omission', 'skip', 'omission', 'omission', 'deletion', 'omission', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', 'decemb', 'December', 'Dec']
+['decemb', 'December', 'Dec']
+
+
+{Synset('december.n.01'): 4.653846153846153}
+Synset('december.n.01')
+{'user': [Synset('user.n.01'), Synset('exploiter.n.01'), Synset('drug_user.n.01')], 'want': [Synset('want.v.02'), Synset('privation.n.01'), Synset('lack.n.01'), Synset('need.n.02'), Synset('wish.n.01'), Synset('desire.v.01')], 'deletions': [Synset('omission.n.03')], 'processed': [Synset('processed.s.01'), Synset('action.v.01'), Synset('march.v.01'), Synset('work.v.05'), Synset('serve.v.11'), Synset('refined.a.02')]}
+as user i want to have the deletions processed from 12-19-2017
+user
+Simple first filter...
+['user', 'want', 'deletion', 'processed', '12-19-2017']
+['user']
+
+
+as user i want to have the deletions processed from 12-19-2017
+user
+Second filter...
+['user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user']
+
+
+as user i want to have the deletions processed from 12-19-2017
+exploiter
+Simple first filter...
+['user', 'want', 'deletion', 'processed', '12-19-2017']
+['exploiter']
+
+
+as user i want to have the deletions processed from 12-19-2017
+exploiter
+Second filter...
+['user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['exploit', 'exploiter', 'user']
+
+
+as user i want to have the deletions processed from 12-19-2017
+drug_user
+Simple first filter...
+['user', 'want', 'deletion', 'processed', '12-19-2017']
+['drug_user']
+
+
+as user i want to have the deletions processed from 12-19-2017
+drug_user
+Second filter...
+['user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['drug_us', 'drug_user', 'substance_abuser', 'user']
+
+
+{Synset('user.n.01'): 20.267482517482517, Synset('exploiter.n.01'): 6.042293233082707, Synset('drug_user.n.01'): 7.2674825174825175}
+Synset('user.n.01')
+as user i want to have the deletions processed from 12-19-2017
+want
+Simple first filter...
+['user', 'want', 'deletion', 'processed', '12-19-2017']
+['want']
+
+
+as user i want to have the deletions processed from 12-19-2017
+want
+Second filter...
+['user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want']
+
+
+as user i want to have the deletions processed from 12-19-2017
+privation
+Simple first filter...
+['user', 'want', 'deletion', 'processed', '12-19-2017']
+['privation']
+
+
+as user i want to have the deletions processed from 12-19-2017
+privation
+Second filter...
+['user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['privat', 'privation', 'want', 'deprivation', 'neediness', 'privation', 'deprivation']
+
+
+as user i want to have the deletions processed from 12-19-2017
+lack
+Simple first filter...
+['user', 'want', 'deletion', 'processed', '12-19-2017']
+['lack']
+
+
+as user i want to have the deletions processed from 12-19-2017
+lack
+Second filter...
+['user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['lack', 'lack', 'deficiency', 'want', 'miss', 'lack']
+
+
+as user i want to have the deletions processed from 12-19-2017
+need
+Simple first filter...
+['user', 'want', 'deletion', 'processed', '12-19-2017']
+['need']
+
+
+as user i want to have the deletions processed from 12-19-2017
+need
+Second filter...
+['user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['need', 'need', 'demand', 'need', 'want', 'motivation', 'motive', 'need', 'indigence', 'need', 'penury', 'pauperism', 'pauperization', 'necessitate', 'ask', 'postulate', 'need', 'require', 'take', 'involve', 'call_for', 'demand', 'want', 'need', 'require', 'need']
+
+
+as user i want to have the deletions processed from 12-19-2017
+wish
+Simple first filter...
+['user', 'want', 'deletion', 'processed', '12-19-2017']
+['wish']
+
+
+as user i want to have the deletions processed from 12-19-2017
+wish
+Second filter...
+['user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['wish', 'wish', 'wishing', 'want', 'wish', 'indirect_request', 'regard', 'wish', 'compliments', 'wish', 'wish', 'wish', 'care', 'like', 'wish', 'wish', 'wish_well', 'wish', 'wish', 'bid']
+
+
+as user i want to have the deletions processed from 12-19-2017
+desire
+Simple first filter...
+['user', 'want', 'deletion', 'processed', '12-19-2017']
+['desire']
+
+
+as user i want to have the deletions processed from 12-19-2017
+desire
+Second filter...
+['user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['desir', 'desire', 'desire', 'desire', 'desire', 'want', 'hope', 'trust', 'desire', 'desire']
+
+
+{Synset('want.v.02'): 114.2967032967033, Synset('privation.n.01'): 16.296703296703296, Synset('lack.n.01'): 14.987179487179487, Synset('need.n.02'): 39.06277056277056, Synset('wish.n.01'): 22.853846153846153, Synset('desire.v.01'): 16.91991341991342}
+Synset('want.v.02')
+as user i want to have the deletions processed from 12-19-2017
+omission
+Simple first filter...
+['user', 'want', 'deletion', 'processed', '12-19-2017']
+['omission']
+
+
+as user i want to have the deletions processed from 12-19-2017
+omission
+Second filter...
+['user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['omiss', 'omission', 'skip', 'omission', 'omission', 'deletion', 'omission']
+
+
+{Synset('omission.n.03'): 8.546703296703297}
+Synset('omission.n.03')
+as user i want to have the omission processed from 12-19-2017
+processed
+Simple first filter...
+['user', 'want', 'omission', 'processed', '12-19-2017']
+['processed']
+
+
+as user i want to have the omission processed from 12-19-2017
+processed
+Second filter...
+['user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'omiss', 'omission', 'skip', 'omission', 'omission', 'deletion', 'omission', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed']
+
+
+as user i want to have the omission processed from 12-19-2017
+action
+Simple first filter...
+['user', 'want', 'omission', 'processed', '12-19-2017']
+['action']
+
+
+as user i want to have the omission processed from 12-19-2017
+action
+Second filter...
+['user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'omiss', 'omission', 'skip', 'omission', 'omission', 'deletion', 'omission', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['action', 'action', 'action', 'activity', 'activeness', 'military_action', 'action', 'natural_process', 'natural_action', 'action', 'activity', 'action', 'action', 'action', 'action_mechanism', 'legal_action', 'action', 'action_at_law', 'action', 'action', 'action', 'sue', 'litigate', 'process', 'carry_through', 'accomplish', 'execute', 'carry_out', 'action', 'fulfill', 'fulfil']
+
+
+as user i want to have the omission processed from 12-19-2017
+march
+Simple first filter...
+['user', 'want', 'omission', 'processed', '12-19-2017']
+['march']
+
+
+as user i want to have the omission processed from 12-19-2017
+march
+Second filter...
+['user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'omiss', 'omission', 'skip', 'omission', 'omission', 'deletion', 'omission', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['march', 'March', 'Mar', 'march', 'marching', 'march', 'march', 'borderland', 'border_district', 'march', 'marchland', 'marching_music', 'march', 'Master_of_Architecture', 'MArch', 'march', 'process', 'march', 'march', 'demonstrate', 'march', 'parade', 'exhibit', 'march', 'march', 'border', 'adjoin', 'edge', 'abut', 'march', 'butt', 'butt_against', 'butt_on']
+
+
+as user i want to have the omission processed from 12-19-2017
+work
+Simple first filter...
+['user', 'want', 'omission', 'processed', '12-19-2017']
+['work']
+
+
+as user i want to have the omission processed from 12-19-2017
+work
+Second filter...
+['user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'omiss', 'omission', 'skip', 'omission', 'omission', 'deletion', 'omission', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['work', 'work', 'work', 'piece_of_work', 'employment', 'work', 'study', 'work', 'work', 'workplace', 'work', 'oeuvre', 'work', 'body_of_work', 'work', 'work', 'do_work', 'work', 'act', 'function', 'work', 'operate', 'go', 'run', 'work', 'work_on', 'process', 'exercise', 'work', 'work_out', 'make', 'work', 'work', 'work', 'work', 'bring', 'work', 'play', 'wreak', 'make_for', 'work', 'put_to_work', 'cultivate', 'crop', 'work', 'work', 'influence', 'act_upon', 'work', 'work', 'work', 'work', 'work', 'shape', 'form', 'work', 'mold', 'mould', 'forge', 'work', 'knead', 'work', 'exploit', 'work', 'solve', 'work_out', 'figure_out', 'puzzle_out', 'lick', 'work', 'ferment', 'work', 'sour', 'turn', 'ferment', 'work', 'work']
+
+
+as user i want to have the omission processed from 12-19-2017
+serve
+Simple first filter...
+['user', 'want', 'omission', 'processed', '12-19-2017']
+['serve']
+
+
+as user i want to have the omission processed from 12-19-2017
+serve
+Second filter...
+['user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'omiss', 'omission', 'skip', 'omission', 'omission', 'deletion', 'omission', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['serv', 'serve', 'service', 'serve', 'function', 'serve', 'serve', 'service', 'serve', 'serve', 'help', 'serve', 'serve_up', 'dish_out', 'dish_up', 'dish', 'serve', 'serve', 'serve_well', 'serve', 'do', 'serve', 'attend_to', 'wait_on', 'attend', 'assist', 'serve', 'process', 'swear_out', 'suffice', 'do', 'answer', 'serve', 'serve', 'serve', 'service', 'serve']
+
+
+as user i want to have the omission processed from 12-19-2017
+refined
+Simple first filter...
+['user', 'want', 'omission', 'processed', '12-19-2017']
+['refined']
+
+
+as user i want to have the omission processed from 12-19-2017
+refined
+Second filter...
+['user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'omiss', 'omission', 'skip', 'omission', 'omission', 'deletion', 'omission', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['refin', 'polish', 'refine', 'fine-tune', 'down', 'complicate', 'refine', 'rarify', 'elaborate', 'refine', 'refine', 'rectify', 'refine', 'refine', 'refined', 'refined', 'processed', 'polished', 'refined', 'svelte', 'urbane', 'elegant', 'graceful', 'refined', 'neat', 'refined', 'tasteful']
+
+
+{Synset('processed.s.01'): 83, Synset('action.v.01'): 24.181818181818183, Synset('march.v.01'): 21.653846153846153, Synset('work.v.05'): 45.1, Synset('serve.v.11'): 25.81764705882353, Synset('refined.a.02'): 8}
+Synset('processed.s.01')
+{'user': [Synset('user.n.01'), Synset('exploiter.n.01'), Synset('drug_user.n.01')], 'want': [Synset('want.v.02'), Synset('privation.n.01'), Synset('lack.n.01'), Synset('need.n.02'), Synset('wish.n.01'), Synset('desire.v.01')], 'deletions': [Synset('omission.n.03')], 'processed': [Synset('processed.s.01'), Synset('action.v.01'), Synset('march.v.01'), Synset('work.v.05'), Synset('serve.v.11'), Synset('refined.a.02')]}
+as user i want to have the deletions processed on 12-19-2017
+user
+Simple first filter...
+['user', 'want', 'deletion', 'processed', '12-19-2017']
+['user']
+
+
+as user i want to have the deletions processed on 12-19-2017
+user
+Second filter...
+['user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user']
+
+
+as user i want to have the deletions processed on 12-19-2017
+exploiter
+Simple first filter...
+['user', 'want', 'deletion', 'processed', '12-19-2017']
+['exploiter']
+
+
+as user i want to have the deletions processed on 12-19-2017
+exploiter
+Second filter...
+['user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['exploit', 'exploiter', 'user']
+
+
+as user i want to have the deletions processed on 12-19-2017
+drug_user
+Simple first filter...
+['user', 'want', 'deletion', 'processed', '12-19-2017']
+['drug_user']
+
+
+as user i want to have the deletions processed on 12-19-2017
+drug_user
+Second filter...
+['user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['drug_us', 'drug_user', 'substance_abuser', 'user']
+
+
+{Synset('user.n.01'): 20.267482517482517, Synset('exploiter.n.01'): 6.042293233082707, Synset('drug_user.n.01'): 7.2674825174825175}
+Synset('user.n.01')
+as user i want to have the deletions processed on 12-19-2017
+want
+Simple first filter...
+['user', 'want', 'deletion', 'processed', '12-19-2017']
+['want']
+
+
+as user i want to have the deletions processed on 12-19-2017
+want
+Second filter...
+['user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want']
+
+
+as user i want to have the deletions processed on 12-19-2017
+privation
+Simple first filter...
+['user', 'want', 'deletion', 'processed', '12-19-2017']
+['privation']
+
+
+as user i want to have the deletions processed on 12-19-2017
+privation
+Second filter...
+['user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['privat', 'privation', 'want', 'deprivation', 'neediness', 'privation', 'deprivation']
+
+
+as user i want to have the deletions processed on 12-19-2017
+lack
+Simple first filter...
+['user', 'want', 'deletion', 'processed', '12-19-2017']
+['lack']
+
+
+as user i want to have the deletions processed on 12-19-2017
+lack
+Second filter...
+['user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['lack', 'lack', 'deficiency', 'want', 'miss', 'lack']
+
+
+as user i want to have the deletions processed on 12-19-2017
+need
+Simple first filter...
+['user', 'want', 'deletion', 'processed', '12-19-2017']
+['need']
+
+
+as user i want to have the deletions processed on 12-19-2017
+need
+Second filter...
+['user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['need', 'need', 'demand', 'need', 'want', 'motivation', 'motive', 'need', 'indigence', 'need', 'penury', 'pauperism', 'pauperization', 'necessitate', 'ask', 'postulate', 'need', 'require', 'take', 'involve', 'call_for', 'demand', 'want', 'need', 'require', 'need']
+
+
+as user i want to have the deletions processed on 12-19-2017
+wish
+Simple first filter...
+['user', 'want', 'deletion', 'processed', '12-19-2017']
+['wish']
+
+
+as user i want to have the deletions processed on 12-19-2017
+wish
+Second filter...
+['user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['wish', 'wish', 'wishing', 'want', 'wish', 'indirect_request', 'regard', 'wish', 'compliments', 'wish', 'wish', 'wish', 'care', 'like', 'wish', 'wish', 'wish_well', 'wish', 'wish', 'bid']
+
+
+as user i want to have the deletions processed on 12-19-2017
+desire
+Simple first filter...
+['user', 'want', 'deletion', 'processed', '12-19-2017']
+['desire']
+
+
+as user i want to have the deletions processed on 12-19-2017
+desire
+Second filter...
+['user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['desir', 'desire', 'desire', 'desire', 'desire', 'want', 'hope', 'trust', 'desire', 'desire']
+
+
+{Synset('want.v.02'): 114.2967032967033, Synset('privation.n.01'): 16.296703296703296, Synset('lack.n.01'): 14.987179487179487, Synset('need.n.02'): 39.06277056277056, Synset('wish.n.01'): 22.853846153846153, Synset('desire.v.01'): 16.91991341991342}
+Synset('want.v.02')
+as user i want to have the deletions processed on 12-19-2017
+omission
+Simple first filter...
+['user', 'want', 'deletion', 'processed', '12-19-2017']
+['omission']
+
+
+as user i want to have the deletions processed on 12-19-2017
+omission
+Second filter...
+['user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['omiss', 'omission', 'skip', 'omission', 'omission', 'deletion', 'omission']
+
+
+{Synset('omission.n.03'): 8.546703296703297}
+Synset('omission.n.03')
+as user i want to have the omission processed on 12-19-2017
+processed
+Simple first filter...
+['user', 'want', 'omission', 'processed', '12-19-2017']
+['processed']
+
+
+as user i want to have the omission processed on 12-19-2017
+processed
+Second filter...
+['user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'omiss', 'omission', 'skip', 'omission', 'omission', 'deletion', 'omission', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed']
+
+
+as user i want to have the omission processed on 12-19-2017
+action
+Simple first filter...
+['user', 'want', 'omission', 'processed', '12-19-2017']
+['action']
+
+
+as user i want to have the omission processed on 12-19-2017
+action
+Second filter...
+['user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'omiss', 'omission', 'skip', 'omission', 'omission', 'deletion', 'omission', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['action', 'action', 'action', 'activity', 'activeness', 'military_action', 'action', 'natural_process', 'natural_action', 'action', 'activity', 'action', 'action', 'action', 'action_mechanism', 'legal_action', 'action', 'action_at_law', 'action', 'action', 'action', 'sue', 'litigate', 'process', 'carry_through', 'accomplish', 'execute', 'carry_out', 'action', 'fulfill', 'fulfil']
+
+
+as user i want to have the omission processed on 12-19-2017
+march
+Simple first filter...
+['user', 'want', 'omission', 'processed', '12-19-2017']
+['march']
+
+
+as user i want to have the omission processed on 12-19-2017
+march
+Second filter...
+['user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'omiss', 'omission', 'skip', 'omission', 'omission', 'deletion', 'omission', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['march', 'March', 'Mar', 'march', 'marching', 'march', 'march', 'borderland', 'border_district', 'march', 'marchland', 'marching_music', 'march', 'Master_of_Architecture', 'MArch', 'march', 'process', 'march', 'march', 'demonstrate', 'march', 'parade', 'exhibit', 'march', 'march', 'border', 'adjoin', 'edge', 'abut', 'march', 'butt', 'butt_against', 'butt_on']
+
+
+as user i want to have the omission processed on 12-19-2017
+work
+Simple first filter...
+['user', 'want', 'omission', 'processed', '12-19-2017']
+['work']
+
+
+as user i want to have the omission processed on 12-19-2017
+work
+Second filter...
+['user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'omiss', 'omission', 'skip', 'omission', 'omission', 'deletion', 'omission', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['work', 'work', 'work', 'piece_of_work', 'employment', 'work', 'study', 'work', 'work', 'workplace', 'work', 'oeuvre', 'work', 'body_of_work', 'work', 'work', 'do_work', 'work', 'act', 'function', 'work', 'operate', 'go', 'run', 'work', 'work_on', 'process', 'exercise', 'work', 'work_out', 'make', 'work', 'work', 'work', 'work', 'bring', 'work', 'play', 'wreak', 'make_for', 'work', 'put_to_work', 'cultivate', 'crop', 'work', 'work', 'influence', 'act_upon', 'work', 'work', 'work', 'work', 'work', 'shape', 'form', 'work', 'mold', 'mould', 'forge', 'work', 'knead', 'work', 'exploit', 'work', 'solve', 'work_out', 'figure_out', 'puzzle_out', 'lick', 'work', 'ferment', 'work', 'sour', 'turn', 'ferment', 'work', 'work']
+
+
+as user i want to have the omission processed on 12-19-2017
+serve
+Simple first filter...
+['user', 'want', 'omission', 'processed', '12-19-2017']
+['serve']
+
+
+as user i want to have the omission processed on 12-19-2017
+serve
+Second filter...
+['user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'omiss', 'omission', 'skip', 'omission', 'omission', 'deletion', 'omission', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['serv', 'serve', 'service', 'serve', 'function', 'serve', 'serve', 'service', 'serve', 'serve', 'help', 'serve', 'serve_up', 'dish_out', 'dish_up', 'dish', 'serve', 'serve', 'serve_well', 'serve', 'do', 'serve', 'attend_to', 'wait_on', 'attend', 'assist', 'serve', 'process', 'swear_out', 'suffice', 'do', 'answer', 'serve', 'serve', 'serve', 'service', 'serve']
+
+
+as user i want to have the omission processed on 12-19-2017
+refined
+Simple first filter...
+['user', 'want', 'omission', 'processed', '12-19-2017']
+['refined']
+
+
+as user i want to have the omission processed on 12-19-2017
+refined
+Second filter...
+['user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'omiss', 'omission', 'skip', 'omission', 'omission', 'deletion', 'omission', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['refin', 'polish', 'refine', 'fine-tune', 'down', 'complicate', 'refine', 'rarify', 'elaborate', 'refine', 'refine', 'rectify', 'refine', 'refine', 'refined', 'refined', 'processed', 'polished', 'refined', 'svelte', 'urbane', 'elegant', 'graceful', 'refined', 'neat', 'refined', 'tasteful']
+
+
+{Synset('processed.s.01'): 83, Synset('action.v.01'): 24.181818181818183, Synset('march.v.01'): 21.653846153846153, Synset('work.v.05'): 45.1, Synset('serve.v.11'): 25.81764705882353, Synset('refined.a.02'): 8}
+Synset('processed.s.01')
+{'data': [Synset('data.n.01'), Synset('datum.n.01')], 'user': [Synset('user.n.01'), Synset('exploiter.n.01'), Synset('drug_user.n.01')], 'want': [Synset('want.v.02'), Synset('privation.n.01'), Synset('lack.n.01'), Synset('need.n.02'), Synset('wish.n.01'), Synset('desire.v.01')], 'deletions': [Synset('omission.n.03')], 'processed': [Synset('processed.s.01'), Synset('action.v.01'), Synset('march.v.01'), Synset('work.v.05'), Synset('serve.v.11'), Synset('refined.a.02')], 'december': [Synset('december.n.01')]}
+as a data user i want to have the deletions processed on 19 december 2017
+data
+Simple first filter...
+['data', 'user', 'want', 'deletion', 'processed', 'december']
+['data']
+
+
+as a data user i want to have the deletions processed on 19 december 2017
+data
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', 'decemb', 'December', 'Dec']
+['data', 'data', 'information', 'datum', 'data_point']
+
+
+as a data user i want to have the deletions processed on 19 december 2017
+datum
+Simple first filter...
+['data', 'user', 'want', 'deletion', 'processed', 'december']
+['datum']
+
+
+as a data user i want to have the deletions processed on 19 december 2017
+datum
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', 'decemb', 'December', 'Dec']
+['datum', 'datum', 'data_point']
+
+
+{Synset('data.n.01'): 8.997202797202798, Synset('datum.n.01'): 4.283549783549784}
+Synset('data.n.01')
+as a data user i want to have the deletions processed on 19 december 2017
+user
+Simple first filter...
+['data', 'user', 'want', 'deletion', 'processed', 'december']
+['user']
+
+
+as a data user i want to have the deletions processed on 19 december 2017
+user
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', 'decemb', 'December', 'Dec']
+['user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user']
+
+
+as a data user i want to have the deletions processed on 19 december 2017
+exploiter
+Simple first filter...
+['data', 'user', 'want', 'deletion', 'processed', 'december']
+['exploiter']
+
+
+as a data user i want to have the deletions processed on 19 december 2017
+exploiter
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', 'decemb', 'December', 'Dec']
+['exploit', 'exploiter', 'user']
+
+
+as a data user i want to have the deletions processed on 19 december 2017
+drug_user
+Simple first filter...
+['data', 'user', 'want', 'deletion', 'processed', 'december']
+['drug_user']
+
+
+as a data user i want to have the deletions processed on 19 december 2017
+drug_user
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', 'decemb', 'December', 'Dec']
+['drug_us', 'drug_user', 'substance_abuser', 'user']
+
+
+{Synset('user.n.01'): 20.621328671328673, Synset('exploiter.n.01'): 6.321139386928861, Synset('drug_user.n.01'): 7.621328671328671}
+Synset('user.n.01')
+as a data user i want to have the deletions processed on 19 december 2017
+want
+Simple first filter...
+['data', 'user', 'want', 'deletion', 'processed', 'december']
+['want']
+
+
+as a data user i want to have the deletions processed on 19 december 2017
+want
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', 'decemb', 'December', 'Dec']
+['want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want']
+
+
+as a data user i want to have the deletions processed on 19 december 2017
+privation
+Simple first filter...
+['data', 'user', 'want', 'deletion', 'processed', 'december']
+['privation']
+
+
+as a data user i want to have the deletions processed on 19 december 2017
+privation
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', 'decemb', 'December', 'Dec']
+['privat', 'privation', 'want', 'deprivation', 'neediness', 'privation', 'deprivation']
+
+
+as a data user i want to have the deletions processed on 19 december 2017
+lack
+Simple first filter...
+['data', 'user', 'want', 'deletion', 'processed', 'december']
+['lack']
+
+
+as a data user i want to have the deletions processed on 19 december 2017
+lack
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', 'decemb', 'December', 'Dec']
+['lack', 'lack', 'deficiency', 'want', 'miss', 'lack']
+
+
+as a data user i want to have the deletions processed on 19 december 2017
+need
+Simple first filter...
+['data', 'user', 'want', 'deletion', 'processed', 'december']
+['need']
+
+
+as a data user i want to have the deletions processed on 19 december 2017
+need
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', 'decemb', 'December', 'Dec']
+['need', 'need', 'demand', 'need', 'want', 'motivation', 'motive', 'need', 'indigence', 'need', 'penury', 'pauperism', 'pauperization', 'necessitate', 'ask', 'postulate', 'need', 'require', 'take', 'involve', 'call_for', 'demand', 'want', 'need', 'require', 'need']
+
+
+as a data user i want to have the deletions processed on 19 december 2017
+wish
+Simple first filter...
+['data', 'user', 'want', 'deletion', 'processed', 'december']
+['wish']
+
+
+as a data user i want to have the deletions processed on 19 december 2017
+wish
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', 'decemb', 'December', 'Dec']
+['wish', 'wish', 'wishing', 'want', 'wish', 'indirect_request', 'regard', 'wish', 'compliments', 'wish', 'wish', 'wish', 'care', 'like', 'wish', 'wish', 'wish_well', 'wish', 'wish', 'bid']
+
+
+as a data user i want to have the deletions processed on 19 december 2017
+desire
+Simple first filter...
+['data', 'user', 'want', 'deletion', 'processed', 'december']
+['desire']
+
+
+as a data user i want to have the deletions processed on 19 december 2017
+desire
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', 'decemb', 'December', 'Dec']
+['desir', 'desire', 'desire', 'desire', 'desire', 'want', 'hope', 'trust', 'desire', 'desire']
+
+
+{Synset('want.v.02'): 114.8543956043956, Synset('privation.n.01'): 16.854395604395606, Synset('lack.n.01'): 15.587179487179487, Synset('need.n.02'): 39.71212121212121, Synset('wish.n.01'): 23.453846153846154, Synset('desire.v.01'): 17.56926406926407}
+Synset('want.v.02')
+as a data user i want to have the deletions processed on 19 december 2017
+omission
+Simple first filter...
+['data', 'user', 'want', 'deletion', 'processed', 'december']
+['omission']
+
+
+as a data user i want to have the deletions processed on 19 december 2017
+omission
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', 'decemb', 'December', 'Dec']
+['omiss', 'omission', 'skip', 'omission', 'omission', 'deletion', 'omission']
+
+
+{Synset('omission.n.03'): 9.104395604395604}
+Synset('omission.n.03')
+as a data user i want to have the omission processed on 19 december 2017
+processed
+Simple first filter...
+['data', 'user', 'want', 'omission', 'processed', 'december']
+['processed']
+
+
+as a data user i want to have the omission processed on 19 december 2017
+processed
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'omiss', 'omission', 'skip', 'omission', 'omission', 'deletion', 'omission', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', 'decemb', 'December', 'Dec']
+['process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed']
+
+
+as a data user i want to have the omission processed on 19 december 2017
+action
+Simple first filter...
+['data', 'user', 'want', 'omission', 'processed', 'december']
+['action']
+
+
+as a data user i want to have the omission processed on 19 december 2017
+action
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'omiss', 'omission', 'skip', 'omission', 'omission', 'deletion', 'omission', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', 'decemb', 'December', 'Dec']
+['action', 'action', 'action', 'activity', 'activeness', 'military_action', 'action', 'natural_process', 'natural_action', 'action', 'activity', 'action', 'action', 'action', 'action_mechanism', 'legal_action', 'action', 'action_at_law', 'action', 'action', 'action', 'sue', 'litigate', 'process', 'carry_through', 'accomplish', 'execute', 'carry_out', 'action', 'fulfill', 'fulfil']
+
+
+as a data user i want to have the omission processed on 19 december 2017
+march
+Simple first filter...
+['data', 'user', 'want', 'omission', 'processed', 'december']
+['march']
+
+
+as a data user i want to have the omission processed on 19 december 2017
+march
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'omiss', 'omission', 'skip', 'omission', 'omission', 'deletion', 'omission', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', 'decemb', 'December', 'Dec']
+['march', 'March', 'Mar', 'march', 'marching', 'march', 'march', 'borderland', 'border_district', 'march', 'marchland', 'marching_music', 'march', 'Master_of_Architecture', 'MArch', 'march', 'process', 'march', 'march', 'demonstrate', 'march', 'parade', 'exhibit', 'march', 'march', 'border', 'adjoin', 'edge', 'abut', 'march', 'butt', 'butt_against', 'butt_on']
+
+
+as a data user i want to have the omission processed on 19 december 2017
+work
+Simple first filter...
+['data', 'user', 'want', 'omission', 'processed', 'december']
+['work']
+
+
+as a data user i want to have the omission processed on 19 december 2017
+work
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'omiss', 'omission', 'skip', 'omission', 'omission', 'deletion', 'omission', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', 'decemb', 'December', 'Dec']
+['work', 'work', 'work', 'piece_of_work', 'employment', 'work', 'study', 'work', 'work', 'workplace', 'work', 'oeuvre', 'work', 'body_of_work', 'work', 'work', 'do_work', 'work', 'act', 'function', 'work', 'operate', 'go', 'run', 'work', 'work_on', 'process', 'exercise', 'work', 'work_out', 'make', 'work', 'work', 'work', 'work', 'bring', 'work', 'play', 'wreak', 'make_for', 'work', 'put_to_work', 'cultivate', 'crop', 'work', 'work', 'influence', 'act_upon', 'work', 'work', 'work', 'work', 'work', 'shape', 'form', 'work', 'mold', 'mould', 'forge', 'work', 'knead', 'work', 'exploit', 'work', 'solve', 'work_out', 'figure_out', 'puzzle_out', 'lick', 'work', 'ferment', 'work', 'sour', 'turn', 'ferment', 'work', 'work']
+
+
+as a data user i want to have the omission processed on 19 december 2017
+serve
+Simple first filter...
+['data', 'user', 'want', 'omission', 'processed', 'december']
+['serve']
+
+
+as a data user i want to have the omission processed on 19 december 2017
+serve
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'omiss', 'omission', 'skip', 'omission', 'omission', 'deletion', 'omission', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', 'decemb', 'December', 'Dec']
+['serv', 'serve', 'service', 'serve', 'function', 'serve', 'serve', 'service', 'serve', 'serve', 'help', 'serve', 'serve_up', 'dish_out', 'dish_up', 'dish', 'serve', 'serve', 'serve_well', 'serve', 'do', 'serve', 'attend_to', 'wait_on', 'attend', 'assist', 'serve', 'process', 'swear_out', 'suffice', 'do', 'answer', 'serve', 'serve', 'serve', 'service', 'serve']
+
+
+as a data user i want to have the omission processed on 19 december 2017
+refined
+Simple first filter...
+['data', 'user', 'want', 'omission', 'processed', 'december']
+['refined']
+
+
+as a data user i want to have the omission processed on 19 december 2017
+refined
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'omiss', 'omission', 'skip', 'omission', 'omission', 'deletion', 'omission', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', 'decemb', 'December', 'Dec']
+['refin', 'polish', 'refine', 'fine-tune', 'down', 'complicate', 'refine', 'rarify', 'elaborate', 'refine', 'refine', 'rectify', 'refine', 'refine', 'refined', 'refined', 'processed', 'polished', 'refined', 'svelte', 'urbane', 'elegant', 'graceful', 'refined', 'neat', 'refined', 'tasteful']
+
+
+{Synset('processed.s.01'): 83, Synset('action.v.01'): 24.83116883116883, Synset('march.v.01'): 22.83653846153846, Synset('work.v.05'): 45.7, Synset('serve.v.11'): 26.25294117647059, Synset('refined.a.02'): 8}
+Synset('processed.s.01')
+as a data user i want to have the omission processed on 19 december 2017
+december
+Simple first filter...
+['data', 'user', 'want', 'omission', 'processed', 'december']
+['december']
+
+
+as a data user i want to have the omission processed on 19 december 2017
+december
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'omiss', 'omission', 'skip', 'omission', 'omission', 'deletion', 'omission', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', 'decemb', 'December', 'Dec']
+['decemb', 'December', 'Dec']
+
+
+{Synset('december.n.01'): 4.961538461538462}
+Synset('december.n.01')
+{'data': [Synset('data.n.01'), Synset('datum.n.01')], 'user': [Synset('user.n.01'), Synset('exploiter.n.01'), Synset('drug_user.n.01')], 'want': [Synset('want.v.02'), Synset('privation.n.01'), Synset('lack.n.01'), Synset('need.n.02'), Synset('wish.n.01'), Synset('desire.v.01')], 'deletions': [Synset('omission.n.03')], 'processed': [Synset('processed.s.01'), Synset('action.v.01'), Synset('march.v.01'), Synset('work.v.05'), Synset('serve.v.11'), Synset('refined.a.02')]}
+as a data user i want to have the deletions processed from 12-19-2017
+data
+Simple first filter...
+['data', 'user', 'want', 'deletion', 'processed', '12-19-2017']
+['data']
+
+
+as a data user i want to have the deletions processed from 12-19-2017
+data
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['data', 'data', 'information', 'datum', 'data_point']
+
+
+as a data user i want to have the deletions processed from 12-19-2017
+datum
+Simple first filter...
+['data', 'user', 'want', 'deletion', 'processed', '12-19-2017']
+['datum']
+
+
+as a data user i want to have the deletions processed from 12-19-2017
+datum
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['datum', 'datum', 'data_point']
+
+
+{Synset('data.n.01'): 8.68951048951049, Synset('datum.n.01'): 3.9978354978354975}
+Synset('data.n.01')
+as a data user i want to have the deletions processed from 12-19-2017
+user
+Simple first filter...
+['data', 'user', 'want', 'deletion', 'processed', '12-19-2017']
+['user']
+
+
+as a data user i want to have the deletions processed from 12-19-2017
+user
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user']
+
+
+as a data user i want to have the deletions processed from 12-19-2017
+exploiter
+Simple first filter...
+['data', 'user', 'want', 'deletion', 'processed', '12-19-2017']
+['exploiter']
+
+
+as a data user i want to have the deletions processed from 12-19-2017
+exploiter
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['exploit', 'exploiter', 'user']
+
+
+as a data user i want to have the deletions processed from 12-19-2017
+drug_user
+Simple first filter...
+['data', 'user', 'want', 'deletion', 'processed', '12-19-2017']
+['drug_user']
+
+
+as a data user i want to have the deletions processed from 12-19-2017
+drug_user
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['drug_us', 'drug_user', 'substance_abuser', 'user']
+
+
+{Synset('user.n.01'): 20.467482517482516, Synset('exploiter.n.01'): 6.196139386928861, Synset('drug_user.n.01'): 7.467482517482518}
+Synset('user.n.01')
+as a data user i want to have the deletions processed from 12-19-2017
+want
+Simple first filter...
+['data', 'user', 'want', 'deletion', 'processed', '12-19-2017']
+['want']
+
+
+as a data user i want to have the deletions processed from 12-19-2017
+want
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want']
+
+
+as a data user i want to have the deletions processed from 12-19-2017
+privation
+Simple first filter...
+['data', 'user', 'want', 'deletion', 'processed', '12-19-2017']
+['privation']
+
+
+as a data user i want to have the deletions processed from 12-19-2017
+privation
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['privat', 'privation', 'want', 'deprivation', 'neediness', 'privation', 'deprivation']
+
+
+as a data user i want to have the deletions processed from 12-19-2017
+lack
+Simple first filter...
+['data', 'user', 'want', 'deletion', 'processed', '12-19-2017']
+['lack']
+
+
+as a data user i want to have the deletions processed from 12-19-2017
+lack
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['lack', 'lack', 'deficiency', 'want', 'miss', 'lack']
+
+
+as a data user i want to have the deletions processed from 12-19-2017
+need
+Simple first filter...
+['data', 'user', 'want', 'deletion', 'processed', '12-19-2017']
+['need']
+
+
+as a data user i want to have the deletions processed from 12-19-2017
+need
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['need', 'need', 'demand', 'need', 'want', 'motivation', 'motive', 'need', 'indigence', 'need', 'penury', 'pauperism', 'pauperization', 'necessitate', 'ask', 'postulate', 'need', 'require', 'take', 'involve', 'call_for', 'demand', 'want', 'need', 'require', 'need']
+
+
+as a data user i want to have the deletions processed from 12-19-2017
+wish
+Simple first filter...
+['data', 'user', 'want', 'deletion', 'processed', '12-19-2017']
+['wish']
+
+
+as a data user i want to have the deletions processed from 12-19-2017
+wish
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['wish', 'wish', 'wishing', 'want', 'wish', 'indirect_request', 'regard', 'wish', 'compliments', 'wish', 'wish', 'wish', 'care', 'like', 'wish', 'wish', 'wish_well', 'wish', 'wish', 'bid']
+
+
+as a data user i want to have the deletions processed from 12-19-2017
+desire
+Simple first filter...
+['data', 'user', 'want', 'deletion', 'processed', '12-19-2017']
+['desire']
+
+
+as a data user i want to have the deletions processed from 12-19-2017
+desire
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['desir', 'desire', 'desire', 'desire', 'desire', 'want', 'hope', 'trust', 'desire', 'desire']
+
+
+{Synset('want.v.02'): 114.6043956043956, Synset('privation.n.01'): 16.604395604395606, Synset('lack.n.01'): 15.320512820512821, Synset('need.n.02'): 39.426406926406926, Synset('wish.n.01'): 23.18717948717949, Synset('desire.v.01'): 17.283549783549784}
+Synset('want.v.02')
+as a data user i want to have the deletions processed from 12-19-2017
+omission
+Simple first filter...
+['data', 'user', 'want', 'deletion', 'processed', '12-19-2017']
+['omission']
+
+
+as a data user i want to have the deletions processed from 12-19-2017
+omission
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['omiss', 'omission', 'skip', 'omission', 'omission', 'deletion', 'omission']
+
+
+{Synset('omission.n.03'): 8.854395604395604}
+Synset('omission.n.03')
+as a data user i want to have the omission processed from 12-19-2017
+processed
+Simple first filter...
+['data', 'user', 'want', 'omission', 'processed', '12-19-2017']
+['processed']
+
+
+as a data user i want to have the omission processed from 12-19-2017
+processed
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'omiss', 'omission', 'skip', 'omission', 'omission', 'deletion', 'omission', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed']
+
+
+as a data user i want to have the omission processed from 12-19-2017
+action
+Simple first filter...
+['data', 'user', 'want', 'omission', 'processed', '12-19-2017']
+['action']
+
+
+as a data user i want to have the omission processed from 12-19-2017
+action
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'omiss', 'omission', 'skip', 'omission', 'omission', 'deletion', 'omission', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['action', 'action', 'action', 'activity', 'activeness', 'military_action', 'action', 'natural_process', 'natural_action', 'action', 'activity', 'action', 'action', 'action', 'action_mechanism', 'legal_action', 'action', 'action_at_law', 'action', 'action', 'action', 'sue', 'litigate', 'process', 'carry_through', 'accomplish', 'execute', 'carry_out', 'action', 'fulfill', 'fulfil']
+
+
+as a data user i want to have the omission processed from 12-19-2017
+march
+Simple first filter...
+['data', 'user', 'want', 'omission', 'processed', '12-19-2017']
+['march']
+
+
+as a data user i want to have the omission processed from 12-19-2017
+march
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'omiss', 'omission', 'skip', 'omission', 'omission', 'deletion', 'omission', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['march', 'March', 'Mar', 'march', 'marching', 'march', 'march', 'borderland', 'border_district', 'march', 'marchland', 'marching_music', 'march', 'Master_of_Architecture', 'MArch', 'march', 'process', 'march', 'march', 'demonstrate', 'march', 'parade', 'exhibit', 'march', 'march', 'border', 'adjoin', 'edge', 'abut', 'march', 'butt', 'butt_against', 'butt_on']
+
+
+as a data user i want to have the omission processed from 12-19-2017
+work
+Simple first filter...
+['data', 'user', 'want', 'omission', 'processed', '12-19-2017']
+['work']
+
+
+as a data user i want to have the omission processed from 12-19-2017
+work
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'omiss', 'omission', 'skip', 'omission', 'omission', 'deletion', 'omission', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['work', 'work', 'work', 'piece_of_work', 'employment', 'work', 'study', 'work', 'work', 'workplace', 'work', 'oeuvre', 'work', 'body_of_work', 'work', 'work', 'do_work', 'work', 'act', 'function', 'work', 'operate', 'go', 'run', 'work', 'work_on', 'process', 'exercise', 'work', 'work_out', 'make', 'work', 'work', 'work', 'work', 'bring', 'work', 'play', 'wreak', 'make_for', 'work', 'put_to_work', 'cultivate', 'crop', 'work', 'work', 'influence', 'act_upon', 'work', 'work', 'work', 'work', 'work', 'shape', 'form', 'work', 'mold', 'mould', 'forge', 'work', 'knead', 'work', 'exploit', 'work', 'solve', 'work_out', 'figure_out', 'puzzle_out', 'lick', 'work', 'ferment', 'work', 'sour', 'turn', 'ferment', 'work', 'work']
+
+
+as a data user i want to have the omission processed from 12-19-2017
+serve
+Simple first filter...
+['data', 'user', 'want', 'omission', 'processed', '12-19-2017']
+['serve']
+
+
+as a data user i want to have the omission processed from 12-19-2017
+serve
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'omiss', 'omission', 'skip', 'omission', 'omission', 'deletion', 'omission', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['serv', 'serve', 'service', 'serve', 'function', 'serve', 'serve', 'service', 'serve', 'serve', 'help', 'serve', 'serve_up', 'dish_out', 'dish_up', 'dish', 'serve', 'serve', 'serve_well', 'serve', 'do', 'serve', 'attend_to', 'wait_on', 'attend', 'assist', 'serve', 'process', 'swear_out', 'suffice', 'do', 'answer', 'serve', 'serve', 'serve', 'service', 'serve']
+
+
+as a data user i want to have the omission processed from 12-19-2017
+refined
+Simple first filter...
+['data', 'user', 'want', 'omission', 'processed', '12-19-2017']
+['refined']
+
+
+as a data user i want to have the omission processed from 12-19-2017
+refined
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'omiss', 'omission', 'skip', 'omission', 'omission', 'deletion', 'omission', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['refin', 'polish', 'refine', 'fine-tune', 'down', 'complicate', 'refine', 'rarify', 'elaborate', 'refine', 'refine', 'rectify', 'refine', 'refine', 'refined', 'refined', 'processed', 'polished', 'refined', 'svelte', 'urbane', 'elegant', 'graceful', 'refined', 'neat', 'refined', 'tasteful']
+
+
+{Synset('processed.s.01'): 83, Synset('action.v.01'): 24.545454545454547, Synset('march.v.01'): 21.96153846153846, Synset('work.v.05'): 45.43333333333333, Synset('serve.v.11'): 26.05294117647059, Synset('refined.a.02'): 8}
+Synset('processed.s.01')
+{'data': [Synset('data.n.01'), Synset('datum.n.01')], 'user': [Synset('user.n.01'), Synset('exploiter.n.01'), Synset('drug_user.n.01')], 'want': [Synset('want.v.02'), Synset('privation.n.01'), Synset('lack.n.01'), Synset('need.n.02'), Synset('wish.n.01'), Synset('desire.v.01')], 'deletions': [Synset('omission.n.03')], 'processed': [Synset('processed.s.01'), Synset('action.v.01'), Synset('march.v.01'), Synset('work.v.05'), Synset('serve.v.11'), Synset('refined.a.02')]}
+as a data user i want to have the deletions processed on 12-19-2017
+data
+Simple first filter...
+['data', 'user', 'want', 'deletion', 'processed', '12-19-2017']
+['data']
+
+
+as a data user i want to have the deletions processed on 12-19-2017
+data
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['data', 'data', 'information', 'datum', 'data_point']
+
+
+as a data user i want to have the deletions processed on 12-19-2017
+datum
+Simple first filter...
+['data', 'user', 'want', 'deletion', 'processed', '12-19-2017']
+['datum']
+
+
+as a data user i want to have the deletions processed on 12-19-2017
+datum
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['datum', 'datum', 'data_point']
+
+
+{Synset('data.n.01'): 8.68951048951049, Synset('datum.n.01'): 3.9978354978354975}
+Synset('data.n.01')
+as a data user i want to have the deletions processed on 12-19-2017
+user
+Simple first filter...
+['data', 'user', 'want', 'deletion', 'processed', '12-19-2017']
+['user']
+
+
+as a data user i want to have the deletions processed on 12-19-2017
+user
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user']
+
+
+as a data user i want to have the deletions processed on 12-19-2017
+exploiter
+Simple first filter...
+['data', 'user', 'want', 'deletion', 'processed', '12-19-2017']
+['exploiter']
+
+
+as a data user i want to have the deletions processed on 12-19-2017
+exploiter
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['exploit', 'exploiter', 'user']
+
+
+as a data user i want to have the deletions processed on 12-19-2017
+drug_user
+Simple first filter...
+['data', 'user', 'want', 'deletion', 'processed', '12-19-2017']
+['drug_user']
+
+
+as a data user i want to have the deletions processed on 12-19-2017
+drug_user
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['drug_us', 'drug_user', 'substance_abuser', 'user']
+
+
+{Synset('user.n.01'): 20.467482517482516, Synset('exploiter.n.01'): 6.196139386928861, Synset('drug_user.n.01'): 7.467482517482518}
+Synset('user.n.01')
+as a data user i want to have the deletions processed on 12-19-2017
+want
+Simple first filter...
+['data', 'user', 'want', 'deletion', 'processed', '12-19-2017']
+['want']
+
+
+as a data user i want to have the deletions processed on 12-19-2017
+want
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want']
+
+
+as a data user i want to have the deletions processed on 12-19-2017
+privation
+Simple first filter...
+['data', 'user', 'want', 'deletion', 'processed', '12-19-2017']
+['privation']
+
+
+as a data user i want to have the deletions processed on 12-19-2017
+privation
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['privat', 'privation', 'want', 'deprivation', 'neediness', 'privation', 'deprivation']
+
+
+as a data user i want to have the deletions processed on 12-19-2017
+lack
+Simple first filter...
+['data', 'user', 'want', 'deletion', 'processed', '12-19-2017']
+['lack']
+
+
+as a data user i want to have the deletions processed on 12-19-2017
+lack
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['lack', 'lack', 'deficiency', 'want', 'miss', 'lack']
+
+
+as a data user i want to have the deletions processed on 12-19-2017
+need
+Simple first filter...
+['data', 'user', 'want', 'deletion', 'processed', '12-19-2017']
+['need']
+
+
+as a data user i want to have the deletions processed on 12-19-2017
+need
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['need', 'need', 'demand', 'need', 'want', 'motivation', 'motive', 'need', 'indigence', 'need', 'penury', 'pauperism', 'pauperization', 'necessitate', 'ask', 'postulate', 'need', 'require', 'take', 'involve', 'call_for', 'demand', 'want', 'need', 'require', 'need']
+
+
+as a data user i want to have the deletions processed on 12-19-2017
+wish
+Simple first filter...
+['data', 'user', 'want', 'deletion', 'processed', '12-19-2017']
+['wish']
+
+
+as a data user i want to have the deletions processed on 12-19-2017
+wish
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['wish', 'wish', 'wishing', 'want', 'wish', 'indirect_request', 'regard', 'wish', 'compliments', 'wish', 'wish', 'wish', 'care', 'like', 'wish', 'wish', 'wish_well', 'wish', 'wish', 'bid']
+
+
+as a data user i want to have the deletions processed on 12-19-2017
+desire
+Simple first filter...
+['data', 'user', 'want', 'deletion', 'processed', '12-19-2017']
+['desire']
+
+
+as a data user i want to have the deletions processed on 12-19-2017
+desire
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['desir', 'desire', 'desire', 'desire', 'desire', 'want', 'hope', 'trust', 'desire', 'desire']
+
+
+{Synset('want.v.02'): 114.6043956043956, Synset('privation.n.01'): 16.604395604395606, Synset('lack.n.01'): 15.320512820512821, Synset('need.n.02'): 39.426406926406926, Synset('wish.n.01'): 23.18717948717949, Synset('desire.v.01'): 17.283549783549784}
+Synset('want.v.02')
+as a data user i want to have the deletions processed on 12-19-2017
+omission
+Simple first filter...
+['data', 'user', 'want', 'deletion', 'processed', '12-19-2017']
+['omission']
+
+
+as a data user i want to have the deletions processed on 12-19-2017
+omission
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'delet', 'omission', 'deletion', 'deletion', 'deletion', 'excision', 'cut', 'deletion', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['omiss', 'omission', 'skip', 'omission', 'omission', 'deletion', 'omission']
+
+
+{Synset('omission.n.03'): 8.854395604395604}
+Synset('omission.n.03')
+as a data user i want to have the omission processed on 12-19-2017
+processed
+Simple first filter...
+['data', 'user', 'want', 'omission', 'processed', '12-19-2017']
+['processed']
+
+
+as a data user i want to have the omission processed on 12-19-2017
+processed
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'omiss', 'omission', 'skip', 'omission', 'omission', 'deletion', 'omission', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed']
+
+
+as a data user i want to have the omission processed on 12-19-2017
+action
+Simple first filter...
+['data', 'user', 'want', 'omission', 'processed', '12-19-2017']
+['action']
+
+
+as a data user i want to have the omission processed on 12-19-2017
+action
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'omiss', 'omission', 'skip', 'omission', 'omission', 'deletion', 'omission', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['action', 'action', 'action', 'activity', 'activeness', 'military_action', 'action', 'natural_process', 'natural_action', 'action', 'activity', 'action', 'action', 'action', 'action_mechanism', 'legal_action', 'action', 'action_at_law', 'action', 'action', 'action', 'sue', 'litigate', 'process', 'carry_through', 'accomplish', 'execute', 'carry_out', 'action', 'fulfill', 'fulfil']
+
+
+as a data user i want to have the omission processed on 12-19-2017
+march
+Simple first filter...
+['data', 'user', 'want', 'omission', 'processed', '12-19-2017']
+['march']
+
+
+as a data user i want to have the omission processed on 12-19-2017
+march
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'omiss', 'omission', 'skip', 'omission', 'omission', 'deletion', 'omission', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['march', 'March', 'Mar', 'march', 'marching', 'march', 'march', 'borderland', 'border_district', 'march', 'marchland', 'marching_music', 'march', 'Master_of_Architecture', 'MArch', 'march', 'process', 'march', 'march', 'demonstrate', 'march', 'parade', 'exhibit', 'march', 'march', 'border', 'adjoin', 'edge', 'abut', 'march', 'butt', 'butt_against', 'butt_on']
+
+
+as a data user i want to have the omission processed on 12-19-2017
+work
+Simple first filter...
+['data', 'user', 'want', 'omission', 'processed', '12-19-2017']
+['work']
+
+
+as a data user i want to have the omission processed on 12-19-2017
+work
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'omiss', 'omission', 'skip', 'omission', 'omission', 'deletion', 'omission', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['work', 'work', 'work', 'piece_of_work', 'employment', 'work', 'study', 'work', 'work', 'workplace', 'work', 'oeuvre', 'work', 'body_of_work', 'work', 'work', 'do_work', 'work', 'act', 'function', 'work', 'operate', 'go', 'run', 'work', 'work_on', 'process', 'exercise', 'work', 'work_out', 'make', 'work', 'work', 'work', 'work', 'bring', 'work', 'play', 'wreak', 'make_for', 'work', 'put_to_work', 'cultivate', 'crop', 'work', 'work', 'influence', 'act_upon', 'work', 'work', 'work', 'work', 'work', 'shape', 'form', 'work', 'mold', 'mould', 'forge', 'work', 'knead', 'work', 'exploit', 'work', 'solve', 'work_out', 'figure_out', 'puzzle_out', 'lick', 'work', 'ferment', 'work', 'sour', 'turn', 'ferment', 'work', 'work']
+
+
+as a data user i want to have the omission processed on 12-19-2017
+serve
+Simple first filter...
+['data', 'user', 'want', 'omission', 'processed', '12-19-2017']
+['serve']
+
+
+as a data user i want to have the omission processed on 12-19-2017
+serve
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'omiss', 'omission', 'skip', 'omission', 'omission', 'deletion', 'omission', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['serv', 'serve', 'service', 'serve', 'function', 'serve', 'serve', 'service', 'serve', 'serve', 'help', 'serve', 'serve_up', 'dish_out', 'dish_up', 'dish', 'serve', 'serve', 'serve_well', 'serve', 'do', 'serve', 'attend_to', 'wait_on', 'attend', 'assist', 'serve', 'process', 'swear_out', 'suffice', 'do', 'answer', 'serve', 'serve', 'serve', 'service', 'serve']
+
+
+as a data user i want to have the omission processed on 12-19-2017
+refined
+Simple first filter...
+['data', 'user', 'want', 'omission', 'processed', '12-19-2017']
+['refined']
+
+
+as a data user i want to have the omission processed on 12-19-2017
+refined
+Second filter...
+['data', 'data', 'information', 'datum', 'data_point', 'user', 'user', 'exploiter', 'user', 'drug_user', 'substance_abuser', 'user', 'want', 'privation', 'want', 'deprivation', 'neediness', 'lack', 'deficiency', 'want', 'need', 'want', 'wish', 'wishing', 'want', 'desire', 'want', 'want', 'need', 'require', 'want', 'want', 'want', 'omiss', 'omission', 'skip', 'omission', 'omission', 'deletion', 'omission', 'process', 'process', 'treat', 'process', 'process', 'action', 'sue', 'litigate', 'process', 'march', 'process', 'work', 'work_on', 'process', 'serve', 'process', 'swear_out', 'processed', 'refined', 'processed', 'processed', '12-19-2017']
+['refin', 'polish', 'refine', 'fine-tune', 'down', 'complicate', 'refine', 'rarify', 'elaborate', 'refine', 'refine', 'rectify', 'refine', 'refine', 'refined', 'refined', 'processed', 'polished', 'refined', 'svelte', 'urbane', 'elegant', 'graceful', 'refined', 'neat', 'refined', 'tasteful']
+
+
+{Synset('processed.s.01'): 83, Synset('action.v.01'): 24.545454545454547, Synset('march.v.01'): 21.96153846153846, Synset('work.v.05'): 45.43333333333333, Synset('serve.v.11'): 26.05294117647059, Synset('refined.a.02'): 8}
+Synset('processed.s.01')
+Traceback (most recent call last):
+  File "/home/isabella/PycharmProjects/req_paraphrases/best_synonym_wsd.py", line 114, in <module>
+    j = j + 1
+TypeError: can only concatenate str (not "int") to str
+
+Process finished with exit code 1
