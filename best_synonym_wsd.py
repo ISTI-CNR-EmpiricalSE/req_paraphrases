@@ -32,7 +32,7 @@ def filteredSentence(sentence, token_text):
     words = word_tokenize(sentence)
 
     for w in words:
-        if w.lower() not in stpwrd and not w.isnumeric() and w != token_text:
+        if w.lower() not in stpwrd and not w.isnumeric():  # and w != token_text: # uncomment to not eto
             filtered_sent.append(lemmatizer.lemmatize(ps.stem(w)))
             for i in synonymsCreator(w):
                 filtered_sent.append(i)
@@ -81,7 +81,7 @@ def simpleFilter(sentence, token_text):
     words = word_tokenize(sentence)
 
     for w in words:
-        if w.lower() not in stpwrd and not w.isnumeric() and w != token_text:
+        if w.lower() not in stpwrd and not w.isnumeric():  # and w != token_text: # uncomment to not eto
             filtered_sent.append(lemmatizer.lemmatize(w))
             # for i in synonymsCreator(w):
             # 	filtered_sent.append(i)
@@ -96,10 +96,13 @@ for data_set_index in range(1, 2):
     tic1 = time.perf_counter()  # time for single file
 
     input_file = open("results/data_set_" + str(data_set_index) + "/results_1.txt", "r")
-    dir = "results/data_set_" + str(data_set_index) + "/best_syn_outputs_wsd_not_eto"
+    # not eto
+    # dir = "results/data_set_" + str(data_set_index) + "/best_syn_outputs_wsd_not_eto"
+    # eto
+    dir = "results/data_set_" + str(data_set_index) + "/best_syn_outputs_wsd"
     if not os.path.exists(dir):
         os.makedirs(dir)
-    output_file = open("results/data_set_" + str(data_set_index) + "/best_syn_outputs_wsd_not_eto/results_" + str(data_set_index) + "_best_syn_wsd_" + str(file_index) + ".txt", "w")
+    output_file = open(dir + "/results_" + str(data_set_index) + "_best_syn_wsd_" + str(file_index) + ".txt", "w")
     file_index = file_index + 1
     output_file.write("data_set_number:" + str(data_set_index) + "\n")
     output_file.write("\n")
@@ -173,8 +176,9 @@ for data_set_index in range(1, 2):
                 # for each token i have a dictionary to save the scoring of each of his synonym
                 # scoring is similarity calculated summing single similarities of the synonym
                 # with all (not his original) the synsets of other words
-                if synsets:
-                    synsets.pop(0)  # comment this to compare the eto, uncomment to not compare
+                # uncomment to not eto
+                # if synsets:
+                    # synsets.pop(0)
                 scoring_dict = {}
                 for synset in synsets:
                     scoring = 0

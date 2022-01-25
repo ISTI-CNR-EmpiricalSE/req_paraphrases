@@ -15,3 +15,73 @@ as a data user i want to have the omission processed from 12-19-2017
 1.6) Input phrase: as a data user i want to have the deletions processed on 12-19-2017
 as a data user i want to have the omission processed on 12-19-2017
 2.0) Input phrase: As a UI designer, I want to redesign the Resources page, so that it matches the new Broker design styles.
+As a UI designer, I want to redesign the Resources page, so that it equal the new broker design styles.
+2.1) Input phrase: i would like to redesign the resources page as a ui designer so that it matches the new broker design styles
+i would like to redesign the resources page as a ui designer so that it equal the new broker design styles
+2.2) Input phrase: the resources page should be redesigned as a ui designer so that it matches the new broker design styles
+the resources page should be redesigned as a ui designer so that it equal the new broker design styles
+2.3) Input phrase: i would like to redesign the resources page so that it matches the new broker design styles
+i would like to redesign the resources page so that it equal the new broker design styles
+2.4) Input phrase: as a ui designer i want to redesign the resources page so it matches the new broker design styles
+as a ui designer i want to redesign the resources page so it equal the new broker design styles
+2.5) Input phrase: as a ui designer i want to redesign the resources page so that it matches the new broker design style
+as a ui designer i want to redesign the resources page so that it equal the new broker design style
+2.6) Input phrase: as a ui designer i want to redesign the resources page so that it matches the new broker design styles 
+as a ui designer i want to redesign the resources page so that it equal the new broker design dash 
+2.7) Input phrase: as a ui designer i want to redesign the resources page so that it matches the new broker design styles
+as a ui designer i want to redesign the resources page so that it equal the new broker design styles
+3.0) Input phrase: As a UI designer, I want to report to the Agencies about user testing, so that they are aware of their contributions to making Broker a better UX.
+As a UI designer, I want to report to the agency about user test, so that they are aware of their contributions to make broker a better UX.
+3.1) Input phrase: as a ui designer i want to report to the agencies about user testing so that they are aware of their contributions to making broker a better ux experience
+as a ui designer i want to report to the agency about user test so that they are aware of their contributions to make broker a better ux experience
+3.2) Input phrase: as a ui designer i want to report to the agencies about user testing so they are aware of their contributions to making broker a better ux
+as a ui designer i want to report to the agency about user test so they are aware of their contributions to make broker a better ux
+3.3) Input phrase: as a ui designer i want to report to the agencies about user testing so that they are aware of their contributions to make broker a better ux
+as a ui designer i want to report to the agency about user test so that they are aware of their contributions to make broker a better ux
+3.4) Input phrase: as a ui designer i want to report to the agencies about user testing so that they are aware of their contributions to making broker a better ux 
+as a ui designer i want to report to the agency about user test so that they are aware of their contributions to make broker a better ux 
+3.5) Input phrase: as a ui designer i want to report to the agencies about user testing so that they are aware of their contributions to making broker a better ux
+as a ui designer i want to report to the agency about user test so that they are aware of their contributions to make broker a better ux
+4.0) Input phrase: As a UI designer, I want to move on to round 2 of DABS or FABS landing page edits, so that I can get approvals from leadership.
+As a UI designer, I want to move on to round 2 of tap or FABS land page edits, so that I can get blessing from leadership.
+4.1) Input phrase: i would like to move on to round 2 of dabs or fabs landing page edits so that i can get approvals from the management
+i would like to move on to round 2 of tap or fabs land page edits so that i can get blessing from the management
+4.2) Input phrase: i'd like to move onto round 2 of dabs or fabs landing page edits so i can get approval from leadership
+i'd like to move onto round 2 of tap or fabs land page edits so i can get approval from leadership
+4.3) Input phrase: i'd like to move onto round 2 of dabs or fabs landing page edits so i can get approvals from leadership
+i'd like to move onto round 2 of tap or fabs land page edits so i can get blessing from leadership
+4.4) Input phrase: i would like to move on to round 2 of dabs or fabs landing page edits so i can get approvals from leadership
+i would like to move on to round 2 of tap or fabs land page edits so i can get blessing from leadership
+4.5) Input phrase: i would like to move on to round 2 of dabs or fabs landing page edits so that i can get approvals from the leadership i
+i would like to move on to round 2 of tap or fabs land page edits so that i can get blessing from the leadership i
+4.6) Input phrase: i would like to move on to round 2 of dabs or fabs landing page edits so that i can get approvals from the leadership
+i would like to move on to round 2 of tap or fabs land page edits so that i can get blessing from the leadership
+4.7) Input phrase: i'd like to move onto round 2 of dabs or fabs landing page edits so that i can get approvals from leadership
+i'd like to move onto round 2 of tap or fabs land page edits so that i can get blessing from leadership
+4.8) Input phrase: i would like to move on to round 2 of dabs or fabs landing page edits so that i can get approvals from leadership i
+i would like to move on to round 2 of tap or fabs land page edits so that i can get blessing from leadership i
+4.9) Input phrase: i would like to move on to round 2 of dabs or fabs landing page edits so that i can get approvals from leadership
+i would like to move on to round 2 of tap or fabs land page edits so that i can get blessing from leadership
+5.0) Input phrase: As a UI designer, I want to move on to round 2 of Homepage edits, so that I can get approvals from leadership.
+As a UI designer, I want to move on to round 2 of home_page edits, so that I can get blessing from leadership.
+5.1) Input phrase: as a ui designer i want to move on to round 2 of homepage edits so i can get approvals from the leadership team
+as a ui designer i want to move on to round 2 of home_page edits so i can get blessing from the leadership team
+5.2) Input phrase: as a ui designer i want to move on to round 2 of homepage edits so i can get approvals from the leadership
+as a ui designer i want to move on to round 2 of home_page edits so i can get blessing from the leadership
+5.3) Input phrase: if i'm a ui designer i want to move on to round 2 of homepage edits so i can get approvals from leadership
+if i'm a ui designer i want to move on to round 2 of home_page edits so i can get blessing from leadership
+5.4) Input phrase: as a ui designer i want to move on to round 2 of homepage edits so that i can get approvals from leadership i have
+as a ui designer i want to move on to round 2 of home_page edits so that i can get blessing from leadership i have
+5.5) Input phrase: as a ui designer i want to move on to round 2 of homepage edits so i can get approvals from leadership
+as a ui designer i want to move on to round 2 of home_page edits so i can get blessing from leadership
+5.6) Input phrase: as a ui designer i want to move on to round 2 of homepage edits so that i can get approvals from leadership i
+as a ui designer i want to move on to round 2 of home_page edits so that i can get blessing from leadership i
+5.7) Input phrase: as a ui designer i want to move on to round 2 of homepage edits so that i can get approvals from leadership
+as a ui designer i want to move on to round 2 of home_page edits so that i can get blessing from leadership
+6.0) Input phrase: As a UI designer, I want to move on to round 3 of the Help page edits, so that I can get approvals from leadership.
+As a UI designer, I want to move on to round 3 of the help page edits, so that I can get blessing from leadership.
+6.1) Input phrase: i want to move on to round 3 of the help page edits so i can get approval from the leadership
+i want to move on to round 3 of the help page edits so i can get approval from the leadership
+6.2) Input phrase: i want to move on to round 3 of help page edits so i can get approval from leadership
+i want to move on to round 3 of help page edits so i can get approval from leadership
+6.3) Input phrase: i want to move on to round 3 of the help page edits so i can get approval from leadership
