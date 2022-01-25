@@ -69,31 +69,3 @@ as a ui architect i need to go on to beat 2 of homepage edits so i can perplex a
 5.2) Input phrase: as a ui designer i want to move on to round 2 of homepage edits so i can get approvals from the leadership
 as a ui architect i need to go on to beat 2 of homepage edits so i can perplex approvals from the leadership
 5.3) Input phrase: if i'm a ui designer i want to move on to round 2 of homepage edits so i can get approvals from leadership
-if i'm a ui architect i need to go on to beat 2 of homepage edits so i can perplex approvals from leadership
-5.4) Input phrase: as a ui designer i want to move on to round 2 of homepage edits so that i can get approvals from leadership i have
-as a ui architect i need to go on to beat 2 of homepage edits so that i can perplex approvals from leadership i have
-5.5) Input phrase: as a ui designer i want to move on to round 2 of homepage edits so i can get approvals from leadership
-as a ui architect i need to go on to beat 2 of homepage edits so i can perplex approvals from leadership
-5.6) Input phrase: as a ui designer i want to move on to round 2 of homepage edits so that i can get approvals from leadership i
-as a ui architect i need to go on to beat 2 of homepage edits so that i can perplex approvals from leadership i
-5.7) Input phrase: as a ui designer i want to move on to round 2 of homepage edits so that i can get approvals from leadership
-as a ui architect i need to go on to beat 2 of homepage edits so that i can perplex approvals from leadership
-6.0) Input phrase: As a UI designer, I want to move on to round 3 of the Help page edits, so that I can get approvals from leadership.
-As a UI architect, I need to go on to beat 3 of the serve page edits, so that I can perplex approvals from leadership.
-6.1) Input phrase: i want to move on to round 3 of the help page edits so i can get approval from the leadership
-i need to go on to beat 3 of the serve page edits so i can perplex blessing from the leadership
-6.2) Input phrase: i want to move on to round 3 of help page edits so i can get approval from leadership
-i need to go on to beat 3 of serve page edits so i can perplex blessing from leadership
-6.3) Input phrase: i want to move on to round 3 of the help page edits so i can get approval from leadership
-i need to go on to beat 3 of the serve page edits so i can perplex blessing from leadership
-6.4) Input phrase: i want to move on to round 3 of the help page edits so that i can get approval from the leadership
-i need to go on to beat 3 of the serve page edits so that i can perplex blessing from the leadership
-6.5) Input phrase: i want to move on to round 3 of the help page edits so that i can get approvals from the leadership
-i need to go on to beat 3 of the serve page edits so that i can perplex approvals from the leadership
-6.6) Input phrase: i want to move on to round 3 of the help page edits so that i can get approval from leadership
-i need to go on to beat 3 of the serve page edits so that i can perplex blessing from leadership
-6.7) Input phrase: i want to move on to round 3 of the help page edits so that i can get approvals from leadership
-i need to go on to beat 3 of the serve page edits so that i can perplex approvals from leadership
-6.8) Input phrase: as a ui designer i want to move on to round 3 of help page edits so i can get approvals from leadership
-as a ui architect i need to go on to beat 3 of serve page edits so i can perplex approvals from leadership
-6.9) Input phrase: as a ui designer i want to move on to round 3 of the help page edits so i can get approval from leadership

@@ -34,7 +34,8 @@ def filteredSentence(sentence, token_text):
     words = word_tokenize(sentence)
 
     for w in words:
-        if w.lower() not in stpwrd and not w.isnumeric():  # and w != token_text: # uncomment to not eto
+        # I compare the synonym of a word with all other words (not the word of whom it is synonym)
+        if w.lower() not in stpwrd and not w.isnumeric() and w.lower() != token_text:
             filtered_sent.append(lemmatizer.lemmatize(ps.stem(w)))
             for i in synonymsCreator(w):
                 filtered_sent.append(i)
@@ -83,7 +84,8 @@ def simpleFilter(sentence, token_text):
     words = word_tokenize(sentence)
 
     for w in words:
-        if w.lower() not in stpwrd and not w.isnumeric():  # and w != token_text: # uncomment to not eto
+        # I compare the synonym of a word with all other words (not the word of whom it is synonym)
+        if w.lower() not in stpwrd and not w.isnumeric() and w.lower() != token_text:
             filtered_sent.append(lemmatizer.lemmatize(w))
             # for i in synonymsCreator(w):
             # 	filtered_sent.append(i)
@@ -199,8 +201,8 @@ for data_set_index in range(1, 2):
 
                     print(sent)
                     print(syn)
-                    filtered_sent = simpleFilter(sent, token.text)
-                    filtered_syn = simpleFilter(syn, token.text)  # nonostante sia uno solo è una lista, quindi poi fai for
+                    filtered_sent = simpleFilter(sent, token.text.lower())
+                    filtered_syn = simpleFilter(syn, "")  # nonostante sia uno solo è una lista, quindi poi fai for
                     print("Simple first filter...")
                     print(filtered_sent)
                     print(filtered_syn)
@@ -220,8 +222,8 @@ for data_set_index in range(1, 2):
 
                     print(sent)
                     print(syn)
-                    filtered_sent = filteredSentence(sent, token.text)
-                    filtered_syn = filteredSentence(syn, token.text)  # nonostante sia uno solo è una lista, quindi poi fai for
+                    filtered_sent = filteredSentence(sent, token.text.lower())
+                    filtered_syn = filteredSentence(syn, "")  # nonostante sia uno solo è una lista, quindi poi fai for
                     print("Second filter...")
                     print(filtered_sent)
                     print(filtered_syn)

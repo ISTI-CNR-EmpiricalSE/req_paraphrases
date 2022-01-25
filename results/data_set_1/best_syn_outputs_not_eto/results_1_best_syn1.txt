@@ -3,7 +3,7 @@ similarity:path
 simulate_root:True
 
 1.0) Input phrase: As a Data user, I want to have the 12-19-2017 deletions processed.
-As a datum user, I desire to have the 12-19-2017 deletions processed.
+As a datum user, I desire to have the 12-19-2017 deletions processed.    c'è user e non drug user solo per la virgola dopo user, ma problema risolto
 1.1) Input phrase: as user i want to have the deletions processed on 19 december 2017
 as drug_user i desire to have the deletions march on 19 december 2017
 1.2) Input phrase: as user i want to have the deletions processed from 12-19-2017

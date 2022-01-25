@@ -27,10 +27,10 @@ for data_set_index in range(1, 2):
             tic1 = time.perf_counter()  # time for single file
 
             input_file = open("results/data_set_" + str(data_set_index) + "/results_1.txt", "r")
-            dir = "results/data_set_" + str(data_set_index) + "/best_syn_outputs_not_eto"
+            dir = "results/data_set_" + str(data_set_index) + "/best_syn_outputs"
             if not os.path.exists(dir):
                 os.makedirs(dir)
-            output_file = open("results/data_set_" + str(data_set_index) + "/best_syn_outputs_not_eto/results_" + str(data_set_index) + "_best_syn" + str(file_index) + ".txt", "w")
+            output_file = open(dir + "/results_" + str(data_set_index) + "_best_syn" + str(file_index) + ".txt", "w")
             file_index = file_index + 1
             output_file.write("data_set_number:" + str(data_set_index) + "\n")
             output_file.write("similarity:" + similarity + "\n")
@@ -98,14 +98,13 @@ for data_set_index in range(1, 2):
                         # for each token i have a dictionary to save the scoring of each of his synonym
                         # scoring is similarity calculated summing single similarities of the synonym
                         # with all (not his original) the synsets of other words
-                        if synsets:
-                            synsets.pop(0)  # comment this to compare the eto, uncomment to not compare
+                        # if synsets:
+                            # synsets.pop(0)  # comment this to compare the eto, uncomment to not compare
                         scoring_dict = {}
                         for synset in synsets:
                             scoring = 0
                             for compare_token in tokens:
                                 # i'm not comparing a synonym with the original word of him
-                                # because often in the synonyms there is also the original word, it is obvious that it would win
                                 if compare_token.text != token.text and compare_token.text.lower() not in stpwrd and not compare_token.text.isnumeric():
                                     compare_synsets = synset_dict[compare_token.text]
                                     if compare_synsets:
@@ -144,6 +143,8 @@ for data_set_index in range(1, 2):
                             # (example of wrong behaviour: if design substituted with plan -> redesign is substituted with replan)
                             if " " + token.text + " " in phrase:
                                 phrase = phrase.replace(" " + token.text + " ", " " + best_syn_name_final + " ")
+                            elif " " + token.text + "," in phrase:
+                                phrase = phrase.replace(" " + token.text + ",", " " + best_syn_name_final + ",")
                             elif " " + token.text + "\n" in phrase:
                                 phrase = phrase.replace(" " + token.text + "\n", " " + best_syn_name_final + "\n")
 
