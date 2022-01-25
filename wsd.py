@@ -1,3 +1,5 @@
+# A simple Word Sense Disambiguation application
+
 # This module is for word sense disambiguation.
 # Give 2 sentences with some data.
 # give a third sentence and the program will analyse which sentence you are relating to.

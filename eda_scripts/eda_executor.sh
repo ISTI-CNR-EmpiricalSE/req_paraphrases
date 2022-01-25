@@ -6,6 +6,8 @@
 # # warning: at least one parameter must be greater than
 cd ../eda_nlp-master/data
 
+# EDA
+
 # i = file_index
 # file format : ../../results/data_set_${i}/results_${i}_EDA_output_${na}_${sr}_${rd}_${ri}_${rs}.txt
 # best asset found = 9_0.1_0_0_0

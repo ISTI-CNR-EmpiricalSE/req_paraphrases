@@ -1,3 +1,5 @@
+# wordnet + mine
+
 import time
 import os
 import sys

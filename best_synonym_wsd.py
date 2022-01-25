@@ -1,3 +1,5 @@
+# A simple Word Sense Disambiguation application + mine
+
 import nltk
 import codecs
 from nltk.tokenize import PunktSentenceTokenizer

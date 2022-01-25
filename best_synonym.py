@@ -1,3 +1,5 @@
+# wordnet nltk (similarities) + mine
+
 import nltk
 import spacy
 from nltk.corpus import wordnet
