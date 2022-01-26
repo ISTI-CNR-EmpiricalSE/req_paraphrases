@@ -148,8 +148,8 @@ def wordnet_test_func():
                     print(syn_pos)
 
                     # we want that the synonym has the same pos that the one of the original
-                    # syns_dirty = wordnet.synsets(token_text, pos=syn_pos)
-                    syns_dirty = wordnet.synsets(token_text)
+                    syns_dirty = wordnet.synsets(token_text, pos=syn_pos)
+                    # syns_dirty = wordnet.synsets(token_text)
 
                     print(syns_dirty)
                     print("\n")
@@ -210,6 +210,9 @@ def wordnet_test_func():
             for phrase in phrases_list:
                 output_file.write(phrase)
                 output_file.write("\n")
+
+
+
 
 
 
