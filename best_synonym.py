@@ -94,7 +94,10 @@ for data_set_index in range(1, 2):
 
                 for token in tokens:
                     if token.text.lower() not in stpwrd and not token.text.isnumeric():
-                        synsets = synset_dict[token.text]
+                        # we don't want that modifying synsets leads to modify synset_dict[token.text]
+                        synsets = []
+                        for a in synset_dict[token.text]:
+                            synsets.append(a)
                         # for each token i have a dictionary to save the scoring of each of his synonym
                         # scoring is similarity calculated summing single similarities of the synonym
                         # with all (not his original) the synsets of other words
@@ -109,22 +112,29 @@ for data_set_index in range(1, 2):
                                     compare_synsets = synset_dict[compare_token.text]
                                     if compare_synsets:
                                         for compare_synset in compare_synsets:
-                                            print(synset)
-                                            print(compare_token.text)
-                                            print(compare_synset)
-                                            # with lch you need to have synset pos = compare_synset pos
-                                            if similarity == "path" and simulate_root is True:
-                                                sim = synset.path_similarity(compare_synset, simulate_root=True)
-                                            elif similarity == "path" and simulate_root is False:
-                                                sim = synset.path_similarity(compare_synset, simulate_root=False)
-                                            elif similarity == "wup" and simulate_root is True:
-                                                sim = synset.wup_similarity(compare_synset, simulate_root=True)
-                                            elif similarity == "wup" and simulate_root is False:
-                                                sim = synset.wup_similarity(compare_synset, simulate_root=False)
-                                            print(sim)
-                                            # it could not exists a path that connects, if you put simulate root true it always exists
-                                            if sim:
-                                                scoring = scoring + sim
+
+                                            # confronto solo il synset che equivale a token
+                                            compare_synset_name = compare_synset.name()
+                                            index = compare_synset_name.find(".")
+                                            compare_synset_name_final = compare_synset_name[:index]
+                                            if compare_synset_name_final.lower() == compare_token.text.lower():
+                                                print(synset)
+                                                print(compare_token.text)
+                                                print(compare_synset)
+                                                # with lch you need to have synset pos = compare_synset pos
+                                                if similarity == "path" and simulate_root is True:
+                                                    sim = synset.path_similarity(compare_synset, simulate_root=True)
+                                                elif similarity == "path" and simulate_root is False:
+                                                    sim = synset.path_similarity(compare_synset, simulate_root=False)
+                                                elif similarity == "wup" and simulate_root is True:
+                                                    sim = synset.wup_similarity(compare_synset, simulate_root=True)
+                                                elif similarity == "wup" and simulate_root is False:
+                                                    sim = synset.wup_similarity(compare_synset, simulate_root=False)
+                                                print(sim)
+                                                # it could not exists a path that connects, if you put simulate root true it always exists
+                                                if sim:
+                                                    scoring = scoring + sim
+
                             scoring_dict[synset] = scoring
                         print(scoring_dict)
                         # save the synonym with higher score
@@ -149,6 +159,8 @@ for data_set_index in range(1, 2):
                                 phrase = phrase.replace(" " + token.text + "\n", " " + best_syn_name_final + "\n")
 
                 output_file.write(phrase + "\n")
+
+
             output_file.write("\n")
             toc1 = time.perf_counter() # time for single file
             output_file.write(f"Time for single file = {toc1 - tic1:0.4f} seconds = {(toc1 - tic1) / 60:0.4f} "

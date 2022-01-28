@@ -1,0 +1,8 @@
+data_set_number:1
+similarity:path
+simulate_root:False
+
+1.0) Input phrase: As a Data user, I want to have the 12-19-2017 deletions processed.
+As a datum drug_user, I need to have the 12-19-2017 deletions processed.
+
+Time for single file = 0.0097 seconds = 0.0002 minutes = 0.0000 hours
