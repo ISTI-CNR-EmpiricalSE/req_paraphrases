@@ -34,8 +34,8 @@ def filteredSentence(sentence, token_text):
     words = word_tokenize(sentence)
 
     for w in words:
-        # I compare the synonym of a word with all other words (not the word of whom it is synonym)
-        if w.lower() not in stpwrd and not w.isnumeric() and w.lower() != token_text:
+        # if uncomment I compare the synonym of a word with all other words (not the word of whom it is synonym)
+        if w.lower() not in stpwrd and not w.isnumeric():  # and w.lower() != token_text:
             filtered_sent.append(lemmatizer.lemmatize(ps.stem(w)))
             for i in synonymsCreator(w):
                 filtered_sent.append(i)
@@ -84,8 +84,8 @@ def simpleFilter(sentence, token_text):
     words = word_tokenize(sentence)
 
     for w in words:
-        # I compare the synonym of a word with all other words (not the word of whom it is synonym)
-        if w.lower() not in stpwrd and not w.isnumeric() and w.lower() != token_text:
+        # if uncomment I compare the synonym of a word with all other words (not the word of whom it is synonym)
+        if w.lower() not in stpwrd and not w.isnumeric():  # and w.lower() != token_text:
             filtered_sent.append(lemmatizer.lemmatize(w))
             # for i in synonymsCreator(w):
             # 	filtered_sent.append(i)
@@ -94,7 +94,7 @@ def simpleFilter(sentence, token_text):
 
 tic0 = time.perf_counter()  # time for all datasets
 
-for data_set_index in range(1, 2):
+for data_set_index in [1, 24]:
     file_index = 1
 
     tic1 = time.perf_counter()  # time for single file
@@ -189,28 +189,30 @@ for data_set_index in range(1, 2):
                     syn_name = synset.name()
                     index = syn_name.find(".")
                     syn = syn_name[:index]
+                    syn_def = synset.definition()
+                    print(syn)
                     print("calcolo punteggio per sinonimo: " + syn)
                     print("\n")
 
                     # wsd
                     filtered_sent = []
-                    filtered_syn = []
+                    filtered_syn_def = []
 
                     counter = 0
                     similarity = 0
 
                     print(sent)
-                    print(syn)
+                    print(syn_def)
                     filtered_sent = simpleFilter(sent, token.text.lower())
-                    filtered_syn = simpleFilter(syn, "")  # nonostante sia uno solo è una lista, quindi poi fai for
+                    filtered_syn_def = simpleFilter(syn_def, "")
                     print("Simple first filter...")
                     print(filtered_sent)
-                    print(filtered_syn)
+                    print(filtered_syn_def)
                     print("\n")
 
                     # compare sent (every word of sentence) with syn (the synonym, only one word)
                     for i in filtered_sent:
-                        for j in filtered_syn:
+                        for j in filtered_syn_def:
                             counter = counter + 1
                             similarity = similarity + simlilarityCheck(i, j)
 
@@ -231,7 +233,7 @@ for data_set_index in range(1, 2):
                     sent_count = 0
 
                     for i in filtered_sent:
-                        for j in filtered_syn:
+                        for j in filtered_syn_def:
                             if i == j:
                                 sent_count = sent_count + 1
 
@@ -268,6 +270,9 @@ for data_set_index in range(1, 2):
                         sent = sent.replace(" " + token.text + ",", " " + best_syn_name_final + ",")
                     elif " " + token.text + "\n" in sent:
                         sent = sent.replace(" " + token.text + "\n", " " + best_syn_name_final + "\n")
+                    elif " " + token.text + "." in sent:
+                        sent = sent.replace(" " + token.text + ".", " " + best_syn_name_final + ".")
+
                     print("frase diventa: ")
                     print(sent)
                     print("\n\n")
@@ -277,6 +282,7 @@ for data_set_index in range(1, 2):
         print(sent)
         print("\n\n")
         output_file.write(sent + "\n")
+
     output_file.write("\n")
     toc1 = time.perf_counter() # time for single file
     output_file.write(f"Time for single file = {toc1 - tic1:0.4f} seconds = {(toc1 - tic1) / 60:0.4f} "
