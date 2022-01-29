@@ -3,7 +3,7 @@ similarity:path
 simulate_root:True
 
 1.0) Input phrase: As a Data user, I want to have the 12-19-2017 deletions processed.
-As a data user, I desire to have the 12-19-2017 omission processed.
+As a data user, I desire to have the 12-19-2017 omission march.
 1.1) Input phrase: as user i want to have the deletions processed on 19 december 2017
 as user i desire to have the omission march on 19 december 2017
 1.2) Input phrase: as user i want to have the deletions processed from 12-19-2017
@@ -17,7 +17,7 @@ as a data user i desire to have the omission march from 12-19-2017
 1.6) Input phrase: as a data user i want to have the deletions processed on 12-19-2017
 as a data user i desire to have the omission march on 12-19-2017
 2.0) Input phrase: As a UI designer, I want to redesign the Resources page, so that it matches the new Broker design styles.
-As a UI designer, I desire to redesign the Resources foliate, so that it equal the new broker plan styles.
+As a UI designer, I desire to redesign the Resources foliate, so that it equal the new broker plan expressive_style.
 2.1) Input phrase: i would like to redesign the resources page as a ui designer so that it matches the new broker design styles
 i would wish to redesign the resources foliate as a ui designer so that it equal the new broker plan styles
 2.2) Input phrase: the resources page should be redesigned as a ui designer so that it matches the new broker design styles
@@ -101,7 +101,7 @@ as a ui designer i desire to travel on to round_off 3 of aid foliate edits so i 
 6.9) Input phrase: as a ui designer i want to move on to round 3 of the help page edits so i can get approval from leadership
 as a ui designer i desire to travel on to round_off 3 of the aid foliate edits so i can arrive blessing from leadership
 7.0) Input phrase: As a Developer , I want to be able to log better, so that I can troubleshoot issues with particular submissions and functions.
-As a developer , I desire to be able to log bettor, so that I can trouble-shoot write_out with detail meekness and functions.
+As a developer , I desire to be able to log bettor, so that I can trouble-shoot write_out with detail meekness and officiate.
 7.1) Input phrase: as a developer i want to be able to log better so i can troubleshoot issues with specific submissions and functions
 as a developer i desire to be able to log bettor so i can trouble-shoot write_out with specific meekness and functions
 7.2) Input phrase: as a developer i want to be able to log better so i can troubleshoot issues with certain submissions and functions
@@ -121,7 +121,7 @@ as a developer i desire to be able to log bettor so that i can trouble-shoot wri
 7.9) Input phrase: as a developer i want to be able to log better so that i can troubleshoot issues with particular submissions and functions 
 as a developer i desire to be able to log bettor so that i can trouble-shoot write_out with detail meekness and officiate 
 8.0) Input phrase: As a Developer, I want to add the updates on a FABS submission to be modified when the publishStatus changes, so that I know when the status of the submission has changed.
-As a developer, I desire to lend the updates on a FABS meekness to be change when the publishStatus switch, so that I acknowledge when the status of the meekness has changed.
+As a developer, I desire to lend the updates on a FABS meekness to be change when the publishStatus switch, so that I acknowledge when the status of the meekness has switch.
 8.1) Input phrase: if i am a developer i want to add the updates on a fabs submission to be modified when the publishstatus changes so i know when the status of
 if i am a developer i desire to lend the updates on a fabs meekness to be modify when the publishstatus switch so i acknowledge when the status of
 8.2) Input phrase: if i am a developer i want to add the updates on a fabs submission to be modified when the publishstatus changes so i know when the status of the
@@ -141,7 +141,7 @@ as a developer i desire to lend updates on a fabs meekness to be change when the
 8.9) Input phrase: as a developer i want to add the updates on a fabs submission to be modified when the publishstatus changes so that i know when the status of the submission has changed
 as a developer i desire to lend the updates on a fabs meekness to be change when the publishstatus switch so that i acknowledge when the status of the meekness has changed
 9.0) Input phrase: As a DevOps engineer, I want New Relic to provide useful data across all applications.
-As a DevOps mastermind, I desire New keepsake to provide useful data across all applications.
+As a DevOps mastermind, I desire New keepsake to provide useful data across all lotion.
 9.1) Input phrase: i'd like new relic to provide useful data across all applications as a devops engineer
 i'd wish new keepsake to provide useful datum across all lotion as a devops engineer
 9.2) Input phrase: i want new relic to provide useful data across all applications as a devops engineer
@@ -237,7 +237,7 @@ as a web_site user i desire to access print fabs charge so i can understand the 
 14.8) Input phrase: as a website user i want to access published fabs files so that i can see the new files as they come in
 as a web_site user i desire to access print fabs charge so that i can understand the new charge as they arrive in
 15.0) Input phrase: As an owner, I want to be sure that USAspending only send grant records to my system.
-As an owner, I desire to be sure that USAspending only send award commemorate to my system.
+As an owner, I desire to be sure that USAspending only send award commemorate to my arrangement.
 15.1) Input phrase: as a shareholder i want to be sure that usaspending only sends grant records to my system
 as a stockholder i desire to be sure that usaspending only transport award commemorate to my system
 15.2) Input phrase: as owner i want to be sure that usaspending only sends grant records to my system
@@ -275,7 +275,7 @@ as a developer i desire to lend the gtas window data to the database so i can gu
 17.8) Input phrase: as a developer i want to add the gtas window data to the database so that i can ensure the site is locked down during the gtas submission period
 as a developer i desire to lend the gtas window data to the database so that i can guarantee the locate is engage down during the gtas submission period
 18.0) Input phrase: As a Developer, I want D Files generation requests to be managed and cached, so that duplicate requests do not cause performance issues.
-As a developer, I desire D charge genesis requests to be do and hoard, so that twin requests do not induce operation issues.
+As a developer, I desire D charge genesis requests to be do and hoard, so that twin requests do not induce operation emergence.
 18.1) Input phrase: developer i want d files generation request to be managed and cached so that duplicate requests do not cause performance problems
 developer i desire d charge genesis request to be do and hoard so that twin requests do not induce operation problems
 18.2) Input phrase: developer i want d files generation requests to be managed and cached so that duplicate requests do not cause performance problems
@@ -317,7 +317,7 @@ as a user i desire to access the raw representation print charge from fabs via u
 19.9) Input phrase: in my case as a user i want to access the raw agency published files from fabs via usaspendin
 in my encase as a user i desire to access the raw representation print charge from fabs via usaspendin
 20.0) Input phrase: As an Agency user, I want to be able to include a large number of flexfields without performance impact.
-As an representation user, I desire to be able to include a large total of flexfields without operation impact.
+As an representation user, I desire to be able to include a large total of flexfields without operation affect.
 20.1) Input phrase: the agency user wants to be able to include a large number of flexible fields without performance impact
 the representation user desire to be able to include a large total of flexible plain without operation impact
 20.2) Input phrase: the agency user wants to be able to include a large number of flexfields without performance impacts
@@ -345,7 +345,7 @@ as a broker user i desire to help create content mockups so i can render my data
 21.7) Input phrase: as a broker user i want to help create content mockups so that i can submit my data efficiently
 as a broker user i desire to help create content mockups so that i can render my data efficiently
 22.0) Input phrase: As a UI designer, I want to track the issues that come up in Tech Thursday, so that I know what to test and what want s to be fixed.
-As a UI designer, I desire to chase the write_out that hail up in technical_school thursday, so that I acknowledge what to screen and what desire s to be fixed.
+As a UI designer, I desire to chase the write_out that hail up in technical_school thursday, so that I acknowledge what to screen and what desire s to be repair.
 22.1) Input phrase: as a ui designer i want to track the issues that come up in tech thursday so i know what to test and what needs to be fixed
 as a ui designer i desire to chase the write_out that arrive up in technical_school thursday so i acknowledge what to screen and what want to be fixed
 22.2) Input phrase: when i'm a ui designer i want to track issues that come up in tech thursday so i know what to test and what wants to be fixed
@@ -427,7 +427,7 @@ as a ui designer i desire to schedule user test so i can grant the examiner gain
 25.10) Input phrase: as a ui designer i want to schedule user testing so that i can give the testers advance notice to ensure buy-in
 as a ui designer i desire to schedule user test so that i can grant the examiner gain detect to guarantee buy-in
 26.0) Input phrase: As an Owner, I want to design a schedule from the UI SME, so that I know the potential timeline of the UI improvements wanted.
-As an owner, I desire to plan a agenda from the UI SME, so that I acknowledge the potential timeline of the UI improvements wanted.
+As an owner, I desire to plan a agenda from the UI SME, so that I acknowledge the potential timeline of the UI improvements desire.
 26.1) Input phrase: i want to design a schedule from the ui sme so i know the potential timeline of ui improvements wanted
 i desire to plan a agenda from the ui sme so i acknowledge the potential timeline of ui improvements wanted
 26.2) Input phrase: i want to design a schedule from the ui sme so that i know the potential timeline of the ui improvements desired
@@ -449,7 +449,7 @@ as an owner i desire to plan a agenda from the ui sme so i acknowledge the poten
 26.10) Input phrase: as an owner i want to design a schedule from the ui sme so that i know the potential timeline of the ui improvements wanted
 as an owner i desire to plan a agenda from the ui sme so that i acknowledge the potential timeline of the ui improvements wanted
 27.0) Input phrase: As an Owner, I want to design an audit from the UI SME, so that I know the potential scope of the UI improvements want ed.
-As an owner, I desire to plan an audit from the UI SME, so that I acknowledge the potential setting of the UI improvements desire ed.
+As an owner, I desire to plan an audit from the UI SME, so that I acknowledge the potential setting of the UI improvements desire erectile_dysfunction.
 27.1) Input phrase: i want to design an audit from the ui sme so i know the potential scope of ui improvements i want
 i desire to plan an audit from the ui sme so i acknowledge the potential setting of ui improvements i want
 27.2) Input phrase: i want to design an audit from the ui sme so that i know the potential scope of ui improvements i want
@@ -469,7 +469,7 @@ i desire to plan an audit from the ui sme so that i acknowledge the potential se
 27.9) Input phrase: as an owner i want to design an audit from the ui sme so i know the potential scope of the ui improvements i want
 as an owner i desire to plan an audit from the ui sme so i acknowledge the potential setting of the ui improvements i want
 28.0) Input phrase: As a Developer, I want to prevent users from double publishing FABS submissions after refreshing, so that there are no duplicates.
-As a developer, I desire to prevent drug_user from duplicate print FABS meekness after review, so that there are no duplicates.
+As a developer, I desire to prevent drug_user from duplicate print FABS meekness after review, so that there are no twin.
 28.1) Input phrase: my goal is to prevent users from double publishing fabs submissions after refreshing so there are no duplicates
 my goal is to prevent drug_user from duplicate print fabs meekness after review so there are no duplicates
 28.2) Input phrase: my goal as a developer is to prevent users from double publishing fabs submissions after refreshing to prevent duplicates
@@ -487,7 +487,7 @@ as a developer i desire to prevent drug_user from duplicate print fabs meekness 
 28.8) Input phrase: as a developer i want to prevent users from double publishing fabs submissions after refreshing so that there are no duplicates 
 as a developer i desire to prevent drug_user from duplicate print fabs meekness after review so that there are no twin 
 29.0) Input phrase: As an data user, I want to receive updates to FABS records.
-As an data user, I desire to get updates to FABS records.
+As an data user, I desire to get updates to FABS commemorate.
 29.1) Input phrase: as a data user i want to receive updates on fabs data
 as a data user i desire to get updates on fabs data
 29.2) Input phrase: as a user of data i want to receive updates on fabs records
@@ -509,7 +509,7 @@ as data user i desire to get updates to fabs records
 29.10) Input phrase: as a data user i want to receive updates to fabs records
 as a data user i desire to get updates to fabs records
 30.0) Input phrase: As an Agency user, I want to be able to include a large number of flexfields without performance impact.
-As an representation user, I desire to be able to include a large total of flexfields without operation impact.
+As an representation user, I desire to be able to include a large total of flexfields without operation affect.
 30.1) Input phrase: the agency user wants to be able to include a large number of flexible fields without performance impact
 the representation user desire to be able to include a large total of flexible plain without operation impact
 30.2) Input phrase: the agency user wants to be able to include a large number of flexfields without performance impacts
@@ -543,7 +543,7 @@ as a developer i desire to update the fabs sample charge to get_rid_of fundingag
 31.10) Input phrase: as a developer i want to update the fabs sample file to remove fundingagencycode after fabs is updated to no longer require the header
 as a developer i desire to update the fabs sample charge to get_rid_of fundingagencycode after fabs is updated to no longer want the header
 32.0) Input phrase: As an agency user, I want to ensure that deleted FSRS records are not included in submissions.
-As an representation user, I desire to guarantee that erase FSRS commemorate are not admit in submissions.
+As an representation user, I desire to guarantee that erase FSRS commemorate are not admit in meekness.
 32.1) Input phrase: as an agent i want to ensure that fsrs records are not included in submissions
 as an agent i desire to guarantee that fsrs commemorate are not admit in submissions
 32.2) Input phrase: as an agent i want to ensure deleted fsrs records are not included in submissions
@@ -645,7 +645,7 @@ as an owner i desire to readjust the environment to only accept stag soap licens
 36.10) Input phrase: as an owner i want to reset the environment to only take staging max permissions so that i can ensure that the fabs testers no longer have access
 as an owner i desire to readjust the environment to only accept stag soap license so that i can guarantee that the fabs examiner no longer have access
 37.0) Input phrase: As a user, I want the flexfields in my submission file to appear in the warning and error files when the only error is a missing required element.
-As a user, I desire the flexfields in my submission charge to appear in the warn and mistake charge when the only mistake is a miss want element.
+As a user, I desire the flexfields in my submission charge to appear in the warn and mistake charge when the only mistake is a miss want component.
 37.1) Input phrase: as a user i want the flexfields in my submission file to appear in warning and error files when the only error is a missing required element
 as a user i desire the flexfields in my submission charge to appear in warn and mistake charge when the only mistake is a miss want element
 37.2) Input phrase: as a user i want flexfields in my submission file to appear in the warning and error files when the only error is a missing required element
@@ -679,7 +679,7 @@ the user desire accurate and complete data refer to ppopcode and ppopcongression
 38.8) Input phrase: as a user i want accurate and complete data related to ppopcode and ppopcongressional district
 as a user i desire accurate and complete data refer to ppopcode and ppopcongressional district
 39.0) Input phrase: As an agency user, I want the FABS validation rules to accept zero and blank for loan records.
-As an representation user, I desire the FABS validation predominate to take nothing and blank for lend records.
+As an representation user, I desire the FABS validation predominate to take nothing and blank for lend commemorate.
 39.1) Input phrase: as an agency user i want fabs to accept zero and blank for loan records
 as an representation user i desire fabs to take nothing and blank for lend records
 39.2) Input phrase: i want the fabs validation rules to accept zero and blank for loan records
@@ -713,7 +713,7 @@ as an means user i desire fabs deployed into output so i can render my financial
 40.6) Input phrase: as an agency user i want fabs deployed into production so i can submit my financial assistance data
 as an means user i desire fabs deployed into output so i can render my financial aid data
 41.0) Input phrase: As a Developer , I want to clarify to users what exactly is triggering the CFDA error code in each case.
-As a developer , I desire to clarify to drug_user what exactly is trigger the CFDA mistake code in each case.
+As a developer , I desire to clarify to drug_user what exactly is trigger the CFDA mistake code in each encase.
 41.1) Input phrase: developer i want to clarify to users what exactly causes the cfda error code in each case
 developer i desire to clarify to drug_user what exactly induce the cfda mistake code in each case
 41.2) Input phrase: developer i want to explain to users what exactly triggers the cfda error code in each case
@@ -751,7 +751,7 @@ as a representation user i desire to be confident that the data arrive from surf
 42.9) Input phrase: as an agency user i want to be confident that the data coming from sam is complete
 as an representation user i desire to be confident that the data arrive from surface-to-air_missile is complete
 43.0) Input phrase: As a Developer , I want my domain models to be indexed properly, so that I can get validation results back in a reasonable amount of time.
-As a developer , I desire my knowledge_domain mannequin to be indexed properly, so that I can arrive validation leave second in a reasonable total of time.
+As a developer , I desire my knowledge_domain mannequin to be indexed properly, so that I can arrive validation leave second in a reasonable total of clock.
 43.1) Input phrase: my domain models need to be indexed properly so i can get validation results back in a reasonable amount of time
 my knowledge_domain exemplar necessitate to be indexed properly so i can arrive validation leave second in a reasonable total of time
 43.2) Input phrase: my domain models need to be indexed properly so that i can get validation results back in a reasonable amount of time
@@ -773,7 +773,7 @@ as a developer i desire my knowledge_domain mannequin to be indexed properly so 
 43.10) Input phrase: as a developer i want my domain models to be indexed properly so that i can get validation results back in a reasonable amount of time
 as a developer i desire my knowledge_domain mannequin to be indexed properly so that i can arrive validation leave second in a reasonable total of time
 44.0) Input phrase: As an agency user, I want the FABS validation rules to accept zero and blank for non-loan records.
-As an representation user, I desire the FABS validation predominate to take nothing and blank for non-loan records.
+As an representation user, I desire the FABS validation predominate to take nothing and blank for non-loan commemorate.
 44.1) Input phrase: i want the fabs validation rules to accept zero and blank for non-loan records
 i desire the fabs validation predominate to take nothing and space for non-loan records
 44.2) Input phrase: as an agency user i want the fabs validation rules to accept zero and blank records for non-loan
@@ -795,7 +795,7 @@ as an representation user i desire the fabs validation predominate to take nothi
 44.10) Input phrase: as an agency user i want the fabs validation rules to accept zero and blank for non-loan records 
 as an representation user i desire the fabs validation predominate to take nothing and blank for non-loan commemorate 
 45.0) Input phrase: As a broker team member, I want to make some updates to the SQL codes for clarity.
-As a broker team member, I desire to make some updates to the SQL tease for clarity.
+As a broker team member, I desire to make some updates to the SQL tease for clearness.
 45.1) Input phrase: for clarity i want to update the sql codes as a member of the broker team
 for clearness i desire to update the sql tease as a member of the agent team
 45.2) Input phrase: for clarity i want to update sql codes as a broker team member
@@ -877,7 +877,7 @@ as a datum user i desire to understand the agency identify deduce from agency te
 48.10) Input phrase: as a data user i want to see the office names derived from office codes so that i can have appropriate context for understanding them
 as a datum user i desire to understand the agency identify deduce from agency tease so that i can have appropriate context for understand them
 49.0) Input phrase: As a broker user, I want the historical FABS loader to derive fields, so that my agency codes are correct in the PublishedAwardFinancialAssistance table.
-As a broker user, I desire the historical FABS loader to derive plain, so that my representation tease are right in the PublishedAwardFinancialAssistance table.
+As a broker user, I desire the historical FABS loader to derive plain, so that my representation tease are right in the PublishedAwardFinancialAssistance postpone.
 49.1) Input phrase: the historical fabs loader will derive fields so that my agency codes are correct in the publishedawardfinancialassistance table i want the
 the historical fabs loader will derive plain so that my representation tease are right in the publishedawardfinancialassistance postpone i desire the
 49.2) Input phrase: the historical fabs loader will derive fields so that my agency codes are correct in the publishedawardfinancialassistance table i want
@@ -915,7 +915,7 @@ as a developer i desire the data loaded from historical fabs to include frec der
 51.9) Input phrase: as a developer i want the data loaded from historical fabs to include the frec derivations so that i can have consistent frec data for usaspendinggov
 as a developer i desire the data loaded from historical fabs to include the frec deriving so that i can have consistent frec data for usaspendinggov
 52.0) Input phrase: As a user, I don't want to see NASA grants displayed as contracts.
-As a user, I don't need to understand national_aeronautics_and_space_administration award expose as contracts.
+As a user, I don't need to understand national_aeronautics_and_space_administration award expose as sign.
 52.1) Input phrase: as a user i don't want nasa grants to be displayed as contracts
 as a user i don't need national_aeronautics_and_space_administration award to be expose as contracts
 52.2) Input phrase: in my opinion as a user i don't want to see nasa grants as contracts
@@ -935,7 +935,7 @@ as a user i don't need to understand national_aeronautics_and_space_administrati
 52.9) Input phrase: as a user i don't want to see nasa grants displayed as contracts
 as a user i don't need to understand national_aeronautics_and_space_administration award expose as contracts
 53.0) Input phrase: As a user, I want the DUNS validations to accept records whose ActionTypes are B, C, or D and the DUNS is registered in SAM, even though it may have expired.
-As a user, I desire the torment establishment to take commemorate whose ActionTypes are boron, carbon, or D and the torment is record in surface-to-air_missile, even though it may have expired.
+As a user, I desire the torment establishment to take commemorate whose ActionTypes are boron, carbon, or D and the torment is record in surface-to-air_missile, even though it may have exhale.
 53.1) Input phrase: as a user i want the duns validations to accept records whose actiontypes are b c or d and the duns is registered in sam even if it may have expired
 as a user i desire the torment establishment to take commemorate whose actiontypes are boron carbon or d and the torment is record in surface-to-air_missile even if it may have expired
 53.2) Input phrase: in my opinion as a user i want duns validations to accept records whose actiontypes are b c or d and the duns is registered in sam even though it may have expired
@@ -951,7 +951,7 @@ as a user i desire the torment establishment to take commemorate whose actiontyp
 53.7) Input phrase: as a user i want the duns validations to accept records whose actiontypes are b c or d and the duns is registered in sam even though it may have expired 
 as a user i desire the torment establishment to take commemorate whose actiontypes are boron carbon or d and the torment is record in surface-to-air_missile even though it may have exhale 
 54.0) Input phrase: As a user, I want the DUNS validations to accept records whose ActionDates are before the current registration date in SAM, but after the initial registration date.
-As a user, I desire the torment establishment to take commemorate whose ActionDates are before the stream adjustment go_steady in surface-to-air_missile, but after the initial adjustment date.
+As a user, I desire the torment establishment to take commemorate whose ActionDates are before the stream adjustment go_steady in surface-to-air_missile, but after the initial adjustment go_steady.
 54.1) Input phrase: if i'm a user i want duns validations to accept records whose actiondates are before the current registration date in sam but after the initial registration date
 if i'm a user i desire torment establishment to take commemorate whose actiondates are before the stream adjustment go_steady in surface-to-air_missile but after the initial adjustment date
 54.2) Input phrase: as a user i want duns validations to accept records whose actiondates are before the current registration date in sam but after the initial registration date
@@ -967,7 +967,7 @@ as a user i desire the torment establishment to take commemorate whose actiondat
 54.7) Input phrase: as a user i want the duns validations to accept records whose actiondates are before the current registration date in sam but after the initial registration date
 as a user i desire the torment establishment to take commemorate whose actiondates are before the stream adjustment go_steady in surface-to-air_missile but after the initial adjustment date
 55.0) Input phrase: As a broker team member, I want to derive FundingAgencyCode, so that the data quality and completeness improves.
-As a broker team member, I desire to derive FundingAgencyCode, so that the data quality and completeness improves.
+As a broker team member, I desire to derive FundingAgencyCode, so that the data quality and completeness better.
 55.1) Input phrase: as part of the broker team i want to derive funding agency code to improve data quality and completeness
 as separate of the broker team i desire to derive fund representation code to better data quality and completeness
 55.2) Input phrase: as part of the broker team i want to derive funding agency code so that data quality and completeness improve
@@ -991,9 +991,9 @@ as a broker team member i desire to derive fundingagencycode so that data qualit
 56.0) Input phrase: As an agency user, I want the maximum length allowed for LegalEntityAddressLine3 to match Schema v1.1.
 As an representation user, I desire the maximum length let for LegalEntityAddressLine3 to equal schema v1.1.
 57.0) Input phrase: As an agency user, I want to use the schema v1.1 headers in my FABS file.
-As an means user, I desire to practice the schema v1.1 heading in my FABS file.
+As an means user, I desire to practice the schema v1.1 heading in my FABS charge.
 58.0) Input phrase: As a agency user, I want to map the FederalActionObligation properly to the Atom Feed.
-As a representation user, I desire to function the FederalActionObligation properly to the atom Feed.
+As a representation user, I desire to function the FederalActionObligation properly to the atom run.
 58.1) Input phrase: as an agency user i want to map federalactionobligation properly to the atom feed
 as an representation user i desire to function federalactionobligation properly to the atom feed
 58.2) Input phrase: as an agency user i want to map the federalactionobligation properly to atom feed
@@ -1009,7 +1009,7 @@ as an representation user i desire to function the federalactionobligation prope
 58.7) Input phrase: as an agency user i want to map the federalactionobligation properly to the atom feeds
 as an representation user i desire to function the federalactionobligation properly to the atom feeds
 59.0) Input phrase: As a Broker user, I want to have PPoPZIP+4 work the same as the Legal Entity ZIP validations.
-As a broker user, I desire to have PPoPZIP+4 function the same as the Legal entity travel_rapidly validations.
+As a broker user, I desire to have PPoPZIP+4 function the same as the Legal entity travel_rapidly establishment.
 59.1) Input phrase: as broker i want ppopzip4 to work the same as legal entity zip validations
 as broker i desire ppopzip4 to function the same as legal entity travel_rapidly validations
 59.2) Input phrase: as a broker user i want ppopzip4 to work the same as the legal entity zip validations
@@ -1021,7 +1021,7 @@ as a broker user i desire to have ppopzip4 function the same as the legal entity
 59.5) Input phrase: as a broker user i want to have ppopzip4 work the same as the legal entity zip validations 
 as a broker user i desire to have ppopzip4 function the same as the legal entity travel_rapidly establishment 
 60.0) Input phrase: As a FABS user, I want to link the SAMPLE FILE on the "What you want  to submit" dialog to point to the correct file, so that I have an accurate reference for my agency submissions.
-As a FABS user, I desire to connect the sample file on the "What you desire  to submit" dialog to steer to the right file, so that I have an accurate reference_point for my representation submissions.
+As a FABS user, I desire to connect the sample file on the "What you desire  to submit" dialog to steer to the right file, so that I have an accurate reference_point for my representation meekness.
 60.1) Input phrase: as a fabs user i want to link the sample file to the what you want to submit dialog to point to the correct file so i have an accurate reference for my agency submissions
 as a fabs user i desire to connect the sample charge to the what you desire to render dialog to steer to the right charge so i have an accurate reference_point for my representation submissions
 60.2) Input phrase: as a fabs user i want to link the sample file in the what you want to submit dialog to point to the correct file so i have an accurate reference for my agency submissions
@@ -1117,7 +1117,7 @@ as an representation user i desire the header data box to prove updated go_stead
 65.6) Input phrase: as an agency user i want the header information box to show updated date and time so that i know when it was updated
 as an representation user i desire the header data box to prove updated go_steady and time so that i acknowledge when it was updated
 66.0) Input phrase: As an Agency user, I want to receive a more helpful file-level error when I upload a file with the wrong extension.
-As an representation user, I desire to get a more helpful file-level erroneousness when I upload a charge with the wrong extension.
+As an representation user, I desire to get a more helpful file-level erroneousness when I upload a charge with the wrong reference.
 66.1) Input phrase: as an agency user i want to receive a more helpful file-level error when i upload a file with the wrong format
 as an representation user i desire to get a more helpful file-level erroneousness when i upload a charge with the wrong format
 66.2) Input phrase: as an agency user i want to receive a more helpful file-level error when i upload a file with the wrong extension i have
@@ -1149,9 +1149,9 @@ as a tester i desire to have access to screen have in environments other than st
 67.6) Input phrase: as a tester i want to have access to test features in environments other than staging so that i can test any non-prod feature in any environment
 as a tester i desire to have access to screen have in environments other than stag so that i can screen any non-prod have in any environment
 68.0) Input phrase: As a FABS user, I want to submission errors to accurately represent FABS errors, so that I know why my submission didn't work.
-As a FABS user, I desire to submission mistake to accurately constitute FABS mistake, so that I acknowledge why my submission didn't work.
+As a FABS user, I desire to submission mistake to accurately constitute FABS mistake, so that I acknowledge why my submission didn't function.
 69.0) Input phrase: As a FABS user, I want the frontend URLs to more accurately reflect the page I'm accessing, so that I'm not confused.
-As a FABS user, I desire the frontend URLs to more accurately chew_over the foliate I'm access, so that I'm not confused.
+As a FABS user, I desire the frontend URLs to more accurately chew_over the foliate I'm access, so that I'm not jumble.
 69.1) Input phrase: as a fabs user i want the frontend urls to reflect the page i'm accessing more accurately so i'm not confused
 as a fabs user i desire the frontend urls to chew_over the foliate i'm access more accurately so i'm not confused
 69.2) Input phrase: as a fabs user i want the frontend urls to reflect more accurately the page i'm accessing so i'm not confused
@@ -1247,7 +1247,7 @@ as an representation user i desire to arrive charge fluorine in the right format
 74.8) Input phrase: as an agency user i want to get file f in the correct format
 as an representation user i desire to arrive charge fluorine in the right format
 75.0) Input phrase: As an Agency user, I want to better understand my file-level errors.
-As an representation user, I desire to bettor understand my file-level errors.
+As an representation user, I desire to bettor understand my file-level erroneousness.
 75.1) Input phrase: as agency user i want to understand my file errors more clearly
 as representation user i desire to understand my charge erroneousness more clearly
 75.2) Input phrase: as agency user i want to understand my file errors better
@@ -1287,7 +1287,7 @@ as a developer i desire to provide fabs groups that officiate under the frec par
 76.9) Input phrase: as a developer i want to provide fabs groups that function under the frec paradigm 
 as a developer i desire to provide fabs groups that officiate under the frec paradigm 
 77.0) Input phrase: As a tester, I want to ensure that FABS is deriving fields properly through a robust test file plus a follow up check.
-As a examiner, I desire to guarantee that FABS is derive plain properly through a robust screen charge asset a postdate up check.
+As a examiner, I desire to guarantee that FABS is derive plain properly through a robust screen charge asset a postdate up determine.
 77.1) Input phrase: as the tester i want to ensure that fabs deriving fields correctly through a robust test file plus a follow up check
 as the examiner i desire to guarantee that fabs derive plain correctly through a robust screen charge asset a postdate up check
 77.2) Input phrase: as the tester i want to ensure that fabs is generating fields properly through a robust test file plus a follow-up check
@@ -1307,7 +1307,7 @@ as a examiner i desire to guarantee that fabs derive plain properly through a ro
 77.9) Input phrase: as a tester i want to ensure that fabs is deriving fields properly through a robust test file plus a follow up check
 as a examiner i desire to guarantee that fabs is derive plain properly through a robust screen charge asset a postdate up check
 78.0) Input phrase: As an owner, I only want zero-padded fields, so that I can justify padding.
-As an owner, I only desire zero-padded airfield, so that I can justify padding.
+As an owner, I only desire zero-padded airfield, so that I can justify slog.
 78.1) Input phrase: i want only zero-padded fields as a property owner so that i can justify padding
 i desire only zero-padded airfield as a property owner so that i can justify padding
 78.2) Input phrase: i want only zero padding fields as an owner to justify padding
@@ -1325,7 +1325,7 @@ as an owner i only desire nothing slog airfield so i can justify padding
 78.8) Input phrase: as an owner i only want zero-padded fields so i can justify padding
 as an owner i only desire zero-padded airfield so i can justify padding
 79.0) Input phrase: As a Broker user, I want to submit records for individual recipients without receiving a DUNS error.
-As a agent user, I desire to render commemorate for person recipient_role without receive a torment error.
+As a agent user, I desire to render commemorate for person recipient_role without receive a torment erroneousness.
 79.1) Input phrase: as user of a broker i want to submit individual records for recipients without receiving a duns error
 as user of a agent i desire to render person commemorate for recipient_role without receive a torment error
 79.2) Input phrase: as a broker user i want to submit records for individual recipients without a duns error
@@ -1337,7 +1337,7 @@ as a agent user i desire to render commemorate for person recipient_role without
 79.5) Input phrase: as a broker user i want to submit records for individual recipients without receiving a duns error
 as a agent user i desire to render commemorate for person recipient_role without receive a torment error
 80.0) Input phrase: As a user, I want more information about how many rows will be published prior to deciding whether to publish.
-As a user, I desire more information about how many course will be print prior to decide whether to publish.
+As a user, I desire more information about how many course will be print prior to decide whether to print.
 80.1) Input phrase: as a user i want more information about how many rows will be published before deciding whether or not to publish
 as a user i desire more information about how many course will be print before decide whether or not to publish
 80.2) Input phrase: as a user i want more information on how many rows will be published before deciding whether to publish
@@ -1375,7 +1375,7 @@ as a developer i desire to prevent twin minutes from being print and cope with t
 81.9) Input phrase: as a developer i want to prevent duplicate transactions from being published and deal with the time gap between validation and the publishing decision
 as a developer i desire to prevent twin minutes from being print and cope with the clock break between validation and the print decision
 82.0) Input phrase: As a FABS user, I want to submit a citywide as a PPoPZIP and pass validations.
-As a FABS user, I desire to render a citywide as a PPoPZIP and happen validations.
+As a FABS user, I desire to render a citywide as a PPoPZIP and happen establishment.
 82.1) Input phrase: if i want to submit a citywide as ppopzip and pass validations as a fabs user
 if i desire to render a citywide as ppopzip and happen establishment as a fabs user
 82.2) Input phrase: as a user of fabs i want to submit a citywide as a ppopzip and pass validation
@@ -1411,7 +1411,7 @@ as a broker user i desire to have updated erroneousness tease that accurately ch
 83.7) Input phrase: as a broker user i want to have updated error codes that accurately reflect the logic and provide enough information so that i can fix my submissions
 as a broker user i desire to have updated erroneousness tease that accurately chew_over the logic and provide enough information so that i can repair my submissions
 84.0) Input phrase: As an agency user, I want to leave off the last 4 digits of the ZIP without an error, so that I can complete my submissions.
-As an representation user, I desire to exit off the survive 4 finger of the travel_rapidly without an erroneousness, so that I can complete my submissions.
+As an representation user, I desire to exit off the survive 4 finger of the travel_rapidly without an erroneousness, so that I can complete my meekness.
 84.1) Input phrase: if i want to leave off the last 4 digits of the zip without an error i can complete my submissions
 if i desire to exit off the survive 4 finger of the travel_rapidly without an erroneousness i can complete my submissions
 84.2) Input phrase: if i want to leave off the last 4 digits of the zip without an error so i can complete my submissions
@@ -1431,7 +1431,7 @@ as an representation user i desire to exit off the survive 4 finger of the trave
 84.9) Input phrase: as an agency user i want to leave off the last 4 digits of the zip without an error so that i can complete my submissions
 as an representation user i desire to exit off the survive 4 finger of the travel_rapidly without an erroneousness so that i can complete my submissions
 85.0) Input phrase: As a FABS user, I want to make sure the historical data includes all necessary columns, so that the information in the database is correct.
-As a FABS user, I desire to make sure the historical data admit all necessity columns, so that the data in the database is correct.
+As a FABS user, I desire to make sure the historical data admit all necessity columns, so that the data in the database is right.
 85.1) Input phrase: as a fabs user i want to make sure that the historical data includes all the necessary columns so that the information in the database is accurate
 as a fabs user i desire to make sure that the historical data admit all the necessity columns so that the data in the database is accurate
 85.2) Input phrase: as a fabs user i want to make sure the historical data contains all the necessary columns so that the information in the database is correct
@@ -1453,7 +1453,7 @@ as a fabs user i desire to make sure the historical data admit all necessity col
 85.10) Input phrase: in my role as a fabs user i want to make sure the historical data includes all necessary columns so that the information in the database is correct
 in my function as a fabs user i desire to make sure the historical data admit all necessity columns so that the data in the database is correct
 86.0) Input phrase: As a data user, I want to access two additional fields from the FPDS data pull.
-As a datum user, I desire to access two additional discipline from the flat_panel_display datum pull.
+As a datum user, I desire to access two additional discipline from the flat_panel_display datum perpetrate.
 86.1) Input phrase: as a user i want to access two additional fields in the data pull of fpds
 as a user i desire to access two additional discipline in the datum perpetrate of fpds
 86.2) Input phrase: as a user i want to access two additional fields from the data pull of fpds
@@ -1489,7 +1489,7 @@ as a fabs user i desire additional helpful information in the submission splashb
 87.8) Input phrase: as a fabs user i want additional helpful info in the submission dashboard so that i can better manage submissions and ig requests 
 as a fabs user i desire additional helpful information in the submission splashboard so that i can bettor do meekness and immunoglobulin requests 
 88.0) Input phrase: As a FABS user, I want to download the uploaded FABS file, so that I can get the uploaded file.
-As a FABS user, I desire to download the uploaded FABS charge, so that I can arrive the uploaded file.
+As a FABS user, I desire to download the uploaded FABS charge, so that I can arrive the uploaded charge.
 88.1) Input phrase: as a fabs user i want to download the fabs file so i can get the uploaded file
 as a fabs user i desire to download the fabs charge so i can arrive the uploaded file
 88.2) Input phrase: as a fabs user i want to download the uploaded fabs file to get the uploaded file
@@ -1511,7 +1511,7 @@ as a fabs user i desire to download the uploaded fabs charge so that i can arriv
 88.10) Input phrase: as a fabs user i want to download the uploaded fabs file so that i can get the uploaded file
 as a fabs user i desire to download the uploaded fabs charge so that i can arrive the uploaded file
 89.0) Input phrase: As a Developer I want to quickly access Broker application data, so that I can investigate issues.
-As a developer I desire to quickly access broker application datum, so that I can investigate issues.
+As a developer I desire to quickly access broker application datum, so that I can investigate write_out.
 89.1) Input phrase: a developer wants to quickly access broker application data so that i can investigate problems
 a developer desire to quickly access broker application datum so that i can investigate problems
 89.2) Input phrase: a developer wants to quickly access broker application data so i can investigate issues
@@ -1539,7 +1539,7 @@ as a developer i desire to determine the outdo manner to load historical flat_pa
 90.6) Input phrase: as a developer i want to determine the best way to load historical fpds data so that i can load all fpds data since 2007
 as a developer i desire to determine the outdo manner to load historical flat_panel_display data so that i can load all flat_panel_display data since 2007
 91.0) Input phrase: As a FABS user, I want the language on FABS pages to be appropriate for me, so that I am not confused.
-As a FABS user, I desire the language on FABS foliate to be appropriate for me, so that I am not confused.
+As a FABS user, I desire the language on FABS foliate to be appropriate for me, so that I am not jumble.
 91.1) Input phrase: as a fabs user i want the language on the fabs pages to be appropriate for me so that i am not confused i have
 as a fabs user i desire the language on the fabs foliate to be appropriate for me so that i am not jumble i have
 91.2) Input phrase: as a fabs user i want the language on the fabs pages to be appropriate for me so i am not confused
@@ -1575,7 +1575,7 @@ as a fabs user i do not desire tap banner messages and frailty versa so that i h
 92.8) Input phrase: as a fabs user i do not want dabs banner messages and vice versa so that i have the appropriate information for my application
 as a fabs user i do not desire tap streamer messages and vice versa so that i have the appropriate information for my application
 93.0) Input phrase: As a FABS user, I want to have read-only access to DABS, so that I can view DABS pages without wanting two sets of permissions.
-As a FABS user, I desire to have read-only access to tap, so that I can watch tap foliate without want two determine of permissions.
+As a FABS user, I desire to have read-only access to tap, so that I can watch tap foliate without want two determine of license.
 93.1) Input phrase: as a fabs user i want read-only access to dabs so i can view dabs pages without two sets of permissions
 as a fabs user i desire read-only access to tap so i can watch tap foliate without two determine of permissions
 93.2) Input phrase: as a fabs user i want read-only access to dabs so that i can view dabs pages without two sets of permissions
@@ -1593,7 +1593,7 @@ as a fabs user i desire to have read-only access to tap so that i can watch tap 
 93.8) Input phrase: as a fabs user i want to have read-only access to dabs so that i can view dabs pages without wanting two sets of permissions
 as a fabs user i desire to have read-only access to tap so that i can watch tap foliate without want two determine of permissions
 94.0) Input phrase: As a FABS user, I want to have my validations run in a reasonable amount of time.
-As a FABS user, I desire to have my establishment function in a reasonable total of time.
+As a FABS user, I desire to have my establishment function in a reasonable total of clock.
 94.1) Input phrase: as the user of fabs i want the validation to be completed within a reasonable period
 as the user of fabs i desire the validation to be dispatch within a reasonable period
 94.2) Input phrase: as the user of fabs i want the validation to be done within a reasonable period
@@ -1625,7 +1625,7 @@ as a fabs user i desire to understand right status tag on the meekness splashboa
 95.6) Input phrase: as a fabs user i want to see correct status labels on the submission dashboard so that i can quickly see my submission history
 as a fabs user i desire to understand right status tag on the meekness splashboard so that i can quickly understand my meekness history
 96.0) Input phrase: As an agency user, I want to know when the submission periods start and end, so that I know when the submission starts and ends.
-As an representation user, I desire to acknowledge when the submission time_period get_down and goal, so that I acknowledge when the submission get_down and ends.
+As an representation user, I desire to acknowledge when the submission time_period get_down and goal, so that I acknowledge when the submission get_down and goal.
 96.1) Input phrase: as an agency user i want to know when submission periods start and end so i know when the submission starts and ends
 as an representation user i desire to acknowledge when submission time_period get_down and goal so i acknowledge when the submission get_down and ends
 96.2) Input phrase: in my role as agency user i want to know when the submission period starts and ends so i know when the submission starts and ends
@@ -1647,7 +1647,7 @@ as an representation user i desire to acknowledge when the submission time_perio
 96.10) Input phrase: as an agency user i want to know when the submission periods start and end so that i know when the submission starts and ends 
 as an representation user i desire to acknowledge when the submission time_period get_down and goal so that i acknowledge when the submission get_down and goal 
 97.0) Input phrase: As an agency user, I want a landing page to navigate to either FABS or DABS pages, so that I can access both sides of the site.
-As an representation user, I desire a down foliate to navigate to either FABS or tap foliate, so that I can access both slope of the site.
+As an representation user, I desire a down foliate to navigate to either FABS or tap foliate, so that I can access both slope of the locate.
 97.1) Input phrase: as an agency user i want a landing page to navigate to fabs or dabs pages so i can access both sides of the site
 as an representation user i desire a down foliate to navigate to fabs or tap foliate so i can access both slope of the site
 97.2) Input phrase: as an agency user i want a landing page to navigate either to fabs or dabs pages so i can access both sides of the site
@@ -1669,7 +1669,7 @@ as an representation user i desire a down foliate to navigate to either fabs or 
 97.10) Input phrase: as an agency user i want a landing page to navigate to either fabs or dabs pages so that i can access both sides of the site
 as an representation user i desire a down foliate to navigate to either fabs or tap foliate so that i can access both slope of the site
 98.0) Input phrase: As an agency user, I want to submit my data elements surrounded by quotation marks, so that Excel won't strip off leading and trailing zeroes.
-As an representation user, I desire to render my data chemical_element smother by citation notice, so that excel won't deprive off lead and trail zeroes.
+As an representation user, I desire to render my data chemical_element smother by citation notice, so that excel won't deprive off lead and trail nothing.
 98.1) Input phrase: if i want to submit my data elements surrounded by quotation marks so that excel won't strip off leading and trailing zeroes
 if i desire to render my data chemical_element smother by citation notice so that excel won't deprive off lead and trail zeroes
 98.2) Input phrase: as an agency user i want to submit my data elements surrounded by quotation marks so excel won't strip off leading and trailing zeroes
@@ -1687,4 +1687,4 @@ as an representation user i desire to render my data chemical_element smother by
 98.8) Input phrase: as an agency user i want to submit my data elements surrounded by quotation marks so that excel won't strip off leading and trailing zeroes
 as an representation user i desire to render my data chemical_element smother by citation notice so that excel won't deprive off lead and trail zeroes
 
-Time for single file = 45.2132 seconds = 0.7536 minutes = 0.0126 hours
+Time for single file = 38.0727 seconds = 0.6345 minutes = 0.0106 hours

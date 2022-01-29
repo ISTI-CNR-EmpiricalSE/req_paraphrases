@@ -14,8 +14,8 @@ stpwrd.extend(new_stopwords)
 nlp = spacy.load('en')
 nlp.add_pipe(WordnetAnnotator(nlp.lang), after='tagger')
 
-similarity_array = ["path", "wup"]
-simulate_root_array = [True, False]
+similarity_array = ["path"]
+simulate_root_array = [True]
 
 tic0 = time.perf_counter()  # time for all datasets
 
@@ -27,10 +27,16 @@ for data_set_index in [1, 24]:
             tic1 = time.perf_counter()  # time for single file
 
             input_file = open("results/data_set_" + str(data_set_index) + "/results_1.txt", "r")
-            dir = "results/data_set_" + str(data_set_index) + "/best_syn_outputs_not_eto_2"
+            dir = "results/data_set_" + str(data_set_index) + "/best_syn_outputs_2"
             if not os.path.exists(dir):
                 os.makedirs(dir)
             output_file = open(dir + "/results_" + str(data_set_index) + "_best_syn" + str(file_index) + ".txt", "w")
+            scoring_file = open(dir + "/scoring.txt", "w")
+
+            scoring_file.write("similarity:" + similarity + "\n")
+            scoring_file.write("simulate_root:" + str(simulate_root) + "\n")
+            scoring_file.write("\n")
+
             file_index = file_index + 1
             output_file.write("data_set_number:" + str(data_set_index) + "\n")
             output_file.write("similarity:" + similarity + "\n")
@@ -67,7 +73,7 @@ for data_set_index in [1, 24]:
                         synset = wordnet.synsets(token.text)
                         synset_dict[token.text] = synset
 
-                # print(synset_dict)
+                scoring_file.write(str(synset_dict))
 
                 # clean synset
                 for token in tokens:
@@ -89,7 +95,8 @@ for data_set_index in [1, 24]:
                                     done = True
                                     synset_dict[token.text].insert(0, syn)
 
-                print(synset_dict)
+                scoring_file.write("cleaning synset_dict" + "\n")
+                scoring_file.write(str(synset_dict))
                 best_syn_list = []
 
                 for token in tokens:
@@ -101,8 +108,8 @@ for data_set_index in [1, 24]:
                         # for each token i have a dictionary to save the scoring of each of his synonym
                         # scoring is similarity calculated summing single similarities of the synonym
                         # with all (not his original) the synsets of other words
-                        if synsets:
-                            synsets.pop(0)  # comment this to compare the eto, uncomment to not compare
+                        # if synsets:
+                            # synsets.pop(0)  # comment this to compare the eto, uncomment to not compare
                         scoring_dict = {}
                         for synset in synsets:
                             scoring = 0
@@ -137,7 +144,7 @@ for data_set_index in [1, 24]:
                                                     scoring = scoring + sim
 
                             scoring_dict[synset] = scoring
-                        print(scoring_dict)
+                        scoring_file.write(str(scoring_dict) + "\n")
                         # save the synonym with higher score
                         max = 0
                         for syn in scoring_dict.keys():
@@ -158,6 +165,8 @@ for data_set_index in [1, 24]:
                                 phrase = phrase.replace(" " + token.text + ",", " " + best_syn_name_final + ",")
                             elif " " + token.text + "\n" in phrase:
                                 phrase = phrase.replace(" " + token.text + "\n", " " + best_syn_name_final + "\n")
+                            elif " " + token.text + "." in phrase:
+                                phrase = phrase.replace(" " + token.text + ".", " " + best_syn_name_final + ".")
 
                 output_file.write(phrase + "\n")
 

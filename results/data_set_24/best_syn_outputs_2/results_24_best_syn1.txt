@@ -20277,4 +20277,5 @@ the quarrel application must comply with the legal necessity as specify by regul
 818.15) Input phrase: the dispute application must conform to the legal requirements as specified by regulation e and regulation z that govern credit card disputes processing
 the quarrel application must conform to the legal necessity as specify by regulation einsteinium and regulation omega that govern accredit tease quarrel processing
 
-Time for single file = 336.0692 seconds = 5.6012 minutes = 0.0934 hours
+Time for single file = 320.2596 seconds = 5.3377 minutes = 0.0890 hours
+Time for all datasets = 358.3323 seconds = 5.9722 minutes = 0.0995 hours
