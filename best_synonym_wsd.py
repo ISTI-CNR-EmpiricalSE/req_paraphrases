@@ -94,7 +94,7 @@ def simpleFilter(sentence, token_text):
 
 tic0 = time.perf_counter()  # time for all datasets
 
-for data_set_index in [1, 24]:
+for data_set_index in [1]:
     file_index = 1
 
     tic1 = time.perf_counter()  # time for single file
@@ -107,6 +107,7 @@ for data_set_index in [1, 24]:
     if not os.path.exists(dir):
         os.makedirs(dir)
     output_file = open(dir + "/results_" + str(data_set_index) + "_best_syn_wsd_" + str(file_index) + ".txt", "w")
+    scoring_file = open(dir + "/scoring.txt", "w")
     file_index = file_index + 1
     output_file.write("data_set_number:" + str(data_set_index) + "\n")
     output_file.write("\n")
@@ -132,6 +133,7 @@ for data_set_index in [1, 24]:
             continue
         sent = clean_phrase
         output_file.write(str(p) + "." + str(c) + ") " + "Input phrase: " + sent + "\n")
+        scoring_file.write(sent + "\n")
 
         tokens = nlp(sent)
         # everything is a token apart from space
@@ -247,6 +249,8 @@ for data_set_index in [1, 24]:
                     print("\n")
                 print("tabella dei punteggi di sinonimi del termine " + token.text)
                 print(scoring_dict)
+                scoring_file.write(str(scoring_dict) + "\n")
+                scoring_file.write("\n")
                 print("\n")
                 # save the synonym with higher score
                 max = 0

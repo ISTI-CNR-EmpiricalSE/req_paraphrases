@@ -447,7 +447,7 @@ as an owner i desire to design a agenda from the ui sme so i know the electric_p
 26.10) Input phrase: as an owner i want to design a schedule from the ui sme so that i know the potential timeline of the ui improvements wanted
 as an owner i desire to design a agenda from the ui sme so that i know the electric_potential timeline of the ui improvements wanted
 27.0) Input phrase: As an Owner, I want to design an audit from the UI SME, so that I know the potential scope of the UI improvements want ed.
-As an owner, I desire to design an audited_account from the UI SME, so that I know the electric_potential scope of the UI improvements desire erectile_dysfunction.
+As an owner, I desire to design an audited_account from the UI SME, so that I know the electric_potential scope of the UI improvements i want.
 27.1) Input phrase: i want to design an audit from the ui sme so i know the potential scope of ui improvements i want
 i desire to design an audit from the ui sme so i know the electric_potential scope of ui improvements i want
 27.2) Input phrase: i want to design an audit from the ui sme so that i know the potential scope of ui improvements i want
@@ -1685,4 +1685,5 @@ as an representation user i desire to put_in my datum component wall by citation
 98.8) Input phrase: as an agency user i want to submit my data elements surrounded by quotation marks so that excel won't strip off leading and trailing zeroes
 as an representation user i desire to put_in my datum component wall by citation score so that excel won't comic_strip off ahead and trailing zeroes
 
-Time for single file = 199.4075 seconds = 3.3235 minutes = 0.0554 hours
+Time for single file = 185.7520 seconds = 3.0959 minutes = 0.0516 hours
+Time for all datasets = 185.7520 seconds = 3.0959 minutes = 0.0516 hours
