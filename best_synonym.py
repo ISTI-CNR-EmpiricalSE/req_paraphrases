@@ -14,7 +14,7 @@ stpwrd.extend(new_stopwords)
 nlp = spacy.load('en')
 nlp.add_pipe(WordnetAnnotator(nlp.lang), after='tagger')
 
-similarity_array = ["path"]
+similarity_array = ["wup"]
 simulate_root_array = [True]
 
 tic0 = time.perf_counter()  # time for all datasets
@@ -27,7 +27,7 @@ for data_set_index in [1, 24]:
             tic1 = time.perf_counter()  # time for single file
 
             input_file = open("results/data_set_" + str(data_set_index) + "/results_1.txt", "r")
-            dir = "results/data_set_" + str(data_set_index) + "/best_syn_outputs"
+            dir = "results/data_set_" + str(data_set_index) + "/best_syn_outputs_2"
             if not os.path.exists(dir):
                 os.makedirs(dir)
             output_file = open(dir + "/results_" + str(data_set_index) + "_best_syn" + str(file_index) + ".txt", "w")
@@ -66,14 +66,13 @@ for data_set_index in [1, 24]:
                 output_file.write(str(j) + "." + str(c) + ") " + "Input phrase: " + phrase + "\n")
                 tokens = nlp(phrase)
                 # everything is a token apart from space
+                scoring_file.write(clean_phrase + "\n")
 
                 synset_dict = {}
                 for token in tokens:
                     if token.text.lower() not in stpwrd and not token.text.isnumeric():
                         synset = wordnet.synsets(token.text)
                         synset_dict[token.text] = synset
-
-                scoring_file.write(str(synset_dict))
 
                 # clean synset
                 for token in tokens:
@@ -95,8 +94,6 @@ for data_set_index in [1, 24]:
                                     done = True
                                     synset_dict[token.text].insert(0, syn)
 
-                scoring_file.write("cleaning synset_dict" + "\n")
-                scoring_file.write(str(synset_dict))
                 best_syn_list = []
 
                 for token in tokens:
@@ -123,28 +120,29 @@ for data_set_index in [1, 24]:
 
                                             # confronto solo il synset che equivale a token
                                             # se vuoi confrontare un synset son tutti i synset di tutti i token tranne suo, commenta le tre righe sotto e if
-                                            # compare_synset_name = compare_synset.name()
-                                            # index = compare_synset_name.find(".")
-                                            # compare_synset_name_final = compare_synset_name[:index]
-                                            # if compare_synset_name_final.lower() == compare_token.text.lower():
-                                            print(synset)
-                                            print(compare_token.text)
-                                            print(compare_synset)
-                                            # with lch you need to have synset pos = compare_synset pos
-                                            if similarity == "path" and simulate_root is True:
-                                                sim = synset.path_similarity(compare_synset, simulate_root=True)
-                                            elif similarity == "path" and simulate_root is False:
-                                                sim = synset.path_similarity(compare_synset, simulate_root=False)
-                                            elif similarity == "wup" and simulate_root is True:
-                                                sim = synset.wup_similarity(compare_synset, simulate_root=True)
-                                            elif similarity == "wup" and simulate_root is False:
-                                                sim = synset.wup_similarity(compare_synset, simulate_root=False)
-                                            print(sim)
-                                            # it could not exists a path that connects, if you put simulate root true it always exists
-                                            if sim:
-                                                scoring = scoring + sim
+                                            compare_synset_name = compare_synset.name()
+                                            index = compare_synset_name.find(".")
+                                            compare_synset_name_final = compare_synset_name[:index]
+                                            if compare_synset_name_final.lower() == compare_token.text.lower():
+                                                print(synset)
+                                                print(compare_token.text)
+                                                print(compare_synset)
+                                                # with lch you need to have synset pos = compare_synset pos
+                                                if similarity == "path" and simulate_root is True:
+                                                    sim = synset.path_similarity(compare_synset, simulate_root=True)
+                                                elif similarity == "path" and simulate_root is False:
+                                                    sim = synset.path_similarity(compare_synset, simulate_root=False)
+                                                elif similarity == "wup" and simulate_root is True:
+                                                    sim = synset.wup_similarity(compare_synset, simulate_root=True)
+                                                elif similarity == "wup" and simulate_root is False:
+                                                    sim = synset.wup_similarity(compare_synset, simulate_root=False)
+                                                print(sim)
+                                                # it could not exists a path that connects, if you put simulate root true it always exists
+                                                if sim:
+                                                    scoring = scoring + sim
 
                             scoring_dict[synset] = scoring
+                        scoring_file.write("synonyms for " + token.text + "\n")
                         scoring_file.write(str(scoring_dict) + "\n")
                         # save the synonym with higher score
                         max = 0
@@ -170,6 +168,7 @@ for data_set_index in [1, 24]:
                                 phrase = phrase.replace(" " + token.text + ".", " " + best_syn_name_final + ".")
 
                 output_file.write(phrase + "\n")
+                scoring_file.write(phrase + "\n\n")
 
 
             output_file.write("\n")

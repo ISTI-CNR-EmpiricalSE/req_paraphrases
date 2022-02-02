@@ -132,6 +132,7 @@ for data_set_index in [1]:
         else:
             continue
         sent = clean_phrase
+
         output_file.write(str(p) + "." + str(c) + ") " + "Input phrase: " + sent + "\n")
         scoring_file.write(sent + "\n")
 
@@ -170,7 +171,6 @@ for data_set_index in [1]:
         print("dizionario chiave: termine, valore: sinonimi")
         print(synset_dict)
         print("\n\n")
-        best_syn_list = []
 
         # scorro i sinonimi, metetndoli in forma di stringa e li confronto a frase usando di codice di wsd, salvo punteggio
 
@@ -254,28 +254,41 @@ for data_set_index in [1]:
                 print("\n")
                 # save the synonym with higher score
                 max = 0
+                second_max = 0
+                # find the best
                 for syn in scoring_dict.keys():
                     if scoring_dict[syn] > max:
                         max = scoring_dict[syn]
                         best_syn = syn
-                if max != 0:
-                    print("il migliore è ")
-                    print(best_syn)
-                    print("\n")
-                    best_syn_list.append(best_syn)
-                    best_syn_name = best_syn.name()
-                    index = best_syn_name.find(".")
-                    best_syn_name_final = best_syn_name[:index]
+                # remove the best cause you want to find the second best, that can have the same scoring but must not be the same
+                scoring_dict.pop(best_syn)
+                # find the second best
+                for syn in scoring_dict.keys():
+                    if scoring_dict[syn] > second_max:
+                        second_max = scoring_dict[syn]
+                        second_best_syn = syn
+
+                final_syn = None
+
+                if second_max != 0 and second_max > max - tot:
+                    final_syn = second_best_syn
+                elif max != 0:
+                    final_syn = best_syn
+
+                if final_syn is not None:
+                    final_syn_name = final_syn.name()
+                    index = final_syn_name.find(".")
+                    final_syn_name = final_syn_name[:index]
                     # you don't want to substitute parts of words
                     # (example of wrong behaviour: if design substituted with plan -> redesign is substituted with replan)
                     if " " + token.text + " " in sent:
-                        sent = sent.replace(" " + token.text + " ", " " + best_syn_name_final + " ")
+                        sent = sent.replace(" " + token.text + " ", " " + final_syn_name + " ")
                     elif " " + token.text + "," in sent:
-                        sent = sent.replace(" " + token.text + ",", " " + best_syn_name_final + ",")
+                        sent = sent.replace(" " + token.text + ",", " " + final_syn_name + ",")
                     elif " " + token.text + "\n" in sent:
-                        sent = sent.replace(" " + token.text + "\n", " " + best_syn_name_final + "\n")
+                        sent = sent.replace(" " + token.text + "\n", " " + final_syn_name + "\n")
                     elif " " + token.text + "." in sent:
-                        sent = sent.replace(" " + token.text + ".", " " + best_syn_name_final + ".")
+                        sent = sent.replace(" " + token.text + ".", " " + final_syn_name + ".")
 
                     print("frase diventa: ")
                     print(sent)
