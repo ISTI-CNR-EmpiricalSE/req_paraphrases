@@ -30,7 +30,7 @@ for data_set_index in [1, 24]:
             dir = "results/data_set_" + str(data_set_index) + "/best_syn_outputs_2"
             if not os.path.exists(dir):
                 os.makedirs(dir)
-            output_file = open(dir + "/results_" + str(data_set_index) + "_best_syn" + str(file_index) + ".txt", "w")
+            output_file = open(dir + "/results_" + str(data_set_index) + "_best_syn.txt", "w")
             scoring_file = open(dir + "/scoring.txt", "w")
 
             scoring_file.write("similarity:" + similarity + "\n")
@@ -118,6 +118,7 @@ for data_set_index in [1, 24]:
                                     if compare_synsets:
                                         for compare_synset in compare_synsets:
 
+                                            # se lo tieni commentato è tecnica 1, syn vs synsets
                                             # confronto solo il synset che equivale a token
                                             # se vuoi confrontare un synset son tutti i synset di tutti i token tranne suo, commenta le tre righe sotto e if
                                             compare_synset_name = compare_synset.name()

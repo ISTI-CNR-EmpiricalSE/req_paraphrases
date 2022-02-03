@@ -1,9 +1,9 @@
 data_set_number:1
-similarity:wup
+similarity:path
 simulate_root:True
 
 1.0) Input phrase: As a Data user, I want to have the 12-19-2017 deletions processed.
-As a data user, I want to have the 12-19-2017 omission march.
+As a data user, I want to have the 12-19-2017 omission processed.
 1.1) Input phrase: as user i want to have the deletions processed on 19 december 2017
 as user i want to have the omission processed on 19 december 2017
 1.2) Input phrase: as user i want to have the deletions processed from 12-19-2017
@@ -11,115 +11,115 @@ as user i want to have the omission processed from 12-19-2017
 1.3) Input phrase: as user i want to have the deletions processed on 12-19-2017
 as user i want to have the omission processed on 12-19-2017
 1.4) Input phrase: as a data user i want to have the deletions processed on 19 december 2017
-as a data user i want to have the omission march on 19 december 2017
+as a data user i want to have the omission processed on 19 december 2017
 1.5) Input phrase: as a data user i want to have the deletions processed from 12-19-2017
-as a data user i want to have the omission march from 12-19-2017
+as a data user i want to have the omission processed from 12-19-2017
 1.6) Input phrase: as a data user i want to have the deletions processed on 12-19-2017
-as a data user i want to have the omission march on 12-19-2017
+as a data user i want to have the omission processed on 12-19-2017
 2.0) Input phrase: As a UI designer, I want to redesign the Resources page, so that it matches the new Broker design styles.
-As a UI designer, I want to redesign the Resources page, so that it equal the new broker plan expressive_style.
+As a UI designer, I want to redesign the Resources page, so that it equal the new broker design expressive_style.
 2.1) Input phrase: i would like to redesign the resources page as a ui designer so that it matches the new broker design styles
 i would like to redesign the resources page as a ui designer so that it equal the new broker design styles
 2.2) Input phrase: the resources page should be redesigned as a ui designer so that it matches the new broker design styles
-the resources page should be redesigned as a ui designer so that it peer the new broker design styles
+the resources page should be redesigned as a ui designer so that it equal the new broker design styles
 2.3) Input phrase: i would like to redesign the resources page so that it matches the new broker design styles
 i would like to redesign the resources page so that it equal the new broker design styles
 2.4) Input phrase: as a ui designer i want to redesign the resources page so it matches the new broker design styles
-as a ui designer i want to redesign the resources page so it equal the new broker plan styles
+as a ui designer i want to redesign the resources page so it equal the new broker design styles
 2.5) Input phrase: as a ui designer i want to redesign the resources page so that it matches the new broker design style
-as a ui designer i want to redesign the resources page so that it equal the new broker plan style
+as a ui designer i want to redesign the resources page so that it equal the new broker design style
 2.6) Input phrase: as a ui designer i want to redesign the resources page so that it matches the new broker design styles 
-as a ui designer i want to redesign the resources page so that it equal the new broker plan expressive_style 
+as a ui designer i want to redesign the resources page so that it equal the new broker design expressive_style 
 2.7) Input phrase: as a ui designer i want to redesign the resources page so that it matches the new broker design styles
-as a ui designer i want to redesign the resources page so that it equal the new broker plan styles
+as a ui designer i want to redesign the resources page so that it equal the new broker design styles
 3.0) Input phrase: As a UI designer, I want to report to the Agencies about user testing, so that they are aware of their contributions to making Broker a better UX.
-As a UI designer, I want to report to the representation about user test, so that they are aware of their contributions to making agent a bettor UX.
+As a UI designer, I want to report to the representation about user testing, so that they are aware of their contributions to making broker a better UX.
 3.1) Input phrase: as a ui designer i want to report to the agencies about user testing so that they are aware of their contributions to making broker a better ux experience
-as a ui designer i want to report to the means about user test so that they are aware of their contributions to make agent a bettor ux experience
+as a ui designer i want to report to the representation about user testing so that they are aware of their contributions to making broker a better ux experience
 3.2) Input phrase: as a ui designer i want to report to the agencies about user testing so they are aware of their contributions to making broker a better ux
-as a ui designer i want to report to the representation about user test so they are aware of their contributions to making agent a bettor ux
+as a ui designer i want to report to the representation about user testing so they are aware of their contributions to making broker a better ux
 3.3) Input phrase: as a ui designer i want to report to the agencies about user testing so that they are aware of their contributions to make broker a better ux
 as a ui designer i want to report to the representation about user test so that they are aware of their contributions to make broker a better ux
 3.4) Input phrase: as a ui designer i want to report to the agencies about user testing so that they are aware of their contributions to making broker a better ux 
-as a ui designer i want to report to the representation about user test so that they are aware of their contributions to making agent a bettor ux 
+as a ui designer i want to report to the representation about user testing so that they are aware of their contributions to making broker a better ux 
 3.5) Input phrase: as a ui designer i want to report to the agencies about user testing so that they are aware of their contributions to making broker a better ux
-as a ui designer i want to report to the representation about user test so that they are aware of their contributions to making agent a bettor ux
+as a ui designer i want to report to the representation about user testing so that they are aware of their contributions to making broker a better ux
 4.0) Input phrase: As a UI designer, I want to move on to round 2 of DABS or FABS landing page edits, so that I can get approvals from leadership.
 As a UI designer, I want to move on to round 2 of tap or FABS landing page edits, so that I can get blessing from leadership.
 4.1) Input phrase: i would like to move on to round 2 of dabs or fabs landing page edits so that i can get approvals from the management
-i would like to motion on to round 2 of tap or fabs landing page edits so that i can get blessing from the management
+i would like to move on to round 2 of tap or fabs landing page edits so that i can get blessing from the management
 4.2) Input phrase: i'd like to move onto round 2 of dabs or fabs landing page edits so i can get approval from leadership
-i'd like to motion onto round_of_golf 2 of tap or fabs landing page edits so i can get blessing from leadership
+i'd like to move onto round 2 of tap or fabs landing page edits so i can get approval from leadership
 4.3) Input phrase: i'd like to move onto round 2 of dabs or fabs landing page edits so i can get approvals from leadership
-i'd like to motion onto round_of_golf 2 of tap or fabs landing page edits so i can get blessing from leadership
+i'd like to move onto round 2 of tap or fabs landing page edits so i can get blessing from leadership
 4.4) Input phrase: i would like to move on to round 2 of dabs or fabs landing page edits so i can get approvals from leadership
-i would like to motion on to round_of_golf 2 of tap or fabs landing page edits so i can get blessing from leadership
+i would like to move on to round 2 of tap or fabs landing page edits so i can get blessing from leadership
 4.5) Input phrase: i would like to move on to round 2 of dabs or fabs landing page edits so that i can get approvals from the leadership i
-i would like to motion on to round_of_golf 2 of tap or fabs landing page edits so that i can get blessing from the leadership i
+i would like to move on to round 2 of tap or fabs landing page edits so that i can get blessing from the leadership i
 4.6) Input phrase: i would like to move on to round 2 of dabs or fabs landing page edits so that i can get approvals from the leadership
-i would like to motion on to round_of_golf 2 of tap or fabs landing page edits so that i can get blessing from the leadership
+i would like to move on to round 2 of tap or fabs landing page edits so that i can get blessing from the leadership
 4.7) Input phrase: i'd like to move onto round 2 of dabs or fabs landing page edits so that i can get approvals from leadership
-i'd like to motion onto round_of_golf 2 of tap or fabs landing page edits so that i can get blessing from leadership
+i'd like to move onto round 2 of tap or fabs landing page edits so that i can get blessing from leadership
 4.8) Input phrase: i would like to move on to round 2 of dabs or fabs landing page edits so that i can get approvals from leadership i
-i would like to motion on to round_of_golf 2 of tap or fabs landing page edits so that i can get blessing from leadership i
+i would like to move on to round 2 of tap or fabs landing page edits so that i can get blessing from leadership i
 4.9) Input phrase: i would like to move on to round 2 of dabs or fabs landing page edits so that i can get approvals from leadership
-i would like to motion on to round_of_golf 2 of tap or fabs landing page edits so that i can get blessing from leadership
+i would like to move on to round 2 of tap or fabs landing page edits so that i can get blessing from leadership
 5.0) Input phrase: As a UI designer, I want to move on to round 2 of Homepage edits, so that I can get approvals from leadership.
-As a UI designer, I want to move on to round_of_golf 2 of home_page edits, so that I can get blessing from leadership.
+As a UI designer, I want to move on to round 2 of home_page edits, so that I can get blessing from leadership.
 5.1) Input phrase: as a ui designer i want to move on to round 2 of homepage edits so i can get approvals from the leadership team
-as a ui designer i want to move on to round_of_golf 2 of home_page edits so i can get blessing from the leadership team
+as a ui designer i want to move on to round 2 of home_page edits so i can get blessing from the leadership team
 5.2) Input phrase: as a ui designer i want to move on to round 2 of homepage edits so i can get approvals from the leadership
-as a ui designer i want to move on to round_of_golf 2 of home_page edits so i can get blessing from the leadership
+as a ui designer i want to move on to round 2 of home_page edits so i can get blessing from the leadership
 5.3) Input phrase: if i'm a ui designer i want to move on to round 2 of homepage edits so i can get approvals from leadership
-if i'm a ui designer i want to move on to round_of_golf 2 of home_page edits so i can get blessing from leadership
+if i'm a ui designer i want to move on to round 2 of home_page edits so i can get blessing from leadership
 5.4) Input phrase: as a ui designer i want to move on to round 2 of homepage edits so that i can get approvals from leadership i have
-as a ui designer i want to move on to round_of_golf 2 of home_page edits so that i can get blessing from leadership i have
+as a ui designer i want to move on to round 2 of home_page edits so that i can get blessing from leadership i have
 5.5) Input phrase: as a ui designer i want to move on to round 2 of homepage edits so i can get approvals from leadership
-as a ui designer i want to move on to round_of_golf 2 of home_page edits so i can get blessing from leadership
+as a ui designer i want to move on to round 2 of home_page edits so i can get blessing from leadership
 5.6) Input phrase: as a ui designer i want to move on to round 2 of homepage edits so that i can get approvals from leadership i
-as a ui designer i want to move on to round_of_golf 2 of home_page edits so that i can get blessing from leadership i
+as a ui designer i want to move on to round 2 of home_page edits so that i can get blessing from leadership i
 5.7) Input phrase: as a ui designer i want to move on to round 2 of homepage edits so that i can get approvals from leadership
-as a ui designer i want to move on to round_of_golf 2 of home_page edits so that i can get blessing from leadership
+as a ui designer i want to move on to round 2 of home_page edits so that i can get blessing from leadership
 6.0) Input phrase: As a UI designer, I want to move on to round 3 of the Help page edits, so that I can get approvals from leadership.
-As a UI designer, I want to move on to round 3 of the aid page edits, so that I can get blessing from leadership.
+As a UI designer, I want to move on to round 3 of the help page edits, so that I can get blessing from leadership.
 6.1) Input phrase: i want to move on to round 3 of the help page edits so i can get approval from the leadership
-i want to move on to round_of_golf 3 of the aid page edits so i can get blessing from the leadership
+i want to move on to round 3 of the help page edits so i can get approval from the leadership
 6.2) Input phrase: i want to move on to round 3 of help page edits so i can get approval from leadership
-i want to move on to round_of_golf 3 of aid page edits so i can get blessing from leadership
+i want to move on to round 3 of help page edits so i can get approval from leadership
 6.3) Input phrase: i want to move on to round 3 of the help page edits so i can get approval from leadership
-i want to move on to round_of_golf 3 of the aid page edits so i can get blessing from leadership
+i want to move on to round 3 of the help page edits so i can get approval from leadership
 6.4) Input phrase: i want to move on to round 3 of the help page edits so that i can get approval from the leadership
-i want to move on to round_of_golf 3 of the aid page edits so that i can get blessing from the leadership
+i want to move on to round 3 of the help page edits so that i can get approval from the leadership
 6.5) Input phrase: i want to move on to round 3 of the help page edits so that i can get approvals from the leadership
-i want to move on to round_of_golf 3 of the aid page edits so that i can get blessing from the leadership
+i want to move on to round 3 of the help page edits so that i can get blessing from the leadership
 6.6) Input phrase: i want to move on to round 3 of the help page edits so that i can get approval from leadership
-i want to move on to round_of_golf 3 of the aid page edits so that i can get blessing from leadership
+i want to move on to round 3 of the help page edits so that i can get approval from leadership
 6.7) Input phrase: i want to move on to round 3 of the help page edits so that i can get approvals from leadership
-i want to move on to round_of_golf 3 of the aid page edits so that i can get blessing from leadership
+i want to move on to round 3 of the help page edits so that i can get blessing from leadership
 6.8) Input phrase: as a ui designer i want to move on to round 3 of help page edits so i can get approvals from leadership
-as a ui designer i want to move on to round 3 of aid page edits so i can get blessing from leadership
+as a ui designer i want to move on to round 3 of help page edits so i can get blessing from leadership
 6.9) Input phrase: as a ui designer i want to move on to round 3 of the help page edits so i can get approval from leadership
-as a ui designer i want to motion on to round_of_golf 3 of the aid page edits so i can get blessing from leadership
+as a ui designer i want to move on to round 3 of the help page edits so i can get approval from leadership
 7.0) Input phrase: As a Developer , I want to be able to log better, so that I can troubleshoot issues with particular submissions and functions.
-As a developer , I want to be able to log better, so that I can trouble-shoot topic with particular meekness and officiate.
+As a developer , I want to be able to log better, so that I can trouble-shoot write_out with particular meekness and officiate.
 7.1) Input phrase: as a developer i want to be able to log better so i can troubleshoot issues with specific submissions and functions
-as a developer i want to be able to log better so i can trouble-shoot offspring with specific meekness and functions
+as a developer i want to be able to log better so i can trouble-shoot write_out with specific meekness and functions
 7.2) Input phrase: as a developer i want to be able to log better so i can troubleshoot issues with certain submissions and functions
 as a developer i want to be able to log better so i can trouble-shoot write_out with certain meekness and functions
 7.3) Input phrase: as a developer i want to be able to log better so that i can troubleshoot issues with specific submissions and functions
-as a developer i want to be able to log better so that i can trouble-shoot offspring with specific meekness and functions
+as a developer i want to be able to log better so that i can trouble-shoot write_out with specific meekness and functions
 7.4) Input phrase: as a developer i want to be able to log better so i can troubleshoot issues with particular submissions and functions ''
-as a developer i want to be able to log better so i can trouble-shoot topic with particular meekness and officiate ''
+as a developer i want to be able to log better so i can trouble-shoot write_out with particular meekness and officiate ''
 7.5) Input phrase: as a developer i want to be able to log better so i can troubleshoot issues with particular submissions and functions
-as a developer i want to be able to log better so i can trouble-shoot topic with particular meekness and functions
+as a developer i want to be able to log better so i can trouble-shoot write_out with particular meekness and functions
 7.6) Input phrase: as anet developer i want to be able to log better so i can troubleshoot issues with particular submissions and functions
-as anet developer i want to be able to log better so i can trouble-shoot topic with particular meekness and functions
+as anet developer i want to be able to log better so i can trouble-shoot write_out with particular meekness and functions
 7.7) Input phrase: as a developer i want to be able to log better so that i can troubleshoot issues with particular submissions and functions '
-as a developer i want to be able to log better so that i can trouble-shoot topic with particular meekness and officiate '
+as a developer i want to be able to log better so that i can trouble-shoot write_out with particular meekness and officiate '
 7.8) Input phrase: as a developer i want to be able to log better so that i can troubleshoot issues with particular submissions and functions
-as a developer i want to be able to log better so that i can trouble-shoot topic with particular meekness and functions
+as a developer i want to be able to log better so that i can trouble-shoot write_out with particular meekness and functions
 7.9) Input phrase: as a developer i want to be able to log better so that i can troubleshoot issues with particular submissions and functions 
-as a developer i want to be able to log better so that i can trouble-shoot topic with particular meekness and officiate 
+as a developer i want to be able to log better so that i can trouble-shoot write_out with particular meekness and officiate 
 8.0) Input phrase: As a Developer, I want to add the updates on a FABS submission to be modified when the publishStatus changes, so that I know when the status of the submission has changed.
 As a developer, I want to add the updates on a FABS submission to be change when the publishStatus switch, so that I know when the status of the submission has switch.
 8.1) Input phrase: if i am a developer i want to add the updates on a fabs submission to be modified when the publishstatus changes so i know when the status of
@@ -141,7 +141,7 @@ as a developer i want to add updates on a fabs submission to be change when the 
 8.9) Input phrase: as a developer i want to add the updates on a fabs submission to be modified when the publishstatus changes so that i know when the status of the submission has changed
 as a developer i want to add the updates on a fabs submission to be change when the publishstatus switch so that i know when the status of the submission has changed
 9.0) Input phrase: As a DevOps engineer, I want New Relic to provide useful data across all applications.
-As a DevOps mastermind, I want new relic to provide useful data across all lotion.
+As a DevOps engineer, I want new relic to provide useful data across all lotion.
 9.1) Input phrase: i'd like new relic to provide useful data across all applications as a devops engineer
 i'd wish new relic to provide useful data across all lotion as a devops engineer
 9.2) Input phrase: i want new relic to provide useful data across all applications as a devops engineer
@@ -149,51 +149,51 @@ i want new relic to provide useful data across all lotion as a devops engineer
 9.3) Input phrase: i want new relic to provide useful data across all applications
 i want new relic to provide useful data across all applications
 9.4) Input phrase: as a devops engineer i want new relic to provide useful information across all applications
-as a devops mastermind i want new relic to provide useful information across all applications
+as a devops engineer i want new relic to provide useful information across all applications
 9.5) Input phrase: i'm a devops engineer who wants new relic to provide useful data across all applications
-i'm a devops mastermind who desire new relic to provide useful data across all applications
+i'm a devops engineer who desire new relic to provide useful data across all applications
 9.6) Input phrase: i'm a devops engineer i want new relic to provide useful data across all applications
-i'm a devops mastermind i want new relic to provide useful data across all applications
+i'm a devops engineer i want new relic to provide useful data across all applications
 9.7) Input phrase: as a devops engineer i want new relic to provide useful data across all applications
-as a devops mastermind i want new relic to provide useful data across all applications
+as a devops engineer i want new relic to provide useful data across all applications
 9.8) Input phrase: as a devops engineer i want new relic to provide useful data across all applications 
-as a devops mastermind i want new relic to provide useful data across all lotion 
+as a devops engineer i want new relic to provide useful data across all lotion 
 10.0) Input phrase: As a UI designer,  I want to move on to round 2 of the Help page edits, so that I can get approvals from leadership.
-As a UI designer,  I want to move on to round 2 of the aid page edits, so that I can get blessing from leadership.
+As a UI designer,  I want to move on to round 2 of the help page edits, so that I can get blessing from leadership.
 10.1) Input phrase: i want to move on to round 2 of help page edits so i can get approval from leadership
-i want to move on to round_of_golf 2 of aid page edits so i can get blessing from leadership
+i want to move on to round 2 of help page edits so i can get approval from leadership
 10.2) Input phrase: i want to move on to round 2 of the help page edits so i can get approval from the leadership
-i want to move on to round_of_golf 2 of the aid page edits so i can get blessing from the leadership
+i want to move on to round 2 of the help page edits so i can get approval from the leadership
 10.3) Input phrase: i want to move on to round 2 of the help page edits so i can get approval from leadership
-i want to move on to round_of_golf 2 of the aid page edits so i can get blessing from leadership
+i want to move on to round 2 of the help page edits so i can get approval from leadership
 10.4) Input phrase: i want to move on to round 2 of the help page edits so that i can get approval from the leadership
-i want to move on to round_of_golf 2 of the aid page edits so that i can get blessing from the leadership
+i want to move on to round 2 of the help page edits so that i can get approval from the leadership
 10.5) Input phrase: i want to move on to round 2 of the help page edits so that i can get approvals from the leadership
-i want to move on to round_of_golf 2 of the aid page edits so that i can get blessing from the leadership
+i want to move on to round 2 of the help page edits so that i can get blessing from the leadership
 10.6) Input phrase: i want to move on to round 2 of the help page edits so that i can get approval from leadership
-i want to move on to round_of_golf 2 of the aid page edits so that i can get blessing from leadership
+i want to move on to round 2 of the help page edits so that i can get approval from leadership
 10.7) Input phrase: i want to move on to round 2 of the help page edits so that i can get approvals from leadership
-i want to move on to round_of_golf 2 of the aid page edits so that i can get blessing from leadership
+i want to move on to round 2 of the help page edits so that i can get blessing from leadership
 10.8) Input phrase: as a ui designer i want to move on to round 2 of help page edits so i can get approvals from leadership
-as a ui designer i want to move on to round 2 of aid page edits so i can get blessing from leadership
+as a ui designer i want to move on to round 2 of help page edits so i can get blessing from leadership
 10.9) Input phrase: as a ui designer i want to move on to round 2 of the help page edits so i can get approval from leadership
-as a ui designer i want to motion on to round_of_golf 2 of the aid page edits so i can get blessing from leadership
+as a ui designer i want to move on to round 2 of the help page edits so i can get approval from leadership
 11.0) Input phrase: As a UI designer, I want to move on to round 2 of Homepage edits, so that I can get approvals from leadership.
-As a UI designer, I want to move on to round_of_golf 2 of home_page edits, so that I can get blessing from leadership.
+As a UI designer, I want to move on to round 2 of home_page edits, so that I can get blessing from leadership.
 11.1) Input phrase: as a ui designer i want to move on to round 2 of homepage edits so i can get approvals from the leadership team
-as a ui designer i want to move on to round_of_golf 2 of home_page edits so i can get blessing from the leadership team
+as a ui designer i want to move on to round 2 of home_page edits so i can get blessing from the leadership team
 11.2) Input phrase: as a ui designer i want to move on to round 2 of homepage edits so i can get approvals from the leadership
-as a ui designer i want to move on to round_of_golf 2 of home_page edits so i can get blessing from the leadership
+as a ui designer i want to move on to round 2 of home_page edits so i can get blessing from the leadership
 11.3) Input phrase: if i'm a ui designer i want to move on to round 2 of homepage edits so i can get approvals from leadership
-if i'm a ui designer i want to move on to round_of_golf 2 of home_page edits so i can get blessing from leadership
+if i'm a ui designer i want to move on to round 2 of home_page edits so i can get blessing from leadership
 11.4) Input phrase: as a ui designer i want to move on to round 2 of homepage edits so that i can get approvals from leadership i have
-as a ui designer i want to move on to round_of_golf 2 of home_page edits so that i can get blessing from leadership i have
+as a ui designer i want to move on to round 2 of home_page edits so that i can get blessing from leadership i have
 11.5) Input phrase: as a ui designer i want to move on to round 2 of homepage edits so i can get approvals from leadership
-as a ui designer i want to move on to round_of_golf 2 of home_page edits so i can get blessing from leadership
+as a ui designer i want to move on to round 2 of home_page edits so i can get blessing from leadership
 11.6) Input phrase: as a ui designer i want to move on to round 2 of homepage edits so that i can get approvals from leadership i
-as a ui designer i want to move on to round_of_golf 2 of home_page edits so that i can get blessing from leadership i
+as a ui designer i want to move on to round 2 of home_page edits so that i can get blessing from leadership i
 11.7) Input phrase: as a ui designer i want to move on to round 2 of homepage edits so that i can get approvals from leadership
-as a ui designer i want to move on to round_of_golf 2 of home_page edits so that i can get blessing from leadership
+as a ui designer i want to move on to round 2 of home_page edits so that i can get blessing from leadership
 12.0) Input phrase: As a Broker user, I want to Upload and Validate the error message to have accurate text.
 As a broker user, I want to upload and validate the error message to have accurate text.
 12.1) Input phrase: as user of a broker i want to upload and validate the error message to have exact text
@@ -237,7 +237,7 @@ as a web_site user i want to access print fabs charge so i can understand the ne
 14.8) Input phrase: as a website user i want to access published fabs files so that i can see the new files as they come in
 as a web_site user i want to access print fabs charge so that i can understand the new charge as they come in
 15.0) Input phrase: As an owner, I want to be sure that USAspending only send grant records to my system.
-As an owner, I want to be sure that USAspending only send award commemorate to my system.
+As an owner, I want to be sure that USAspending only send grant commemorate to my system.
 15.1) Input phrase: as a shareholder i want to be sure that usaspending only sends grant records to my system
 as a stockholder i want to be sure that usaspending only transport grant commemorate to my system
 15.2) Input phrase: as owner i want to be sure that usaspending only sends grant records to my system
@@ -275,51 +275,51 @@ as a developer i want to add the gtas window data to the database so i can guara
 17.8) Input phrase: as a developer i want to add the gtas window data to the database so that i can ensure the site is locked down during the gtas submission period
 as a developer i want to add the gtas window data to the database so that i can guarantee the site is engage down during the gtas submission period
 18.0) Input phrase: As a Developer, I want D Files generation requests to be managed and cached, so that duplicate requests do not cause performance issues.
-As a developer, I want D charge genesis requests to be do and hoard, so that duplicate requests do not cause performance emergence.
+As a developer, I want D charge generation requests to be do and hoard, so that duplicate requests do not cause performance emergence.
 18.1) Input phrase: developer i want d files generation request to be managed and cached so that duplicate requests do not cause performance problems
 developer i want d charge generation request to be do and hoard so that duplicate requests do not cause performance problems
 18.2) Input phrase: developer i want d files generation requests to be managed and cached so that duplicate requests do not cause performance problems
-developer i want d charge genesis requests to be do and hoard so that duplicate requests do not cause performance problems
+developer i want d charge generation requests to be do and hoard so that duplicate requests do not cause performance problems
 18.3) Input phrase: developer i want d files generation requests managed and cached so that duplicate requests do not cause performance issues
-developer i want d charge genesis requests do and hoard so that duplicate requests do not cause performance issues
+developer i want d charge generation requests do and hoard so that duplicate requests do not cause performance issues
 18.4) Input phrase: developer i want d files generation requests to be managed and cached so that duplicate requests do not cause performance issues i have
-developer i want d charge genesis requests to be do and hoard so that duplicate requests do not cause performance emergence i have
+developer i want d charge generation requests to be do and hoard so that duplicate requests do not cause performance emergence i have
 18.5) Input phrase: developer i want d files generation requests to be managed and cached so duplicate requests do not cause performance issues
-developer i want d charge genesis requests to be do and hoard so duplicate requests do not cause performance issues
+developer i want d charge generation requests to be do and hoard so duplicate requests do not cause performance issues
 18.6) Input phrase: developer i want d files generation requests to be managed and cached so that duplicate requests do not cause performance issues i
-developer i want d charge genesis requests to be do and hoard so that duplicate requests do not cause performance emergence i
+developer i want d charge generation requests to be do and hoard so that duplicate requests do not cause performance emergence i
 18.7) Input phrase: developer i want d files generation request to be managed and cached so that duplicate requests do not cause performance issues
 developer i want d charge generation request to be do and hoard so that duplicate requests do not cause performance issues
 18.8) Input phrase: as a developer i want d files generation requests managed and cached so that duplicate requests do not cause performance issues
-as a developer i want d charge genesis requests do and hoard so that duplicate requests do not cause performance issues
+as a developer i want d charge generation requests do and hoard so that duplicate requests do not cause performance issues
 18.9) Input phrase: developer i want d files generation requests to be managed and cached so that duplicate requests do not cause performance issues
-developer i want d charge genesis requests to be do and hoard so that duplicate requests do not cause performance issues
+developer i want d charge generation requests to be do and hoard so that duplicate requests do not cause performance issues
 18.10) Input phrase: as a developer i want d file generation requests to be managed and cached so that duplicate requests do not cause performance issues
 as a developer i want d file generation requests to be do and hoard so that duplicate requests do not cause performance issues
 19.0) Input phrase: As a user, I want to access the raw agency published files from FABS via USAspending.
-As a user, I want to access the raw agency print charge from FABS via USAspending.
+As a user, I want to access the raw agency published charge from FABS via USAspending.
 19.1) Input phrase: as a user i want to access the raw agency files published by fabs via usaspending
-as a user i want to access the raw agency charge print by fabs via usaspending
+as a user i want to access the raw agency charge published by fabs via usaspending
 19.2) Input phrase: as a user i want access to the raw agency published files from fabs via usaspending
-as a user i want access to the raw agency print charge from fabs via usaspending
+as a user i want access to the raw agency published charge from fabs via usaspending
 19.3) Input phrase: as a user i want to access raw agency published files from fabs via usaspending
-as a user i want to access raw agency print charge from fabs via usaspending
+as a user i want to access raw agency published charge from fabs via usaspending
 19.4) Input phrase: as a user i want to access the raw agency published files of fabs via usaspending
-as a user i want to access the raw agency print charge of fabs via usaspending
+as a user i want to access the raw agency published charge of fabs via usaspending
 19.5) Input phrase: as a user i want to access the raw agency published files from fabs via usaspendingorg
-as a user i want to access the raw agency print charge from fabs via usaspendingorg
+as a user i want to access the raw agency published charge from fabs via usaspendingorg
 19.6) Input phrase: as a user i want to access the raw agency published files from fabs via usaspendingpdf
-as a user i want to access the raw agency print charge from fabs via usaspendingpdf
+as a user i want to access the raw agency published charge from fabs via usaspendingpdf
 19.7) Input phrase: as a user i want to access the raw agency published files from fabs via usaspendingcom
-as a user i want to access the raw agency print charge from fabs via usaspendingcom
+as a user i want to access the raw agency published charge from fabs via usaspendingcom
 19.8) Input phrase: as a user i want to access the raw agency published files from fabs via usaspending
-as a user i want to access the raw agency print charge from fabs via usaspending
+as a user i want to access the raw agency published charge from fabs via usaspending
 19.9) Input phrase: in my case as a user i want to access the raw agency published files from fabs via usaspendin
-in my case as a user i want to access the raw agency print charge from fabs via usaspendin
+in my case as a user i want to access the raw agency published charge from fabs via usaspendin
 20.0) Input phrase: As an Agency user, I want to be able to include a large number of flexfields without performance impact.
 As an agency user, I want to be able to include a large number of flexfields without performance impact.
 20.1) Input phrase: the agency user wants to be able to include a large number of flexible fields without performance impact
-the representation user desire to be able to include a large number of flexible fields without performance impact
+the agency user desire to be able to include a large number of flexible fields without performance impact
 20.2) Input phrase: the agency user wants to be able to include a large number of flexfields without performance impacts
 the agency user desire to be able to include a large number of flexfields without performance impacts
 20.3) Input phrase: the agency user wants to be able to include a large number of flexfields without performance impact
@@ -345,45 +345,45 @@ as a broker user i want to help create content mockups so i can submit my data e
 21.7) Input phrase: as a broker user i want to help create content mockups so that i can submit my data efficiently
 as a broker user i want to help create content mockups so that i can submit my data efficiently
 22.0) Input phrase: As a UI designer, I want to track the issues that come up in Tech Thursday, so that I know what to test and what want s to be fixed.
-As a UI designer, I want to chase the exit that come up in technical_school thursday, so that I know what to screen and what want s to be repair.
+As a UI designer, I want to track the write_out that come up in technical_school thursday, so that I know what to test and what want s to be repair.
 22.1) Input phrase: as a ui designer i want to track the issues that come up in tech thursday so i know what to test and what needs to be fixed
-as a ui designer i want to track the exit that come up in technical_school thursday so i know what to test and what want to be fixed
+as a ui designer i want to track the write_out that come up in technical_school thursday so i know what to test and what want to be fixed
 22.2) Input phrase: when i'm a ui designer i want to track issues that come up in tech thursday so i know what to test and what wants to be fixed
-when i'm a ui designer i want to track exit that come up in technical_school thursday so i know what to test and what desire to be fixed
+when i'm a ui designer i want to track write_out that come up in technical_school thursday so i know what to test and what desire to be fixed
 22.3) Input phrase: as a ui designer i want to track the issues that come up in tech thursday so i know what to test and what want to be fixed ''
-as a ui designer i want to chase the exit that come up in technical_school thursday so i know what to screen and what want to be repair ''
+as a ui designer i want to track the write_out that come up in technical_school thursday so i know what to test and what want to be repair ''
 22.4) Input phrase: as a ui designer i want to track the issues that come up in tech thursday so i know what to test and what wants to be fixed ''
-as a ui designer i want to track the exit that come up in technical_school thursday so i know what to test and what desire to be repair ''
+as a ui designer i want to track the write_out that come up in technical_school thursday so i know what to test and what desire to be fixed ''
 22.5) Input phrase: as a ui designer i want to track the issues that come up in tech thursday so i know what to test and what want to be fixed
-as a ui designer i want to chase the exit that come up in technical_school thursday so i know what to screen and what want to be fixed
+as a ui designer i want to track the write_out that come up in technical_school thursday so i know what to test and what want to be fixed
 22.6) Input phrase: as a ui designer i want to track the issues that come up in tech thursday so i know what to test and what wants to be fixed
-as a ui designer i want to track the exit that come up in technical_school thursday so i know what to test and what desire to be fixed
+as a ui designer i want to track the write_out that come up in technical_school thursday so i know what to test and what desire to be fixed
 22.7) Input phrase: as a ui designer i want to track the issues that come up in tech thursday so that i know what to test and what wants to be fixed '
-as a ui designer i want to track the exit that come up in technical_school thursday so that i know what to test and what desire to be repair '
+as a ui designer i want to track the write_out that come up in technical_school thursday so that i know what to test and what desire to be fixed '
 22.8) Input phrase: as a ui designer i want to track the issues that come up in tech thursday so that i know what to test and what want to be fixed
-as a ui designer i want to chase the exit that come up in technical_school thursday so that i know what to screen and what want to be fixed
+as a ui designer i want to track the write_out that come up in technical_school thursday so that i know what to test and what want to be fixed
 22.9) Input phrase: as a ui designer i want to track the issues that come up in tech thursday so that i know what to test and what wants to be fixed
-as a ui designer i want to track the exit that come up in technical_school thursday so that i know what to test and what desire to be fixed
+as a ui designer i want to track the write_out that come up in technical_school thursday so that i know what to test and what desire to be fixed
 23.0) Input phrase: As an Owner, I want to create a user testing summary from the UI SME, so that I can know what UI improvements we will follow through on.
-As an owner, I want to create a user test summary from the UI SME, so that I can know what UI improvements we will follow through on.
+As an owner, I want to create a user testing summary from the UI SME, so that I can know what UI improvements we will follow through on.
 23.1) Input phrase: i want to create a user testing summary from the ui sme so i can know what ui improvements we will follow
-i want to create a user test summary from the ui sme so i can know what ui improvements we will follow
+i want to create a user testing summary from the ui sme so i can know what ui improvements we will follow
 23.2) Input phrase: i want to create a user testing summary from the ui sme so i can know what improvements we will follow up on
-i want to create a user test summary from the ui sme so i can know what improvements we will follow up on
+i want to create a user testing summary from the ui sme so i can know what improvements we will follow up on
 23.3) Input phrase: i want to create a user testing summary from the ui sme so i can know what ui improvements we will follow up on
-i want to create a user test summary from the ui sme so i can know what ui improvements we will follow up on
+i want to create a user testing summary from the ui sme so i can know what ui improvements we will follow up on
 23.4) Input phrase: i want to create a user testing summary from the ui sme so that i can know what ui improvements we will follow
-i want to create a user test summary from the ui sme so that i can know what ui improvements we will follow
+i want to create a user testing summary from the ui sme so that i can know what ui improvements we will follow
 23.5) Input phrase: i want to create a user testing summary from the ui sme so that i can know what ui improvements we will follow up
-i want to create a user test summary from the ui sme so that i can know what ui improvements we will follow up
+i want to create a user testing summary from the ui sme so that i can know what ui improvements we will follow up
 23.6) Input phrase: i want to create a user testing summary from the ui sme so that i can know what ui improvements we will follow up on
-i want to create a user test summary from the ui sme so that i can know what ui improvements we will follow up on
+i want to create a user testing summary from the ui sme so that i can know what ui improvements we will follow up on
 23.7) Input phrase: i want to create a user testing summary from the ui sme so i can know what ui improvements we will follow through on
-i want to create a user test summary from the ui sme so i can know what ui improvements we will follow through on
+i want to create a user testing summary from the ui sme so i can know what ui improvements we will follow through on
 23.8) Input phrase: as owner i want to create a user testing summary from the ui sme so i can know what ui improvements we will follow up on
-as owner i want to create a user test summary from the ui sme so i can know what ui improvements we will follow up on
+as owner i want to create a user testing summary from the ui sme so i can know what ui improvements we will follow up on
 23.9) Input phrase: i want to create a user testing summary from the ui sme so that i can know what ui improvements we will follow through on
-i want to create a user test summary from the ui sme so that i can know what ui improvements we will follow through on
+i want to create a user testing summary from the ui sme so that i can know what ui improvements we will follow through on
 24.0) Input phrase: As a UI designer, I want to begin user testing, so that I can validate stakeholder UI improvement requests.
 As a UI designer, I want to begin user testing, so that I can validate stakeholder UI improvement requests.
 24.1) Input phrase: as a ui designer i want to begin user testing to validate stakeholder ui improvement requests
@@ -409,13 +409,13 @@ As a UI designer, I want to schedule user test, so that I can grant the examiner
 25.1) Input phrase: as a ui designer i want to schedule user testing so i can give the testers advance notice to ensure buy-in to the product
 as a ui designer i want to schedule user testing so i can give the examiner advance notice to guarantee buy-in to the product
 25.2) Input phrase: as a ui designer i want to schedule user testing so i can give the testers advance notice to ensure buy-in to the project
-as a ui designer i want to schedule user examination so i can give the examiner advance notice to guarantee buy-in to the project
+as a ui designer i want to schedule user testing so i can give the examiner advance notice to guarantee buy-in to the project
 25.3) Input phrase: as a ui designer i want to schedule user testing so i can give the testers advance notice to ensure buy-in to the test
-as a ui designer i want to schedule user examination so i can give the examiner advance notice to guarantee buy-in to the test
+as a ui designer i want to schedule user testing so i can give the examiner advance notice to guarantee buy-in to the test
 25.4) Input phrase: as a ui designer i want to schedule user testing so that i can give the testers advance notice to ensure buy-in to the project
-as a ui designer i want to schedule user examination so that i can give the examiner advance notice to guarantee buy-in to the project
+as a ui designer i want to schedule user testing so that i can give the examiner advance notice to guarantee buy-in to the project
 25.5) Input phrase: as a ui designer i want to schedule user testing so that i can give the testers advance notice to ensure buy-in to the test
-as a ui designer i want to schedule user examination so that i can give the examiner advance notice to guarantee buy-in to the test
+as a ui designer i want to schedule user testing so that i can give the examiner advance notice to guarantee buy-in to the test
 25.6) Input phrase: as a ui designer i want to schedule user testing so i can give the testers early notice to ensure buy-in
 as a ui designer i want to schedule user test so i can grant the examiner early notice to guarantee buy-in
 25.7) Input phrase: as a ui designer i want to schedule user testing so i can give the testers advance notice to ensure buy in
@@ -471,11 +471,11 @@ as an owner i want to design an audit from the ui sme so i know the potential sc
 28.0) Input phrase: As a Developer, I want to prevent users from double publishing FABS submissions after refreshing, so that there are no duplicates.
 As a developer, I want to prevent drug_user from double print FABS meekness after review, so that there are no twin.
 28.1) Input phrase: my goal is to prevent users from double publishing fabs submissions after refreshing so there are no duplicates
-my goal is to prevent drug_user from double publication fabs meekness after review so there are no duplicates
+my goal is to prevent drug_user from double print fabs meekness after review so there are no duplicates
 28.2) Input phrase: my goal as a developer is to prevent users from double publishing fabs submissions after refreshing to prevent duplicates
 my goal as a developer is to prevent drug_user from double print fabs meekness after review to prevent duplicates
 28.3) Input phrase: my goal is to prevent users from double publishing fabs submissions after refreshing so that there are no duplicates
-my goal is to prevent drug_user from double publication fabs meekness after review so that there are no duplicates
+my goal is to prevent drug_user from double print fabs meekness after review so that there are no duplicates
 28.4) Input phrase: as a developer i want to prevent users from double publishing fabs submissions after refreshing to ensure there are no duplicates
 as a developer i want to prevent drug_user from double print fabs meekness after review to guarantee there are no duplicates
 28.5) Input phrase: as a developer i want to prevent users from double publishing fabs submissions after refreshing so there are no duplicates
@@ -511,7 +511,7 @@ as a data user i want to receive updates to fabs records
 30.0) Input phrase: As an Agency user, I want to be able to include a large number of flexfields without performance impact.
 As an agency user, I want to be able to include a large number of flexfields without performance impact.
 30.1) Input phrase: the agency user wants to be able to include a large number of flexible fields without performance impact
-the representation user desire to be able to include a large number of flexible fields without performance impact
+the agency user desire to be able to include a large number of flexible fields without performance impact
 30.2) Input phrase: the agency user wants to be able to include a large number of flexfields without performance impacts
 the agency user desire to be able to include a large number of flexfields without performance impacts
 30.3) Input phrase: the agency user wants to be able to include a large number of flexfields without performance impact
@@ -591,9 +591,9 @@ when i click the publish button in fabs i want the publish button to deactivate 
 34.3) Input phrase: when i click the publish button in fabs i want the publish button to deactivate so that i can not click it multiple times for the same submission
 when i click the publish button in fabs i want the publish button to deactivate so that i can not click it multiple times for the same submission
 34.4) Input phrase: when i click the publish button in fabs i want the publish button to deactivate after i click it while the derivations are happening so i can't click it multiple times for the same
-when i click the publish button in fabs i want the publish button to deactivate after i click it while the deriving are happening so i can't click it multiple multiplication for the same
+when i click the publish button in fabs i want the publish button to deactivate after i click it while the deriving are happening so i can't click it multiple times for the same
 34.5) Input phrase: when i click the publish button in fabs i want the publish button to deactivate after i click it while the derivations are happening so that i can not click it multiple times for the same
-when i click the publish button in fabs i want the publish button to deactivate after i click it while the deriving are happening so that i can not click it multiple multiplication for the same
+when i click the publish button in fabs i want the publish button to deactivate after i click it while the deriving are happening so that i can not click it multiple times for the same
 34.6) Input phrase: as a user i want the publish button in fabs to deactivate after i click it while the derivations are happening so i can't click it multiple times for the same submission
 as a user i want the publish button in fabs to deactivate after i click it while the deriving are happening so i can't click it multiple times for the same submission
 34.7) Input phrase: as a user i want the publish button in fabs to deactivate after i click it while the derivations are happening so i can not click it multiple times for the same submission
@@ -607,7 +607,7 @@ as a user i want the publish button in fabs to deactivate after i click it while
 35.0) Input phrase: As a Developer , I want to ensure that attempts to correct or delete non-existent records don't create new published data.
 As a developer , I want to guarantee that try to correct or delete non-existent commemorate don't create new print data.
 35.1) Input phrase: if i try to correct or delete non-existent records i want to ensure that attempts to create new published data don't create new
-if i try to correct or delete non-existent commemorate i desire to guarantee that try to create new print data don't create new
+if i try to correct or delete non-existent commemorate i want to guarantee that try to create new print data don't create new
 35.2) Input phrase: as a developer i want to ensure that attempts to delete or correct non-existent records don't create new published data
 as a developer i want to guarantee that try to delete or correct non-existent commemorate don't create new print data
 35.3) Input phrase: as a developer i want to ensure that attempts to correct or delete non-existent records don't create new published data i have
@@ -645,21 +645,21 @@ as an owner i want to reset the environment to only take staging soap license so
 36.10) Input phrase: as an owner i want to reset the environment to only take staging max permissions so that i can ensure that the fabs testers no longer have access
 as an owner i want to reset the environment to only take staging soap license so that i can guarantee that the fabs examiner no longer have access
 37.0) Input phrase: As a user, I want the flexfields in my submission file to appear in the warning and error files when the only error is a missing required element.
-As a user, I want the flexfields in my submission file to appear in the warning and error charge when the only error is a miss want component.
+As a user, I want the flexfields in my submission file to appear in the warning and error charge when the only error is a miss want element.
 37.1) Input phrase: as a user i want the flexfields in my submission file to appear in warning and error files when the only error is a missing required element
 as a user i want the flexfields in my submission file to appear in warning and error charge when the only error is a miss want element
 37.2) Input phrase: as a user i want flexfields in my submission file to appear in the warning and error files when the only error is a missing required element
 as a user i want flexfields in my submission file to appear in the warning and error charge when the only error is a miss want element
 37.3) Input phrase: as a user i want the flexfields in my submission file to appear in the warning and error files when the only error is a missing required element the
-as a user i want the flexfields in my submission file to appear in the warning and error charge when the only error is a miss want component the
+as a user i want the flexfields in my submission file to appear in the warning and error charge when the only error is a miss want element the
 37.4) Input phrase: as a user i want the flex fields in my submission file to appear in the warning and error files when the only error is a missing required element
-as a user i want the flex discipline in my submission file to appear in the warning and error charge when the only error is a miss want element
+as a user i want the flex fields in my submission file to appear in the warning and error charge when the only error is a miss want element
 37.5) Input phrase: as a user i want the flexfields in my submission file to appear in the warning and error files when the only error is a missing required element i
-as a user i want the flexfields in my submission file to appear in the warning and error charge when the only error is a miss want component i
+as a user i want the flexfields in my submission file to appear in the warning and error charge when the only error is a miss want element i
 37.6) Input phrase: as a user i want the flexfields in my submission file to appear in the warning and error files when the only error is a missing required element
 as a user i want the flexfields in my submission file to appear in the warning and error charge when the only error is a miss want element
 37.7) Input phrase: as a user i want the flexfields in my submission file to appear in the warning and error files when the only error is a missing required element 
-as a user i want the flexfields in my submission file to appear in the warning and error charge when the only error is a miss want component 
+as a user i want the flexfields in my submission file to appear in the warning and error charge when the only error is a miss want element 
 38.0) Input phrase: As a user, I want to have accurate and complete data related to PPoPCode and PPoPCongressionalDistrict.
 As a user, I want to have accurate and complete data refer to PPoPCode and PPoPCongressionalDistrict.
 38.1) Input phrase: as a user i want accurate and complete data about ppopcode and ppopcongressionaldistrict
@@ -751,27 +751,27 @@ as a agency user i want to be confident that the data arrive from surface-to-air
 42.9) Input phrase: as an agency user i want to be confident that the data coming from sam is complete
 as an agency user i want to be confident that the data arrive from surface-to-air_missile is complete
 43.0) Input phrase: As a Developer , I want my domain models to be indexed properly, so that I can get validation results back in a reasonable amount of time.
-As a developer , I want my domain mannequin to be indexed properly, so that I can arrive validation leave second in a reasonable total of time.
+As a developer , I want my domain mannequin to be indexed properly, so that I can arrive validation leave back in a reasonable amount of time.
 43.1) Input phrase: my domain models need to be indexed properly so i can get validation results back in a reasonable amount of time
-my knowledge_domain exemplar need to be indexed properly so i can get validation leave back in a reasonable amount of time
+my domain exemplar need to be indexed properly so i can arrive validation leave back in a reasonable amount of time
 43.2) Input phrase: my domain models need to be indexed properly so that i can get validation results back in a reasonable amount of time
-my knowledge_domain exemplar need to be indexed properly so that i can get validation leave back in a reasonable amount of time
+my domain exemplar need to be indexed properly so that i can arrive validation leave back in a reasonable amount of time
 43.3) Input phrase: developer i want my domain models indexed properly so i can get validation results back in a reasonable amount of time
-developer i want my domain mannequin indexed properly so i can arrive validation leave second in a reasonable total of time
+developer i want my domain mannequin indexed properly so i can arrive validation leave back in a reasonable amount of time
 43.4) Input phrase: developer i want my domain models indexed properly so that i can get validation results back in a reasonable amount of time
-developer i want my domain mannequin indexed properly so that i can arrive validation leave second in a reasonable total of time
+developer i want my domain mannequin indexed properly so that i can arrive validation leave back in a reasonable amount of time
 43.5) Input phrase: as a developer i want my domain models to be indexed correctly so i can get validation results back in a reasonable amount of time
-as a developer i want my domain mannequin to be indexed correctly so i can arrive validation leave second in a reasonable total of time
+as a developer i want my domain mannequin to be indexed correctly so i can arrive validation leave back in a reasonable amount of time
 43.6) Input phrase: as a developer i want my domain models indexed properly so i can get validation results back in a reasonable amount of time
-as a developer i want my domain mannequin indexed properly so i can arrive validation leave second in a reasonable total of time
+as a developer i want my domain mannequin indexed properly so i can arrive validation leave back in a reasonable amount of time
 43.7) Input phrase: developer i want my domain models to be indexed properly so i can get validation results back in a reasonable amount of time
-developer i want my domain mannequin to be indexed properly so i can arrive validation leave second in a reasonable total of time
+developer i want my domain mannequin to be indexed properly so i can arrive validation leave back in a reasonable amount of time
 43.8) Input phrase: as a developer i want my domain models indexed properly so that i can get validation results back in a reasonable amount of time
-as a developer i want my domain mannequin indexed properly so that i can arrive validation leave second in a reasonable total of time
+as a developer i want my domain mannequin indexed properly so that i can arrive validation leave back in a reasonable amount of time
 43.9) Input phrase: as a developer i want my domain models to be indexed properly so i can get validation results back in a reasonable amount of time
-as a developer i want my domain mannequin to be indexed properly so i can arrive validation leave second in a reasonable total of time
+as a developer i want my domain mannequin to be indexed properly so i can arrive validation leave back in a reasonable amount of time
 43.10) Input phrase: as a developer i want my domain models to be indexed properly so that i can get validation results back in a reasonable amount of time
-as a developer i want my domain mannequin to be indexed properly so that i can arrive validation leave second in a reasonable total of time
+as a developer i want my domain mannequin to be indexed properly so that i can arrive validation leave back in a reasonable amount of time
 44.0) Input phrase: As an agency user, I want the FABS validation rules to accept zero and blank for non-loan records.
 As an agency user, I want the FABS validation predominate to accept zero and blank for non-loan commemorate.
 44.1) Input phrase: i want the fabs validation rules to accept zero and blank for non-loan records
@@ -837,23 +837,23 @@ as an agency user i want to have all the derived data elements derived properly
 46.9) Input phrase: as an agency user i want to have all derived data elements derived properly
 as an agency user i want to have all derived data elements derived properly
 47.0) Input phrase: As a broker team member, I want to add the 00***** and 00FORGN PPoPCode cases to the derivation logic.
-As a broker team member, I want to add the 00***** and 00FORGN PPoPCode subject to the derivation logic.
+As a broker team member, I want to add the 00***** and 00FORGN PPoPCode encase to the derivation logic.
 47.1) Input phrase: as a broker team member i want to add the cases 00 and 00forgn ppopcode to the derivation logic
-as a broker team member i want to add the subject 00 and 00forgn ppopcode to the derivation logic
+as a broker team member i want to add the encase 00 and 00forgn ppopcode to the derivation logic
 47.2) Input phrase: as a broker team member i want to add the cases 00 and 00forgn ppopcode to the derivation logic 
-as a broker team member i want to add the subject 00 and 00forgn ppopcode to the derivation logic 
+as a broker team member i want to add the encase 00 and 00forgn ppopcode to the derivation logic 
 47.3) Input phrase: as a broker i want to add the 00 and 00forgn ppopcode cases to the derivation logic
 as a broker i want to add the 00 and 00forgn ppopcode encase to the derivation logic
 47.4) Input phrase: as a broker team member i want to add the case 00 and 00forgn ppopcode to the derivation logic
 as a broker team member i want to add the case 00 and 00forgn ppopcode to the derivation logic
 47.5) Input phrase: as a broker team member i want to add 00 and 00forgn ppopcode cases to the derivation logic
-as a broker team member i want to add 00 and 00forgn ppopcode subject to the derivation logic
+as a broker team member i want to add 00 and 00forgn ppopcode encase to the derivation logic
 47.6) Input phrase: as a broker team member i want to add the 00 and 00forgn ppopcode cases to the derivation code
-as a broker team member i want to add the 00 and 00forgn ppopcode subject to the derivation code
+as a broker team member i want to add the 00 and 00forgn ppopcode encase to the derivation code
 47.7) Input phrase: as a broker team member i want to add the 00 and 00forgn ppopcode cases to the derivation logic
-as a broker team member i want to add the 00 and 00forgn ppopcode subject to the derivation logic
+as a broker team member i want to add the 00 and 00forgn ppopcode encase to the derivation logic
 47.8) Input phrase: as a broker team member i want to add the 00 and 00forgn ppopcode cases to the derivation logic 
-as a broker team member i want to add the 00 and 00forgn ppopcode subject to the derivation logic 
+as a broker team member i want to add the 00 and 00forgn ppopcode encase to the derivation logic 
 48.0) Input phrase: As a data user, I want to see the office names derived from office codes, so that I can have appropriate context for understanding them.
 As a data user, I want to understand the office identify deduce from office tease, so that I can have appropriate context for understand them.
 48.1) Input phrase: as a data user i want to see office names derived from office codes so i can have the appropriate context for understanding them ''
@@ -893,7 +893,7 @@ the historical fabs loader will derive fields so that my agency tease are correc
 49.7) Input phrase: the historical fabs loader will derive fields so that my agency codes are correct in the publishedawardfinancialassistance table
 the historical fabs loader will derive fields so that my agency tease are correct in the publishedawardfinancialassistance table
 50.0) Input phrase: As a broker team member, I want to ensure the Broker resources, validations, and P&P pages are updated appropriately for the launch of FABS and DAIMS v1.1.
-As a broker team member, I want to guarantee the broker resources, establishment, and P&P foliate are updated appropriately for the establish of FABS and DAIMS v1.1.
+As a broker team member, I want to guarantee the broker resources, establishment, and P&P foliate are updated appropriately for the launch of FABS and DAIMS v1.1.
 51.0) Input phrase: As a Developer, I want the data loaded from historical FABS to include the FREC derivations, so that I can have consistent FREC data for USASpending.gov.
 As a developer, I want the data loaded from historical FABS to include the FREC deriving, so that I can have consistent FREC data for USASpending.gov.
 51.1) Input phrase: the data loaded from historical fabs should include the frec derivations so i can have consistent frec data for usaspendinggov
@@ -935,21 +935,21 @@ as a user i don't want to see national_aeronautics_and_space_administration conc
 52.9) Input phrase: as a user i don't want to see nasa grants displayed as contracts
 as a user i don't want to see national_aeronautics_and_space_administration award expose as contracts
 53.0) Input phrase: As a user, I want the DUNS validations to accept records whose ActionTypes are B, C, or D and the DUNS is registered in SAM, even though it may have expired.
-As a user, I want the torment establishment to take commemorate whose ActionTypes are b, c, or D and the torment is record in surface-to-air_missile, even though it may have exhale.
+As a user, I want the torment establishment to accept commemorate whose ActionTypes are b, c, or D and the torment is record in surface-to-air_missile, even though it may have exhale.
 53.1) Input phrase: as a user i want the duns validations to accept records whose actiontypes are b c or d and the duns is registered in sam even if it may have expired
-as a user i want the torment establishment to take commemorate whose actiontypes are b c or d and the torment is record in surface-to-air_missile even if it may have expired
+as a user i want the torment establishment to accept commemorate whose actiontypes are b c or d and the torment is record in surface-to-air_missile even if it may have expired
 53.2) Input phrase: in my opinion as a user i want duns validations to accept records whose actiontypes are b c or d and the duns is registered in sam even though it may have expired
-in my opinion as a user i want torment establishment to take commemorate whose actiontypes are b c or d and the torment is record in surface-to-air_missile even though it may have expired
+in my opinion as a user i want torment establishment to accept commemorate whose actiontypes are b c or d and the torment is record in surface-to-air_missile even though it may have expired
 53.3) Input phrase: as a user i want the duns validations to accept records whose actiontypes are b c or d and duns is registered in sam even though it may have expired
-as a user i want the torment establishment to take commemorate whose actiontypes are b c or d and torment is record in surface-to-air_missile even though it may have expired
+as a user i want the torment establishment to accept commemorate whose actiontypes are b c or d and torment is record in surface-to-air_missile even though it may have expired
 53.4) Input phrase: as a user i want duns validations to accept records whose actiontypes are b c or d and the duns is registered in sam even though it may have expired
-as a user i want torment establishment to take commemorate whose actiontypes are b c or d and the torment is record in surface-to-air_missile even though it may have expired
+as a user i want torment establishment to accept commemorate whose actiontypes are b c or d and the torment is record in surface-to-air_missile even though it may have expired
 53.5) Input phrase: as a user i want the duns validations to accept records whose actiontypes are b c or d and the duns is registered in sam even though it may have expired i
-as a user i want the torment establishment to take commemorate whose actiontypes are b c or d and the torment is record in surface-to-air_missile even though it may have exhale i
+as a user i want the torment establishment to accept commemorate whose actiontypes are b c or d and the torment is record in surface-to-air_missile even though it may have exhale i
 53.6) Input phrase: as a user i want the duns validations to accept records whose actiontypes are b c or d and the duns is registered in sam even though it may have expired
-as a user i want the torment establishment to take commemorate whose actiontypes are b c or d and the torment is record in surface-to-air_missile even though it may have expired
+as a user i want the torment establishment to accept commemorate whose actiontypes are b c or d and the torment is record in surface-to-air_missile even though it may have expired
 53.7) Input phrase: as a user i want the duns validations to accept records whose actiontypes are b c or d and the duns is registered in sam even though it may have expired 
-as a user i want the torment establishment to take commemorate whose actiontypes are b c or d and the torment is record in surface-to-air_missile even though it may have exhale 
+as a user i want the torment establishment to accept commemorate whose actiontypes are b c or d and the torment is record in surface-to-air_missile even though it may have exhale 
 54.0) Input phrase: As a user, I want the DUNS validations to accept records whose ActionDates are before the current registration date in SAM, but after the initial registration date.
 As a user, I want the torment establishment to accept commemorate whose ActionDates are before the current registration date in surface-to-air_missile, but after the initial registration date.
 54.1) Input phrase: if i'm a user i want duns validations to accept records whose actiondates are before the current registration date in sam but after the initial registration date
@@ -969,23 +969,23 @@ as a user i want the torment establishment to accept commemorate whose actiondat
 55.0) Input phrase: As a broker team member, I want to derive FundingAgencyCode, so that the data quality and completeness improves.
 As a broker team member, I want to derive FundingAgencyCode, so that the data quality and completeness better.
 55.1) Input phrase: as part of the broker team i want to derive funding agency code to improve data quality and completeness
-as part of the broker team i want to derive support agency code to better data quality and completeness
+as part of the broker team i want to derive fund agency code to better data quality and completeness
 55.2) Input phrase: as part of the broker team i want to derive funding agency code so that data quality and completeness improve
-as part of the broker team i want to derive support agency code so that data quality and completeness improve
+as part of the broker team i want to derive fund agency code so that data quality and completeness improve
 55.3) Input phrase: as part of the broker team i want to derive funding agency code so the data quality and completeness improves
-as part of the broker team i want to derive support agency code so the data quality and completeness improves
+as part of the broker team i want to derive fund agency code so the data quality and completeness improves
 55.4) Input phrase: as part of the broker team i want to derive funding agency code so that data quality and completeness improves
-as part of the broker team i want to derive support agency code so that data quality and completeness improves
+as part of the broker team i want to derive fund agency code so that data quality and completeness improves
 55.5) Input phrase: as a broker i want to derive fundingagencycode so that the data quality and completeness improves
 as a broker i want to derive fundingagencycode so that the data quality and completeness improves
 55.6) Input phrase: as part of the broker team i want to derive funding agency codes so that the data quality and completeness improves
-as part of the broker team i want to derive support agency tease so that the data quality and completeness improves
+as part of the broker team i want to derive fund agency tease so that the data quality and completeness improves
 55.7) Input phrase: as part of the broker team i want to derive funding agency code so that the data quality and completeness improve
-as part of the broker team i want to derive support agency code so that the data quality and completeness improve
+as part of the broker team i want to derive fund agency code so that the data quality and completeness improve
 55.8) Input phrase: as part of the broker team i want to derive funding agency code so that the data quality and completeness improves
-as part of the broker team i want to derive support agency code so that the data quality and completeness improves
+as part of the broker team i want to derive fund agency code so that the data quality and completeness improves
 55.9) Input phrase: as part of the broker team i want to derive funding agency code so that the data quality and completeness improves 
-as part of the broker team i want to derive support agency code so that the data quality and completeness better 
+as part of the broker team i want to derive fund agency code so that the data quality and completeness better 
 55.10) Input phrase: as a broker team member i want to derive fundingagencycode so that data quality and completeness improve
 as a broker team member i want to derive fundingagencycode so that data quality and completeness improve
 56.0) Input phrase: As an agency user, I want the maximum length allowed for LegalEntityAddressLine3 to match Schema v1.1.
@@ -1001,7 +1001,7 @@ as an agency user i want to map the federalactionobligation properly to atom fee
 58.3) Input phrase: as an agency user i want to map the federalactionobligation properly to the atom feed ''
 as an agency user i want to map the federalactionobligation properly to the atom feed ''
 58.4) Input phrase: as an agency user i want to map the federal action obligation properly to the atom feed
-as an representation user i want to map the federal action obligation properly to the atom feed
+as an agency user i want to map the federal action obligation properly to the atom feed
 58.5) Input phrase: as an agency user i want to map the federalactionobligation properly to the atom feed
 as an agency user i want to map the federalactionobligation properly to the atom feed
 58.6) Input phrase: as an agency user i want to map the federalactionobligation properly to the atom feed 
@@ -1011,29 +1011,29 @@ as an agency user i want to map the federalactionobligation properly to the atom
 59.0) Input phrase: As a Broker user, I want to have PPoPZIP+4 work the same as the Legal Entity ZIP validations.
 As a broker user, I want to have PPoPZIP+4 function the same as the legal entity travel_rapidly establishment.
 59.1) Input phrase: as broker i want ppopzip4 to work the same as legal entity zip validations
-as broker i want ppopzip4 to function the same as legal entity travel_rapidly validations
+as broker i want ppopzip4 to work the same as legal entity travel_rapidly validations
 59.2) Input phrase: as a broker user i want ppopzip4 to work the same as the legal entity zip validations
 as a broker user i want ppopzip4 to function the same as the legal entity travel_rapidly validations
 59.3) Input phrase: as a broker user i want to have ppopzip4 work the same as the legal entity zip validation
-as a broker user i want to have ppopzip4 function the same as the legal entity travel_rapidly validation
+as a broker user i want to have ppopzip4 work the same as the legal entity travel_rapidly validation
 59.4) Input phrase: as a broker user i want to have ppopzip4 work the same as the legal entity zip validations
 as a broker user i want to have ppopzip4 function the same as the legal entity travel_rapidly validations
 59.5) Input phrase: as a broker user i want to have ppopzip4 work the same as the legal entity zip validations 
 as a broker user i want to have ppopzip4 function the same as the legal entity travel_rapidly establishment 
 60.0) Input phrase: As a FABS user, I want to link the SAMPLE FILE on the "What you want  to submit" dialog to point to the correct file, so that I have an accurate reference for my agency submissions.
-As a FABS user, I want to connect the sample file on the "What you want  to submit" dialog to point to the correct file, so that I have an accurate reference for my agency meekness.
+As a FABS user, I want to connect the sample file on the "What you want  to submit" dialog to steer to the correct file, so that I have an accurate reference for my agency meekness.
 60.1) Input phrase: as a fabs user i want to link the sample file to the what you want to submit dialog to point to the correct file so i have an accurate reference for my agency submissions
-as a fabs user i want to connect the sample file to the what you want to submit dialog to point to the correct file so i have an accurate reference for my agency submissions
+as a fabs user i want to connect the sample file to the what you want to submit dialog to steer to the correct file so i have an accurate reference for my agency submissions
 60.2) Input phrase: as a fabs user i want to link the sample file in the what you want to submit dialog to point to the correct file so i have an accurate reference for my agency submissions
-as a fabs user i want to connect the sample file in the what you want to submit dialog to point to the correct file so i have an accurate reference for my agency submissions
+as a fabs user i want to connect the sample file in the what you want to submit dialog to steer to the correct file so i have an accurate reference for my agency submissions
 60.3) Input phrase: as a fabs user i want to link the sample file on the what you want to submit dialog to point to the correct file so i have an accurate reference for my agency submissions
-as a fabs user i want to connect the sample file on the what you want to submit dialog to point to the correct file so i have an accurate reference for my agency submissions
+as a fabs user i want to connect the sample file on the what you want to submit dialog to steer to the correct file so i have an accurate reference for my agency submissions
 60.4) Input phrase: as a fabs user i want to link the sample file on the what you want to submit dialog to point to the correct file so that i have an accurate reference for my agency submissions i
-as a fabs user i want to connect the sample file on the what you want to submit dialog to point to the correct file so that i have an accurate reference for my agency meekness i
+as a fabs user i want to connect the sample file on the what you want to submit dialog to steer to the correct file so that i have an accurate reference for my agency meekness i
 60.5) Input phrase: as a fabs user i want to link the sample file on the what you want to submit dialog to point to the correct file so that i have an accurate reference for my agency submissions 
-as a fabs user i want to connect the sample file on the what you want to submit dialog to point to the correct file so that i have an accurate reference for my agency meekness 
+as a fabs user i want to connect the sample file on the what you want to submit dialog to steer to the correct file so that i have an accurate reference for my agency meekness 
 60.6) Input phrase: as a fabs user i want to link the sample file on the what you want to submit dialog to point to the correct file so that i have an accurate reference for my agency submissions
-as a fabs user i want to connect the sample file on the what you want to submit dialog to point to the correct file so that i have an accurate reference for my agency submissions
+as a fabs user i want to connect the sample file on the what you want to submit dialog to steer to the correct file so that i have an accurate reference for my agency submissions
 61.0) Input phrase: As an Agency user, I want FPDS data to be up-to-date daily.
 As an agency user, I want flat_panel_display data to be up-to-date daily.
 61.1) Input phrase: as agency user i want fpds data to be up to date every day
@@ -1055,37 +1055,37 @@ as an agency user i want flat_panel_display data to be up to date daily
 61.9) Input phrase: as an agency user i want fpds data to be up-to-date daily
 as an agency user i want flat_panel_display data to be up-to-date daily
 62.0) Input phrase: As a user, I want to access the raw agency published files from FABS via USAspending.
-As a user, I want to access the raw agency print charge from FABS via USAspending.
+As a user, I want to access the raw agency published charge from FABS via USAspending.
 62.1) Input phrase: as a user i want to access the raw agency files published by fabs via usaspending
-as a user i want to access the raw agency charge print by fabs via usaspending
+as a user i want to access the raw agency charge published by fabs via usaspending
 62.2) Input phrase: as a user i want access to the raw agency published files from fabs via usaspending
-as a user i want access to the raw agency print charge from fabs via usaspending
+as a user i want access to the raw agency published charge from fabs via usaspending
 62.3) Input phrase: as a user i want to access raw agency published files from fabs via usaspending
-as a user i want to access raw agency print charge from fabs via usaspending
+as a user i want to access raw agency published charge from fabs via usaspending
 62.4) Input phrase: as a user i want to access the raw agency published files of fabs via usaspending
-as a user i want to access the raw agency print charge of fabs via usaspending
+as a user i want to access the raw agency published charge of fabs via usaspending
 62.5) Input phrase: as a user i want to access the raw agency published files from fabs via usaspendingorg
-as a user i want to access the raw agency print charge from fabs via usaspendingorg
+as a user i want to access the raw agency published charge from fabs via usaspendingorg
 62.6) Input phrase: as a user i want to access the raw agency published files from fabs via usaspendingpdf
-as a user i want to access the raw agency print charge from fabs via usaspendingpdf
+as a user i want to access the raw agency published charge from fabs via usaspendingpdf
 62.7) Input phrase: as a user i want to access the raw agency published files from fabs via usaspendingcom
-as a user i want to access the raw agency print charge from fabs via usaspendingcom
+as a user i want to access the raw agency published charge from fabs via usaspendingcom
 62.8) Input phrase: as a user i want to access the raw agency published files from fabs via usaspending
-as a user i want to access the raw agency print charge from fabs via usaspending
+as a user i want to access the raw agency published charge from fabs via usaspending
 62.9) Input phrase: in my case as a user i want to access the raw agency published files from fabs via usaspendin
-in my case as a user i want to access the raw agency print charge from fabs via usaspendin
+in my case as a user i want to access the raw agency published charge from fabs via usaspendin
 63.0) Input phrase: As a Developer , I want to determine how agencies will generate and validate D Files from FABS and FPDS data.
-As a developer , I want to determine how agency will generate and validate D charge from FABS and flat_panel_display data.
+As a developer , I want to determine how representation will generate and validate D charge from FABS and flat_panel_display data.
 63.1) Input phrase: as a developer i want to determine how agencies generate and validate d files from fabs and fpds data
-as a developer i want to determine how agency generate and validate d charge from fabs and flat_panel_display data
+as a developer i want to determine how representation generate and validate d charge from fabs and flat_panel_display data
 63.2) Input phrase: for me as a developer i want to determine how agencies generate and validate d files from fabs and fpds data
-for me as a developer i want to determine how agency generate and validate d charge from fabs and flat_panel_display data
+for me as a developer i want to determine how representation generate and validate d charge from fabs and flat_panel_display data
 63.3) Input phrase: as a developer i want to determine how agencies will generate and validate d files from fabs and fpds data ''
-as a developer i want to determine how agency will generate and validate d charge from fabs and flat_panel_display data ''
+as a developer i want to determine how representation will generate and validate d charge from fabs and flat_panel_display data ''
 63.4) Input phrase: as a developer i want to determine how agencies will generate and validate d files from fabs and fpds data
-as a developer i want to determine how agency will generate and validate d charge from fabs and flat_panel_display data
+as a developer i want to determine how representation will generate and validate d charge from fabs and flat_panel_display data
 63.5) Input phrase: for me as a developer i want to determine how agencies will generate and validate d files from fabs and fpds data
-for me as a developer i want to determine how agency will generate and validate d charge from fabs and flat_panel_display data
+for me as a developer i want to determine how representation will generate and validate d charge from fabs and flat_panel_display data
 64.0) Input phrase: As a user, I want to generate and validate D Files from FABS and FPDS data.
 As a user, I want to generate and validate D charge from FABS and flat_panel_display data.
 64.1) Input phrase: as a user i want to generate and validate d files from fabs and fpds data i have
@@ -1103,19 +1103,19 @@ in my role as a user i want to generate and validate d file from fabs and flat_p
 64.7) Input phrase: in my role as a user i want to generate and validate d files from fabs and fpds data
 in my role as a user i want to generate and validate d charge from fabs and flat_panel_display data
 65.0) Input phrase: As an Agency user, I want the header information box to show updated date AND time, so that I know when it was updated.
-As an means user, I want the header information box to show updated date AND time, so that I know when it was updated.
+As an agency user, I want the header information box to show updated date AND time, so that I know when it was updated.
 65.1) Input phrase: as an agency user i want the header information box to show the updated date and time so i know when it was updated ''
-as an means user i want the header information box to show the updated date and time so i know when it was updated ''
+as an agency user i want the header information box to show the updated date and time so i know when it was updated ''
 65.2) Input phrase: as an agency user i want the header information box to show the updated date and time so i know when it was updated
-as an means user i want the header information box to show the updated date and time so i know when it was updated
+as an agency user i want the header information box to show the updated date and time so i know when it was updated
 65.3) Input phrase: as an agency user i want the header information box to show updated date and time so i know when it was updated ''
-as an means user i want the header information box to show updated date and time so i know when it was updated ''
+as an agency user i want the header information box to show updated date and time so i know when it was updated ''
 65.4) Input phrase: as an agency user i want the header information box to show updated date and time so i know when it was updated
-as an means user i want the header information box to show updated date and time so i know when it was updated
+as an agency user i want the header information box to show updated date and time so i know when it was updated
 65.5) Input phrase: as an agency user i want the header information box to show updated date and time so that i know when it was updated ''
-as an means user i want the header information box to show updated date and time so that i know when it was updated ''
+as an agency user i want the header information box to show updated date and time so that i know when it was updated ''
 65.6) Input phrase: as an agency user i want the header information box to show updated date and time so that i know when it was updated
-as an means user i want the header information box to show updated date and time so that i know when it was updated
+as an agency user i want the header information box to show updated date and time so that i know when it was updated
 66.0) Input phrase: As an Agency user, I want to receive a more helpful file-level error when I upload a file with the wrong extension.
 As an agency user, I want to receive a more helpful file-level error when I upload a file with the wrong extension.
 66.1) Input phrase: as an agency user i want to receive a more helpful file-level error when i upload a file with the wrong format
@@ -1135,39 +1135,39 @@ as an agency user i want to receive a more helpful file-level error when i uploa
 66.8) Input phrase: as an agency user i want to receive a more helpful file-level error when i upload a file with the wrong extension
 as an agency user i want to receive a more helpful file-level error when i upload a file with the wrong extension
 67.0) Input phrase: As a tester, I want to have access to test features in environments other than Staging, so that I can test any nonProd feature in any environment.
-As a tester, I want to have access to test feature_of_speech in environments other than staging, so that I can test any nonProd feature in any environment.
+As a tester, I want to have access to test have in environments other than staging, so that I can test any nonProd feature in any environment.
 67.1) Input phrase: as a tester i want to have access to test features in other environments than staging so i can test any non-prod feature in any environment
-as a tester i want to have access to test feature_of_speech in other environments than staging so i can test any non-prod feature in any environment
+as a tester i want to have access to test have in other environments than staging so i can test any non-prod feature in any environment
 67.2) Input phrase: as a tester i want to have access to test features in environments other than staging so i can test any non-prod feature in any environment 
-as a tester i want to have access to test feature_of_speech in environments other than staging so i can test any non-prod feature in any environment 
+as a tester i want to have access to test have in environments other than staging so i can test any non-prod feature in any environment 
 67.3) Input phrase: as a tester i want to have access to test features in environments other than staging so i can test any non-prod feature in any environment
-as a tester i want to have access to test feature_of_speech in environments other than staging so i can test any non-prod feature in any environment
+as a tester i want to have access to test have in environments other than staging so i can test any non-prod feature in any environment
 67.4) Input phrase: as a tester i want to have access to test features in environments other than staging so that i can test any non-prod feature in any environment i
-as a tester i want to have access to test feature_of_speech in environments other than staging so that i can test any non-prod feature in any environment i
+as a tester i want to have access to test have in environments other than staging so that i can test any non-prod feature in any environment i
 67.5) Input phrase: as a tester i want to have access to test features in environments other than staging so that i can test any non-prod feature in any environment 
-as a tester i want to have access to test feature_of_speech in environments other than staging so that i can test any non-prod feature in any environment 
+as a tester i want to have access to test have in environments other than staging so that i can test any non-prod feature in any environment 
 67.6) Input phrase: as a tester i want to have access to test features in environments other than staging so that i can test any non-prod feature in any environment
-as a tester i want to have access to test feature_of_speech in environments other than staging so that i can test any non-prod feature in any environment
+as a tester i want to have access to test have in environments other than staging so that i can test any non-prod feature in any environment
 68.0) Input phrase: As a FABS user, I want to submission errors to accurately represent FABS errors, so that I know why my submission didn't work.
 As a FABS user, I want to submission mistake to accurately represent FABS mistake, so that I know why my submission didn't function.
 69.0) Input phrase: As a FABS user, I want the frontend URLs to more accurately reflect the page I'm accessing, so that I'm not confused.
-As a FABS user, I want the frontend URLs to more accurately reflect the foliate I'm access, so that I'm not jumble.
+As a FABS user, I want the frontend URLs to more accurately reflect the page I'm access, so that I'm not confused.
 69.1) Input phrase: as a fabs user i want the frontend urls to reflect the page i'm accessing more accurately so i'm not confused
-as a fabs user i want the frontend urls to reflect the foliate i'm access more accurately so i'm not confused
+as a fabs user i want the frontend urls to reflect the page i'm access more accurately so i'm not confused
 69.2) Input phrase: as a fabs user i want the frontend urls to reflect more accurately the page i'm accessing so i'm not confused
-as a fabs user i want the frontend urls to reflect more accurately the foliate i'm access so i'm not confused
+as a fabs user i want the frontend urls to reflect more accurately the page i'm access so i'm not confused
 69.3) Input phrase: as a fabs user i want the frontend urls to reflect the page i'm accessing so i'm not confused
 as a fabs user i want the frontend urls to reflect the page i'm access so i'm not confused
 69.4) Input phrase: in my opinion as a fabs user i want the frontend urls to reflect the page i'm accessing so that i'm not confused
 in my opinion as a fabs user i want the frontend urls to reflect the page i'm access so that i'm not confused
 69.5) Input phrase: as a fabs user i want the frontend urls to more accurately reflect the page i'm accessing so i'm not confused i
-as a fabs user i want the frontend urls to more accurately reflect the foliate i'm access so i'm not jumble i
+as a fabs user i want the frontend urls to more accurately reflect the page i'm access so i'm not confused i
 69.6) Input phrase: as a fabs user i want the frontend urls to more accurately reflect the page i'm accessing so that i'm not confused about
-as a fabs user i want the frontend urls to more accurately reflect the foliate i'm access so that i'm not jumble about
+as a fabs user i want the frontend urls to more accurately reflect the page i'm access so that i'm not confused about
 69.7) Input phrase: as a fabs user i want the frontend urls to more accurately reflect the page i'm accessing so i'm not confused
-as a fabs user i want the frontend urls to more accurately reflect the foliate i'm access so i'm not confused
+as a fabs user i want the frontend urls to more accurately reflect the page i'm access so i'm not confused
 69.8) Input phrase: as a fabs user i want the frontend urls to more accurately reflect the page i'm accessing so that i'm not confused
-as a fabs user i want the frontend urls to more accurately reflect the foliate i'm access so that i'm not confused
+as a fabs user i want the frontend urls to more accurately reflect the page i'm access so that i'm not confused
 70.0) Input phrase: As an Agency user, I want all historical Financial Assistance data loaded for FABS go-live.
 As an agency user, I want all historical Financial aid data loaded for FABS go-live.
 70.1) Input phrase: as an agency user i want all historical financial aid data loaded for fabs go-live
@@ -1211,23 +1211,23 @@ as an agency user i want historical flat_panel_display data loaded
 72.6) Input phrase: in my role as an agency user i want historical fpds data loaded
 in my role as an agency user i want historical flat_panel_display data loaded
 73.0) Input phrase: As an Agency user, I want to accurately see who created a submission, so that I'm not confused about who last updated a submission.
-As an agency user, I want to accurately understand who make a submission, so that I'm not jumble about who survive updated a submission.
+As an agency user, I want to accurately understand who make a submission, so that I'm not confused about who survive updated a submission.
 73.1) Input phrase: as agency user i want to see who created a submission so i'm not confused about who updated the submission last
-as agency user i want to understand who make a submission so i'm not jumble about who updated the submission last
+as agency user i want to see who make a submission so i'm not confused about who updated the submission last
 73.2) Input phrase: as agency user i want to see who created a submission so i'm not confused about who updated a submission last
-as agency user i want to understand who make a submission so i'm not jumble about who updated a submission last
+as agency user i want to see who make a submission so i'm not confused about who updated a submission last
 73.3) Input phrase: as an agency user i want to see who created a submission so that i'm not confused about who updated a submission last year
-as an representation user i want to understand who make a submission so that i'm not jumble about who updated a submission last year
+as an agency user i want to see who make a submission so that i'm not confused about who updated a submission last year
 73.4) Input phrase: as an agency user i want to see who created a submission so i'm not confused about who updated a submission last
-as an agency user i want to understand who make a submission so i'm not jumble about who updated a submission last
+as an agency user i want to see who make a submission so i'm not confused about who updated a submission last
 73.5) Input phrase: as an agency user i want to see who created a submission so that i'm not confused about who updated a submission last
-as an agency user i want to understand who make a submission so that i'm not jumble about who updated a submission last
+as an agency user i want to see who make a submission so that i'm not confused about who updated a submission last
 73.6) Input phrase: as an agency user i want to see who created a submission so i'm not confused about who last updated a submission
-as an agency user i want to understand who make a submission so i'm not jumble about who last updated a submission
+as an agency user i want to see who make a submission so i'm not confused about who last updated a submission
 73.7) Input phrase: as an agency user i want to see who created a submission so that i'm not confused about who last updated a submission 
-as an agency user i want to understand who make a submission so that i'm not jumble about who last updated a submission 
+as an agency user i want to see who make a submission so that i'm not confused about who last updated a submission 
 73.8) Input phrase: as an agency user i want to see who created a submission so that i'm not confused about who last updated a submission
-as an agency user i want to understand who make a submission so that i'm not jumble about who last updated a submission
+as an agency user i want to see who make a submission so that i'm not confused about who last updated a submission
 74.0) Input phrase: As an agency user, I want to get File F in the correct format.
 As an agency user, I want to get file f in the correct format.
 74.1) Input phrase: in my case as a user of an agency i want file f in the correct format
@@ -1249,7 +1249,7 @@ as an agency user i want to get file f in the correct format
 75.0) Input phrase: As an Agency user, I want to better understand my file-level errors.
 As an agency user, I want to better understand my file-level erroneousness.
 75.1) Input phrase: as agency user i want to understand my file errors more clearly
-as agency user i want to understand my charge erroneousness more clearly
+as agency user i want to understand my file erroneousness more clearly
 75.2) Input phrase: as agency user i want to understand my file errors better
 as agency user i want to understand my file erroneousness better
 75.3) Input phrase: the agency user wants to understand my file errors
@@ -1287,25 +1287,25 @@ as a developer i want to provide fabs groups that function under the frec paradi
 76.9) Input phrase: as a developer i want to provide fabs groups that function under the frec paradigm 
 as a developer i want to provide fabs groups that function under the frec paradigm 
 77.0) Input phrase: As a tester, I want to ensure that FABS is deriving fields properly through a robust test file plus a follow up check.
-As a tester, I want to guarantee that FABS is derive fields properly through a robust screen charge asset a follow up determine.
+As a tester, I want to guarantee that FABS is derive fields properly through a robust screen charge plus a follow up determine.
 77.1) Input phrase: as the tester i want to ensure that fabs deriving fields correctly through a robust test file plus a follow up check
-as the tester i want to guarantee that fabs derive fields correctly through a robust screen charge asset a follow up check
+as the tester i want to guarantee that fabs derive fields correctly through a robust screen charge plus a follow up check
 77.2) Input phrase: as the tester i want to ensure that fabs is generating fields properly through a robust test file plus a follow-up check
-as the tester i want to guarantee that fabs is generate fields properly through a robust screen charge summation a follow-up check
+as the tester i want to guarantee that fabs is generate fields properly through a robust screen charge plus a follow-up check
 77.3) Input phrase: as the tester i want to ensure that fabs is generating fields properly through a robust test file plus a follow up check
-as the tester i want to guarantee that fabs is generate fields properly through a robust screen charge summation a follow up check
+as the tester i want to guarantee that fabs is generate fields properly through a robust screen charge plus a follow up check
 77.4) Input phrase: as a tester i want to ensure that fabs is deriving fields correctly through a robust test file plus a follow up check
-as a tester i want to guarantee that fabs is derive fields correctly through a robust screen charge asset a follow up check
+as a tester i want to guarantee that fabs is derive fields correctly through a robust screen charge plus a follow up check
 77.5) Input phrase: as the tester i want to ensure that fabs deriving fields properly through a robust test file plus a follow-up check
-as the tester i want to guarantee that fabs derive fields properly through a robust screen charge asset a follow-up check
+as the tester i want to guarantee that fabs derive fields properly through a robust screen charge plus a follow-up check
 77.6) Input phrase: as the tester i want to ensure that fabs deriving fields properly through a robust test file plus a follow-up check 
-as the tester i want to guarantee that fabs derive fields properly through a robust screen charge asset a follow-up determine 
+as the tester i want to guarantee that fabs derive fields properly through a robust screen charge plus a follow-up determine 
 77.7) Input phrase: as the tester i want to ensure that fabs deriving fields properly through a robust test file plus a follow up check
-as the tester i want to guarantee that fabs derive fields properly through a robust screen charge asset a follow up check
+as the tester i want to guarantee that fabs derive fields properly through a robust screen charge plus a follow up check
 77.8) Input phrase: as a tester i want to ensure that fabs deriving fields properly through a robust test file plus a follow-up check
-as a tester i want to guarantee that fabs derive fields properly through a robust screen charge asset a follow-up check
+as a tester i want to guarantee that fabs derive fields properly through a robust screen charge plus a follow-up check
 77.9) Input phrase: as a tester i want to ensure that fabs is deriving fields properly through a robust test file plus a follow up check
-as a tester i want to guarantee that fabs is derive fields properly through a robust screen charge asset a follow up check
+as a tester i want to guarantee that fabs is derive fields properly through a robust screen charge plus a follow up check
 78.0) Input phrase: As an owner, I only want zero-padded fields, so that I can justify padding.
 As an owner, I only want zero-padded fields, so that I can justify padding.
 78.1) Input phrase: i want only zero-padded fields as a property owner so that i can justify padding
@@ -1337,7 +1337,7 @@ as a broker user i want to submit commemorate for individual recipient_role with
 79.5) Input phrase: as a broker user i want to submit records for individual recipients without receiving a duns error
 as a broker user i want to submit commemorate for individual recipient_role without receive a torment error
 80.0) Input phrase: As a user, I want more information about how many rows will be published prior to deciding whether to publish.
-As a user, I want more information about how many course will be print prior to decide whether to print.
+As a user, I want more information about how many course will be print prior to decide whether to publish.
 80.1) Input phrase: as a user i want more information about how many rows will be published before deciding whether or not to publish
 as a user i want more information about how many course will be print before decide whether or not to publish
 80.2) Input phrase: as a user i want more information on how many rows will be published before deciding whether to publish
@@ -1347,71 +1347,71 @@ as a user i want more information about how many course will be print prior to d
 80.4) Input phrase: as a user i want more information about how many rows will be published before i decide whether to publish
 as a user i want more information about how many course will be print before i decide whether to publish
 80.5) Input phrase: as a user i want more information about how many rows will be published before deciding whether to publish ''
-as a user i want more information about how many course will be print before decide whether to print ''
+as a user i want more information about how many course will be print before decide whether to publish ''
 80.6) Input phrase: as a user i want more information about how many rows will be published before deciding whether to publish
 as a user i want more information about how many course will be print before decide whether to publish
 80.7) Input phrase: as a user i want more information about how many rows will be published prior to deciding whether to publish or not
-as a user i want more information about how many course will be print prior to decide whether to print or not
+as a user i want more information about how many course will be print prior to decide whether to publish or not
 80.8) Input phrase: as a user i want more information about how many rows will be published prior to deciding whether to publish
 as a user i want more information about how many course will be print prior to decide whether to publish
 81.0) Input phrase: As a Developer, I want to prevent duplicate transactions from being published and deal with the time gap between validation and the publishing decision.
-As a developer, I want to prevent twin minutes from being print and deal with the time break between validation and the publication decision.
+As a developer, I want to prevent duplicate minutes from being print and deal with the time gap between validation and the print decision.
 81.1) Input phrase: developer i want to prevent duplicate transactions from being published and deal with the time gap between validation and publication decision
-developer i want to prevent duplicate minutes from being print and deal with the time break between validation and issue decision
+developer i want to prevent duplicate minutes from being print and deal with the time gap between validation and publication decision
 81.2) Input phrase: developer i want to prevent duplicate transactions from being published and deal with time gap between validation and publishing decision
-developer i want to prevent twin minutes from being print and deal with time break between validation and publication decision
+developer i want to prevent duplicate minutes from being print and deal with time gap between validation and print decision
 81.3) Input phrase: developer i want to prevent duplicate transactions from being published and deal with the time gap between validation and the publication decision
-developer i want to prevent duplicate minutes from being print and deal with the time break between validation and the issue decision
+developer i want to prevent duplicate minutes from being print and deal with the time gap between validation and the publication decision
 81.4) Input phrase: as a developer i want to prevent duplicate transactions from being published and deal with the time gap between validation and publication decision
-as a developer i want to prevent duplicate minutes from being print and deal with the time break between validation and issue decision
+as a developer i want to prevent duplicate minutes from being print and deal with the time gap between validation and publication decision
 81.5) Input phrase: developer i want to prevent duplicate transactions from being published and deal with the time gap between validation and publishing decision
-developer i want to prevent twin minutes from being print and deal with the time break between validation and publication decision
+developer i want to prevent duplicate minutes from being print and deal with the time gap between validation and print decision
 81.6) Input phrase: developer i want to prevent duplicate transactions from being published and deal with the time gap between validation and the publishing decision
-developer i want to prevent twin minutes from being print and deal with the time break between validation and the publication decision
+developer i want to prevent duplicate minutes from being print and deal with the time gap between validation and the print decision
 81.7) Input phrase: as a developer i want to prevent duplicate transactions from being published and deal with the time gap between validation and the publication decision
-as a developer i want to prevent duplicate minutes from being print and deal with the time break between validation and the issue decision
+as a developer i want to prevent duplicate minutes from being print and deal with the time gap between validation and the publication decision
 81.8) Input phrase: as a developer i want to prevent duplicate transactions from being published and deal with the time gap between validation and publishing decision
-as a developer i want to prevent twin minutes from being print and deal with the time break between validation and publication decision
+as a developer i want to prevent duplicate minutes from being print and deal with the time gap between validation and print decision
 81.9) Input phrase: as a developer i want to prevent duplicate transactions from being published and deal with the time gap between validation and the publishing decision
-as a developer i want to prevent twin minutes from being print and deal with the time break between validation and the publication decision
+as a developer i want to prevent duplicate minutes from being print and deal with the time gap between validation and the print decision
 82.0) Input phrase: As a FABS user, I want to submit a citywide as a PPoPZIP and pass validations.
-As a FABS user, I want to submit a citywide as a PPoPZIP and happen establishment.
+As a FABS user, I want to submit a citywide as a PPoPZIP and pass establishment.
 82.1) Input phrase: if i want to submit a citywide as ppopzip and pass validations as a fabs user
-if i want to submit a citywide as ppopzip and happen establishment as a fabs user
+if i want to submit a citywide as ppopzip and pass establishment as a fabs user
 82.2) Input phrase: as a user of fabs i want to submit a citywide as a ppopzip and pass validation
-as a user of fabs i want to submit a citywide as a ppopzip and happen validation
+as a user of fabs i want to submit a citywide as a ppopzip and pass validation
 82.3) Input phrase: as a fabs user i want to submit a citywide ppopzip and pass validations
-as a fabs user i want to submit a citywide ppopzip and happen validations
+as a fabs user i want to submit a citywide ppopzip and pass validations
 82.4) Input phrase: as a fabs user i want to submit a citywide as a ppopzip and pass verifications
-as a fabs user i want to submit a citywide as a ppopzip and happen verifications
+as a fabs user i want to submit a citywide as a ppopzip and pass verifications
 82.5) Input phrase: if i am a fabs user i want to submit a citywide ppopzip and pass validations
-if i am a fabs user i want to submit a citywide ppopzip and happen validations
+if i am a fabs user i want to submit a citywide ppopzip and pass validations
 82.6) Input phrase: as fabs user i want to submit a citywide as a ppopzip and pass validations
-as fabs user i want to submit a citywide as a ppopzip and happen validations
+as fabs user i want to submit a citywide as a ppopzip and pass validations
 82.7) Input phrase: as a fabs user i want to submit a citywide as ppopzip and pass validations
-as a fabs user i want to submit a citywide as ppopzip and happen validations
+as a fabs user i want to submit a citywide as ppopzip and pass validations
 82.8) Input phrase: as a fabs user i want to submit a citywide as a ppopzip and pass validation
-as a fabs user i want to submit a citywide as a ppopzip and happen validation
+as a fabs user i want to submit a citywide as a ppopzip and pass validation
 82.9) Input phrase: as a fabs user i want to submit a citywide as a ppopzip and pass validations
-as a fabs user i want to submit a citywide as a ppopzip and happen validations
+as a fabs user i want to submit a citywide as a ppopzip and pass validations
 83.0) Input phrase: As a Broker user, I want to have updated error codes that accurately reflect the logic and provide enough information, so that I can fix my submission.
-As a broker user, I want to have updated error gull that accurately reflect the logic and provide enough information, so that I can fix my submission.
+As a broker user, I want to have updated error tease that accurately reflect the logic and provide enough information, so that I can fix my submission.
 83.1) Input phrase: as a broker user i want to have updated error codes that accurately reflect the logic and provide enough information to fix my submission
-as a broker user i want to have updated error gull that accurately reflect the logic and provide enough information to fix my submission
+as a broker user i want to have updated error tease that accurately reflect the logic and provide enough information to fix my submission
 83.2) Input phrase: as a broker user i want to have updated error codes that accurately reflect the logic and provide enough information so i can fix my submit
-as a broker user i want to have updated error gull that accurately reflect the logic and provide enough information so i can repair my submit
+as a broker user i want to have updated error tease that accurately reflect the logic and provide enough information so i can fix my submit
 83.3) Input phrase: as a broker user i want to have updated error codes that accurately reflect the logic and provide enough information so i can fix my submission
-as a broker user i want to have updated error gull that accurately reflect the logic and provide enough information so i can fix my submission
+as a broker user i want to have updated error tease that accurately reflect the logic and provide enough information so i can fix my submission
 83.4) Input phrase: if i am a broker user i want to have updated error codes that accurately reflect the logic and provide enough information so i can fix my submission
-if i am a broker user i want to have updated error gull that accurately reflect the logic and provide enough information so i can fix my submission
+if i am a broker user i want to have updated error tease that accurately reflect the logic and provide enough information so i can fix my submission
 83.5) Input phrase: as a broker user i want to have updated error codes that accurately reflect the logic and provide enough information so that i can fix my submission
-as a broker user i want to have updated error gull that accurately reflect the logic and provide enough information so that i can fix my submission
+as a broker user i want to have updated error tease that accurately reflect the logic and provide enough information so that i can fix my submission
 83.6) Input phrase: as a broker user i want to have updated error codes that accurately reflect the logic and provide enough information so that i can fix my submission 
-as a broker user i want to have updated error gull that accurately reflect the logic and provide enough information so that i can fix my submission 
+as a broker user i want to have updated error tease that accurately reflect the logic and provide enough information so that i can fix my submission 
 83.7) Input phrase: as a broker user i want to have updated error codes that accurately reflect the logic and provide enough information so that i can fix my submissions
-as a broker user i want to have updated error gull that accurately reflect the logic and provide enough information so that i can fix my submissions
+as a broker user i want to have updated error tease that accurately reflect the logic and provide enough information so that i can fix my submissions
 84.0) Input phrase: As an agency user, I want to leave off the last 4 digits of the ZIP without an error, so that I can complete my submissions.
-As an agency user, I want to leave off the last 4 finger of the nothing without an error, so that I can complete my meekness.
+As an agency user, I want to leave off the last 4 finger of the travel_rapidly without an error, so that I can complete my meekness.
 84.1) Input phrase: if i want to leave off the last 4 digits of the zip without an error i can complete my submissions
 if i want to leave off the last 4 finger of the travel_rapidly without an error i can complete my submissions
 84.2) Input phrase: if i want to leave off the last 4 digits of the zip without an error so i can complete my submissions
@@ -1419,39 +1419,39 @@ if i want to leave off the last 4 finger of the travel_rapidly without an error 
 84.3) Input phrase: if i want to leave off the last 4 digits of the zip without an error so that i can complete my submissions
 if i want to leave off the last 4 finger of the travel_rapidly without an error so that i can complete my submissions
 84.4) Input phrase: as an agency user i want to leave off the last four digits of the zip without an error so i can complete my submissions
-as an agency user i want to leave off the last four finger of the nothing without an error so i can complete my submissions
+as an agency user i want to leave off the last four finger of the travel_rapidly without an error so i can complete my submissions
 84.5) Input phrase: as an agency user i want to leave the last 4 digits of the zip without an error so i can complete my submissions
-as an agency user i want to leave the last 4 finger of the nothing without an error so i can complete my submissions
+as an agency user i want to leave the last 4 finger of the travel_rapidly without an error so i can complete my submissions
 84.6) Input phrase: as an agency user i want to leave off the last 4 digits of the zip without an error so i can complete my submission
-as an agency user i want to leave off the last 4 finger of the nothing without an error so i can complete my submission
+as an agency user i want to leave off the last 4 finger of the travel_rapidly without an error so i can complete my submission
 84.7) Input phrase: as an agency user i want to leave off the last 4 digits of the zip without an error so i can complete my submissions
-as an agency user i want to leave off the last 4 finger of the nothing without an error so i can complete my submissions
+as an agency user i want to leave off the last 4 finger of the travel_rapidly without an error so i can complete my submissions
 84.8) Input phrase: as an agency user i want to leave off the last 4 digits of the zip without an error so that i can complete my submission
-as an agency user i want to leave off the last 4 finger of the nothing without an error so that i can complete my submission
+as an agency user i want to leave off the last 4 finger of the travel_rapidly without an error so that i can complete my submission
 84.9) Input phrase: as an agency user i want to leave off the last 4 digits of the zip without an error so that i can complete my submissions
-as an agency user i want to leave off the last 4 finger of the nothing without an error so that i can complete my submissions
+as an agency user i want to leave off the last 4 finger of the travel_rapidly without an error so that i can complete my submissions
 85.0) Input phrase: As a FABS user, I want to make sure the historical data includes all necessary columns, so that the information in the database is correct.
-As a FABS user, I want to make sure the historical data admit all necessity columns, so that the information in the database is correct.
+As a FABS user, I want to make sure the historical data admit all necessary columns, so that the information in the database is correct.
 85.1) Input phrase: as a fabs user i want to make sure that the historical data includes all the necessary columns so that the information in the database is accurate
-as a fabs user i want to make sure that the historical data admit all the necessity columns so that the information in the database is accurate
+as a fabs user i want to make sure that the historical data admit all the necessary columns so that the information in the database is accurate
 85.2) Input phrase: as a fabs user i want to make sure the historical data contains all the necessary columns so that the information in the database is correct
-as a fabs user i want to make sure the historical data incorporate all the necessity columns so that the information in the database is correct
+as a fabs user i want to make sure the historical data incorporate all the necessary columns so that the information in the database is correct
 85.3) Input phrase: as a fabs user i want to make sure that the historical data includes all the necessary columns so that the information in the database is correct i
-as a fabs user i want to make sure that the historical data admit all the necessity columns so that the information in the database is correct i
+as a fabs user i want to make sure that the historical data admit all the necessary columns so that the information in the database is correct i
 85.4) Input phrase: if i'm a fabs user i want to make sure the historical data includes all the necessary columns so that information in the database is correct
-if i'm a fabs user i want to make sure the historical data admit all the necessity columns so that information in the database is correct
+if i'm a fabs user i want to make sure the historical data admit all the necessary columns so that information in the database is correct
 85.5) Input phrase: as a fabs user i want to make sure that the historical data includes all the necessary columns so that the information in the database is correct 
-as a fabs user i want to make sure that the historical data admit all the necessity columns so that the information in the database is correct 
+as a fabs user i want to make sure that the historical data admit all the necessary columns so that the information in the database is correct 
 85.6) Input phrase: as a fabs user i want to make sure that the historical data includes all the necessary columns so that the information in the database is correct
-as a fabs user i want to make sure that the historical data admit all the necessity columns so that the information in the database is correct
+as a fabs user i want to make sure that the historical data admit all the necessary columns so that the information in the database is correct
 85.7) Input phrase: as a fabs user i want to make sure that the historical data includes all necessary columns so that the information in the database is correct
-as a fabs user i want to make sure that the historical data admit all necessity columns so that the information in the database is correct
+as a fabs user i want to make sure that the historical data admit all necessary columns so that the information in the database is correct
 85.8) Input phrase: as a fabs user i want to make sure the historical data includes all the necessary columns so that the information in the database is correct
-as a fabs user i want to make sure the historical data admit all the necessity columns so that the information in the database is correct
+as a fabs user i want to make sure the historical data admit all the necessary columns so that the information in the database is correct
 85.9) Input phrase: as a fabs user i want to make sure the historical data includes all necessary columns so that the information in the database is correct
-as a fabs user i want to make sure the historical data admit all necessity columns so that the information in the database is correct
+as a fabs user i want to make sure the historical data admit all necessary columns so that the information in the database is correct
 85.10) Input phrase: in my role as a fabs user i want to make sure the historical data includes all necessary columns so that the information in the database is correct
-in my role as a fabs user i want to make sure the historical data admit all necessity columns so that the information in the database is correct
+in my role as a fabs user i want to make sure the historical data admit all necessary columns so that the information in the database is correct
 86.0) Input phrase: As a data user, I want to access two additional fields from the FPDS data pull.
 As a data user, I want to access two additional fields from the flat_panel_display data pull.
 86.1) Input phrase: as a user i want to access two additional fields in the data pull of fpds
@@ -1501,7 +1501,7 @@ as a user of fabs i want to download the uploaded fabs file so i can get the upl
 88.5) Input phrase: as a fabs user i want to download the uploaded fabs file so i can get the uploaded file
 as a fabs user i want to download the uploaded fabs file so i can get the uploaded file
 88.6) Input phrase: as a fabs user i want to download the uploaded fabs file so that i can get the upload file
-as a fabs user i want to download the uploaded fabs file so that i can arrive the upload file
+as a fabs user i want to download the uploaded fabs file so that i can get the upload file
 88.7) Input phrase: as a fabs user i want to download the uploaded fabs file so that i can get the uploaded file i
 as a fabs user i want to download the uploaded fabs file so that i can get the uploaded file i
 88.8) Input phrase: as a fabs user i want to download the uploaded fabs file so that i can get the uploaded file 
@@ -1539,21 +1539,21 @@ as a developer i want to determine the best way to load historical flat_panel_di
 90.6) Input phrase: as a developer i want to determine the best way to load historical fpds data so that i can load all fpds data since 2007
 as a developer i want to determine the best way to load historical flat_panel_display data so that i can load all flat_panel_display data since 2007
 91.0) Input phrase: As a FABS user, I want the language on FABS pages to be appropriate for me, so that I am not confused.
-As a FABS user, I want the language on FABS foliate to be appropriate for me, so that I am not jumble.
+As a FABS user, I want the language on FABS foliate to be appropriate for me, so that I am not confused.
 91.1) Input phrase: as a fabs user i want the language on the fabs pages to be appropriate for me so that i am not confused i have
-as a fabs user i want the language on the fabs foliate to be appropriate for me so that i am not jumble i have
+as a fabs user i want the language on the fabs foliate to be appropriate for me so that i am not confused i have
 91.2) Input phrase: as a fabs user i want the language on the fabs pages to be appropriate for me so i am not confused
 as a fabs user i want the language on the fabs foliate to be appropriate for me so i am not confused
 91.3) Input phrase: as a fabs user i want the language on fabs pages to be appropriate for me so i'm not confused
 as a fabs user i want the language on fabs foliate to be appropriate for me so i'm not confused
 91.4) Input phrase: as a fabs user i want the language on the fabs pages to be appropriate for me so that i am not confused i
-as a fabs user i want the language on the fabs foliate to be appropriate for me so that i am not jumble i
+as a fabs user i want the language on the fabs foliate to be appropriate for me so that i am not confused i
 91.5) Input phrase: as a fabs user i want the language on fabs pages to be appropriate for me so i am not confused
 as a fabs user i want the language on fabs foliate to be appropriate for me so i am not confused
 91.6) Input phrase: as a fabs user i want the language on the fabs pages to be appropriate for me so that i am not confused
 as a fabs user i want the language on the fabs foliate to be appropriate for me so that i am not confused
 91.7) Input phrase: as a fabs user i want the language on fabs pages to be appropriate for me so that i am not confused ''
-as a fabs user i want the language on fabs foliate to be appropriate for me so that i am not jumble ''
+as a fabs user i want the language on fabs foliate to be appropriate for me so that i am not confused ''
 91.8) Input phrase: as a fabs user i want the language on fabs pages to be appropriate for me so that i am not confused
 as a fabs user i want the language on fabs foliate to be appropriate for me so that i am not confused
 92.0) Input phrase: As a FABS user, I do not want  DABS banner messages and vice versa, so that I have the appropriate information for my application.
@@ -1575,27 +1575,27 @@ as a fabs user i do not want tap banner messages and vice versa so that i have t
 92.8) Input phrase: as a fabs user i do not want dabs banner messages and vice versa so that i have the appropriate information for my application
 as a fabs user i do not want tap banner messages and vice versa so that i have the appropriate information for my application
 93.0) Input phrase: As a FABS user, I want to have read-only access to DABS, so that I can view DABS pages without wanting two sets of permissions.
-As a FABS user, I want to have read-only access to tap, so that I can view tap foliate without want two bent of license.
+As a FABS user, I want to have read-only access to tap, so that I can view tap foliate without want two determine of license.
 93.1) Input phrase: as a fabs user i want read-only access to dabs so i can view dabs pages without two sets of permissions
-as a fabs user i want read-only access to tap so i can view tap foliate without two bent of permissions
+as a fabs user i want read-only access to tap so i can view tap foliate without two determine of permissions
 93.2) Input phrase: as a fabs user i want read-only access to dabs so that i can view dabs pages without two sets of permissions
-as a fabs user i want read-only access to tap so that i can view tap foliate without two bent of permissions
+as a fabs user i want read-only access to tap so that i can view tap foliate without two determine of permissions
 93.3) Input phrase: as a fabs user i want to have read-only access to dabs so i can view dabs pages without two sets of permission
-as a fabs user i want to have read-only access to tap so i can view tap foliate without two bent of permission
+as a fabs user i want to have read-only access to tap so i can view tap foliate without two determine of permission
 93.4) Input phrase: as a fabs user i want to have read-only access to dabs so i can view dabs pages without two sets of permissions
-as a fabs user i want to have read-only access to tap so i can view tap foliate without two bent of permissions
+as a fabs user i want to have read-only access to tap so i can view tap foliate without two determine of permissions
 93.5) Input phrase: as a fabs user i want to have read-only access to dabs so that i can view dabs pages without two sets of permission
-as a fabs user i want to have read-only access to tap so that i can view tap foliate without two bent of permission
+as a fabs user i want to have read-only access to tap so that i can view tap foliate without two determine of permission
 93.6) Input phrase: as a fabs user i want to have read-only access to dabs so that i can view dabs pages without two sets of permissions
-as a fabs user i want to have read-only access to tap so that i can view tap foliate without two bent of permissions
+as a fabs user i want to have read-only access to tap so that i can view tap foliate without two determine of permissions
 93.7) Input phrase: as a fabs user i want to have read-only access to dabs so that i can view dabs pages without wanting two sets of permission
-as a fabs user i want to have read-only access to tap so that i can view tap foliate without want two bent of permission
+as a fabs user i want to have read-only access to tap so that i can view tap foliate without want two determine of permission
 93.8) Input phrase: as a fabs user i want to have read-only access to dabs so that i can view dabs pages without wanting two sets of permissions
-as a fabs user i want to have read-only access to tap so that i can view tap foliate without want two bent of permissions
+as a fabs user i want to have read-only access to tap so that i can view tap foliate without want two determine of permissions
 94.0) Input phrase: As a FABS user, I want to have my validations run in a reasonable amount of time.
 As a FABS user, I want to have my establishment run in a reasonable amount of time.
 94.1) Input phrase: as the user of fabs i want the validation to be completed within a reasonable period
-as the user of fabs i want the validation to be dispatch within a reasonable period
+as the user of fabs i want the validation to be completed within a reasonable period
 94.2) Input phrase: as the user of fabs i want the validation to be done within a reasonable period
 as the user of fabs i want the validation to be make within a reasonable period
 94.3) Input phrase: as the user of fabs i want the validation to be done within a reasonable time
@@ -1625,27 +1625,27 @@ as a fabs user i want to see correct status tag on the submission dashboard so t
 95.6) Input phrase: as a fabs user i want to see correct status labels on the submission dashboard so that i can quickly see my submission history
 as a fabs user i want to see correct status tag on the submission dashboard so that i can quickly see my submission history
 96.0) Input phrase: As an agency user, I want to know when the submission periods start and end, so that I know when the submission starts and ends.
-As an agency user, I want to know when the submission time_period start and goal, so that I know when the submission starting_signal and goal.
+As an agency user, I want to know when the submission time_period start and end, so that I know when the submission get_down and goal.
 96.1) Input phrase: as an agency user i want to know when submission periods start and end so i know when the submission starts and ends
-as an agency user i want to know when submission time_period start and goal so i know when the submission starting_signal and ends
+as an agency user i want to know when submission time_period start and end so i know when the submission get_down and ends
 96.2) Input phrase: in my role as agency user i want to know when the submission period starts and ends so i know when the submission starts and ends
-in my role as means user i want to know when the submission period starting_signal and goal so i know when the submission starting_signal and ends
+in my role as agency user i want to know when the submission period get_down and goal so i know when the submission get_down and ends
 96.3) Input phrase: as an agency user i want to know when the submission period starts and ends so i know when the submission starts and ends
-as an agency user i want to know when the submission period starting_signal and goal so i know when the submission starting_signal and ends
+as an agency user i want to know when the submission period get_down and goal so i know when the submission get_down and ends
 96.4) Input phrase: as an agency user i want to know when the submission periods start and end so i know when the submission starts and ends ''
-as an agency user i want to know when the submission time_period start and goal so i know when the submission starting_signal and goal ''
+as an agency user i want to know when the submission time_period start and end so i know when the submission get_down and goal ''
 96.5) Input phrase: as an agency user i want to know when the submission periods start and end so i know when the submission starts and ends
-as an agency user i want to know when the submission time_period start and goal so i know when the submission starting_signal and ends
+as an agency user i want to know when the submission time_period start and end so i know when the submission get_down and ends
 96.6) Input phrase: in my role as agency user i want to know when the submission periods start and end so i know when the submission starts and ends
-in my role as means user i want to know when the submission time_period start and goal so i know when the submission starting_signal and ends
+in my role as agency user i want to know when the submission time_period start and end so i know when the submission get_down and ends
 96.7) Input phrase: as an agency user i want to know when the submission period starts and ends so that i know when the submission starts and ends
-as an agency user i want to know when the submission period starting_signal and goal so that i know when the submission starting_signal and ends
+as an agency user i want to know when the submission period get_down and goal so that i know when the submission get_down and ends
 96.8) Input phrase: as an agency user i want to know when the submission periods start and end so that i know when the submission starts and end
-as an agency user i want to know when the submission time_period start and end so that i know when the submission starting_signal and end
+as an agency user i want to know when the submission time_period start and end so that i know when the submission get_down and end
 96.9) Input phrase: as an agency user i want to know when the submission periods start and end so that i know when the submission starts and ends
-as an agency user i want to know when the submission time_period start and goal so that i know when the submission starting_signal and ends
+as an agency user i want to know when the submission time_period start and end so that i know when the submission get_down and ends
 96.10) Input phrase: as an agency user i want to know when the submission periods start and end so that i know when the submission starts and ends 
-as an agency user i want to know when the submission time_period start and goal so that i know when the submission starting_signal and goal 
+as an agency user i want to know when the submission time_period start and end so that i know when the submission get_down and goal 
 97.0) Input phrase: As an agency user, I want a landing page to navigate to either FABS or DABS pages, so that I can access both sides of the site.
 As an agency user, I want a down page to navigate to either FABS or tap foliate, so that I can access both slope of the site.
 97.1) Input phrase: as an agency user i want a landing page to navigate to fabs or dabs pages so i can access both sides of the site
@@ -1661,7 +1661,7 @@ as an agency user i want a down page to navigate to either fabs or tap foliate s
 97.6) Input phrase: as an agency user i want a landing page to navigate to either fabs or dabs pages so i can access both sides of the site
 as an agency user i want a down page to navigate to either fabs or tap foliate so i can access both slope of the site
 97.7) Input phrase: as an agency user i want a landing page to navigate to either fabs or dabs pages so that i can access both sides of the website
-as an agency user i want a down page to navigate to either fabs or tap foliate so that i can access both slope of the website
+as an agency user i want a landing page to navigate to either fabs or tap foliate so that i can access both slope of the website
 97.8) Input phrase: as an agency user i want a landing page to navigate to either fabs or dabs pages so that i can access both sides of the site i
 as an agency user i want a down page to navigate to either fabs or tap foliate so that i can access both slope of the site i
 97.9) Input phrase: as an agency user i want a landing page to navigate to either fabs or dabs pages so that i can access both sides of the site 
@@ -1669,22 +1669,22 @@ as an agency user i want a down page to navigate to either fabs or tap foliate s
 97.10) Input phrase: as an agency user i want a landing page to navigate to either fabs or dabs pages so that i can access both sides of the site
 as an agency user i want a down page to navigate to either fabs or tap foliate so that i can access both slope of the site
 98.0) Input phrase: As an agency user, I want to submit my data elements surrounded by quotation marks, so that Excel won't strip off leading and trailing zeroes.
-As an agency user, I want to submit my data chemical_element smother by quotation notice, so that excel won't deprive off lead and trail nothing.
+As an agency user, I want to submit my data elements smother by quotation notice, so that excel won't deprive off lead and trail nothing.
 98.1) Input phrase: if i want to submit my data elements surrounded by quotation marks so that excel won't strip off leading and trailing zeroes
 if i want to submit my data elements smother by quotation notice so that excel won't deprive off lead and trail zeroes
 98.2) Input phrase: as an agency user i want to submit my data elements surrounded by quotation marks so excel won't strip off leading and trailing zeroes
-as an agency user i want to submit my data chemical_element smother by quotation notice so excel won't deprive off lead and trail zeroes
+as an agency user i want to submit my data elements smother by quotation notice so excel won't deprive off lead and trail zeroes
 98.3) Input phrase: as an agency user i want to submit my data elements surrounded by quotation marks so that excel will not strip off leading and trailing zeroes
-as an agency user i want to submit my data chemical_element smother by quotation notice so that excel will not deprive off lead and trail zeroes
+as an agency user i want to submit my data elements smother by quotation notice so that excel will not deprive off lead and trail zeroes
 98.4) Input phrase: as an agency user i want to submit my data elements surrounded by quotation marks so that excel won't strip off the leading and trailing zeroes
-as an agency user i want to submit my data chemical_element smother by quotation notice so that excel won't deprive off the lead and trail zeroes
+as an agency user i want to submit my data elements smother by quotation notice so that excel won't deprive off the lead and trail zeroes
 98.5) Input phrase: as an agency user i want to submit my data elements surrounded by quotation marks so that excel won't strip off leading and trailing zeros
-as an agency user i want to submit my data chemical_element smother by quotation notice so that excel won't deprive off lead and trail zeros
+as an agency user i want to submit my data elements smother by quotation notice so that excel won't deprive off lead and trail zeros
 98.6) Input phrase: as an agency user i want to submit my data elements surrounded by quotation marks so that excel won't strip off leading and trailing zeroes i
-as an agency user i want to submit my data chemical_element smother by quotation notice so that excel won't deprive off lead and trail nothing i
+as an agency user i want to submit my data elements smother by quotation notice so that excel won't deprive off lead and trail nothing i
 98.7) Input phrase: as an agency user i want to submit my data elements surrounded by quotation marks so that excel won't strip off leading and trailing zeroes 
-as an agency user i want to submit my data chemical_element smother by quotation notice so that excel won't deprive off lead and trail nothing 
+as an agency user i want to submit my data elements smother by quotation notice so that excel won't deprive off lead and trail nothing 
 98.8) Input phrase: as an agency user i want to submit my data elements surrounded by quotation marks so that excel won't strip off leading and trailing zeroes
-as an agency user i want to submit my data chemical_element smother by quotation notice so that excel won't deprive off lead and trail zeroes
+as an agency user i want to submit my data elements smother by quotation notice so that excel won't deprive off lead and trail zeroes
 
-Time for single file = 44.9717 seconds = 0.7495 minutes = 0.0125 hours
+Time for single file = 38.7979 seconds = 0.6466 minutes = 0.0108 hours
