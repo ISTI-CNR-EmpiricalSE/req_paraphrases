@@ -10,8 +10,9 @@ model = Word2Vec.load("word2vec.model")
 
 import gensim.downloader
 print(list(gensim.downloader.info()['models'].keys()))
-glove_vectors = gensim.downloader.load('glove-wiki-gigaword-300')
+model1 = gensim.downloader.load('glove-wiki-gigaword-300')
+model2 = gensim.downloader.load('word2vec-google-news-300')
 
-sim = glove_vectors.similarity('dog', 'cat')
+sim = model2.similarity('user', 'account')
 
 print(sim)
