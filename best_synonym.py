@@ -30,8 +30,8 @@ for data_set_index in [1, 24]:
             dir = "results/data_set_" + str(data_set_index) + "/best_syn_outputs_2"
             if not os.path.exists(dir):
                 os.makedirs(dir)
-            output_file = open(dir + "/results_" + str(data_set_index) + "_best_syn.txt", "w")
-            scoring_file = open(dir + "/scoring.txt", "w")
+            output_file = open(dir + "/results_" + str(data_set_index) + "_best_syn_not_clean.txt", "w")
+            scoring_file = open(dir + "/scoring_not_clean.txt", "w")
 
             scoring_file.write("similarity:" + similarity + "\n")
             scoring_file.write("simulate_root:" + str(simulate_root) + "\n")
@@ -74,6 +74,7 @@ for data_set_index in [1, 24]:
                         synset = wordnet.synsets(token.text)
                         synset_dict[token.text] = synset
 
+                '''
                 # clean synset
                 for token in tokens:
                     done = False
@@ -93,6 +94,7 @@ for data_set_index in [1, 24]:
                                 if synonym == token.text.lower() and not done:
                                     done = True
                                     synset_dict[token.text].insert(0, syn)
+                '''
 
                 best_syn_list = []
 
