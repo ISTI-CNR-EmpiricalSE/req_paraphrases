@@ -1,0 +1,712 @@
+import PySimpleGUI as sg
+from pathlib import Path
+import os
+import threading
+
+import parrot_executor
+import eda_executor
+import no_context_executor
+import first_best_wup_executor
+import second_best_wup_executor
+import first_best_w2v_executor
+import second_best_w2v_executor
+import hyper_w2v_executor
+import hypon_w2v_executor
+
+SYMBOL_UP = '▲'
+SYMBOL_DOWN = '▼'
+
+# font = ("Arial", 10)
+font = ('fixed', 10)  # se 11 forse un po' meglio, in caso allarga finestra
+sg.theme('DarkTeal12')
+
+
+def configure_parrot(max_return_phrases, do_diverse, adequacy_threshold, fluency_threshold, parameters_list):
+    sg.theme('DarkGreen1')
+    layout_conf = [
+        [sg.Text('max_return_phrases ='), sg.Input("15", key='-MAX_RETURN_PHRASES-')],
+        [sg.Text('do_diverse =        '), sg.Input("True", key='-DO_DIVERSE-')],
+        [sg.Text('adequacy_threshold ='), sg.Input("5", key='-ADEQUACY_THRESHOLD-')],  # I will divide by 10
+        [sg.Text('fluency_threshold = '), sg.Input("5", key='-FLUENCY_THRESHOLD-')],
+        [sg.Button('Ok')]
+    ]
+    window_conf = sg.Window('Parameters', layout_conf, font=font)
+    while True:
+
+        event, values = window_conf.read()
+
+        if event == sg.WIN_CLOSED:
+            break
+        if event == 'Ok':
+            if (window_conf['-MAX_RETURN_PHRASES-'].get()).isdigit():
+                if 0 <= int(window_conf['-MAX_RETURN_PHRASES-'].get()) <= 15:
+                    max_return_phrases = int(window_conf['-MAX_RETURN_PHRASES-'].get())
+                else:
+                    popup_message('max_return_phrases must be in the range (0,15)')
+            else:
+                popup_message('max_return_phrases must be an integer')
+            if (window_conf['-DO_DIVERSE-'].get()) == "True" or (
+                    window_conf['-DO_DIVERSE-'].get()) == "False":
+                do_diverse = bool(window_conf['-DO_DIVERSE-'].get())
+            else:
+                popup_message('do_diverse must be True or False')
+            if (window_conf['-ADEQUACY_THRESHOLD-'].get()).isdigit():
+                if 0 <= int(window_conf['-ADEQUACY_THRESHOLD-'].get()) <= 10:
+                    if int(window_conf['-ADEQUACY_THRESHOLD-'].get()) == 0:
+                        adequacy_threshold = 0
+                    else:
+                        adequacy_threshold = int(window_conf['-ADEQUACY_THRESHOLD-'].get()) / 10
+                else:
+                    popup_message('adequacy_threshold must be in the range (0,10)')
+            else:
+                popup_message('adequacy_threshold must be an integer')
+            if (window_conf['-FLUENCY_THRESHOLD-'].get()).isdigit():
+                if 0 <= int(window_conf['-FLUENCY_THRESHOLD-'].get()) <= 10:
+                    if int(window_conf['-FLUENCY_THRESHOLD-'].get()) == 0:
+                        fluency_threshold = 0
+                    else:
+                        fluency_threshold = int(window_conf['-FLUENCY_THRESHOLD-'].get()) / 10
+                else:
+                    popup_message('fluency_threshold must be in the range (0,10)')
+            else:
+                popup_message('fluency_threshold must be an integer')
+
+            if max_return_phrases is not None and do_diverse is not None and \
+                    adequacy_threshold is not None and fluency_threshold is not None:
+                parameters_list.append(max_return_phrases)
+                parameters_list.append(do_diverse)
+                parameters_list.append(adequacy_threshold)
+                parameters_list.append(fluency_threshold)
+
+                window_conf.close()  # se uno di questi è None finestra non si chiude, lo devi cambiare e mettere None
+
+
+def configure_eda(alpha_sr, alpha_ri, alpha_rs, alpha_rd, num_aug, parameters_list):
+    sg.theme('DarkGreen1')
+    layout_conf = [
+        [sg.Text('alpha_sr = '), sg.Input("1", key='-ALPHA_SR-')],
+        [sg.Text('alpha_ri = '), sg.Input("0", key='-ALPHA_RI-')],
+        [sg.Text('alpha_rs = '), sg.Input("0", key='-ALPHA_RS-')],  # I will divide by 10 if diff from 0
+        [sg.Text('alpha_rd = '), sg.Input("0", key='-ALPHA_RD-')],
+        [sg.Text('num_aug  = '), sg.Input("9", key='-NUM_AUG-')],
+        [sg.Button('Ok')]
+    ]
+    window_conf = sg.Window('Parameters', layout_conf, font=font)
+    while True:
+
+        event, values = window_conf.read()
+
+        if event == sg.WIN_CLOSED:
+            break
+        if event == 'Ok':
+            if (window_conf['-ALPHA_SR-'].get()).isdigit():
+                if 0 <= int(window_conf['-ALPHA_SR-'].get()) <= 10:
+                    if int(window_conf['-ALPHA_SR-'].get()) == 0:
+                        alpha_sr = int(window_conf['-ALPHA_SR-'].get())
+                    else:
+                        alpha_sr = int(window_conf['-ALPHA_SR-'].get()) / 10
+                else:
+                    popup_message('alpha_sr must be in the range (0,10)')
+            else:
+                popup_message('alpha_sr must be an integer')
+            if (window_conf['-ALPHA_RI-'].get()).isdigit():
+                if 0 <= int(window_conf['-ALPHA_RI-'].get()) <= 10:
+                    if int(window_conf['-ALPHA_RI-'].get()) == 0:
+                        alpha_ri = int(window_conf['-ALPHA_RI-'].get())
+                    else:
+                        alpha_ri = int(window_conf['-ALPHA_RI-'].get()) / 10
+                else:
+                    popup_message('alpha_ri must be in the range (0,10)')
+            else:
+                popup_message('alpha_ri must be an integer')
+            if (window_conf['-ALPHA_RS-'].get()).isdigit():
+                if 0 <= int(window_conf['-ALPHA_RS-'].get()) <= 10:
+                    if int(window_conf['-ALPHA_RS-'].get()) == 0:
+                        alpha_rs = int(window_conf['-ALPHA_RS-'].get())
+                    else:
+                        alpha_rs = int(window_conf['-ALPHA_RS-'].get()) / 10
+                else:
+                    popup_message('alpha_rs must be in the range (0,10)')
+            else:
+                popup_message('alpha_rs must be an integer')
+            if (window_conf['-ALPHA_RD-'].get()).isdigit():
+                if 0 <= int(window_conf['-ALPHA_RD-'].get()) <= 10:
+                    if int(window_conf['-ALPHA_RD-'].get()) == 0:
+                        alpha_rd = int(window_conf['-ALPHA_RD-'].get())
+                    else:
+                        alpha_rd = int(window_conf['-ALPHA_RD-'].get()) / 10
+                else:
+                    popup_message('alpha_rd must be in the range (0,10)')
+            else:
+                popup_message('alpha_rd must be an integer')
+            if (window_conf['-NUM_AUG-'].get()).isdigit():
+                if 0 <= int(window_conf['-NUM_AUG-'].get()) <= 10:
+                    num_aug = int(window_conf['-NUM_AUG-'].get())
+                else:
+                    popup_message('num_aug must be in the range (0,10)')
+            else:
+                popup_message('num_aug must be an integer')
+
+            if alpha_sr is not None and alpha_ri is not None and \
+                    alpha_rs is not None and alpha_rd is not None and num_aug is not None:
+                parameters_list.append(alpha_sr)
+                parameters_list.append(alpha_ri)
+                parameters_list.append(alpha_rs)
+                parameters_list.append(alpha_rd)
+                parameters_list.append(num_aug)
+
+                window_conf.close()  # se uno di questi è None finestra non si chiude, lo devi cambiare e mettere None
+
+
+def configure_no_context(always_subst, parameters_list):
+    sg.theme('DarkGreen1')
+    layout_conf = [
+        [sg.Text('always_subst', enable_events=True, text_color='black', k='-ALWAYS_SUBST_TEXT-', size=(15, 2)),
+         sg.Checkbox('', enable_events=True, key='-ALWAYS_SUBST_CHECK_BOX-')],
+        [sg.Button('Ok')]
+    ]
+    window_conf = sg.Window('Parameters', layout_conf, font=font)
+    while True:
+
+        event, values = window_conf.read()
+
+        if event == sg.WIN_CLOSED:
+            break
+        if event == 'Ok':
+            if values['-ALWAYS_SUBST_CHECK_BOX-'] is True:
+                always_subst = True
+            else:
+                always_subst = False
+
+            if always_subst is not None:
+                parameters_list.append(always_subst)
+
+                window_conf.close()  # se uno di questi è None finestra non si chiude, lo devi cambiare e mettere None
+
+
+def configure_best(syn_vs_synsets, syn_vs_term, n_max, parameters_list):
+
+    sg.theme('DarkGreen1')
+
+    layout_conf = [
+        [sg.Text('syn_vs_synsets', enable_events=True, text_color='black', k='-SYN_VS_SYNSETS_TEXT-', size=(15, 2)),
+         sg.Checkbox('', enable_events=True, key='-SYN_VS_SYNSETS_CHECK_BOX-'),
+         sg.Text('syn_vs_term', enable_events=True, text_color='black', k='-SYN_VS_TERM_TEXT-', size=(15, 2)),
+         sg.Checkbox('', enable_events=True, key='-SYN_VS_TERM_CHECK_BOX-')],
+        [sg.Text('n_max = '), sg.Input("100", key='-N_MAX-', size=(30, 2))],
+        [sg.Button('Ok')]
+    ]
+
+    window_conf = sg.Window('Parameters', layout_conf, font=font)
+
+    while True:
+
+        event, values = window_conf.read()
+
+        if event == sg.WIN_CLOSED:
+            break
+        if event == '-SYN_VS_SYNSETS_CHECK_BOX-':
+            window_conf['-SYN_VS_TERM_CHECK_BOX-'].update(False)
+        if event == '-SYN_VS_TERM_CHECK_BOX-':
+            window_conf['-SYN_VS_SYNSETS_CHECK_BOX-'].update(False)
+        if event == 'Ok':
+            if not values['-SYN_VS_SYNSETS_CHECK_BOX-'] and not values['-SYN_VS_TERM_CHECK_BOX-']:
+                popup_message('You have to choose between syn_vs_synsets or syn_vs term')
+            elif values['-SYN_VS_SYNSETS_CHECK_BOX-']:
+                syn_vs_synsets = True
+                syn_vs_term = False
+            elif values['-SYN_VS_TERM_CHECK_BOX-']:
+                syn_vs_synsets = False
+                syn_vs_term = True
+            if (window_conf['-N_MAX-'].get()).isdigit():
+                if 0 <= int(window_conf['-N_MAX-'].get()) <= 100:
+                    n_max = int(window_conf['-N_MAX-'].get())
+                else:
+                    popup_message('n_max must be in the range (0,100)')
+            else:
+                popup_message('n_max must be an integer')
+
+            if syn_vs_synsets is not None and syn_vs_term is not None and n_max is not None:
+                parameters_list.append(syn_vs_synsets)
+                parameters_list.append(syn_vs_term)
+                parameters_list.append(n_max)
+
+                window_conf.close()  # se uno di questi è None finestra non si chiude, lo devi cambiare e mettere None
+
+
+def collapse(layout, key):
+    """
+    Helper function that creates a Column that can be later made hidden, thus appearing "collapsed"
+    :param layout: The layout for the section
+    :param key: Key used to make this section visible / invisible
+    :return: A pinned column that can be placed directly into your layout
+    :rtype: sg.pin
+    """
+    return sg.pin(sg.Column(layout, key=key))
+
+
+def popup_message(text):
+    sg.theme('DarkRed1')
+    layout = [
+
+        [sg.Text(text)]
+
+    ]
+    window = sg.Window("Warning", layout, font=font)
+    while True:
+        event, values = window.read()
+        if event == sg.WINDOW_CLOSED:
+            break
+    window.close()
+
+
+def popup_text(filename, text):
+    sg.theme('DarkTeal12')
+    layout = [
+
+        [sg.Multiline(text, size=(80, 25)), ],
+
+    ]
+    # font = font non funziona
+    window = sg.Window(filename, layout, modal=True, finalize=True, font=font)
+
+    while True:
+        event, values = window.read()
+        if event == sg.WINDOW_CLOSED:
+            break
+    window.close()
+
+
+def execute(conf, parameters_list, filename, window):
+    """
+    Helper function that runs the method selected
+    :param parameters_list: list of configurable parameters for the algorithm
+    :param conf: method selected
+    :param filename: file on which we run the method
+    :param window: old window that will be closed by the function popup_output
+    """
+
+    print(f"Running {conf} on {filename}")
+    print("with these parameters " + str(parameters_list))
+
+    # the algorithm will return a dictionary {input_line: list_of_output_lines}
+    output_dict = {}
+
+    if conf == 'Parrot':
+        executor_func = parrot_executor.parrot_executor_func
+    elif conf == 'Eda':
+        executor_func = eda_executor.eda_executor_func
+    elif conf == 'No_Context':
+        executor_func = no_context_executor.no_context_executor_func
+    elif conf == 'First_Best_wup':
+        executor_func = first_best_wup_executor.first_best_wup_executor_func
+    elif conf == 'Second_Best_wup':
+        executor_func = second_best_wup_executor.second_best_wup_executor_func
+    elif conf == 'First_Best_w2v':
+        executor_func = first_best_w2v_executor.first_best_w2v_executor_func
+    elif conf == 'Second_Best_w2v':
+        executor_func = second_best_w2v_executor.second_best_w2v_executor_func
+    elif conf == 'Hyper_w2v':
+        executor_func = hyper_w2v_executor.hyper_w2v_executor_func
+    elif conf == 'Hypon_w2v':
+        executor_func = hypon_w2v_executor.hypon_w2v_executor_func
+
+    thread_id = threading.Thread(target=executor_func, args=(filename, parameters_list, output_dict), daemon=True)
+    print("Avvio parrot thread...")
+    thread_id.start()
+    thread_id.join()
+    # output_dict = {'As a Data user, I want to have the 12-19-2017 deletions processed.': [('as a data user i want to have the deletions processed from 12-19-2017 i have', 46), ('as user i want to have the deletions processed from 12-19-2017', 46), ('as user i want to have the deletions processed on 12-19-2017', 44), ('as a data user i want to have the deletions processed on 19 december 2017', 43), ('if i am a data user i want to have the deletions processed from 12 to 19 2017', 42), ('as a data user i want to have the deletions processed from 12-19-2017', 39), ('if i am a data user i want to have the deletions processed from 12-19-2017', 39), ('if i am a data user i want to have the deletions processed on 12-19-2017', 37), ('as a data user i want to have the deletions processed on 12-19-2017', 37)], 'As a UI designer, I want to redesign the Resources page, so that it matches the new Broker design styles.': [('i would like to redesign the resources page as a ui designer so that it matches the new broker design styles', 48), ('the resources page should be redesigned as a ui designer so that it matches the new broker design styles', 48), ('i would like to redesign the resources page so that it matches the new broker design style', 32), ('i would like to redesign the resources page so that it matches the new broker design styles', 31), ('as a ui designer i want to redesign the resources page so that it matches the new broker design styles i have', 19), ('as a ui designer i want to redesign the resources page so it matches the new broker design styles', 18), ('as a ui designer i want to redesign the resources page so that it matches the new broker design style', 14), ('as a ui designer i want to redesign the resources page so that it matches the new broker design styles ', 13), ('as a ui designer i want to redesign the resources page so that it matches the new broker design styles', 13)], 'As a UI designer, I want to report to the Agencies about user testing, so that they are aware of their contributions to making Broker a better UX.': [('my job is to report to the agencies about user testing so that they are aware of their contributions to making broker a better ux i also want to', 46), ('my role is to report to the agencies about user testing so that they are aware of their contributions to making broker a better ux experience', 41), ('my job is to report to the agencies about user testing so that they are aware of their contributions to making broker a better ux i want to', 41), ('my role is to report to the agencies about user testing so that they are aware of their contributions to making broker a better ux i want to', 40), ('my role is to report to the agencies about user testing so that they are aware of their contributions to broker a better ux', 38), ('my role is to report to the agencies about user testing so that they are aware of their contribution to making broker a better ux', 32), ('my job is to report to the agencies about user testing so that they are aware of their contributions to making broker a better ux', 32), ('my role is to report to the agencies about user testing so that they are aware of their contributions to making broker a better ux', 31), ('as a ui designer i want to report to the agencies about user testing so they are aware of their contributions to making broker a better ux', 18), ('as a ui designer i want to report to the agencies about user testing so that they are aware of their contributions to making broker a better ux', 13)], 'As a FABS user, I want to submit a citywide as a PPoPZIP and pass validations.': [('if i want to submit a citywide as ppopzip and pass validations as a fabs user', 42), ('as a fabs user i want to submit a citywide ppopzip and pass validations', 18), ('if i am a fabs user i want to submit a citywide ppopzip and pass validations', 18)], 'As a Data user, I want to have the 12-19-2017 deletions.': [('as a data user i want to have the deletions processed from 12-19-2017 i have', 46), ('as user i want to have the deletions processed from 12-19-2017', 46), ('as user i want to have the deletions processed on 12-19-2017', 44), ('as a data user i want to have the deletions processed on 19 december 2017', 43), ('if i am a data user i want to have the deletions processed from 12 to 19 2017', 42), ('as a data user i want to have the deletions processed from 12-19-2017', 39), ('if i am a data user i want to have the deletions processed from 12-19-2017', 39), ('if i am a data user i want to have the deletions processed on 12-19-2017', 37), ('as a data user i want to have the deletions processed on 12-19-2017', 37)], 'As a Data user, I want to have the 12-19-2017 .': [('as a data user i want to have the deletions processed from 12-19-2017 i have', 46), ('as user i want to have the deletions processed from 12-19-2017', 46), ('as user i want to have the deletions processed on 12-19-2017', 44), ('as a data user i want to have the deletions processed on 19 december 2017', 43), ('if i am a data user i want to have the deletions processed from 12 to 19 2017', 42), ('as a data user i want to have the deletions processed from 12-19-2017', 39), ('if i am a data user i want to have the deletions processed from 12-19-2017', 39), ('if i am a data user i want to have the deletions processed on 12-19-2017', 37), ('as a data user i want to have the deletions processed on 12-19-2017', 37)], 'As a Data user, I to have the 12-19-2017 deletions processed.': [('as a data user i want to have the deletions processed from 12-19-2017 i have', 46), ('as user i want to have the deletions processed from 12-19-2017', 46), ('as user i want to have the deletions processed on 12-19-2017', 44), ('as a data user i want to have the deletions processed on 19 december 2017', 43), ('if i am a data user i want to have the deletions processed from 12 to 19 2017', 42), ('as a data user i want to have the deletions processed from 12-19-2017', 39), ('if i am a data user i want to have the deletions processed from 12-19-2017', 39), ('if i am a data user i want to have the deletions processed on 12-19-2017', 37), ('as a data user i want to have the deletions processed on 12-19-2017', 37)], 'user, I want to have the 12-19-2017 deletions processed.': [('as a data user i want to have the deletions processed from 12-19-2017 i have', 46), ('as user i want to have the deletions processed from 12-19-2017', 46), ('as user i want to have the deletions processed on 12-19-2017', 44), ('as a data user i want to have the deletions processed on 19 december 2017', 43), ('if i am a data user i want to have the deletions processed from 12 to 19 2017', 42), ('as a data user i want to have the deletions processed from 12-19-2017', 39), ('if i am a data user i want to have the deletions processed from 12-19-2017', 39), ('if i am a data user i want to have the deletions processed on 12-19-2017', 37), ('as a data user i want to have the deletions processed on 12-19-2017', 37)], 'As a Data user, I want to have the -2017 deletions processed.': [('as a data user i want to have the deletions processed from 12-19-2017 i have', 46), ('as user i want to have the deletions processed from 12-19-2017', 46), ('as user i want to have the deletions processed on 12-19-2017', 44), ('as a data user i want to have the deletions processed on 19 december 2017', 43), ('if i am a data user i want to have the deletions processed from 12 to 19 2017', 42), ('as a data user i want to have the deletions processed from 12-19-2017', 39), ('if i am a data user i want to have the deletions processed from 12-19-2017', 39), ('if i am a data user i want to have the deletions processed on 12-19-2017', 37), ('as a data user i want to have the deletions processed on 12-19-2017', 37)]}
+    print(output_dict)
+
+    past_conf = None
+    if filename.endswith("_rerun.txt"):
+        index1 = filename.rfind("/")
+        index2 = filename.rfind("_rerun")
+        past_conf = filename[index1 + 1:index2]
+        if os.path.exists(filename):
+            os.remove(filename)
+
+    input_list = list(output_dict.keys())  # se ci sono due frasi in input uguali diventano una sola
+    popup_output(output_dict, input_list, conf, past_conf, window)
+
+
+def popup_output(dict, input_list, conf, past_conf, old_window):
+    sg.theme('DarkTeal12')
+
+    if old_window is not None:
+        old_window.close()
+
+    count_rows = 0
+
+    # counting the rows that i need
+    for i in input_list:
+        count_rows = count_rows + 1
+        for j in range(len(dict[i])):
+            count_rows = count_rows + 1
+
+    # creo lo spazio all'inizio e poi aggiorno
+    layout_in = [[]]
+
+    count = 0
+    for i in input_list:
+        section = [[]]
+        layout_in += [[sg.Text(SYMBOL_DOWN, enable_events=True, k='OPEN_' + str(count), text_color='black'),
+                       sg.Text(i, enable_events=True, text_color='black', k='INPUT_TEXT_' + str(count), size=(150, 1)),
+                       sg.Checkbox('', enable_events=True, key='CHECKBOX_IN_' + str(count))]]
+        section += [[sg.Input(dict[i][j], k='OUTPUT_TEXT_' + str(count) + "." + str(j), size=(150, 1)),
+                     sg.Checkbox('', enable_events=True, key='CHECKBOX_OUT_' + str(count) + "." + str(j))] for j in
+                    range(len(dict[i]))]
+        layout_in += [[collapse(section, 'SEC_' + str(count))]]
+        # layout_in += section
+
+        count = count + 1
+
+    conf_def = [
+        [
+            '&ReConfigure',
+            ['&Parrot', '&Eda', '&No_Context', '&First_Best_wup', '&Second_Best_wup',
+             '&First_Best_w2v', '&Second_Best_w2v', '&Hyper_w2v', '&Hypon_w2v']
+        ]
+    ]
+
+    layout = [
+
+        [sg.MenubarCustom(conf_def, key='-RECONF-')],
+        # inside the variable values['-RECONF-'] you have the algorithm name
+        [sg.Text("Selected Configuration:             ", key='-SELECTED CONFIGURATION-')],
+        [sg.Button('ReRun'), sg.Button("Save"), sg.Button('Exit')],
+        [sg.HSep()],
+        [sg.Checkbox('Check all', enable_events=True, key='Check_All'),
+         sg.Text("         "),
+         sg.Checkbox('Uncheck all', enable_events=True, key='Uncheck_All')],
+        [sg.Checkbox('Check all inputs', enable_events=True, key='Check_All_Inputs'),
+         sg.Text("  "),
+         sg.Checkbox('Uncheck all inputs', enable_events=True, key='Uncheck_All_Inputs')],
+        [sg.Checkbox('Check all outputs', enable_events=True, key='Check_All_Outputs'),
+         sg.Text(" "),
+         sg.Checkbox('Uncheck all outputs', enable_events=True, key='Uncheck_All_Outputs')],
+        [sg.Checkbox('Close all', enable_events=True, key='Close_All'),
+         sg.Text("         "),
+         sg.Checkbox('Open all', enable_events=True, key='Open_All')],
+        [sg.HSep()],
+        [sg.Column(layout_in, size=(1200, 700), scrollable=True, key='-COLUMN-')]
+    ]
+
+    window = sg.Window("Outputs", layout, font=font)
+
+    opened = True
+    reconf = None
+    output_file_index = 0
+    parameters_list = []
+
+    while True:
+
+        event, values = window.read()
+
+        if event == sg.WIN_CLOSED or event == 'Exit':
+            break
+
+        # conf è conf vecchia, reconf è conf nuova
+        # se lo richiamo da qua infatti reconf va al posto del parametro conf
+
+        if event == 'Parrot' or event == 'Eda' or event == 'No_Context' or \
+                event == 'First_Best_wup' or event == 'Second_Best_wup' or \
+                event == 'First_Best_w2v' or event == 'Second_Best_w2v' or \
+                event == 'Hyper_w2v' or event == 'Hypon_w2v':
+
+            reconf = values['-RECONF-']
+            print(reconf)
+            window['-SELECTED CONFIGURATION-'].update("Selected Configuration: " + reconf)
+
+            parameters_list.clear()
+
+            if reconf == 'Parrot':
+                max_return_phrases = None
+                do_diverse = None
+                adequacy_threshold = None
+                fluency_threshold = None
+                configure_parrot(max_return_phrases, do_diverse, adequacy_threshold, fluency_threshold, parameters_list)
+
+            elif reconf == 'Eda':
+                alpha_sr = None
+                alpha_ri = None
+                alpha_rs = None
+                alpha_rd = None
+                num_aug = None
+                configure_eda(alpha_sr, alpha_ri, alpha_rs, alpha_rd, num_aug, parameters_list)
+
+            elif reconf == 'No_Context':
+                always_subst = None
+                configure_no_context(always_subst, parameters_list)
+
+            elif reconf == 'First_Best_wup' or reconf == 'Second_Best_wup' or\
+                    reconf == 'First_Best_w2v' or reconf == 'Second_Best_w2v' or \
+                    reconf == 'Hyper_w2v' or reconf == 'Hypon_w2v':
+                syn_vs_synsets = None
+                syn_vs_term = None
+                n_max = None
+                configure_best(syn_vs_synsets, syn_vs_term, n_max, parameters_list)
+
+        if event == 'ReRun':
+
+            if reconf is None:
+
+                popup_message("You have to choose a configuration")
+
+            else:
+
+                selected_count = 0
+                for i in range(len(input_list)):
+                    if values['CHECKBOX_IN_' + str(i)] is True:
+                        selected_count = selected_count + 1
+                    for j in range(len(dict[input_list[i]])):
+                        if values['CHECKBOX_OUT_' + str(i) + '.' + str(j)] is True:
+                            selected_count = selected_count + 1
+                if selected_count == 0:
+                    popup_message("You have to select some items")
+
+                else:
+
+                    # salvi file rerun, devi dargli nome con configurazione vecchia
+                    # potresti dare nome in base a conf
+                    if past_conf is not None:
+                        output_file = open(conf + "_" + past_conf + "_rerun.txt", "w")
+                    else:
+                        output_file = open(conf + "_rerun.txt", "w")
+                    for i in range(len(input_list)):
+                        if values['CHECKBOX_IN_' + str(i)] is True:
+                            i_line = window['INPUT_TEXT_' + str(i)].get()
+                            # se ci sono come output frasi vuote non le riscrivi in file per rerun perché algoritmo che le prcoessa (in particolare Eda) potrebbe avere problemi
+                            # se frasi vuote ci sono le scrivi però in file salvato finale (su cui non devi fare rerun) perché comunque sono risultati
+                            if len(i_line.strip()) != 0:  # senza spazi bianchi
+                                if "\n" in i_line:  # non vuoi andare a capo due volte
+                                    output_file.write(i_line)
+                                else:
+                                    output_file.write(i_line + "\n")
+                        for j in range(len(dict[input_list[i]])):
+                            if values['CHECKBOX_OUT_' + str(i) + '.' + str(j)] is True:
+                                o_line = window['OUTPUT_TEXT_' + str(i) + '.' + str(j)].get()
+                                if len(o_line.strip()) != 0:  # senza spazi bianchi
+                                    if "\n" in o_line:
+                                        output_file.write(o_line)
+                                    else:
+                                        output_file.write(o_line + "\n")
+
+                    output_file.close()
+
+                    files = [f for f in os.listdir('.') if f.endswith('_rerun.txt')]
+                    if len(files) != 1:
+                        raise ValueError('should be only one rerun file in the current directory')
+
+                    filename = files[0]
+
+                    execute(reconf, parameters_list, filename, window)
+
+        if event == 'Save':
+
+            selected_count = 0
+            for i in range(len(input_list)):
+                if values['CHECKBOX_IN_' + str(i)] is True:
+                    selected_count = selected_count + 1
+                for j in range(len(dict[input_list[i]])):
+                    if values['CHECKBOX_OUT_' + str(i) + '.' + str(j)] is True:
+                        selected_count = selected_count + 1
+            if selected_count == 0:
+                popup_message("You have to select some items")
+
+            else:
+                output_file_index = output_file_index + 1
+                # potresti dare nome in base a conf
+                if past_conf is not None:
+                    output_file = open(conf + "_" + past_conf + "_output_file_" + str(output_file_index) + ".txt", "w")
+                else:
+                    output_file = open(conf + "_output_file_" + str(output_file_index) + ".txt", "w")
+                for i in range(len(input_list)):
+                    if values['CHECKBOX_IN_' + str(i)] is True:
+                        i_line = window['INPUT_TEXT_' + str(i)].get()
+                        # se ci sono frasi vuote le vuoi scrivere, siamo in risultati finali, non in rerun
+                        if "\n" in i_line:  # non vuoi andare a capo due volte
+                            output_file.write("Input Phrase: " + i_line)
+                        else:
+                            output_file.write("Input Phrase: " + i_line + "\n")
+                    for j in range(len(dict[input_list[i]])):
+                        if values['CHECKBOX_OUT_' + str(i) + '.' + str(j)] is True:
+                            o_line = window['OUTPUT_TEXT_' + str(i) + '.' + str(j)].get()
+                            if len(o_line.strip()) == 0:
+                                output_file.write("Empty line\n")
+                            elif "\n" in o_line:
+                                output_file.write(o_line)
+                            else:
+                                output_file.write(o_line + "\n")
+
+        if event == 'Check_All':
+            for i in range(len(input_list)):
+                window['CHECKBOX_IN_' + str(i)].update(True)
+                for j in range(len(dict[input_list[i]])):
+                    window['CHECKBOX_OUT_' + str(i) + '.' + str(j)].update(True)
+            window['Uncheck_All'].update(False)
+
+        if event == 'Uncheck_All':
+            for i in range(len(input_list)):
+                window['CHECKBOX_IN_' + str(i)].update(False)
+                for j in range(len(dict[input_list[i]])):
+                    window['CHECKBOX_OUT_' + str(i) + '.' + str(j)].update(False)
+            window['Check_All'].update(False)
+
+        if event == 'Check_All_Inputs':
+            for i in range(len(input_list)):
+                window['CHECKBOX_IN_' + str(i)].update(True)
+            window['Uncheck_All_Inputs'].update(False)
+            window['Uncheck_All'].update(False)
+
+        if event == 'Uncheck_All_Inputs':
+            for i in range(len(input_list)):
+                window['CHECKBOX_IN_' + str(i)].update(False)
+            window['Check_All_Inputs'].update(False)
+            window['Check_All'].update(False)
+
+        if event == 'Check_All_Outputs':
+            for i in range(len(input_list)):
+                for j in range(len(dict[input_list[i]])):
+                    window['CHECKBOX_OUT_' + str(i) + '.' + str(j)].update(True)
+            window['Uncheck_All_Outputs'].update(False)
+            window['Uncheck_All'].update(False)
+
+        if event == 'Uncheck_All_Outputs':
+            for i in range(len(input_list)):
+                for j in range(len(dict[input_list[i]])):
+                    window['CHECKBOX_OUT_' + str(i) + '.' + str(j)].update(False)
+            window['Check_All_Outputs'].update(False)
+            window['Check_All'].update(False)
+
+        i = 0
+        while i < len(input_list):
+            if event == 'OPEN_' + str(i):
+                opened = not opened
+                window['OPEN_' + str(i)].update(SYMBOL_DOWN if opened else SYMBOL_UP)
+                window['SEC_' + str(i)].update(visible=opened)
+            i = i + 1
+
+        if event == 'Close_All':
+            for i in range(len(input_list)):
+                opened = False
+                window['OPEN_' + str(i)].update(SYMBOL_DOWN)
+                window['SEC_' + str(i)].update(visible=False)
+            window['Open_All'].update(False)
+
+        if event == 'Open_All':
+            for i in range(len(input_list)):
+                opened = True
+                window['OPEN_' + str(i)].update(SYMBOL_UP)
+                window['SEC_' + str(i)].update(visible=True)
+            window['Close_All'].update(False)
+
+    window.close()
+
+
+def paraphrase_gui():
+    sg.theme('DarkTeal12')
+
+    conf_def = [
+        [
+            '&Configure',
+            ['&Parrot', '&Eda', '&No_Context', '&First_Best_wup', '&Second_Best_wup',
+             '&First_Best_w2v', '&Second_Best_w2v', '&Hyper_w2v', '&Hypon_w2v']
+        ]
+    ]
+
+    layout = [
+
+        [sg.MenubarCustom(conf_def, key='-CONF-')],  # inside the variable values['-CONF-'] you have the algorithm name
+        [sg.Text("Selected Configuration:             ", key='-SELECTED CONFIGURATION-')],
+        [sg.Text("Choose a file: "), sg.Input(key='-INPUT-'), sg.FileBrowse()],
+        [sg.T("               "), sg.Button('Run'), sg.Button("Open"), sg.Button('Exit')]
+
+    ]
+
+    window = sg.Window('Text Paraphrase', layout, font=font)
+
+    conf = None
+    filename = None
+    parameters_list = []
+
+    while True:
+
+        event, values = window.read()
+
+        if values['-INPUT-']:
+            filename = values['-INPUT-']
+
+        if event == sg.WIN_CLOSED or event == 'Exit':
+            break
+
+        if event == 'Parrot' or event == 'Eda' or event == 'No_Context' or\
+                event == 'First_Best_wup' or event == 'Second_Best_wup' or\
+                event == 'First_Best_w2v' or event == 'Second_Best_w2v' or \
+                event == 'Hyper_w2v' or event == 'Hypon_w2v':
+            conf = values['-CONF-']
+            window['-SELECTED CONFIGURATION-'].update("Selected Configuration: " + conf)
+
+            parameters_list.clear()
+
+            if conf == 'Parrot':
+                max_return_phrases = None
+                do_diverse = None
+                adequacy_threshold = None
+                fluency_threshold = None
+                configure_parrot(max_return_phrases, do_diverse, adequacy_threshold, fluency_threshold, parameters_list)
+
+            elif conf == 'Eda':
+                alpha_sr = None
+                alpha_ri = None
+                alpha_rs = None
+                alpha_rd = None
+                num_aug = None
+                configure_eda(alpha_sr, alpha_ri, alpha_rs, alpha_rd, num_aug, parameters_list)
+
+            elif conf == 'No_Context':
+                always_subst = None
+                configure_no_context(always_subst, parameters_list)
+
+
+            elif conf == 'First_Best_wup' or conf == 'Second_Best_wup' or \
+                    conf == 'First_Best_w2v' or conf == 'Second_Best_w2v' or \
+                    conf == 'Hyper_w2v' or conf == 'Hypon_w2v':
+                syn_vs_synsets = None
+                syn_vs_term = None
+                n_max = None
+                configure_best(syn_vs_synsets, syn_vs_term, n_max, parameters_list)
+
+        if event == "Run":
+
+            if conf is None:
+                popup_message('You have to choose a configuration')
+
+            else:
+
+                if filename is None:
+                    popup_message("You have to choose a file")
+
+                else:
+                    execute(conf, parameters_list, filename, None)
+
+        if event == 'Open':
+
+            if filename is None:
+
+                popup_message("You have to choose a file")
+
+            else:
+                if Path(filename).is_file():
+                    try:
+                        with open(filename, "rt", encoding='utf-8') as f:
+                            text = f.read()
+                        popup_text(filename, text)
+                    except Exception as e:
+                        print("Error: ", e)
+
+    window.close()
+
+
+if __name__ == '__main__':
+    paraphrase_gui()
