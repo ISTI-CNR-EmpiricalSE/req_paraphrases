@@ -1,0 +1,150 @@
+absl-py==0.12.0
+alabaster==0.7.12
+astunparse==1.6.3
+attrs @ file:///tmp/build/80754af9/attrs_1620827162558/work
+Babel==2.9.1
+black==21.11b1
+blis @ file:///tmp/build/80754af9/cython-blis_1613318563309/work
+boto==2.49.0
+boto3 @ file:///opt/conda/conda-bld/boto3_1643638230110/work
+botocore @ file:///opt/conda/conda-bld/botocore_1642672735464/work
+Bottleneck @ file:///tmp/build/80754af9/bottleneck_1607575130224/work
+brotlipy==0.7.0
+bz2file==0.98
+cachetools==4.2.4
+catalogue @ file:///tmp/build/80754af9/catalogue_1608238891378/work
+certifi==2021.10.8
+cffi @ file:///tmp/build/80754af9/cffi_1625814692085/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+click==8.0.3
+colorama==0.4.4
+cryptography @ file:///tmp/build/80754af9/cryptography_1635366129652/work
+cymem @ file:///tmp/build/80754af9/cymem_1613318722340/work
+Cython @ file:///tmp/build/80754af9/cython_1618435158654/work
+dill==0.3.4
+distro==1.6.0
+docutils==0.16
+editdistance==0.6.0
+en-core-web-md @ https://github.com/explosion/spacy-models/releases/download/en_core_web_md-2.3.1/en_core_web_md-2.3.1.tar.gz
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.3.1/en_core_web_sm-2.3.1.tar.gz
+filelock==3.4.0
+flatbuffers==2.0
+future==0.18.2
+fuzzywuzzy==0.18.0
+gast==0.4.0
+gensim @ file:///tmp/build/80754af9/gensim_1621558514262/work
+gevent==21.12.0
+gin-config==0.5.0
+google-api-core==2.3.2
+google-api-python-client==2.33.0
+google-auth==2.3.3
+google-auth-httplib2==0.1.0
+google-auth-oauthlib==0.4.6
+google-cloud-core==2.2.1
+google-cloud-storage==1.43.0
+google-compute-engine==2.8.13
+google-crc32c==1.3.0
+google-pasta==0.2.0
+google-resumable-media==2.1.0
+googleapis-common-protos==1.54.0
+greenlet==1.1.2
+grpcio==1.43.0
+h5py==3.6.0
+httplib2==0.20.2
+huggingface-hub==0.2.1
+idna @ file:///tmp/build/80754af9/idna_1622654382723/work
+imagesize==1.3.0
+importlib-metadata==4.9.0
+Jinja2==3.0.3
+jmespath @ file:///Users/ktietz/demo/mc3/conda-bld/jmespath_1630583964805/work
+joblib==1.1.0
+jsonschema @ file:///tmp/build/80754af9/jsonschema_1608321970280/work
+keras==2.7.0
+Keras-Preprocessing==1.1.2
+libclang==12.0.0
+livereload==2.6.3
+Markdown==3.3.6
+MarkupSafe==2.0.1
+mesh-tensorflow==0.1.19
+mkl-fft==1.3.1
+mkl-random @ file:///tmp/build/80754af9/mkl_random_1626186066731/work
+mkl-service==2.4.0
+murmurhash @ file:///tmp/build/80754af9/murmurhash_1607456132773/work
+mypy-extensions==0.4.3
+nltk==3.3
+numexpr @ file:///tmp/build/80754af9/numexpr_1618856529730/work
+numpy @ file:///tmp/build/80754af9/numpy_and_numpy_base_1634095651905/work
+oauth2client==4.1.3
+oauthlib==3.1.1
+opt-einsum==3.3.0
+packaging==21.3
+pandas==1.3.4
+parrot @ git+https://github.com/PrithivirajDamodaran/Parrot.git@3b9f139fe42a2b8e423477c5eec53ab4e728d914
+pathspec==0.9.0
+Pillow==8.4.0
+plac @ file:///tmp/build/80754af9/plac_1608239047611/work
+platformdirs==2.4.0
+portalocker==2.3.2
+preshed @ file:///tmp/build/80754af9/preshed_1621860846438/work
+promise==2.3
+protobuf==3.19.1
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pycodestyle==2.8.0
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+Pygments==2.10.0
+pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1635333100036/work
+pyparsing==3.0.6
+pyrsistent @ file:///tmp/build/80754af9/pyrsistent_1636110951836/work
+PySimpleGUI==4.57.0
+PySocks @ file:///tmp/build/80754af9/pysocks_1605305812635/work
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+python-Levenshtein==0.12.2
+pytz==2021.3
+PyYAML==6.0
+regex==2021.11.10
+requests @ file:///tmp/build/80754af9/requests_1629994808627/work
+requests-oauthlib==1.3.0
+rouge-score==0.0.4
+rsa==4.8
+s3transfer @ file:///tmp/build/80754af9/s3transfer_1626435152308/work
+sacrebleu==2.0.0
+sacremoses==0.0.46
+scikit-learn==1.0.1
+scipy @ file:///tmp/build/80754af9/scipy_1641555004408/work
+sentence-transformers==2.1.0
+sentencepiece==0.1.96
+seqio==0.0.7
+six @ file:///tmp/build/80754af9/six_1623709665295/work
+sklearn-pandas==2.2.0
+smart-open==1.9.0
+snowballstemmer==2.2.0
+spacy @ file:///tmp/build/80754af9/spacy_1608322949099/work
+spacy-wordnet==0.0.5
+Sphinx==3.5.4
+sphinx-autobuild==2021.3.14
+sphinxcontrib-applehelp==1.0.2
+sphinxcontrib-devhelp==1.0.2
+sphinxcontrib-htmlhelp==2.0.0
+sphinxcontrib-jsmath==1.0.1
+sphinxcontrib-qthelp==1.0.3
+sphinxcontrib-serializinghtml==1.1.5
+srsly @ file:///tmp/build/80754af9/srsly_1607548528891/work
+thinc @ file:///tmp/build/80754af9/thinc_1608240709010/work
+threadpoolctl==3.0.0
+tokenizers==0.10.3
+tomli==1.2.2
+torch==1.10.0
+torchvision==0.11.1
+tornado==6.1
+tqdm @ file:///tmp/build/80754af9/tqdm_1635330843403/work
+transformers==4.13.0
+typing_extensions==4.0.1
+uritemplate==4.1.1
+urllib3==1.26.7
+wasabi @ file:///tmp/build/80754af9/wasabi_1612219178408/work
+Werkzeug==2.0.2
+wrapt==1.13.3
+zipp==3.6.0
+zope.event==4.5.0
+zope.interface==5.4.0
