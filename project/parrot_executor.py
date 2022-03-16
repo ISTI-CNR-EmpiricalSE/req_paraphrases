@@ -55,7 +55,6 @@ def parrot_executor_func(filename, parameters_list, output_dict):
     my_file = open(filename, "r")
     phrases = my_file.read().splitlines()
 
-
     # Perform the paraphrasing using the parrot.augment() function
     # that takes in as input argument the phrase being iterated.
     # Generated paraphrases are assigned to the para_phrases variable.
@@ -64,7 +63,7 @@ def parrot_executor_func(filename, parameters_list, output_dict):
     diversity_ranker = "levenshtein"
     max_length = 32
     max_return_phrases = parameters_list[0]
-    print("max re phr " + max_return_phrases)
+    print("max re phr " + str(max_return_phrases))
     do_diverse = parameters_list[1]
     print("do_diverse " + str(do_diverse))
     adequacy_threshold = parameters_list[2]
@@ -97,7 +96,8 @@ def parrot_executor_func(filename, parameters_list, output_dict):
 
         paraphrase_list = []
         for para_phrase in para_phrases:
-            paraphrase_list.append(para_phrase)
+            # you don't want {}, para_phrase it's a tuple and you want the first object
+            paraphrase_list.append(para_phrase[0])
 
         output_dict[phrase] = paraphrase_list
 
@@ -105,4 +105,9 @@ def parrot_executor_func(filename, parameters_list, output_dict):
 
     toc0 = time.perf_counter()
 
+
+if __name__ == '__main__':
+    dict = {}
+    parrot_executor_func('../data_sets/cont.txt', [10, True, 0.5, 0.5], dict)
+    print(dict)
 

@@ -417,3 +417,8 @@ def first_best_wup_executor_func(filename, parameters_list, output_dict):
 
     toc0 = time.perf_counter()
 
+
+if __name__ == '__main__':
+    dict = {}
+    first_best_wup_executor_func('../data_sets/cont.txt', [True, False, 100], dict)
+    print(dict)
