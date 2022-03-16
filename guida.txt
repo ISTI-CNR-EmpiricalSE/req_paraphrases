@@ -1,6 +1,6 @@
 INSTALLAZIONE
 
-scaricare i pacchetti necessari dal file 'requirements.txt'
+scaricare i pacchetti necessari dal file 'requirements2.txt'
 scaricare il modello 'SO_word2vec', che è mantenuto in un file .bin della dimensione di 1.5 GB, al seguente link: http://doi.org/10.5281/zenodo.1199620
 collocare il modello dentro la directory 'project'
 
