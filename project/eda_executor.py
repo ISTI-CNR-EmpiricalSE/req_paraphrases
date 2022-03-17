@@ -1,4 +1,4 @@
-import eda_nlp.data.code.augment as augment_function
+import eda_nlp as augment_function
 
 
 def eda_executor_func(filename, parameters_list, output_dict):

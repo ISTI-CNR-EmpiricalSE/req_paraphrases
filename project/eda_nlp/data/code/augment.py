@@ -1,7 +1,6 @@
 # Easy data augmentation techniques for text classification
 # Jason Wei and Kai Zou
 
-from eda_nlp.data.code.eda import *
 import time
 
 #arguments to be parsed from command line
@@ -21,7 +20,6 @@ output = None
 if args.output:
     output = args.output
 else:
-    from os.path import dirname, basename, join
     output = "output_file"
 
 #number of augmented sentences to generate per original sentence
