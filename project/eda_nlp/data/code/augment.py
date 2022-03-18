@@ -2,6 +2,7 @@
 # Jason Wei and Kai Zou
 
 import time
+import eda_nlp.data.code.eda as eda_function  # dà errore ma funziona
 
 #arguments to be parsed from command line
 import argparse
@@ -88,7 +89,7 @@ def gen_eda(train_orig, output_dict, alpha_sr, alpha_ri, alpha_rs, alpha_rd, num
         # sentence = parts[1]
         # the sentence in the format label.0) is the original sentence which is not even passed through parrot
         # j = j+1
-        aug_sentences = eda(line, alpha_sr=alpha_sr, alpha_ri=alpha_ri, alpha_rs=alpha_rs, p_rd=alpha_rd, num_aug=num_aug)
+        aug_sentences = eda_function.eda(line, alpha_sr=alpha_sr, alpha_ri=alpha_ri, alpha_rs=alpha_rs, p_rd=alpha_rd, num_aug=num_aug)
         w = 1
         aug_sentences_list = []
         for aug_sentence in aug_sentences:

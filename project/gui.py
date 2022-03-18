@@ -16,8 +16,6 @@ import hypon_w2v_executor
 SYMBOL_UP = '▲'
 SYMBOL_DOWN = '▼'
 
-# font = ("Arial", 10)
-font = ('fixed', 10)  # se 11 forse un po' meglio, in caso allarga finestra
 sg.theme('DarkTeal12')
 
 
@@ -30,7 +28,7 @@ def configure_parrot(max_return_phrases, do_diverse, adequacy_threshold, fluency
         [sg.Text('fluency_threshold = '), sg.Input("5", key='-FLUENCY_THRESHOLD-')],
         [sg.Button('Ok')]
     ]
-    window_conf = sg.Window('Parameters', layout_conf, font=font)
+    window_conf = sg.Window('Parameters', layout_conf)
     while True:
 
         event, values = window_conf.read()
@@ -91,7 +89,7 @@ def configure_eda(alpha_sr, alpha_ri, alpha_rs, alpha_rd, num_aug, parameters_li
         [sg.Text('num_aug  = '), sg.Input("9", key='-NUM_AUG-')],
         [sg.Button('Ok')]
     ]
-    window_conf = sg.Window('Parameters', layout_conf, font=font)
+    window_conf = sg.Window('Parameters', layout_conf)
     while True:
 
         event, values = window_conf.read()
@@ -165,7 +163,7 @@ def configure_no_context(always_subst, parameters_list):
          sg.Checkbox('', enable_events=True, key='-ALWAYS_SUBST_CHECK_BOX-')],
         [sg.Button('Ok')]
     ]
-    window_conf = sg.Window('Parameters', layout_conf, font=font)
+    window_conf = sg.Window('Parameters', layout_conf)
     while True:
 
         event, values = window_conf.read()
@@ -197,7 +195,7 @@ def configure_best(syn_vs_synsets, syn_vs_term, n_max, parameters_list):
         [sg.Button('Ok')]
     ]
 
-    window_conf = sg.Window('Parameters', layout_conf, font=font)
+    window_conf = sg.Window('Parameters', layout_conf)
 
     while True:
 
@@ -252,7 +250,7 @@ def popup_message(text):
         [sg.Text(text)]
 
     ]
-    window = sg.Window("Warning", layout, font=font)
+    window = sg.Window("Warning", layout)
     while True:
         event, values = window.read()
         if event == sg.WINDOW_CLOSED:
@@ -268,7 +266,7 @@ def popup_text(filename, text):
 
     ]
     # font = font non funziona
-    window = sg.Window(filename, layout, modal=True, finalize=True, font=font)
+    window = sg.Window(filename, layout, modal=True, finalize=True)
 
     while True:
         event, values = window.read()
@@ -312,7 +310,7 @@ def execute(conf, parameters_list, filename, window):
         executor_func = hypon_w2v_executor.hypon_w2v_executor_func
 
     thread_id = threading.Thread(target=executor_func, args=(filename, parameters_list, output_dict), daemon=True)
-    print("Avvio parrot thread...")
+    print("Avvio thread...")
     thread_id.start()
     thread_id.join()
     # output_dict = {'As a Data user, I want to have the 12-19-2017 deletions processed.': [('as a data user i want to have the deletions processed from 12-19-2017 i have', 46), ('as user i want to have the deletions processed from 12-19-2017', 46), ('as user i want to have the deletions processed on 12-19-2017', 44), ('as a data user i want to have the deletions processed on 19 december 2017', 43), ('if i am a data user i want to have the deletions processed from 12 to 19 2017', 42), ('as a data user i want to have the deletions processed from 12-19-2017', 39), ('if i am a data user i want to have the deletions processed from 12-19-2017', 39), ('if i am a data user i want to have the deletions processed on 12-19-2017', 37), ('as a data user i want to have the deletions processed on 12-19-2017', 37)], 'As a UI designer, I want to redesign the Resources page, so that it matches the new Broker design styles.': [('i would like to redesign the resources page as a ui designer so that it matches the new broker design styles', 48), ('the resources page should be redesigned as a ui designer so that it matches the new broker design styles', 48), ('i would like to redesign the resources page so that it matches the new broker design style', 32), ('i would like to redesign the resources page so that it matches the new broker design styles', 31), ('as a ui designer i want to redesign the resources page so that it matches the new broker design styles i have', 19), ('as a ui designer i want to redesign the resources page so it matches the new broker design styles', 18), ('as a ui designer i want to redesign the resources page so that it matches the new broker design style', 14), ('as a ui designer i want to redesign the resources page so that it matches the new broker design styles ', 13), ('as a ui designer i want to redesign the resources page so that it matches the new broker design styles', 13)], 'As a UI designer, I want to report to the Agencies about user testing, so that they are aware of their contributions to making Broker a better UX.': [('my job is to report to the agencies about user testing so that they are aware of their contributions to making broker a better ux i also want to', 46), ('my role is to report to the agencies about user testing so that they are aware of their contributions to making broker a better ux experience', 41), ('my job is to report to the agencies about user testing so that they are aware of their contributions to making broker a better ux i want to', 41), ('my role is to report to the agencies about user testing so that they are aware of their contributions to making broker a better ux i want to', 40), ('my role is to report to the agencies about user testing so that they are aware of their contributions to broker a better ux', 38), ('my role is to report to the agencies about user testing so that they are aware of their contribution to making broker a better ux', 32), ('my job is to report to the agencies about user testing so that they are aware of their contributions to making broker a better ux', 32), ('my role is to report to the agencies about user testing so that they are aware of their contributions to making broker a better ux', 31), ('as a ui designer i want to report to the agencies about user testing so they are aware of their contributions to making broker a better ux', 18), ('as a ui designer i want to report to the agencies about user testing so that they are aware of their contributions to making broker a better ux', 13)], 'As a FABS user, I want to submit a citywide as a PPoPZIP and pass validations.': [('if i want to submit a citywide as ppopzip and pass validations as a fabs user', 42), ('as a fabs user i want to submit a citywide ppopzip and pass validations', 18), ('if i am a fabs user i want to submit a citywide ppopzip and pass validations', 18)], 'As a Data user, I want to have the 12-19-2017 deletions.': [('as a data user i want to have the deletions processed from 12-19-2017 i have', 46), ('as user i want to have the deletions processed from 12-19-2017', 46), ('as user i want to have the deletions processed on 12-19-2017', 44), ('as a data user i want to have the deletions processed on 19 december 2017', 43), ('if i am a data user i want to have the deletions processed from 12 to 19 2017', 42), ('as a data user i want to have the deletions processed from 12-19-2017', 39), ('if i am a data user i want to have the deletions processed from 12-19-2017', 39), ('if i am a data user i want to have the deletions processed on 12-19-2017', 37), ('as a data user i want to have the deletions processed on 12-19-2017', 37)], 'As a Data user, I want to have the 12-19-2017 .': [('as a data user i want to have the deletions processed from 12-19-2017 i have', 46), ('as user i want to have the deletions processed from 12-19-2017', 46), ('as user i want to have the deletions processed on 12-19-2017', 44), ('as a data user i want to have the deletions processed on 19 december 2017', 43), ('if i am a data user i want to have the deletions processed from 12 to 19 2017', 42), ('as a data user i want to have the deletions processed from 12-19-2017', 39), ('if i am a data user i want to have the deletions processed from 12-19-2017', 39), ('if i am a data user i want to have the deletions processed on 12-19-2017', 37), ('as a data user i want to have the deletions processed on 12-19-2017', 37)], 'As a Data user, I to have the 12-19-2017 deletions processed.': [('as a data user i want to have the deletions processed from 12-19-2017 i have', 46), ('as user i want to have the deletions processed from 12-19-2017', 46), ('as user i want to have the deletions processed on 12-19-2017', 44), ('as a data user i want to have the deletions processed on 19 december 2017', 43), ('if i am a data user i want to have the deletions processed from 12 to 19 2017', 42), ('as a data user i want to have the deletions processed from 12-19-2017', 39), ('if i am a data user i want to have the deletions processed from 12-19-2017', 39), ('if i am a data user i want to have the deletions processed on 12-19-2017', 37), ('as a data user i want to have the deletions processed on 12-19-2017', 37)], 'user, I want to have the 12-19-2017 deletions processed.': [('as a data user i want to have the deletions processed from 12-19-2017 i have', 46), ('as user i want to have the deletions processed from 12-19-2017', 46), ('as user i want to have the deletions processed on 12-19-2017', 44), ('as a data user i want to have the deletions processed on 19 december 2017', 43), ('if i am a data user i want to have the deletions processed from 12 to 19 2017', 42), ('as a data user i want to have the deletions processed from 12-19-2017', 39), ('if i am a data user i want to have the deletions processed from 12-19-2017', 39), ('if i am a data user i want to have the deletions processed on 12-19-2017', 37), ('as a data user i want to have the deletions processed on 12-19-2017', 37)], 'As a Data user, I want to have the -2017 deletions processed.': [('as a data user i want to have the deletions processed from 12-19-2017 i have', 46), ('as user i want to have the deletions processed from 12-19-2017', 46), ('as user i want to have the deletions processed on 12-19-2017', 44), ('as a data user i want to have the deletions processed on 19 december 2017', 43), ('if i am a data user i want to have the deletions processed from 12 to 19 2017', 42), ('as a data user i want to have the deletions processed from 12-19-2017', 39), ('if i am a data user i want to have the deletions processed from 12-19-2017', 39), ('if i am a data user i want to have the deletions processed on 12-19-2017', 37), ('as a data user i want to have the deletions processed on 12-19-2017', 37)]}
@@ -354,8 +352,7 @@ def popup_output(dict, input_list, conf, past_conf, old_window):
                        sg.Text(i, enable_events=True, text_color='black', k='INPUT_TEXT_' + str(count), size=(150, 1)),
                        sg.Checkbox('', enable_events=True, key='CHECKBOX_IN_' + str(count))]]
         section += [[sg.Input(dict[i][j], k='OUTPUT_TEXT_' + str(count) + "." + str(j), size=(150, 1)),
-                     sg.Checkbox('', enable_events=True, key='CHECKBOX_OUT_' + str(count) + "." + str(j))] for j in
-                    range(len(dict[i]))]
+                     sg.Checkbox('', enable_events=True, key='CHECKBOX_OUT_' + str(count) + "." + str(j))] for j in range(len(dict[i]))]
         layout_in += [[collapse(section, 'SEC_' + str(count))]]
         # layout_in += section
 
@@ -370,9 +367,7 @@ def popup_output(dict, input_list, conf, past_conf, old_window):
     ]
 
     layout = [
-
         [sg.MenubarCustom(conf_def, key='-RECONF-')],
-        # inside the variable values['-RECONF-'] you have the algorithm name
         [sg.Text("Selected Configuration:             ", key='-SELECTED CONFIGURATION-')],
         [sg.Button('ReRun'), sg.Button("Save"), sg.Button('Exit')],
         [sg.HSep()],
@@ -389,11 +384,10 @@ def popup_output(dict, input_list, conf, past_conf, old_window):
          sg.Text("         "),
          sg.Checkbox('Open all', enable_events=True, key='Open_All')],
         [sg.HSep()],
-        [sg.Column(layout_in, size=(1200, 700), scrollable=True, key='-COLUMN-')]
+        [sg.Column(layout_in, size=(1200, 500), scrollable=True, key='-COLUMN-')]
     ]
 
-    window = sg.Window("Outputs", layout, font=font)
-
+    window = sg.Window("Outputs", layout)
     opened = True
     reconf = None
     output_file_index = 0
@@ -624,7 +618,7 @@ def paraphrase_gui():
 
     ]
 
-    window = sg.Window('Text Paraphrase', layout, font=font)
+    window = sg.Window('Text Paraphrase', layout)
 
     conf = None
     filename = None
