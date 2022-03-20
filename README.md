@@ -69,13 +69,13 @@ using **Hyper w2v** technique.
 
 In order to generate the paraphrased requirements file, the user must follow these steps:
 
-![](gui_1.png)
+![](images/gui_1.png)
 
 - choose a file through the button **Browse**.
 - choose a technique and its configurable parameters through the button **Configure**.
 - process the file through the button **Run**.
 
-![](gui_2.png)
+![](images/gui_2.png)
 
 - modify one or more output phrases **clicking** on it.
 - select one or more output phrases through the **checkboxes**.
@@ -99,7 +99,7 @@ clicking on the button **Ok**,
   - **adequacy_threshold** is the coefficient of how much the meaning of the output phrase is close to the original (0,10)
   - **fluency_threshold** is the coefficient of how much the output phrase is fluent in english (0,10)
 
-![](Parrot.png)
+![](images/Parrot.png)
 
 - Eda
   - **alpha_sr** is the replacement coefficient (0,10)
@@ -108,13 +108,13 @@ clicking on the button **Ok**,
   - **alpha_rd** is the deletion coefficient (0,10)
   - **num_aug** is the maximum number of genereted sentences (0,10)
 
-![](Eda.png)
+![](images/Eda.png)
 
 - No Context
 
 Check **always_subst** if you only want to make replacements with synonyms different from the original word.
 
-![](No_Context.png)
+![](images/No_Context.png)
 
 - Others
 
@@ -129,7 +129,7 @@ replaced (with their best/second best synonym/hypernym/hyponym), in the i-th phr
 and n-max phrases are returned. (0,100)
 
 
-![](Configure_Best.png)
+![](images/Configure_Best.png)
 
 
 ## Installation
