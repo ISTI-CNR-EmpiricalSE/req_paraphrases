@@ -1,1 +1,3 @@
-As a FABS user, I want to submit a citywide as a PPoPZIP and pass validations.
+INPUT 1
+INPUT 2
+INPUT 3

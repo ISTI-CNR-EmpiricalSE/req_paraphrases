@@ -1,9 +1,110 @@
 # req_paraphrases
 
+## Overview
+
+req_paraphrases is an application that generates paraphrases of software requirements 
+using different techniques.
+
+## Techniques
+
+The user can generate the paraphrased requirements choosing between the following techniques:
+
+- Parrot
+
+Paraphrase framework that modifies the syntax of the phrase
+
+- Eda
+
+Tool that uses WordNet and allows replacing words with synonyms, executing random insertions, 
+random swaps and random deletion
+
+- No Context
+
+Technique that systematically replaces all non stopwords with all their synonyms found in WordNet 
+
+- First Best Wup
+
+Technique that replaces non stopwords with their best synonym found in WordNet.
+The best synonym is the synonym with the higher scoring 
+calculated using the ```wup_similarity()``` method provided by WordNet.
+
+- Second Best Wup
+
+Technique that replaces non stopwords with their second best synonym found in WordNet.
+The second best synonym is the synonym with the second higher scoring 
+calculated using the ```wup_similarity()``` method provided by WordNet.
+
+- First Best w2v
+
+Technique that replaces non stopwords with their best synonym found in WordNet.
+The best synonym is the synonym with the higher scoring 
+calculated using the ```similarity()``` method provided by KeyedVectors from gensim.models.keyedvectors.
+
+- Second Best w2v
+
+Technique that replaces non stopwords with their second best synonym found in WordNet.
+The second best synonym is the synonym with the second higher scoring 
+calculated using the ```similarity()``` method provided by KeyedVectors from gensim.models.keyedvectors.
+
+- Hyper w2v
+
+Technique that replaces non stopwords with their best hypernym found in WordNet.
+The best hypernym is the hypernym with the higher scoring 
+calculated using the ```similarity()``` method provided by KeyedVectors from gensim.models.keyedvectors.
+
+- Hypon w2v
+
+Technique that replaces non stopwords with their best hyponym found in WordNet.
+The best hyponym is the hyponym with the higher scoring 
+calculated using the ```similarity()``` method provided by KeyedVectors from gensim.models.keyedvectors.
+
+## Gui
+
+In order to generate the paraphrased requirements file, the user must follow these steps:
+
+![](gui_1.png)
+
+- choose a file through the button **Browse**
+- choose a technique and its configurable parameters through the button **Configure**
+- process the file through the button **Run**
+
+![](gui_2.png)
+
+- modify one or more output phrases **clicking** on it
+- select one or more output phrases through the **checkboxes**
+- if you want to save the selected phrases 
+  - click on **Save**
+- if you want to process again the selected phrases
+  - choose a technique and its configurable parameters through the button **ReConfigure**
+  - click on **Run**
+
+### Configurable Parameters
+
+For each technique the user can configure some parameters: 
+the user can run the algorithm with the default (and recommended) configuration 
+clicking on the button **Ok**,
+**otherwise** the user can change the values of the parameters
+
+- Parrot
+
+![](Parrot.png)
+
+- Eda
+
+![](Eda.png)
+
+- No Context
+
+![](No_Context.png)
+
+- Others
+
+![](Configure_Best.png)
+
+
 ## Installation
 
 Create a **Virtual Environment** and activate it.
-
 
 To install all **Required Libraries** run the following command:
 ```
