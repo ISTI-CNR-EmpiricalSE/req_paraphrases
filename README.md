@@ -58,6 +58,13 @@ Technique that replaces non stopwords with their best hyponym found in WordNet.
 The best hyponym is the hyponym with the higher scoring 
 calculated using the ```similarity()``` method provided by KeyedVectors from gensim.models.keyedvectors.
 
+***Reccomended***
+
+Process the requirements using **Parrot** to modify the _syntax_ and then reprocess the outputs using
+**Second Best w2v** to modify the _vocabulary_. To add even more lexical diversity reprocess the outputs 
+using **Hyper w2v** technique.
+
+
 ## Gui
 
 In order to generate the paraphrased requirements file, the user must follow these steps:
