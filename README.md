@@ -136,6 +136,8 @@ and n-max phrases are returned. (0,100)
 
 Install **Anaconda**.
 
+Install **pip**.
+
 Create a **Virtual Environment** and activate it.
 
 To install all **Required Libraries** run the following command:
