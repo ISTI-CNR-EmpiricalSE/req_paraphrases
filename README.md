@@ -146,11 +146,11 @@ and n-max phrases are returned. (0,100)
 
 ## Installation
 
-Install **Anaconda**.
+Install **Anaconda** at this [link](https://docs.anaconda.com/anaconda/install/index.html).
 
-Install **pip**.
+Install **pip** at this [link](https://pip.pypa.io/en/stable/installation/).
 
-Create a **Virtual Environment** and activate it.
+Create a **Virtual Environment** and activate it. A guide can be found at this [link](https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/26/python-virtual-env/).
 
 To install all **Required Libraries** run the following command:
 ```
@@ -168,5 +168,5 @@ Open the **Python's interactive shell** by running `python` and then type the fo
 ```
 Exit the shell by running `quit()`.
 
-Eventually, download the **Model** that can be found to this 
+Eventually, download the **model** that can be found at this 
 [link](http://doi.org/10.5281/zenodo.1199620) into the directory **project**.
