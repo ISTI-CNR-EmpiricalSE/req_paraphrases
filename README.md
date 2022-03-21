@@ -78,7 +78,9 @@ In order to generate the paraphrased requirements file, the user must follow the
 - choose a technique and its configurable parameters through the button **Configure**.
 - process the file through the button **Run**.
 
-![](images/gui_2.png)
+<p align="center">
+  <img src="images/gui_2.png" />
+</p>
 
 - modify one or more output phrases **clicking** on it.
 - select one or more output phrases through the **checkboxes**.
@@ -101,8 +103,10 @@ clicking on the button **Ok**,
   - **do_diverse** makes the output phrase more diverse from the original (True, False)
   - **adequacy_threshold** is the coefficient of how much the meaning of the output phrase is close to the original (0,10)
   - **fluency_threshold** is the coefficient of how much the output phrase is fluent in english (0,10)
-
-![](images/Parrot.png)
+  
+<p align="center">
+  <img src="images/Parrot.png" />
+</p>
 
 - Eda
   - **alpha_sr** is the replacement coefficient (0,10)
@@ -110,14 +114,18 @@ clicking on the button **Ok**,
   - **alpha_rs** is the swap coefficent (0,10)
   - **alpha_rd** is the deletion coefficient (0,10)
   - **num_aug** is the maximum number of genereted sentences (0,10)
-
-![](images/Eda.png)
+  
+<p align="center">
+  <img src="images/Eda.png" />
+</p>
 
 - No Context
 
 Check **always_subst** if you only want to make replacements with synonyms different from the original word.
 
-![](images/No_Context.png)
+<p align="center">
+  <img src="images/No_Context.png" />
+</p>
 
 - Others
 
@@ -131,8 +139,9 @@ the original terms of the phrase.
 replaced (with their best/second best synonym/hypernym/hyponym), in the i-th phrase i replacements are made 
 and n-max phrases are returned. (0,100)
 
-
-![](images/Configure_Best.png)
+<p align="center">
+  <img src="images/Configure_Best.png" />
+</p>
 
 
 ## Installation
