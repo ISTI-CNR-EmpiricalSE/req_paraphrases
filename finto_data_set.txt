@@ -1,3 +1,3 @@
-INPUT 1
-INPUT 2
-INPUT 3
+The system shall refresh the display every 60 seconds.
+The application shall match the color of the schema set forth by Department of Homeland Security
+If projected  the data must be readable

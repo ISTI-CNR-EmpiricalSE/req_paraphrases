@@ -69,7 +69,10 @@ using **Hyper w2v** technique.
 
 In order to generate the paraphrased requirements file, the user must follow these steps:
 
-![](images/gui_1.png)
+<p align="center">
+  <img src="images/gui_1.png" />
+</p>
+
 
 - choose a file through the button **Browse**.
 - choose a technique and its configurable parameters through the button **Configure**.
