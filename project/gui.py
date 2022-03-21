@@ -3,6 +3,7 @@ from pathlib import Path
 import os
 import threading
 
+# techniques
 import parrot_executor
 import eda_executor
 import no_context_executor
@@ -19,8 +20,20 @@ SYMBOL_DOWN = '▼'
 sg.theme('DarkTeal12')
 
 
-def configure_parrot(max_return_phrases, do_diverse, adequacy_threshold, fluency_threshold, parameters_list):
+def configure_parrot(max_return_phrases: int, do_diverse: bool, adequacy_threshold: float, fluency_threshold: float,
+                     parameters_list: list):
+    """
+    Function that sets the parameters of Parrot
+    :param max_return_phrases: Parrot argument max_return_phrases
+    :param do_diverse: Parrot argument do_diverse
+    :param adequacy_threshold: Parrot argument adequacy_threshold
+    :param fluency_threshold: Parrot argument fluency_threshold
+    :param parameters_list: list of parameters passed to the algorithm executor
+    :return:
+    """
+
     sg.theme('DarkGreen1')
+
     layout_conf = [
         [sg.Text('max_return_phrases ='), sg.Input("15", key='-MAX_RETURN_PHRASES-')],
         [sg.Text('do_diverse =        '), sg.Input("True", key='-DO_DIVERSE-')],
@@ -29,13 +42,17 @@ def configure_parrot(max_return_phrases, do_diverse, adequacy_threshold, fluency
         [sg.Button('Ok')]
     ]
     window_conf = sg.Window('Parameters', layout_conf)
+
     while True:
 
         event, values = window_conf.read()
 
         if event == sg.WIN_CLOSED:
             break
+
         if event == 'Ok':
+            # current values are saved checking they are legal
+
             if (window_conf['-MAX_RETURN_PHRASES-'].get()).isdigit():
                 if 0 <= int(window_conf['-MAX_RETURN_PHRASES-'].get()) <= 15:
                     max_return_phrases = int(window_conf['-MAX_RETURN_PHRASES-'].get())
@@ -71,16 +88,31 @@ def configure_parrot(max_return_phrases, do_diverse, adequacy_threshold, fluency
 
             if max_return_phrases is not None and do_diverse is not None and \
                     adequacy_threshold is not None and fluency_threshold is not None:
+                # if all values are legal, put it in the list and close the window
+
                 parameters_list.append(max_return_phrases)
                 parameters_list.append(do_diverse)
                 parameters_list.append(adequacy_threshold)
                 parameters_list.append(fluency_threshold)
 
-                window_conf.close()  # se uno di questi è None finestra non si chiude, lo devi cambiare e mettere None
+                window_conf.close()
 
 
-def configure_eda(alpha_sr, alpha_ri, alpha_rs, alpha_rd, num_aug, parameters_list):
+def configure_eda(alpha_sr: float, alpha_ri: float, alpha_rs: float, alpha_rd: float, num_aug: int,
+                  parameters_list: list):
+    """
+    Function that sets the parameters of Eda
+    :param alpha_sr: Eda argument max_return_phrases
+    :param alpha_ri: Eda argument do_diverse
+    :param alpha_rs: Eda argument adequacy_threshold
+    :param alpha_rd: Eda argument fluency_threshold
+    :param num_aug: Eda argument num_aug
+    :param parameters_list: list of parameters passed to the algorithm executor
+    :return:
+    """
+
     sg.theme('DarkGreen1')
+
     layout_conf = [
         [sg.Text('alpha_sr = '), sg.Input("1", key='-ALPHA_SR-')],
         [sg.Text('alpha_ri = '), sg.Input("0", key='-ALPHA_RI-')],
@@ -90,13 +122,17 @@ def configure_eda(alpha_sr, alpha_ri, alpha_rs, alpha_rd, num_aug, parameters_li
         [sg.Button('Ok')]
     ]
     window_conf = sg.Window('Parameters', layout_conf)
+
     while True:
 
         event, values = window_conf.read()
 
         if event == sg.WIN_CLOSED:
             break
+
         if event == 'Ok':
+            # current values are saved checking they are legal
+
             if (window_conf['-ALPHA_SR-'].get()).isdigit():
                 if 0 <= int(window_conf['-ALPHA_SR-'].get()) <= 10:
                     if int(window_conf['-ALPHA_SR-'].get()) == 0:
@@ -147,43 +183,64 @@ def configure_eda(alpha_sr, alpha_ri, alpha_rs, alpha_rd, num_aug, parameters_li
 
             if alpha_sr is not None and alpha_ri is not None and \
                     alpha_rs is not None and alpha_rd is not None and num_aug is not None:
+                # if all values are legal, put it in the list and close the window
+
                 parameters_list.append(alpha_sr)
                 parameters_list.append(alpha_ri)
                 parameters_list.append(alpha_rs)
                 parameters_list.append(alpha_rd)
                 parameters_list.append(num_aug)
 
-                window_conf.close()  # se uno di questi è None finestra non si chiude, lo devi cambiare e mettere None
+                window_conf.close()
 
 
-def configure_no_context(always_subst, parameters_list):
+def configure_no_context(always_subst: bool, parameters_list: list):
+    """
+    :param always_subst: no_context_executor_func argument
+    :param parameters_list: list of parameters passed to the algorithm executor
+    :return:
+    """
+
     sg.theme('DarkGreen1')
+
     layout_conf = [
         [sg.Text('always_subst', enable_events=True, text_color='black', k='-ALWAYS_SUBST_TEXT-', size=(15, 2)),
          sg.Checkbox('', enable_events=True, key='-ALWAYS_SUBST_CHECK_BOX-')],
         [sg.Button('Ok')]
     ]
     window_conf = sg.Window('Parameters', layout_conf)
+
     while True:
 
         event, values = window_conf.read()
 
         if event == sg.WIN_CLOSED:
             break
+
         if event == 'Ok':
+            # current values are saved checking they are legal
+
             if values['-ALWAYS_SUBST_CHECK_BOX-'] is True:
                 always_subst = True
             else:
                 always_subst = False
 
             if always_subst is not None:
+                # if all values are legal, put it in the list and close the window
+
                 parameters_list.append(always_subst)
 
                 window_conf.close()  # se uno di questi è None finestra non si chiude, lo devi cambiare e mettere None
 
 
-def configure_best(syn_vs_synsets, syn_vs_term, n_max, parameters_list):
-
+def configure_best(syn_vs_synsets: bool, syn_vs_term: bool, n_max: int, parameters_list: list):
+    """
+    :param syn_vs_synsets: argument of the executor
+    :param syn_vs_term: argument of the executor
+    :param n_max: argument of the executor
+    :param parameters_list: list of parameters passed to the algorithm executor
+    :return:
+    """
     sg.theme('DarkGreen1')
 
     layout_conf = [
@@ -194,7 +251,6 @@ def configure_best(syn_vs_synsets, syn_vs_term, n_max, parameters_list):
         [sg.Text('n_max = '), sg.Input("100", key='-N_MAX-', size=(30, 2))],
         [sg.Button('Ok')]
     ]
-
     window_conf = sg.Window('Parameters', layout_conf)
 
     while True:
@@ -203,11 +259,16 @@ def configure_best(syn_vs_synsets, syn_vs_term, n_max, parameters_list):
 
         if event == sg.WIN_CLOSED:
             break
+
         if event == '-SYN_VS_SYNSETS_CHECK_BOX-':
             window_conf['-SYN_VS_TERM_CHECK_BOX-'].update(False)
+
         if event == '-SYN_VS_TERM_CHECK_BOX-':
             window_conf['-SYN_VS_SYNSETS_CHECK_BOX-'].update(False)
+
         if event == 'Ok':
+            # current values are saved checking they are legal
+
             if not values['-SYN_VS_SYNSETS_CHECK_BOX-'] and not values['-SYN_VS_TERM_CHECK_BOX-']:
                 popup_message('You have to choose between syn_vs_synsets or syn_vs term')
             elif values['-SYN_VS_SYNSETS_CHECK_BOX-']:
@@ -225,11 +286,13 @@ def configure_best(syn_vs_synsets, syn_vs_term, n_max, parameters_list):
                 popup_message('n_max must be an integer')
 
             if syn_vs_synsets is not None and syn_vs_term is not None and n_max is not None:
+                # if all values are legal, put it in the list and close the window
+
                 parameters_list.append(syn_vs_synsets)
                 parameters_list.append(syn_vs_term)
                 parameters_list.append(n_max)
 
-                window_conf.close()  # se uno di questi è None finestra non si chiude, lo devi cambiare e mettere None
+                window_conf.close()
 
 
 def collapse(layout, key):
@@ -243,7 +306,12 @@ def collapse(layout, key):
     return sg.pin(sg.Column(layout, key=key))
 
 
-def popup_message(text):
+def popup_message(text: str):
+    """
+    Helper function that shows a message in error case
+    :param text: text displayed in the popup window
+    :return:
+    """
     sg.theme('DarkRed1')
     layout = [
 
@@ -352,7 +420,8 @@ def popup_output(dict, input_list, conf, past_conf, old_window):
                        sg.Text(i, enable_events=True, text_color='black', k='INPUT_TEXT_' + str(count), size=(150, 1)),
                        sg.Checkbox('', enable_events=True, key='CHECKBOX_IN_' + str(count))]]
         section += [[sg.Input(dict[i][j], k='OUTPUT_TEXT_' + str(count) + "." + str(j), size=(150, 1)),
-                     sg.Checkbox('', enable_events=True, key='CHECKBOX_OUT_' + str(count) + "." + str(j))] for j in range(len(dict[i]))]
+                     sg.Checkbox('', enable_events=True, key='CHECKBOX_OUT_' + str(count) + "." + str(j))] for j in
+                    range(len(dict[i]))]
         layout_in += [[collapse(section, 'SEC_' + str(count))]]
         # layout_in += section
 
@@ -433,7 +502,7 @@ def popup_output(dict, input_list, conf, past_conf, old_window):
                 always_subst = None
                 configure_no_context(always_subst, parameters_list)
 
-            elif reconf == 'First_Best_wup' or reconf == 'Second_Best_wup' or\
+            elif reconf == 'First_Best_wup' or reconf == 'Second_Best_wup' or \
                     reconf == 'First_Best_w2v' or reconf == 'Second_Best_w2v' or \
                     reconf == 'Hyper_w2v' or reconf == 'Hypon_w2v':
                 syn_vs_synsets = None
@@ -444,8 +513,10 @@ def popup_output(dict, input_list, conf, past_conf, old_window):
         if event == 'ReRun':
 
             if reconf is None:
-
                 popup_message("You have to choose a configuration")
+
+            if not parameters_list:
+                popup_message("You have to choose parameters and click Ok")
 
             else:
 
@@ -634,8 +705,8 @@ def paraphrase_gui():
         if event == sg.WIN_CLOSED or event == 'Exit':
             break
 
-        if event == 'Parrot' or event == 'Eda' or event == 'No_Context' or\
-                event == 'First_Best_wup' or event == 'Second_Best_wup' or\
+        if event == 'Parrot' or event == 'Eda' or event == 'No_Context' or \
+                event == 'First_Best_wup' or event == 'Second_Best_wup' or \
                 event == 'First_Best_w2v' or event == 'Second_Best_w2v' or \
                 event == 'Hyper_w2v' or event == 'Hypon_w2v':
             conf = values['-CONF-']
@@ -662,7 +733,6 @@ def paraphrase_gui():
                 always_subst = None
                 configure_no_context(always_subst, parameters_list)
 
-
             elif conf == 'First_Best_wup' or conf == 'Second_Best_wup' or \
                     conf == 'First_Best_w2v' or conf == 'Second_Best_w2v' or \
                     conf == 'Hyper_w2v' or conf == 'Hypon_w2v':
@@ -675,6 +745,9 @@ def paraphrase_gui():
 
             if conf is None:
                 popup_message('You have to choose a configuration')
+
+            if not parameters_list:
+                popup_message("You have to choose parameters and click Ok")
 
             else:
 
