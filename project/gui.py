@@ -23,7 +23,7 @@ sg.theme('DarkTeal12')
 def configure_parrot(max_return_phrases: int, do_diverse: bool, adequacy_threshold: float, fluency_threshold: float,
                      parameters_list: list):
     """
-    Function that sets the parameters of Parrot
+    Helper function that sets the parameters of Parrot
     :param max_return_phrases: Parrot argument max_return_phrases
     :param do_diverse: Parrot argument do_diverse
     :param adequacy_threshold: Parrot argument adequacy_threshold
@@ -101,7 +101,7 @@ def configure_parrot(max_return_phrases: int, do_diverse: bool, adequacy_thresho
 def configure_eda(alpha_sr: float, alpha_ri: float, alpha_rs: float, alpha_rd: float, num_aug: int,
                   parameters_list: list):
     """
-    Function that sets the parameters of Eda
+    Helper function that sets the parameters of Eda
     :param alpha_sr: Eda argument max_return_phrases
     :param alpha_ri: Eda argument do_diverse
     :param alpha_rs: Eda argument adequacy_threshold
@@ -196,6 +196,7 @@ def configure_eda(alpha_sr: float, alpha_ri: float, alpha_rs: float, alpha_rd: f
 
 def configure_no_context(always_subst: bool, parameters_list: list):
     """
+    Helper function that sets the parameters of no_context technique
     :param always_subst: no_context_executor_func argument
     :param parameters_list: list of parameters passed to the algorithm executor
     :return:
@@ -235,12 +236,15 @@ def configure_no_context(always_subst: bool, parameters_list: list):
 
 def configure_best(syn_vs_synsets: bool, syn_vs_term: bool, n_max: int, parameters_list: list):
     """
+    Helper function that sets the parameters of first_best_wup, second_best_wup, first_best_w2v, second_best_w2v,
+    hyper_w2v, hypon_w2v techniques
     :param syn_vs_synsets: argument of the executor
     :param syn_vs_term: argument of the executor
     :param n_max: argument of the executor
     :param parameters_list: list of parameters passed to the algorithm executor
     :return:
     """
+
     sg.theme('DarkGreen1')
 
     layout_conf = [
@@ -303,6 +307,7 @@ def collapse(layout, key):
     :return: A pinned column that can be placed directly into your layout
     :rtype: sg.pin
     """
+
     return sg.pin(sg.Column(layout, key=key))
 
 
@@ -312,6 +317,7 @@ def popup_message(text: str):
     :param text: text displayed in the popup window
     :return:
     """
+
     sg.theme('DarkRed1')
     layout = [
 
@@ -326,7 +332,13 @@ def popup_message(text: str):
     window.close()
 
 
-def popup_text(filename, text):
+def popup_text(filename: str, text: str):
+    """
+    Helper function that shows the text contained in filename
+    :param text: text of the file
+    :param filename: name of the file
+    """
+
     sg.theme('DarkTeal12')
     layout = [
 
@@ -346,8 +358,8 @@ def popup_text(filename, text):
 def execute(conf, parameters_list, filename, window):
     """
     Helper function that runs the method selected
-    :param parameters_list: list of configurable parameters for the algorithm
     :param conf: method selected
+    :param parameters_list: list of configurable parameters for the algorithm
     :param filename: file on which we run the method
     :param window: old window that will be closed by the function popup_output
     """
@@ -358,6 +370,7 @@ def execute(conf, parameters_list, filename, window):
     # the algorithm will return a dictionary {input_line: list_of_output_lines}
     output_dict = {}
 
+    # setting the right executor
     if conf == 'Parrot':
         executor_func = parrot_executor.parrot_executor_func
     elif conf == 'Eda':
@@ -378,10 +391,9 @@ def execute(conf, parameters_list, filename, window):
         executor_func = hypon_w2v_executor.hypon_w2v_executor_func
 
     thread_id = threading.Thread(target=executor_func, args=(filename, parameters_list, output_dict), daemon=True)
-    print("Avvio thread...")
+    print("Avvio thread " + conf + "...")
     thread_id.start()
     thread_id.join()
-    # output_dict = {'As a Data user, I want to have the 12-19-2017 deletions processed.': [('as a data user i want to have the deletions processed from 12-19-2017 i have', 46), ('as user i want to have the deletions processed from 12-19-2017', 46), ('as user i want to have the deletions processed on 12-19-2017', 44), ('as a data user i want to have the deletions processed on 19 december 2017', 43), ('if i am a data user i want to have the deletions processed from 12 to 19 2017', 42), ('as a data user i want to have the deletions processed from 12-19-2017', 39), ('if i am a data user i want to have the deletions processed from 12-19-2017', 39), ('if i am a data user i want to have the deletions processed on 12-19-2017', 37), ('as a data user i want to have the deletions processed on 12-19-2017', 37)], 'As a UI designer, I want to redesign the Resources page, so that it matches the new Broker design styles.': [('i would like to redesign the resources page as a ui designer so that it matches the new broker design styles', 48), ('the resources page should be redesigned as a ui designer so that it matches the new broker design styles', 48), ('i would like to redesign the resources page so that it matches the new broker design style', 32), ('i would like to redesign the resources page so that it matches the new broker design styles', 31), ('as a ui designer i want to redesign the resources page so that it matches the new broker design styles i have', 19), ('as a ui designer i want to redesign the resources page so it matches the new broker design styles', 18), ('as a ui designer i want to redesign the resources page so that it matches the new broker design style', 14), ('as a ui designer i want to redesign the resources page so that it matches the new broker design styles ', 13), ('as a ui designer i want to redesign the resources page so that it matches the new broker design styles', 13)], 'As a UI designer, I want to report to the Agencies about user testing, so that they are aware of their contributions to making Broker a better UX.': [('my job is to report to the agencies about user testing so that they are aware of their contributions to making broker a better ux i also want to', 46), ('my role is to report to the agencies about user testing so that they are aware of their contributions to making broker a better ux experience', 41), ('my job is to report to the agencies about user testing so that they are aware of their contributions to making broker a better ux i want to', 41), ('my role is to report to the agencies about user testing so that they are aware of their contributions to making broker a better ux i want to', 40), ('my role is to report to the agencies about user testing so that they are aware of their contributions to broker a better ux', 38), ('my role is to report to the agencies about user testing so that they are aware of their contribution to making broker a better ux', 32), ('my job is to report to the agencies about user testing so that they are aware of their contributions to making broker a better ux', 32), ('my role is to report to the agencies about user testing so that they are aware of their contributions to making broker a better ux', 31), ('as a ui designer i want to report to the agencies about user testing so they are aware of their contributions to making broker a better ux', 18), ('as a ui designer i want to report to the agencies about user testing so that they are aware of their contributions to making broker a better ux', 13)], 'As a FABS user, I want to submit a citywide as a PPoPZIP and pass validations.': [('if i want to submit a citywide as ppopzip and pass validations as a fabs user', 42), ('as a fabs user i want to submit a citywide ppopzip and pass validations', 18), ('if i am a fabs user i want to submit a citywide ppopzip and pass validations', 18)], 'As a Data user, I want to have the 12-19-2017 deletions.': [('as a data user i want to have the deletions processed from 12-19-2017 i have', 46), ('as user i want to have the deletions processed from 12-19-2017', 46), ('as user i want to have the deletions processed on 12-19-2017', 44), ('as a data user i want to have the deletions processed on 19 december 2017', 43), ('if i am a data user i want to have the deletions processed from 12 to 19 2017', 42), ('as a data user i want to have the deletions processed from 12-19-2017', 39), ('if i am a data user i want to have the deletions processed from 12-19-2017', 39), ('if i am a data user i want to have the deletions processed on 12-19-2017', 37), ('as a data user i want to have the deletions processed on 12-19-2017', 37)], 'As a Data user, I want to have the 12-19-2017 .': [('as a data user i want to have the deletions processed from 12-19-2017 i have', 46), ('as user i want to have the deletions processed from 12-19-2017', 46), ('as user i want to have the deletions processed on 12-19-2017', 44), ('as a data user i want to have the deletions processed on 19 december 2017', 43), ('if i am a data user i want to have the deletions processed from 12 to 19 2017', 42), ('as a data user i want to have the deletions processed from 12-19-2017', 39), ('if i am a data user i want to have the deletions processed from 12-19-2017', 39), ('if i am a data user i want to have the deletions processed on 12-19-2017', 37), ('as a data user i want to have the deletions processed on 12-19-2017', 37)], 'As a Data user, I to have the 12-19-2017 deletions processed.': [('as a data user i want to have the deletions processed from 12-19-2017 i have', 46), ('as user i want to have the deletions processed from 12-19-2017', 46), ('as user i want to have the deletions processed on 12-19-2017', 44), ('as a data user i want to have the deletions processed on 19 december 2017', 43), ('if i am a data user i want to have the deletions processed from 12 to 19 2017', 42), ('as a data user i want to have the deletions processed from 12-19-2017', 39), ('if i am a data user i want to have the deletions processed from 12-19-2017', 39), ('if i am a data user i want to have the deletions processed on 12-19-2017', 37), ('as a data user i want to have the deletions processed on 12-19-2017', 37)], 'user, I want to have the 12-19-2017 deletions processed.': [('as a data user i want to have the deletions processed from 12-19-2017 i have', 46), ('as user i want to have the deletions processed from 12-19-2017', 46), ('as user i want to have the deletions processed on 12-19-2017', 44), ('as a data user i want to have the deletions processed on 19 december 2017', 43), ('if i am a data user i want to have the deletions processed from 12 to 19 2017', 42), ('as a data user i want to have the deletions processed from 12-19-2017', 39), ('if i am a data user i want to have the deletions processed from 12-19-2017', 39), ('if i am a data user i want to have the deletions processed on 12-19-2017', 37), ('as a data user i want to have the deletions processed on 12-19-2017', 37)], 'As a Data user, I want to have the -2017 deletions processed.': [('as a data user i want to have the deletions processed from 12-19-2017 i have', 46), ('as user i want to have the deletions processed from 12-19-2017', 46), ('as user i want to have the deletions processed on 12-19-2017', 44), ('as a data user i want to have the deletions processed on 19 december 2017', 43), ('if i am a data user i want to have the deletions processed from 12 to 19 2017', 42), ('as a data user i want to have the deletions processed from 12-19-2017', 39), ('if i am a data user i want to have the deletions processed from 12-19-2017', 39), ('if i am a data user i want to have the deletions processed on 12-19-2017', 37), ('as a data user i want to have the deletions processed on 12-19-2017', 37)]}
     print(output_dict)
 
     past_conf = None
@@ -396,10 +408,21 @@ def execute(conf, parameters_list, filename, window):
     popup_output(output_dict, input_list, conf, past_conf, window)
 
 
-def popup_output(dict, input_list, conf, past_conf, old_window):
+def popup_output(dict: dict, input_list: list, conf: str, past_conf: str, old_window):
+    """
+    Function that displays the output phrases and allows to modify, save and rerun
+    :param dict: dictionary {input_1: [output_1.1, output_1.2...], input_2...}
+    :param input_list: list of the keys of the dictionary (if two input phrases are equal they are counted only once)
+    :param conf: configuration just ran (we need it for the name of the saved file)
+    :param past_conf: configurations ran before (we need it for the name of the saved file)
+    :param old_window: precedent output window
+    :return:
+    """
+
     sg.theme('DarkTeal12')
 
     if old_window is not None:
+        # if present, the precedent output window will be closed
         old_window.close()
 
     count_rows = 0
@@ -410,11 +433,11 @@ def popup_output(dict, input_list, conf, past_conf, old_window):
         for j in range(len(dict[i])):
             count_rows = count_rows + 1
 
-    # creo lo spazio all'inizio e poi aggiorno
     layout_in = [[]]
 
     count = 0
     for i in input_list:
+        # creating layout_in which is the layout for the outputs
         section = [[]]
         layout_in += [[sg.Text(SYMBOL_DOWN, enable_events=True, k='OPEN_' + str(count), text_color='black'),
                        sg.Text(i, enable_events=True, text_color='black', k='INPUT_TEXT_' + str(count), size=(150, 1)),
@@ -423,7 +446,6 @@ def popup_output(dict, input_list, conf, past_conf, old_window):
                      sg.Checkbox('', enable_events=True, key='CHECKBOX_OUT_' + str(count) + "." + str(j))] for j in
                     range(len(dict[i]))]
         layout_in += [[collapse(section, 'SEC_' + str(count))]]
-        # layout_in += section
 
         count = count + 1
 
@@ -435,6 +457,7 @@ def popup_output(dict, input_list, conf, past_conf, old_window):
         ]
     ]
 
+    #  layout for buttons and for outputs
     layout = [
         [sg.MenubarCustom(conf_def, key='-RECONF-')],
         [sg.Text("Selected Configuration:             ", key='-SELECTED CONFIGURATION-')],
@@ -468,9 +491,6 @@ def popup_output(dict, input_list, conf, past_conf, old_window):
 
         if event == sg.WIN_CLOSED or event == 'Exit':
             break
-
-        # conf è conf vecchia, reconf è conf nuova
-        # se lo richiamo da qua infatti reconf va al posto del parametro conf
 
         if event == 'Parrot' or event == 'Eda' or event == 'No_Context' or \
                 event == 'First_Best_wup' or event == 'Second_Best_wup' or \
@@ -521,19 +541,20 @@ def popup_output(dict, input_list, conf, past_conf, old_window):
             else:
 
                 selected_count = 0
+
                 for i in range(len(input_list)):
                     if values['CHECKBOX_IN_' + str(i)] is True:
                         selected_count = selected_count + 1
                     for j in range(len(dict[input_list[i]])):
                         if values['CHECKBOX_OUT_' + str(i) + '.' + str(j)] is True:
                             selected_count = selected_count + 1
+
                 if selected_count == 0:
                     popup_message("You have to select some items")
 
                 else:
-
-                    # salvi file rerun, devi dargli nome con configurazione vecchia
-                    # potresti dare nome in base a conf
+                    # save a file just for rerun, the name of the file contains the name of past ran configurations
+                    # and the file does not contains 'Input Phrase:'
                     if past_conf is not None:
                         output_file = open(conf + "_" + past_conf + "_rerun.txt", "w")
                     else:
@@ -541,17 +562,17 @@ def popup_output(dict, input_list, conf, past_conf, old_window):
                     for i in range(len(input_list)):
                         if values['CHECKBOX_IN_' + str(i)] is True:
                             i_line = window['INPUT_TEXT_' + str(i)].get()
-                            # se ci sono come output frasi vuote non le riscrivi in file per rerun perché algoritmo che le prcoessa (in particolare Eda) potrebbe avere problemi
-                            # se frasi vuote ci sono le scrivi però in file salvato finale (su cui non devi fare rerun) perché comunque sono risultati
-                            if len(i_line.strip()) != 0:  # senza spazi bianchi
-                                if "\n" in i_line:  # non vuoi andare a capo due volte
+                            # you don't want empty lines in rerun file
+                            if len(i_line.strip()) != 0:
+                                if "\n" in i_line:
                                     output_file.write(i_line)
                                 else:
                                     output_file.write(i_line + "\n")
                         for j in range(len(dict[input_list[i]])):
                             if values['CHECKBOX_OUT_' + str(i) + '.' + str(j)] is True:
                                 o_line = window['OUTPUT_TEXT_' + str(i) + '.' + str(j)].get()
-                                if len(o_line.strip()) != 0:  # senza spazi bianchi
+                                # you don't want empty lines in rerun file
+                                if len(o_line.strip()) != 0:
                                     if "\n" in o_line:
                                         output_file.write(o_line)
                                     else:
@@ -565,6 +586,7 @@ def popup_output(dict, input_list, conf, past_conf, old_window):
 
                     filename = files[0]
 
+                    # you run the chosen configuration on rerun file
                     execute(reconf, parameters_list, filename, window)
 
         if event == 'Save':
@@ -580,8 +602,9 @@ def popup_output(dict, input_list, conf, past_conf, old_window):
                 popup_message("You have to select some items")
 
             else:
+                # save file with output, the name of the file contains the name of past ran configurations
+                # and the file does contains 'Input Phrase:'
                 output_file_index = output_file_index + 1
-                # potresti dare nome in base a conf
                 if past_conf is not None:
                     output_file = open(conf + "_" + past_conf + "_output_file_" + str(output_file_index) + ".txt", "w")
                 else:
@@ -589,14 +612,15 @@ def popup_output(dict, input_list, conf, past_conf, old_window):
                 for i in range(len(input_list)):
                     if values['CHECKBOX_IN_' + str(i)] is True:
                         i_line = window['INPUT_TEXT_' + str(i)].get()
-                        # se ci sono frasi vuote le vuoi scrivere, siamo in risultati finali, non in rerun
-                        if "\n" in i_line:  # non vuoi andare a capo due volte
+                        # you want empty lines, it is a result
+                        if "\n" in i_line:
                             output_file.write("Input Phrase: " + i_line)
                         else:
                             output_file.write("Input Phrase: " + i_line + "\n")
                     for j in range(len(dict[input_list[i]])):
                         if values['CHECKBOX_OUT_' + str(i) + '.' + str(j)] is True:
                             o_line = window['OUTPUT_TEXT_' + str(i) + '.' + str(j)].get()
+                            # you want empty lines, it is a result
                             if len(o_line.strip()) == 0:
                                 output_file.write("Empty line\n")
                             elif "\n" in o_line:
@@ -670,6 +694,11 @@ def popup_output(dict, input_list, conf, past_conf, old_window):
 
 
 def paraphrase_gui():
+    """
+    Function that starts the gui and allows to load a file, open it, configure the technique, run the method
+    :return:
+    """
+
     sg.theme('DarkTeal12')
 
     conf_def = [
@@ -681,12 +710,10 @@ def paraphrase_gui():
     ]
 
     layout = [
-
         [sg.MenubarCustom(conf_def, key='-CONF-')],  # inside the variable values['-CONF-'] you have the algorithm name
         [sg.Text("Selected Configuration:             ", key='-SELECTED CONFIGURATION-')],
         [sg.Text("Choose a file: "), sg.Input(key='-INPUT-'), sg.FileBrowse()],
         [sg.T("               "), sg.Button('Run'), sg.Button("Open"), sg.Button('Exit')]
-
     ]
 
     window = sg.Window('Text Paraphrase', layout)
@@ -709,6 +736,7 @@ def paraphrase_gui():
                 event == 'First_Best_wup' or event == 'Second_Best_wup' or \
                 event == 'First_Best_w2v' or event == 'Second_Best_w2v' or \
                 event == 'Hyper_w2v' or event == 'Hypon_w2v':
+
             conf = values['-CONF-']
             window['-SELECTED CONFIGURATION-'].update("Selected Configuration: " + conf)
 
@@ -745,7 +773,6 @@ def paraphrase_gui():
 
             if conf is None:
                 popup_message('You have to choose a configuration')
-
             if not parameters_list:
                 popup_message("You have to choose parameters and click Ok")
 
@@ -753,16 +780,14 @@ def paraphrase_gui():
 
                 if filename is None:
                     popup_message("You have to choose a file")
-
                 else:
+                    # you run the chosen configuration on file
                     execute(conf, parameters_list, filename, None)
 
         if event == 'Open':
 
             if filename is None:
-
                 popup_message("You have to choose a file")
-
             else:
                 if Path(filename).is_file():
                     try:
