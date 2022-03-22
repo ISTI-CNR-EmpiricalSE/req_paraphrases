@@ -6,53 +6,54 @@ from nltk import map_tag
 from nltk.corpus import wordnet
 from spacy_wordnet.wordnet_annotator import WordnetAnnotator
 
+nlp = spacy.load('en')
+nlp.add_pipe(WordnetAnnotator(nlp.lang), after='tagger')
 
-def no_context_executor_func(filename, parameters_list, output_dict):
-    """Function that replaces the non stop words found in each sentence with the all synonyms found with worndet
-        Produce an output file that is put inside the directory results, inside the directory of the relative dataset
-        Format of the input file: results_file_index.txt (which was the output of parrot_test_func)
-        Format of the output file: results_data_set_index_wordnet.txt
+stpwrd = nltk.corpus.stopwords.words('english')
+new_stopwords = ["an", "ss", "I", "to", "in", "so", "that", "and", "-", "_", ",", ";", ".", ":", "?", "!"]
+stpwrd.extend(new_stopwords)
+
+
+def no_context_executor_func(filename: str, parameters_list: list, output_dict: dict):
     """
-    always_subst = parameters_list[0]
-
-    nlp = spacy.load('en')
-
-    nlp.add_pipe(WordnetAnnotator(nlp.lang), after='tagger')
-
-    stpwrd = nltk.corpus.stopwords.words('english')
-    new_stopwords = ["an", "ss", "I", "to", "in", "so", "that", "and", "-", "_", ",", ";", ".", ":", "?", "!"]
-    stpwrd.extend(new_stopwords)
+    Function that systematically and non contextually replaces the non stop words found in each sentence with the all
+    synonyms found with WordNet
+    If the flag always_subst in the list of parameters configured by the user is set to True synonyms equal to the
+    original word are not put in the list of synonyms, so a term will always be replaced by a different word, obtaining
+    more variation.
+    :param filename: name of the input file
+    :param parameters_list: list of parameters configured by the user [always_subst]
+    :param output_dict: dictionary that will contain the outputs {input_1: [output_1.1, output_1.2...], input_2...}
+    :return:
+    """
+    always_subst = parameters_list[0]   # configurable (default: False)
 
     tic0 = time.perf_counter()
 
     input_file = open(filename, "r")
     phrases = input_file.read().splitlines()
+
     for phrase in phrases:
+
         tokens = word_tokenize(phrase)
-        print(tokens)
 
         tagged_tokens = nltk.pos_tag(tokens)
-        print(tagged_tokens)
+
         simplified_tagged_tokens = [(word, map_tag('en-ptb', 'universal', tag)) for word, tag in tagged_tokens]
-        print(simplified_tagged_tokens)
 
         phrases_list = []
+
         for s_tagged_token in simplified_tagged_tokens:
-            # replace synonym only of words that are not stopwords
+
             token_text = s_tagged_token[0]
-            print(token_text)
             token_pos = s_tagged_token[1]
-            print(token_pos)
 
             if (token_text.lower() not in stpwrd) and \
                 (token_pos == "NOUN" or token_pos == "VERB" or token_pos == "ADJ" or token_pos == "ADV") and \
                     not token_text.isnumeric():
-                # wordnet object link spacy token with nltk wordnet interface by giving access to synonyms
+                # replace synonym only of words that are not stopwords
 
                 syns_dirty = wordnet.synsets(token_text)
-
-                print(syns_dirty)
-                print("\n")
 
                 syns_clean = []
 
@@ -67,7 +68,7 @@ def no_context_executor_func(filename, parameters_list, output_dict):
                     # insert synonym in final list only if :
                     # if absent from the final list
                     found = False
-                    if always_subst:  # non lo uso se è uguale a parola originale, significa che parole cambiano sempre
+                    if always_subst:  # insert synonym only if it's different from original
                         if synonym == token_text.lower():
                             found = True
                         if synonym[:len(synonym) - 1] == token_text.lower():

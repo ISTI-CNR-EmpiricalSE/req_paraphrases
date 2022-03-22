@@ -411,7 +411,7 @@ def execute(conf, parameters_list, filename, window):
 def popup_output(dict: dict, input_list: list, conf: str, past_conf: str, old_window):
     """
     Function that displays the output phrases and allows to modify, save and rerun
-    :param dict: dictionary {input_1: [output_1.1, output_1.2...], input_2...}
+    :param dict: dictionary that contains the outputs {input_1: [output_1.1, output_1.2...], input_2...}
     :param input_list: list of the keys of the dictionary (if two input phrases are equal they are counted only once)
     :param conf: configuration just ran (we need it for the name of the saved file)
     :param past_conf: configurations ran before (we need it for the name of the saved file)

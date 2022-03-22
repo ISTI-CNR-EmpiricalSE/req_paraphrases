@@ -129,7 +129,7 @@ Check **always_subst** if you only want to make replacements with synonyms diffe
 
 - Others
 
-Check **syn_vs_synsets** if you want to calculate the score of each synonym/hypernym/hyponym by comparing it with both ù
+Check **syn_vs_synsets** if you want to calculate the score of each synonym/hypernym/hyponym by comparing it with both 
 the original terms of the phrase and their synonyms.
 
 Check **syn_vs_term** if you want to calculate the score of each synonym/hypernym/hyponym by comparing it only with 
