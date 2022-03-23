@@ -5,6 +5,33 @@
 req_paraphrases is an application that generates paraphrases of software requirements 
 using different techniques.
 
+## Installation
+
+Install **Anaconda** at this [link](https://docs.anaconda.com/anaconda/install/index.html).
+
+Install **pip** at this [link](https://pip.pypa.io/en/stable/installation/).
+
+Create a **Virtual Environment** and activate it. A guide can be found at this [link](https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/26/python-virtual-env/).
+
+To install all **Required Libraries** run the following command:
+```
+./installation.sh
+```
+
+Open the **Python's interactive shell** by running `python` and then type the following commands:
+```
+>>> import nltk
+>>> nltk.download('stopwords')
+>>> nltk.download('punkt')
+>>> nltk.download('averaged_perceptron_tagger')
+>>> nltk.download('universal_tagset')
+>>> nltk.download('wordnet')
+```
+Exit the shell by running `quit()`.
+
+Download the **model** that can be found at this 
+[link](http://doi.org/10.5281/zenodo.1199620) into the directory **project**.
+
 ## Techniques
 
 The user can generate the paraphrased requirements choosing between the following techniques:
@@ -142,31 +169,3 @@ and n-max phrases are returned. (0,100)
 <p align="center">
   <img src="images/Configure_Best.png" />
 </p>
-
-
-## Installation
-
-Install **Anaconda** at this [link](https://docs.anaconda.com/anaconda/install/index.html).
-
-Install **pip** at this [link](https://pip.pypa.io/en/stable/installation/).
-
-Create a **Virtual Environment** and activate it. A guide can be found at this [link](https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/26/python-virtual-env/).
-
-To install all **Required Libraries** run the following command:
-```
-./installation.sh
-```
-
-Open the **Python's interactive shell** by running `python` and then type the following commands:
-```
->>> import nltk
->>> nltk.download('stopwords')
->>> nltk.download('punkt')
->>> nltk.download('averaged_perceptron_tagger')
->>> nltk.download('universal_tagset')
->>> nltk.download('wordnet')
-```
-Exit the shell by running `quit()`.
-
-Eventually, download the **model** that can be found at this 
-[link](http://doi.org/10.5281/zenodo.1199620) into the directory **project**.
