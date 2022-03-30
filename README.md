@@ -169,3 +169,8 @@ and n-max phrases are returned. (0,100)
 <p align="center">
   <img src="images/Configure_Best.png" />
 </p>
+
+## Runtime
+
+Se a runtime si dovessero presentare problemi di memoria, incrementare la swap memory seguendo 
+questa guida [link](https://www.digitalocean.com/community/tutorials/how-to-add-swap-space-on-ubuntu-20-04)
