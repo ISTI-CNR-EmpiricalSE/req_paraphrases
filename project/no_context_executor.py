@@ -5,6 +5,7 @@ from nltk.tokenize import word_tokenize
 from nltk import map_tag
 from nltk.corpus import wordnet
 from spacy_wordnet.wordnet_annotator import WordnetAnnotator
+import time
 
 nlp = spacy.load('en')
 nlp.add_pipe(WordnetAnnotator(nlp.lang), after='tagger')
@@ -26,9 +27,9 @@ def no_context_executor_func(filename: str, parameters_list: list, output_dict: 
     :param output_dict: dictionary that will contain the outputs {input_1: [output_1.1, output_1.2...], input_2...}
     :return:
     """
+    tic = time.perf_counter()
     always_subst = parameters_list[0]   # configurable (default: False)
 
-    tic0 = time.perf_counter()
 
     input_file = open(filename, "r")
     phrases = input_file.read().splitlines()
@@ -88,28 +89,66 @@ def no_context_executor_func(filename: str, parameters_list: list, output_dict: 
                 print("\n")
                 # it returns as many phrases as many synonyms have the word that has more synonyms in the phrase
                 # until it finds synonyms it keeps substituting them
-                phrases_list_tmp = []
-                phrases_list_iterator = []
-                for phrase_iter in phrases_list:
-                    phrases_list_iterator.append(phrase_iter)
-                for old_phrase in phrases_list_iterator:
-                    if len(syns_clean) > 0:
-                        old_phrase_tmp = old_phrase
-                        new_phrase = old_phrase_tmp.replace(token_text, syns_clean[0])
-                        phrases_list_tmp.append(new_phrase)
-                        phrases_list.remove(old_phrase_tmp)
+                if not always_subst:
+                    phrases_list_tmp = []
+                    phrases_list_iterator = []
+                    for phrase_iter in phrases_list:
+                        phrases_list_iterator.append(phrase_iter)
+                    for old_phrase in phrases_list_iterator:
+                        if len(syns_clean) > 0:
+                            old_phrase_tmp = old_phrase
+                            new_phrase = old_phrase_tmp.replace(token_text, syns_clean[0])
+                            phrases_list_tmp.append(new_phrase)
+                            phrases_list.remove(old_phrase_tmp)
+                            syns_clean.pop(0)
+                    if phrases_list_tmp:
+                        if len(phrases_list) == 0:
+                            phrases_list = phrases_list_tmp
+                        else:
+                            phrases_list = phrases_list + phrases_list_tmp
+                    while syns_clean:
+                        phrase_res = phrase.replace(token_text, syns_clean[0])
+                        phrases_list.append(phrase_res)
                         syns_clean.pop(0)
-                if phrases_list_tmp:
-                    if len(phrases_list) == 0:
-                        phrases_list = phrases_list_tmp
-                    else:
-                        phrases_list = phrases_list + phrases_list_tmp
-                while syns_clean:
-                    phrase_res = phrase.replace(token_text, syns_clean[0])
-                    phrases_list.append(phrase_res)
-                    syns_clean.pop(0)
+
+                elif always_subst:
+                    print("here")
+                    phrase_res = phrase
+                    phrases_list_tmp = []
+                    phrases_list_iterator = []
+                    for phrase_iter in phrases_list:
+                        phrases_list_iterator.append(phrase_iter)
+                    for old_phrase in phrases_list_iterator:
+                        if len(syns_clean) > 0:
+                            old_phrase_tmp = old_phrase
+                            new_phrase = old_phrase_tmp.replace(token_text, syns_clean[0])
+                            phrases_list_tmp.append(new_phrase)
+                            phrases_list.remove(old_phrase_tmp)
+                            token_text = syns_clean.pop(0)
+                    if phrases_list_tmp:
+                        if len(phrases_list) == 0:
+                            phrases_list = phrases_list_tmp
+                        else:
+                            phrases_list = phrases_list + phrases_list_tmp
+                    while syns_clean:
+                        if phrases_list:
+                            phrase_res = phrases_list[-1].replace(token_text, syns_clean[0])
+                            phrases_list.append(phrase_res)
+                        else:
+                            phrase_res = phrase_res.replace(token_text, syns_clean[0])
+                            phrases_list.append(phrase_res)
+                        token_text = syns_clean.pop(0)
 
         output_dict[phrase] = phrases_list
 
-    toc0 = time.perf_counter()
+    toc = time.perf_counter()
+    print(f"{toc - tic:0.4f} seconds")
 
+
+if __name__ == "__main__":
+    dict = {}
+    tic = time.perf_counter()
+    no_context_executor_func("../finto_data_set.txt", [True], dict)
+    toc = time.perf_counter()
+    print(f"{toc - tic:0.4f} seconds")
+    print(dict)

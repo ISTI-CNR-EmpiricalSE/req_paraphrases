@@ -1,4 +1,5 @@
 import eda_nlp.data.code.augment as augment_function
+import time
 
 
 def eda_executor_func(filename: str, parameters_list: list, output_dict: dict):
@@ -23,3 +24,13 @@ def eda_executor_func(filename: str, parameters_list: list, output_dict: dict):
 
     # call gen_eda
     augment_function.gen_eda(filename, output_dict, alpha_sr, alpha_ri, alpha_rs, alpha_rd, num_aug)
+
+
+'''
+if __name__ == "__main__":
+    dict = {}
+    tic = time.perf_counter()
+    eda_executor_func("../finto_data_set.txt", [0.1,0,0,0,9], dict)
+    toc = time.perf_counter()
+    print(f"{toc - tic:0.4f} seconds")
+'''
